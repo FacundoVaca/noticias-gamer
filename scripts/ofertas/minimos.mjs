@@ -11,7 +11,7 @@ const ITAD_STEAM = 61; // id de Steam en IsThereAnyDeal
 
 const pedir = async (url, opciones = {}) => {
   const r = await fetch(url, { ...opciones, signal: AbortSignal.timeout(30000) });
-  if (!r.ok) throw new Error(`HTTP ${r.status} en ${url.split("?")[0]}`);
+  if (!r.ok) throw new Error(`HTTP ${r.status} en ${url.split("?")[0]}: ${(await r.text().catch(() => "")).slice(0, 160)}`);
   return r.json();
 };
 const idTienda = (g) => String(g.id).split(":").slice(1).join(":");
@@ -32,7 +32,8 @@ async function steamITAD(juegos, clave) {
     for (const [shopId, uuid] of pares) {
       const l = porUuid.get(uuid);
       if (l?.price?.amount != null) out[`steam:${shopId.replace(/^app\//, "")}`] = {
-        precio: +l.price.amount, moneda: l.price.currency, fecha: l.timestamp || null, fuente: "IsThereAnyDeal" };
+        precio: +l.price.amount, moneda: l.price.currency, regular: l.regular?.amount != null ? +l.regular.amount : null,
+        fecha: l.timestamp || null, fuente: "IsThereAnyDeal" };
     }
   }
   return out;
@@ -42,7 +43,18 @@ async function epicCheapShark(juegos) {
   const out = {};
   const ids = juegos.map((g) => idTienda(g).replace(/^cs/, ""));
   for (const lote of trozos(ids, 25)) {
-    const datos = await pedir(`https://www.cheapshark.com/api/1.0/games?ids=${lote.join(",")}`);
+    let datos;
+    try { datos = await pedir(`https://www.cheapshark.com/api/1.0/games?ids=${lote.join(",")}`); }
+    catch (err) {
+      // Si la consulta de varios juegos falla, se piden de a uno
+      log(`CheapShark (lote): ${err.message}. Se consulta de a uno.`);
+      datos = {};
+      for (const id of lote) {
+        try { datos[id] = await pedir(`https://www.cheapshark.com/api/1.0/games?id=${id}`); }
+        catch (e) { log(`CheapShark ${id}: ${e.message}`); }
+        await new Promise((r) => setTimeout(r, 400));
+      }
+    }
     for (const [id, d] of Object.entries(datos || {})) {
       const c = d?.cheapestPriceEver;
       if (c?.price != null) out[`epic:cs${id}`] = {
@@ -56,7 +68,8 @@ async function epicCheapShark(juegos) {
 // Agrega g.minHist a cada juego con un mínimo conocido en la misma moneda. Nunca lanza errores.
 export async function agregarMinimos(juegos) {
   const cache = leerJSON(ARCHIVO, {});
-  const viejo = (id) => !cache[id] || Date.now() - new Date(cache[id].consultado).getTime() > VIGENCIA_MS;
+  const viejo = (id) => !cache[id] || Date.now() - new Date(cache[id].consultado).getTime() > VIGENCIA_MS
+    || (cache[id].fuente === "IsThereAnyDeal" && cache[id].regular === undefined); // formato anterior, sin precio regular
   const ahora = new Date().toISOString();
   const pendientes = (filtro) => juegos.filter((g) => filtro(g) && viejo(g.id) && !g.gratis);
   const fuentes = [];
@@ -74,7 +87,11 @@ export async function agregarMinimos(juegos) {
   guardarJSON(ARCHIVO, cache);
   for (const g of juegos) {
     const m = cache[g.id];
-    if (m && m.moneda === g.moneda && m.precio > 0) g.minHist = { precio: m.precio, fecha: m.fecha, fuente: m.fuente };
+    if (!m || !(m.precio > 0)) continue;
+    if (m.moneda === g.moneda) g.minHist = { precio: m.precio, fecha: m.fecha, fuente: m.fuente };
+    // IsThereAnyDeal convierte los precios de Steam Argentina a pesos con su propia cotización. Para mostrarlo en la
+    // moneda de la tienda se usa la proporción entre el mínimo y el precio regular, que es la misma en las dos monedas.
+    else if (m.regular > 0 && g.original > 0) g.minHist = { precio: Math.round(m.precio / m.regular * g.original * 100) / 100, fecha: m.fecha, fuente: m.fuente };
   }
   return juegos;
 }
