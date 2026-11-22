@@ -1,4 +1,4 @@
-// Portadas: 1) generada con Gemini, 2) foto libre de Pexels, 3) portada gráfica propia.
+// Portadas: generada con Gemini, foto libre de Pexels o Pixabay, o portada gráfica propia.
 // Nunca se usan imágenes de los medios de origen.
 import fs from "node:fs";
 import path from "node:path";
@@ -59,6 +59,22 @@ async function buscarPexels(consulta) {
   };
 }
 
+async function buscarPixabay(consulta) {
+  const clave = process.env.PIXABAY_API_KEY;
+  if (!clave || !consulta) return null;
+  const q = new URLSearchParams({ key: clave, q: consulta.slice(0, 100), image_type: "photo", orientation: "horizontal", safesearch: "true", per_page: "10", min_width: "1200" });
+  const r = await fetch(`https://pixabay.com/api/?${q}`);
+  if (!r.ok) throw new Error(`Pixabay HTTP ${r.status}`);
+  const fotos = (await r.json()).hits || [];
+  if (!fotos.length) return null;
+  const f = fotos[Math.floor(Math.random() * Math.min(5, fotos.length))];
+  // Pixabay no permite enlazar sus imágenes en forma permanente: se descargan y se sirven desde el sitio.
+  return {
+    buffer: await traer(f.largeImageURL || f.webformatURL, { tipo: "buffer" }),
+    credito: { texto: `Imagen de ${f.user} en Pixabay`, url: f.pageURL },
+  };
+}
+
 // Guarda public/img/<slug>.(webp|jpg|png|svg) y devuelve { archivo, origen, credito }
 let geminiImagenSinCupo = false;
 
@@ -85,6 +101,9 @@ export async function crearPortada(nota, cfg) {
       } else if (metodo === "pexels") {
         const foto = await buscarPexels(nota.busquedaImagen);
         if (foto) return await guardar(foto.buffer, "pexels", foto.credito);
+      } else if (metodo === "pixabay") {
+        const foto = await buscarPixabay(nota.busquedaImagen);
+        if (foto) return await guardar(foto.buffer, "pixabay", foto.credito);
       } else if (metodo === "portada") {
         const svg = portadaSVG(nota.titulo, nota.categoria, cfg.categorias[nota.categoria] || "Noticias", cfg.sitio.nombre, W, H);
         return await guardar(Buffer.from(svg), "portada");

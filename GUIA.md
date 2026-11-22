@@ -10,7 +10,7 @@ Cada 3 horas, GitHub Actions corre `scripts/actualizar.mjs`:
 4. **Controles de calidad**: si la nota es muy corta (menos de 320 palabras) o repite frases textuales de las fuentes (más del 6%), le pide que la reescriba una vez; si vuelve a fallar, la descarta.
 5. **Portada** (nunca se usan imágenes de los medios), en este orden:
    - Ilustración generada por Gemini (si tu cuenta tiene cupo de generación de imágenes).
-   - Foto libre de **Pexels**, con crédito al fotógrafo (si cargás la clave gratuita).
+   - Foto libre de **Pixabay** o **Pexels**, descargada y servida desde el sitio, con crédito al autor (si cargás la clave gratuita).
    - Portada gráfica propia con el título y el color de la plataforma (siempre funciona).
 6. **No repite noticias**: cada tema publicado se recuerda 4 días. Si otro medio publica lo mismo, no se escribe una nota nueva.
 7. **Actualiza notas**: si aparece una fuente nueva sobre un tema ya publicado, Gemini compara con lo que ya dice la nota. Si trae datos concretos nuevos (fecha, precio, confirmación, cifra), agrega arriba un recuadro **"Actualización"** con la fecha, suma la fuente al pie y cambia la fecha de modificación. Si solo repite lo mismo, no toca nada. Como máximo 1 actualización por corrida y cada nota se actualiza como mucho cada 3 horas.
@@ -24,14 +24,15 @@ Cada nota incluye al pie los enlaces a todas sus fuentes y una aclaración de qu
 1. Entrá a https://aistudio.google.com/apikey con tu cuenta de Google y tocá **Create API key**.
 2. **No la pegues en ningún chat.** Va directo a GitHub (paso 3).
 
-### 2. Clave de Pexels (opcional, gratis)
-Para tener fotos reales cuando Gemini no pueda generar imágenes: https://www.pexels.com/api/ → **Get started** → copiá la API key.
+### 2. Clave de Pixabay (opcional, gratis)
+Para tener fotos reales cuando Gemini no pueda generar imágenes: creá una cuenta en https://pixabay.com, entrá a https://pixabay.com/api/docs/ y copiá tu clave (aparece en la sección "Parameters", campo `key`). Se carga como secreto `PIXABAY_API_KEY`.
+(Pexels también funciona con el secreto `PEXELS_API_KEY`, pero por ahora no está dando claves nuevas.)
 
 ### 3. Repositorio en GitHub
 1. Creá un repositorio nuevo (por ejemplo `noticias-gamer`) y subí todo el contenido de esta carpeta (incluida la carpeta oculta `.github`).
 2. En el repo: **Settings → Secrets and variables → Actions → New repository secret**:
    - `GEMINI_API_KEY` = tu clave de Gemini
-   - `PEXELS_API_KEY` = tu clave de Pexels (opcional)
+   - `PIXABAY_API_KEY` = tu clave de Pixabay (opcional)
 3. **Settings → Actions → General → Workflow permissions** → marcá **Read and write permissions** → Save.
 
 ### 4. Cloudflare Pages
@@ -56,7 +57,7 @@ El código de tu cuenta (`ca-pub-1697004556284286`) ya está en todas las págin
 | `publicacion.maxActualizacionesPorCorrida` / `horasEntreActualizaciones` | Cuántas notas viejas se actualizan por corrida (1) y cada cuánto como mínimo (3 h). `0` las apaga. |
 | `publicacion.minPalabras`, `maxCopiaLiteral` | Controles de calidad. |
 | `ia.modelosTexto` | Modelos de Gemini a usar, en orden. Si Google cambia los nombres, se actualizan acá. |
-| `imagenes.orden` | Orden de las fuentes de portada: `gemini`, `pexels`, `portada`. |
+| `imagenes.orden` | Orden de las fuentes de portada: `gemini`, `pixabay`, `pexels`, `portada`. |
 | `feeds` | Lista de medios. Podés agregar o sacar cualquiera que tenga RSS. |
 
 Para editar: abrí el archivo en GitHub, tocá el lápiz, cambiá el valor y **Commit changes**.
