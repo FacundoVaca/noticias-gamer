@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T21:21:57.837Z",
+  "actualizado": "2026-11-22T21:24:36.270Z",
   "dolar": {
     "tarjeta": 2080,
     "oficial": 1600,
@@ -13,8 +13,8 @@
     },
     "epic": {
       "ok": true,
-      "cantidad": 181,
-      "fecha": "2026-11-22T21:20:38.121Z"
+      "cantidad": 180,
+      "fecha": "2026-11-22T21:24:30.686Z"
     },
     "xbox": {
       "ok": true,
@@ -49,33 +49,7 @@
         "orden": 0,
         "proximamente": true
       },
-      "visto": "2026-11-22T21:20:37.841Z",
-      "minimo": null,
-      "dias": 0,
-      "desde": null
-    },
-    {
-      "id": "epic:f0a333114190492c84a9decd2bb43875",
-      "tienda": "epic",
-      "titulo": "Bread and Fred",
-      "slug": "bread-and-fred",
-      "url": "https://store.epicgames.com/es-ES/p/bread-and-fred-1db362",
-      "imagen": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
-      "plataformas": [
-        "PC"
-      ],
-      "precio": 0,
-      "original": 5.49,
-      "moneda": "USD",
-      "descuento": 100,
-      "gratis": true,
-      "fin_oferta": "2026-12-03T16:00:00.000Z",
-      "extra": {
-        "desde": "2026-11-26T16:00:00.000Z",
-        "orden": 1,
-        "proximamente": true
-      },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": null,
       "dias": 0,
       "desde": null
@@ -98,9 +72,9 @@
       "fin_oferta": "2026-11-26T16:00:00.000Z",
       "extra": {
         "desde": "2026-11-19T16:00:00.000Z",
-        "orden": 2
+        "orden": 1
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -123,12 +97,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 3
+        "orden": 2
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.49,
+        "fecha": "2024-11-19T16:43:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs262908",
@@ -148,12 +127,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 4
+        "orden": 3
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2026-04-23T16:11:18.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs278533",
@@ -173,12 +157,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 5
+        "orden": 4
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2026-02-17T00:46:59.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs250301",
@@ -198,12 +187,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 6
+        "orden": 5
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.91,
+        "fecha": "2026-11-19T20:44:48.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs251698",
@@ -223,12 +217,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 7
+        "orden": 6
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.99,
+        "fecha": "2026-11-17T18:12:10.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs252842",
@@ -248,12 +247,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 8
+        "orden": 7
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.91,
+        "fecha": "2026-11-19T20:44:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs269918",
@@ -273,12 +277,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 9
+        "orden": 8
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.89,
+        "fecha": "2026-02-09T16:37:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs293628",
@@ -298,12 +307,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 10
+        "orden": 9
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.99,
+        "fecha": "2026-07-16T15:52:21.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs256278",
@@ -323,12 +337,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 11
+        "orden": 10
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.49,
+        "fecha": "2024-11-19T16:45:50.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs254394",
@@ -348,12 +367,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 12
+        "orden": 11
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.29,
+        "fecha": "2026-02-09T16:40:24.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs251768",
@@ -373,12 +397,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 13
+        "orden": 12
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.99,
+        "fecha": "2024-03-14T15:51:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs276159",
@@ -398,12 +427,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 14
+        "orden": 13
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 11.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 11.99,
+        "fecha": "2026-11-17T18:06:38.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs293850",
@@ -423,12 +457,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 15
+        "orden": 14
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 12.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.74,
+        "fecha": "2025-11-18T16:56:24.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283725",
@@ -448,12 +487,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 16
+        "orden": 15
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 13.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.99,
+        "fecha": "2026-02-09T16:34:53.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs320573",
@@ -473,12 +517,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 17
+        "orden": 16
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 14.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 14.99,
+        "fecha": "2026-09-17T10:49:45.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283120",
@@ -498,12 +547,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 18
+        "orden": 17
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 23.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 23.99,
+        "fecha": "2026-09-03T03:20:32.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs270984",
@@ -523,12 +577,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 19
+        "orden": 18
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 15.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 13.49,
+        "fecha": "2025-09-04T15:14:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs310180",
@@ -548,12 +607,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 20
+        "orden": 19
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 17.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 17.99,
+        "fecha": "2026-11-17T17:45:50.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs284777",
@@ -573,12 +637,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 21
+        "orden": 20
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 21.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 21.99,
+        "fecha": "2026-11-17T17:54:45.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs254431",
@@ -598,12 +667,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 22
+        "orden": 21
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 22.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.99,
+        "fecha": "2026-02-09T16:39:37.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs233327",
@@ -623,12 +697,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 23
+        "orden": 22
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 24.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9,
+        "fecha": "2026-09-15T08:53:38.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs313114",
@@ -648,9 +727,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 24
+        "orden": 23
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -673,13 +752,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 25,
+        "orden": 24,
         "metacritic": 75
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.49,
+        "fecha": "2026-08-10T18:38:04.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs251813",
@@ -699,12 +783,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 26
+        "orden": 25
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 29.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 10.8,
+        "fecha": "2026-09-15T08:44:18.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs282327",
@@ -724,13 +813,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 27,
+        "orden": 26,
         "metacritic": 74
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.99,
+        "fecha": "2026-10-01T20:35:14.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs284776",
@@ -750,12 +844,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 28
+        "orden": 27
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 32.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 29.25,
+        "fecha": "2026-04-30T09:08:51.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs334611",
@@ -775,12 +874,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 29
+        "orden": 28
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.96,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.96,
+        "fecha": "2026-11-22T16:49:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs278361",
@@ -800,12 +904,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 30
+        "orden": 29
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 26.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 26.99,
+        "fecha": "2025-09-04T15:13:47.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290408",
@@ -825,13 +934,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 31,
+        "orden": 30,
         "metacritic": 68
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.49,
+        "fecha": "2026-08-10T18:39:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs150371",
@@ -851,13 +965,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 32,
+        "orden": 31,
         "metacritic": 60
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.95,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.54,
+        "fecha": "2025-10-08T00:05:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs221179",
@@ -877,13 +996,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 33,
+        "orden": 32,
         "metacritic": 74
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2022-11-22T18:10:41.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs333332",
@@ -903,12 +1027,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 34
+        "orden": 33
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 29.69,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 29.69,
+        "fecha": "2026-11-17T17:33:46.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs332997",
@@ -928,12 +1057,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 35
+        "orden": 34
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.99,
+        "fecha": "2026-11-12T16:28:37.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs299085",
@@ -953,13 +1087,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 36,
+        "orden": 35,
         "metacritic": 85
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 19.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 19.59,
+        "fecha": "2026-11-17T17:46:22.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs191568",
@@ -979,10 +1118,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 37,
+        "orden": 36,
         "metacritic": 83
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -1005,12 +1144,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 38
+        "orden": 37
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 38.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 38.49,
+        "fecha": "2026-11-17T17:33:46.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs272238",
@@ -1030,13 +1174,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 39,
+        "orden": 38,
         "metacritic": 75
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2026-10-01T19:16:23.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs316758",
@@ -1056,12 +1205,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 40
+        "orden": 39
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.99,
+        "fecha": "2025-09-04T09:32:09.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs247436",
@@ -1081,12 +1235,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 41
+        "orden": 40
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.49,
+        "fecha": "2025-05-26T12:46:46.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs256330",
@@ -1106,13 +1265,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 42,
+        "orden": 41,
         "metacritic": 87
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 19.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 19.59,
+        "fecha": "2026-11-17T17:48:41.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs142480",
@@ -1132,12 +1296,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 43
+        "orden": 42
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 1.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2025-06-19T15:15:10.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs173498",
@@ -1157,12 +1326,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 44
+        "orden": 43
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 1.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2025-02-10T16:27:28.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs133547",
@@ -1182,12 +1356,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 45
+        "orden": 44
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 1.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2025-02-10T16:27:28.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs178985",
@@ -1207,10 +1386,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 46,
+        "orden": 45,
         "metacritic": 79
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.79,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -1233,12 +1412,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 47
+        "orden": 46
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2026-11-21T09:16:33.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs332363",
@@ -1258,12 +1442,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 48
+        "orden": 47
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-11-12T15:16:30.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs332361",
@@ -1283,12 +1472,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 49
+        "orden": 48
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.89,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.89,
+        "fecha": "2026-11-12T15:16:31.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs302182",
@@ -1308,13 +1502,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 50,
+        "orden": 49,
         "metacritic": 78
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.99,
+        "fecha": "2026-05-14T15:22:54.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs171791",
@@ -1334,10 +1533,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 51,
+        "orden": 50,
         "metacritic": 79
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.24,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -1360,13 +1559,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 52,
+        "orden": 51,
         "metacritic": 64
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.99,
+        "fecha": "2021-08-01T16:25:13.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs311357",
@@ -1386,12 +1590,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 53
+        "orden": 52
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.59,
+        "fecha": "2026-11-17T17:44:53.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs258359",
@@ -1411,12 +1620,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 54
+        "orden": 53
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2025-12-11T17:06:13.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs281561",
@@ -1436,12 +1650,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 55
+        "orden": 54
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2025-03-08T16:56:02.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs177753",
@@ -1461,13 +1680,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 56,
+        "orden": 55,
         "metacritic": 69
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.99,
+        "fecha": "2026-10-01T01:37:26.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283207",
@@ -1487,12 +1711,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 57
+        "orden": 56
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.99,
+        "fecha": "2026-02-26T18:31:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs268450",
@@ -1512,12 +1741,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 58
+        "orden": 57
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.98,
+        "fecha": "2026-10-23T08:35:57.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs281083",
@@ -1537,12 +1771,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 59
+        "orden": 58
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.58,
+        "fecha": "2026-09-13T23:05:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs289831",
@@ -1562,12 +1801,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 60
+        "orden": 59
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.36,
+        "fecha": "2026-11-19T20:46:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs277610",
@@ -1587,12 +1831,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 61
+        "orden": 60
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2026-08-06T15:41:34.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs278002",
@@ -1612,12 +1861,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 62
+        "orden": 61
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.99,
+        "fecha": "2026-08-06T15:43:09.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs274252",
@@ -1637,12 +1891,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 63
+        "orden": 62
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.51,
+        "fecha": "2026-08-24T10:18:53.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs274260",
@@ -1662,12 +1921,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 64
+        "orden": 63
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.51,
+        "fecha": "2026-11-20T00:58:20.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs250666",
@@ -1687,12 +1951,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 65
+        "orden": 64
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.56,
+        "fecha": "2026-04-10T09:48:02.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs243245",
@@ -1712,10 +1981,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 66,
+        "orden": 65,
         "metacritic": 86
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -1738,12 +2007,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 67
+        "orden": 66
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.7,
+        "fecha": "2026-10-01T20:19:31.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs333665",
@@ -1763,12 +2037,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 68
+        "orden": 67
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.09,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.09,
+        "fecha": "2026-11-17T17:36:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283789",
@@ -1788,12 +2067,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 69
+        "orden": 68
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.58,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.58,
+        "fecha": "2025-12-11T17:01:09.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs144434",
@@ -1813,12 +2097,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 70
+        "orden": 69
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.89,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-11-19T16:43:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs253529",
@@ -1838,13 +2127,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 71,
+        "orden": 70,
         "metacritic": 71
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.1,
+        "fecha": "2026-11-16T19:10:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs249966",
@@ -1864,10 +2158,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 72,
+        "orden": 71,
         "metacritic": 62
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -1890,12 +2184,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 73
+        "orden": 72
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 51.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 44.15,
+        "fecha": "2026-11-20T01:01:17.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs299879",
@@ -1915,13 +2214,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 74,
+        "orden": 73,
         "metacritic": 79
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.43,
+        "fecha": "2026-10-02T20:33:58.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs282160",
@@ -1941,13 +2245,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 75,
+        "orden": 74,
         "metacritic": 70
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.05,
+        "fecha": "2026-11-20T00:58:51.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs279405",
@@ -1967,12 +2276,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 76
+        "orden": 75
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.99,
+        "fecha": "2023-12-05T18:09:05.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs169834",
@@ -1992,12 +2306,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 77
+        "orden": 76
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-11-19T16:43:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs171531",
@@ -2017,12 +2336,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 78
+        "orden": 77
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-08-05T15:52:13.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs287613",
@@ -2042,10 +2366,10 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 79,
+        "orden": 78,
         "metacritic": 81
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 13.49,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -2068,12 +2392,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 80
+        "orden": 79
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.94,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.28,
+        "fecha": "2025-07-20T13:52:40.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs205664",
@@ -2093,13 +2422,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 81,
+        "orden": 80,
         "metacritic": 53
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.39,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.06,
+        "fecha": "2024-03-14T19:24:33.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290895",
@@ -2119,12 +2453,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 82
+        "orden": 81
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.69,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.69,
+        "fecha": "2025-12-11T16:58:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs261408",
@@ -2144,12 +2483,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 83
+        "orden": 82
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2026-02-26T18:31:31.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290894",
@@ -2169,12 +2513,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 84
+        "orden": 83
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2025-12-11T16:58:48.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290900",
@@ -2194,12 +2543,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 85
+        "orden": 84
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.84,
+        "fecha": "2025-07-20T13:52:40.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290898",
@@ -2219,12 +2573,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 86
+        "orden": 85
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.04,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.04,
+        "fecha": "2025-12-11T16:58:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs290897",
@@ -2244,12 +2603,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 87
+        "orden": 86
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.49,
+        "fecha": "2025-12-11T16:58:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs276157",
@@ -2269,12 +2633,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 88
+        "orden": 87
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.99,
+        "fecha": "2026-11-17T18:06:38.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283726",
@@ -2294,12 +2663,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 89
+        "orden": 88
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2026-02-09T16:34:54.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs304084",
@@ -2319,12 +2693,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 90
+        "orden": 89
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.23,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.23,
+        "fecha": "2024-11-19T16:43:20.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs308384",
@@ -2344,12 +2723,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 91
+        "orden": 90
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 49.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 44.55,
+        "fecha": "2026-09-15T08:55:57.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs320912",
@@ -2369,12 +2753,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 92
+        "orden": 91
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.13,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.13,
+        "fecha": "2026-03-19T10:18:01.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs292080",
@@ -2394,12 +2783,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 93
+        "orden": 92
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.49,
+        "fecha": "2026-05-14T15:20:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs212535",
@@ -2419,12 +2813,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 94
+        "orden": 93
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.94,
+        "fecha": "2025-09-25T15:33:06.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs311650",
@@ -2444,12 +2843,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 95
+        "orden": 94
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-06-18T15:26:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs307497",
@@ -2469,13 +2873,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 96,
+        "orden": 95,
         "metacritic": 83
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 12.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.49,
+        "fecha": "2026-10-01T20:25:57.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs234269",
@@ -2495,12 +2904,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 97
+        "orden": 96
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.69,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.48,
+        "fecha": "2025-03-03T09:59:43.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs227407",
@@ -2520,12 +2934,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 98
+        "orden": 97
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.99,
+        "fecha": "2026-11-17T17:48:58.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs258060",
@@ -2545,12 +2964,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 99
+        "orden": 98
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.89,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.59,
+        "fecha": "2024-11-27T21:50:29.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs253973",
@@ -2570,12 +2994,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 100
+        "orden": 99
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.39,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.24,
+        "fecha": "2025-12-03T09:25:03.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs250667",
@@ -2595,12 +3024,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 101
+        "orden": 100
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.17,
+        "fecha": "2026-04-10T09:48:02.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs275692",
@@ -2620,13 +3054,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 102,
+        "orden": 101,
         "metacritic": 82
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 1.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.99,
+        "fecha": "2026-10-01T19:12:13.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs306030",
@@ -2646,13 +3085,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 103,
+        "orden": 102,
         "metacritic": 80
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.65,
+        "fecha": "2026-11-20T10:08:53.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs257643",
@@ -2672,12 +3116,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 104
+        "orden": 103
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.39,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.39,
+        "fecha": "2025-10-14T15:23:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs281557",
@@ -2697,12 +3146,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 105
+        "orden": 104
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.93,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.54,
+        "fecha": "2024-01-23T18:04:55.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs270853",
@@ -2722,12 +3176,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 106
+        "orden": 105
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2026-09-03T15:29:24.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs105",
@@ -2747,12 +3206,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 107
+        "orden": 106
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2021-01-18T15:08:02.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs227224",
@@ -2772,12 +3236,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 108
+        "orden": 107
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2025-10-20T18:35:54.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs247223",
@@ -2797,12 +3266,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 109
+        "orden": 108
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-06-20T20:05:36.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs260290",
@@ -2822,12 +3296,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 110
+        "orden": 109
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2025-10-20T18:37:40.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs288123",
@@ -2847,12 +3326,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 111
+        "orden": 110
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2026-06-18T15:29:50.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs297886",
@@ -2872,12 +3356,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 112
+        "orden": 111
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2025-11-13T16:39:34.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs308751",
@@ -2897,13 +3386,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 113,
+        "orden": 112,
         "metacritic": 73
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.65,
+        "fecha": "2026-11-20T10:12:37.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs5575",
@@ -2923,9 +3417,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 114
+        "orden": 113
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -2948,12 +3442,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 115
+        "orden": 114
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.99,
+        "fecha": "2025-11-18T16:57:20.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs338033",
@@ -2973,12 +3472,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 116
+        "orden": 115
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.99,
+        "fecha": "2026-11-20T16:54:16.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs133549",
@@ -2998,12 +3502,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 117
+        "orden": 116
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.39,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2024-11-19T16:43:19.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs256906",
@@ -3023,12 +3532,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 118
+        "orden": 117
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.85,
+        "fecha": "2025-12-23T11:55:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs146387",
@@ -3048,9 +3562,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 119
+        "orden": 118
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -3073,12 +3587,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 120
+        "orden": 119
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.19,
+        "fecha": "2026-06-18T19:29:58.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs265636",
@@ -3098,12 +3617,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 121
+        "orden": 120
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.99,
+        "fecha": "2026-11-17T14:51:21.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs237764",
@@ -3123,9 +3647,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 122
+        "orden": 121
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -3148,12 +3672,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 123
+        "orden": 122
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.24,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.99,
+        "fecha": "2023-12-13T16:35:31.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs292386",
@@ -3173,13 +3702,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 124,
+        "orden": 123,
         "metacritic": 81
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2025-03-13T18:13:41.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs258166",
@@ -3199,12 +3733,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 125
+        "orden": 124
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.59,
+        "fecha": "2026-03-30T16:10:58.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs270770",
@@ -3224,12 +3763,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 126
+        "orden": 125
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.85,
+        "fecha": "2026-06-19T08:29:17.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs282114",
@@ -3249,12 +3793,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 127
+        "orden": 126
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.49,
+        "fecha": "2026-11-20T09:40:29.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs315731",
@@ -3274,12 +3823,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 128
+        "orden": 127
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.99,
+        "fecha": "2026-03-30T15:49:51.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs323269",
@@ -3299,12 +3853,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 129
+        "orden": 128
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.32,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.29,
+        "fecha": "2026-09-24T15:43:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs277992",
@@ -3324,12 +3883,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 130
+        "orden": 129
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.55,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2026-04-10T17:12:18.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs311403",
@@ -3349,12 +3913,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 131
+        "orden": 130
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 3.59,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.59,
+        "fecha": "2026-09-03T15:23:09.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs173466",
@@ -3374,12 +3943,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 132
+        "orden": 131
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.99,
+        "fecha": "2022-12-23T00:07:45.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs266415",
@@ -3399,12 +3973,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 133
+        "orden": 132
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 11.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 11.99,
+        "fecha": "2026-11-17T17:37:19.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs288579",
@@ -3424,12 +4003,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 134
+        "orden": 133
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 11.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.4,
+        "fecha": "2024-11-21T19:34:55.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs294105",
@@ -3449,12 +4033,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 135
+        "orden": 134
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.89,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.89,
+        "fecha": "2026-11-17T17:52:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs242717",
@@ -3474,9 +4063,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 136
+        "orden": 135
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -3499,12 +4088,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 137
+        "orden": 136
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.99,
+        "fecha": "2025-04-10T16:08:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs327459",
@@ -3524,13 +4118,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 138,
+        "orden": 137,
         "metacritic": 70
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.09,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 8.44,
+        "fecha": "2026-11-02T20:55:00.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs284162",
@@ -3550,12 +4149,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 139
+        "orden": 138
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.62,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.62,
+        "fecha": "2024-12-20T01:58:18.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs277506",
@@ -3575,12 +4179,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 140
+        "orden": 139
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 13.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.22,
+        "fecha": "2024-12-31T11:42:43.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs291975",
@@ -3600,12 +4209,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 141
+        "orden": 140
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 13.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.6,
+        "fecha": "2026-09-25T15:24:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs199615",
@@ -3625,9 +4239,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 142
+        "orden": 141
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.94,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -3650,12 +4264,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 143
+        "orden": 142
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.95,
+        "fecha": "2026-11-20T01:00:26.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs284237",
@@ -3675,12 +4294,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 144
+        "orden": 143
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.23,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.23,
+        "fecha": "2026-09-03T15:27:41.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs261307",
@@ -3700,12 +4324,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 145
+        "orden": 144
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.93,
+        "fecha": "2026-01-22T18:15:22.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs287963",
@@ -3725,12 +4354,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 146
+        "orden": 145
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 6.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.7,
+        "fecha": "2026-11-20T00:59:21.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs250077",
@@ -3750,12 +4384,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 147
+        "orden": 146
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.87,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.29,
+        "fecha": "2026-11-17T16:51:14.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs257639",
@@ -3775,12 +4414,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 148
+        "orden": 147
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.66,
+        "fecha": "2025-11-21T14:50:56.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs281005",
@@ -3800,12 +4444,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 149
+        "orden": 148
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.28,
+        "fecha": "2026-11-20T08:50:59.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs288348",
@@ -3825,12 +4474,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 150
+        "orden": 149
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.24,
+        "fecha": "2025-08-07T15:57:39.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs272645",
@@ -3850,12 +4504,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 151
+        "orden": 150
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.95,
+        "fecha": "2026-10-01T19:07:01.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs311847",
@@ -3875,12 +4534,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 152
+        "orden": 151
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.99,
+        "fecha": "2026-11-17T17:44:33.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs254193",
@@ -3900,9 +4564,9 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 153
+        "orden": 152
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
       "desde": "2026-11-22T00:00:00.000Z"
@@ -3925,12 +4589,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 154
+        "orden": 153
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-10-28T14:34:16.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs317995",
@@ -3950,12 +4619,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 155
+        "orden": 154
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-11-17T17:41:27.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs288674",
@@ -3975,12 +4649,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 156
+        "orden": 155
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 11.24,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 10.39,
+        "fecha": "2025-05-23T18:53:03.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs286169",
@@ -4000,12 +4679,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 157
+        "orden": 156
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 11.24,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.06,
+        "fecha": "2025-12-23T10:29:37.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs315363",
@@ -4025,12 +4709,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 158
+        "orden": 157
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 0.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 0.74,
+        "fecha": "2026-04-09T22:51:41.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs261633",
@@ -4050,12 +4739,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 159
+        "orden": 158
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 12.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.49,
+        "fecha": "2026-03-30T16:11:50.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs278757",
@@ -4075,12 +4769,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 160
+        "orden": 159
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 12.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.49,
+        "fecha": "2026-11-17T18:05:45.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs251470",
@@ -4100,12 +4799,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 161
+        "orden": 160
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 3.74,
+        "fecha": "2026-10-01T17:19:00.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs295233",
@@ -4125,12 +4829,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 162
+        "orden": 161
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 4.49,
+        "fecha": "2025-03-04T16:27:11.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs315161",
@@ -4150,12 +4859,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 163
+        "orden": 162
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.89,
+        "fecha": "2026-11-16T16:48:34.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs261631",
@@ -4175,12 +4889,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 164
+        "orden": 163
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2026-03-30T16:11:50.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs276156",
@@ -4200,12 +4919,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 165
+        "orden": 164
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2025-07-20T13:55:27.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs283957",
@@ -4225,12 +4949,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 166
+        "orden": 165
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 5.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 5.99,
+        "fecha": "2025-07-20T13:54:03.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs278500",
@@ -4250,12 +4979,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 167
+        "orden": 166
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 13.8,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 13.8,
+        "fecha": "2026-02-09T16:36:30.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs260530",
@@ -4275,12 +5009,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 168
+        "orden": 167
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 14.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 6.99,
+        "fecha": "2025-12-01T19:12:49.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs287844",
@@ -4300,12 +5039,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 169
+        "orden": 168
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 14.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 12.71,
+        "fecha": "2026-11-19T20:46:25.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs270985",
@@ -4325,12 +5069,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 170
+        "orden": 169
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.99,
+        "fecha": "2025-09-04T15:14:42.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs261506",
@@ -4350,12 +5099,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 171
+        "orden": 170
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 15.74,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.44,
+        "fecha": "2024-12-12T17:54:21.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs282992",
@@ -4375,12 +5129,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 172
+        "orden": 171
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 7.49,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 7.19,
+        "fecha": "2025-11-22T01:01:23.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs331814",
@@ -4400,12 +5159,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 173
+        "orden": 172
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 9.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 9.99,
+        "fecha": "2026-11-12T16:28:54.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs318770",
@@ -4425,12 +5189,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 174
+        "orden": 173
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 4.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-09-30T21:32:09.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs337344",
@@ -4450,12 +5219,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 175
+        "orden": 174
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 2.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2026-11-13T18:39:15.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs275993",
@@ -4475,12 +5249,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 176
+        "orden": 175
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 64.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 40.95,
+        "fecha": "2025-09-01T15:31:35.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs269826",
@@ -4500,13 +5279,18 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 177,
+        "orden": 176,
         "metacritic": 76
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 14.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 14.99,
+        "fecha": "2026-04-24T13:52:44.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs334544",
@@ -4526,12 +5310,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 178
+        "orden": 177
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 1.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 1.99,
+        "fecha": "2026-11-21T19:52:54.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs285990",
@@ -4551,12 +5340,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 179
+        "orden": 178
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-08-05T15:51:47.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "epic:cs144424",
@@ -4576,12 +5370,17 @@
       "fin_oferta": null,
       "extra": {
         "via": "CheapShark",
-        "orden": 180
+        "orden": 179
       },
-      "visto": "2026-11-22T21:20:37.841Z",
+      "visto": "2026-11-22T21:24:30.588Z",
       "minimo": 8.99,
       "dias": 1,
-      "desde": "2026-11-22T00:00:00.000Z"
+      "desde": "2026-11-22T00:00:00.000Z",
+      "minHist": {
+        "precio": 2.99,
+        "fecha": "2024-07-23T20:03:56.000Z",
+        "fuente": "CheapShark"
+      }
     },
     {
       "id": "playstation:UP0006-PPSA34015_00-27STANDARDBUNDLE",
