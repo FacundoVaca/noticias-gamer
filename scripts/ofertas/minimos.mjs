@@ -10,7 +10,9 @@ const ITAD = "https://api.isthereanydeal.com";
 const ITAD_STEAM = 61; // id de Steam en IsThereAnyDeal
 
 const pedir = async (url, opciones = {}) => {
-  const r = await fetch(url, { ...opciones, signal: AbortSignal.timeout(30000) });
+  // CheapShark exige un User-Agent que identifique al sitio
+  const headers = { "User-Agent": "BolsilloGamer/1.0 (+https://juegos.bolsillo.online/contacto/)", ...(opciones.headers || {}) };
+  const r = await fetch(url, { ...opciones, headers, signal: AbortSignal.timeout(30000) });
   if (!r.ok) throw new Error(`HTTP ${r.status} en ${url.split("?")[0]}: ${(await r.text().catch(() => "")).slice(0, 160)}`);
   return r.json();
 };
@@ -48,6 +50,7 @@ async function epicCheapShark(juegos) {
     catch (err) {
       // Si la consulta de varios juegos falla, se piden de a uno
       log(`CheapShark (lote): ${err.message}. Se consulta de a uno.`);
+      if (/User-Agent/i.test(err.message)) throw err; // de a uno fallaría igual
       datos = {};
       for (const id of lote) {
         try { datos[id] = await pedir(`https://www.cheapshark.com/api/1.0/games?id=${id}`); }
