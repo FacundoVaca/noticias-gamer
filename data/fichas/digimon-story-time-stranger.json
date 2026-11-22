@@ -1,0 +1,388 @@
+{
+  "clave": "digimon story time stranger",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0194fc64-7076-700d-9dbe-838ad5902e75",
+  "appid": "1984270",
+  "lanzamiento": "2025-10-02",
+  "desarrolladores": [
+    "Media.Vision Inc."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "Media.Vision Inc.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "RPG",
+    "JRPG",
+    "Creature Collector",
+    "Anime",
+    "Party-Based RPG"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 16183,
+      "url": "https://store.steampowered.com/app/1984270/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/digimon-story-time-stranger/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 90,
+      "cantidad": 940,
+      "url": "https://metacritic.com/game/digimon-story-time-stranger/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 137,
+      "url": "https://opencritic.com/game/19394/digimon-story-time-stranger"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1325197",
+      "nombre": "Digimon Story Time Stranger",
+      "apps": [
+        {
+          "appid": "1984270",
+          "nombre": "Digimon Story Time Stranger"
+        }
+      ],
+      "usd": 55.99,
+      "antes": 55.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1325198",
+      "nombre": "Edición Deluxe de Digimon Story Time Stranger",
+      "apps": [
+        {
+          "appid": "1984270",
+          "nombre": "Digimon Story Time Stranger"
+        }
+      ],
+      "usd": 79.99,
+      "antes": 79.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1325199",
+      "nombre": "Edición Definitiva de Digimon Story Time Stranger",
+      "apps": [
+        {
+          "appid": "1984270",
+          "nombre": "Digimon Story Time Stranger"
+        }
+      ],
+      "usd": 95.99,
+      "antes": 95.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1984270": {
+      "usd": 55.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 13,
+  "dlcLista": [
+    {
+      "appid": "3524290",
+      "nombre": "Digimon Story Time Stranger - Paquete de episodio y Digimon adicionales 3: Anti-ParadoX",
+      "gratis": false,
+      "usd": 6.71,
+      "descuento": 30
+    },
+    {
+      "appid": "3524270",
+      "nombre": "Digimon Story Time Stranger - Paquete de episodio y Digimon adicionales 2: GAKU−RAN",
+      "gratis": false,
+      "usd": 6.71,
+      "descuento": 30
+    },
+    {
+      "appid": "3524260",
+      "nombre": "Digimon Story Time Stranger - Paquete de episodio y Digimon adicionales 1: Alternate Dimension",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3524390",
+      "nombre": "Digimon Story Time Stranger - Pase de temporada",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524400",
+      "nombre": "Digimon Story Time Stranger - Paquete de atuendos",
+      "gratis": false,
+      "usd": 10.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3524320",
+      "nombre": "Conjunto de trajes de baño para Digimon Story Time Stranger",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524330",
+      "nombre": "Conjunto de atuendos para niños elegidos para Digimon Story Time Stranger",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524340",
+      "nombre": "Conjunto de atuendos de Digimon para Digimon Story Time Stranger",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524350",
+      "nombre": "Digimon Story Time Stranger - Atuendo: traje del cuerpo de seguridad y conjunto de suministros especiales",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3524360",
+      "nombre": "Digimon Story Time Stranger - Paquete de música de fondo de Cyber Sleuth",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524370",
+      "nombre": "Digimon Story Time Stranger - Paquete de canciones del anime de Digimon",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3524380",
+      "nombre": "Digimon Story Time Stranger - Mazmorras Exteriores \"Las sala de EXP, oro y materiales\"",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3524240",
+      "nombre": "Digimon Story Time Stranger - Reserva del paquete de bonificación",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Ya está aquí la última entrega de la historia de Digimon! En este RPG desvelarás un misterio que engloba el mundo humano y el Mundo Digital, y conseguirás y criarás a una amplia gama de Digimon para salvar el mundo.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "2 OCT 2025",
+  "metacritic": null,
+  "nombreSteam": "Digimon Story Time Stranger",
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 /AMD Ryzen5 3600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 970 [4 GB] / AMD Radeon RX 580 [8 GB] /Intel Arc A580 [8 GB]"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"Low\". Framerate might drop in graphics-intensive scenes."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-11700K /AMD Ryzen7 3700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 980 [4 GB] / AMD Radeon RX Vega 56 [8 GB] / Intel Arc A770 [16 GB]"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"High\". Framerate might drop in graphics-intensive scenes. Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_8ab66d309e4a8b18eb41c4eeb2eb88b668ab01cc.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_8ab66d309e4a8b18eb41c4eeb2eb88b668ab01cc.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_c059f9ac96893b96e5c6d49f89c0524d09c67689.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_c059f9ac96893b96e5c6d49f89c0524d09c67689.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_03fb47c9748f11cbc99216abe88a37f17c390686.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_03fb47c9748f11cbc99216abe88a37f17c390686.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_31cc952aabddc3a88c4a84c90147801d3f067b86.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_31cc952aabddc3a88c4a84c90147801d3f067b86.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_e119215706a1b0469c756c0ec2148d09777e447c.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/ss_e119215706a1b0469c756c0ec2148d09777e447c.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/c5cd1a4175c36d25836d262ce4f32b66ea8d2054/ss_c5cd1a4175c36d25836d262ce4f32b66ea8d2054.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/c5cd1a4175c36d25836d262ce4f32b66ea8d2054/ss_c5cd1a4175c36d25836d262ce4f32b66ea8d2054.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/d5996a94f0f376063e92a0a13fc43e9d6889b837/ss_d5996a94f0f376063e92a0a13fc43e9d6889b837.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/d5996a94f0f376063e92a0a13fc43e9d6889b837/ss_d5996a94f0f376063e92a0a13fc43e9d6889b837.1920x1080.jpg?t=1790325181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/b6c08be86c29a95c385bdb95c0b4db4ca27e4c94/ss_b6c08be86c29a95c385bdb95c0b4db4ca27e4c94.600x338.jpg?t=1790325181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1984270/b6c08be86c29a95c385bdb95c0b4db4ca27e4c94/ss_b6c08be86c29a95c385bdb95c0b4db4ca27e4c94.1920x1080.jpg?t=1790325181"
+    }
+  ],
+  "web": "https://digimonstory-ts.bn-ent.net/",
+  "igdbIntentado": true,
+  "igdb": 331188,
+  "youtube": [
+    {
+      "id": "npVx8cNyDe4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "IVvDc7_w5ZY",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "ICCFACvxF84",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0W36Yj7fTCc",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:37:53.062Z"
+}

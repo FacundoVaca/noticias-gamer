@@ -1,0 +1,399 @@
+{
+  "clave": "undisputed",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-69a8-7043-88b4-798b05e6ce7a",
+  "appid": "1451190",
+  "lanzamiento": "2023-01-31",
+  "desarrolladores": [
+    "Steel City Interactive"
+  ],
+  "editores": [
+    "Deep Silver",
+    "Steel City Interactive"
+  ],
+  "etiquetas": [
+    "Third Person",
+    "3D",
+    "Combat",
+    "Boxing",
+    "Controller"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 59,
+      "cantidad": 19339,
+      "url": "https://store.steampowered.com/app/1451190/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 71,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/undisputed/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 44,
+      "cantidad": 172,
+      "url": "https://metacritic.com/game/undisputed/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 47,
+      "url": "https://opencritic.com/game/17418/undisputed"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "4030960",
+      "nombre": "Undisputed - The Senator Pack",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4031830",
+      "nombre": "Undisputed - The Championship Upgrade Pack",
+      "gratis": false,
+      "usd": 37.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3870270",
+      "nombre": "Undisputed - The Takeover Pack",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3740110",
+      "nombre": "Undisputed - The Mexican Monster Pack",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3525000",
+      "nombre": "Undisputed - The Iron and Steel Pack",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3102510",
+      "nombre": "Undisputed - The Problem Child Pack",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2900100",
+      "nombre": "Undisputed - WBC Pack",
+      "gratis": false,
+      "usd": 16.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2946350",
+      "nombre": "Undisputed - Roy Jones Jr. '93",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Alcanza la gloria en el juego de boxeo más auténtico hasta la fecha! Con elementos visuales realistas, una acción estremecedora y con más boxeadores reales que nunca, Undisputed ofrece un control sin precedentes para dominar cada centímetro del ring.",
+  "generos": [
+    "Acción",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "8 OCT 2024",
+  "metacritic": null,
+  "nombreSteam": "Undisputed",
+  "acerca": [
+    [
+      "p",
+      "Undisputed es un juego de boxeo auténtico desarrollado con cariño para los aficionados acérrimos de la lucha, así como para la comunidad profesional del boxeo."
+    ],
+    [
+      "p",
+      "Boxear no solo consiste en lanzar puñetazos. El cuadrilátero es un campo de batalla estratégico donde los luchadores pueden elegir un ángulo de ataque, tender trampas y tener más astucia que los oponentes empleando estrategias ingeniosas. Por eso hemos añadido varias capas de mecánicas de lucha en Undisputed, lo que otorga más control que nunca para dominar la dulce ciencia."
+    ],
+    [
+      "p",
+      "Mecánicas revolucionarias de juego de pies que incluyen un modificador de movimiento libre para ayudarte a moverte por el ring con facilidad."
+    ],
+    [
+      "p",
+      "Más de 60 golpes individuales. Golpea desde varios ángulos y direcciones. Amaga para confundir y contraataca."
+    ],
+    [
+      "p",
+      "Todas las herramientas necesarias para ser un mago de la defensa. Sortea los golpes, zigzaguea, esquiva y bloquea."
+    ],
+    [
+      "p",
+      "Interacciones basadas en la física para que los golpes puedan rodear la guardia o incluso atravesarla."
+    ],
+    [
+      "p",
+      "Los entresijos de la lucha, más cercanos y personales que nunca."
+    ],
+    [
+      "p",
+      "Gestiona la resistencia a lo largo de una pelea con el sistema de adrenalina."
+    ],
+    [
+      "p",
+      "50 atributos y rasgos para distinguir los estilos y capacidades de los luchadores."
+    ],
+    [
+      "p",
+      "Varios estilos de IA y ajustes de dificultad para complacer tanto a los novatos como a los más experimentados."
+    ],
+    [
+      "p",
+      "Hemos obtenido los derechos y colaborado con boxeadores de la vida real, órganos rectores y marcas para traer una autenticidad sin precedentes a Undisputed."
+    ],
+    [
+      "p",
+      "Más de 70 luchadores reales desde el principio en el acceso anticipado, a los que se sumarán muchos más. Desde nombres legendarios como Muhammad Ali y Sugar Ray Robinson a los campeones modernos del boxeo, entre ellos Canelo Álvarez, Terence Crawford y Tyson Fury."
+    ],
+    [
+      "p",
+      "Una emocionante división femenina con estrellas como Katie Taylor, Jessica McCaskill, Natasha Jonas y Ebanie Bridges."
+    ],
+    [
+      "p",
+      "El Consejo Mundial de Boxeo, la Junta de Control del Boxeo Británico y otras organizaciones de boxeo reales."
+    ],
+    [
+      "p",
+      "Marcas de equipamiento de boxeo e indumentaria que no podían faltar, como Empire Pro Tape y Adams."
+    ],
+    [
+      "p",
+      "Estadísticas de golpeo e información mediante CompuBox."
+    ],
+    [
+      "p",
+      "Presentaciones de los luchadores de la mano del legendario Jimmy Lennon Jr."
+    ],
+    [
+      "p",
+      "El distinguido árbitro Kenny Bayless."
+    ],
+    [
+      "p",
+      "Hemos trabajado duro para asegurarnos de que Undisputed sea como el boxeo real a nivel visual y sensitivo."
+    ],
+    [
+      "p",
+      "Modelos de boxeadores con un nivel de detalle increíble, para lo que se ha empleado la última tecnología de escaneo."
+    ],
+    [
+      "p",
+      "6 ubicaciones de lucha únicas, entre ellas un gran estadio, el gimnasio de Coldwell y un recinto al aire libre."
+    ],
+    [
+      "p",
+      "Daño realista, sudoración progresiva y deformación facial."
+    ],
+    [
+      "p",
+      "Presentación en directo con los comentarios de los expertos Todd Grisham y Johnny Nelson, así como entradas al ring e instrucciones del árbitro."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i5 7500 (3.4GHz) OR AMD 5 1600(3.2GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1660 OR AMD Rx 590"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i7-9700K (3.70GHz) OR AMD Ryzen 5 3600 (4.2GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3070 / RTX 2070 OR AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_67a2f6b6c5e344bec65117190cc4744930d40634.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_67a2f6b6c5e344bec65117190cc4744930d40634.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_c4cde7af2d5a1485a624451aafc7fd8dc2e1e3e7.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_c4cde7af2d5a1485a624451aafc7fd8dc2e1e3e7.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_0fd92bb5613fa708e0bf1aa33fc40d7dbe8e8931.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_0fd92bb5613fa708e0bf1aa33fc40d7dbe8e8931.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_91179ea44cdc48d380c93bdae6f0b7fc644062a8.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_91179ea44cdc48d380c93bdae6f0b7fc644062a8.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_29d608fc2bce0cdc7f19ae4ac28322b2264ac882.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_29d608fc2bce0cdc7f19ae4ac28322b2264ac882.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_09cae2955579dd7e654ddbbc2cbada8fbf37d321.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_09cae2955579dd7e654ddbbc2cbada8fbf37d321.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_46ff299dd35d80ae0d82b791c6327624461656ac.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_46ff299dd35d80ae0d82b791c6327624461656ac.1920x1080.jpg?t=1766067946"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_de1de705f4711b0acbb03ef6a14f814640ac5aab.600x338.jpg?t=1766067946",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/ss_de1de705f4711b0acbb03ef6a14f814640ac5aab.1920x1080.jpg?t=1766067946"
+    }
+  ],
+  "web": "http://www.playundisputed.com/",
+  "igdbIntentado": true,
+  "igdb": 146957,
+  "youtube": [
+    {
+      "id": "uxWfICfgzXM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "kikglPr3I4I",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "Lhh8NPrrXow",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:37:36.473Z"
+}

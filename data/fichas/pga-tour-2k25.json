@@ -1,0 +1,421 @@
+{
+  "clave": "pga tour 2k25",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019465c4-c891-7086-910a-0a867d03bf92",
+  "appid": "2385530",
+  "lanzamiento": "2025-02-28",
+  "desarrolladores": [
+    "HB Studios"
+  ],
+  "editores": [
+    "2K",
+    "TAKE-TWO INTERACTIVE",
+    "2K Games",
+    "HB Studios"
+  ],
+  "etiquetas": [
+    "Sports",
+    "Golf",
+    "Simulation",
+    "Realistic",
+    "Character Customization"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 70,
+      "cantidad": 3959,
+      "url": "https://store.steampowered.com/app/2385530/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/pga-tour-2k25/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 51,
+      "cantidad": 64,
+      "url": "https://metacritic.com/game/pga-tour-2k25/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 56,
+      "url": "https://opencritic.com/game/18046/pga-tour-2k25"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "858171",
+      "nombre": "PGA TOUR 2K25",
+      "apps": [
+        {
+          "appid": "2385530",
+          "nombre": "PGA TOUR 2K25"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1432137",
+      "nombre": "PGA TOUR 2K25 Edición Pro",
+      "apps": [
+        {
+          "appid": "2385530",
+          "nombre": "PGA TOUR 2K25"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1432157",
+      "nombre": "PGA TOUR 2K25 Legend Edition Year 2",
+      "apps": [
+        {
+          "appid": "2385530",
+          "nombre": "PGA TOUR 2K25"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 69.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2385530": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 14,
+  "dlcLista": [
+    {
+      "appid": "4085420",
+      "nombre": "Pase de miembro de PGA TOUR 2K25 Año 2",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2385571",
+      "nombre": "Pase de Miembro PGA TOUR 2K25",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4085400",
+      "nombre": "Temporada 8 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4085390",
+      "nombre": "Temporada 7 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4085380",
+      "nombre": "Temporada 6 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3337910",
+      "nombre": "Temporada 5 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3337900",
+      "nombre": "Temporada 4 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3337890",
+      "nombre": "Temporada 3 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3337880",
+      "nombre": "Temporada 2 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2385580",
+      "nombre": "Temporada 1 del PGA TOUR 2K25 Pase de sede del club prémium",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2385540",
+      "nombre": "Pack PGA TOUR 2K25 Extra Butter x adidas",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2385541",
+      "nombre": "Starter Pack PGA TOUR 2K25",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3226860",
+      "nombre": "Pack PGA TOUR 2K25 Sun Day Red",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4092500",
+      "nombre": "Pack de bonificación Pro Accelerator de PGA TOUR 2K25",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Da lo mejor de ti para alcanzar la gloria en PGA TOUR 2K25! Por primera vez en 2K, compite en tres prestigiosos torneos. Personaliza tu juego con opciones ampliadas de MyCAREER, MyPLAYER y el Diseñador del campo. Desafía a amigos en partidas multijugador clasificatorias, casuales y multiplataforma.",
+  "generos": [
+    "Rol",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "27 FEB 2025",
+  "metacritic": null,
+  "nombreSteam": "PGA TOUR 2K25",
+  "acerca": [
+    [
+      "p",
+      "Súbete a los escenarios más importantes del golf y demuestra que puedes estar a la altura de los más grandes. Compite en la prueba definitiva: el PGA Championship, el U.S. Open y El Open Championship hacen su debut en PGA TOUR 2K."
+    ],
+    [
+      "p",
+      "Asciende en el ranking en un MyCAREER ampliado, donde cada ronda construye tu legado. Comienza tu camino hacia la grandeza con la nueva personalización de MyPLAYER, los árboles de habilidades mejorados y las herramientas avanzadas del Diseñador del campo. Luego, enfréntate a los mejores en partidas clasificatorias, informales y multijugador multiplataforma."
+    ],
+    [
+      "p",
+      "No has venido a quedar segundo."
+    ],
+    [
+      "h",
+      "ELIGE UN PALO. PERSIGUE LA GRANDEZA."
+    ],
+    [
+      "p",
+      "Forma equipo o enfréntate en Match Play, Scramble o Skins, tanto online como en local. Compite en sociedades multiplataforma, gana recompensas de temporada y asciende en torneos diarios y semanales."
+    ],
+    [
+      "h",
+      "EN LOS ESCENARIOS MÁS IMPORTANTES DEL GOLF"
+    ],
+    [
+      "p",
+      "Enfréntate a leyendas como Tiger Woods o ponte en su piel y descubre lo que se siente al dominar algunos de los campos más difíciles del mundo. Por primera vez en la franquicia PGA TOUR 2K, pon a prueba tu determinación en el PGA Championship, el U.S. Open y El Open Championship."
+    ],
+    [
+      "h",
+      "TU CARRERA. TU LEGADO. TU CAMINO."
+    ],
+    [
+      "p",
+      "Simula rondas de forma dinámica, entrena para torneos y haz evolucionar a tu jugador gracias a los nuevos sistemas de Puntos de atributos y Progreso de nivel de equipación."
+    ],
+    [
+      "h",
+      "TEMPORADAS. VUELVE MEJOR QUE NUNCA."
+    ],
+    [
+      "p",
+      "Gana recompensas, asciende en las tablas de clasificación y disfruta de actualizaciones periódicas de contenido. Avanza a tu propio ritmo por las Temporadas anteriores."
+    ],
+    [
+      "p",
+      "PGA TOUR 2K25: ASPIRA A LA GRANDEZA"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Ryzen 5 1600 / Core i5 6600k"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1050 Ti / Radeon RX 570 / 4GB RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Ryzen 7 2700X /Core i7 6700"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce RTX 2060 Super / Radeon RX 5700 XT / 8GB RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_6546c8ce6ea6d0b743ca47f07fd67406eb1c71b3.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_6546c8ce6ea6d0b743ca47f07fd67406eb1c71b3.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_64e2ca7c9573d0b5ee4a22d9744cee33f23bd71d.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_64e2ca7c9573d0b5ee4a22d9744cee33f23bd71d.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_6b1f0ee75a80f4cfa3b51f08aa12af0b22ca3cbb.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_6b1f0ee75a80f4cfa3b51f08aa12af0b22ca3cbb.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_11876ad0be2727c43213c7601ed0027300622adf.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_11876ad0be2727c43213c7601ed0027300622adf.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d01f0dff5006475c7adf80e0c03515a707c85db8.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d01f0dff5006475c7adf80e0c03515a707c85db8.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d6eed024c39bba21c83f7b78404381c741f0a4f9.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d6eed024c39bba21c83f7b78404381c741f0a4f9.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_09c09b00dbe4c3ecbb4983871c947fe621ded798.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_09c09b00dbe4c3ecbb4983871c947fe621ded798.1920x1080.jpg?t=1790783811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d5e1fac157f9ec1da217e5a7e881ecdffca8cbee.600x338.jpg?t=1790783811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d5e1fac157f9ec1da217e5a7e881ecdffca8cbee.1920x1080.jpg?t=1790783811"
+    }
+  ],
+  "igdbIntentado": true,
+  "igdb": 328079,
+  "youtube": [
+    {
+      "id": "X7TlP1WBr50",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:38:41.089Z"
+}

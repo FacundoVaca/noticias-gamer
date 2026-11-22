@@ -1,0 +1,225 @@
+{
+  "clave": "the elder scrolls v skyrim anniversary upgrade",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-5992-7277-951a-39ba9fdcc39b",
+  "appid": "1746860",
+  "lanzamiento": "2021-11-11",
+  "desarrolladores": [
+    "Bethesda Game Studios",
+    "Bethesda Game Studios®"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks",
+    "Bethesda Softworks LLC"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Dystopian ",
+    "Open World",
+    "Fantasy",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 48,
+      "cantidad": 7191,
+      "url": "https://store.steampowered.com/app/1746860/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "489830",
+    "nombre": "The Elder Scrolls V: Skyrim Special Edition"
+  },
+  "ediciones": [
+    {
+      "packageid": "626104",
+      "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+      "apps": [
+        {
+          "appid": "1746860",
+          "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 11.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "626153",
+      "nombre": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "apps": [
+        {
+          "appid": "1746860",
+          "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
+        },
+        {
+          "appid": "489830",
+          "nombre": "The Elder Scrolls V: Skyrim Special Edition"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "489830": {
+      "usd": 23.99,
+      "gratis": false
+    },
+    "1746860": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "La Anniversary Upgrade incluye contenido nuevo y ya existente del Club de creación, con misiones, mazmorras, jefes, armas, hechizos y mucho más. Con las creaciones de los jugadores, hay mucho más por descubrir. Debes tener la Skyrim Special Edition para acceder a este contenido.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "10 NOV 2021",
+  "metacritic": null,
+  "nombreSteam": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+  "acerca": [
+    [
+      "p",
+      "La Anniversary Upgrade incluye el contenido del Club de creación publicado hasta el 11 de noviembre de 2021, con misiones, mazmorras, jefes, armas, hechizos y mucho más. Para acceder a este contenido debes tener la Skyrim Special Edition."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit Version)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-750/AMD Phenom II X4-945"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 470 1GB /AMD HD 7870 2GB"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit Version)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-2400/AMD FX-8320"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 780 3GB /AMD R9 290 4GB"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ea4d71cbc9d36ef3bcf0e86c7d75d2d4dfec56b8.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ea4d71cbc9d36ef3bcf0e86c7d75d2d4dfec56b8.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_e28f5e3ad356a1850d86b6cc43ca60afc365de65.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_e28f5e3ad356a1850d86b6cc43ca60afc365de65.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ff16ecb553491d621feced2267c76b4083287dbb.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ff16ecb553491d621feced2267c76b4083287dbb.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_b0c417d87a84655710f2ec094719ac9bdb6b9a01.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_b0c417d87a84655710f2ec094719ac9bdb6b9a01.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_9c99f470de883ed3d984645168bab487c86235b2.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_9c99f470de883ed3d984645168bab487c86235b2.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_f333b5a8216939b02135fb4c4ff494a34fd6b160.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_f333b5a8216939b02135fb4c4ff494a34fd6b160.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_b862659b58a7c28528c2e811d64ea04c5ac5361f.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_b862659b58a7c28528c2e811d64ea04c5ac5361f.1920x1080.jpg?t=1726757961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ff8ee30dac65f09077b8d4164ade223f3e750004.600x338.jpg?t=1726757961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746860/ss_ff8ee30dac65f09077b8d4164ade223f3e750004.1920x1080.jpg?t=1726757961"
+    }
+  ],
+  "igdbIntentado": true,
+  "consultado": "2026-11-22T22:39:07.528Z"
+}

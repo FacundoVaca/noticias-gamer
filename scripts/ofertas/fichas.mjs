@@ -10,7 +10,7 @@ import { leerJSON, guardarJSON, ruta, log, decodificar } from "../lib/util.mjs";
 
 const CARPETA = ruta("data", "fichas");
 const VIEJO = ruta("data", "fichas.json"); // formato anterior: un solo archivo
-const VERSION = 4; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
+const VERSION = 5; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
 const VIGENCIA_MS = 30 * 864e5;
 const REINTENTO_MS = 3 * 864e5; // si no se encontró nada, se vuelve a probar a los 3 días
 const MAX_POR_CORRIDA = 150;
@@ -100,6 +100,10 @@ async function steamDetalle(appid) {
     web: /^https?:\/\//.test(a.website || "") ? a.website : null,
     juegoBase: a.type === "dlc" && a.fullgame?.appid ? { appid: String(a.fullgame.appid), nombre: a.fullgame.name || null } : null,
     dlcIds: (a.dlc || []).map(String),
+    // Opciones de compra de la tienda (estándar, deluxe, etc.): cada una es un "paquete" de Steam
+    paquetes: ((a.package_groups || []).find((g) => g.name === "default")?.subs || [])
+      .filter((x) => x.packageid && !x.is_free_license).slice(0, 6)
+      .map((x) => ({ packageid: String(x.packageid), texto: sinHtml(x.option_text) })),
     // Tráileres oficiales que la editora sube a Steam (archivos de video de Steam, no de YouTube)
     trailers: (a.movies || []).map((m) => ({ nombre: m.name || null, poster: m.thumbnail || null,
       mp4: m.mp4?.max || m.mp4?.["480"] || null, webm: m.webm?.max || m.webm?.["480"] || null }))
@@ -119,6 +123,37 @@ async function steamItems(appids) {
     return { appid: String(x.appid), nombre: x.name, gratis: !!x.is_free,
       usd: usd(b.final_price_in_cents, b.formatted_final_price), descuento: b.discount_pct || 0 };
   });
+}
+
+// Contenido exacto de un paquete de Steam (qué productos incluye) y su precio en Argentina
+async function steamPaquete(id) {
+  const r = await pedir(`https://store.steampowered.com/api/packagedetails?packageids=${id}&cc=ar&l=spanish`);
+  const x = r?.[id];
+  if (!x?.success || !x.data) return null;
+  const d = x.data;
+  return {
+    packageid: String(id), nombre: d.name || null,
+    apps: (d.apps || []).map((a) => ({ appid: String(a.id), nombre: a.name })),
+    usd: d.price?.currency === "USD" ? d.price.final / 100 : null,
+    antes: d.price?.currency === "USD" ? d.price.initial / 100 : null,
+    descuento: d.price?.discount_percent || 0,
+  };
+}
+
+// Ediciones de un juego con su contenido y el precio suelto de cada parte (para el comparador)
+async function steamEdiciones(paquetes) {
+  const ediciones = [];
+  for (const p of paquetes) {
+    try { const d = await steamPaquete(p.packageid); if (d?.apps.length) ediciones.push({ ...d, nombre: d.nombre || p.texto.replace(/\s*-\s*[^-]*\d[^-]*$/, "") }); }
+    catch (err) { log(`Paquete Steam ${p.packageid}: ${err.message}`); }
+    await pausa(1000);
+  }
+  if (ediciones.length < 2 && !(ediciones[0]?.apps.length > 1)) return null; // una sola opción de compra: no hay nada que comparar
+  const ids = [...new Set(ediciones.flatMap((e) => e.apps.map((a) => a.appid)))].slice(0, 60);
+  const sueltos = {};
+  try { for (const it of await steamItems(ids)) sueltos[it.appid] = { usd: it.usd, gratis: it.gratis }; }
+  catch (err) { log(`Precios sueltos Steam: ${err.message}`); }
+  return { ediciones, sueltos };
 }
 
 // Resumen de reseñas de usuarios de Steam (todas las compras, todos los idiomas)
@@ -197,6 +232,10 @@ async function consultar(grupo, key) {
       if (s && (!s.tipo || s.tipo === "game" || s.tipo === "dlc")) {
         f.tipo = s.tipo === "dlc" ? "dlc" : "juego";
         if (s.juegoBase) f.juegoBase = s.juegoBase;
+        if (s.paquetes?.length) {
+          const ed = await steamEdiciones(s.paquetes);
+          if (ed) { f.ediciones = ed.ediciones; f.sueltos = ed.sueltos; }
+        }
         if (s.dlcIds?.length) {
           f.dlcTotal = s.dlcIds.length;
           try { f.dlcLista = await steamItems(s.dlcIds.slice(0, 40)); } catch (err) { log(`DLC Steam ${appid}: ${err.message}`); }
@@ -265,7 +304,11 @@ export async function actualizarFichas(juegos) {
   for (const gr of pendientes) {
     try {
       const f = await consultar(gr, key);
-      cache[gr.clave] = { clave: gr.clave, v: VERSION, ...f, consultado: new Date().toISOString() };
+      // Si una fuente falló esta vez (por ejemplo, Steam cortó por exceso de consultas), se conservan sus datos anteriores
+      const previo = cache[gr.clave];
+      const perdio = previo?.fuentes?.some((x) => !f.fuentes.includes(x));
+      cache[gr.clave] = { clave: gr.clave, ...(perdio ? previo : {}), ...f, v: VERSION,
+        fuentes: perdio ? [...new Set([...previo.fuentes, ...f.fuentes])] : f.fuentes, consultado: new Date().toISOString() };
       guardarJSON(archivoDe(gr.clave), cache[gr.clave]);
       if (f.fuentes.length) ok++;
     } catch (err) { log(`Ficha "${gr[0].titulo}": ${err.message}`); }
