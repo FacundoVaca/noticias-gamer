@@ -21,10 +21,18 @@ async function llamar(modelo, cuerpo, intentos = 3) {
       await esperar(Math.min(seg, 70) * 1000);
       continue;
     }
+    // Si Google retiró el modelo y sugiere otro, se usa el sugerido automáticamente
+    const sugerido = r.status === 404 && (txt.match(/update to (?:models\/)?([a-z0-9.\-]+)/i) || [])[1];
+    if (sugerido && sugerido !== modelo) {
+      log(`Gemini: ${modelo} retirado, se usa ${sugerido}. Actualizá config.json cuando puedas.`);
+      modelo = sugerido;
+      continue;
+    }
     const err = new Error(`Gemini ${modelo} HTTP ${r.status}: ${txt.slice(0, 300)}`);
     err.status = r.status;
     throw err;
   }
+  throw new Error(`Gemini ${modelo}: sin respuesta tras varios intentos`);
 }
 
 const ESQUEMA = {
