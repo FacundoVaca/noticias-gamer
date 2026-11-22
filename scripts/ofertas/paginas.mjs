@@ -258,6 +258,14 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
 <h2 id="j-req-tit">Requisitos del sistema para PC</h2>
 <div class="j-req-cols">${req.minimo ? `<div><h3>Mínimos</h3>${reqLista(req.minimo)}</div>` : ""}${req.recomendado ? `<div><h3>Recomendados</h3>${reqLista(req.recomendado)}</div>` : ""}</div>
 </section>` : "";
+      // Videos: YouTube (IGDB) con carga al tocar; si no hay, los tráileres oficiales que la editora subió a Steam
+      const yt = (info.youtube || []).filter((v) => /^[\w-]{11}$/.test(v.id));
+      const trailers = yt.length ? [] : (info.trailers || []).filter((t) => /^https:\/\//.test(t.mp4 || t.webm || "") && /^https:\/\//.test(t.poster || ""));
+      const videos = yt.length || trailers.length ? `<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid">${yt.map((v) => `<figure><button class="j-yt" type="button" data-id="${v.id}" aria-label="Reproducir ${e(v.nombre || "video")} de ${e(nombre)}"><img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button>${v.nombre ? `<figcaption>${e(v.nombre)}</figcaption>` : ""}</figure>`).join("")}${trailers.map((t) => `<figure><video controls preload="none" playsinline poster="${e(t.poster)}">${t.webm ? `<source src="${e(t.webm)}" type="video/webm">` : ""}${t.mp4 ? `<source src="${e(t.mp4)}" type="video/mp4">` : ""}</video>${t.nombre ? `<figcaption>${e(t.nombre)}</figcaption>` : ""}</figure>`).join("")}</div>
+<p class="mini">${yt.length ? "Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir." : "Tráileres oficiales publicados en la tienda de Steam."}</p>
+</section>` : "";
       const pieFuentes = fuentes.length ? `<p class="mini j-fuentes">Datos del juego: ${lista(fuentes)}. Los textos y capturas son de la tienda y de su editora.</p>` : "";
 
       // Historial de cada tienda: resumen en texto + gráfico + tabla
@@ -285,6 +293,7 @@ ${filasOferta}
 </div>
 ${indexar ? anuncio : ""}
 ${acerca}
+${videos}
 ${galeria}
 ${caract}
 ${requis}
