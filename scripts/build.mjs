@@ -94,6 +94,15 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
     }
     return html + (enLista ? "</ul>" : "");
   };
+  const tablaOfertas = (n) => {
+    const conPlat = n.ofertas.some((o) => o.plataforma?.trim());
+    const conAntes = n.ofertas.some((o) => o.precioAnterior?.trim());
+    const precios = n.ofertas.map((o) => o.precio).join(" ");
+    const moneda = /€|eur/i.test(precios) ? "Los precios están en euros, de la tienda de España o Europa. En Argentina el precio puede ser otro o no estar disponible."
+      : /US\$|USD|\$/i.test(precios) ? "Los precios son los publicados por la tienda (en dólares si la fuente es de EE. UU.). En Argentina pueden variar por región e impuestos."
+      : "En Argentina el precio puede variar por región e impuestos.";
+    return `<section class="ofertas"><h2>Listado de ofertas</h2><div class="tabla-wrap"><table><thead><tr><th>Juego o producto</th>${conPlat ? "<th>Plataforma</th>" : ""}<th>Precio</th>${conAntes ? "<th>Antes</th>" : ""}<th></th></tr></thead><tbody>${n.ofertas.map((o) => `<tr><td>${e(o.producto)}</td>${conPlat ? `<td>${e(o.plataforma || "")}</td>` : ""}<td class="precio">${e(o.precio)}</td>${conAntes ? `<td class="antes">${e(o.precioAnterior || "")}</td>` : ""}<td><a class="btn-oferta" href="${e(o.url)}" rel="nofollow sponsored noopener" target="_blank">Ver${o.tienda ? " en " + e(o.tienda) : ""}</a></td></tr>`).join("")}</tbody></table></div><p class="mini">${moneda} Precios tomados de las fuentes al ${fechaLarga(n.fecha)}; pueden cambiar o terminar sin aviso, verificá el precio final en la tienda.</p></section>`;
+  };
   const generarNota = (n, publica) => {
     const rel = notas.filter((o) => o.slug !== n.slug && (o.categoria === n.categoria || o.etiquetas?.some((t) => n.etiquetas?.includes(t)))).slice(0, 4);
     const ld = {
@@ -112,7 +121,7 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
 ${n.clave?.length ? `<aside class="clave"><strong>Lo importante</strong><ul>${n.clave.map((c) => `<li>${e(c)}</li>`).join("")}</ul></aside>` : ""}
 ${n.actualizaciones?.length ? n.actualizaciones.map((a) => `<section class="upd"><p class="upd-tit">Actualización · <time datetime="${a.fecha}">${fechaLarga(a.fecha)}</time></p>${cuerpoHTML(a.bloques)}</section>`).join("") : ""}
 <div class="texto">${cuerpoHTML(n.cuerpo)}</div>
-${n.ofertas?.length ? `<section class="ofertas"><h2>Listado de ofertas</h2><div class="tabla-wrap"><table><thead><tr><th>Juego o producto</th><th>Plataforma</th><th>Precio</th><th>Antes</th><th></th></tr></thead><tbody>${n.ofertas.map((o) => `<tr><td>${e(o.producto)}</td><td>${e(o.plataforma || "")}</td><td class="precio">${e(o.precio)}</td><td class="antes">${e(o.precioAnterior || "")}</td><td><a class="btn-oferta" href="${e(o.url)}" rel="nofollow sponsored noopener" target="_blank">Ver${o.tienda ? " en " + e(o.tienda) : ""}</a></td></tr>`).join("")}</tbody></table></div><p class="mini">Precios tomados de las fuentes al ${fechaLarga(n.fecha)}. Pueden cambiar o terminar sin aviso: verificá el precio final en la tienda.</p></section>` : ""}
+${n.ofertas?.length ? tablaOfertas(n) : ""}
 ${n.preguntas?.length ? `<section class="faq"><h2>Preguntas frecuentes</h2>${n.preguntas.map((q) => `<details><summary>${e(q.p)}</summary><p>${e(q.r)}</p></details>`).join("")}</section>` : ""}
 ${n.etiquetas?.length ? `<p class="tags">${n.etiquetas.map((t) => `<span>${e(t)}</span>`).join("")}</p>` : ""}
 <section class="fuentes"><h2>Fuentes</h2><ul>${n.fuentes.map((f) => `<li><a href="${e(f.url)}" rel="nofollow noopener" target="_blank">${e(f.medio)}: ${e(f.titulo)}</a></li>`).join("")}</ul>
