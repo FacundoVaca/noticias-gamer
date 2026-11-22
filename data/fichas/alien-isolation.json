@@ -1,0 +1,315 @@
+{
+  "clave": "alien isolation",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-ff11-7011-8841-547a2015c0f1",
+  "appid": "214490",
+  "lanzamiento": "2014-10-06",
+  "desarrolladores": [
+    "Creative Assembly",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)"
+  ],
+  "editores": [
+    "SEGA",
+    "Creative Assembly",
+    "Feral Interactive (Mac)",
+    "Feral Interactive (Linux)",
+    "SEGA Europe Ltd"
+  ],
+  "etiquetas": [
+    "Horror",
+    "Survival Horror",
+    "Sci-fi",
+    "Aliens",
+    "Atmospheric"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 48998,
+      "url": "https://store.steampowered.com/app/214490/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 41,
+      "url": "https://metacritic.com/game/alien-isolation/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 2087,
+      "url": "https://metacritic.com/game/alien-isolation/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 122,
+      "url": "https://opencritic.com/game/195/alien-isolation"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "282510",
+      "nombre": "Alien: Isolation - Last Survivor",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "282511",
+      "nombre": "Alien: Isolation - Crew Expendable",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "282516",
+      "nombre": "Alien: Isolation - The Trigger",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "282515",
+      "nombre": "Alien: Isolation - Lost Contact",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "282514",
+      "nombre": "Alien: Isolation - Safe Haven",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "282512",
+      "nombre": "Alien: Isolation - Corporate Lockdown",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "282513",
+      "nombre": "Alien: Isolation - Trauma",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Descubre el verdadero significado del terror en Alien: Isolation, un juego de horror y supervivencia que transcurre en un ambiente de constante tensión y peligro.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "6 OCT 2014",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/alien-isolation?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Alien: Isolation",
+  "acerca": [
+    [
+      "p",
+      "Descubre el verdadero significado del terror en Alien: Isolation, un juego de horror y supervivencia que transcurre en un ambiente de constante tensión y peligro. Han pasado quince años desde los sucesos de Alien™. La hija de Ellen Ripley, Amanda, se ve involucrada en una desesperada batalla por sobrevivir cuando se embarca en una misión que le permitirá averiguar qué sucedió realmente a su madre."
+    ],
+    [
+      "p",
+      "Amanda tendrá que explorar un mundo cada vez más volátil y hacer frente a los constantes ataques tanto de una población sumida en la desesperación como de un alien despiadado e impredecible."
+    ],
+    [
+      "p",
+      "Indefensa y poco preparada, tendrá que arreglárselas para conseguir recursos, improvisar soluciones y usar su cerebro, no solo para cumplir con su misión, sino para seguir con vida."
+    ],
+    [
+      "p",
+      "Creado con el motor de juego CATHODE ™."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 (32bit)"
+      ],
+      [
+        "Procesador",
+        "3.16Ghz Intel Core 2 Duo E8500"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 (64bit)"
+      ],
+      [
+        "Procesador",
+        "AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_5ff8ca35914eca8f51f3303cf5d94a9f85279e2a.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_5ff8ca35914eca8f51f3303cf5d94a9f85279e2a.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_e514869415e3bd913be3f6c0e419cea9f0be17a3.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_e514869415e3bd913be3f6c0e419cea9f0be17a3.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_af3b9b789a57497e300e0a4c962badf513387a69.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_af3b9b789a57497e300e0a4c962badf513387a69.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_90419f0e549d54138abfeb3c7b78e4b5427afdb0.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_90419f0e549d54138abfeb3c7b78e4b5427afdb0.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_c2de38e43dfc8c977061a56e5b087c2183aecef3.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_c2de38e43dfc8c977061a56e5b087c2183aecef3.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_b82b51fd2e63fb802c784f7a3fbe1e65148ad6e1.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_b82b51fd2e63fb802c784f7a3fbe1e65148ad6e1.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_c57e1d21eca518001e25e83f271c20448683d082.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_c57e1d21eca518001e25e83f271c20448683d082.1920x1080.jpg?t=1793034411"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_b1e245fecbcb2b93f48d76f4031f303076b4a6bc.600x338.jpg?t=1793034411",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/ss_b1e245fecbcb2b93f48d76f4031f303076b4a6bc.1920x1080.jpg?t=1793034411"
+    }
+  ],
+  "web": "http://www.alienisolation.com",
+  "igdbIntentado": true,
+  "igdb": 4754,
+  "youtube": [
+    {
+      "id": "W9Xw5rGFE4E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Whr7u_B6Jn0",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "-jgtiJaR77g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "49420mdnMyo",
+      "nombre": "Improvise CGI Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:47:42.936Z"
+}

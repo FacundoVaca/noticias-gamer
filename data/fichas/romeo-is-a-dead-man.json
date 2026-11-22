@@ -1,0 +1,287 @@
+{
+  "clave": "romeo is a dead man",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0198b553-c308-72fb-b989-8c8d6530a0d3",
+  "appid": "3050900",
+  "lanzamiento": "2026-02-10",
+  "desarrolladores": [
+    "GRASSHOPPER MANUFACTURE INC."
+  ],
+  "editores": [
+    "GRASSHOPPER MANUFACTURE INC."
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Action-Adventure",
+    "3D",
+    "Violent"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 2084,
+      "url": "https://store.steampowered.com/app/3050900/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 40,
+      "url": "https://metacritic.com/game/romeo-is-a-dead-man/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 96,
+      "url": "https://metacritic.com/game/romeo-is-a-dead-man/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 133,
+      "url": "https://opencritic.com/game/19823/romeo-is-a-dead-man"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3846510",
+      "nombre": "THE ART OF ROMEO IS A DEAD MAN",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Pinta la pantalla de rojo y viaja por el cosmos en este juego de acción y aventuras sangrientas! Sé testigo de lo último de Grasshopper Manufacture: ¡CIENCIA FICCIÓN ULTRAVIOLENTA!",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "10 FEB 2026",
+  "metacritic": null,
+  "nombreSteam": "ROMEO IS A DEAD MAN",
+  "acerca": [
+    [
+      "p",
+      "Sobre ROMEO IS A DEAD MAN"
+    ],
+    [
+      "p",
+      "Controla al protagonista, Romeo Stargazer, en esta aventura en tercera persona y juega en solitario a través de sus distintos capítulos. Una historia impredecible, repleta de batallas intensas intercaladas con misiones secundarias que se adaptan al ritmo de cada cual."
+    ],
+    [
+      "p",
+      "Una historia que trasciende el espacio-tiempo"
+    ],
+    [
+      "p",
+      "La historia de este juego comienza con un incidente que destroza el espacio-tiempo. Romeo, al borde de la muerte, revive gracias a una supertecnología innovadora. En estas, entra a formar parte del cuerpo de la Policía Espaciotemporal, una división del FBI, como agente especial. Esta unidad vaga por el cosmos en busca de criminales que se han aprovechado de la situación, con el objetivo de restaurar la justicia del universo. Mientras tanto, Romeo busca pistas sobre su novia desaparecida, Juliet, y pronto descubrirá que su ausencia y la destrucción del espacio guardan una estrecha relación. Entonces, Romeo se pondrá su máscara Deadgear dispuesto a viajar hasta los confines del espacio-tiempo."
+    ],
+    [
+      "p",
+      "Combate la masacre con más masacre"
+    ],
+    [
+      "p",
+      "Para luchar, Romeo se vale tanto de espadas como de armas de fuego. Acaba con las oleadas de enemigos que se interpongan en tu camino, embárcate en un nuevo tipo aventura de acción sangrienta y haz picadillo a los temibles criminales espacio-temporales. Absorbe la sangre de tus enemigos para desatar el ataque especial de Romeo, Verano sangriento, capaz de cambiar las tornas de cualquier situación. Podrás reforzar y modificar las distintas armas de Romeo a medida que avances en la historia."
+    ],
+    [
+      "p",
+      "¡El nuevo título de Grasshopper Manufacture!"
+    ],
+    [
+      "p",
+      "¡ROMEO IS A DEAD MAN es el primer título en años de Grasshopper Manufacture! ¡Un juego impredecible fruto de décadas de experiencia!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400, AMD Ryzen 3 3100"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1080, AMD Radeon RX 5600 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "N/A"
+      ],
+      [
+        "Notas adicionales",
+        "N/A"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700F, AMD Ryzen 5 4500"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060Ti, AMD Radeon RX 7600"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "N/A"
+      ],
+      [
+        "Notas adicionales",
+        "N/A"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/c0bfd70d98d6356057d5f34631e086697114b3a0/ss_c0bfd70d98d6356057d5f34631e086697114b3a0.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/c0bfd70d98d6356057d5f34631e086697114b3a0/ss_c0bfd70d98d6356057d5f34631e086697114b3a0.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/1874c4773dc3385efb289f738ece99f720f884bc/ss_1874c4773dc3385efb289f738ece99f720f884bc.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/1874c4773dc3385efb289f738ece99f720f884bc/ss_1874c4773dc3385efb289f738ece99f720f884bc.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/7b767c96257de46280cc1be622926ad4b49d766a/ss_7b767c96257de46280cc1be622926ad4b49d766a.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/7b767c96257de46280cc1be622926ad4b49d766a/ss_7b767c96257de46280cc1be622926ad4b49d766a.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/25a3c952bfc85186031455aa43b1ec63b1776b33/ss_25a3c952bfc85186031455aa43b1ec63b1776b33.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/25a3c952bfc85186031455aa43b1ec63b1776b33/ss_25a3c952bfc85186031455aa43b1ec63b1776b33.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/9169123eac43b28def1788839f08277809fe2e51/ss_9169123eac43b28def1788839f08277809fe2e51.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/9169123eac43b28def1788839f08277809fe2e51/ss_9169123eac43b28def1788839f08277809fe2e51.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/885b1a96c037174f0672597ae59d65e602b204f8/ss_885b1a96c037174f0672597ae59d65e602b204f8.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/885b1a96c037174f0672597ae59d65e602b204f8/ss_885b1a96c037174f0672597ae59d65e602b204f8.1920x1080.jpg?t=1791517606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/0a7d575c7d8c759e9fe8b3daf63b16d90047bed6/ss_0a7d575c7d8c759e9fe8b3daf63b16d90047bed6.600x338.jpg?t=1791517606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3050900/0a7d575c7d8c759e9fe8b3daf63b16d90047bed6/ss_0a7d575c7d8c759e9fe8b3daf63b16d90047bed6.1920x1080.jpg?t=1791517606"
+    }
+  ],
+  "web": "https://www.romeo-is-a-dead-man.com/en/",
+  "igdbIntentado": true,
+  "igdb": 347119,
+  "youtube": [
+    {
+      "id": "nW1cE6sj6h8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "FHng8C-N9bw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ceog9nU0ucs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "CHcb7_MEDKQ",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:50:39.213Z"
+}

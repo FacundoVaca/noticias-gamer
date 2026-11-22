@@ -1,0 +1,319 @@
+{
+  "clave": "one piece burning blood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1732-71eb-b10f-322e4b81727c",
+  "appid": "425220",
+  "lanzamiento": "2016-09-02",
+  "desarrolladores": [
+    "Spike Chunsoft Co. Ltd.",
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "Spike Chunsoft Co., Ltd.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Anime",
+    "Action",
+    "Fighting",
+    "Multiplayer",
+    "Pirates"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 3752,
+      "url": "https://store.steampowered.com/app/425220/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 161,
+      "url": "https://metacritic.com/game/one-piece-burning-blood/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 65,
+      "cantidad": 40,
+      "url": "https://opencritic.com/game/2245/one-piece-burning-blood"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "103371",
+      "nombre": "ONE PIECE BURNING BLOOD",
+      "apps": [
+        {
+          "appid": "425220",
+          "nombre": "One Piece Burning Blood"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "103373",
+      "nombre": "ONE PIECE BURNING BLOOD GOLD Edition",
+      "apps": [
+        {
+          "appid": "425220",
+          "nombre": "One Piece Burning Blood"
+        }
+      ],
+      "usd": 59.98,
+      "antes": 59.98,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "425220": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "501580",
+      "nombre": "One Piece Burning Blood Gold Pack",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "458445",
+      "nombre": "One Piece Burning Blood - Wanted Pack",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "501570",
+      "nombre": "One Piece Burning Blood - Wanted Pack 2",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "El juego más esperado por los fans de One Piece. One Piece Burning Blood es un nuevo juego de lucha dinámico y original protagonizado por el pirata más famoso del mundo: Monkey D. Luffy.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "1 SEP 2016",
+  "metacritic": null,
+  "nombreSteam": "One Piece Burning Blood",
+  "acerca": [
+    [
+      "p",
+      "One Piece Burning Blood es un nuevo juego de lucha dinámico y original protagonizado por el pirata más famoso del mundo: Monkey D. Luffy."
+    ],
+    [
+      "li",
+      "UN JUEGO DE LUCHA VERTIGINOSO: ¡prepárate para una acción desenfrenada con combos devastadores!"
+    ],
+    [
+      "li",
+      "HABILIDADES DE FRUTAS DEL DIABLO/HAKI: ¡podrás usar las Frutas del Diablo y los \"Haki\" para realizar movimientos especiales y acabar con los rivales más feroces!"
+    ],
+    [
+      "li",
+      "PELEAS 3 CONTRA 3: ¡elige entre 3 personajes en cualquier momento del combate y activa ataques increíbles!"
+    ],
+    [
+      "li",
+      "UN ELENCO INCREÍBLE: ¡con más de 40 personajes jugables procedentes del Grand Line y más allá!"
+    ],
+    [
+      "li",
+      "UN COMBATE LEGENDARIO: ¡revive la Guerra de Marineford con intensos combates e interludios!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Notificaciones de turnos de Steam",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-4170 @ 3.70GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA@ GeForce@ GTX 460 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690K @3.50GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA@ GeForce@ GTX 960"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d737d0462ad571ebc7508e0c72660ad86fcafc66.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d737d0462ad571ebc7508e0c72660ad86fcafc66.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_f88d444456007fe04a0fbe9aa4e2b59f8a1a24b2.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_f88d444456007fe04a0fbe9aa4e2b59f8a1a24b2.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_6b65f602d57822f6e5652d69fb263feeeebb1ec0.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_6b65f602d57822f6e5652d69fb263feeeebb1ec0.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d89e90ee83a54e1e8fefeb21a997504602921d2a.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_d89e90ee83a54e1e8fefeb21a997504602921d2a.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_9bdb521c64090fc46661c77ba98752e39006a337.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_9bdb521c64090fc46661c77ba98752e39006a337.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_2acd2c71e63e668fb1dbcc7ccf2be3d6357e1045.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_2acd2c71e63e668fb1dbcc7ccf2be3d6357e1045.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_44e8ba05042ab87b8f43beb020b91c90823df6da.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_44e8ba05042ab87b8f43beb020b91c90823df6da.1920x1080.jpg?t=1701310074"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_c4bdc4f008ec3159b33f0426af58443049a9e1c5.600x338.jpg?t=1701310074",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425220/ss_c4bdc4f008ec3159b33f0426af58443049a9e1c5.1920x1080.jpg?t=1701310074"
+    }
+  ],
+  "web": "http://www.onepiece-game.com",
+  "igdbIntentado": true,
+  "igdb": 18443,
+  "youtube": [
+    {
+      "id": "WrpoJhB9Ovw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:51:18.977Z"
+}

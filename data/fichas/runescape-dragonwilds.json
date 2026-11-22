@@ -1,0 +1,328 @@
+{
+  "clave": "runescape dragonwilds",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0195ecee-bd3d-73fa-bde4-eb222a9493fe",
+  "appid": "1374490",
+  "lanzamiento": "2025-04-15",
+  "desarrolladores": [
+    "Jagex Ltd",
+    "Jagex: The RuneScape Company"
+  ],
+  "editores": [
+    "Jagex: The RuneScape Company",
+    "Jagex Ltd",
+    "H2 Interactive Co., Ltd.",
+    "Graph"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Survival",
+    "Multiplayer",
+    "Open World Survival Craft",
+    "Co-op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 33509,
+      "url": "https://store.steampowered.com/app/1374490/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 12,
+      "url": "https://metacritic.com/game/runescape-dragonwilds/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 79,
+      "cantidad": 77,
+      "url": "https://metacritic.com/game/runescape-dragonwilds/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 30,
+      "url": "https://opencritic.com/game/18422/runescape-dragonwilds"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1713393",
+      "nombre": "RuneScape: Dragonwilds",
+      "apps": [
+        {
+          "appid": "1374490",
+          "nombre": "RuneScape: Dragonwilds"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1713392",
+      "nombre": "RuneScape: Dragonwilds - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1374490",
+          "nombre": "RuneScape: Dragonwilds"
+        }
+      ],
+      "usd": 26.65,
+      "antes": 26.65,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1374490": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4908050",
+      "nombre": "RuneScape: Dragonwilds - Actualización Deluxe",
+      "gratis": false,
+      "usd": 6.66,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "En Ashenfall, un continente olvidado de RuneScape, los dragones han despertado. Reúne, construye, mejora y crea en esta aventura cooperativa de supervivencia. Solo dominando las técnicas de supervivencia y revelando antiguos secretos podrás enfrentarte a la feroz Reina Dragona.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "15 SEP 2026",
+  "metacritic": null,
+  "nombreSteam": "RuneScape: Dragonwilds",
+  "acerca": [
+    [
+      "p",
+      "Embárcate en misiones, mejora habilidades y explora un precioso mundo diseñado a mano."
+    ],
+    [
+      "p",
+      "Esta aventura totalmente nueva mezcla fantasía elevada y la emblemática tradición de RuneScape en un continente inexplorado hasta la fecha. Los sistemas de progreso te recompensan con habilidades y hechizos únicos a medida que avanzas con cada habilidad. Enfréntate a criaturas legendarias de RuneScape como zogros, desafía a los Caballeros Negros y a los nuevos y temibles garou y disfruta de una épica banda sonora con clásicos de RuneScape regrabados y horas de música original."
+    ],
+    [
+      "p",
+      "Encuéntralos, rétalos y ábrete paso hasta la Reina Dragona."
+    ],
+    [
+      "p",
+      "Tu progreso estará bajo la amenaza constante de los temibles dragones, mientras te armas y te preparas para alzarte y enfrentarte a ellos. Sigue el rastro de destrucción y desvela los misterios del continente para aprender a plantar cara a los dragones y a vencerlos. Prepara pociones, fabrica equipo y mejora para luchar contra la fuerza más poderosa del continente."
+    ],
+    [
+      "p",
+      "La gente lista apuesta por los dragones, pero ¡nos encantan las historias de superación!"
+    ],
+    [
+      "p",
+      "¡Conjura un hacha espectral para talar árboles en un instante! Escapa del peligro en una nube de magia. Transforma huesos en... ¿melocotones?"
+    ],
+    [
+      "p",
+      "El paisaje imbuido de ánima de Ashenfall te permitirá manipular un poder como nunca has visto. ¡Conjura un tornado de peces en un lago! ¡Explora vetas de minerales con un chasquido de dedos! ¡Viaja por las inmensas y vibrantes regiones de Ashenfall, averigua por qué se filtra una magia salvaje desde sus tierras fracturadas y utiliza su poder para sobrevivir!"
+    ],
+    [
+      "p",
+      "Como en cualquier otro juego de RuneScape, la comunidad está en el centro de todo lo que hacemos."
+    ],
+    [
+      "p",
+      "Trazamos nuestro plan de desarrollo centrándonos en las opiniones de los jugadores, lo que nos llevó a lanzar servidores dedicados antes de lo previsto e introducir nuevos combates y contenidos. Trabajamos juntos para seguir desarrollando RuneScape: Dragonwilds. Tanto si juegas en solitario como si te alías con amigos, queremos conocer tu opinión y que nos ayudes a moldear el futuro del juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Tamaño del texto ajustable",
+    "Controles de volumen personalizados",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8100 o AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 (6 GB), AMD Radeon RX 5600XT o Intel Arc A750 (8 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel core i5-10600 o AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2070 (6 GB) o AMD Radeon RX 5700 XT (8 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/07ffb7a32fac4efa9373ffd873f39fa197ff7fd9/ss_07ffb7a32fac4efa9373ffd873f39fa197ff7fd9.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/07ffb7a32fac4efa9373ffd873f39fa197ff7fd9/ss_07ffb7a32fac4efa9373ffd873f39fa197ff7fd9.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/8f802b85a8f1002967f4943f76e1d645d1ffb061/ss_8f802b85a8f1002967f4943f76e1d645d1ffb061.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/8f802b85a8f1002967f4943f76e1d645d1ffb061/ss_8f802b85a8f1002967f4943f76e1d645d1ffb061.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae64662c060ee16121ab3783bd39efb21f8827a1/ss_ae64662c060ee16121ab3783bd39efb21f8827a1.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae64662c060ee16121ab3783bd39efb21f8827a1/ss_ae64662c060ee16121ab3783bd39efb21f8827a1.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/d16ec143fa679838d2a88c25798becde17990500/ss_d16ec143fa679838d2a88c25798becde17990500.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/d16ec143fa679838d2a88c25798becde17990500/ss_d16ec143fa679838d2a88c25798becde17990500.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/966ec8f30724404f0350db52141357665174b505/ss_966ec8f30724404f0350db52141357665174b505.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/966ec8f30724404f0350db52141357665174b505/ss_966ec8f30724404f0350db52141357665174b505.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/7108bff5c986feac733863511cabd916a9ead6dc/ss_7108bff5c986feac733863511cabd916a9ead6dc.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/7108bff5c986feac733863511cabd916a9ead6dc/ss_7108bff5c986feac733863511cabd916a9ead6dc.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/971a8e1f502a3450d3fc3c6dcc7a983e1b804a1c/ss_971a8e1f502a3450d3fc3c6dcc7a983e1b804a1c.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/971a8e1f502a3450d3fc3c6dcc7a983e1b804a1c/ss_971a8e1f502a3450d3fc3c6dcc7a983e1b804a1c.1920x1080.jpg?t=1794565381"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/1684f331a4a3fa142cd8a71bd88f084eae50ba43/ss_1684f331a4a3fa142cd8a71bd88f084eae50ba43.600x338.jpg?t=1794565381",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/1684f331a4a3fa142cd8a71bd88f084eae50ba43/ss_1684f331a4a3fa142cd8a71bd88f084eae50ba43.1920x1080.jpg?t=1794565381"
+    }
+  ],
+  "web": "https://dragonwilds.runescape.com/",
+  "igdbIntentado": true,
+  "igdb": 337712,
+  "youtube": [
+    {
+      "id": "vRUmeSIBo8Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NnPPTCHNqzw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "U91dq_zpKTY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "i-nO9FZKEM8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:47:31.885Z"
+}

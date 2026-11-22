@@ -1,0 +1,297 @@
+{
+  "clave": "bugsnax",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-47cc-7291-8feb-1d56b0646fe1",
+  "appid": "674140",
+  "lanzamiento": "2020-11-12",
+  "desarrolladores": [
+    "Young Horses"
+  ],
+  "editores": [
+    "Young Horses"
+  ],
+  "etiquetas": [
+    "Creature Collector",
+    "Adventure",
+    "Singleplayer",
+    "LGBTQ+",
+    "Story Rich"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 8862,
+      "url": "https://store.steampowered.com/app/674140/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 17,
+      "url": "https://metacritic.com/game/bugsnax/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 485,
+      "url": "https://metacritic.com/game/bugsnax/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 95,
+      "url": "https://opencritic.com/game/10498/bugsnax"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1955130",
+      "nombre": "Bugsnax Soundtrack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "¡Captura misteriosas criaturas comestibles y alimenta a tus amigos en esta peculiar aventura isleña!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "28 ABR 2022",
+  "metacritic": null,
+  "nombreSteam": "Bugsnax",
+  "acerca": [
+    [
+      "p",
+      "Bugsnax te lleva de viaje a la isla Tentempié, hogar de los legendarios Bichisnax, criaturas mitad aperitivo y mitad insecto. La intrépida exploradora Elisaberta Higochumbo te ha invitado personalmente, pero a tu llegada te encuentras la isla sumida en el caos. No hay rastro de tu anfitriona, su campamento está en ruinas y sus seguidores están desperdigados por la isla... ¡y muertos de hambre!"
+    ],
+    [
+      "p",
+      "Depende de ti que los misterios de la isla Tentempié se resuelvan. ¿Qué le ha pasado a Lisa? ¿Qué son los Bichisnax y de dónde vienen? Y sobre todo, ¿por qué están TAN RICOS?"
+    ],
+    [
+      "p",
+      "Características:"
+    ],
+    [
+      "li",
+      "¡Llena tu mochila de Bichisnax! Descubre, caza y captura 100 especies de Bichisnax diferentes valiéndote de cebos y artilugios de todo tipo."
+    ],
+    [
+      "li",
+      "¡Embárcate en una sabrosa misión! Explora los distintos territorios de la isla Tentempié para reunir a toda la población de Snaxburgo."
+    ],
+    [
+      "li",
+      "Alimenta a alguien y verás que ¡somos lo que comemos! Haz nuevos amigos... ¡y atibórralos de Bichisnax para cambiar su aspecto! Las posibilidades son infinitas."
+    ],
+    [
+      "li",
+      "¡Aventúrate en lo más profundo para llegar a la verdad! Sigue las pistas para descubrir la verdad sobre la peculiar pandilla de Lisa y desvelar los misterios que rodean Isla Tentempié."
+    ],
+    [
+      "li",
+      "¡Vuelve por las secundarias! ¡Descubre otras misiones y viajes se interponen en tu camino para poner a prueba tus habilidades contra los temibles y gigantescos Bichisnax!"
+    ],
+    [
+      "li",
+      "¡Siéntete como en casa! Completa los desafíos de tu buzón, consigue decoración para personalizar tu cabaña y, lo más importante de todo: ¡ponle sombreros a tus Bichisnax favoritos!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Detección de mov. en mando",
+    "Compatible con RV",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Quad Core 2.6 Ghz or equivalent"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2GB DirectX 11 Video Card (Intel UHD 620, NVIDIA GT 920M)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "6.7 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 2.8 Ghz or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4GB DirectX 11 Video Card (GTX 970 or higher)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "7.5 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "SteamVR - NVIDIA 3000 series, Intel 10th gen CPU or newer. See pinned FAQ in discussion board for more details."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_20dd7968ecdf3b8d083b76b74addfe95c17e3c86.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_20dd7968ecdf3b8d083b76b74addfe95c17e3c86.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_2639e2a47c9e80542afffda93555358a7d9aad6b.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_2639e2a47c9e80542afffda93555358a7d9aad6b.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_de0ec113aec459f07f240c638bf23d1a15356485.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_de0ec113aec459f07f240c638bf23d1a15356485.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_68b9e83e04c6a5ecfd7baba1acd1906b816aaec6.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_68b9e83e04c6a5ecfd7baba1acd1906b816aaec6.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_feac75a88b66bf886e1ededd7ea6a248c91e0e55.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_feac75a88b66bf886e1ededd7ea6a248c91e0e55.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_2c0fff4b73e3f0a963303240feadb2cffff080c2.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_2c0fff4b73e3f0a963303240feadb2cffff080c2.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_f82701e1e5dae5357a258b9373eab1134d1c3eaa.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_f82701e1e5dae5357a258b9373eab1134d1c3eaa.1920x1080.jpg?t=1774978762"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_056197436b6452635659e01104624d8e51293019.600x338.jpg?t=1774978762",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674140/ss_056197436b6452635659e01104624d8e51293019.1920x1080.jpg?t=1774978762"
+    }
+  ],
+  "web": "https://bugsnax.com/",
+  "igdbIntentado": true,
+  "igdb": 134602,
+  "youtube": [
+    {
+      "id": "-adOWZ2hOkY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "XT4RdV9F8HA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "_uKwdixRZyA",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "uXUhUK9a3Vs",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:50:33.146Z"
+}

@@ -1,0 +1,364 @@
+{
+  "clave": "uboat",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-30d0-7030-83b8-8d43155016b3",
+  "appid": "494840",
+  "lanzamiento": "2019-04-30",
+  "desarrolladores": [
+    "Deep Water Studio"
+  ],
+  "editores": [
+    "PlayWay SA",
+    "PlayWay S.A."
+  ],
+  "etiquetas": [
+    "Simulation",
+    "World War II",
+    "Submarine",
+    "Naval Combat",
+    "Naval"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 25865,
+      "url": "https://store.steampowered.com/app/494840/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 27,
+      "url": "https://metacritic.com/game/uboat/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "112686",
+      "nombre": "UBOAT",
+      "apps": [
+        {
+          "appid": "494840",
+          "nombre": "UBOAT"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "385450",
+      "nombre": "UBOAT - Commercial License",
+      "apps": [
+        {
+          "appid": "494840",
+          "nombre": "UBOAT"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "494840": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3985670",
+      "nombre": "UBOAT - Type IX: Distant Coasts",
+      "gratis": false,
+      "usd": 9.55,
+      "descuento": 0
+    },
+    {
+      "appid": "3129990",
+      "nombre": "UBOAT - Supporter Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "UBOAT es un simulador de submarino de la Segunda Guerra Mundial. Es un sandbox de supervivencia con mecánica de gestión de tripulantes en el que la temática principal es la vida de los marineros alemanes. El submarino es su hogar, y podría ser su tumba en cualquier momento.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Rol",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "2 AGO 2024",
+  "metacritic": null,
+  "nombreSteam": "UBOAT",
+  "acerca": [
+    [
+      "h",
+      "UBOAT"
+    ],
+    [
+      "p",
+      "UBOAT es un simulador de submarino de la Segunda Guerra Mundial. Es un sandbox de supervivencia con mecánica de gestión de tripulantes en el que la temática principal es la vida de los marineros alemanes. El submarino es su hogar, y podría ser su tumba en cualquier momento."
+    ],
+    [
+      "p",
+      "En UBOAT controlas a la tripulación que dirige el submarino. Tendrás que cuidar de su estado físico y mental, porque si tus marineros tienen hambre, están cansados y tienen la moral por los suelos, les va a costar hundir un pesquero."
+    ],
+    [
+      "h",
+      "Supervivencia"
+    ],
+    [
+      "p",
+      "El completo sistema de daño es la base del elemento de supervivencia del juego. Si recibes daños, se producirán situaciones inesperadas, lo que pone a prueba la creatividad y la habilidad de mantener la calma del jugador. Puedes intentar salvar a toda la tripulación o abandonar a unos pocos para salvar al resto."
+    ],
+    [
+      "p",
+      "Según viajes por el mar, a menudo tendrás que apañártelas por tu cuenta. Usa tus dotes de gestión para gastar los recursos que llevas o, posiblemente, intenta reponerlos en alta mar, ya sea acudiendo a tus aliados... o saqueando los restos de tus enemigos."
+    ],
+    [
+      "li",
+      "Apaga los dispositivos que no uses para que los acumuladores te duren más."
+    ],
+    [
+      "li",
+      "Deja a los tripulantes en sus literas para ahorrar oxígeno."
+    ],
+    [
+      "li",
+      "Si la moral de la tripulación está baja, juega una mano o dos de Skat con ellos o pon alguna emisora local de radio."
+    ],
+    [
+      "h",
+      "Carrera en la Kriegsmarine"
+    ],
+    [
+      "p",
+      "Durante la partida, recibirás órdenes desde el cuartel general de la Kriegsmarine. Nunca son lineares y a menudo habrá complicaciones u órdenes adicionales."
+    ],
+    [
+      "p",
+      "Completar los encargos del alto mando con valor se recompensará con un aumento del presupuesto de tu unidad y de la reputación de su capitán. Te hará falta para mejorar tu submarino y hacer frente a los adelantos tecnológicos del enemigo."
+    ],
+    [
+      "li",
+      "Usa los fondos que recibes para mejorar tu submarino."
+    ],
+    [
+      "li",
+      "Aprovecha tu reputación para obtener permiso para más acciones."
+    ],
+    [
+      "li",
+      "Compra equipo, incluyendo tipos de torpedo nuevos, señuelos de sonar, absorbentes de CO2 y más."
+    ],
+    [
+      "li",
+      "Envía a tus oficiales a tareas especiales en el cuartel general, como acelerar la investigación de nuevas tecnologías."
+    ],
+    [
+      "h",
+      "Simulación precisa"
+    ],
+    [
+      "p",
+      "Los elementos de simulación del juego son muy realistas, pero no a costa de la jugabilidad. A pesar de los extensos elementos de simulación del juego, es posible jugar a UBOAT como un juego normal y ya después aprender los conceptos más complejos para mejorar como capitán."
+    ],
+    [
+      "p",
+      "El juego reproduce hasta detalles menores como la influencia del lastre de cada compartimento sobre la inclinación o la curvatura de la Tierra."
+    ],
+    [
+      "p",
+      "Puedes alcanzar la perfección a tu manera. Demuestra tus dotes de mando asignando tareas a tus oficiales para agilizar las cosas. Si por el contrario opinas que si quieres que algo se haga bien tienes que hacerlo personalmente, puedes."
+    ],
+    [
+      "p",
+      "¡Siéntate al periscopio, al hidrófono o a los mandos del calón de 88 mm y haz las cosas a tu manera!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Workshop",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 64 Bit / Windows 8 64 Bit / Windows 10 64 Bit / Windows 11 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Core i3 3.1 GHz or AMD Phenom II X3 2.8 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 750 Ti 2GB (1080p Low) or AMD equivalents"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "71 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 64 Bit / Windows 8 64 Bit / Windows 10 64 Bit / Windows 11 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Quad Core i7 3770K or AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1060 6 GB (1080p High), GeForce GTX 1070 8GB (1080p Extreme) or AMD equivalents"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "71 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_fb709561cdf373eae0deece2694bf678b6e043b4.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_fb709561cdf373eae0deece2694bf678b6e043b4.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_854a76279d92b1204757c387cf7c1600f2e2a902.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_854a76279d92b1204757c387cf7c1600f2e2a902.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_360784de4516980d58a559a8e56b5fa6218c64ae.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_360784de4516980d58a559a8e56b5fa6218c64ae.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_e0839c548794d440506978cad46ac24f75abf534.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_e0839c548794d440506978cad46ac24f75abf534.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_95808293a93f991968f818e5adddbc022b135c9e.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_95808293a93f991968f818e5adddbc022b135c9e.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_11e6d6eda9092dae4704ad392a4e33c75c3deccb.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_11e6d6eda9092dae4704ad392a4e33c75c3deccb.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_05d7055c88ad8d529d2654d8d7b88ea665095a33.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_05d7055c88ad8d529d2654d8d7b88ea665095a33.1920x1080.jpg?t=1794496195"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_175073d00dcabdcc37ee2ace39f34ea6547fb272.600x338.jpg?t=1794496195",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_175073d00dcabdcc37ee2ace39f34ea6547fb272.1920x1080.jpg?t=1794496195"
+    }
+  ],
+  "igdbIntentado": true,
+  "igdb": 32283,
+  "youtube": [
+    {
+      "id": "iLsEHx-flHE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "6HdO2raBwCE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "FvdVCfQagRk",
+      "nombre": "Gameplay video"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:47:54.808Z"
+}
