@@ -6,7 +6,11 @@ Cada 3 horas, GitHub Actions corre `scripts/actualizar.mjs`:
 
 1. **Lee los RSS** de los medios de `config.json` (IGN, GameSpot, PC Gamer, VGC, Eurogamer, 3DJuegos, Vandal, blogs oficiales de PlayStation y Xbox, etc.). Descarta ofertas, guías, reseñas y patrocinados.
 2. **Agrupa** la misma noticia publicada por distintos medios. Por defecto solo escribe sobre temas que aparecen en **2 o más medios** (o en un blog oficial). Eso evita "copiar" una sola nota y suele elegir las noticias más importantes.
-3. **Gemini redacta** una nota original en español con la información de todas las fuentes: título, copete, puntos clave, subtítulos y etiquetas.
+3. **Gemini redacta** una nota original en español de 700 a 1100 palabras con la información de todas las fuentes, según el tipo:
+   - **Noticia**: qué se sabe, contexto y "qué significa para los jugadores" con consejos prácticos.
+   - **Problema** (errores, bugs, caídas): causas y una sección **"Cómo solucionarlo"** con pasos. Primero las soluciones que dan las fuentes o el desarrollador, después pasos generales seguros. Si falta esa sección, se reescribe.
+   - **Ofertas**: una **tabla con cada juego, precio y botón a la tienda**. Solo quedan los productos cuyo enlace y precio aparecen de verdad en las fuentes; los enlaces se limpian de códigos de afiliado de otros sitios.
+   - Todas llevan **preguntas frecuentes** (también marcadas para que Google las muestre).
 4. **Controles de calidad**: si la nota es muy corta (menos de 320 palabras) o repite frases textuales de las fuentes (más del 6%), le pide que la reescriba una vez; si vuelve a fallar, la descarta.
 5. **Portada** (nunca se usan imágenes de los medios), en este orden:
    - Ilustración generada por Gemini (si tu cuenta tiene cupo de generación de imágenes).

@@ -46,7 +46,8 @@ async function llamar(modelo, cuerpo, intentos = 3) {
 const ESQUEMA = {
   type: "OBJECT",
   properties: {
-    apta: { type: "BOOLEAN", description: "false SOLO si el contenido no es una noticia de videojuegos (oferta comercial, publicidad, guía, contenido para adultos o tragedia sensible). Que hable de fechas o hechos que no conocés NO es motivo para false" },
+    apta: { type: "BOOLEAN", description: "false SOLO si no tiene que ver con videojuegos, es publicidad encubierta, contenido para adultos o una tragedia sensible. Que hable de fechas o hechos que no conocés NO es motivo para false" },
+    tipo: { type: "STRING", enum: ["noticia", "problema", "ofertas"], description: "problema = errores, fallas, bugs, caídas de servidores o cuelgues; ofertas = descuentos, rebajas, juegos gratis o precios rebajados; noticia = todo lo demás" },
     motivo: { type: "STRING" },
     titulo: { type: "STRING", description: "Título original en español, informativo, sin clickbait, máx. 95 caracteres" },
     bajada: { type: "STRING", description: "Copete de 1 o 2 oraciones que resume la noticia" },
@@ -62,10 +63,27 @@ const ESQUEMA = {
       },
     },
     clave: { type: "ARRAY", items: { type: "STRING" }, description: "3 a 5 puntos clave muy breves" },
+    ofertas: {
+      type: "ARRAY",
+      description: "Solo si tipo = ofertas: cada juego o producto en oferta que aparezca en las fuentes, con precio y enlace EXACTOS tomados de la fuente y de su lista de enlaces. Si no hay, lista vacía",
+      items: {
+        type: "OBJECT",
+        properties: {
+          producto: { type: "STRING" }, plataforma: { type: "STRING" }, precio: { type: "STRING", description: "Precio de oferta tal cual aparece en la fuente, con su moneda (ej: US$19,99)" },
+          precioAnterior: { type: "STRING" }, tienda: { type: "STRING" }, url: { type: "STRING", description: "Copiada EXACTA de la lista de enlaces de la fuente" },
+        },
+        required: ["producto", "precio", "url"],
+      },
+    },
+    preguntas: {
+      type: "ARRAY",
+      description: "2 a 4 preguntas frecuentes que haría un jugador, con respuestas breves basadas en las fuentes",
+      items: { type: "OBJECT", properties: { p: { type: "STRING" }, r: { type: "STRING" } }, required: ["p", "r"] },
+    },
     promptImagen: { type: "STRING", description: "Descripción en inglés de una ilustración de portada evocadora y genérica: sin texto, sin logos, sin personajes ni marcas registradas" },
     busquedaImagen: { type: "STRING", description: "2 a 4 palabras en inglés para buscar una foto de stock relacionada (ej: 'gaming console controller')" },
   },
-  required: ["apta", "titulo", "bajada", "categoria", "etiquetas", "cuerpo", "clave", "promptImagen", "busquedaImagen"],
+  required: ["apta", "tipo", "titulo", "bajada", "categoria", "etiquetas", "cuerpo", "clave", "preguntas", "promptImagen", "busquedaImagen"],
 };
 
 const SISTEMA_BASE = `Sos redactor/a de un medio de noticias de videojuegos para Argentina y Latinoamérica.
@@ -75,7 +93,11 @@ Reglas obligatorias:
 - Combiná lo que dicen todas las fuentes y explicá qué cambió, por qué importa y qué contexto previo tiene (franquicia, empresa, plataforma, lanzamientos anteriores) solo si estás seguro de ese contexto.
 - No inventes datos, cifras, fechas, precios ni citas. Si algo es rumor o no está confirmado, decilo explícitamente.
 - Si hay precios en dólares o euros, mencionalos tal cual; no conviertas a pesos.
-- Estructura: 1 párrafo de entrada fuerte, 2 a 4 subtítulos (h2) con 1 a 3 párrafos cada uno; podés usar una lista (li) corta si suma. Entre 380 y 650 palabras.
+- Las notas tienen que AYUDAR al lector, no solo informar. Entre 700 y 1100 palabras, con 4 a 6 subtítulos (h2) y párrafos de 2 a 4 oraciones.
+- Estructura según el tipo:
+  * noticia: entrada fuerte; "Qué se sabe" con todos los datos (fechas, plataformas, precios, requisitos); contexto (antecedentes de la saga, la empresa o la plataforma); "Qué significa para los jugadores" con consejos prácticos (si conviene esperar, qué preparar, cómo aprovecharlo, dónde seguirlo).
+  * problema (errores, bugs, caídas, cuelgues): qué está pasando y a quién afecta; posibles causas según las fuentes; un subtítulo exactamente "Cómo solucionarlo" seguido de 4 a 8 pasos en lista (li). Primero las soluciones que mencionan las fuentes o el desarrollador; después pasos generales seguros y habituales para esa plataforma (reiniciar, buscar actualización del sistema y del juego, verificar archivos, limpiar caché, reconstruir base de datos en PlayStation, actualizar drivers en PC, revisar el estado de los servidores), presentándolos como pasos generales. Nunca inventes un parche o solución oficial que no esté en las fuentes. Cerrá con qué hacer si nada funciona (contactar soporte oficial, esperar el parche).
+  * ofertas: entrada con el contexto (qué evento o tienda, hasta cuándo dura si se sabe); completá el campo "ofertas" con TODOS los juegos o productos con precio que aparezcan en las fuentes, copiando precio y enlace exactos; nunca inventes precios ni enlaces; en el cuerpo recomendá 3 a 5 destacadas explicando por qué valen la pena y agregá consejos para aprovechar las rebajas. No repitas la lista completa en el cuerpo: se muestra en una tabla aparte.
 - No menciones que sos una IA, no hables de "las fuentes" en el texto ni nombres los medios: los enlaces se agregan aparte.
 - Usá mayúsculas normales del español: al inicio de cada oración, título y punto de lista, y en nombres propios (GTA 6, Rockstar Games, PS5, Xbox Series X|S, Nintendo Switch 2).
 - Sin emojis, sin mayúsculas sostenidas, sin clickbait.`;
@@ -92,7 +114,7 @@ export async function redactarNota(grupo, cfg, aviso = "") {
   const fuentes = grupo.map((it, i) => `### Fuente ${i + 1} (${it.idioma}) - ${it.fecha.slice(0, 10)}
 Título: ${it.titulo}
 Resumen: ${it.resumen}
-Texto: ${(it.texto || it.contenido || "").slice(0, 4000)}`).join("\n\n");
+Texto: ${(it.texto || it.contenido || "").slice(0, 5000)}${it.enlaces?.length ? `\nLista de enlaces de la fuente (texto -> url):\n${it.enlaces.slice(0, 60).map((l) => `- ${l.texto} -> ${l.url}`).join("\n")}` : ""}`).join("\n\n");
   const prompt = `Escribí una nota a partir de esta información sobre una misma noticia.${aviso ? "\nIMPORTANTE: " + aviso : ""}\n\n${fuentes}`;
 
   if (process.env.GEMINI_MOCK) return notaDePrueba(grupo);
@@ -168,9 +190,12 @@ function notaDePrueba(grupo) {
     apta: true, modelo: "mock",
     titulo: `[Prueba] ${t}`.slice(0, 95),
     bajada: "Nota de ejemplo generada en modo de prueba, sin IA.",
+    tipo: /error|crash|bug/i.test(t) ? "problema" : /deal|sale|oferta/i.test(t) ? "ofertas" : "noticia",
+    ofertas: /deal|sale|oferta/i.test(t) ? (grupo[0].enlaces || []).slice(0, 6).map((l, i) => ({ producto: l.texto, plataforma: "PS5", precio: `US$${(i + 1) * 10}`, url: l.url, tienda: "Tienda" })) : [],
+    preguntas: [{ p: "¿Pregunta de prueba?", r: "Respuesta de prueba." }],
     categoria: /nintendo|switch/i.test(t) ? "nintendo" : /playstation|ps5/i.test(t) ? "playstation" : /xbox/i.test(t) ? "xbox" : /steam|pc/i.test(t) ? "pc" : "general",
     etiquetas: [...new Set(t.split(/\s+/).filter((w) => /^[A-Z]/.test(w)).slice(0, 4))],
-    cuerpo: [{ tipo: "p", texto: p(1) }, { tipo: "h2", texto: "Qué se sabe" }, { tipo: "p", texto: p(2) }, { tipo: "li", texto: "Un punto de lista" }, { tipo: "li", texto: "Otro punto" }, { tipo: "h2", texto: "Por qué importa" }, { tipo: "p", texto: p(3) }],
+    cuerpo: [{ tipo: "p", texto: p(1) }, { tipo: "h2", texto: "Qué se sabe" }, { tipo: "p", texto: p(2) }, { tipo: "li", texto: "Un punto de lista" }, { tipo: "li", texto: "Otro punto" }, { tipo: "h2", texto: /error|crash|bug/i.test(t) ? "Cómo solucionarlo" : "Por qué importa" }, { tipo: "li", texto: "Paso uno" }, { tipo: "li", texto: "Paso dos" }, { tipo: "li", texto: "Paso tres" }, { tipo: "li", texto: "Paso cuatro" }, { tipo: "p", texto: p(3) }, { tipo: "p", texto: p(4) }, { tipo: "p", texto: p(5) }],
     clave: ["Primer dato clave", "Segundo dato clave", "Tercer dato clave"],
     promptImagen: "a glowing game controller on a desk at night",
     busquedaImagen: "video game controller",

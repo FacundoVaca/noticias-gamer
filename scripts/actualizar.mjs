@@ -1,7 +1,7 @@
 // Corre cada pocas horas (GitHub Actions): lee RSS, agrupa noticias, redacta con Gemini,
 // crea portada, guarda la nota y regenera el sitio.
 import fs from "node:fs";
-import { leerFeeds, esRuido, textoDeArticulo } from "./lib/rss.mjs";
+import { leerFeeds, esRuido, textoDeArticulo, limpiarEnlace } from "./lib/rss.mjs";
 import { redactarNota, revisarNovedades } from "./lib/gemini.mjs";
 import { crearPortada } from "./lib/imagenes.mjs";
 import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, mayusculasOK, capitalizar, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
@@ -65,6 +65,36 @@ const candidatos = enriquecidos.filter((g) => !g.tema && (g.fuentes >= P.minFuen
 const seguimientos = enriquecidos.filter((g) => g.tema?.slug).sort((a, b) => b.puntaje - a.puntaje);
 log(`Temas nuevos: ${candidatos.length}. Posibles actualizaciones: ${seguimientos.length}. Repetidos sin notas nuevas: se omiten.`);
 
+// Controles por tipo de nota. Devuelve un motivo para reescribir, o "" si está bien.
+// En ofertas deja solo los productos cuyo enlace y precio aparecen de verdad en las fuentes.
+function revisarTipo(n, fuentes) {
+  if (n.tipo === "problema") {
+    const i = n.cuerpo.findIndex((b) => b.tipo === "h2" && /soluci|arregl/i.test(b.texto));
+    const pasos = i < 0 ? 0 : n.cuerpo.slice(i + 1).filter((b) => b.tipo === "li").length;
+    if (pasos < 3) return 'Es una nota sobre un problema: agregá un subtítulo "Cómo solucionarlo" con 4 a 8 pasos en lista (li).';
+  }
+  if (n.tipo === "ofertas") {
+    const enlaces = new Set(fuentes.flatMap((f) => (f.enlaces || []).map((l) => l.url)));
+    const texto = fuentes.map((f) => `${f.texto} ${f.resumen} ${(f.enlaces || []).map((l) => l.texto).join(" ")}`).join(" ").replace(/(\d)[.,](?=\d)/g, "$1");
+    const digitos = (p) => (p || "").replace(/[^\d]/g, "");
+    const validas = (n.ofertas || []).filter((o) => {
+      const url = limpiarEnlace(o.url || "");
+      const d = digitos(o.precio);
+      if (!url || !enlaces.has(url) || !d) return false;
+      if (!(/\b(gratis|free)\b/i.test(o.precio) || texto.includes(d))) return false;
+      o.url = url;
+      return true;
+    });
+    log(`  ofertas: ${validas.length} válidas de ${(n.ofertas || []).length}`);
+    n.ofertas = validas;
+    if (validas.length < 3) {
+      if (!enlaces.size) return "";
+      return "Es una nota de ofertas: completá el campo ofertas con todos los productos que tengan precio en las fuentes, copiando el precio y la url EXACTA de la lista de enlaces.";
+    }
+  }
+  return "";
+}
+
 // 4) Redactar
 const marcarUsado = (g) => g.items.forEach((it) => usados.add(it.id));
 let hechas = 0, intentos = 0;
@@ -73,8 +103,9 @@ for (const g of candidatos) {
   intentos++;
   log(`Tema: "${g.unicos[0].titulo}" (${g.fuentes} fuentes)`);
   for (const it of g.unicos) {
-    it.texto = await textoDeArticulo(it.link);
-    if (it.texto.length < 300) it.texto = it.contenido || it.resumen;
+    const pag = await textoDeArticulo(it.link);
+    it.texto = pag.texto.length < 300 ? [pag.texto, it.contenido || it.resumen].filter(Boolean).join("\n") : pag.texto;
+    it.enlaces = pag.enlaces;
   }
   const fuenteTotal = g.unicos.map((it) => it.texto + " " + it.resumen).join("\n");
   let nota, motivo = "";
@@ -86,7 +117,9 @@ for (const g of candidatos) {
       const palabras = contarPalabras(plano);
       const copia = copiaLiteral(plano, fuenteTotal);
       log(`  borrador: ${palabras} palabras, copia literal ${(copia * 100).toFixed(1)}%`);
-      if (!mayusculasOK([n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)])) motivo = "La versión anterior estaba escrita toda en minúsculas. Usá mayúsculas normales al inicio de cada oración y en los nombres propios.";
+      const tipoMotivo = revisarTipo(n, g.unicos);
+      if (tipoMotivo) motivo = tipoMotivo;
+      else if (!mayusculasOK([n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)])) motivo = "La versión anterior estaba escrita toda en minúsculas. Usá mayúsculas normales al inicio de cada oración y en los nombres propios.";
       else if (palabras < P.minPalabras) motivo = `La nota anterior quedó corta (${palabras} palabras). Escribí al menos ${P.minPalabras + 80} palabras con más contexto.`;
       else if (copia > P.maxCopiaLiteral) motivo = "La versión anterior copiaba frases textuales de las fuentes. Reescribí todo con tus propias palabras y otra estructura.";
       else { nota = n; break; }
@@ -112,6 +145,9 @@ for (const g of candidatos) {
     titulo: capitalizar(nota.titulo.trim()), bajada: capitalizar(nota.bajada.trim()), categoria: nota.categoria,
     etiquetas: (nota.etiquetas || []).slice(0, 6), clave: (nota.clave || []).slice(0, 5).map(capitalizar),
     cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()).map((b) => ({ ...b, texto: capitalizar(b.texto.trim()) })),
+    tipo: nota.tipo || "noticia",
+    ofertas: nota.tipo === "ofertas" ? nota.ofertas : undefined,
+    preguntas: (nota.preguntas || []).filter((q) => q.p?.trim() && q.r?.trim()).slice(0, 4).map((q) => ({ p: capitalizar(q.p.trim()), r: capitalizar(q.r.trim()) })),
     imagen, modelo: nota.modelo,
     fuentes: g.unicos.map((it) => ({ medio: it.fuente, titulo: it.titulo, url: it.link })),
   };
@@ -135,8 +171,9 @@ for (const g of seguimientos) {
   if (!nuevasFuentes.length || horas(nota.actualizada || nota.fecha) < (P.horasEntreActualizaciones ?? 3)) continue;
   log(`Seguimiento de "${nota.titulo}" con ${nuevasFuentes.length} fuentes nuevas`);
   for (const it of nuevasFuentes) {
-    it.texto = await textoDeArticulo(it.link);
-    if (it.texto.length < 300) it.texto = it.contenido || it.resumen;
+    const pag = await textoDeArticulo(it.link);
+    it.texto = pag.texto.length < 300 ? [pag.texto, it.contenido || it.resumen].filter(Boolean).join("\n") : pag.texto;
+    it.enlaces = pag.enlaces;
   }
   let res;
   try { res = await revisarNovedades(nota, nuevasFuentes, cfg); }

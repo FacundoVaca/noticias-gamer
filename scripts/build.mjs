@@ -112,6 +112,8 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
 ${n.clave?.length ? `<aside class="clave"><strong>Lo importante</strong><ul>${n.clave.map((c) => `<li>${e(c)}</li>`).join("")}</ul></aside>` : ""}
 ${n.actualizaciones?.length ? n.actualizaciones.map((a) => `<section class="upd"><p class="upd-tit">Actualización · <time datetime="${a.fecha}">${fechaLarga(a.fecha)}</time></p>${cuerpoHTML(a.bloques)}</section>`).join("") : ""}
 <div class="texto">${cuerpoHTML(n.cuerpo)}</div>
+${n.ofertas?.length ? `<section class="ofertas"><h2>Listado de ofertas</h2><div class="tabla-wrap"><table><thead><tr><th>Juego o producto</th><th>Plataforma</th><th>Precio</th><th>Antes</th><th></th></tr></thead><tbody>${n.ofertas.map((o) => `<tr><td>${e(o.producto)}</td><td>${e(o.plataforma || "")}</td><td class="precio">${e(o.precio)}</td><td class="antes">${e(o.precioAnterior || "")}</td><td><a class="btn-oferta" href="${e(o.url)}" rel="nofollow sponsored noopener" target="_blank">Ver${o.tienda ? " en " + e(o.tienda) : ""}</a></td></tr>`).join("")}</tbody></table></div><p class="mini">Precios tomados de las fuentes al ${fechaLarga(n.fecha)}. Pueden cambiar o terminar sin aviso: verificá el precio final en la tienda.</p></section>` : ""}
+${n.preguntas?.length ? `<section class="faq"><h2>Preguntas frecuentes</h2>${n.preguntas.map((q) => `<details><summary>${e(q.p)}</summary><p>${e(q.r)}</p></details>`).join("")}</section>` : ""}
 ${n.etiquetas?.length ? `<p class="tags">${n.etiquetas.map((t) => `<span>${e(t)}</span>`).join("")}</p>` : ""}
 <section class="fuentes"><h2>Fuentes</h2><ul>${n.fuentes.map((f) => `<li><a href="${e(f.url)}" rel="nofollow noopener" target="_blank">${e(f.medio)}: ${e(f.titulo)}</a></li>`).join("")}</ul>
 <p class="mini">Esta nota fue elaborada por ${e(S.nombre)} a partir de la información publicada en los enlaces de arriba, con asistencia de inteligencia artificial y bajo nuestra <a href="/politica-editorial/">política editorial</a>. ¿Viste un error? <a href="/contacto/">Avisanos</a>.</p></section>
@@ -119,7 +121,7 @@ ${n.etiquetas?.length ? `<p class="tags">${n.etiquetas.map((t) => `<span>${e(t)}
 ${rel.length ? `<section class="relacionadas"><h2>Seguí leyendo</h2><div class="grilla">${rel.map((o) => tarjeta(o)).join("")}</div></section>` : ""}`;
     const og = `<meta property="og:type" content="article"><meta property="og:image" content="${S.url}${img(n)}"><meta property="article:published_time" content="${n.fecha}">`;
     return pagina({ titulo: `${n.titulo} | ${S.nombre}`, desc: n.bajada, canon: publica ? urlNota(n) : `/revision/${n.slug}/`, cuerpo, og, ads: publica, indexar: publica,
-      extraHead: publica ? `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, "\\u003c")}</script>` : "" });
+      extraHead: publica ? [ld, n.preguntas?.length ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: n.preguntas.map((q) => ({ "@type": "Question", name: q.p, acceptedAnswer: { "@type": "Answer", text: q.r } })) } : null].filter(Boolean).map((x) => `<script type="application/ld+json">${JSON.stringify(x).replace(/</g, "\\u003c")}</script>`).join("") : "" });
   };
   for (const n of notas) escribir(path.join("notas", n.slug, "index.html"), generarNota(n, true));
 

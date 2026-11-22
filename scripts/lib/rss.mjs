@@ -58,8 +58,8 @@ export function parsearFeed(xml, fuente) {
 }
 
 // Filtra lo que no es noticia: ofertas, guías, reseñas largas, patrocinados, etc.
-const RUIDO = /\b(black friday|cyber monday|prime day|hot sale|deal|deals|% off|discount|coupon|best .* (?:to buy|for)|wordle|quiz|sponsored|giveaway|how to|guide|walkthrough|where to find|locations?|codes?\b|review:|tested:|oferta|ofertas|descuento|rebaja|chollo|gu[ií]a|c[oó]mo conseguir|c[oó]digos|patrocinado|sorteo)\b/i;
-export const esRuido = (it) => RUIDO.test(it.titulo) || it.categorias.some((c) => /deals?|sponsored|guides?|ofertas|patrocinado/i.test(c));
+const RUIDO = /\b(wordle|quiz|sponsored|giveaway|guide|walkthrough|where to find|locations?|codes?\b|review:|tested:|gu[ií]a|c[oó]mo conseguir|c[oó]digos|patrocinado|sorteo)\b/i;
+export const esRuido = (it) => RUIDO.test(it.titulo) || it.categorias.some((c) => /sponsored|guides?|patrocinado/i.test(c));
 
 export async function leerFeeds(feeds) {
   const todos = [];
@@ -73,13 +73,38 @@ export async function leerFeeds(feeds) {
   return todos;
 }
 
-// Extrae el texto principal de una página de noticia (solo como insumo para la IA).
-export async function textoDeArticulo(url, max = 4500) {
+// Limpia enlaces de afiliados/redirecciones y parámetros de seguimiento.
+export function limpiarEnlace(url) {
+  try {
+    let u = new URL(url);
+    for (const k of ["url", "u", "murl", "dest", "destination", "target"]) {
+      const v = u.searchParams.get(k);
+      if (v && /^https?:\/\//.test(v)) { u = new URL(v); break; }
+    }
+    for (const k of [...u.searchParams.keys()]) if (/^(utm_|tag$|ref$|ref_|affid|aff_|clickid|subid|irclickid|cjevent|ascsubtag|xcust|sharedid)/i.test(k)) u.searchParams.delete(k);
+    return u.toString();
+  } catch { return null; }
+}
+
+// Extrae el texto principal y los enlaces de una página de noticia (solo como insumo para la IA).
+export async function textoDeArticulo(url, max = 6000) {
   try {
     const html = await traer(url, { timeout: 15000 });
     const zona = (html.match(/<article[\s\S]*?<\/article>/i) || [html])[0];
-    const parrafos = [...zona.matchAll(/<p[\s>][\s\S]*?<\/p>/gi)].map((m) => sinHtml(m[0]))
-      .filter((p) => p.length > 60 && !/cookie|newsletter|subscribe|suscr[ií]b|affiliate|afiliad|sign up/i.test(p));
-    return parrafos.join("\n").slice(0, max);
-  } catch { return ""; }
+    const bloques = [...zona.matchAll(/<(p|li|h2|h3|td)[\s>][\s\S]*?<\/\1>/gi)]
+      .map((m) => ({ tag: m[1].toLowerCase(), t: sinHtml(m[0]) }))
+      .filter(({ tag, t }) => t.length > (tag === "p" ? 25 : 3) && !/cookie|newsletter|subscribe|suscr[ií]b|sign up/i.test(t))
+      .map(({ t }) => t);
+    const enlaces = [];
+    const vistos = new Set();
+    for (const m of zona.matchAll(/<a\s[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+      const texto = sinHtml(m[2]).slice(0, 120);
+      const limpio = limpiarEnlace(decodificar(m[1]));
+      if (!texto || !limpio || vistos.has(limpio) || !/^https?:/.test(limpio)) continue;
+      vistos.add(limpio);
+      enlaces.push({ texto, url: limpio });
+      if (enlaces.length >= 80) break;
+    }
+    return { texto: [...new Set(bloques)].join("\n").slice(0, max), enlaces };
+  } catch { return { texto: "", enlaces: [] }; }
 }

@@ -57,3 +57,14 @@ main{padding:26px 18px 50px}
 @media(max-width:760px){.card-xl{grid-template-columns:1fr}.card-xl img{min-height:0}.card-xl h2{font-size:1.35rem}.card-xl .card-txt{padding:16px}body{font-size:16.5px}}
 .upd{background:#13202a;border:1px solid #1f4a5c;border-left:4px solid var(--brand2);border-radius:10px;padding:12px 18px 4px;margin:0 0 22px}
 .upd-tit{font-size:.82rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--brand2);margin:0 0 .5em}
+.ofertas h2,.faq h2{font-size:1.4rem;margin:1.6em 0 .6em}
+.tabla-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px}
+.ofertas table{width:100%;border-collapse:collapse;font-size:.93rem;min-width:560px}
+.ofertas th,.ofertas td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left}
+.ofertas th{background:var(--panel2);color:var(--muted);font-weight:700;font-size:.8rem;text-transform:uppercase;letter-spacing:.04em}
+.ofertas .precio{color:var(--brand);font-weight:800;white-space:nowrap}
+.ofertas .antes{color:var(--muted);text-decoration:line-through;white-space:nowrap}
+.btn-oferta{display:inline-block;background:var(--brand);color:#0d0f14;font-weight:800;padding:6px 12px;border-radius:8px;text-decoration:none;white-space:nowrap;font-size:.85rem}
+.faq details{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin-bottom:10px}
+.faq summary{font-weight:700;cursor:pointer}
+.faq details p{margin:.6em 0 0;color:#d2d8e2}
