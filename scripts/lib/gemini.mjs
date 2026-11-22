@@ -22,7 +22,7 @@ async function llamar(modelo, cuerpo, intentos = 3) {
       continue;
     }
     // Si Google retiró el modelo y sugiere otro, se usa el sugerido automáticamente
-    const sugerido = r.status === 404 && (txt.match(/update to (?:models\/)?([a-z0-9.\-]+)/i) || [])[1];
+    const sugerido = r.status === 404 && (txt.match(/update to (?:models\/)?([a-z0-9.\-]*[a-z0-9])/i) || [])[1];
     if (sugerido && sugerido !== modelo) {
       log(`Gemini: ${modelo} retirado, se usa ${sugerido}. Actualizá config.json cuando puedas.`);
       modelo = sugerido;
