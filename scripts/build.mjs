@@ -35,12 +35,23 @@ export function construir() {
   const adsense = S.adsenseCliente ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${S.adsenseCliente}" crossorigin="anonymous"></script>` : "";
   const img = (n) => n.imagen?.archivo ? `/img/${n.imagen.archivo}` : "/assets/portada.svg";
   const urlNota = (n) => `/notas/${n.slug}/`;
-  const navCats = Object.entries(CAT).filter(([k]) => k !== "general")
-    .map(([k, v]) => `<a href="/categoria/${k}/">${e(v)}</a>`).join("")
-    + `<a href="/ofertas/">Ofertas</a><a href="/soluciones/">Soluciones</a>`;
+  // Menú: en PC, secciones principales + "Plataformas" desplegable; en celular, botón "Menú" con todo ordenado
+  const navPlat = Object.entries(CAT).filter(([k]) => k !== "general").map(([k, v]) => `<a href="/categoria/${k}/">${e(v)}</a>`).join("");
+  const navTiendas = [["steam", "Steam"], ["epic", "Epic Games"], ["xbox", "Xbox"], ["playstation", "PlayStation"]].map(([k, v]) => `<a href="/ofertas/${k}/">${v}</a>`).join("");
+  const menu = `<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
+<nav class="menu" id="menu" aria-label="Principal">
+<a class="menu-p" href="/">Noticias</a><a class="menu-p menu-of" href="/ofertas/">Ofertas</a><a class="menu-p" href="/soluciones/">Soluciones</a>
+<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p>${navPlat}</div></div>
+<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p>${navTiendas}</div>
+</nav>
+<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
+b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
+x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
+document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script>`;
 
   const pagina = ({ titulo, desc, canon, cuerpo, og = "", ads = true, indexar = true, extraHead = "" }) => `<!doctype html>
-<html lang="${S.idioma}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="${S.idioma}" class="sin-js"><head><meta charset="utf-8"><script>document.documentElement.className="js"</script><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${e(titulo)}</title><meta name="description" content="${e(desc)}">
 <link rel="canonical" href="${S.url}${canon}">${indexar ? "" : '<meta name="robots" content="noindex,nofollow">'}
 <meta property="og:site_name" content="${e(S.nombre)}"><meta property="og:title" content="${e(titulo)}"><meta property="og:description" content="${e(desc)}"><meta property="og:url" content="${S.url}${canon}">${og}
@@ -53,7 +64,7 @@ export function construir() {
 ${ads ? adsense : ""}${extraHead}
 </head><body>
 <header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico" aria-hidden="true">▶</span>${e(S.nombre).replace(/ Gamer$/, " <b>Gamer</b>")}</a>
-<nav class="cats" aria-label="Secciones">${navCats}</nav></div></header>
+${menu}</div></header>
 <main class="wrap">${cuerpo}</main>
 <footer class="pie"><div class="wrap">
 <p><strong>${e(S.nombre)}</strong>. ${e(S.descripcion)}</p>

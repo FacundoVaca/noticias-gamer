@@ -59,6 +59,30 @@ async function foto(db) {
     ORDER BY j.tienda, (j.extra->>'orden')::int NULLS LAST, j.descuento DESC`);
 }
 
+// Historial de precios de las ofertas vigentes para las páginas de cada juego.
+// Se guardan tramos [desde, hasta, precio] de días seguidos con el mismo precio; el último tramo
+// queda abierto (hasta = null) para que el archivo solo cambie cuando cambia un precio.
+const HIST = ruta("data", "historial.json");
+async function exportarHistorial(db, juegos) {
+  const ids = juegos.filter((g) => !g.extra?.proximamente).map((g) => g.id);
+  if (!ids.length) return;
+  const filas = await db(`SELECT juego_id, to_char(dia, 'YYYY-MM-DD') AS dia, precio::float AS precio, moneda FROM precios
+    WHERE juego_id = ANY($1) AND dia > (now() AT TIME ZONE 'America/Argentina/Buenos_Aires')::date - 365 ORDER BY juego_id, dia`, [ids]);
+  const moneda = new Map(juegos.map((g) => [g.id, g.moneda]));
+  const out = {};
+  const sig = (d) => new Date(Date.parse(d + "T12:00:00Z") + 864e5).toISOString().slice(0, 10);
+  for (const f of filas) {
+    if (f.moneda !== moneda.get(f.juego_id)) continue;
+    const t = (out[f.juego_id] ||= []);
+    const u = t[t.length - 1];
+    if (u && u[2] === f.precio && sig(u[1]) === f.dia) u[1] = f.dia;
+    else t.push([f.dia, f.dia, f.precio]);
+  }
+  for (const t of Object.values(out)) t[t.length - 1][1] = null;
+  guardarJSON(HIST, out);
+  log(`Historial: ${Object.keys(out).length} juegos.`);
+}
+
 async function main() {
   const db = await conectar();
   const previo = leerJSON(SNAP, { juegos: [] });
@@ -88,6 +112,7 @@ async function main() {
   let juegos;
   if (db) {
     juegos = await foto(db);
+    await exportarHistorial(db, juegos).catch((err) => log("Historial: ERROR", err.message));
     // Limpieza para no llenar la base: juegos que no aparecen hace 180 días y su historial
     await db("DELETE FROM juegos WHERE visto < now() - interval '180 days'");
   } else {
