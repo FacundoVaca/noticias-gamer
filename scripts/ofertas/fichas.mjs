@@ -103,7 +103,7 @@ async function steamDetalle(appid) {
 
 // Resumen de reseñas de usuarios de Steam (todas las compras, todos los idiomas)
 async function steamResenas(appid) {
-  const r = await pedir(`https://store.steampowered.com/appreviews/${appid}?json=1&l=spanish&language=all&purchase_type=all&num_per_page=0&filter=summary`);
+  const r = await pedir(`https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`);
   const q = r?.query_summary;
   if (!r?.success || !q?.total_reviews) return null;
   return { texto: q.review_score_desc || null, positivas: q.total_positive, total: q.total_reviews };
@@ -128,6 +128,8 @@ async function itadInfo({ appid, titulo, clave }, key) {
   };
 }
 
+let fallosResenas = 0;
+
 async function consultar(grupo, key) {
   const steam = grupo.find((g) => g.tienda === "steam" && /^steam:\d+$/.test(g.id));
   let appid = steam ? steam.id.split(":")[1] : null;
@@ -151,8 +153,11 @@ async function consultar(grupo, key) {
         f.metacritic = s.metacritic;
         for (const k of ["nombreSteam", "acerca", "caracteristicas", "idiomas", "requisitos", "capturas", "web"]) if (s[k] && (!Array.isArray(s[k]) || s[k].length)) f[k] = s[k];
         f.fuentes.push("Steam");
-        try { f.resenasSteam = await steamResenas(appid); } catch (err) { log(`Reseñas Steam ${appid}: ${err.message}`); }
-        await pausa(800);
+        // Si el resumen de reseñas falla 3 veces seguidas, no se insiste en esta corrida (las de IsThereAnyDeal ya traen el % de Steam)
+        if (fallosResenas < 3) {
+          try { f.resenasSteam = await steamResenas(appid); fallosResenas = 0; } catch (err) { fallosResenas++; log(`Reseñas Steam ${appid}: ${err.message}`); }
+          await pausa(800);
+        }
       }
     } catch (err) { log(`Ficha Steam ${appid}: ${err.message}`); }
     await pausa(1500); // la tienda de Steam limita las consultas seguidas

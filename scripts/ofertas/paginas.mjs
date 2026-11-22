@@ -252,7 +252,7 @@ ${acercaLargo ? `<details class="j-mas"><summary>Leer la descripción completa</
 </section>` : "";
       const caract = info.caracteristicas?.length || idiomasOrd.length ? `<section class="j-car">
 ${info.caracteristicas?.length ? `<div><h2>Características${deSteamPC}</h2><ul class="j-lista">${info.caracteristicas.map((c) => `<li>${e(c)}</li>`).join("")}</ul></div>` : ""}
-${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${idiomasOrd.map((x) => `<li${/^español/i.test(x.nombre) ? ' class="es"' : ""}>${e(x.nombre)}${x.voces ? ' <span class="voz">con voces</span>' : ""}</li>`).join("")}</ul><p class="mini">Todos con textos en pantalla; "con voces" indica audio completo en ese idioma, según Steam.</p></div>` : ""}
+${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${idiomasOrd.map((x) => `<li${/^español/i.test(x.nombre) ? ' class="es"' : ""}>${e(x.nombre)}${x.voces ? ' <span class="voz">con voces</span>' : ""}</li>`).join("")}</ul><p class="mini">${idiomasOrd.some((x) => /^español/i.test(x.nombre)) ? "" : "<b>No tiene textos en español</b> según Steam. "}Todos con textos en pantalla; "con voces" indica audio completo en ese idioma.</p></div>` : ""}
 </section>` : "";
       const requis = req && (req.minimo || req.recomendado) ? `<section class="j-req" aria-labelledby="j-req-tit">
 <h2 id="j-req-tit">Requisitos del sistema para PC</h2>
