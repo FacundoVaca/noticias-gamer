@@ -114,8 +114,10 @@ async function steamItems(appids) {
   const r = await pedir(`https://api.steampowered.com/IStoreBrowseService/GetItems/v1/?input_json=${encodeURIComponent(JSON.stringify(input))}`);
   return (r?.response?.store_items || []).filter((x) => x.success === 1 && x.visible !== false && x.name && x.appid).map((x) => {
     const b = x.best_purchase_option || {};
+    // Steam Argentina cobra en dólares: el precio se guarda como número en USD
+    const usd = (c, txt) => c != null && !isNaN(+c) ? +c / 100 : txt && /\d/.test(txt) ? +txt.replace(/[^\d.,]/g, "").replace(",", ".") : null;
     return { appid: String(x.appid), nombre: x.name, gratis: !!x.is_free,
-      precio: b.formatted_final_price || null, antes: b.formatted_original_price || null, descuento: b.discount_pct || 0 };
+      usd: usd(b.final_price_in_cents, b.formatted_final_price), descuento: b.discount_pct || 0 };
   });
 }
 

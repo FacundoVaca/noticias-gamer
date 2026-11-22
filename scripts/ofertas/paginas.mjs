@@ -281,6 +281,8 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
 <p class="mini">${yt.length ? "Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir." : "Tráileres oficiales publicados en la tienda de Steam."}</p>
 </section>` : "";
       // DLC y expansiones del juego: primero los que tienen ficha (en oferta), después el resto de la lista de Steam
+      // Formato anterior guardaba el texto de Steam ("$11.99", siempre en dólares en Argentina)
+      const precioDlc = (d) => d.usd ?? (d.precio && /\d/.test(d.precio) ? +d.precio.replace(/[^\d.,]/g, "").replace(",", ".") : null);
       const conFicha = !esDlc && info.appid ? (dlcDe.get(String(info.appid)) || []) : [];
       const yaListados = new Set(conFicha.map((d) => String(fichas[d.clave]?.appid)));
       const otros = !esDlc ? (info.dlcLista || []).filter((d) => !yaListados.has(d.appid)) : [];
@@ -289,7 +291,7 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
 <p class="mini">Cada uno se compra aparte y requiere ${e(nombre)}. Sus precios no están incluidos en el del juego.</p>
 <ul class="j-dlc-lista">
 ${conFicha.map((d) => { const o = d.ofertas[0]; return `<li><a href="${d.url}">${e(o.titulo)}</a><span class="j-dlc-p"><span class="j-dlc-t">${d.ofertas.map((x) => TIENDAS_INFO[x.tienda].nombre).filter((v, i, a) => a.indexOf(v) === i).join(", ")}</span>${o.gratis ? "Gratis" : fmtOrig(o.precio, o.moneda)}${o.descuento ? ` <span class="o-desc">-${o.descuento}%</span>` : ""}</span></li>`; }).join("")}
-${otros.map((d) => `<li><a href="https://store.steampowered.com/app/${e(d.appid)}/" rel="nofollow noopener" target="_blank">${e(d.nombre)}</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>${d.gratis ? "Gratis" : d.precio ? `${e(d.precio)}${d.descuento ? ` <span class="o-desc">-${d.descuento}%</span>` : ""}` : ""}</span></li>`).join("")}
+${otros.map((d) => `<li><a href="https://store.steampowered.com/app/${e(d.appid)}/" rel="nofollow noopener" target="_blank">${e(d.nombre)}</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>${d.gratis ? "Gratis" : precioDlc(d) != null ? `${fmtUsd(precioDlc(d))}${d.descuento ? ` <span class="o-desc">-${d.descuento}%</span>` : ""}` : ""}</span></li>`).join("")}
 </ul>
 ${otros.length ? `<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.${info.dlcTotal > (info.dlcLista || []).length ? ` Hay ${info.dlcTotal} en total: <a href="https://store.steampowered.com/dlc/${e(info.appid)}/" rel="nofollow noopener" target="_blank">ver todos en Steam</a>.` : ""}</p>` : ""}
 </section>` : "";
