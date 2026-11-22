@@ -90,6 +90,40 @@ Texto: ${(it.texto || it.contenido || "").slice(0, 4000)}`).join("\n\n");
   throw ultimoError;
 }
 
+const ESQUEMA_UPD = {
+  type: "OBJECT",
+  properties: {
+    hayNovedad: { type: "BOOLEAN", description: "true solo si las fuentes nuevas traen datos concretos que la nota NO tiene (fecha, precio, plataforma, confirmación, declaración, cifra, cambio). Repetir lo mismo con otras palabras = false" },
+    resumen: { type: "STRING", description: "Qué hay de nuevo, en una frase corta" },
+    bloques: { type: "ARRAY", description: "1 a 3 párrafos (p) con SOLO la información nueva y su contexto, escrita con tus palabras", items: { type: "OBJECT", properties: { tipo: { type: "STRING", enum: ["p", "li"] }, texto: { type: "STRING" } }, required: ["tipo", "texto"] } },
+    bajada: { type: "STRING", description: "Copete actualizado si la novedad cambia lo principal; si no, vacío" },
+    clave: { type: "ARRAY", items: { type: "STRING" }, description: "Puntos clave actualizados (3 a 5)" },
+  },
+  required: ["hayNovedad", "resumen", "bloques"],
+};
+
+// Compara una nota publicada con fuentes nuevas del mismo tema y redacta la actualización.
+export async function revisarNovedades(nota, nuevas, cfg) {
+  if (process.env.GEMINI_MOCK) return { hayNovedad: true, resumen: "Dato nuevo de prueba", bloques: [{ tipo: "p", texto: "Actualización de prueba con información nueva sobre el tema, generada sin IA para verificar que el sitio agrega la sección de actualización, suma las fuentes y cambia la fecha de modificación de la nota correctamente. Se agrega una oración más para que el control de extensión mínima la acepte sin problemas." }], bajada: "", clave: [] };
+  const actual = [nota.titulo, nota.bajada, ...nota.cuerpo.map((b) => b.texto), ...(nota.actualizaciones || []).flatMap((a) => a.bloques.map((b) => b.texto))].join("\n");
+  const fuentes = nuevas.map((it, i) => `### Fuente nueva ${i + 1} (${it.idioma}) - ${it.fecha.slice(0, 10)}\nTítulo: ${it.titulo}\nResumen: ${it.resumen}\nTexto: ${(it.texto || it.contenido || "").slice(0, 3500)}`).join("\n\n");
+  const prompt = `Esta es una nota que YA publicamos:\n"""\n${actual.slice(0, 6000)}\n"""\n\nAparecieron estas fuentes nuevas sobre el mismo tema. Decidí si traen información nueva y concreta que la nota no tiene. Si la traen, escribí solo esa novedad como actualización breve.\n\n${fuentes}`;
+  let ultimoError;
+  for (const modelo of cfg.ia.modelosTexto) {
+    try {
+      const res = await llamar(modelo, {
+        systemInstruction: { parts: [{ text: SISTEMA }] },
+        contents: [{ role: "user", parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0.4, responseMimeType: "application/json", responseSchema: ESQUEMA_UPD },
+      });
+      const txt = (res.candidates?.[0]?.content?.parts || []).map((p) => p.text || "").join("");
+      if (!txt) throw new Error("respuesta vacía");
+      return JSON.parse(txt);
+    } catch (e) { ultimoError = e; log(`Revisión con ${modelo} falló: ${e.message}`); }
+  }
+  throw ultimoError;
+}
+
 // Devuelve un Buffer con la imagen generada o null.
 export async function generarImagen(prompt, cfg) {
   if (process.env.GEMINI_MOCK) return null;

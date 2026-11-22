@@ -2,7 +2,7 @@
 // crea portada, guarda la nota y regenera el sitio.
 import fs from "node:fs";
 import { leerFeeds, esRuido, textoDeArticulo } from "./lib/rss.mjs";
-import { redactarNota } from "./lib/gemini.mjs";
+import { redactarNota, revisarNovedades } from "./lib/gemini.mjs";
 import { crearPortada } from "./lib/imagenes.mjs";
 import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
 import { construir } from "./build.mjs";
@@ -44,21 +44,26 @@ for (const it of libres) {
   }
   if (mejor) mejor.items.push({ ...it, tk }); else grupos.push({ items: [{ ...it, tk }] });
 }
-const yaCubierto = (g) => estado.temasRecientes.some((t) => g.items.some((it) => {
+// Si el tema ya fue publicado devuelve ese tema (con el slug de la nota), si no null
+const temaExistente = (g) => estado.temasRecientes.find((t) => g.items.some((it) => {
   const { coef, comunes } = parecido(it.tk, new Set(t.tokens));
   return comunes >= 3 && coef >= 0.6;
-}));
-const candidatos = grupos.map((g) => {
+})) || null;
+const enriquecidos = grupos.map((g) => {
   const porFuente = new Map();
   for (const it of g.items) if (!porFuente.has(it.fuente)) porFuente.set(it.fuente, it);
   g.unicos = [...porFuente.values()].slice(0, 4);
   g.fuentes = porFuente.size;
   g.oficial = g.items.some((it) => it.oficial);
   g.puntaje = g.fuentes * 10 + (g.oficial ? 4 : 0) - Math.min(...g.items.map((it) => horas(it.fecha))) / 6;
+  g.tema = temaExistente(g);
   return g;
-}).filter((g) => (g.fuentes >= P.minFuentes || g.oficial || P.permitirUnaFuente) && !yaCubierto(g))
+});
+const candidatos = enriquecidos.filter((g) => !g.tema && (g.fuentes >= P.minFuentes || g.oficial || P.permitirUnaFuente))
   .sort((a, b) => b.puntaje - a.puntaje);
-log(`Temas candidatos: ${candidatos.length} (de ${grupos.length} grupos)`);
+// Noticias que ya publicamos pero aparecieron notas nuevas sobre el mismo tema
+const seguimientos = enriquecidos.filter((g) => g.tema?.slug).sort((a, b) => b.puntaje - a.puntaje);
+log(`Temas nuevos: ${candidatos.length}. Posibles actualizaciones: ${seguimientos.length}. Repetidos sin notas nuevas: se omiten.`);
 
 // 4) Redactar
 const marcarUsado = (g) => g.items.forEach((it) => usados.add(it.id));
@@ -110,14 +115,53 @@ for (const g of candidatos) {
     fuentes: g.unicos.map((it) => ({ medio: it.fuente, titulo: it.titulo, url: it.link })),
   };
   guardarJSON(ruta("content", "notas", `${slug}.json`), guardada);
-  estado.temasRecientes.push({ fecha, tokens: [...new Set(g.items.flatMap((it) => [...it.tk]))] });
+  estado.temasRecientes.push({ fecha, slug, tokens: [...new Set([...tokens(guardada.titulo), ...g.items.flatMap((it) => [...it.tk])])] });
   estado.publicadasPorDia[hoy] = (estado.publicadasPorDia[hoy] || 0) + 1;
   hechas++;
   log(`  ✔ ${guardada.estado}: ${slug} (imagen: ${imagen?.origen || "ninguna"})`);
   await esperar(6000);
 }
 
+// 5) Actualizar notas ya publicadas cuando hay información nueva del mismo tema
+let actualizadas = 0;
+for (const g of seguimientos) {
+  if (actualizadas >= (P.maxActualizacionesPorCorrida ?? 1)) break;
+  const archivo = ruta("content", "notas", `${g.tema.slug}.json`);
+  const nota = leerJSON(archivo, null);
+  if (!nota) { marcarUsado(g); continue; }
+  const conocidas = new Set(nota.fuentes.map((f) => f.url));
+  const nuevasFuentes = g.unicos.filter((it) => !conocidas.has(it.link));
+  if (!nuevasFuentes.length || horas(nota.actualizada || nota.fecha) < (P.horasEntreActualizaciones ?? 3)) continue;
+  log(`Seguimiento de "${nota.titulo}" con ${nuevasFuentes.length} fuentes nuevas`);
+  for (const it of nuevasFuentes) {
+    it.texto = await textoDeArticulo(it.link);
+    if (it.texto.length < 300) it.texto = it.contenido || it.resumen;
+  }
+  let res;
+  try { res = await revisarNovedades(nota, nuevasFuentes, cfg); }
+  catch (e) {
+    log(`  Error de IA: ${e.message}`);
+    if (e.status === 429 || /quota|RESOURCE_EXHAUSTED/i.test(e.message)) break;
+    continue;
+  }
+  marcarUsado(g);
+  const texto = (res.bloques || []).map((b) => b.texto).join(" ");
+  if (!res.hayNovedad || contarPalabras(texto) < 25) { log("  Sin datos nuevos: no se toca la nota"); continue; }
+  if (copiaLiteral(texto, nuevasFuentes.map((it) => it.texto).join("\n")) > P.maxCopiaLiteral) { log("  Actualización descartada por copia literal"); continue; }
+  const fecha = new Date().toISOString();
+  nota.actualizaciones = [{ fecha, resumen: res.resumen, bloques: res.bloques.filter((b) => b.texto?.trim()) }, ...(nota.actualizaciones || [])];
+  if (res.bajada?.trim()) nota.bajada = res.bajada.trim();
+  if (res.clave?.length) nota.clave = res.clave.slice(0, 5);
+  nota.fuentes.push(...nuevasFuentes.map((it) => ({ medio: it.fuente, titulo: it.titulo, url: it.link })));
+  nota.actualizada = fecha;
+  guardarJSON(archivo, nota);
+  g.tema.tokens = [...new Set([...g.tema.tokens, ...g.items.flatMap((it) => [...it.tk])])];
+  actualizadas++;
+  log(`  ✔ actualizada: ${nota.slug}`);
+  await esperar(6000);
+}
+
 estado.usados = [...usados].filter((id) => estado.pool.some((it) => it.id === id));
 guardarJSON(ARCH_ESTADO, estado);
-log(`Listo: ${hechas} notas nuevas.`);
+log(`Listo: ${hechas} notas nuevas, ${actualizadas} actualizadas.`);
 construir();

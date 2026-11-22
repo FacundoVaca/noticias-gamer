@@ -12,7 +12,9 @@ Cada 3 horas, GitHub Actions corre `scripts/actualizar.mjs`:
    - Ilustración generada por Gemini (si tu cuenta tiene cupo de generación de imágenes).
    - Foto libre de **Pexels**, con crédito al fotógrafo (si cargás la clave gratuita).
    - Portada gráfica propia con el título y el color de la plataforma (siempre funciona).
-6. Guarda la nota en `content/notas/`, regenera `public/` y hace commit. Cloudflare publica solo.
+6. **No repite noticias**: cada tema publicado se recuerda 4 días. Si otro medio publica lo mismo, no se escribe una nota nueva.
+7. **Actualiza notas**: si aparece una fuente nueva sobre un tema ya publicado, Gemini compara con lo que ya dice la nota. Si trae datos concretos nuevos (fecha, precio, confirmación, cifra), agrega arriba un recuadro **"Actualización"** con la fecha, suma la fuente al pie y cambia la fecha de modificación. Si solo repite lo mismo, no toca nada. Como máximo 1 actualización por corrida y cada nota se actualiza como mucho cada 3 horas.
+8. Guarda la nota en `content/notas/`, regenera `public/` y hace commit. Cloudflare publica solo.
 
 Cada nota incluye al pie los enlaces a todas sus fuentes y una aclaración de que se hizo con asistencia de IA. El sitio trae las páginas que pide AdSense: Quiénes somos, Política editorial, Privacidad y Contacto, más `ads.txt`, `sitemap.xml`, `news-sitemap.xml` y RSS propio.
 
@@ -51,6 +53,7 @@ El código de tu cuenta (`ca-pub-1697004556284286`) ya está en todas las págin
 | `publicacion.maxPorDia` / `maxPorCorrida` | Límite de notas (8 por día, 2 por corrida). Más no siempre es mejor para AdSense. |
 | `publicacion.minFuentes` | Cuántos medios tienen que haber publicado la noticia (2). |
 | `publicacion.permitirUnaFuente` | `true` para escribir también sobre noticias de un solo medio (más volumen, más riesgo). |
+| `publicacion.maxActualizacionesPorCorrida` / `horasEntreActualizaciones` | Cuántas notas viejas se actualizan por corrida (1) y cada cuánto como mínimo (3 h). `0` las apaga. |
 | `publicacion.minPalabras`, `maxCopiaLiteral` | Controles de calidad. |
 | `ia.modelosTexto` | Modelos de Gemini a usar, en orden. Si Google cambia los nombres, se actualizan acá. |
 | `imagenes.orden` | Orden de las fuentes de portada: `gemini`, `pexels`, `portada`. |

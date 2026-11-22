@@ -15,36 +15,115 @@
     "permitirUnaFuente": false,
     "minPalabras": 320,
     "maxCopiaLiteral": 0.06,
-    "horasVentana": 48
+    "horasVentana": 48,
+    "maxActualizacionesPorCorrida": 1,
+    "horasEntreActualizaciones": 3
   },
   "ia": {
-    "modelosTexto": ["gemini-2.5-flash", "gemini-2.5-flash-lite"],
+    "modelosTexto": [
+      "gemini-2.5-flash",
+      "gemini-2.5-flash-lite"
+    ],
     "modeloImagen": "gemini-2.5-flash-image",
     "temperatura": 0.8
   },
   "imagenes": {
-    "orden": ["gemini", "pexels", "portada"],
+    "orden": [
+      "gemini",
+      "pexels",
+      "portada"
+    ],
     "ancho": 1200,
     "alto": 675
   },
   "feeds": [
-    { "nombre": "IGN", "url": "https://feeds.feedburner.com/ign/all", "idioma": "en" },
-    { "nombre": "GameSpot", "url": "https://www.gamespot.com/feeds/news/", "idioma": "en" },
-    { "nombre": "PC Gamer", "url": "https://www.pcgamer.com/rss/", "idioma": "en" },
-    { "nombre": "Eurogamer", "url": "https://www.eurogamer.net/feed", "idioma": "en" },
-    { "nombre": "VGC", "url": "https://www.videogameschronicle.com/feed/", "idioma": "en" },
-    { "nombre": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/feed", "idioma": "en" },
-    { "nombre": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "idioma": "en" },
-    { "nombre": "Gematsu", "url": "https://www.gematsu.com/feed", "idioma": "en" },
-    { "nombre": "Nintendo Life", "url": "https://www.nintendolife.com/feeds/latest", "idioma": "en" },
-    { "nombre": "Push Square", "url": "https://www.pushsquare.com/feeds/latest", "idioma": "en" },
-    { "nombre": "Pure Xbox", "url": "https://www.purexbox.com/feeds/latest", "idioma": "en" },
-    { "nombre": "PlayStation Blog", "url": "https://blog.playstation.com/feed/", "idioma": "en", "oficial": true },
-    { "nombre": "Xbox Wire", "url": "https://news.xbox.com/en-us/feed/", "idioma": "en", "oficial": true },
-    { "nombre": "3DJuegos", "url": "https://www.3djuegos.com/feedburner.xml", "idioma": "es" },
-    { "nombre": "Vandal", "url": "https://vandal.elespanol.com/xml.cgi", "idioma": "es" },
-    { "nombre": "Eurogamer España", "url": "https://www.eurogamer.es/feed", "idioma": "es" },
-    { "nombre": "LevelUp", "url": "https://www.levelup.com/rss", "idioma": "es" }
+    {
+      "nombre": "IGN",
+      "url": "https://feeds.feedburner.com/ign/all",
+      "idioma": "en"
+    },
+    {
+      "nombre": "GameSpot",
+      "url": "https://www.gamespot.com/feeds/news/",
+      "idioma": "en"
+    },
+    {
+      "nombre": "PC Gamer",
+      "url": "https://www.pcgamer.com/rss/",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Eurogamer",
+      "url": "https://www.eurogamer.net/feed",
+      "idioma": "en"
+    },
+    {
+      "nombre": "VGC",
+      "url": "https://www.videogameschronicle.com/feed/",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/feed",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Polygon",
+      "url": "https://www.polygon.com/rss/index.xml",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Gematsu",
+      "url": "https://www.gematsu.com/feed",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Nintendo Life",
+      "url": "https://www.nintendolife.com/feeds/latest",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Push Square",
+      "url": "https://www.pushsquare.com/feeds/latest",
+      "idioma": "en"
+    },
+    {
+      "nombre": "Pure Xbox",
+      "url": "https://www.purexbox.com/feeds/latest",
+      "idioma": "en"
+    },
+    {
+      "nombre": "PlayStation Blog",
+      "url": "https://blog.playstation.com/feed/",
+      "idioma": "en",
+      "oficial": true
+    },
+    {
+      "nombre": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/feed/",
+      "idioma": "en",
+      "oficial": true
+    },
+    {
+      "nombre": "3DJuegos",
+      "url": "https://www.3djuegos.com/feedburner.xml",
+      "idioma": "es"
+    },
+    {
+      "nombre": "Vandal",
+      "url": "https://vandal.elespanol.com/xml.cgi",
+      "idioma": "es"
+    },
+    {
+      "nombre": "Eurogamer España",
+      "url": "https://www.eurogamer.es/feed",
+      "idioma": "es"
+    },
+    {
+      "nombre": "LevelUp",
+      "url": "https://www.levelup.com/rss",
+      "idioma": "es"
+    }
   ],
   "categorias": {
     "pc": "PC",

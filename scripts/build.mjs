@@ -107,9 +107,10 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
     const cuerpo = `<article class="nota">
 <p class="migas"><a href="/">Inicio</a> › <a href="/categoria/${n.categoria}/">${e(CAT[n.categoria])}</a></p>
 <h1>${e(n.titulo)}</h1><p class="bajada">${e(n.bajada)}</p>
-<p class="meta">Por Redacción ${e(S.nombre)} · <time datetime="${n.fecha}">${fechaLarga(n.fecha)}</time></p>
+<p class="meta">Por Redacción ${e(S.nombre)} · <time datetime="${n.fecha}">${fechaLarga(n.fecha)}</time>${n.actualizaciones?.length ? ` · Actualizada: <time datetime="${n.actualizada}">${fechaLarga(n.actualizada)}</time>` : ""}</p>
 <figure class="portada"><img src="${img(n)}" alt="${e(n.titulo)}" width="1200" height="675">${n.imagen?.credito ? `<figcaption>${n.imagen.credito.url ? `<a href="${e(n.imagen.credito.url)}" rel="nofollow noopener" target="_blank">${e(n.imagen.credito.texto)}</a>` : e(n.imagen.credito.texto)}</figcaption>` : ""}</figure>
 ${n.clave?.length ? `<aside class="clave"><strong>Lo importante</strong><ul>${n.clave.map((c) => `<li>${e(c)}</li>`).join("")}</ul></aside>` : ""}
+${n.actualizaciones?.length ? n.actualizaciones.map((a) => `<section class="upd"><p class="upd-tit">Actualización · <time datetime="${a.fecha}">${fechaLarga(a.fecha)}</time></p>${cuerpoHTML(a.bloques)}</section>`).join("") : ""}
 <div class="texto">${cuerpoHTML(n.cuerpo)}</div>
 ${n.etiquetas?.length ? `<p class="tags">${n.etiquetas.map((t) => `<span>${e(t)}</span>`).join("")}</p>` : ""}
 <section class="fuentes"><h2>Fuentes</h2><ul>${n.fuentes.map((f) => `<li><a href="${e(f.url)}" rel="nofollow noopener" target="_blank">${e(f.medio)}: ${e(f.titulo)}</a></li>`).join("")}</ul>
