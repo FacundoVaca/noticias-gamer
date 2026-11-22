@@ -2,14 +2,18 @@
 // lanzamiento, reseñas) para que cada página tenga información propia y no solo precios.
 // Fuentes: la API pública de la tienda de Steam (appdetails) e IsThereAnyDeal (con ITAD_API_KEY).
 // Nada se inventa: si una fuente no trae un dato, la ficha no lo muestra.
-// Se guarda en data/fichas.json; cada juego se consulta una vez y se refresca cada 30 días.
+// Se guarda un archivo por juego en data/fichas/ (así cada cambio toca un archivo chico); cada juego se
+// consulta una vez y se refresca cada 30 días.
 // Por corrida se consulta un máximo de juegos nuevos para no saturar las APIs. Si algo falla, el sitio sigue igual.
-import { leerJSON, guardarJSON, ruta, log } from "../lib/util.mjs";
+import fs from "node:fs";
+import { leerJSON, guardarJSON, ruta, log, decodificar } from "../lib/util.mjs";
 
-const ARCHIVO = ruta("data", "fichas.json");
+const CARPETA = ruta("data", "fichas");
+const VIEJO = ruta("data", "fichas.json"); // formato anterior: un solo archivo
+const VERSION = 2; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
 const VIGENCIA_MS = 30 * 864e5;
 const REINTENTO_MS = 3 * 864e5; // si no se encontró nada, se vuelve a probar a los 3 días
-const MAX_POR_CORRIDA = 100;
+const MAX_POR_CORRIDA = 150;
 const ITAD = "https://api.isthereanydeal.com";
 const UA = "BolsilloGamer/1.0 (+https://juegos.bolsillo.online/contacto/)";
 
@@ -37,21 +41,72 @@ const pedir = async (url, opciones = {}) => {
 const pausa = (ms) => new Promise((r) => setTimeout(r, ms));
 const sinHtml = (s) => String(s || "").replace(/<[^>]+>/g, " ").replace(/&quot;/g, '"').replace(/&amp;/g, "&").replace(/&#39;/g, "'").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
 
+// HTML de Steam -> bloques de texto plano [tipo, texto] (nunca se publica HTML ajeno tal cual)
+export function bloques(html, max = 5000) {
+  const out = [];
+  let total = 0;
+  const partes = String(html || "")
+    .replace(/<img[^>]*>/gi, " ")
+    .replace(/<(h[1-6])[^>]*>([\s\S]*?)<\/\1>/gi, "\n\u0001h$2\n")
+    .replace(/<li[^>]*>([\s\S]*?)<\/li>/gi, "\n\u0001l$1\n")
+    .replace(/<br\s*\/?>\s*<br\s*\/?>/gi, "\n").replace(/<\/?(p|ul|ol|div)[^>]*>/gi, "\n").replace(/<br\s*\/?>/gi, "\n")
+    .split("\n");
+  for (const raw of partes) {
+    const tipo = raw.startsWith("\u0001h") ? "h" : raw.startsWith("\u0001l") ? "li" : "p";
+    const x = decodificar(raw.replace(/^\u0001[hl]/, "").replace(/<[^>]+>/g, " ")).replace(/\s+/g, " ").trim();
+    if (!x || x.length < 2) continue;
+    if (total + x.length > max) break;
+    total += x.length;
+    out.push([tipo, x]);
+  }
+  return out;
+}
+export const requisitos = (html) => {
+  const items = [...String(html || "").matchAll(/<li[^>]*>([\s\S]*?)<\/li>/gi)]
+    .map((m) => decodificar(m[1].replace(/<br\s*\/?>/gi, " ").replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim())
+    .filter(Boolean)
+    .map((t) => { const k = t.indexOf(":"); return k > 0 && k < 40 ? [t.slice(0, k).trim(), t.slice(k + 1).trim()] : ["", t]; })
+    .filter(([, v]) => v);
+  return items.length ? items.slice(0, 12) : null;
+};
+export const idiomas = (html) => {
+  const [lista] = String(html || "").split(/<br\s*\/?>/i);
+  const out = lista.split(",").map((x) => ({ nombre: decodificar(x.replace(/<[^>]+>/g, "").replace(/\*/g, "")).trim(), voces: /\*/.test(x) }))
+    .filter((x) => x.nombre && x.nombre.length < 40);
+  return out.length ? out : null;
+};
+
 async function steamDetalle(appid) {
   const d = await pedir(`https://store.steampowered.com/api/appdetails?appids=${appid}&l=spanish&cc=ar`);
   const x = d?.[appid];
   if (!x?.success || !x.data) return null;
   const a = x.data;
+  const req = a.pc_requirements && !Array.isArray(a.pc_requirements)
+    ? { minimo: requisitos(a.pc_requirements.minimum), recomendado: requisitos(a.pc_requirements.recommended) } : null;
   return {
     tipo: a.type || null,
+    nombreSteam: a.name || null,
     descripcion: sinHtml(a.short_description) || null,
+    acerca: bloques(a.about_the_game),
     generos: (a.genres || []).map((g) => g.description).filter(Boolean),
+    caracteristicas: (a.categories || []).map((c) => c.description).filter(Boolean).slice(0, 14),
+    idiomas: idiomas(a.supported_languages),
+    requisitos: req && (req.minimo || req.recomendado) ? req : null,
+    capturas: (a.screenshots || []).slice(0, 8).map((c) => ({ chica: c.path_thumbnail, grande: c.path_full })).filter((c) => c.chica && c.grande),
     desarrolladores: a.developers || [],
     editores: a.publishers || [],
     lanzamientoTexto: a.release_date?.coming_soon ? null : a.release_date?.date || null,
     metacritic: a.metacritic?.score ? { puntaje: a.metacritic.score, url: a.metacritic.url || null } : null,
-    recomendaciones: a.recommendations?.total || null,
+    web: /^https?:\/\//.test(a.website || "") ? a.website : null,
   };
+}
+
+// Resumen de reseñas de usuarios de Steam (todas las compras, todos los idiomas)
+async function steamResenas(appid) {
+  const r = await pedir(`https://store.steampowered.com/appreviews/${appid}?json=1&l=spanish&language=all&purchase_type=all&num_per_page=0&filter=summary`);
+  const q = r?.query_summary;
+  if (!r?.success || !q?.total_reviews) return null;
+  return { texto: q.review_score_desc || null, positivas: q.total_positive, total: q.total_reviews };
 }
 
 async function itadInfo({ appid, titulo, clave }, key) {
@@ -94,8 +149,10 @@ async function consultar(grupo, key) {
         if (!f.editores?.length) f.editores = s.editores;
         f.lanzamientoTexto = s.lanzamientoTexto;
         f.metacritic = s.metacritic;
-        f.recomendaciones = s.recomendaciones;
+        for (const k of ["nombreSteam", "acerca", "caracteristicas", "idiomas", "requisitos", "capturas", "web"]) if (s[k] && (!Array.isArray(s[k]) || s[k].length)) f[k] = s[k];
         f.fuentes.push("Steam");
+        try { f.resenasSteam = await steamResenas(appid); } catch (err) { log(`Reseñas Steam ${appid}: ${err.message}`); }
+        await pausa(800);
       }
     } catch (err) { log(`Ficha Steam ${appid}: ${err.message}`); }
     await pausa(1500); // la tienda de Steam limita las consultas seguidas
@@ -103,9 +160,23 @@ async function consultar(grupo, key) {
   return f;
 }
 
-// Completa data/fichas.json con los juegos de las ofertas vigentes. Nunca lanza errores.
+const archivoDe = (clave) => `${CARPETA}/${clave.replace(/\s+/g, "-").slice(0, 90)}.json`;
+
+// Todas las fichas guardadas, por clave (incluye la migración desde el archivo único anterior)
+export function cargarFichas() {
+  const out = {};
+  if (fs.existsSync(VIEJO)) Object.assign(out, leerJSON(VIEJO, {}));
+  if (fs.existsSync(CARPETA)) for (const n of fs.readdirSync(CARPETA)) {
+    if (!n.endsWith(".json")) continue;
+    const f = leerJSON(`${CARPETA}/${n}`, null);
+    if (f?.clave) out[f.clave] = f;
+  }
+  return out;
+}
+
+// Completa data/fichas/ con los juegos de las ofertas vigentes. Nunca lanza errores.
 export async function actualizarFichas(juegos) {
-  const cache = leerJSON(ARCHIVO, {});
+  const cache = cargarFichas();
   const key = process.env.ITAD_API_KEY;
   const grupos = new Map();
   for (const g of juegos) {
@@ -116,7 +187,7 @@ export async function actualizarFichas(juegos) {
     grupos.get(k).push(g);
   }
   const ahora = Date.now();
-  const vencida = (f) => !f || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
+  const vencida = (f) => !f || (f.v || 1) < VERSION || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
   // Primero los que tienen oferta en Steam (traen más datos) y los que nunca se consultaron
   const pendientes = [...grupos.values()].filter((gr) => vencida(cache[gr.clave]))
     .sort((a, b) => (!!cache[a.clave] - !!cache[b.clave]) || (b.some((g) => g.tienda === "steam") - a.some((g) => g.tienda === "steam")))
@@ -126,15 +197,17 @@ export async function actualizarFichas(juegos) {
   for (const gr of pendientes) {
     try {
       const f = await consultar(gr, key);
-      cache[gr.clave] = { ...f, consultado: new Date().toISOString() };
+      cache[gr.clave] = { clave: gr.clave, v: VERSION, ...f, consultado: new Date().toISOString() };
+      guardarJSON(archivoDe(gr.clave), cache[gr.clave]);
       if (f.fuentes.length) ok++;
     } catch (err) { log(`Ficha "${gr[0].titulo}": ${err.message}`); }
     if (key) await pausa(250);
   }
-  guardarJSON(ARCHIVO, cache);
+  // Migración: el archivo único anterior se reparte en un archivo por juego
+  if (fs.existsSync(VIEJO)) {
+    for (const [k, f] of Object.entries(cache)) if (!fs.existsSync(archivoDe(k))) guardarJSON(archivoDe(k), { clave: k, ...f });
+    fs.rmSync(VIEJO);
+  }
   log(`Fichas: ${ok} de ${pendientes.length} consultadas con datos (${Object.keys(cache).length} en total).`);
 }
 
-export function cargarFichas() {
-  return leerJSON(ARCHIVO, {});
-}
