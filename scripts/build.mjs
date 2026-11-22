@@ -45,16 +45,19 @@ export function construir() {
 <link rel="canonical" href="${S.url}${canon}">${indexar ? "" : '<meta name="robots" content="noindex,nofollow">'}
 <meta property="og:site_name" content="${e(S.nombre)}"><meta property="og:title" content="${e(titulo)}"><meta property="og:description" content="${e(desc)}"><meta property="og:url" content="${S.url}${canon}">${og}
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Onest:wght@400;500;700&display=swap">
+<meta name="theme-color" content="#191630"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
 <link rel="alternate" type="application/rss+xml" title="${e(S.nombre)}" href="/feed.xml">
 ${ads ? adsense : ""}${extraHead}
 </head><body>
 <header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico">▶</span>${e(S.nombre)}</a>
-<nav class="cats">${navCats}</nav></div></header>
+<nav class="cats" aria-label="Secciones">${navCats}</nav></div></header>
 <main class="wrap">${cuerpo}</main>
 <footer class="pie"><div class="wrap">
 <p><strong>${e(S.nombre)}</strong>. ${e(S.descripcion)}</p>
-<p><a href="/acerca/">Quiénes somos</a> · <a href="/politica-editorial/">Política editorial</a> · <a href="/privacidad/">Privacidad</a> · <a href="/contacto/">Contacto</a> · <a href="/feed.xml">RSS</a></p>
+<nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a></nav>
 <p class="mini">© ${new Date().getFullYear()} ${e(S.nombre)}. Las marcas y nombres de juegos pertenecen a sus dueños.</p>
 </div></footer></body></html>`;
 
