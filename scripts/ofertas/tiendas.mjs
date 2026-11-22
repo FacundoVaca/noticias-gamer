@@ -33,6 +33,7 @@ export function parseSteam(html) {
     const original = num((fila.match(/discount_original_price">([^<]+)</) || [])[1]);
     if (!titulo || final == null || !descuento) continue;
     const precio = +final / 100;
+    if (precio === 0 && descuento < 100) continue; // dato inconsistente de la tienda
     const resenas = (fila.match(/search_review_summary (\w+)/) || [])[1] || null;
     out.push({
       id: `steam:${appid}`, tienda: "steam", id_tienda: appid, titulo,
