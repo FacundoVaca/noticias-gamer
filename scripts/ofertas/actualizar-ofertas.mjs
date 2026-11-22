@@ -52,7 +52,7 @@ async function foto(db) {
       j.fin_oferta, j.extra, j.visto, h.minimo::float AS minimo, h.dias, h.desde
     FROM juegos j LEFT JOIN LATERAL (SELECT min(p.precio) AS minimo, count(*)::int AS dias, min(p.dia) AS desde FROM precios p WHERE p.juego_id = j.id AND p.moneda = j.moneda) h ON true
     WHERE j.visto > now() - interval '${HORAS_VIGENCIA} hours'
-      AND j.visto >= coalesce((SELECT max(c.inicio) FROM corridas c WHERE c.tienda = j.tienda AND c.ok) - interval '20 minutes', '-infinity')
+      AND j.visto >= coalesce((SELECT max(c.inicio) FROM corridas c WHERE c.tienda = j.tienda AND c.ok) - interval '1 minute', '-infinity')
       AND (j.descuento > 0 OR j.gratis)
       AND (j.fin_oferta IS NULL OR j.fin_oferta > now() OR (j.extra->>'proximamente')::boolean)
     ORDER BY j.tienda, (j.extra->>'orden')::int NULLS LAST, j.descuento DESC`);
@@ -75,7 +75,7 @@ async function main() {
       if (db) await guardar(db, juegos);
       else { for (const [id, g] of sinBase) if (g.tienda === t) sinBase.delete(id); juegos.forEach((g, i) => sinBase.set(g.id, { ...g, slug: slugDe(g), extra: { ...g.extra, orden: i }, visto: new Date().toISOString() })); }
       estado[t] = { ok: true, cantidad: juegos.length, fecha: new Date().toISOString() };
-      if (db) await db("INSERT INTO corridas (tienda, cantidad, ok) VALUES ($1, $2, true)", [t, juegos.length]);
+      if (db) await db("INSERT INTO corridas (tienda, inicio, cantidad, ok) VALUES ($1, $2, $3, true)", [t, new Date(inicio).toISOString(), juegos.length]);
     } catch (err) {
       log(`${t}: ERROR ${err.message}`);
       estado[t] = { ...(estado[t] || {}), ok: false, error: String(err.message).slice(0, 300), intento: new Date().toISOString() };
