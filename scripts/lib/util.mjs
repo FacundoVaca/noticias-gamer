@@ -90,3 +90,12 @@ export function fechaCorta(iso) {
 
 export const esperar = (ms) => new Promise((r) => setTimeout(r, ms));
 export const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
+
+// true si el texto usa mayúsculas normales (algunos modelos devuelven todo en minúscula)
+export function mayusculasOK(textos) {
+  const oraciones = textos.join(" ").split(/(?<=[.!?:])\s+|\n+/).map((o) => o.trim().replace(/^[¿¡"“«(\-–—\s]+/, "")).filter((o) => /^[a-záéíóúñü]/i.test(o));
+  if (!oraciones.length) return true;
+  const bien = oraciones.filter((o) => /^[A-ZÁÉÍÓÚÑÜ]/.test(o)).length;
+  return bien / oraciones.length >= 0.7;
+}
+export const capitalizar = (s = "") => s.replace(/^([¿¡"“«(\s]*)([a-záéíóúñü])/, (_, a, b) => a + b.toUpperCase());

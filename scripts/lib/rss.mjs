@@ -58,7 +58,7 @@ export function parsearFeed(xml, fuente) {
 }
 
 // Filtra lo que no es noticia: ofertas, guías, reseñas largas, patrocinados, etc.
-const RUIDO = /\b(deal|deals|% off|discount|coupon|best .* (?:to buy|for)|wordle|quiz|sponsored|giveaway|how to|guide|walkthrough|where to find|locations?|codes?\b|review:|tested:|oferta|ofertas|descuento|rebaja|chollo|gu[ií]a|c[oó]mo conseguir|c[oó]digos|patrocinado|sorteo)\b/i;
+const RUIDO = /\b(black friday|cyber monday|prime day|hot sale|deal|deals|% off|discount|coupon|best .* (?:to buy|for)|wordle|quiz|sponsored|giveaway|how to|guide|walkthrough|where to find|locations?|codes?\b|review:|tested:|oferta|ofertas|descuento|rebaja|chollo|gu[ií]a|c[oó]mo conseguir|c[oó]digos|patrocinado|sorteo)\b/i;
 export const esRuido = (it) => RUIDO.test(it.titulo) || it.categorias.some((c) => /deals?|sponsored|guides?|ofertas|patrocinado/i.test(c));
 
 export async function leerFeeds(feeds) {

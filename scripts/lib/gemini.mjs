@@ -2,6 +2,9 @@
 import { esperar, log } from "./util.mjs";
 
 const BASE = "https://generativelanguage.googleapis.com/v1beta/models";
+const saturados = new Set(); // modelos que dieron 503 en esta corrida
+const modelosDisponibles = (lista) => { const ok = lista.filter((m) => !saturados.has(m)); return ok.length ? ok : lista; };
+const anotarFallo = (modelo, e) => { if (e.status >= 500) saturados.add(modelo); };
 
 async function llamar(modelo, cuerpo, intentos = 3) {
   const clave = process.env.GEMINI_API_KEY;
@@ -14,8 +17,13 @@ async function llamar(modelo, cuerpo, intentos = 3) {
     });
     if (r.ok) return r.json();
     const txt = await r.text();
-    // 429 = cuota/limite por minuto; 5xx = error temporal de Google
-    if ((r.status === 429 || r.status >= 500) && i < intentos) {
+    // 429 = cuota/limite por minuto; 5xx = Google saturado: un solo reintento corto y se pasa al otro modelo
+    if (r.status >= 500 && i < Math.min(intentos, 2)) {
+      log(`Gemini ${modelo}: ${r.status}, reintento en 10 s`);
+      await esperar(10000);
+      continue;
+    }
+    if (r.status === 429 && i < intentos) {
       const seg = Number((txt.match(/retry in (\d+(?:\.\d+)?)s/i) || [])[1]) || 20 * i;
       log(`Gemini ${modelo}: ${r.status}, reintento en ${Math.ceil(seg)} s`);
       await esperar(Math.min(seg, 70) * 1000);
@@ -69,6 +77,7 @@ Reglas obligatorias:
 - Si hay precios en dólares o euros, mencionalos tal cual; no conviertas a pesos.
 - Estructura: 1 párrafo de entrada fuerte, 2 a 4 subtítulos (h2) con 1 a 3 párrafos cada uno; podés usar una lista (li) corta si suma. Entre 380 y 650 palabras.
 - No menciones que sos una IA, no hables de "las fuentes" en el texto ni nombres los medios: los enlaces se agregan aparte.
+- Usá mayúsculas normales del español: al inicio de cada oración, título y punto de lista, y en nombres propios (GTA 6, Rockstar Games, PS5, Xbox Series X|S, Nintendo Switch 2).
 - Sin emojis, sin mayúsculas sostenidas, sin clickbait.`;
 
 // La fecha de hoy y la aclaración de que las fuentes son reales evitan que el modelo
@@ -89,7 +98,7 @@ Texto: ${(it.texto || it.contenido || "").slice(0, 4000)}`).join("\n\n");
   if (process.env.GEMINI_MOCK) return notaDePrueba(grupo);
 
   let ultimoError;
-  for (const modelo of cfg.ia.modelosTexto) {
+  for (const modelo of modelosDisponibles(cfg.ia.modelosTexto)) {
     try {
       const res = await llamar(modelo, {
         systemInstruction: { parts: [{ text: SISTEMA_TXT() }] },
@@ -101,7 +110,7 @@ Texto: ${(it.texto || it.contenido || "").slice(0, 4000)}`).join("\n\n");
       const nota = JSON.parse(txt);
       nota.modelo = modelo;
       return nota;
-    } catch (e) { ultimoError = e; log(`Texto con ${modelo} falló: ${e.message}`); }
+    } catch (e) { ultimoError = e; anotarFallo(modelo, e); log(`Texto con ${modelo} falló: ${e.message.slice(0, 200)}`); }
   }
   throw ultimoError;
 }
@@ -125,7 +134,7 @@ export async function revisarNovedades(nota, nuevas, cfg) {
   const fuentes = nuevas.map((it, i) => `### Fuente nueva ${i + 1} (${it.idioma}) - ${it.fecha.slice(0, 10)}\nTítulo: ${it.titulo}\nResumen: ${it.resumen}\nTexto: ${(it.texto || it.contenido || "").slice(0, 3500)}`).join("\n\n");
   const prompt = `Esta es una nota que YA publicamos:\n"""\n${actual.slice(0, 6000)}\n"""\n\nAparecieron estas fuentes nuevas sobre el mismo tema. Decidí si traen información nueva y concreta que la nota no tiene. Si la traen, escribí solo esa novedad como actualización breve.\n\n${fuentes}`;
   let ultimoError;
-  for (const modelo of cfg.ia.modelosTexto) {
+  for (const modelo of modelosDisponibles(cfg.ia.modelosTexto)) {
     try {
       const res = await llamar(modelo, {
         systemInstruction: { parts: [{ text: SISTEMA_TXT() }] },
@@ -135,7 +144,7 @@ export async function revisarNovedades(nota, nuevas, cfg) {
       const txt = (res.candidates?.[0]?.content?.parts || []).map((p) => p.text || "").join("");
       if (!txt) throw new Error("respuesta vacía");
       return JSON.parse(txt);
-    } catch (e) { ultimoError = e; log(`Revisión con ${modelo} falló: ${e.message}`); }
+    } catch (e) { ultimoError = e; anotarFallo(modelo, e); log(`Revisión con ${modelo} falló: ${e.message.slice(0, 200)}`); }
   }
   throw ultimoError;
 }

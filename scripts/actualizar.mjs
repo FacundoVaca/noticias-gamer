@@ -4,7 +4,7 @@ import fs from "node:fs";
 import { leerFeeds, esRuido, textoDeArticulo } from "./lib/rss.mjs";
 import { redactarNota, revisarNovedades } from "./lib/gemini.mjs";
 import { crearPortada } from "./lib/imagenes.mjs";
-import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
+import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, mayusculasOK, capitalizar, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
 import { construir } from "./build.mjs";
 
 const cfg = config();
@@ -86,7 +86,8 @@ for (const g of candidatos) {
       const palabras = contarPalabras(plano);
       const copia = copiaLiteral(plano, fuenteTotal);
       log(`  borrador: ${palabras} palabras, copia literal ${(copia * 100).toFixed(1)}%`);
-      if (palabras < P.minPalabras) motivo = `La nota anterior quedó corta (${palabras} palabras). Escribí al menos ${P.minPalabras + 80} palabras con más contexto.`;
+      if (!mayusculasOK([n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)])) motivo = "La versión anterior estaba escrita toda en minúsculas. Usá mayúsculas normales al inicio de cada oración y en los nombres propios.";
+      else if (palabras < P.minPalabras) motivo = `La nota anterior quedó corta (${palabras} palabras). Escribí al menos ${P.minPalabras + 80} palabras con más contexto.`;
       else if (copia > P.maxCopiaLiteral) motivo = "La versión anterior copiaba frases textuales de las fuentes. Reescribí todo con tus propias palabras y otra estructura.";
       else { nota = n; break; }
       nota = null;
@@ -108,9 +109,9 @@ for (const g of candidatos) {
   const fecha = new Date().toISOString();
   const guardada = {
     slug, estado: P.modoRevision ? "pendiente" : "publicada", fecha, actualizada: fecha,
-    titulo: nota.titulo.trim(), bajada: nota.bajada.trim(), categoria: nota.categoria,
-    etiquetas: (nota.etiquetas || []).slice(0, 6), clave: (nota.clave || []).slice(0, 5),
-    cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()),
+    titulo: capitalizar(nota.titulo.trim()), bajada: capitalizar(nota.bajada.trim()), categoria: nota.categoria,
+    etiquetas: (nota.etiquetas || []).slice(0, 6), clave: (nota.clave || []).slice(0, 5).map(capitalizar),
+    cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()).map((b) => ({ ...b, texto: capitalizar(b.texto.trim()) })),
     imagen, modelo: nota.modelo,
     fuentes: g.unicos.map((it) => ({ medio: it.fuente, titulo: it.titulo, url: it.link })),
   };
@@ -146,6 +147,8 @@ for (const g of seguimientos) {
   }
   marcarUsado(g);
   const texto = (res.bloques || []).map((b) => b.texto).join(" ");
+  if (res.hayNovedad && !mayusculasOK([texto])) { log("  Actualización descartada: sin mayúsculas"); continue; }
+  res.bloques = (res.bloques || []).map((b) => ({ ...b, texto: capitalizar(b.texto || "") }));
   if (!res.hayNovedad || contarPalabras(texto) < 25) { log("  Sin datos nuevos: no se toca la nota"); continue; }
   if (copiaLiteral(texto, nuevasFuentes.map((it) => it.texto).join("\n")) > P.maxCopiaLiteral) { log("  Actualización descartada por copia literal"); continue; }
   const fecha = new Date().toISOString();
