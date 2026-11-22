@@ -48,11 +48,11 @@ export function construir() {
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Onest:wght@400;500;700&display=swap">
-<meta name="theme-color" content="#191630"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
+<meta name="theme-color" content="#10111b"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
 <link rel="alternate" type="application/rss+xml" title="${e(S.nombre)}" href="/feed.xml">
 ${ads ? adsense : ""}${extraHead}
 </head><body>
-<header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico">▶</span>${e(S.nombre)}</a>
+<header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico" aria-hidden="true">▶</span>${e(S.nombre).replace(/ Gamer$/, " <b>Gamer</b>")}</a>
 <nav class="cats" aria-label="Secciones">${navCats}</nav></div></header>
 <main class="wrap">${cuerpo}</main>
 <footer class="pie"><div class="wrap">
