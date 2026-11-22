@@ -6,8 +6,17 @@
   "scripts": {
     "actualizar": "node scripts/actualizar.mjs",
     "build": "node scripts/build.mjs",
-    "aprobar": "node scripts/aprobar.mjs"
+    "aprobar": "node scripts/aprobar.mjs",
+    "ofertas": "node scripts/ofertas/actualizar-ofertas.mjs"
   },
-  "engines": { "node": ">=20" },
-  "optionalDependencies": { "sharp": "^0.34.0" }
+  "engines": {
+    "node": ">=20"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.34.0",
+    "playwright": "^1.49.0"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0"
+  }
 }

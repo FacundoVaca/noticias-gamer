@@ -89,3 +89,22 @@ npm install
 GEMINI_MOCK=1 node scripts/actualizar.mjs   # sin IA, con notas de prueba
 node scripts/build.mjs                       # solo regenera el sitio
 ```
+
+## Ofertas de juegos en pesos (`/ofertas/`)
+
+Una tarea aparte (**Actions → Actualizar ofertas de juegos**) junta las ofertas de cuatro tiendas, guarda el historial de precios en Neon y regenera `/ofertas/`, `/ofertas/steam/`, `/ofertas/epic/`, `/ofertas/xbox/` y `/ofertas/playstation/`. Las notas de ofertas que escribe Gemini pasaron a `/ofertas/notas/`.
+
+| Tienda | De dónde sale | Frecuencia |
+|---|---|---|
+| Steam | Buscador público de la tienda, precios regionales de Argentina (US$), las ~400 más vendidas en oferta | 6 veces por día |
+| Epic | Feed oficial de juegos gratis + descuentos vía CheapShark (con crédito) | 6 veces por día |
+| Xbox | Página pública de ofertas de xbox.com/es-AR (precios en pesos), ~150 juegos | 6 veces por día |
+| PlayStation | Página de ofertas de PlayStation Store Argentina, leída con un navegador (Playwright), primeras 10 páginas (~480) | 2 veces por día |
+
+**Precio en pesos:** precio de la tienda × dólar oficial (DolarApi) × (1 + IVA 21% + percepción 30%). Para Xbox, que ya viene en pesos, solo se suman los impuestos. Los porcentajes se cambian en `config.json → ofertas.impuestos`. PlayStation lee `ofertas.psPaginas` páginas.
+
+**Neon:** proyecto `bolsillo-ofertas-juegos`, base `ofertas` (separado de cualquier otro proyecto). Tablas: `juegos` (oferta vigente), `precios` (un precio por juego por día, para el "Mínimo registrado"), `cotizaciones` y `corridas` (registro de cada pasada y sus errores). Los juegos que no aparecen hace 180 días se borran solos para no llenar el plan gratis.
+
+**Puesta en marcha:** en Neon → proyecto `bolsillo-ofertas-juegos` → **Connect** → copiá la cadena de conexión. En GitHub → **Settings → Secrets and variables → Actions → New repository secret** → nombre `DATABASE_URL`, valor la cadena. Después **Actions → Actualizar ofertas de juegos → Run workflow**.
+
+**Si una tienda falla** (por ejemplo, si PlayStation bloquea la lectura), las demás siguen funcionando, la página muestra un aviso y los datos anteriores quedan visibles hasta 30 horas. Para apagar PlayStation: sacala de la lista en `.github/workflows/ofertas.yml`.

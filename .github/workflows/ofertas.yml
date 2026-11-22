@@ -1,0 +1,54 @@
+name: Actualizar ofertas de juegos
+
+on:
+  schedule:
+    - cron: "41 1,5,13,17 * * *"   # Steam, Epic y Xbox (cada ~4 h de día en Argentina)
+    - cron: "41 9,21 * * *"        # las mismas + PlayStation (2 veces por día)
+  workflow_dispatch:
+    inputs:
+      tiendas:
+        description: "Tiendas separadas por coma"
+        default: "steam,epic,xbox,playstation"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  ofertas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Elegir tiendas
+        id: t
+        env:
+          MANUAL: ${{ inputs.tiendas }}
+          CRON: ${{ github.event.schedule }}
+        run: |
+          if [ -n "$MANUAL" ]; then T="$MANUAL"; elif [ "$CRON" = "41 9,21 * * *" ]; then T="steam,epic,xbox,playstation"; else T="steam,epic,xbox"; fi
+          echo "tiendas=$T" >> "$GITHUB_OUTPUT"
+      - run: npm install --no-audit --no-fund
+      - name: Instalar navegador para PlayStation
+        if: contains(steps.t.outputs.tiendas, 'playstation')
+        continue-on-error: true
+        run: npx playwright install --with-deps chromium
+      - name: Leer ofertas, guardar en Neon y generar el sitio
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: node scripts/ofertas/actualizar-ofertas.mjs --tiendas "${{ steps.t.outputs.tiendas }}"
+      - name: Guardar cambios (Cloudflare publica solo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Ofertas de juegos actualizadas"
+          git pull --rebase
+          git push
