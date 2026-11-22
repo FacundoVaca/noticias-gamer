@@ -304,7 +304,11 @@ export async function actualizarFichas(juegos) {
   for (const gr of pendientes) {
     try {
       const f = await consultar(gr, key);
-      cache[gr.clave] = { clave: gr.clave, v: VERSION, ...f, consultado: new Date().toISOString() };
+      // Si una fuente falló esta vez (por ejemplo, Steam cortó por exceso de consultas), se conservan sus datos anteriores
+      const previo = cache[gr.clave];
+      const perdio = previo?.fuentes?.some((x) => !f.fuentes.includes(x));
+      cache[gr.clave] = { clave: gr.clave, ...(perdio ? previo : {}), ...f, v: VERSION,
+        fuentes: perdio ? [...new Set([...previo.fuentes, ...f.fuentes])] : f.fuentes, consultado: new Date().toISOString() };
       guardarJSON(archivoDe(gr.clave), cache[gr.clave]);
       if (f.fuentes.length) ok++;
     } catch (err) { log(`Ficha "${gr[0].titulo}": ${err.message}`); }
