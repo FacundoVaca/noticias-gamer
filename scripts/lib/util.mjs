@@ -77,6 +77,26 @@ export function copiaLiteral(nuevo, fuente, n = 6) {
   return total ? hits / total : 0;
 }
 
+// Si la IA dejó "general", deduce la plataforma por las menciones en el texto.
+const PLATAFORMAS = {
+  playstation: /\b(playstation|ps5|ps4|ps plus|psn|dualsense|sony)\b/gi,
+  xbox: /\b(xbox|game pass|microsoft gaming)\b/gi,
+  nintendo: /\b(nintendo|switch|zelda|mario|pok[eé]mon)\b/gi,
+  pc: /\b(pc|steam|epic games store|gog|nvidia|amd|windows)\b/gi,
+  movil: /\b(android|ios|iphone|m[oó]vil|celular|smartphone)\b/gi,
+  esports: /\b(esports|e-sports|torneo|campeonato|major)\b/gi,
+};
+export function inferirCategoria(textos, actual = "general") {
+  if (actual && actual !== "general") return actual;
+  const t = textos.join(" ");
+  let mejor = "general", max = 1;
+  for (const [cat, re] of Object.entries(PLATAFORMAS)) {
+    const n = (t.match(re) || []).length;
+    if (n > max) { mejor = cat; max = n; }
+  }
+  return mejor;
+}
+
 export const contarPalabras = (s) => (s.match(/\S+/g) || []).length;
 
 const TZ = "America/Argentina/Buenos_Aires";

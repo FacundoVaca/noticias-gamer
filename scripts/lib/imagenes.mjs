@@ -59,15 +59,28 @@ async function buscarPexels(consulta) {
   };
 }
 
-async function buscarPixabay(consulta) {
+// Búsquedas de respaldo por categoría y palabras que tiene que tener una foto para considerarse "gamer"
+const BUSQUEDAS = {
+  pc: ["pc gaming setup", "gaming keyboard"], playstation: ["game controller", "gaming console"], xbox: ["game controller", "gaming console"],
+  nintendo: ["handheld game console", "game controller"], movil: ["mobile gaming", "smartphone game"], esports: ["esports", "gaming tournament"],
+  industria: ["video game", "game controller"], general: ["video game", "game controller"],
+};
+const GAMER = /\b(game|games|gaming|gamer|gamepad|controller|joystick|console|playstation|xbox|nintendo|esports|e-sports|video ?game|arcade|pc|computer|keyboard|monitor|headset|handheld)\b/i;
+
+async function buscarPixabay(consulta, categoria = "general") {
   const clave = process.env.PIXABAY_API_KEY;
-  if (!clave || !consulta) return null;
-  const q = new URLSearchParams({ key: clave, q: consulta.slice(0, 100), image_type: "photo", orientation: "horizontal", safesearch: "true", per_page: "10", min_width: "1200" });
-  const r = await fetch(`https://pixabay.com/api/?${q}`);
-  if (!r.ok) throw new Error(`Pixabay HTTP ${r.status}`);
-  const fotos = (await r.json()).hits || [];
-  if (!fotos.length) return null;
-  const f = fotos[Math.floor(Math.random() * Math.min(5, fotos.length))];
+  if (!clave) return null;
+  const consultas = [...new Set([consulta, ...(BUSQUEDAS[categoria] || BUSQUEDAS.general)].filter(Boolean).map((c) => c.toLowerCase().trim()))];
+  let f = null;
+  for (const c of consultas) {
+    const q = new URLSearchParams({ key: clave, q: c.slice(0, 100), image_type: "photo", orientation: "horizontal", safesearch: "true", per_page: "20", min_width: "1200", order: "popular" });
+    const r = await fetch(`https://pixabay.com/api/?${q}`);
+    if (!r.ok) throw new Error(`Pixabay HTTP ${r.status}`);
+    // Solo fotos cuyas etiquetas sean de videojuegos (evita fotos que no tienen nada que ver)
+    const fotos = ((await r.json()).hits || []).filter((h) => GAMER.test(h.tags || ""));
+    if (fotos.length) { f = fotos[Math.floor(Math.random() * Math.min(6, fotos.length))]; break; }
+  }
+  if (!f) return null;
   // Pixabay no permite enlazar sus imágenes en forma permanente: se descargan y se sirven desde el sitio.
   return {
     buffer: await traer(f.largeImageURL || f.webformatURL, { tipo: "buffer" }),
@@ -102,7 +115,7 @@ export async function crearPortada(nota, cfg) {
         const foto = await buscarPexels(nota.busquedaImagen);
         if (foto) return await guardar(foto.buffer, "pexels", foto.credito);
       } else if (metodo === "pixabay") {
-        const foto = await buscarPixabay(nota.busquedaImagen);
+        const foto = await buscarPixabay(nota.busquedaImagen, nota.categoria);
         if (foto) return await guardar(foto.buffer, "pixabay", foto.credito);
       } else if (metodo === "portada") {
         const svg = portadaSVG(nota.titulo, nota.categoria, cfg.categorias[nota.categoria] || "Noticias", cfg.sitio.nombre, W, H);

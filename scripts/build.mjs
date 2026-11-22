@@ -33,7 +33,8 @@ export function construir() {
   const img = (n) => n.imagen?.archivo ? `/img/${n.imagen.archivo}` : "/assets/portada.svg";
   const urlNota = (n) => `/notas/${n.slug}/`;
   const navCats = Object.entries(CAT).filter(([k]) => k !== "general")
-    .map(([k, v]) => `<a href="/categoria/${k}/">${e(v)}</a>`).join("");
+    .map(([k, v]) => `<a href="/categoria/${k}/">${e(v)}</a>`).join("")
+    + `<a href="/ofertas/">Ofertas</a><a href="/soluciones/">Soluciones</a>`;
 
   const pagina = ({ titulo, desc, canon, cuerpo, og = "", ads = true, indexar = true, extraHead = "" }) => `<!doctype html>
 <html lang="${S.idioma}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -82,6 +83,9 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
   for (const [k, v] of Object.entries(CAT)) {
     listado(notas.filter((n) => n.categoria === k), `/categoria/${k}/`, `Noticias de ${v} | ${S.nombre}`, `Últimas noticias de ${v}: lanzamientos, anuncios y novedades explicadas en español.`, `Noticias de ${v}`);
   }
+
+  listado(notas.filter((n) => n.tipo === "ofertas"), "/ofertas/", `Ofertas de videojuegos | ${S.nombre}`, "Rebajas y ofertas de juegos con precios y enlaces directos a cada tienda.", "Ofertas de videojuegos");
+  listado(notas.filter((n) => n.tipo === "problema"), "/soluciones/", `Soluciones a errores y fallas de juegos | ${S.nombre}`, "Errores, cuelgues y caídas de juegos y consolas, con pasos para solucionarlos.", "Soluciones a errores y fallas");
 
   // Notas
   const cuerpoHTML = (bloques) => {
@@ -157,7 +161,7 @@ ${rel.length ? `<section class="relacionadas"><h2>Seguí leyendo</h2><div class=
 <atom:link href="${S.url}/feed.xml" rel="self" type="application/rss+xml"/>
 ${ultimas.map((n) => `<item><title>${e(n.titulo)}</title><link>${S.url}${urlNota(n)}</link><guid>${S.url}${urlNota(n)}</guid><pubDate>${new Date(n.fecha).toUTCString()}</pubDate><category>${e(CAT[n.categoria])}</category><description>${e(n.bajada)}</description></item>`).join("\n")}
 </channel></rss>`);
-  const urls = [["/", notas[0]?.fecha], ...Object.keys(CAT).map((k) => [`/categoria/${k}/`]), ...Object.keys(inst).map((s) => [`/${s}/`]), ...notas.map((n) => [urlNota(n), n.actualizada || n.fecha])];
+  const urls = [["/", notas[0]?.fecha], ["/ofertas/"], ["/soluciones/"], ...Object.keys(CAT).map((k) => [`/categoria/${k}/`]), ...Object.keys(inst).map((s) => [`/${s}/`]), ...notas.map((n) => [urlNota(n), n.actualizada || n.fecha])];
   escribir("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(([u, f]) => `<url><loc>${S.url}${u}</loc>${f ? `<lastmod>${f.slice(0, 10)}</lastmod>` : ""}</url>`).join("\n")}

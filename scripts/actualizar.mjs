@@ -4,7 +4,7 @@ import fs from "node:fs";
 import { leerFeeds, esRuido, textoDeArticulo, limpiarEnlace } from "./lib/rss.mjs";
 import { redactarNota, revisarNovedades } from "./lib/gemini.mjs";
 import { crearPortada } from "./lib/imagenes.mjs";
-import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, mayusculasOK, capitalizar, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
+import { config, leerJSON, guardarJSON, ruta, tokens, parecido, copiaLiteral, contarPalabras, mayusculasOK, capitalizar, inferirCategoria, slugificar, hoyAR, esperar, log } from "./lib/util.mjs";
 import { construir } from "./build.mjs";
 
 const cfg = config();
@@ -138,6 +138,7 @@ for (const g of candidatos) {
   while (fs.existsSync(ruta("content", "notas", `${slug}.json`))) slug += "-2";
   nota.slug = slug;
   if (!cfg.categorias[nota.categoria]) nota.categoria = "general";
+  nota.categoria = inferirCategoria([nota.titulo, nota.bajada, ...(nota.etiquetas || []), ...nota.cuerpo.map((b) => b.texto), ...(nota.tipo === "ofertas" ? (nota.ofertas || []).map((o) => `${o.plataforma || ""} ${o.tienda || ""}`) : [])], nota.categoria);
   const imagen = await crearPortada(nota, cfg);
   const fecha = new Date().toISOString();
   const guardada = {

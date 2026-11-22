@@ -51,7 +51,7 @@ const ESQUEMA = {
     motivo: { type: "STRING" },
     titulo: { type: "STRING", description: "Título original en español, informativo, sin clickbait, máx. 95 caracteres" },
     bajada: { type: "STRING", description: "Copete de 1 o 2 oraciones que resume la noticia" },
-    categoria: { type: "STRING", enum: ["pc", "playstation", "xbox", "nintendo", "movil", "industria", "esports", "general"] },
+    categoria: { type: "STRING", enum: ["pc", "playstation", "xbox", "nintendo", "movil", "industria", "esports", "general"], description: "La plataforma principal de la noticia. Si es multiplataforma elegí la más mencionada (PS5 -> playstation, Steam o PC -> pc, Switch -> nintendo). industria = empresas, ventas, despidos, adquisiciones. general SOLO si no encaja en ninguna otra" },
     etiquetas: { type: "ARRAY", items: { type: "STRING" }, description: "3 a 6 etiquetas: juegos, empresas, plataformas" },
     cuerpo: {
       type: "ARRAY",
@@ -81,7 +81,7 @@ const ESQUEMA = {
       items: { type: "OBJECT", properties: { p: { type: "STRING" }, r: { type: "STRING" } }, required: ["p", "r"] },
     },
     promptImagen: { type: "STRING", description: "Descripción en inglés de una ilustración de portada evocadora y genérica: sin texto, sin logos, sin personajes ni marcas registradas" },
-    busquedaImagen: { type: "STRING", description: "2 a 4 palabras en inglés para buscar una foto de stock relacionada (ej: 'gaming console controller')" },
+    busquedaImagen: { type: "STRING", description: "2 o 3 palabras en inglés, concretas y visuales, para buscar una foto de stock sobre videojuegos: por ejemplo 'game controller', 'gaming console', 'pc gaming setup', 'mobile gaming', 'esports arena', 'gaming keyboard'. Sin nombres de juegos, empresas ni marcas" },
   },
   required: ["apta", "tipo", "titulo", "bajada", "categoria", "etiquetas", "cuerpo", "clave", "preguntas", "promptImagen", "busquedaImagen"],
 };

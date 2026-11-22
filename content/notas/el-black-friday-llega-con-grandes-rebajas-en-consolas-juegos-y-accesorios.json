@@ -5,7 +5,7 @@
   "actualizada": "2026-11-22T17:08:14.432Z",
   "titulo": "El Black Friday llega con grandes rebajas en consolas, juegos y accesorios",
   "bajada": "Las principales marcas y tiendas despliegan descuentos históricos en hardware, títulos recientes y clásicos de colección para renovar la biblioteca.",
-  "categoria": "general",
+  "categoria": "pc",
   "etiquetas": [
     "Nintendo",
     "SEGA",
@@ -152,11 +152,8 @@
   ],
   "imagen": {
     "archivo": "el-black-friday-llega-con-grandes-rebajas-en-consolas-juegos-y-accesorios.webp",
-    "origen": "pixabay",
-    "credito": {
-      "texto": "Imagen de jclk8888 en Pixabay",
-      "url": "https://pixabay.com/photos/crown-thorns-happy-easter-love-699480/"
-    }
+    "origen": "portada",
+    "credito": null
   },
   "modelo": "gemini-3.5-flash-lite",
   "fuentes": [
