@@ -1,0 +1,284 @@
+{
+  "clave": "lifted",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "0196d1a4-3cb2-72bd-953c-1d729efd1733",
+  "appid": "2184020",
+  "lanzamiento": "2026-07-22",
+  "desarrolladores": [
+    "Adventure Works L.L.C.",
+    "Adventure Works L.L.C"
+  ],
+  "editores": [
+    "Adventure Works L.L.C.",
+    "Adventure Works L.L.C"
+  ],
+  "etiquetas": [
+    "Story Rich",
+    "Short",
+    "Funny",
+    "Narrative",
+    "Soundtrack"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 77,
+      "url": "https://store.steampowered.com/app/2184020/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 70,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/lifted/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/lifted/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 64,
+      "cantidad": 17,
+      "url": "https://opencritic.com/game/21035/lifted"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5054510",
+      "nombre": "LIFTED Soundtrack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Una aventura para un jugador divertidísima. Juega como Ari, un estudiante que viaja a través de la historia gracias a su peculiar profesor, en una emocionante búsqueda de un tesoro perdido a través del tiempo.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "22 JUL 2026",
+  "metacritic": null,
+  "nombreSteam": "LIFTED",
+  "acerca": [
+    [
+      "p",
+      "Ari solo quería créditos extras. En cambio, accidentalmente se convirtió en el compañero de su profesor de física en un atraco a través del tiempo para ayudar a enamorar a su profesora de historia. ¡Perfecto para Mandos y Steam Deck!"
+    ],
+    [
+      "p",
+      "LIFTED canaliza el espíritu de los clásicos juegos de aventuras, combinando plataformeo suave con descubrimiento de alto riesgo. Sigue las pistas para encontrar la Tiara perdida, resuelve puzles ambientales, y domina un movimiento fluido. El Profesor Raventhorpe provee la \"Visión\" mientras tu provees el trabajo manual."
+    ],
+    [
+      "p",
+      "Pero mantén la cabeza bien alta. Cuando los villanos aparecen (o aparece una avalancha), el ritmo explota. El único camino es a través ."
+    ],
+    [
+      "p",
+      "El \"Ascensor Cualquier Momento\" del Profesor Raventhorpe te lleva a través de tiempo Y espacio. En esta maquina, los números de los pisos corresponden a los años de la historia."
+    ],
+    [
+      "p",
+      "Presiona el botón del Piso 1712, alinea el mapa al Caribe, y llegas en el año 1712. Justo en medio de la Isla infectada de piratas Tortuga! Pero ten cuidado: Mientras el ascensor acierta con el tiempo , rara vez acierta con el lugar esperado. El Prof. R aun sigue arreglando algunos detalles..."
+    ],
+    [
+      "p",
+      "Experimenta una historia llena de corazón, humor y la magia de las películas de los 80s presentando actores de voz de primer nivel desde Joe Gaudet como Ari, Ray O'Hare como El Profesor Raventhorpe y Evan Widjaja como Julius."
+    ],
+    [
+      "p",
+      "El Vago: Ari solo quiere irse a casa."
+    ],
+    [
+      "p",
+      "El Genio: El Profesor Raventhorpe hará lo que sea por amor."
+    ],
+    [
+      "p",
+      "La Chinchilla: Julius es el único que sabe lo que está haciendo."
+    ],
+    [
+      "p",
+      "¡Gracias por visitarnos! Si tienes unos minutos, prueba nuestra DEMO GRATUITA y experimenta hoy el comienzo de la aventura de Ari."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 22H2"
+      ],
+      [
+        "Procesador",
+        "i5-6600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 950"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "i5-9600K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/51419d4c2bf6eea8c2373a5cab75c9a185c20a18/ss_51419d4c2bf6eea8c2373a5cab75c9a185c20a18.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/51419d4c2bf6eea8c2373a5cab75c9a185c20a18/ss_51419d4c2bf6eea8c2373a5cab75c9a185c20a18.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/e7ade0c4d17f0cbdf404fe9b18f2b83f723e0eda/ss_e7ade0c4d17f0cbdf404fe9b18f2b83f723e0eda.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/e7ade0c4d17f0cbdf404fe9b18f2b83f723e0eda/ss_e7ade0c4d17f0cbdf404fe9b18f2b83f723e0eda.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/ca5541cabea14976b273699606d2664872a02052/ss_ca5541cabea14976b273699606d2664872a02052.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/ca5541cabea14976b273699606d2664872a02052/ss_ca5541cabea14976b273699606d2664872a02052.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/3aefdec97226ebce5bc22df913dad088af5bf3e2/ss_3aefdec97226ebce5bc22df913dad088af5bf3e2.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/3aefdec97226ebce5bc22df913dad088af5bf3e2/ss_3aefdec97226ebce5bc22df913dad088af5bf3e2.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/a35c16c9c6ef6b090ee5019a8f6a1921ef369db9/ss_a35c16c9c6ef6b090ee5019a8f6a1921ef369db9.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/a35c16c9c6ef6b090ee5019a8f6a1921ef369db9/ss_a35c16c9c6ef6b090ee5019a8f6a1921ef369db9.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/090ad3fdc147551f4493a00399c180092f8b432c/ss_090ad3fdc147551f4493a00399c180092f8b432c.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/090ad3fdc147551f4493a00399c180092f8b432c/ss_090ad3fdc147551f4493a00399c180092f8b432c.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/767ea78b141c9fb62e4941510c7d9ee6192abeb4/ss_767ea78b141c9fb62e4941510c7d9ee6192abeb4.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/767ea78b141c9fb62e4941510c7d9ee6192abeb4/ss_767ea78b141c9fb62e4941510c7d9ee6192abeb4.1920x1080.jpg?t=1787944814"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/5e768062d5f67496d35654ef3c9f9e003270d2fe/ss_5e768062d5f67496d35654ef3c9f9e003270d2fe.600x338.jpg?t=1787944814",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2184020/5e768062d5f67496d35654ef3c9f9e003270d2fe/ss_5e768062d5f67496d35654ef3c9f9e003270d2fe.1920x1080.jpg?t=1787944814"
+    }
+  ],
+  "web": "https://adventure.works/pages/lifted",
+  "consultado": "2026-11-22T22:31:22.248Z"
+}

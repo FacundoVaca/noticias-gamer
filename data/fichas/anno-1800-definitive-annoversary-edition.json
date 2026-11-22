@@ -1,0 +1,508 @@
+{
+  "clave": "anno 1800 definitive annoversary edition",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-7644-7392-8341-3904ef06ca45",
+  "appid": "916440",
+  "lanzamiento": "2019-04-16",
+  "desarrolladores": [
+    "Ubisoft Mainz"
+  ],
+  "editores": [
+    "Ubisoft"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Strategy",
+    "Simulation",
+    "Economy",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 30335,
+      "url": "https://store.steampowered.com/app/916440/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "799852",
+      "nombre": "Anno 1800",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 47.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "935343",
+      "nombre": "Anno 1800 - Year 5 Gold Edition",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 79.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "935346",
+      "nombre": "Anno 1800 - Definitive Annoversary",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 51.99,
+      "antes": 103.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "916440": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 35,
+  "dlcLista": [
+    {
+      "appid": "1933240",
+      "nombre": "Anno 1800™ - Season 4 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1530880",
+      "nombre": "Anno 1800™ - Season 3 Pass",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1247710",
+      "nombre": "Anno 1800™ - Season 2 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1066850",
+      "nombre": "Anno 1800™ - Season 1 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3256930",
+      "nombre": "Anno 1800 - End of an Era Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3113620",
+      "nombre": "Anno 1800 - Pirate Cove Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2830580",
+      "nombre": "Anno 1800 - Steampunk Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2622040",
+      "nombre": "Anno 1800 - Eldritch Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2504950",
+      "nombre": "Anno 1800™ National Park Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2400950",
+      "nombre": "Anno 1800™ Fiesta Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1933242",
+      "nombre": "Anno 1800 Cosmetic Pack Bundle #1",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2622020",
+      "nombre": "Anno 1800 Cosmetic Pack Bundle #2",
+      "gratis": false,
+      "usd": 25.59,
+      "descuento": 20
+    },
+    {
+      "appid": "2277980",
+      "nombre": "Anno 1800™ Dragon Garden Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2222650",
+      "nombre": "Anno 1800 - Old Town Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2055760",
+      "nombre": "Anno 1800 - Industrial Zone Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1803742",
+      "nombre": "Anno 1800 - Vibrant Cities Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1704690",
+      "nombre": "Anno 1800 - Pedestrian Zone Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1626972",
+      "nombre": "Anno 1800 - Vehicle Liveries",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1465650",
+      "nombre": "Anno 1800 - City Lights Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1383240",
+      "nombre": "Anno 1800 - Amusements Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1210040",
+      "nombre": "Anno 1800 – Holiday pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1881100",
+      "nombre": "Anno 1800 - Seasonal Decorations Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1125790",
+      "nombre": "Anno 1800 - Sunken Treasure",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1125792",
+      "nombre": "Anno 1800 - Botanica",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1125794",
+      "nombre": "Anno 1800 - The Passage",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1247680",
+      "nombre": "Anno 1800 - Seat of Power",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1314950",
+      "nombre": "Anno 1800 - Bright Harvest",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1442810",
+      "nombre": "Anno 1800 - Land of Lions",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1530882",
+      "nombre": "Anno 1800 - Docklands",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1626970",
+      "nombre": "Anno 1800 - Tourist Season",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1704680",
+      "nombre": "Anno 1800 - The High Life",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1933244",
+      "nombre": "Anno 1800 - Seeds of Change",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2074410",
+      "nombre": "Anno 1800 - Empire of the Skies",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 50
+    },
+    {
+      "appid": "2222640",
+      "nombre": "Anno 1800 – New World Rising",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1066852",
+      "nombre": "Anno 1800 - Deluxe Pack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Forja tu imperio en un juego de construcción galardonado, ambientado en los albores de la Revolución Industrial. Ponte al frente de tu sociedad con estrategia y domina complejas cadenas de producción, mediante la innovación, la diplomacia y la maestría económica.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "16 ABR 2019",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/anno-1800?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Anno 1800",
+  "acerca": [
+    [
+      "p",
+      "¡Sumérgete en la época victoriana! Transforma pintorescos asentamientos en bulliciosas ciudades y levanta complejos industriales envueltos en humo y contaminación. Moldea tus ciudades equilibrando el progreso tecnológico con las necesidades de tu población."
+    ],
+    [
+      "p",
+      "Construye ciudades atractivas ricas en ocio y cultura, como bares locales y exóticos zoos. Llega a un equilibrio entre la paz social y la eficiencia económica para garantizar el bienestar de tus residentes. Optimiza las cadenas de suministros y la planificación urbana, y enfréntate al desafío de usar la electricidad y las máquinas de vapor en provecho propio."
+    ],
+    [
+      "p",
+      "Cada decisión que tomes define tu legado. ¿Darás prioridad a la productividad de las fábricas o a la felicidad de los trabajadores? ¿Serán tus ciudades un motor de progreso que atraiga a multitudes? Gestiona estas tensiones, a la vez que colaboras con la prensa y organizas expediciones intrépidas. Erige una red comercial entre tierras lejanas para dar sustento a una población en constante crecimiento."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Subtítulos disponibles"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10(64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel i5 3470, AMD FX 6350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 670 GTX or AMD Radeon R9 285 (2 GB of VRAM, Shader Model 5.0)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10(64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel i5 4690k, AMD Ryzen 5 1400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 970 GTX or AMD Radeon RX 480 (4 GB of VRAM, Shader Model 5.1)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/ecebd0ae477a204c46e3998be53fdd854cf3b089/ss_ecebd0ae477a204c46e3998be53fdd854cf3b089.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/ecebd0ae477a204c46e3998be53fdd854cf3b089/ss_ecebd0ae477a204c46e3998be53fdd854cf3b089.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/fb5d030510fe4418f8ba5578927c025d5eb59839/ss_fb5d030510fe4418f8ba5578927c025d5eb59839.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/fb5d030510fe4418f8ba5578927c025d5eb59839/ss_fb5d030510fe4418f8ba5578927c025d5eb59839.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/957eb75b4ed13d3d313e0cda02b2486c99207f3b/ss_957eb75b4ed13d3d313e0cda02b2486c99207f3b.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/957eb75b4ed13d3d313e0cda02b2486c99207f3b/ss_957eb75b4ed13d3d313e0cda02b2486c99207f3b.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/3bb87e7ce3b311a6558a351d73a9c5bf7a877e09/ss_3bb87e7ce3b311a6558a351d73a9c5bf7a877e09.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/3bb87e7ce3b311a6558a351d73a9c5bf7a877e09/ss_3bb87e7ce3b311a6558a351d73a9c5bf7a877e09.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/8fa91f099e9f4ae991827c8186edc2d2094df37d/ss_8fa91f099e9f4ae991827c8186edc2d2094df37d.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/8fa91f099e9f4ae991827c8186edc2d2094df37d/ss_8fa91f099e9f4ae991827c8186edc2d2094df37d.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/fee031d95d4ac1249be849f1662b5531ad75d861/ss_fee031d95d4ac1249be849f1662b5531ad75d861.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/fee031d95d4ac1249be849f1662b5531ad75d861/ss_fee031d95d4ac1249be849f1662b5531ad75d861.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/ee6926d9fef19703caebfbe73a8f3a247318c9b1/ss_ee6926d9fef19703caebfbe73a8f3a247318c9b1.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/ee6926d9fef19703caebfbe73a8f3a247318c9b1/ss_ee6926d9fef19703caebfbe73a8f3a247318c9b1.1920x1080.jpg?t=1791465786"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/4e4dd3f3226357a54cc3410499c6f1043c183c03/ss_4e4dd3f3226357a54cc3410499c6f1043c183c03.600x338.jpg?t=1791465786",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916440/4e4dd3f3226357a54cc3410499c6f1043c183c03/ss_4e4dd3f3226357a54cc3410499c6f1043c183c03.1920x1080.jpg?t=1791465786"
+    }
+  ],
+  "web": "https://www.anno-union.com",
+  "consultado": "2026-11-22T22:32:48.923Z"
+}

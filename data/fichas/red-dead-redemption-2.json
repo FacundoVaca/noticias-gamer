@@ -1,0 +1,272 @@
+{
+  "clave": "red dead redemption 2",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-3a3b-7210-bd2d-0d1dfb1d84c0",
+  "appid": "1174180",
+  "lanzamiento": "2019-11-04",
+  "desarrolladores": [
+    "Rockstar Games"
+  ],
+  "editores": [
+    "Rockstar Games",
+    "TAKE-TWO INTERACTIVE"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Story Rich",
+    "Western",
+    "Multiplayer",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 860177,
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 93,
+      "cantidad": 44,
+      "url": "https://metacritic.com/game/red-dead-redemption-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 90,
+      "cantidad": 37852,
+      "url": "https://metacritic.com/game/red-dead-redemption-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 95,
+      "cantidad": 223,
+      "url": "https://opencritic.com/game/3717/red-dead-redemption-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "402134",
+      "nombre": "Red Dead Redemption 2",
+      "apps": [
+        {
+          "appid": "1174180",
+          "nombre": "Red Dead Redemption 2"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "412454",
+      "nombre": "Red Dead Redemption 2: Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1174180",
+          "nombre": "Red Dead Redemption 2"
+        }
+      ],
+      "usd": 99.99,
+      "antes": 99.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1174180": {
+      "usd": 59.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y cazarrecompensas pisándoles los talones, la banda deberá atracar, robar y luchar para sobrevivir en su camino por el escabroso territorio.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "5 DIC 2019",
+  "metacritic": {
+    "puntaje": 93,
+    "url": "https://www.metacritic.com/game/pc/red-dead-redemption-2?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Red Dead Redemption 2",
+  "acerca": [
+    [
+      "p",
+      "América, 1899. Arthur Morgan y la banda de Van der Linde son forajidos en busca y captura. Mientras los agentes federales y los mejores cazarrecompensas de la nación les pisan los talones, la banda deberá abrirse camino por el abrupto territorio del corazón de América y sobrevivir a base de robos y peleas. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer."
+    ],
+    [
+      "p",
+      "Con más de 175 premios al Juego del año y más de 250 valoraciones perfectas, Red Dead Redemption 2 es una historia épica sobre el honor y la lealtad en el umbral de una nueva era."
+    ],
+    [
+      "p",
+      "Red Dead Redemption 2 también incluye Red Dead Online, la experiencia multijugador basada en el mundo vivo de Red Dead Redemption 2. Cabalga en solitario o forma una cuadrilla; vende licor; enfréntate a agentes de la ley, bandas de forajidos, feroces animales salvajes y mucho más mientras forjas tu destino en el Oeste."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "Remote Play en móvil",
+    "Remote Play en tableta"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 - 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-2500K / AMD FX-6300"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X Compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 - 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i7-4770K / AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X Compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg?t=1759502961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.1920x1080.jpg?t=1759502961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg?t=1759502961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.1920x1080.jpg?t=1759502961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg?t=1759502961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.1920x1080.jpg?t=1759502961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg?t=1759502961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.1920x1080.jpg?t=1759502961"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.600x338.jpg?t=1759502961",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg?t=1759502961"
+    }
+  ],
+  "web": "https://www.rockstargames.com/reddeadredemption2/",
+  "consultado": "2026-11-22T22:33:01.231Z"
+}

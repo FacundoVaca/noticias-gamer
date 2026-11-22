@@ -1,0 +1,418 @@
+{
+  "clave": "dragon ball sparking zero",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-79bd-73aa-8546-5b4cc9413ee9",
+  "appid": "1790600",
+  "lanzamiento": "2024-10-10",
+  "desarrolladores": [
+    "Spike Chunsoft Co. Ltd.",
+    "Spike Chunsoft Co., Ltd."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "BANDAI NAMCO Entertainment US",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "Spike Chunsoft Co., Ltd.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Anime",
+    "Multiplayer",
+    "Action",
+    "Fighting",
+    "Local Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 50823,
+      "url": "https://store.steampowered.com/app/1790600/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 16,
+      "url": "https://metacritic.com/game/dragon-ball-sparking-zero/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 1407,
+      "url": "https://metacritic.com/game/dragon-ball-sparking-zero/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 130,
+      "url": "https://opencritic.com/game/17414/dragon-ball-sparking-zero"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1063368",
+      "nombre": "DRAGON BALL: Sparking! ZERO",
+      "apps": [
+        {
+          "appid": "1790600",
+          "nombre": "DRAGON BALL: Sparking! ZERO"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1698436",
+      "nombre": "DRAGON BALL: Sparking! ZERO - Edición Super Limit-Breaking NEO",
+      "apps": [
+        {
+          "appid": "1790600",
+          "nombre": "DRAGON BALL: Sparking! ZERO"
+        }
+      ],
+      "usd": 63.99,
+      "antes": 63.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1698437",
+      "nombre": "DRAGON BALL: Sparking! ZERO Edición Legendaria",
+      "apps": [
+        {
+          "appid": "1790600",
+          "nombre": "DRAGON BALL: Sparking! ZERO"
+        }
+      ],
+      "usd": 95.99,
+      "antes": 95.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1790600": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "4433900",
+      "nombre": "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO",
+      "gratis": false,
+      "usd": 27.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2957520",
+      "nombre": "Pase de temporada de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 27.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2957480",
+      "nombre": "Paquete de música de anime 1 de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2957490",
+      "nombre": "Paquete de música de anime 2 de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2957460",
+      "nombre": "Paquete de reserva de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3310650",
+      "nombre": "Paquete HÉROE DE LA JUSTICIA de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3456600",
+      "nombre": "DRAGON BALL: Sparking! ZERO - 1.° Paquete personajes de DAIMA",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3456610",
+      "nombre": "DRAGON BALL: Sparking! ZERO - 2.° paquete de personajes de Dragon Ball DAIMA",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2957470",
+      "nombre": "Paquete de mejora Ultimate de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3693250",
+      "nombre": "DRAGON BALL: Sparking! ZERO - Shallot (DRAGON BALL LEGENDS)",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2957500",
+      "nombre": "Paquete de victoria de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    },
+    {
+      "appid": "2957510",
+      "nombre": "Paquete de artes marciales de DRAGON BALL: Sparking! ZERO",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "DRAGON BALL: Sparking! ZERO lleva a un nuevo nivel el legendario estilo de juego de la serie Budokai Tenkaichi. ¡Domina el poder destructivo de los luchadores más fuertes que han aparecido en Dragon Ball!",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "10 OCT 2024",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/dragon-ball-sparking!-zero?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "DRAGON BALL: Sparking! ZERO",
+  "acerca": [
+    [
+      "p",
+      "DRAGON BALL: Sparking! ZERO lleva a un nuevo nivel el legendario estilo de juego de la serie Budokai Tenkaichi. Conviértete en un superguerrero y disfruta de los poderosos combates de Dragon Ball, ¡que hacen temblar la tierra y superan todos los límites!"
+    ],
+    [
+      "p",
+      "Libera el poder de más de 180 combatientes de Dragon Ball Z, Dragon Ball SUPER, Dragon Ball GT y algunas películas de Dragon Ball, ¡todos incluidos en el juego base! Cada personaje tiene sus habilidades, transformaciones y técnicas propias."
+    ],
+    [
+      "p",
+      "¡Domina el poder destructivo de los luchadores más fuertes que han aparecido en Dragon Ball!"
+    ],
+    [
+      "p",
+      "Participa en trepidantes combates 3D que hacen honor al anime y a la saga de videojuegos, con efectos visuales impresionantes y auténticas técnicas de lucha, como choques de rayos, ataques frenéticos, movimientos ultrarrápidos o ataques definitivos capaces de arrasar el planeta."
+    ],
+    [
+      "p",
+      "¡Desafía a otros jugadores en línea para poner a prueba tus habilidades, o júntate con amigos para perfeccionar tu poder! Lucha para ganar en distintos modos de torneo y con diferentes condiciones de victoria."
+    ],
+    [
+      "p",
+      "Conquista las frenéticas batallas de la querida historia original o descubre y desbloquea nuevos encuentros con tus Guerreros Z favoritos, entre otras cosas. ¡Vuelve a vivir tus momentos favoritos de la serie a través de secuencias de vídeo que podrás experimentar desde la perspectiva de ocho personajes!"
+    ],
+    [
+      "p",
+      "Recrea tus peleas favoritas de la historia de Dragon Ball o da vida al combate que siempre has soñado con tus personajes favoritos. Comparte tus creaciones con otros fans y disfruta de combates que cobran vida gracias a la imaginación de jugadores del mundo entero."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 980 / AMD Radeon RX 590 / Intel Arc A750"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "29 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"Low\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700K / AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 2060 / AMD Radeon RX Vega 64"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "29 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"High\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_11942c933c595bf0188d5ee22f6f6a7ed3cdf7d9.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_11942c933c595bf0188d5ee22f6f6a7ed3cdf7d9.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_edf6973923cb0d2ad72acecc014262a6de55a608.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_edf6973923cb0d2ad72acecc014262a6de55a608.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_f4ec953421c54bf74bdca77ceed361ad7b509858.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_f4ec953421c54bf74bdca77ceed361ad7b509858.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_90f5785f89a9882a7f33fd5a812a7e7384720afd.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_90f5785f89a9882a7f33fd5a812a7e7384720afd.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_72cb10fb8f0c7554e932257450b19189534a846d.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_72cb10fb8f0c7554e932257450b19189534a846d.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_80d442d735c80a31c78696aeaaae08c0bf843a0f.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_80d442d735c80a31c78696aeaaae08c0bf843a0f.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_119e7890b990201c6ca61280a76851dc0ced05f9.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_119e7890b990201c6ca61280a76851dc0ced05f9.1920x1080.jpg?t=1785726916"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_6389b6aef0ecaa3f6cc1e36dcfb145c6fcb70a75.600x338.jpg?t=1785726916",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_6389b6aef0ecaa3f6cc1e36dcfb145c6fcb70a75.1920x1080.jpg?t=1785726916"
+    }
+  ],
+  "consultado": "2026-11-22T22:33:12.046Z"
+}

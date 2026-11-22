@@ -1,0 +1,515 @@
+{
+  "clave": "hot wheels unleashed 2 turbocharged deluxe edition",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-74b9-70be-bc4f-2c141f6e3d3f",
+  "appid": "2051120",
+  "lanzamiento": "2023-10-19",
+  "desarrolladores": [
+    "Milestone S.r.l."
+  ],
+  "editores": [
+    "Milestone S.r.l."
+  ],
+  "etiquetas": [
+    "Arcade",
+    "Family Friendly",
+    "Driving",
+    "Split Screen",
+    "Local Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 973,
+      "url": "https://store.steampowered.com/app/2051120/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "732771",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "877082",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "877088",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 79.99,
+      "antes": 79.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2051120": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 25,
+  "dlcLista": [
+    {
+      "appid": "2475560",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 1",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2475570",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 2",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2524830",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2524820",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2524810",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2524800",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370240",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Rust and Fast Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370241",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Unstoppables Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370242",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Speed Kings Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370243",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Just a Scratch Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370244",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Twin Mill™ Unleashed Edition",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370245",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers All-Star Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370246",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Speed and Style Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2492920",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Fast X Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370249",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Honda Modern Classics Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370251",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Highway 35 World Race Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370252",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Monster Trucks Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370255",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Old but Gold Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370257",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Mercedes-Benz Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2370250",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 1",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2370254",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 2",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2370256",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 3",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2370248",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Highway 35 Free Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2370247",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Manga Free Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2370253",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Mega Bites Free Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Los coches más radicales revolucionan a tope la diversión! Pilota más de 130 vehículos de todo tipo y con mecánicas loquísimas. Además, construye tus pistas en entornos nuevos y asombrosos y disfruta de modos de juego diferentes tanto en línea como sin conexión.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Carreras",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "19 OCT 2023",
+  "metacritic": null,
+  "nombreSteam": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+  "acerca": [
+    [
+      "h",
+      "¡VOLVIMOS A CONSEGUIRLO!"
+    ],
+    [
+      "p",
+      "Si pensabas que el primer capítulo era insuperable, bueno, abróchate el cinturón, porque todas estas novedades increíbles van mil por hora."
+    ],
+    [
+      "h",
+      "MÁS RUEDAS, MÁS DIVERSIÓN"
+    ],
+    [
+      "p",
+      "Lo primer es lo primero: haz hueco en tu estantería virtual, porque tendrás acceso a más de 130 vehículos y a incluso más variedades de vehículos. Sí, no solo a Hot Wheels™ Originals, también a Hot Wheels™ Monster Trucks y a vehículos del mundo del entretenimiento. También podrás pilotar motocicletas y quads, cada uno con su propio estilo de conducción para conquistar cada pista de la forma más estratégica."
+    ],
+    [
+      "p",
+      "Un sistema totalmente nuevo que define las categorías de los vehículos, que pueden mejorarse desde su correspondiente árbol de habilidades para afectar directamente a su rendimiento. ¡Contempla cómo tu coche se vuelve imparable!"
+    ],
+    [
+      "h",
+      "NUEVOS LUGARES A LOS QUE LLAMAR HOGAR"
+    ],
+    [
+      "p",
+      "Ya sea el patio trasero de una casa de las afueras o una pista de minigolf en un pueblo del salvaje oeste, ¡cada pista se ubicará en entornos asombrosos!"
+    ],
+    [
+      "p",
+      "Conoce 5 ubicaciones nuevas, descubre todos sus secretos y enseguida te sentirás como en casa después de recorrerlas y subir al podio."
+    ],
+    [
+      "p",
+      "Los terrenos nuevos son otra adición fantástica que hará que vuestras carreras sean aún más desafiantes y emocionantes. Hierba, arena y muchas cosas más que afectarán al control que tengas sobre el vehículo, así que habrá que tenerlo en cuenta a la hora de decidir una estrategia: ¡ahora es aún más importante!"
+    ],
+    [
+      "h",
+      "PRESUME DE HABILIDADES"
+    ],
+    [
+      "p",
+      "Antes de impresionar a tus oponentes con una gran victoria, ¡déjalos boquiabiertos con movimientos nuevos y pasmosos! Además de derrapar y Boost, ahora podrás correr de lado, saltar o hacer un salto doble. Elige qué hacer y cuándo con cabeza para golpear a tus rivales y sacarlos de la pista... ¡o para evitar obstáculos!"
+    ],
+    [
+      "p",
+      "¡Con los nuevos saltos, podrás pasar del tráfico y encontrar atajos ocultos!"
+    ],
+    [
+      "h",
+      "COMO MÁS TE GUSTE"
+    ],
+    [
+      "p",
+      "¿Te gusta correr riesgos para transformar cada carrera en pura adrenalina? ¿O quizás prefieres comprobar hasta dónde puedes llegar? ¿Has dicho que te gustan «estrellar coches»? Bueno, HOT WHEELS UNLEASHED™ 2 - Turbocharged te trae todo eso y mucho más. Modos de juego diferentes para que te diviertas como consideres, tanto en línea como sin conexión."
+    ],
+    [
+      "h",
+      "¡DA RIENDA SUELTA A TU CREATIVIDAD!"
+    ],
+    [
+      "p",
+      "¡Los editores más aclamados han vuelto! Crea la pista de tus sueños con el potente Editor de pistas o utiliza las mejores creaciones de la comunidad."
+    ],
+    [
+      "p",
+      "Y, por supuesto, a una pista maravillosa le hacen falta coches despampanantes. El nuevo y mejorado Editor corporativo es todo lo que necesitas: con las nuevas herramientas, como el Editor de pegatinas, puedes diseñar y guardar patrones y formas para crear tu obra maestra. ¡Tenemos claro que las mejores ideas saldrán de tu cabeza!"
+    ],
+    [
+      "h",
+      "UNA HISTORIA COMPLETAMENTE NUEVA"
+    ],
+    [
+      "p",
+      "Literalmente. La aventura del modo Campaña es totalmente nueva y original, además de estar basada en la historia. Están atacando la ciudad y solo tú puedes salvarla de las criaturas que la asedian. ¿Cómo? ¡Muy fácil! ¡Ganando carreras y desafíos específicos! Vale, puede que no sea tan fácil... ¡Pero sí que será muy emocionante! Prepárate, porque no solo ganarás carreras, ¡también salvarás a gente!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit or later"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4590 or equivalent / AMD FX-4350 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1050 / Radeon RX 460"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit or later"
+      ],
+      [
+        "Procesador",
+        "Intel Core i9-9900k or equivalent / AMD Ryzen 7 2700X or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce RTX 2070 Super / Radeon RX 6800 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_8bcbd07e97af5cd2d700aa82299484f200e41e93.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_8bcbd07e97af5cd2d700aa82299484f200e41e93.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_e8d032ee7d2123bd93bc47ea212e93bfae1536af.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_e8d032ee7d2123bd93bc47ea212e93bfae1536af.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_93ee2538b683c3d80de05aaa5247cbaa551b52f0.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_93ee2538b683c3d80de05aaa5247cbaa551b52f0.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_05e6007e1656e5ed034b9ff7c8744cbf94cd5eb6.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_05e6007e1656e5ed034b9ff7c8744cbf94cd5eb6.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_53ef55b97d2d98b283908430b7f2b7cd791a5e1d.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_53ef55b97d2d98b283908430b7f2b7cd791a5e1d.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_f719ba7f946bdb58d6dcc14d42a5bed91be4aeda.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_f719ba7f946bdb58d6dcc14d42a5bed91be4aeda.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_d084f285f3fff767ff216e93bd62c87edf353b0e.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_d084f285f3fff767ff216e93bd62c87edf353b0e.1920x1080.jpg?t=1785493588"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_b2aa7357dac8098e169028a38d8c16a44c92d90c.600x338.jpg?t=1785493588",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051120/ss_b2aa7357dac8098e169028a38d8c16a44c92d90c.1920x1080.jpg?t=1785493588"
+    }
+  ],
+  "web": "https://www.hotwheelsunleashed.com/",
+  "consultado": "2026-11-22T22:29:21.644Z"
+}
