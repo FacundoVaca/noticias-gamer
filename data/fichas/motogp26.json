@@ -1,0 +1,292 @@
+{
+  "clave": "motogp26",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019cbd7a-63f6-7219-b933-0b49145ebc86",
+  "appid": "3875050",
+  "lanzamiento": "2026-04-29",
+  "desarrolladores": [
+    "Milestone S.r.l."
+  ],
+  "editores": [
+    "Milestone S.r.l."
+  ],
+  "etiquetas": [
+    "Racing",
+    "Simulation",
+    "Sports",
+    "Bikes",
+    "Motorbike"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 66,
+      "cantidad": 274,
+      "url": "https://store.steampowered.com/app/3875050/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/motogp-26/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 67,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/motogp-26/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 36,
+      "url": "https://opencritic.com/game/20338/motogp-26"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4332650",
+      "nombre": "MotoGP™26 - Scorpion Helmet Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4332660",
+      "nombre": "MotoGP™26 - HJC Helmet Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Disfruta de una experiencia MotoGP™ con toda la emoción de la temporada oficial de 2026, una física renovada basada en un sistema de conducción nuevo adaptado a los pilotos, una Trayectoria más completa, valoraciones dinámicas de los pilotos y mucho más.",
+  "generos": [
+    "Carreras",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "29 ABR 2026",
+  "metacritic": null,
+  "nombreSteam": "MotoGP™26",
+  "acerca": [
+    [
+      "h",
+      "El campeonato oficial de 2026"
+    ],
+    [
+      "p",
+      "Siente la intensidad del Campeonato MotoGP™ 2026 de la forma más auténtica con los pilotos, equipos, motos y pistas oficiales. Por primera vez, los resultados del mundo real actualizan las valoraciones de los pilotos de manera dinámica, lo que influye directamente en su rendimiento en el juego durante la temporada. Capta todas las miradas y sigue tu evolución con las impresionantes cartas coleccionables que reflejan tu progreso."
+    ],
+    [
+      "h",
+      "Física rediseñada para un control absoluto"
+    ],
+    [
+      "p",
+      "Sumérgete de lleno en la acción con la experiencia Arcade o déjate llevar por la simulación pura con la experiencia Pro. Ambas cuentan con tutoriales, dificultad dinámica y ayudas neuronales. Disfruta de un sistema de física actualizado que gira en torno a un nuevo modelo de conducción centrado en el piloto. Los movimientos del cuerpo sobre la moto son más importantes que nunca, lo que te ofrece un mayor control y una sensación de conducción más auténtica."
+    ],
+    [
+      "h",
+      "Una Trayectoria más intensa"
+    ],
+    [
+      "p",
+      "Forja tu legado con un piloto personalizado, partiendo como principiante hasta llegar a leyenda, o revive y reinventa la trayectoria de una estrella oficial de MotoGP™. Tu carrera evoluciona con cada temporada gracias a las negociaciones de los contratos, las dinámicas del mercado de pilotos y las ruedas de prensa que determinan tu futuro. Mientras que tus declaraciones a los medios influyen en los retos que te esperan, la colaboración con los equipos es fundamental para el desarrollo de las motos. Cada decisión forma parte de tu historia."
+    ],
+    [
+      "h",
+      "Entrena y experimenta"
+    ],
+    [
+      "p",
+      "Sal del paddock y descubre formas nuevas de pilotar. Entrena con las disciplinas Motard, Flat Track y Minibike o sal a la pista con las motos de serie, que son modelos que aparecen en eventos de una sola marca y cuentan con una física específica."
+    ],
+    [
+      "h",
+      "Compite en compañía"
+    ],
+    [
+      "p",
+      "Participa en competiciones online con crossplay* completo y compite en una parrilla de 22 pilotos en las nuevas salas online. Personaliza tu aspecto con los editores gráficos avanzados y comparte tus creaciones."
+    ],
+    [
+      "p",
+      "* No disponible en plataformas de Nintendo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Jugable sin restricciones de tiempo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Core i5-9600K / Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1660 / Radeon RX 580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Core i5-14600K / Ryzen 5 9600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce RTX 4060 / Radeon RX 7600XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/177d0780591cb7fc9fb281e05afbfcbb27dcb2e1/ss_177d0780591cb7fc9fb281e05afbfcbb27dcb2e1.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/177d0780591cb7fc9fb281e05afbfcbb27dcb2e1/ss_177d0780591cb7fc9fb281e05afbfcbb27dcb2e1.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/a3daa57b1ba53951ef1fb4a0355c7cbf69b6a1a0/ss_a3daa57b1ba53951ef1fb4a0355c7cbf69b6a1a0.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/a3daa57b1ba53951ef1fb4a0355c7cbf69b6a1a0/ss_a3daa57b1ba53951ef1fb4a0355c7cbf69b6a1a0.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/25aeefc4cc9c5af3359ba34be469d1d1435d7d72/ss_25aeefc4cc9c5af3359ba34be469d1d1435d7d72.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/25aeefc4cc9c5af3359ba34be469d1d1435d7d72/ss_25aeefc4cc9c5af3359ba34be469d1d1435d7d72.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/88e522124e7c49496f1c56ce4d082a815a277054/ss_88e522124e7c49496f1c56ce4d082a815a277054.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/88e522124e7c49496f1c56ce4d082a815a277054/ss_88e522124e7c49496f1c56ce4d082a815a277054.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/0837cb7bede59971195d1e45a4f59d584460abbe/ss_0837cb7bede59971195d1e45a4f59d584460abbe.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/0837cb7bede59971195d1e45a4f59d584460abbe/ss_0837cb7bede59971195d1e45a4f59d584460abbe.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/47399c98992303b51752e7e8e9b91ddac0b6d8c7/ss_47399c98992303b51752e7e8e9b91ddac0b6d8c7.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/47399c98992303b51752e7e8e9b91ddac0b6d8c7/ss_47399c98992303b51752e7e8e9b91ddac0b6d8c7.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/92500143680ca05fa272a4840bb478de99bab1cd/ss_92500143680ca05fa272a4840bb478de99bab1cd.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/92500143680ca05fa272a4840bb478de99bab1cd/ss_92500143680ca05fa272a4840bb478de99bab1cd.1920x1080.jpg?t=1782460179"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/1668af88ea2dcf87addb5221e58c28b02e197962/ss_1668af88ea2dcf87addb5221e58c28b02e197962.600x338.jpg?t=1782460179",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3875050/1668af88ea2dcf87addb5221e58c28b02e197962/ss_1668af88ea2dcf87addb5221e58c28b02e197962.1920x1080.jpg?t=1782460179"
+    }
+  ],
+  "web": "https://milestone.it/games/motogp-26/",
+  "igdbIntentado": true,
+  "igdb": 394406,
+  "youtube": [
+    {
+      "id": "Ph0fqfJTfIY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "YY7Z2PdxntA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "qobY1TmMKLc",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:38:04.333Z"
+}

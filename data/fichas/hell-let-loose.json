@@ -1,0 +1,738 @@
+{
+  "clave": "hell let loose",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-363d-73f6-9f34-6056264e3ee0",
+  "appid": "686810",
+  "lanzamiento": "2019-06-06",
+  "desarrolladores": [
+    "Black Matter Pty Ltd",
+    "Expression Games",
+    "Team17"
+  ],
+  "editores": [
+    "Team17 Digital Ltd",
+    "Team 17",
+    "Team 17 Digital Ltd",
+    "Black Matter Pty Ltd",
+    "Team17 Digital",
+    "Team17"
+  ],
+  "etiquetas": [
+    "Shooter",
+    "Realistic",
+    "World War II",
+    "Multiplayer",
+    "FPS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 100167,
+      "url": "https://store.steampowered.com/app/686810/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/hell-let-loose/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 299,
+      "url": "https://metacritic.com/game/hell-let-loose/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 29,
+      "url": "https://opencritic.com/game/9278/hell-let-loose"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "196643",
+      "nombre": "Hell Let Loose",
+      "apps": [
+        {
+          "appid": "686810",
+          "nombre": "Hell Let Loose"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "939454",
+      "nombre": "Hell Let Loose - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "686810",
+          "nombre": "Hell Let Loose"
+        },
+        {
+          "appid": "1793010",
+          "nombre": "Hell Let Loose - False Front"
+        },
+        {
+          "appid": "1793011",
+          "nombre": "Hell Let Loose - Hot Drop"
+        },
+        {
+          "appid": "1647962",
+          "nombre": "Hell Let Loose – Lethal Tide"
+        }
+      ],
+      "usd": 28.99,
+      "antes": 28.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "939455",
+      "nombre": "Hell Let Loose - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "686810",
+          "nombre": "Hell Let Loose"
+        },
+        {
+          "appid": "2401901",
+          "nombre": "Hell Let Loose - Cavalry Coat"
+        },
+        {
+          "appid": "1793010",
+          "nombre": "Hell Let Loose - False Front"
+        },
+        {
+          "appid": "1793011",
+          "nombre": "Hell Let Loose - Hot Drop"
+        },
+        {
+          "appid": "2175550",
+          "nombre": "Hell Let Loose - Skull Bucket"
+        },
+        {
+          "appid": "1647962",
+          "nombre": "Hell Let Loose – Lethal Tide"
+        },
+        {
+          "appid": "1647960",
+          "nombre": "Hell Let Loose – Silver Vanguard"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "589120",
+      "nombre": "Hell Let Loose",
+      "apps": [
+        {
+          "appid": "686810",
+          "nombre": "Hell Let Loose"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "686810": {
+      "usd": 23.99,
+      "gratis": false
+    },
+    "1647960": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1647962": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1793010": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1793011": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2175550": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2401901": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 36,
+  "dlcLista": [
+    {
+      "appid": "5153800",
+      "nombre": "Hell Let Loose - Bolt Action Wrap Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4684530",
+      "nombre": "Hell Let Loose - Canadian Western Europe Pack",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4684540",
+      "nombre": "Hell Let Loose - Canadian Airborne",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4124210",
+      "nombre": "Hell Let Loose - Operation Suvorov Units",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4143590",
+      "nombre": "Hell Let Loose - Veteran - Smolensk Offensive",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4159830",
+      "nombre": "Hell Let Loose - Soviet and British 8th Army Armor Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4159850",
+      "nombre": "Hell Let Loose - Fallschirmjäger Airborne Veterans",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4008670",
+      "nombre": "Hell Let Loose – US & German Armor Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4008660",
+      "nombre": "Hell Let Loose – Red Army Cossack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3515070",
+      "nombre": "Hell Let Loose - Western Desert Campaign Units",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3515080",
+      "nombre": "Hell Let Loose - Long Range Desert Group",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3768610",
+      "nombre": "Hell Let Loose - Operation Overlord Units",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3312110",
+      "nombre": "Hell Let Loose - Wacht am Rhein Units",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3178960",
+      "nombre": "Hell Let Loose - Panzer Lehr",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3012950",
+      "nombre": "Hell Let Loose -  Operation Lüttich Units",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2475320",
+      "nombre": "Hell Let Loose - Airborne M1942 Reinforced",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2805150",
+      "nombre": "Hell Let Loose - Red Devils",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2885540",
+      "nombre": "Hell Let Loose - Oak Leaf",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2805160",
+      "nombre": "Hell Let Loose - Polish Parachute Brigade",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2819760",
+      "nombre": "Hell Let Loose - Near Miss - British 8th Army",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2709180",
+      "nombre": "Hell Let Loose - Red Skies",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2677820",
+      "nombre": "Hell Let Loose - Pea Dot",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2623000",
+      "nombre": "Hell Let Loose - Luftwaffe Eagles",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2401901",
+      "nombre": "Hell Let Loose - Cavalry Coat",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2331691",
+      "nombre": "Hell Let Loose - Battle Scarred",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2175550",
+      "nombre": "Hell Let Loose - Skull Bucket",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2331690",
+      "nombre": "Hell Let Loose - Near Miss",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2401900",
+      "nombre": "Hell Let Loose - Jericho Cap",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1656970",
+      "nombre": "Hell Let Loose – Red Marshall",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1656971",
+      "nombre": "Hell Let Loose – Upper Echelon",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1647962",
+      "nombre": "Hell Let Loose – Lethal Tide",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1793011",
+      "nombre": "Hell Let Loose - Hot Drop",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1793012",
+      "nombre": "Hell Let Loose - Tropic Fever",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1793010",
+      "nombre": "Hell Let Loose - False Front",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1793013",
+      "nombre": "Hell Let Loose - Red Steel",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1647960",
+      "nombre": "Hell Let Loose – Silver Vanguard",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Únete a Hell Let Loose, un shooter bestial en primera persona ambientado en la II Guerra Mundial que incluye batallas épicas de 100 jugadores con infantería, tanques, artillería, un frente dinámico y un sistema de gestión de recursos inspirado en los títulos de ETR.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Multijugador masivo",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "27 JUL 2021",
+  "metacritic": {
+    "puntaje": 79,
+    "url": "https://www.metacritic.com/game/pc/hell-let-loose?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Hell Let Loose",
+  "acerca": [
+    [
+      "p",
+      "Únete a la experiencia en constante expansión de Hell Let Loose, un shooter bestial en primera persona ambientado en la II Guerra Mundial que incluye batallas épicas de 100 jugadores con infantería, tanques, artillería, un frente dinámico y un sistema de gestión de recursos inspirado en los títulos de estrategia en tiempo real."
+    ],
+    [
+      "p",
+      "Participa en las batallas más emblemáticas del Frente Occidental, como Carentan, Omaha Beach y Foy, entre otras. El combate está a otro nivel. No eres más que otro engranaje en esta máquina de guerra colosal, como los pesados tanques que dominan el campo de batalla y las vitales cadenas de suministro que alimentan a los soldados del frente. Hell Let Loose te mete de lleno en el caos de la guerra e incluye complejos vehículos que podrás controlar, un frente dinámico en constante evolución y una jugabilidad crucial centrada en las unidades que determinará las tornas del combate."
+    ],
+    [
+      "p",
+      "Juega en más de 9 extensos mapas modelados a partir de imágenes de reconocimiento reales y de datos de satélite. Todo el campo de batalla está dividido en grandes sectores que capturar, lo que permite una jugabilidad emergente y única en la que dos pelotones de 50 jugadores cada uno combaten en una lucha a muerte a través de campos, puentes, bosques y pueblos en un frente que no deja de cambiar. Cuando captures un sector, este generará uno de los tres recursos disponibles para tu equipo, lo que crea una jugabilidad compleja que influirá en la marcha hacia la victoria."
+    ],
+    [
+      "p",
+      "Un escenario bélico épico"
+    ],
+    [
+      "p",
+      "Domina el campo de batalla en enfrentamientos 50 contra 50 que transcurren en mapas enormes. Escoge uno de los 14 roles, entre los que hay unidades blindadas, de infantería y de reconocimiento, cada una equipada con armas, vehículos y equipo distintos. Juega como oficial, oteador, ametrallador, médico, ingeniero, comandante de tanque y más para experimentar cada aspecto de las batallas de la II Guerra Mundial."
+    ],
+    [
+      "p",
+      "Jugabilidad bestial"
+    ],
+    [
+      "p",
+      "Hell Let Loose te meterá de lleno en más de 9 campos de batalla emblemáticos de la II Guerra Mundial, como Omaha Beach, Carentan y Foy. Los vehículos, las armas y los uniformes históricos están reproducidos con gran detalle, y el combate es tan sangriento y brutal como lo fue en su día. Las batallas transcurren en mapas enormes a escala real de ubicaciones de batallas reales, que han sido recreadas con fotografías aéreas de archivo e imágenes de satélite para conseguir un detalle increíble gracias a Unreal Engine 4."
+    ],
+    [
+      "p",
+      "Jugad juntos, ganad juntos"
+    ],
+    [
+      "p",
+      "Hell Let Loose no se centra en la estadística de bajas y muertes: el trabajo en equipo es fundamental en el juego. La comunicación es esencial. Los jugadores trabajan juntos bajo el liderazgo de los oficiales y de su comandante para tomar objetivos estratégicos del campo de batalla y vencer así al bando rival. Hell Let Loose es un juego en el que es necesario trabajar en equipo y comunicarse para ganar, pero también para sobrevivir."
+    ],
+    [
+      "p",
+      "Jugabilidad única"
+    ],
+    [
+      "p",
+      "Lucha por la victoria derrotando las líneas enemigas en un campo de batalla enorme y en constante evolución. Este sistema único de captura de sectores hace que los equipos tengan que tomar continuamente decisiones tácticas a gran escala sobre dónde atacar o defender. Gestiona los recursos y los suministros para solicitar ayuda, nuevos vehículos, un bombardeo o un ametrallamiento, y también para reforzar puntos de interés o flanquear a los enemigos. La estrategia es la clave para hacerse con la victoria."
+    ],
+    [
+      "p",
+      "Características principales:"
+    ],
+    [
+      "p",
+      "• Participa en batallas multijugador épicas de 50 contra 50."
+    ],
+    [
+      "p",
+      "• Dos modos de juego diferentes: Offensive y Warfare."
+    ],
+    [
+      "p",
+      "• 9 mapas (se añaden más con frecuencia): aterriza en Omaha Beach, lucha por Carentan y adéntrate en los bosques helados de Foy antes de subir por Hill 400."
+    ],
+    [
+      "p",
+      "• No libres la misma batalla dos veces: hay 99 variantes de puntos de captura por mapa, lo que se traduce en miles de batallas potenciales."
+    ],
+    [
+      "p",
+      "• Juega y domina uno o varios de los 14 roles únicos, como:"
+    ],
+    [
+      "p",
+      "Oficial, médico, ametrallador, comandante, tripulante o francotirador, entre otros."
+    ],
+    [
+      "p",
+      "• Actualizado constantemente con nuevos mapas, armas, funciones y corrección de errores."
+    ],
+    [
+      "p",
+      "• El realismo de los disparos y el retroceso contribuyen a que las armas sean precisas y eficaces."
+    ],
+    [
+      "p",
+      "• Chat de voz de proximidad, de unidad o de líderes."
+    ],
+    [
+      "p",
+      "• Combate brutal: las potentes armas desmiembran tanto a aliados como a enemigos."
+    ],
+    [
+      "p",
+      "• Progreso continuo del personaje: demuestra tu experiencia y desbloquea nuevos uniformes, equipos y otras opciones de personalización a medida que subes cada rol de nivel, así como a tu personaje."
+    ],
+    [
+      "p",
+      "• Controla una gran variedad de vehículos de la II Guerra Mundial, como los Tiger, Sherman, Stuart, Puma y otros (añadiremos más)."
+    ],
+    [
+      "p",
+      "• Controla armas pesadas, como cañones o artillería antitanque, para bombardear al enemigo y eliminarlo del campo de batalla."
+    ],
+    [
+      "p",
+      "• Construye defensas en el campo de batalla para fortalecer tu posición."
+    ],
+    [
+      "p",
+      "• Trabaja en equipo para quebrar el frente enemigo y alcanzar la victoria."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600/AMD Ryzen 3 1300X"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960 4GB/AMD Radeon R9 380 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400/AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 6GB /AMD Radeon RX 590 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_f0fa9e773551614a2fe2439f29ad6f74e0937120.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_f0fa9e773551614a2fe2439f29ad6f74e0937120.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_9b0d65c3c557fe8de37faed89582a6ddad90895e.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_9b0d65c3c557fe8de37faed89582a6ddad90895e.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_883861c13f66ad21f92cbb1374cca638aba7ff37.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_883861c13f66ad21f92cbb1374cca638aba7ff37.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_7e4c1216a340eed4905124ef2b7fc07506ad677b.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_7e4c1216a340eed4905124ef2b7fc07506ad677b.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_4a0298406d284993944c79f44dd51ae6c3a22f84.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_4a0298406d284993944c79f44dd51ae6c3a22f84.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_bcdb6c79fa996cfe2ed2a7c28815ab5ab0ed1329.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_bcdb6c79fa996cfe2ed2a7c28815ab5ab0ed1329.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_e5b3822c460218402714f0ff0b80c8856e8d5d3f.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_e5b3822c460218402714f0ff0b80c8856e8d5d3f.1920x1080.jpg?t=1790181050"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_8744091ad4301bd6867d5bad5a5d4f977ae38dd0.600x338.jpg?t=1790181050",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686810/ss_8744091ad4301bd6867d5bad5a5d4f977ae38dd0.1920x1080.jpg?t=1790181050"
+    }
+  ],
+  "web": "https://www.hellletloose.com/",
+  "igdbIntentado": true,
+  "igdb": 32365,
+  "youtube": [
+    {
+      "id": "SORGy9QRMJI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Jjz64W08HrA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "FHqdNqMYZIc",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "wzkVGyG8TCI",
+      "nombre": "Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:39:58.721Z"
+}

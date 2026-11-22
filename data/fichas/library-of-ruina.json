@@ -1,0 +1,405 @@
+{
+  "clave": "library of ruina",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3e9f-7353-a335-e3bc1d901ae3",
+  "appid": "1256670",
+  "lanzamiento": "2021-08-10",
+  "desarrolladores": [
+    "ProjectMoon"
+  ],
+  "editores": [
+    "ProjectMoon"
+  ],
+  "etiquetas": [
+    "Story Rich",
+    "Card Game",
+    "Difficult",
+    "Strategy",
+    "Deckbuilding"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 40987,
+      "url": "https://store.steampowered.com/app/1256670/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 56,
+      "url": "https://metacritic.com/game/library-of-ruina/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1658720",
+      "nombre": "Library Of Ruina Soundtrack",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1735680",
+      "nombre": "Library of Ruina - ArtBook",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "\"May you find your book in this place.\" Combat between the guests and the librarians breaks out as if it were on a stage. Defeated guests turn into books, and the Library grows onward. And eventually, get your hands on… The one singular, perfect book.",
+  "generos": [
+    "Indie",
+    "Rol",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "10 AGO 2021",
+  "metacritic": null,
+  "nombreSteam": "Library Of Ruina",
+  "acerca": [
+    [
+      "h",
+      "“May you find your book in this place.”"
+    ],
+    [
+      "p",
+      "Become the owner of the Library and receive your guests."
+    ],
+    [
+      "p",
+      "Your librarians will fight for the Library."
+    ],
+    [
+      "p",
+      "Combat between the guests and the librarians breaks out as if it were on a stage."
+    ],
+    [
+      "p",
+      "Defeated guests turn into books, and the Library grows onward."
+    ],
+    [
+      "p",
+      "A good book will allow you to invite new guests with greater secrets."
+    ],
+    [
+      "p",
+      "Amass a collection of books and explore the secrets of the City."
+    ],
+    [
+      "p",
+      "And eventually, get your hands on…"
+    ],
+    [
+      "p",
+      "The one singular, perfect book."
+    ],
+    [
+      "h",
+      "[Introduction to the Game]"
+    ],
+    [
+      "p",
+      "“May you find your book in this place.”"
+    ],
+    [
+      "p",
+      "Become the owner of the Library and receive your guests."
+    ],
+    [
+      "p",
+      "Your librarians will fight for the Library."
+    ],
+    [
+      "p",
+      "Combat between the guests and the librarians breaks out as if it were on a stage."
+    ],
+    [
+      "p",
+      "Defeated guests turn into books, and the Library grows onward."
+    ],
+    [
+      "p",
+      "A good book will allow you to invite new guests with greater secrets."
+    ],
+    [
+      "p",
+      "Amass a collection of books and explore the secrets of the City."
+    ],
+    [
+      "p",
+      "And eventually, get your hands on…"
+    ],
+    [
+      "p",
+      "The one singular, perfect book."
+    ],
+    [
+      "h",
+      "[A Library Battle Simulation]"
+    ],
+    [
+      "p",
+      "Library of Ruina is a game that uses the concept of a “Library Battle Simulation”."
+    ],
+    [
+      "p",
+      "You will invite guests to the Library and engage in combat with them to gain 'Books' with their stories."
+    ],
+    [
+      "p",
+      "Battles are played with the 'Librarians' and the 'Guests' using cards and dice."
+    ],
+    [
+      "p",
+      "You can plan against the guests’ moves by looking at the cards they will use and select the most optimal card to oppose them."
+    ],
+    [
+      "p",
+      "When combat begins, how the dice from your chosen card fall will determine victory or defeat in the struggle."
+    ],
+    [
+      "p",
+      "However, the outcome of the dice is not simply determined by pure luck."
+    ],
+    [
+      "p",
+      "Certain effects and variables will shift the outcome of the dice for and against your favor."
+    ],
+    [
+      "p",
+      "Be sure to carefully choose which cards you utilize to win the battle with your guests."
+    ],
+    [
+      "p",
+      "Behold the outcome of your choices and how luck unfolds as your librarians and guests skirmish."
+    ],
+    [
+      "p",
+      "You can go through an exhilarating experience, putting it all on the line with thrills just like betting."
+    ],
+    [
+      "h",
+      "[Conflicts that Build Emotion]"
+    ],
+    [
+      "p",
+      "Confrontation in the Library is not just about killing your enemies, it is about heightening emotions."
+    ],
+    [
+      "p",
+      "The emotions of the librarians and guests rise as the battle progresses, and as it grows fiercer and comes to a head, they will surge."
+    ],
+    [
+      "p",
+      "Depending on your librarian's feelings, positive outcomes or powerful effects with penalties can occur."
+    ],
+    [
+      "p",
+      "In addition, as the emotional tension of the guests grows, the difficulty of combat increases, yet at the same time, rarer books can be acquired."
+    ],
+    [
+      "p",
+      "Furthermore, dialogue can appear depending on the situation of the battle and will make one’s viewing experience of the match unfolding even more enjoyable."
+    ],
+    [
+      "h",
+      "[Books Can Be Anything]"
+    ],
+    [
+      "p",
+      "A guest who dies in the Library will turn into a book."
+    ],
+    [
+      "p",
+      "These books can be a librarian's body, materials to grow the Library, or new cards for battle."
+    ],
+    [
+      "p",
+      "You can also use books as the parts of an invitation to bring forth another guest."
+    ],
+    [
+      "p",
+      "Invite different guests to acquire various books, then utilize them accordingly."
+    ],
+    [
+      "p",
+      "How you make use of your collection to grow the Library is up to you."
+    ],
+    [
+      "h",
+      "[The Story of the City and the Library]"
+    ],
+    [
+      "p",
+      "In Library of Ruina, you will be witness to the stories of Angela, the Sephirot, and Roland following the ending of Lobotomy Corporation."
+    ],
+    [
+      "p",
+      "You will also watch various events occurring around the huge city in which the Library is located."
+    ],
+    [
+      "p",
+      "Accumulate books to grow your Library and librarians, and invite more powerful guests to gain better books."
+    ],
+    [
+      "p",
+      "From lowly canards to urban legends and beyond..."
+    ],
+    [
+      "p",
+      "Throughout the game, you will gradually become familiar with the story of the City."
+    ],
+    [
+      "p",
+      "May you find your book in this place…"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 560+"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 560+"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_43f3c74028922a9e0a80be23b52e90c9cb727417.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_43f3c74028922a9e0a80be23b52e90c9cb727417.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_707fb2b0bbceecc4d4ea8517ebc709b69cca35fc.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_707fb2b0bbceecc4d4ea8517ebc709b69cca35fc.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_338843763e782212597ec2979c2ff496d5dc61d4.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_338843763e782212597ec2979c2ff496d5dc61d4.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_31224734740c90faf7e9d9986962c1133e0dd2c3.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_31224734740c90faf7e9d9986962c1133e0dd2c3.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_21d9365859cac3056a64424ea468ad1f577096a9.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_21d9365859cac3056a64424ea468ad1f577096a9.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_066a77defb90217f60742ad8d706d3d12d95aac1.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_066a77defb90217f60742ad8d706d3d12d95aac1.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_a4c12d440fe293eaa48f31688905372d1be7aa1a.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_a4c12d440fe293eaa48f31688905372d1be7aa1a.1920x1080.jpg?t=1670980516"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_c80e2ea36a79f73d87e9740f470054199a1f5e55.600x338.jpg?t=1670980516",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256670/ss_c80e2ea36a79f73d87e9740f470054199a1f5e55.1920x1080.jpg?t=1670980516"
+    }
+  ],
+  "web": "https://twitter.com/ProjMoonStudio",
+  "igdbIntentado": true,
+  "igdb": 131760,
+  "youtube": [
+    {
+      "id": "5l15KJZO9sU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "KZipE3-BmjA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "bw1HLyrw4Vg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "aSq-ZN12TLk",
+      "nombre": "Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:39:50.241Z"
+}

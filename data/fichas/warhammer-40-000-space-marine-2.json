@@ -1,0 +1,582 @@
+{
+  "clave": "warhammer 40 000 space marine 2",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ed9-71ca-8010-4baa9771ef55",
+  "appid": "2183900",
+  "lanzamiento": "2024-06-03",
+  "desarrolladores": [
+    "Saber Interactive"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Action",
+    "Multiplayer",
+    "Third-Person Shooter",
+    "PvE"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 173058,
+      "url": "https://store.steampowered.com/app/2183900/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 168,
+      "url": "https://opencritic.com/game/17120/warhammer-40-000-space-marine-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "997630",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Standard Edition",
+      "apps": [
+        {
+          "appid": "2183900",
+          "nombre": "Warhammer 40,000: Space Marine 2"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "997629",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 1-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "2183900",
+          "nombre": "Warhammer 40,000: Space Marine 2"
+        },
+        {
+          "appid": "2792280",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass"
+        }
+      ],
+      "usd": 54.99,
+      "antes": 54.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1380594",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 2-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "2183900",
+          "nombre": "Warhammer 40,000: Space Marine 2"
+        },
+        {
+          "appid": "2792280",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass"
+        },
+        {
+          "appid": "3871320",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 2"
+        }
+      ],
+      "usd": 72.99,
+      "antes": 72.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1733641",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 3-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "2183900",
+          "nombre": "Warhammer 40,000: Space Marine 2"
+        },
+        {
+          "appid": "2792280",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass"
+        },
+        {
+          "appid": "3871320",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 2"
+        },
+        {
+          "appid": "4997770",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 3"
+        }
+      ],
+      "usd": 91.99,
+      "antes": 91.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2183900": {
+      "usd": 34.99,
+      "gratis": false
+    },
+    "2792280": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "3871320": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "4997770": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 28,
+  "dlcLista": [
+    {
+      "appid": "4997770",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 3",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4997650",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Exorcists Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4997640",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Space Wolves Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871400",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack 2",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871410",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Raptors Cosmetic Pack ",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871390",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871370",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Raven Guard Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871320",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass 2",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871380",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Carcharodons Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4247850",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3871350",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Blood Angels Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871360",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Salamanders Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792140",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Ultramarines Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871330",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Black Templars Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3871340",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Imperial Fists Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3274440",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Blood Angels Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792190",
+      "nombre": "Warhammer 40,000: Space Marine 2 - White Scars Chapter Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3274430",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Imperial Fists Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792180",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Space Wolves Chapter Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3274400",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Raven Guard Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3274410",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Salamanders Champion Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792170",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Dark Angels Chapter Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792280",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Season Pass",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3212020",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Original Soundtrack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3212040",
+      "nombre": "Warhammer 40,000: Space Marine 2 - The Art and Making of",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2792150",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Ultramarines Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2486150",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Macragge’s Chosen DLC",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3202690",
+      "nombre": "Warhammer 40,000: Space Marine 2 - 4K Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Usa las habilidades y brutalidad sobrehumanas de los marines espaciales. Usa habilidades letales y armamento devastador para aniquilar a los incesantes enjambres tiránidos. Defiende el Imperium en el modo solitario o multijugador en tercera persona.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "9 SEP 2024",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/warhammer-40000-space-marine-ii?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Warhammer 40,000: Space Marine 2",
+  "acerca": [
+    [
+      "p",
+      "Usa la brutalidad y habilidades sobrehumanas de los marines espaciales. Aniquila a los incesantes enjambres tiránidos haciendo uso de habilidades letales y un armamento devastador. Defiende el Imperium en solitario o multijugador en tercera persona y disfruta de la acción espectacular."
+    ],
+    [
+      "p",
+      "Lucha contra los enemigos de la humanidad como el teniente Demetrian Titus en esta secuela del Space Marine de 2011 y demuestra tu lealtad una vez más al reincorporarte en los Ultramarines. Mantén a raya los horrores de la galaxia en batallas épicas libradas en planetas lejanos y descubre secretos oscuros para repeler la noche eterna."
+    ],
+    [
+      "p",
+      "Vive una guerra de proporciones galácticas! Disfruta de la acción frenética, sangrienta e intensa con cientos de enemigos en pantalla y purga a los incesantes enjambres tiránidos gracias al motor de enjambre de Saber."
+    ],
+    [
+      "p",
+      "Pasa a la acción en los brutales y rejugables modos JcE y JcJ con tus propios marines espaciales, desbloqueando habilidades y cosméticos nuevos mientras juegas. Juega con una de las 7 clases únicas, desbloquea hasta 25 ventajas por clase, añade ventajas a tus armas y personaliza tu apariencia con un amplio abanico de cosméticos de armaduras y armas."
+    ],
+    [
+      "p",
+      "Ábrete paso entre un sinfín de oleadas tiránidas y del Caos y lucha por sobrevivir todo lo que puedas en el despiadado modo Asedio para 3 jugadores. Acumula puntos por cada oleada derrotada para gastar en munición, cargas de equipo, estimulantes medicae y mucho más... O úsalos para invocar refuerzos como cadianos, marines espaciales o el poderoso dreadnought."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (1903 min)/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600X / Intel Core i5-8600K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "6 GB VRAM, AMD Radeon RX 580 / Nvidia GeForce GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required. 30 FPS in 1920x1080 with \"Low\" preset."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (1903 min)/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 5800X / Intel Core i7-12700"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB VRAM, AMD Radeon RX 6800 XT / Nvidia GeForce RTX 3070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required. 60 FPS in 1920x1080 with the \"Ultra\" preset."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/dc44e5e39009e9eeba59344d1b0bcf3eacf1e663/ss_dc44e5e39009e9eeba59344d1b0bcf3eacf1e663.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/dc44e5e39009e9eeba59344d1b0bcf3eacf1e663/ss_dc44e5e39009e9eeba59344d1b0bcf3eacf1e663.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_ee88e4cc463b7b25b0ec03930a9e58e5fba2afdf.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_ee88e4cc463b7b25b0ec03930a9e58e5fba2afdf.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_66a8bc13bf868d0e2a76e4d797e6408c271065d7.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_66a8bc13bf868d0e2a76e4d797e6408c271065d7.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_20a753725a34225553c5873fbc079626451ebcf9.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_20a753725a34225553c5873fbc079626451ebcf9.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_712fe9d84a853d1d2fc1faee8cd8efb36e2278d0.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_712fe9d84a853d1d2fc1faee8cd8efb36e2278d0.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_4751069d565b92fadeb6bfd507cef64cf6c70cd1.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_4751069d565b92fadeb6bfd507cef64cf6c70cd1.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_d0bc9105e638b0f8a5364c4a6c70c6ccaf9268bb.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_d0bc9105e638b0f8a5364c4a6c70c6ccaf9268bb.1920x1080.jpg?t=1790874369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_90d54dd35ea29f80ccbe7618682d36736c2697df.600x338.jpg?t=1790874369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/ss_90d54dd35ea29f80ccbe7618682d36736c2697df.1920x1080.jpg?t=1790874369"
+    }
+  ],
+  "web": "https://community.focus-entmt.com/focus-entertainment/space-marine-2?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic",
+  "igdbIntentado": true,
+  "igdb": 185252,
+  "youtube": [
+    {
+      "id": "1-9YVcpnGyU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "buT5yuGwg8s",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "-IEAomO1Fac",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "uEIHmvi8wok",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:37:02.080Z"
+}

@@ -1,0 +1,263 @@
+{
+  "clave": "kingdom come deliverance ii expansion pass",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01917178-5803-7269-a8ca-7a2116dc22ac",
+  "appid": "3119920",
+  "lanzamiento": "2025-02-03",
+  "desarrolladores": [
+    "Warhorse Studios"
+  ],
+  "editores": [
+    "Deep Silver (PP)",
+    "Deep Silver"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Action",
+    "Open World",
+    "Adventure",
+    "Medieval"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 305,
+      "url": "https://store.steampowered.com/app/3119920/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1771300",
+    "nombre": "Kingdom Come: Deliverance II"
+  },
+  "ediciones": [
+    {
+      "packageid": "1108010",
+      "nombre": "Kingdom Come: Deliverance II Expansion Pass",
+      "apps": [
+        {
+          "appid": "3119920",
+          "nombre": "Kingdom Come: Deliverance II Expansion Pass"
+        }
+      ],
+      "usd": 11.49,
+      "antes": 22.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1109733",
+      "nombre": "Kingdom Come: Deliverance II Royal Edition",
+      "apps": [
+        {
+          "appid": "1771300",
+          "nombre": "Kingdom Come: Deliverance II"
+        },
+        {
+          "appid": "3119920",
+          "nombre": "Kingdom Come: Deliverance II Expansion Pass"
+        },
+        {
+          "appid": "3118110",
+          "nombre": "Kingdom Come: Deliverance II Gallant Huntsman’s Kit"
+        },
+        {
+          "appid": "3118100",
+          "nombre": "Kingdom Come: Deliverance II The Lion’s Crest"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1771300": {
+      "usd": 14.84,
+      "gratis": false
+    },
+    "3118100": {
+      "usd": 2.79,
+      "gratis": false
+    },
+    "3118110": {
+      "usd": 1.74,
+      "gratis": false
+    },
+    "3119920": {
+      "usd": 11.49,
+      "gratis": false
+    }
+  },
+  "descripcion": "El pase de expansión de Kingdom Come: Deliverance II incluye, además de las tres expansiones de la historia, el contenido adicional desbloqueable Égidas de las estaciones cambiantes.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "4 FEB 2025",
+  "metacritic": null,
+  "nombreSteam": "Kingdom Come: Deliverance II Expansion Pass",
+  "acerca": [
+    [
+      "p",
+      "Mejora tu experiencia de Kingdom Come: Deliverance II con el pase de expansión."
+    ],
+    [
+      "p",
+      "Continúa la aventura con las tres grandes expansiones de la historia. Además, recibe la bonificación Égidas de las estaciones cambiantes, con 4 diseños de escudo únicos."
+    ],
+    [
+      "p",
+      "Brushes With Death."
+    ],
+    [
+      "p",
+      "Ayuda a desvelar el pasado enigmático de un artista misterioso y da rienda suelta a tu creatividad pintando escudos. Henry conoce a un extravagante pintor que lo arrastra hacia una maraña de tramas enrevesadas y pone a prueba su talento como mediador. ¿Quién es? ¿Qué es? ¿Por qué sabe tanto? ¿Y por qué viaja con una calavera humana pintada?"
+    ],
+    [
+      "p",
+      "Legacy of the Forge."
+    ],
+    [
+      "p",
+      "Pon a prueba tu maña como herrero para reparar una legendaria forja calcinada. Establécete en el centro de Kutná Hora para diseñar la forja, sus alrededores y tus aposentos, con la posibilidad de personalizar y amueblar a tu gusto para favorecer tu estilo de juego."
+    ],
+    [
+      "p",
+      "Mysteria Ecclesiae."
+    ],
+    [
+      "p",
+      "Embárcate en una nueva aventura repleta de misiones, personajes intrigantes y giros inesperados. Henry deberá descubrir los secretos de un monasterio en cuarentena. Los recursos escasean y el peligro acecha en la sombra. ¿Lograrás resolver el misterio y detener la enfermedad?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/3189dea2bd2fa2b09e4e670899a4032fd2942547/ss_3189dea2bd2fa2b09e4e670899a4032fd2942547.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/3189dea2bd2fa2b09e4e670899a4032fd2942547/ss_3189dea2bd2fa2b09e4e670899a4032fd2942547.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/8971b61083208b6b5fba65fc09b7bcdd5d815bff/ss_8971b61083208b6b5fba65fc09b7bcdd5d815bff.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/8971b61083208b6b5fba65fc09b7bcdd5d815bff/ss_8971b61083208b6b5fba65fc09b7bcdd5d815bff.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/92b24f700b525d99ef0d194f896e1ac4f39a0745/ss_92b24f700b525d99ef0d194f896e1ac4f39a0745.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/92b24f700b525d99ef0d194f896e1ac4f39a0745/ss_92b24f700b525d99ef0d194f896e1ac4f39a0745.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/f504d778cd4699959c570c08025aaabe69416347/ss_f504d778cd4699959c570c08025aaabe69416347.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/f504d778cd4699959c570c08025aaabe69416347/ss_f504d778cd4699959c570c08025aaabe69416347.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/de90ea755e799330051849041daef2d2ed6cf4b2/ss_de90ea755e799330051849041daef2d2ed6cf4b2.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/de90ea755e799330051849041daef2d2ed6cf4b2/ss_de90ea755e799330051849041daef2d2ed6cf4b2.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/3800e5c1de911bfb52f0c51dc314521d1df9c08f/ss_3800e5c1de911bfb52f0c51dc314521d1df9c08f.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/3800e5c1de911bfb52f0c51dc314521d1df9c08f/ss_3800e5c1de911bfb52f0c51dc314521d1df9c08f.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/ad1aa719048ec4cd1f64852610323d0d66e9d0be/ss_ad1aa719048ec4cd1f64852610323d0d66e9d0be.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/ad1aa719048ec4cd1f64852610323d0d66e9d0be/ss_ad1aa719048ec4cd1f64852610323d0d66e9d0be.1920x1080.jpg?t=1765298349"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/2d75fe78a8bf7a8bc171137f0f0a570d78275ee5/ss_2d75fe78a8bf7a8bc171137f0f0a570d78275ee5.600x338.jpg?t=1765298349",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119920/2d75fe78a8bf7a8bc171137f0f0a570d78275ee5/ss_2d75fe78a8bf7a8bc171137f0f0a570d78275ee5.1920x1080.jpg?t=1765298349"
+    }
+  ],
+  "web": "https://www.kingdomcomerpg.com/",
+  "igdbIntentado": true,
+  "igdb": 367248,
+  "consultado": "2026-11-22T22:40:31.574Z"
+}

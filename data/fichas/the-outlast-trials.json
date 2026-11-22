@@ -1,0 +1,489 @@
+{
+  "clave": "the outlast trials",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4385-73cd-abfc-dc95e5e04166",
+  "appid": "1304930",
+  "lanzamiento": "2023-05-18",
+  "desarrolladores": [
+    "Red Barrels"
+  ],
+  "editores": [
+    "Red Barrels",
+    "Red Barrels - Montreal"
+  ],
+  "etiquetas": [
+    "Horror",
+    "Multiplayer",
+    "Co-op",
+    "Survival Horror",
+    "Psychological Horror"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 101052,
+      "url": "https://store.steampowered.com/app/1304930/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 69,
+      "cantidad": 16,
+      "url": "https://metacritic.com/game/the-outlast-trials/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 292,
+      "url": "https://metacritic.com/game/the-outlast-trials/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 68,
+      "url": "https://opencritic.com/game/14938/the-outlast-trials"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "984895",
+      "nombre": "The Outlast Trials",
+      "apps": [
+        {
+          "appid": "1304930",
+          "nombre": "The Outlast Trials"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1003243",
+      "nombre": "The Outlast Trials - Reagent Starter Pack Edition",
+      "apps": [
+        {
+          "appid": "1304930",
+          "nombre": "The Outlast Trials"
+        }
+      ],
+      "usd": 22.99,
+      "antes": 22.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1304930": {
+      "usd": 18.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "2328320",
+      "nombre": "The Outlast Trials - Reagent Starter Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3030370",
+      "nombre": "The Outlast Trials - Exotica Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3307910",
+      "nombre": "The Outlast Trials - Unholy Night Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3518320",
+      "nombre": "The Outlast Trials - Sweet Release Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3805230",
+      "nombre": "The Outlast Trials - Porcelain Observer Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3805250",
+      "nombre": "The Outlast Trials - Terrified Toddler Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3805260",
+      "nombre": "The Outlast Trials - World of Heavyweights Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3805270",
+      "nombre": "The Outlast Trials - Spelunking For Your Life Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "5 MAR 2024",
+  "metacritic": null,
+  "nombreSteam": "The Outlast Trials",
+  "acerca": [
+    [
+      "p",
+      "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?"
+    ],
+    [
+      "h",
+      "SYNOPSIS"
+    ],
+    [
+      "p",
+      "Set in the era of the Cold War, human guinea pigs are involuntarily recruited by the good folks at the Murkoff Corporation to test advanced methods of brainwashing and mind control. In a world of distrust, fear, and violence, your morals will be challenged, your endurance tested, and your sanity crushed. All in the name of progress, science, and profit."
+    ],
+    [
+      "h",
+      "SURVIVE: SOLO OR COOP"
+    ],
+    [
+      "p",
+      "You’re all prisoners of Murkoff trapped inside their facility. You can choose to complete the trials by yourself or you can tackle them in a team of 2, 3, or 4 players."
+    ],
+    [
+      "p",
+      "Coop is never forced when it comes to mandatory objectives but working together can be highly beneficial."
+    ],
+    [
+      "p",
+      "Whatever the number of players in your party, it’s about surviving and getting out."
+    ],
+    [
+      "p",
+      "Ultimately, your goal is to complete Murkoff's therapy and earn the right to be released back into society. In order to do so, you must complete the Trials and the MK-Challenges."
+    ],
+    [
+      "p",
+      "Trials are immersive story driven therapies that take a certain time to complete. Mk-Challenges are shorter therapies occurring in modified or redesigned section of an existing map."
+    ],
+    [
+      "h",
+      "HIDE OR FLIGHT"
+    ],
+    [
+      "p",
+      "In pure Outlast fashion, the core gameplay involves avoiding enemies, hiding from them, and trying to run away. Murkoff will provide tools you can use to increase your stealth capabilities, create opportunities to flee, slow down enemies, and more. However, you will have to earn those tools and work hard to improve them."
+    ],
+    [
+      "p",
+      "The tools will allow you to"
+    ],
+    [
+      "li",
+      "Stun enemies"
+    ],
+    [
+      "li",
+      "Blind them"
+    ],
+    [
+      "li",
+      "See through walls"
+    ],
+    [
+      "li",
+      "Heal yourself and people around you."
+    ],
+    [
+      "p",
+      "Murkoff will ask you to perform disturbing tasks in each trials or mk-challenges. Only after completing those, will you be allowed to exit the Trials or the MK-Challenges."
+    ],
+    [
+      "h",
+      "CHARACTER CUSTOMIZATION"
+    ],
+    [
+      "p",
+      "Customize and create your own trial patient."
+    ],
+    [
+      "p",
+      "Your cell is your home while you complete the therapy, you can decorate it however you wish."
+    ],
+    [
+      "p",
+      "Choose your tools, upgrades, and perks to fit your playstyle."
+    ],
+    [
+      "p",
+      "Meet the Denizens of Murkoff’s Sinyala Facility in The Outlast Trials. Each one of them will try and help you get through the Trials in one piece! Think you’ll make it?"
+    ],
+    [
+      "h",
+      "INVESTIGATE"
+    ],
+    [
+      "p",
+      "You’ve been abducted by the Murkoff Corporation to undergo unethical experiments that will modify your psyche and behavior throughout the Trials."
+    ],
+    [
+      "p",
+      "Collect documents and items that will help prove Murkoff’s malpractice against its patients."
+    ],
+    [
+      "p",
+      "The Process:"
+    ],
+    [
+      "li",
+      "Break the Self: Murkoff aims to break down the test subject’s fundamental beliefs. Aspects of self-identity are systematically attacked. Like boot camp or indoctrination, the goal is to force a person to purge themselves of anything held sacred or taboo, the things that limit their behavior. The constant assault on identity, guilt and self-betrayal eventually leads to them breaking down."
+    ],
+    [
+      "li",
+      "Build the Self: It’s a bad cop, good cop principle. The rejection of the old ideology leaves a vacuum into which the new ideology can be introduced. As the antithesis of the old ideology, it forms a perfect attraction point as the person flees the old in search of a contrasting replacement. This progress is accelerated as the new ideology is portrayed as harmonious and ideally suited to the person's needs. Collegiality and calm replaces pain and punishment. Just at the point when the person is fearing annihilation of the self, they are offered a small kindness, a brief respite from the assault on their identity."
+    ],
+    [
+      "li",
+      "Salvation: Faced with the stark contrast of the pain of the past with the rosy glow of the future that the new ideology presents, the person sheds any the final allegiance to the old ideology, confessing any remaining deep secrets, and takes on the full mantle of the new ideology. This often feels, and has been described by many, as a form of rebirth. It may be accompanied by rites of passage as the person is accepted and cemented into the new order. The rituals will typically include strong statements made by the person about accepting the new ideology fully and completely, swearing allegiance to its leaders. Saluting flags, kissing other artefacts and other symbolic acts, all solemnly performed, all anchor them firmly in the new ground."
+    ],
+    [
+      "p",
+      "Content and Photosensitivity Warning:"
+    ],
+    [
+      "p",
+      "The Outlast Trials contain strobing and flashing lights that could cause a small percentage of people to experience seizures when exposed to certain lights, patterns, or images."
+    ],
+    [
+      "p",
+      "This game also contains intense violence, gore, graphic sexual content, and strong language. Please enjoy."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770 or AMD Ryzen 5 1400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650 Ti, 2 GB or Radeon R7 360, 2 GB or Intel Arc A310, 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low 720p @ 30 FPS, DX11, Ray Tracing OFF"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "WIndows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K or AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660, 6 GB or AMD Radeon RX Vega 56, 8 GB or Intel Arc A580, 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p @ 60 FPS, DX12, Ray Tracing OFF"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dcf2a8284d687f9319ac91a02b534dc91971754c.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dcf2a8284d687f9319ac91a02b534dc91971754c.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_6efe75be88bdfe0100f4b67ffe7e1034f1cf0cfe.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_6efe75be88bdfe0100f4b67ffe7e1034f1cf0cfe.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0576920dd310fd71cf63ff3035ff46137634febf.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0576920dd310fd71cf63ff3035ff46137634febf.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dc46aa1b812001788a915f9088148356a697b305.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_dc46aa1b812001788a915f9088148356a697b305.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_da9e1f8fe8ee47b129950570aa1baca12480ae63.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_da9e1f8fe8ee47b129950570aa1baca12480ae63.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0a9b163b1458d64c79299353d485160176ca899c.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_0a9b163b1458d64c79299353d485160176ca899c.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_aa75eba5255570bb22c96dcb761189f5391d8d57.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_aa75eba5255570bb22c96dcb761189f5391d8d57.1920x1080.jpg?t=1792554994"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_50d3587cb71a649850ff07a146579d5c853f55d1.600x338.jpg?t=1792554994",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/ss_50d3587cb71a649850ff07a146579d5c853f55d1.1920x1080.jpg?t=1792554994"
+    }
+  ],
+  "web": "https://redbarrelsgames.com/games/the-outlast-trials/",
+  "igdbIntentado": true,
+  "igdb": 127165,
+  "youtube": [
+    {
+      "id": "QaT_-myRmzY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JmcT2gF3bs4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "K5C1HlrMtnQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "tNldgDoPPX4",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "consultado": "2026-11-22T22:37:16.547Z"
+}
