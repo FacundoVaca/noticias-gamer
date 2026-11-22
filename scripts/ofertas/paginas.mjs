@@ -39,12 +39,14 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
     const detalle = g.gratis ? (g.original ? `<span class="o-antes">${fmtOrig(g.original, g.moneda)}</span>` : "")
       : `${g.arsOrig != null && g.original > g.precio ? `<span class="o-antes">${fmt(g.arsOrig)}</span>` : ""}${g.ars != null ? `<span class="o-base">${fmtOrig(g.precio, g.moneda)} en la tienda</span>` : ""}`;
     const chips = (g.plataformas || []).map((p) => `<span class="o-plat">${e(p)}</span>`).join("");
-    const badges = [g.minimoReal ? `<span class="o-min">Mínimo registrado</span>` : "", g.extra?.gamePass ? `<span class="o-gp">En Game Pass</span>` : ""].join("");
+    const minExt = g.minHist && !g.gratis ? g.minHist : null;
+    const enMinimo = g.minimoReal || (minExt && g.precio <= minExt.precio);
+    const badges = [enMinimo ? `<span class="o-min">Precio más bajo registrado</span>` : "", g.extra?.gamePass ? `<span class="o-gp">En Game Pass</span>` : ""].join("");
     const fin = g.extra?.proximamente ? `Gratis desde el ${finTxt(g.extra.desde)}` : g.fin_oferta ? `Hasta el ${finTxt(g.fin_oferta)}` : "";
     return `<article class="o-card" data-t="${e(g.titulo.toLowerCase())}" data-d="${g.descuento || 0}" data-p="${g.gratis ? 0 : Math.round(g.ars ?? g.precio)}" data-pl="${e((g.plataformas || []).join("|"))}">
 <a href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank"><div class="o-img"><img src="${e(g.imagen || "/assets/portada.svg")}"${img2} alt="" loading="${i < 6 ? "eager" : "lazy"}" referrerpolicy="no-referrer">${g.descuento ? `<span class="o-desc">-${g.descuento}%</span>` : ""}</div>
 <div class="o-txt"><h3>${e(g.titulo)}</h3><p class="o-chips"><span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${chips}</p>
-<p class="o-precios">${precio}${detalle}</p>${badges ? `<p class="o-badges">${badges}</p>` : ""}${fin ? `<p class="o-fin">${fin}</p>` : ""}<span class="o-btn">Ver en ${T.nombre}</span></div></a></article>`;
+<p class="o-precios">${precio}${detalle}</p>${badges ? `<p class="o-badges">${badges}</p>` : ""}${minExt && !enMinimo ? `<p class="o-hist">Mínimo histórico: ${fmtOrig(minExt.precio, g.moneda)}${minExt.fecha ? ` (${new Intl.DateTimeFormat("es-AR", { month: "short", year: "numeric" }).format(new Date(minExt.fecha))})` : ""}</p>` : ""}${fin ? `<p class="o-fin">${fin}</p>` : ""}<span class="o-btn">Ver en ${T.nombre}</span></div></a></article>`;
   };
 
   const pct = (x) => Math.round((x || 0) * 100);
@@ -56,6 +58,7 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
 <ol class="o-formula"><li><span>Precio de la tienda</span><small>En dólares, o en pesos sin impuestos en Xbox</small></li>
 <li><span>× dólar oficial${oficial ? ` <b>${fmt(oficial)}</b>` : ""}</span><small>${datos.dolar?.fecha ? `Cotización del ${diaTxt(datos.dolar.fecha)}` : "Cotización oficial del día"}</small></li>
 <li><span>+ IVA ${pct(imp.iva)}% + percepción ${pct(imp.percepcion)}%</span><small>Lo que suele cobrar la tarjeta argentina</small></li></ol>
+${todos.some((g) => g.minHist) ? `<p class="mini">Mínimos históricos en la moneda de la tienda: ${[...new Set(todos.filter((g) => g.minHist).map((g) => g.minHist.fuente))].map((f) => f === "IsThereAnyDeal" ? '<a href="https://isthereanydeal.com" rel="noopener" target="_blank">IsThereAnyDeal</a>' : '<a href="https://www.cheapshark.com" rel="noopener" target="_blank">CheapShark</a>').join(" y ")}, más nuestro propio registro diario.</p>` : ""}
 <p class="mini">Es una estimación: el precio final lo define tu banco y la tienda, así que verificalo antes de comprar.${actualizado ? ` Datos actualizados el ${actualizado.replace(/\.$/, "")}.` : ""}</p></aside>`;
   const faq = (T) => [
     ["¿Cómo calculan el precio en pesos?", `Tomamos el precio de ${T.nombre} para Argentina${T.nombre === "Xbox" ? " (que la tienda ya muestra en pesos)" : " (en dólares)"}, lo pasamos con el dólar oficial del día y le sumamos IVA ${Math.round((imp.iva || 0) * 100)}% y percepción ${Math.round((imp.percepcion || 0) * 100)}%, que es lo que suele aparecer en el resumen de la tarjeta. Es una estimación: tu banco puede usar otra cotización.`],
