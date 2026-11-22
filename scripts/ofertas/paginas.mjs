@@ -37,14 +37,14 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
     const img2 = g.extra?.img2 ? ` onerror="this.onerror=null;this.src='${e(g.extra.img2)}'"` : "";
     const precio = g.gratis ? `<span class="o-precio">Gratis</span>` : g.ars != null ? `<span class="o-precio">${fmt(g.ars)}</span>` : `<span class="o-precio">${fmtOrig(g.precio, g.moneda)}</span>`;
     const detalle = g.gratis ? (g.original ? `<span class="o-antes">${fmtOrig(g.original, g.moneda)}</span>` : "")
-      : `${g.ars != null ? `<span class="o-base">${fmtOrig(g.precio, g.moneda)} en la tienda</span>` : ""}${g.arsOrig != null && g.original > g.precio ? ` <span class="o-antes">${fmt(g.arsOrig)}</span>` : ""}`;
+      : `${g.arsOrig != null && g.original > g.precio ? `<span class="o-antes">${fmt(g.arsOrig)}</span>` : ""}${g.ars != null ? `<span class="o-base">${fmtOrig(g.precio, g.moneda)} en la tienda</span>` : ""}`;
     const chips = (g.plataformas || []).map((p) => `<span class="o-plat">${e(p)}</span>`).join("");
     const badges = [g.minimoReal ? `<span class="o-min">Mínimo registrado</span>` : "", g.extra?.gamePass ? `<span class="o-gp">En Game Pass</span>` : ""].join("");
     const fin = g.extra?.proximamente ? `Gratis desde el ${finTxt(g.extra.desde)}` : g.fin_oferta ? `Hasta el ${finTxt(g.fin_oferta)}` : "";
     return `<article class="o-card" data-t="${e(g.titulo.toLowerCase())}" data-d="${g.descuento || 0}" data-p="${g.gratis ? 0 : Math.round(g.ars ?? g.precio)}" data-pl="${e((g.plataformas || []).join("|"))}">
 <a href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank"><div class="o-img"><img src="${e(g.imagen || "/assets/portada.svg")}"${img2} alt="" loading="${i < 6 ? "eager" : "lazy"}" referrerpolicy="no-referrer">${g.descuento ? `<span class="o-desc">-${g.descuento}%</span>` : ""}</div>
 <div class="o-txt"><h3>${e(g.titulo)}</h3><p class="o-chips"><span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${chips}</p>
-<p class="o-precios">${precio}${detalle}</p>${badges ? `<p class="o-badges">${badges}</p>` : ""}${fin ? `<p class="o-fin">${fin}</p>` : ""}</div></a></article>`;
+<p class="o-precios">${precio}${detalle}</p>${badges ? `<p class="o-badges">${badges}</p>` : ""}${fin ? `<p class="o-fin">${fin}</p>` : ""}<span class="o-btn">Ver en ${T.nombre}</span></div></a></article>`;
   };
 
   const notaPrecios = `<p class="mini">Precios en pesos estimados con el dólar oficial${oficial ? ` (${fmt(oficial)})` : ""} más IVA ${Math.round((imp.iva || 0) * 100)}% y percepción de Ganancias ${Math.round((imp.percepcion || 0) * 100)}% que se cobran al pagar con tarjeta argentina. El precio final lo define tu banco y la tienda; verificalo antes de comprar.${actualizado ? ` Actualizado el ${actualizado.replace(/\.$/, "")}.` : ""}</p>`;
@@ -66,6 +66,8 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
     const plats = [...new Set(lista.flatMap((g) => g.plataformas || []))].sort();
     const controles = `<div class="o-ctrl"><input type="search" id="o-q" placeholder="Buscar juego…" aria-label="Buscar juego">
 <select id="o-ord" aria-label="Ordenar"><option value="">Más populares</option><option value="d">Mayor descuento</option><option value="p">Menor precio</option><option value="pd">Mayor precio</option><option value="t">Nombre (A-Z)</option></select>
+<select id="o-dm" aria-label="Descuento mínimo"><option value="0">Cualquier descuento</option><option value="50">50% o más</option><option value="75">75% o más</option><option value="90">90% o más</option></select>
+<span class="o-rango"><input type="number" id="o-pmin" inputmode="numeric" min="0" step="1000" placeholder="Precio mín. $" aria-label="Precio mínimo en pesos"><input type="number" id="o-pmax" inputmode="numeric" min="0" step="1000" placeholder="Precio máx. $" aria-label="Precio máximo en pesos"></span>
 ${plats.length > 1 ? `<select id="o-pl" aria-label="Plataforma"><option value="">Todas las plataformas</option>${plats.map((p) => `<option>${e(p)}</option>`).join("")}</select>` : ""}
 <span id="o-n" class="mini"></span></div>`;
     const cuerpo = `${navTiendas(k)}<h1 class="sec-tit">Ofertas de ${T.nombre} en pesos argentinos</h1><p class="o-intro">${e(T.intro)}</p>${caido(k)}
@@ -73,11 +75,11 @@ ${proximos.length ? `<h2 class="o-h2">Próximamente gratis</h2><div class="o-gri
 ${lista.length ? `${controles}<div class="o-grilla" id="o-lista">${lista.map(tarjeta).join("")}</div>` : `<p class="vacio">Todavía no hay ofertas cargadas de ${T.nombre}. Volvé en un rato.</p>`}
 ${notaPrecios}${k === "epic" ? `<p class="mini">Descuentos de Epic vía <a href="https://www.cheapshark.com" rel="noopener" target="_blank">CheapShark</a> (precios de referencia en dólares, pueden variar en Argentina).</p>` : ""}
 ${anuncio}${faqHtml(T)}
-<script>(()=>{const L=document.getElementById("o-lista");if(!L)return;const C=[...L.children],q=document.getElementById("o-q"),o=document.getElementById("o-ord"),pl=document.getElementById("o-pl"),n=document.getElementById("o-n");
-const f=()=>{const t=q.value.trim().toLowerCase(),p=pl?pl.value:"",s=o.value;let v=C.filter(c=>(!t||c.dataset.t.includes(t))&&(!p||c.dataset.pl.split("|").includes(p)));
+<script>(()=>{const L=document.getElementById("o-lista");if(!L)return;const C=[...L.children],q=document.getElementById("o-q"),o=document.getElementById("o-ord"),pl=document.getElementById("o-pl"),n=document.getElementById("o-n"),dm=document.getElementById("o-dm"),pmin=document.getElementById("o-pmin"),pmax=document.getElementById("o-pmax");
+const f=()=>{const t=q.value.trim().toLowerCase(),p=pl?pl.value:"",s=o.value,d=+dm.value,mn=pmin.value===""?0:+pmin.value,mx=pmax.value===""?Infinity:+pmax.value;let v=C.filter(c=>(!t||c.dataset.t.includes(t))&&(!p||c.dataset.pl.split("|").includes(p))&&+c.dataset.d>=d&&+c.dataset.p>=mn&&+c.dataset.p<=mx);
 const by={d:(a,b)=>b.dataset.d-a.dataset.d,p:(a,b)=>a.dataset.p-b.dataset.p,pd:(a,b)=>b.dataset.p-a.dataset.p,t:(a,b)=>a.dataset.t.localeCompare(b.dataset.t)}[s];
-if(by)v=[...v].sort(by);else v=C.filter(c=>v.includes(c));C.forEach(c=>c.hidden=true);v.forEach(c=>{c.hidden=false;L.appendChild(c)});n.textContent=v.length+" ofertas";};
-[q,o,pl].forEach(x=>x&&x.addEventListener("input",f));f();})();</script>`;
+if(by)v=[...v].sort(by);else v=C.filter(c=>v.includes(c));C.forEach(c=>c.hidden=true);v.forEach(c=>{c.hidden=false;L.appendChild(c)});n.textContent=v.length===1?"1 oferta":v.length+" ofertas";};
+[q,o,pl,dm,pmin,pmax].forEach(x=>x&&x.addEventListener("input",f));f();})();</script>`;
     escribir(`ofertas/${k}/index.html`, pagina({ titulo: `Ofertas de ${T.nombre} hoy en pesos (${lista.length}) | ${cfg.sitio.nombre}`,
       desc: `${lista.length} ofertas de ${T.nombre} (${T.plat}) con precio en pesos argentinos con impuestos. Se actualiza varias veces por día.`,
       canon: `/ofertas/${k}/`, cuerpo, ads: lista.length > 0, extraHead: faqLd(T) }));

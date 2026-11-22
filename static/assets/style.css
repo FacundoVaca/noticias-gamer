@@ -165,3 +165,18 @@ main.wrap{padding-top:30px;padding-bottom:64px}
   .pag a{padding:10px 14px}
 }
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* Ofertas: botón a la tienda y filtros de descuento y precio */
+.o-antes{font-size:.85rem}
+.o-btn{display:block;margin-top:8px;text-align:center;background:var(--panel2);color:var(--ink);font-weight:700;font-size:.86rem;padding:8px 10px;border-radius:8px}
+.o-card a:hover .o-btn{background:var(--coin);color:var(--bg)}
+.o-rango{display:flex;gap:8px}
+.o-rango input{min-width:0;width:140px;flex:none}
+.o-ctrl{margin-top:22px}
+.o-ctrl input[type=number]{-moz-appearance:textfield;appearance:textfield}
+.o-ctrl input[type=number]::-webkit-inner-spin-button,.o-ctrl input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}
+@media(max-width:600px){
+  .o-rango{flex-basis:100%;min-width:0;width:100%}
+  .o-rango input{flex:1 1 0;width:0}
+  .o-btn{font-size:.8rem;padding:7px 6px}
+}
