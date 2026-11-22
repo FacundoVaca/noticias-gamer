@@ -51,7 +51,9 @@ async function foto(db) {
   return db(`SELECT j.id, j.tienda, j.titulo, j.slug, j.url, j.imagen, j.plataformas, j.precio::float AS precio, j.original::float AS original, j.moneda, j.descuento, j.gratis,
       j.fin_oferta, j.extra, j.visto, h.minimo::float AS minimo, h.dias, h.desde
     FROM juegos j LEFT JOIN LATERAL (SELECT min(p.precio) AS minimo, count(*)::int AS dias, min(p.dia) AS desde FROM precios p WHERE p.juego_id = j.id AND p.moneda = j.moneda) h ON true
-    WHERE j.visto > now() - interval '${HORAS_VIGENCIA} hours' AND (j.descuento > 0 OR j.gratis)
+    WHERE j.visto > now() - interval '${HORAS_VIGENCIA} hours'
+      AND j.visto >= coalesce((SELECT max(c.inicio) FROM corridas c WHERE c.tienda = j.tienda AND c.ok) - interval '20 minutes', '-infinity')
+      AND (j.descuento > 0 OR j.gratis)
       AND (j.fin_oferta IS NULL OR j.fin_oferta > now() OR (j.extra->>'proximamente')::boolean)
     ORDER BY j.tienda, (j.extra->>'orden')::int NULLS LAST, j.descuento DESC`);
 }
