@@ -68,7 +68,7 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
     const fin = g.extra?.proximamente ? `Gratis desde el ${finTxt(g.extra.desde)}` : g.fin_oferta ? `Hasta el ${finTxt(g.fin_oferta)}` : "";
     return `<article class="o-card" data-t="${e(g.titulo.toLowerCase())}" data-d="${g.descuento || 0}" data-p="${g.gratis ? 0 : Math.round(g.ars ?? g.precio)}" data-pl="${e((g.plataformas || []).join("|"))}">
 <a class="o-link" href="${e(g.pagina || g.url)}"${g.pagina ? "" : ' rel="nofollow noopener sponsored" target="_blank"'}><div class="o-img"><img src="${e(g.imagen || "/assets/portada.svg")}"${img2} alt="" loading="${i < 6 ? "eager" : "lazy"}" referrerpolicy="no-referrer">${g.descuento ? `<span class="o-desc">-${g.descuento}%</span>` : ""}</div>
-<div class="o-txt"><h3>${e(g.titulo)}</h3><p class="o-chips"><span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${chips}</p>
+<div class="o-txt"><h3>${e(g.titulo)}</h3><p class="o-chips">${g.extra?.dlc ? '<span class="o-dlc">DLC</span>' : ""}<span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${chips}</p>
 <p class="o-precios">${precio}${detalle}</p>${badges ? `<p class="o-badges">${badges}</p>` : ""}${minExt && !enMinimo ? `<p class="o-hist">Mínimo histórico: ${fmtOrig(minExt.precio, g.moneda)}${minExt.fecha ? ` (${new Intl.DateTimeFormat("es-AR", { month: "short", year: "numeric" }).format(new Date(minExt.fecha))})` : ""}</p>` : ""}${fin ? `<p class="o-fin">${fin}</p>` : ""}</div></a><a class="o-btn" href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank">Ver en ${T.nombre}</a></article>`;
   };
 
@@ -180,6 +180,16 @@ ${faqHtml({ nombre: "cada tienda" })}`;
 
     const out = [];
     let nIdx = 0;
+    // Relaciones confirmadas por Steam: ficha de cada appid y DLC en oferta de cada juego base
+    const porAppid = new Map(), dlcDe = new Map();
+    for (const f of fichasJuego.values()) {
+      const i = fichas[f.clave];
+      if (i?.appid) porAppid.set(String(i.appid), f);
+    }
+    for (const f of fichasJuego.values()) {
+      const b = fichas[f.clave]?.juegoBase?.appid;
+      if (fichas[f.clave]?.tipo === "dlc" && b) (dlcDe.get(String(b)) || dlcDe.set(String(b), []).get(String(b))).push(f);
+    }
     for (const f of fichasJuego.values()) {
       const ofertas = f.ofertas.slice().sort((a, b) => ORDEN.indexOf(a.tienda) - ORDEN.indexOf(b.tienda));
       const info = fichas[f.clave] || {};
@@ -188,7 +198,11 @@ ${faqHtml({ nombre: "cada tienda" })}`;
       const imagen = principal.imagen || ofertas.find((g) => g.imagen)?.imagen || null;
       const tiendas = [...new Set(ofertas.map((g) => TIENDAS_INFO[g.tienda].nombre))];
       const plataformas = [...new Set(ofertas.flatMap((g) => g.plataformas || []))];
-      const tieneInfo = !!(info.descripcion || (info.desarrolladores?.length && (info.lanzamiento || info.lanzamientoTexto)));
+      const esDlc = info.tipo === "dlc" || ofertas.every((g) => g.extra?.dlc);
+      const base = esDlc && info.juegoBase?.appid ? { ...info.juegoBase, ficha: porAppid.get(String(info.juegoBase.appid)) || null } : null;
+      const infoBase = base?.ficha ? fichas[base.ficha.clave] || {} : {};
+      // Un DLC solo cuenta con datos propios si su descripción no es la misma del juego base
+      const tieneInfo = !(esDlc && info.descripcion && info.descripcion === infoBase.descripcion) && !!(info.descripcion || (info.desarrolladores?.length && (info.lanzamiento || info.lanzamientoTexto)));
       const histUtil = ofertas.some((g) => evaluar(historial[g.id] || []).util);
       const indexar = tieneInfo && histUtil;
       if (indexar) { out.push(f.url); nIdx++; }
@@ -266,6 +280,19 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
 <div class="j-vid-grid">${yt.map((v) => `<figure><button class="j-yt" type="button" data-id="${v.id}" aria-label="Reproducir ${e(v.nombre || "video")} de ${e(nombre)}"><img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button>${v.nombre ? `<figcaption>${e(v.nombre)}</figcaption>` : ""}</figure>`).join("")}${trailers.map((t) => `<figure><video controls preload="none" playsinline poster="${e(t.poster)}">${t.webm ? `<source src="${e(t.webm)}" type="video/webm">` : ""}${t.mp4 ? `<source src="${e(t.mp4)}" type="video/mp4">` : ""}</video>${t.nombre ? `<figcaption>${e(t.nombre)}</figcaption>` : ""}</figure>`).join("")}</div>
 <p class="mini">${yt.length ? "Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir." : "Tráileres oficiales publicados en la tienda de Steam."}</p>
 </section>` : "";
+      // DLC y expansiones del juego: primero los que tienen ficha (en oferta), después el resto de la lista de Steam
+      const conFicha = !esDlc && info.appid ? (dlcDe.get(String(info.appid)) || []) : [];
+      const yaListados = new Set(conFicha.map((d) => String(fichas[d.clave]?.appid)));
+      const otros = !esDlc ? (info.dlcLista || []).filter((d) => !yaListados.has(d.appid)) : [];
+      const dlcSec = conFicha.length || otros.length ? `<section class="j-dlc" aria-labelledby="j-dlc-tit">
+<h2 id="j-dlc-tit">DLC y expansiones</h2>
+<p class="mini">Cada uno se compra aparte y requiere ${e(nombre)}. Sus precios no están incluidos en el del juego.</p>
+<ul class="j-dlc-lista">
+${conFicha.map((d) => { const o = d.ofertas[0]; return `<li><a href="${d.url}">${e(o.titulo)}</a><span class="j-dlc-p"><span class="j-dlc-t">${d.ofertas.map((x) => TIENDAS_INFO[x.tienda].nombre).filter((v, i, a) => a.indexOf(v) === i).join(", ")}</span>${o.gratis ? "Gratis" : fmtOrig(o.precio, o.moneda)}${o.descuento ? ` <span class="o-desc">-${o.descuento}%</span>` : ""}</span></li>`; }).join("")}
+${otros.map((d) => `<li><a href="https://store.steampowered.com/app/${e(d.appid)}/" rel="nofollow noopener" target="_blank">${e(d.nombre)}</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>${d.gratis ? "Gratis" : d.precio ? `${e(d.precio)}${d.descuento ? ` <span class="o-desc">-${d.descuento}%</span>` : ""}` : ""}</span></li>`).join("")}
+</ul>
+${otros.length ? `<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.${info.dlcTotal > (info.dlcLista || []).length ? ` Hay ${info.dlcTotal} en total: <a href="https://store.steampowered.com/dlc/${e(info.appid)}/" rel="nofollow noopener" target="_blank">ver todos en Steam</a>.` : ""}</p>` : ""}
+</section>` : "";
       const pieFuentes = fuentes.length ? `<p class="mini j-fuentes">Datos del juego: ${lista(fuentes)}. Los textos y capturas son de la tienda y de su editora.</p>` : "";
 
       // Historial de cada tienda: resumen en texto + gráfico + tabla
@@ -284,7 +311,8 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
 <div class="j-top">
 <div class="j-img"><img src="${e(imagen || "/assets/portada.svg")}" alt="${e(nombre)}" referrerpolicy="no-referrer" width="460" height="215"></div>
 <div class="j-info">
-<h1>${e(nombre)}</h1>
+${esDlc ? `<p class="j-tipo">Contenido descargable (DLC)</p>` : ""}<h1>${e(nombre)}</h1>
+${base ? `<p class="j-requiere"><b>Requiere el juego base:</b> ${base.ficha ? `<a href="${base.ficha.url}">${e(base.nombre || "ver juego")}</a>` : `<a href="https://store.steampowered.com/app/${e(base.appid)}/" rel="nofollow noopener" target="_blank">${e(base.nombre || "ver en Steam")}</a>`}. Este precio es solo del DLC.</p>` : esDlc ? `<p class="j-requiere">Es un contenido descargable: necesitás el juego base para usarlo. Este precio es solo del DLC.</p>` : ""}
 <p class="j-sub">${ofertas.length > 1 ? `En oferta en ${lista(tiendas)}. Compará el precio de cada tienda en pesos con impuestos.` : `En oferta en ${tiendas[0]}.`}</p>
 <ul class="j-ofertas">
 ${filasOferta}
@@ -297,6 +325,7 @@ ${videos}
 ${galeria}
 ${caract}
 ${requis}
+${dlcSec}
 ${pieFuentes}
 <section class="j-hist" aria-labelledby="j-hist-tit">
 <h2 id="j-hist-tit">Historial de precios</h2>
@@ -320,6 +349,8 @@ ${hist}
         ...(info.desarrolladores?.length ? { author: info.desarrolladores.map((n) => ({ "@type": "Organization", name: n })) } : {}),
         ...(info.editores?.length ? { publisher: info.editores.map((n) => ({ "@type": "Organization", name: n })) } : {}),
         ...(info.lanzamiento ? { datePublished: info.lanzamiento } : {}),
+        ...(base?.ficha ? { isPartOf: { "@type": "VideoGame", name: base.nombre || undefined, url: cfg.sitio.url + base.ficha.url } } : {}),
+        ...(conFicha.length ? { hasPart: conFicha.map((d) => ({ "@type": "VideoGame", name: d.ofertas[0].titulo, url: cfg.sitio.url + d.url })) } : {}),
         ...(conPrecio.length ? { offers: conPrecio.map((g) => ({ "@type": "Offer", price: g.precio, priceCurrency: g.moneda, url: g.url,
           availability: "https://schema.org/InStock", seller: { "@type": "Organization", name: TIENDAS_INFO[g.tienda].nombre },
           ...(g.fin_oferta ? { priceValidUntil: g.fin_oferta.slice(0, 10) } : {}) })) } : {}),
@@ -331,12 +362,12 @@ ${hist}
 
       const masBarata = conPrecio.length ? conPrecio.reduce((a, g) => (g.moneda === "USD" && a.moneda === "USD" && g.precio < a.precio) ? g : a) : null;
       const desc = [
-        `${nombre} en oferta en ${lista(tiendas)}${masBarata && conPrecio.every((g) => g.moneda === masBarata.moneda) ? `: desde ${fmtOrig(masBarata.precio, masBarata.moneda)}${masBarata.descuento ? ` (-${masBarata.descuento}%)` : ""}` : ""}.`,
+        `${nombre}${esDlc ? `, contenido descargable${base?.nombre ? ` de ${base.nombre}` : ""},` : ""} en oferta en ${lista(tiendas)}${masBarata && conPrecio.every((g) => g.moneda === masBarata.moneda) ? `: desde ${fmtOrig(masBarata.precio, masBarata.moneda)}${masBarata.descuento ? ` (-${masBarata.descuento}%)` : ""}` : ""}.`,
         info.generos?.length ? `${lista(info.generos.slice(0, 2))}${info.desarrolladores?.length ? ` de ${info.desarrolladores[0]}` : ""}.` : "",
         "Historial de precios, mínimo histórico y precio estimado en pesos con impuestos.",
       ].filter(Boolean).join(" ");
       escribir(f.url.slice(1) + "index.html", pagina({
-        titulo: `${nombre}: precio en Argentina e historial${ofertas.length > 1 ? "" : ` en ${tiendas[0]}`} | ${cfg.sitio.nombre}`,
+        titulo: `${nombre}${esDlc && base?.nombre ? ` (DLC de ${base.nombre})` : esDlc ? " (DLC)" : ""}: precio en Argentina e historial${ofertas.length > 1 ? "" : ` en ${tiendas[0]}`} | ${cfg.sitio.nombre}`,
         desc, canon: f.url, cuerpo, indexar, seguir: true, ads: indexar, extraHead: ldTxt,
         og: imagen ? `<meta property="og:image" content="${e(imagen)}">` : "" }));
     }

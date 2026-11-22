@@ -10,7 +10,7 @@ import { leerJSON, guardarJSON, ruta, log, decodificar } from "../lib/util.mjs";
 
 const CARPETA = ruta("data", "fichas");
 const VIEJO = ruta("data", "fichas.json"); // formato anterior: un solo archivo
-const VERSION = 3; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
+const VERSION = 4; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
 const VIGENCIA_MS = 30 * 864e5;
 const REINTENTO_MS = 3 * 864e5; // si no se encontró nada, se vuelve a probar a los 3 días
 const MAX_POR_CORRIDA = 150;
@@ -98,11 +98,25 @@ async function steamDetalle(appid) {
     lanzamientoTexto: a.release_date?.coming_soon ? null : a.release_date?.date || null,
     metacritic: a.metacritic?.score ? { puntaje: a.metacritic.score, url: a.metacritic.url || null } : null,
     web: /^https?:\/\//.test(a.website || "") ? a.website : null,
+    juegoBase: a.type === "dlc" && a.fullgame?.appid ? { appid: String(a.fullgame.appid), nombre: a.fullgame.name || null } : null,
+    dlcIds: (a.dlc || []).map(String),
     // Tráileres oficiales que la editora sube a Steam (archivos de video de Steam, no de YouTube)
     trailers: (a.movies || []).map((m) => ({ nombre: m.name || null, poster: m.thumbnail || null,
       mp4: m.mp4?.max || m.mp4?.["480"] || null, webm: m.webm?.max || m.webm?.["480"] || null }))
       .filter((m) => /^https:\/\//.test(m.mp4 || m.webm || "") && /^https:\/\//.test(m.poster || "")).slice(0, 3),
   };
+}
+
+// Nombre y precio actual en Argentina de varios productos de Steam a la vez (para la lista de DLC de un juego)
+async function steamItems(appids) {
+  if (!appids.length) return [];
+  const input = { ids: appids.map((a) => ({ appid: +a })), context: { language: "spanish", country_code: "AR", steam_realm: 1 }, data_request: {} };
+  const r = await pedir(`https://api.steampowered.com/IStoreBrowseService/GetItems/v1/?input_json=${encodeURIComponent(JSON.stringify(input))}`);
+  return (r?.response?.store_items || []).filter((x) => x.success === 1 && x.visible !== false && x.name && x.appid).map((x) => {
+    const b = x.best_purchase_option || {};
+    return { appid: String(x.appid), nombre: x.name, gratis: !!x.is_free,
+      precio: b.formatted_final_price || null, antes: b.formatted_original_price || null, descuento: b.discount_pct || 0 };
+  });
 }
 
 // Resumen de reseñas de usuarios de Steam (todas las compras, todos los idiomas)
@@ -178,7 +192,13 @@ async function consultar(grupo, key) {
   if (appid) {
     try {
       const s = await steamDetalle(appid);
-      if (s && (!s.tipo || s.tipo === "game")) {
+      if (s && (!s.tipo || s.tipo === "game" || s.tipo === "dlc")) {
+        f.tipo = s.tipo === "dlc" ? "dlc" : "juego";
+        if (s.juegoBase) f.juegoBase = s.juegoBase;
+        if (s.dlcIds?.length) {
+          f.dlcTotal = s.dlcIds.length;
+          try { f.dlcLista = await steamItems(s.dlcIds.slice(0, 40)); } catch (err) { log(`DLC Steam ${appid}: ${err.message}`); }
+        }
         f.appid = String(appid);
         f.descripcion = s.descripcion;
         f.generos = s.generos;
@@ -188,11 +208,6 @@ async function consultar(grupo, key) {
         f.metacritic = s.metacritic;
         for (const k of ["nombreSteam", "acerca", "caracteristicas", "idiomas", "requisitos", "capturas", "web", "trailers"]) if (s[k] && (!Array.isArray(s[k]) || s[k].length)) f[k] = s[k];
         f.fuentes.push("Steam");
-        // Si el resumen de reseñas falla 3 veces seguidas, no se insiste en esta corrida (las de IsThereAnyDeal ya traen el % de Steam)
-        if (fallosResenas < 3) {
-          try { f.resenasSteam = await steamResenas(appid); fallosResenas = 0; } catch (err) { fallosResenas++; log(`Reseñas Steam ${appid}: ${err.message}`); }
-          await pausa(800);
-        }
       }
     } catch (err) { log(`Ficha Steam ${appid}: ${err.message}`); }
     await pausa(1500); // la tienda de Steam limita las consultas seguidas
