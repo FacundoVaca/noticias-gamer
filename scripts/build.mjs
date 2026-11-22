@@ -1,6 +1,7 @@
 // Genera el sitio estático completo en public/ a partir de content/notas/*.json
 import fs from "node:fs";
 import path from "node:path";
+import { createHash } from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { config, leerJSON, ruta, escapar as e, fechaLarga, fechaCorta, contarPalabras } from "./lib/util.mjs";
 import { generarOfertas } from "./ofertas/paginas.mjs";
@@ -30,6 +31,7 @@ export function construir() {
   fs.cpSync(ruta("static"), PUB, { recursive: true });
   const escribir = (rel, html) => { const p = path.join(PUB, rel); fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, html); };
 
+  const versionCss = createHash("sha1").update(fs.readFileSync(ruta("static", "assets", "style.css"))).digest("hex").slice(0, 8);
   const adsense = S.adsenseCliente ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${S.adsenseCliente}" crossorigin="anonymous"></script>` : "";
   const img = (n) => n.imagen?.archivo ? `/img/${n.imagen.archivo}` : "/assets/portada.svg";
   const urlNota = (n) => `/notas/${n.slug}/`;
@@ -43,7 +45,7 @@ export function construir() {
 <link rel="canonical" href="${S.url}${canon}">${indexar ? "" : '<meta name="robots" content="noindex,nofollow">'}
 <meta property="og:site_name" content="${e(S.nombre)}"><meta property="og:title" content="${e(titulo)}"><meta property="og:description" content="${e(desc)}"><meta property="og:url" content="${S.url}${canon}">${og}
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
 <link rel="alternate" type="application/rss+xml" title="${e(S.nombre)}" href="/feed.xml">
 ${ads ? adsense : ""}${extraHead}
 </head><body>
