@@ -92,12 +92,17 @@ export function parseCheapShark(lista, tienda = "epic") {
 export async function leerEpic({ paginas = 3 } = {}) {
   const gratis = parseEpicGratis(await (await pedir("https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=es-ES&country=AR&allowCountries=AR")).json());
   const desc = [];
-  for (let p = 0; p < paginas; p++) {
-    const lista = await (await pedir(`https://www.cheapshark.com/api/1.0/deals?storeID=25&onSale=1&sortBy=Deal%20Rating&pageSize=60&pageNumber=${p}`)).json();
-    desc.push(...parseCheapShark(lista));
-    if (lista.length < 60) break;
-    await esperar(1500);
-  }
+  try {
+    for (let p = 0; p < paginas; p++) {
+      const r = await fetch(`https://www.cheapshark.com/api/1.0/deals?storeID=25&onSale=1&sortBy=Deal%20Rating&pageSize=60${p ? `&pageNumber=${p}` : ""}`,
+        { headers: { "user-agent": "BolsilloGamer/1.0 (+https://juegos.bolsillo.online)" }, signal: AbortSignal.timeout(30000) });
+      if (!r.ok) throw new Error(`HTTP ${r.status}: ${(await r.text()).slice(0, 150)}`);
+      const lista = await r.json();
+      desc.push(...parseCheapShark(lista));
+      if (lista.length < 60) break;
+      await esperar(1500);
+    }
+  } catch (err) { log("Epic (descuentos vía CheapShark):", err.message); if (!desc.length && !gratis.length) throw err; }
   const titulos = new Set(gratis.map((g) => g.titulo.toLowerCase()));
   return [...gratis, ...desc.filter((d) => !titulos.has(d.titulo.toLowerCase()))];
 }
