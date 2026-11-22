@@ -2,8 +2,8 @@ name: Actualizar ofertas de juegos
 
 on:
   schedule:
-    - cron: "41 1,5,13,17 * * *"   # Steam, Epic y Xbox (cada ~4 h de día en Argentina)
-    - cron: "41 9,21 * * *"        # las mismas + PlayStation (2 veces por día)
+    - cron: "43 1,5,13,17 * * *"   # Steam, Epic y Xbox (cada ~4 h de día en Argentina)
+    - cron: "43 9,21 * * *"        # las mismas + PlayStation (2 veces por día)
   workflow_dispatch:
     inputs:
       tiendas:
