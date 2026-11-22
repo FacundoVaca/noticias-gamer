@@ -295,6 +295,28 @@ ${otros.map((d) => `<li><a href="https://store.steampowered.com/app/${e(d.appid)
 </ul>
 ${otros.length ? `<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.${info.dlcTotal > (info.dlcLista || []).length ? ` Hay ${info.dlcTotal} en total: <a href="https://store.steampowered.com/dlc/${e(info.appid)}/" rel="nofollow noopener" target="_blank">ver todos en Steam</a>.` : ""}</p>` : ""}
 </section>` : "";
+      // Ediciones de Steam con su contenido exacto y la comparación contra comprar cada parte suelta
+      const eds = !esDlc ? (info.ediciones || []).filter((x) => x.apps?.length) : [];
+      const sueltos = info.sueltos || {};
+      const comparar = (ed) => {
+        if (ed.apps.length < 2 || ed.usd == null) return "";
+        const partes = ed.apps.map((a) => sueltos[a.appid]);
+        if (partes.some((p) => !p || (p.usd == null && !p.gratis))) return `<p class="j-cmp j-cmp-no">Incluye contenido que no se vende por separado en Steam, así que no se puede comparar con comprarlo suelto.</p>`;
+        const suma = partes.reduce((t, p) => t + (p.gratis ? 0 : p.usd), 0);
+        const dif = suma - ed.usd;
+        if (Math.abs(dif) < 0.01) return `<p class="j-cmp">Cuesta lo mismo que comprar todo por separado (${fmtUsd(suma)}).</p>`;
+        return dif > 0
+          ? `<p class="j-cmp j-cmp-si">Por separado costaría <b>${fmtUsd(suma)}</b>: con la edición ahorrás <b>${fmtUsd(dif)}</b> (${Math.round(dif / suma * 100)}%).</p>`
+          : `<p class="j-cmp j-cmp-no">Por separado costaría <b>${fmtUsd(suma)}</b>: la edición sale <b>${fmtUsd(-dif)}</b> más cara que comprar todo suelto.</p>`;
+      };
+      const edSec = eds.length ? `<section class="j-ed" aria-labelledby="j-ed-tit">
+<h2 id="j-ed-tit">Ediciones en Steam y qué incluye cada una</h2>
+<div class="j-ed-grid">${eds.map((ed) => `<div class="j-ed-card"><h3>${e(ed.nombre)}</h3>
+${ed.usd != null ? `<p class="j-ed-precio"><b>${ed.usd === 0 ? "Gratis" : fmtUsd(ed.usd)}</b>${ed.descuento ? ` <span class="o-desc">-${ed.descuento}%</span> <s>${fmtUsd(ed.antes)}</s>` : ""}</p>` : ""}
+<ul>${ed.apps.map((a) => `<li>${e(a.nombre)}${String(a.appid) === String(info.appid) ? ' <span class="j-base">juego base</span>' : ""}${sueltos[a.appid]?.usd != null && ed.apps.length > 1 ? ` <span class="j-suelto">${fmtUsd(sueltos[a.appid].usd)} suelto</span>` : ""}</li>`).join("")}</ul>
+${comparar(ed)}</div>`).join("")}</div>
+<p class="mini">Contenido y precios de hoy en la tienda de Steam para Argentina (en dólares). Solo comparamos cuando cada parte de la edición se vende suelta en la misma tienda.</p>
+</section>` : "";
       const pieFuentes = fuentes.length ? `<p class="mini j-fuentes">Datos del juego: ${lista(fuentes)}. Los textos y capturas son de la tienda y de su editora.</p>` : "";
 
       // Historial de cada tienda: resumen en texto + gráfico + tabla
@@ -327,6 +349,7 @@ ${videos}
 ${galeria}
 ${caract}
 ${requis}
+${edSec}
 ${dlcSec}
 ${pieFuentes}
 <section class="j-hist" aria-labelledby="j-hist-tit">

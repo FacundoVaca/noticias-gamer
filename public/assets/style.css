@@ -242,6 +242,19 @@ main.wrap{padding-top:30px;padding-bottom:64px}
 .j-tipo{margin:0 0 6px;color:var(--violet);font-weight:700;font-size:.82rem;text-transform:uppercase;letter-spacing:.08em}
 .j-requiere{background:var(--panel2);border-left:4px solid var(--violet);border-radius:0 10px 10px 0;padding:10px 14px;margin:0 0 14px;font-size:.95rem}
 .o-dlc{background:rgba(167,139,250,.16);color:var(--violet);font-weight:700;font-size:.72rem;padding:2px 7px;border-radius:6px}
+.j-ed{margin:28px 0}
+.j-ed h2{font:800 1.5rem/1.1 var(--f-disp);margin:0 0 .5em}
+.j-ed-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.j-ed-card{background:var(--panel);border-radius:14px;padding:4px 16px 14px}
+.j-ed-card h3{font-size:1.02rem;margin:.8em 0 .3em}
+.j-ed-precio{margin:0 0 8px;display:flex;gap:8px;align-items:center;font-size:1.15rem}
+.j-ed-precio .o-desc{position:static;font-size:.8rem;padding:2px 7px;border-radius:6px}
+.j-ed-precio s{color:var(--muted);font-size:.9rem}
+.j-ed-card ul{margin:0 0 8px;padding-left:18px;color:var(--soft);font-size:.92rem;display:grid;gap:4px}
+.j-base{color:var(--violet);font-size:.76rem;font-weight:700}
+.j-suelto{color:var(--muted);font-size:.8rem}
+.j-cmp{margin:8px 0 0;font-size:.92rem;border-radius:8px;padding:8px 10px;background:var(--panel2)}
+.j-cmp-si b{color:var(--lime)}
 .j-dlc{margin:28px 0}
 .j-dlc h2{font:800 1.5rem/1.1 var(--f-disp);margin:0 0 .3em}
 .j-dlc-lista{list-style:none;padding:0;margin:10px 0;display:grid;gap:6px}
