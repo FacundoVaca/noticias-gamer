@@ -1,0 +1,46 @@
+name: Aprobar notas
+
+on:
+  workflow_dispatch:
+    inputs:
+      notas:
+        description: "Nombres de las notas separados por coma (se ven en /revision/), o 'todas'"
+        required: true
+        default: "todas"
+      accion:
+        description: "Qué hacer con esas notas"
+        type: choice
+        options: [publicar, rechazar]
+        default: publicar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  aprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Aplicar
+        env:
+          NOTAS: ${{ inputs.notas }}
+          ACCION: ${{ inputs.accion }}
+        run: |
+          if [ "$ACCION" = "rechazar" ]; then node scripts/aprobar.mjs --rechazar "$NOTAS"; else node scripts/aprobar.mjs "$NOTAS"; fi
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content public
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Notas revisadas: $ACCION"
+          git push
+        env:
+          ACCION: ${{ inputs.accion }}

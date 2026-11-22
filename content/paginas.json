@@ -1,0 +1,22 @@
+{
+  "acerca": {
+    "titulo": "Quiénes somos",
+    "desc": "Qué es {{nombre}} y cómo trabajamos.",
+    "html": "\n<p>{{nombre}} es un sitio de noticias de videojuegos en español pensado para lectores de Argentina y Latinoamérica. Seguimos lo que pasa en PC, PlayStation, Xbox, Nintendo, móviles y la industria, y lo contamos de forma clara y con contexto.</p>\n<h2>Cómo hacemos las notas</h2>\n<p>Monitoreamos de forma continua los anuncios oficiales de las empresas y lo que publican los principales medios especializados. Cuando una noticia aparece en varias fuentes, la reunimos en una sola nota en español que explica qué pasó, por qué importa y qué antecedentes tiene. Usamos herramientas de inteligencia artificial como asistencia de redacción, con controles automáticos de originalidad y extensión, y cada nota enlaza a todas sus fuentes.</p>\n<p>Las portadas son ilustraciones propias generadas con IA, fotos de bancos de imágenes libres (con su crédito) o diseños gráficos propios. No usamos las imágenes de los medios citados.</p>\n<p>Más detalles en nuestra <a href=\"/politica-editorial/\">política editorial</a>.</p>"
+  },
+  "politica-editorial": {
+    "titulo": "Política editorial",
+    "desc": "Cómo elegimos, escribimos y corregimos las noticias de {{nombre}}.",
+    "html": "\n<h2>Qué publicamos</h2>\n<p>Noticias de videojuegos: anuncios, lanzamientos, actualizaciones, hardware, negocios de la industria y eSports. No publicamos ofertas comerciales, contenido patrocinado sin aclararlo ni rumores sin indicar que lo son.</p>\n<h2>Fuentes</h2>\n<p>Priorizamos comunicados oficiales y noticias confirmadas por más de un medio. Todas las fuentes usadas se enlazan al pie de cada nota.</p>\n<h2>Uso de inteligencia artificial</h2>\n<p>Las notas se redactan con asistencia de IA a partir de las fuentes citadas. El sistema tiene instrucciones de no inventar datos, cifras ni citas, y cada texto pasa controles automáticos que descartan notas demasiado cortas o que repitan frases textuales de las fuentes.</p>\n<h2>Correcciones</h2>\n<p>Si encontrás un error, escribinos a <a href=\"mailto:{{email}}\">{{email}}</a>. Corregimos lo antes posible y actualizamos la fecha de la nota.</p>"
+  },
+  "privacidad": {
+    "titulo": "Política de privacidad",
+    "desc": "Cómo trata {{nombre}} los datos de los visitantes.",
+    "html": "\n<p>{{nombre}} no pide registro ni guarda datos personales de quienes lo visitan.</p>\n<h2>Publicidad y cookies</h2>\n<p>Este sitio muestra anuncios de Google AdSense. Google y sus socios usan cookies para mostrar anuncios según las visitas anteriores del usuario a este y otros sitios. Podés desactivar la publicidad personalizada en <a href=\"https://adssettings.google.com\" rel=\"nofollow noopener\">Configuración de anuncios de Google</a> o conocer más en <a href=\"https://policies.google.com/technologies/ads\" rel=\"nofollow noopener\">cómo usa Google la información de los sitios</a>.</p>\n<h2>Estadísticas</h2>\n<p>Podemos usar estadísticas agregadas y anónimas del alojamiento (Cloudflare) para saber cuántas visitas recibe el sitio.</p>\n<h2>Enlaces externos</h2>\n<p>Las notas enlazan a otros sitios, que tienen sus propias políticas de privacidad.</p>\n<h2>Contacto</h2>\n<p>Por consultas sobre privacidad: <a href=\"mailto:{{email}}\">{{email}}</a>.</p>"
+  },
+  "contacto": {
+    "titulo": "Contacto",
+    "desc": "Cómo comunicarte con {{nombre}}.",
+    "html": "\n<p>Para correcciones, sugerencias de noticias, prensa o publicidad, escribinos a <a href=\"mailto:{{email}}\">{{email}}</a>.</p>\n<p>Si una nota tiene un error, indicá el enlace y qué hay que corregir. Respondemos lo antes posible.</p>"
+  }
+}

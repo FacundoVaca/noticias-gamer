@@ -1,0 +1,39 @@
+name: Publicar noticias
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # cada 3 horas (minuto 17 para evitar la hora pico de GitHub)
+  workflow_dispatch: {}       # botón "Run workflow" para correrlo a mano
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Instalar optimizador de imágenes
+        run: npm install --no-audit --no-fund
+      - name: Leer feeds, redactar con Gemini y generar el sitio
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: node scripts/actualizar.mjs
+      - name: Guardar cambios (Cloudflare publica solo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content data public
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Noticias actualizadas automáticamente"
+          git pull --rebase
+          git push

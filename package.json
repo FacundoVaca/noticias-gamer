@@ -1,0 +1,13 @@
+{
+  "name": "noticias-gamer",
+  "private": true,
+  "type": "module",
+  "description": "Sitio de noticias gamer automatizado: RSS -> Gemini -> sitio estático",
+  "scripts": {
+    "actualizar": "node scripts/actualizar.mjs",
+    "build": "node scripts/build.mjs",
+    "aprobar": "node scripts/aprobar.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "optionalDependencies": { "sharp": "^0.34.0" }
+}
