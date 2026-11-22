@@ -38,7 +38,7 @@ async function llamar(modelo, cuerpo, intentos = 3) {
 const ESQUEMA = {
   type: "OBJECT",
   properties: {
-    apta: { type: "BOOLEAN", description: "false si no es una noticia real de videojuegos (oferta, publicidad, guía, rumor sin base, contenido para adultos o tragedia sensible)" },
+    apta: { type: "BOOLEAN", description: "false SOLO si el contenido no es una noticia de videojuegos (oferta comercial, publicidad, guía, contenido para adultos o tragedia sensible). Que hable de fechas o hechos que no conocés NO es motivo para false" },
     motivo: { type: "STRING" },
     titulo: { type: "STRING", description: "Título original en español, informativo, sin clickbait, máx. 95 caracteres" },
     bajada: { type: "STRING", description: "Copete de 1 o 2 oraciones que resume la noticia" },
@@ -60,7 +60,7 @@ const ESQUEMA = {
   required: ["apta", "titulo", "bajada", "categoria", "etiquetas", "cuerpo", "clave", "promptImagen", "busquedaImagen"],
 };
 
-const SISTEMA = `Sos redactor/a de un medio de noticias de videojuegos para Argentina y Latinoamérica.
+const SISTEMA_BASE = `Sos redactor/a de un medio de noticias de videojuegos para Argentina y Latinoamérica.
 Escribís en español neutro con tono rioplatense suave (sin voseo exagerado), claro y profesional.
 Reglas obligatorias:
 - Escribí una nota ORIGINAL. Nunca traduzcas ni copies frases de las fuentes: reorganizá la información con tu propia estructura y palabras.
@@ -70,6 +70,14 @@ Reglas obligatorias:
 - Estructura: 1 párrafo de entrada fuerte, 2 a 4 subtítulos (h2) con 1 a 3 párrafos cada uno; podés usar una lista (li) corta si suma. Entre 380 y 650 palabras.
 - No menciones que sos una IA, no hables de "las fuentes" en el texto ni nombres los medios: los enlaces se agregan aparte.
 - Sin emojis, sin mayúsculas sostenidas, sin clickbait.`;
+
+// La fecha de hoy y la aclaración de que las fuentes son reales evitan que el modelo
+// descarte noticias actuales por ser posteriores a sus datos de entrenamiento.
+const SISTEMA_FECHA = () => {
+  const hoy = new Intl.DateTimeFormat("es-AR", { timeZone: "America/Argentina/Buenos_Aires", day: "numeric", month: "long", year: "numeric" }).format(new Date());
+  return `Hoy es ${hoy}. Las fuentes que recibís son notas periodísticas reales y actuales, publicadas en los últimos días por medios reconocidos. Tus conocimientos tienen una fecha de corte anterior, así que es normal que las fuentes mencionen juegos, consolas, fechas o hechos que no conocés: tomalos como verdaderos. Nunca juzgues si algo es verosímil según tus conocimientos, nunca lo llames ficticio, supuesto o hipotético por ese motivo, y no marques una nota como no apta por eso.`;
+};
+const SISTEMA_TXT = () => `${SISTEMA_FECHA()}\n\n${SISTEMA_BASE}`;
 
 export async function redactarNota(grupo, cfg, aviso = "") {
   const fuentes = grupo.map((it, i) => `### Fuente ${i + 1} (${it.idioma}) - ${it.fecha.slice(0, 10)}
@@ -84,7 +92,7 @@ Texto: ${(it.texto || it.contenido || "").slice(0, 4000)}`).join("\n\n");
   for (const modelo of cfg.ia.modelosTexto) {
     try {
       const res = await llamar(modelo, {
-        systemInstruction: { parts: [{ text: SISTEMA }] },
+        systemInstruction: { parts: [{ text: SISTEMA_TXT() }] },
         contents: [{ role: "user", parts: [{ text: prompt }] }],
         generationConfig: { temperature: cfg.ia.temperatura ?? 0.8, responseMimeType: "application/json", responseSchema: ESQUEMA },
       });
@@ -120,7 +128,7 @@ export async function revisarNovedades(nota, nuevas, cfg) {
   for (const modelo of cfg.ia.modelosTexto) {
     try {
       const res = await llamar(modelo, {
-        systemInstruction: { parts: [{ text: SISTEMA }] },
+        systemInstruction: { parts: [{ text: SISTEMA_TXT() }] },
         contents: [{ role: "user", parts: [{ text: prompt }] }],
         generationConfig: { temperature: 0.4, responseMimeType: "application/json", responseSchema: ESQUEMA_UPD },
       });
@@ -139,7 +147,7 @@ export async function generarImagen(prompt, cfg) {
   const res = await llamar(cfg.ia.modeloImagen, {
     contents: [{ role: "user", parts: [{ text: texto }] }],
     generationConfig: { responseModalities: ["IMAGE"], imageConfig: { aspectRatio: "16:9" } },
-  }, 2);
+  }, 1);
   const parte = (res.candidates?.[0]?.content?.parts || []).find((p) => p.inlineData?.data);
   return parte ? Buffer.from(parte.inlineData.data, "base64") : null;
 }

@@ -60,6 +60,8 @@ async function buscarPexels(consulta) {
 }
 
 // Guarda public/img/<slug>.(webp|jpg|png|svg) y devuelve { archivo, origen, credito }
+let geminiImagenSinCupo = false;
+
 export async function crearPortada(nota, cfg) {
   const { ancho: W = 1200, alto: H = 675, orden = ["gemini", "pexels", "portada"] } = cfg.imagenes || {};
   const dir = ruta("public", "img");
@@ -77,6 +79,7 @@ export async function crearPortada(nota, cfg) {
   for (const metodo of orden) {
     try {
       if (metodo === "gemini") {
+        if (geminiImagenSinCupo) continue;
         const buf = await generarImagen(nota.promptImagen, cfg);
         if (buf) return await guardar(buf, "ia", { texto: "Ilustración generada con IA" });
       } else if (metodo === "pexels") {
@@ -86,7 +89,10 @@ export async function crearPortada(nota, cfg) {
         const svg = portadaSVG(nota.titulo, nota.categoria, cfg.categorias[nota.categoria] || "Noticias", cfg.sitio.nombre, W, H);
         return await guardar(Buffer.from(svg), "portada");
       }
-    } catch (e) { log(`Imagen (${metodo}) falló: ${e.message}`); }
+    } catch (e) {
+      if (metodo === "gemini" && (e.status === 429 || e.status === 404)) geminiImagenSinCupo = true;
+      log(`Imagen (${metodo}) falló: ${e.message.slice(0, 160)}`);
+    }
   }
   return null;
 }
