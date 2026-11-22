@@ -1,0 +1,591 @@
+{
+  "clave": "atelier yumia la alquimista de los recuerdos y la tierra imaginada",
+  "v": 4,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "0191d422-a4ca-7333-a9a3-26ef5495c2d6",
+  "appid": "3123410",
+  "lanzamiento": "2025-03-21",
+  "desarrolladores": [
+    "KOEI TECMO GAMES CO. LTD.",
+    "KOEI TECMO GAMES CO., LTD."
+  ],
+  "editores": [
+    "KOEI TECMO GAMES",
+    "KOEI TECMO GAMES CO., LTD.",
+    "KOEI TECMO GAMES CO. LTD."
+  ],
+  "etiquetas": [
+    "Exploration",
+    "Female Protagonist",
+    "JRPG",
+    "Collectathon",
+    "Hack and Slash"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 64,
+      "cantidad": 2583,
+      "url": "https://store.steampowered.com/app/3123410/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 23,
+      "url": "https://metacritic.com/game/atelier-yumia-the-alchemist-of-memories-and-the/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 125,
+      "url": "https://metacritic.com/game/atelier-yumia-the-alchemist-of-memories-and-the/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 117,
+      "url": "https://opencritic.com/game/17763/atelier-yumia-the-alchemist-of-memories-the-envisioned-land"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 28,
+  "dlcLista": [
+    {
+      "appid": "3284980",
+      "nombre": "Atelier Yumia - Vestuario para Yumia «Alquimista en su día libre»",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3284970",
+      "nombre": "Atelier Yumia - Vestuario para Yumia: Pack de 3 camisetas",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285020",
+      "nombre": "Atelier Yumia: Marcos y poses de fotos limitados",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285060",
+      "nombre": "Pase de temporada de Atelier Yumia",
+      "gratis": false,
+      "precio": "$18.74",
+      "antes": "$37.49",
+      "descuento": 50
+    },
+    {
+      "appid": "3569670",
+      "nombre": "Atelier Yumia - Mapa adicional: ”Arboleda de Falbra”",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742640",
+      "nombre": "Paquete de colaboración de \"Atelier Yumia\" y la saga \"TEKKEN\"",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3668860",
+      "nombre": "Atelier Yumia - Vestuario especial para Yumia en colaboración con Asbel de \"Tales of Graces f Remastered\"",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3931880",
+      "nombre": "Atelier Yumia - The Red Alchemist & the White Guardian: Conjunto de vestuario",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3284990",
+      "nombre": "Atelier Yumia: Conjunto de mochila",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3569690",
+      "nombre": "Atelier Yumia - Paquete de música de fondo de la serie Atelier",
+      "gratis": true,
+      "precio": null,
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742630",
+      "nombre": "Atelier Yumia - Paquete de expansión de recetas y planos «El arte de Aladiss»",
+      "gratis": false,
+      "precio": "$4.10",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3855580",
+      "nombre": "Atelier Yumia - Mapa adicional: \"Campo de entrenamiento de Idus\"",
+      "gratis": false,
+      "precio": "$4.10",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3855590",
+      "nombre": "Atelier Yumia - Mapa adicional: \"Zona de investigación secreta de Aladissia\"",
+      "gratis": false,
+      "precio": "$6.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285080",
+      "nombre": "Atelier Yumia - Conjunto de ropa de baño",
+      "gratis": false,
+      "precio": "$12.49",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3401950",
+      "nombre": "Atelier Yumia - Conjunto de ropa de baño para Yumia y Flammi",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285110",
+      "nombre": "Atelier Yumia - Vestuario para Isla «¡Días de playa monísimos!»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285120",
+      "nombre": "Atelier Yumia - Vestuario para Viktor «Bañador de largas distancias de caballero»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285130",
+      "nombre": "Atelier Yumia - Vestuario para Rutger «Criminal de ébano»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285140",
+      "nombre": "Atelier Yumia - Vestuario para Nina «Corazón en flor»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3285150",
+      "nombre": "Atelier Yumia - Vestuario para Lenja «Bañador de gatitos adorable»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742620",
+      "nombre": "Atelier Yumia: Conjunto de vestuario «Academia de la fantasía»",
+      "gratis": false,
+      "precio": "$12.49",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742610",
+      "nombre": "Atelier Yumia - Conjunto de vestuario «Academia de la fantasía» para Yumia y Flammi",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742560",
+      "nombre": "Atelier Yumia - Vestuario para Isla «Dama novata»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742570",
+      "nombre": "Atelier Yumia - Vestuario para Viktor «Mayordomo ideal»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742580",
+      "nombre": "Atelier Yumia - Vestuario para Rutger «Lobo callejero»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742590",
+      "nombre": "Atelier Yumia - Vestuario para Nina «Instructora fenomenal»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3742600",
+      "nombre": "Atelier Yumia - Vestuario para Lenja «Recuerdos crepusculares»",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3569680",
+      "nombre": "Atelier Yumia - Paquete de música de fondo extra de Gust",
+      "gratis": false,
+      "precio": "$2.50",
+      "antes": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Atelier Yumia es una historia en la que Yumia y sus amigos hacen frente a sus recuerdos y avanzan por el camino en el que creen. Explora un amplio mundo, recoge ingredientes para la síntesis de objetos y construye tus propias bases sobre el terreno.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "20 MAR 2025",
+  "metacritic": null,
+  "nombreSteam": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada",
+  "acerca": [
+    [
+      "p",
+      "Recorre el camino prohibido, sin importar adónde te lleve."
+    ],
+    [
+      "p",
+      "Atelier Yumia es la historia de Yumia y sus amigos, que, a pesar de sus dudas, recorren el camino en el que creen."
+    ],
+    [
+      "h",
+      "Sistema:"
+    ],
+    [
+      "p",
+      "Recoge, lucha, crea."
+    ],
+    [
+      "p",
+      "Vívelo todo en tu viaje con amigos."
+    ],
+    [
+      "h",
+      "- Recorre libremente un gran mundo abierto."
+    ],
+    [
+      "p",
+      "El continente es una tierra inexplorada en la que el jugador podrá usar toda clase de objetos y acciones para abrirse paso."
+    ],
+    [
+      "h",
+      "- Combate"
+    ],
+    [
+      "p",
+      "Las distancias y los objetos permiten diferentes acciones en combate."
+    ],
+    [
+      "p",
+      "Tendrás que demostrar tu capacidad de tomar decisiones inmediatas durante el combate en tiempo real. Idea estrategias combinando dos tipos de alcances de ataque que cambian tus habilidades conforme cambias entre ellos. Además, los objetos sintetizados se transformarán en armas como espadas y lanzas que podrás usar para atacar. Puedes volver a usar los objetos tantas veces como quieras, así que no temas usarlos para eliminar cualquier obstáculo de tu camino."
+    ],
+    [
+      "h",
+      "- Síntesis"
+    ],
+    [
+      "p",
+      "Combina el maná para crear objetos."
+    ],
+    [
+      "p",
+      "Manipula el maná de los ingredientes para crear objetos a partir de recetas. Los objetos que crees tendrán poderosos efectos para las diferentes situaciones, ya sea durante la exploración o durante el combate. El poder de un objeto depende de los ingredientes usados en su síntesis, así que elige cuidadosamente tus ingredientes y evalúa el maná que contienen."
+    ],
+    [
+      "h",
+      "- ¡Crea objetos sobre el terreno y personaliza tus bases como quieras!"
+    ],
+    [
+      "p",
+      "Puedes usar la síntesis sencilla para crear herramientas de exploración que usar para abrirte camino, así como objetos que te ayudarán durante el combate y la síntesis. También podrás usar la función de construcciones para crear bases y después decorarlas con los muebles que quieras."
+    ],
+    [
+      "h",
+      "Historia"
+    ],
+    [
+      "p",
+      "El imperio aladissiano prosperó en su día en cierto continente, alcanzando un nivel de desarrollo considerable mediante la alquimia con la que mantenían a raya a otras naciones. Sin embargo, desapareció consumido por un cataclismo misterioso y repentino."
+    ],
+    [
+      "p",
+      "El tiempo siguió su curso, y siglos más tarde la alquimia se considera un arte peligroso que trae la destrucción, algo maligno y tabú."
+    ],
+    [
+      "p",
+      "Ahora una alquimista solitaria da sus primeros pasos en esta tierra peligrosa e inexplorada. Se llama Yumia Liessfeldt y perdió a su madre en un accidente hace tres años. Desde entonces, ha descubierto que desciende de una larga línea de alquimistas, lo que la deja llena de preguntas."
+    ],
+    [
+      "p",
+      "¿Por qué se destruyó Aladiss?"
+    ],
+    [
+      "p",
+      "¿Por qué se convirtió la alquimia en un tabú?"
+    ],
+    [
+      "p",
+      "¿Es verdaderamente maligna la alquimia?"
+    ],
+    [
+      "p",
+      "Convencida de que las verdades que busca están en el continente caído, Yumia emprende una aventura para descubrir su historia olvidada."
+    ],
+    [
+      "p",
+      "Nota: Las imágenes son de una versión en desarrollo. El producto final puede ser diferente de lo que se muestra."
+    ],
+    [
+      "p",
+      "----"
+    ],
+    [
+      "p",
+      "Contenido de la versión de Steam®: Atelier Yumia: Conjunto de mochila"
+    ],
+    [
+      "p",
+      "Un conjunto de accesorios para cambiar el color de la mochila de Yumia y el humo de Flammi."
+    ],
+    [
+      "p",
+      "Contenido:"
+    ],
+    [
+      "p",
+      "- Accesorio para Yumia «Mochila de Flammi»"
+    ],
+    [
+      "p",
+      "- Accesorio para Yumia «Mochila de recuerdos»"
+    ],
+    [
+      "p",
+      "- Accesorio para Flammi «Humo centelleante»"
+    ],
+    [
+      "p",
+      "- Accesorio para Flammi «Humo chispeante»"
+    ],
+    [
+      "p",
+      "Nota: Podrás acceder a este contenido tras desbloquear las construcciones de bases y colocar un vestidor."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10, Windows® 11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 8100 or better, AMD Ryzen 3 3200G or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650 or better, AMD Radeon RX 570 or better, VRAM 4GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "16-bit stereo with 48KHz playback"
+      ],
+      [
+        "Notas adicionales",
+        "The above specs are expected to provide 30 fps gameplay using a resolution of 1280 x 720 with graphics quality set to Low. ※If you are using Windows® 11, the system requirements for Windows® 11 apply."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10, Windows® 11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7 8700 or better, AMD Ryzen 5 3600 or better"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 or better, AMD Radeon RX 5700 XT or better, VRAM 6GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "16-bit stereo with 48KHz playback"
+      ],
+      [
+        "Notas adicionales",
+        "The above specs are expected to provide 60 fps gameplay using a resolution of 1920 x 1080 with graphics quality set to Standard. ※If you are using Windows® 11, the system requirements for Windows® 11 apply."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_4339a64cb6ea53e9a05b3a6e34ce034360233a15.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_4339a64cb6ea53e9a05b3a6e34ce034360233a15.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_00f7ba10998b45ced533af354e5f28b06dfd9b46.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_00f7ba10998b45ced533af354e5f28b06dfd9b46.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_43baac827a2da14a99ba0e0db7c19ddfe488165e.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_43baac827a2da14a99ba0e0db7c19ddfe488165e.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_7465b7236180f53dc03732b46899881b9cda80e2.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_7465b7236180f53dc03732b46899881b9cda80e2.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_0a00d91fdf4a76eac0288c53d4ca79fb890cd5c0.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_0a00d91fdf4a76eac0288c53d4ca79fb890cd5c0.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_816ef20ba3dc09d13bea86ab8ec7482fba39305f.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_816ef20ba3dc09d13bea86ab8ec7482fba39305f.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_0c39b61a9370d79659f713653b822b1d1116ff4d.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_0c39b61a9370d79659f713653b822b1d1116ff4d.1920x1080.jpg?t=1793770079"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_ae1389a023e7e6b87bb538156c8842b7db93ff31.600x338.jpg?t=1793770079",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3123410/ss_ae1389a023e7e6b87bb538156c8842b7db93ff31.1920x1080.jpg?t=1793770079"
+    }
+  ],
+  "web": "https://atelier.games/yumia/",
+  "consultado": "2026-11-22T22:21:52.415Z"
+}
