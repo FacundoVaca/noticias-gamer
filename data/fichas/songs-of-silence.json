@@ -1,0 +1,406 @@
+{
+  "clave": "songs of silence",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-6f05-7085-b171-6fe0a74a3289",
+  "appid": "2195410",
+  "lanzamiento": "2024-06-04",
+  "desarrolladores": [
+    "Chimera Entertainment",
+    "Chimera Entertainment GmbH"
+  ],
+  "editores": [
+    "Chimera Entertainment",
+    "Plug-in Digital",
+    "Plug In Digital",
+    "Chimera Entertainment GmbH",
+    "H2 Interactive (Korea and Japan)",
+    "Chimera Entertainment, H2 Interactive (Korea and Japan)"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "RPG",
+    "Turn-Based Strategy",
+    "Strategy RPG",
+    "4X"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 79,
+      "cantidad": 2408,
+      "url": "https://store.steampowered.com/app/2195410/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/songs-of-silence/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 77,
+      "cantidad": 47,
+      "url": "https://metacritic.com/game/songs-of-silence/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 19,
+      "url": "https://opencritic.com/game/17869/songs-of-silence"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "4561030",
+      "nombre": "Songs of Silence - Crownless King Expansion",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4179260",
+      "nombre": "Songs of Silence - Celestial Church Expansion",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3400120",
+      "nombre": "Songs of Silence - Lighteaters",
+      "gratis": false,
+      "usd": 3,
+      "descuento": 33
+    },
+    {
+      "appid": "2685650",
+      "nombre": "Songs of Silence - The Original Soundtrack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2685660",
+      "nombre": "Songs of Silence - Digital Goodies & Artbook",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3774820",
+      "nombre": "Songs of Silence - Year 1 Champions Frame",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3776820",
+      "nombre": "Songs of Silence - Year 1 Crafters Frame",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3560460",
+      "nombre": "Songs of Silence - Luminant Supporter Upgrade",
+      "gratis": false,
+      "usd": 9.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3676040",
+      "nombre": "Songs of Silence - Firstborn Supporter Upgrade",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3670070",
+      "nombre": "Songs of Silence - Starborn Supporter Upgrade",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Dirige ejércitos, reconstruye reinos caídos y alcanza la grandeza! Embárcate en un épico viaje de estrategia por un mundo visualmente impactante. Lucha en batallas intensas y descubre una narrativa cautivadora.",
+  "generos": [
+    "Aventura",
+    "Indie",
+    "Rol",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "13 NOV 2024",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/songs-of-silence?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Songs of Silence",
+  "acerca": [
+    [
+      "p",
+      "Un juego de estrategia por turnos con combates en tiempo real, donde cada decisión define el destino de tu reino!"
+    ],
+    [
+      "p",
+      "Juega la campaña narrativa, explora mapas de escaramuza para un jugador y multijugador, o enfréntate a escenarios."
+    ],
+    [
+      "h",
+      "15+ HORAS DE CAMPAÑA 👑"
+    ],
+    [
+      "p",
+      "Sumérgete en una campaña para un jugador, diseñada para desafiar tanto a principiantes como a estrategas experimentados."
+    ],
+    [
+      "p",
+      "8 mapas de campaña – Guía a la Reina Lorelai y su pueblo hacia un nuevo hogar, escapa del control de la Cruzada e intenta unir civilizaciones hostiles."
+    ],
+    [
+      "p",
+      "3 niveles de dificultad – ¿Nuevo en estrategia? Disfruta de una experiencia relajada con el modo historia. O pon a prueba tus habilidades en dificultades más altas con logros y misiones exclusivas."
+    ],
+    [
+      "p",
+      "Misiones secundarias y secretos – Conoce personajes peculiares y descubre tesoros ocultos..."
+    ],
+    [
+      "h",
+      "ESCARAMUZAS INIFINITAS ⚔️"
+    ],
+    [
+      "p",
+      "Pon a prueba tu destreza estratégica en más de 100 mapas de escaramuza aleatorios, ofreciendo rejugabilidad infinita en modos para un jugador, cooperativo y competitivo."
+    ],
+    [
+      "p",
+      "Opciones de mapa variadas – Elige entre 3 tamaños (S, M, L) y 2 configuraciones (unilateral o bilateral) para una experiencia táctica personalizada."
+    ],
+    [
+      "p",
+      "Estilos de juego flexibles – Juega en modo todos contra todos o en cooperativo, con hasta 6 jugadores."
+    ],
+    [
+      "p",
+      "Modificadores de juego – Cambia las reglas con los destinos."
+    ],
+    [
+      "h",
+      "ESTÉTICA ÚNICA ✨"
+    ],
+    [
+      "p",
+      "Sumérgete en un mundo inspirado en el Art Nouveau, donde el brillo y la belleza elevan la experiencia estratégica."
+    ],
+    [
+      "p",
+      "Variedad de facciones – 3 facciones únicas, 13 clases de héroes y 37 variaciones."
+    ],
+    [
+      "p",
+      "Riqueza táctica – Despliega 113 unidades, usa más de 38 artefactos para fortalecer tus ejércitos y más de 150 habilidades para influir en tus batallas, ejércitos y administración del reino."
+    ],
+    [
+      "p",
+      "Diseño de mundo vibrante – Explora 22 ubicaciones únicas en múltiples biomas, cada una con ventajas estratégicas como bonificaciones de recursos, curación de unidades y mejor visibilidad en la niebla de guerra."
+    ],
+    [
+      "h",
+      "ESCENARIOS – ¡Nuevo modo de juego! 📖"
+    ],
+    [
+      "p",
+      "Sumérgete en mapas independientes diseñados para experiencias únicas y abiertas."
+    ],
+    [
+      "p",
+      "Nuevas arcos narrativos – Conoce nuevos personajes y descubre historias que complementan la campaña principal."
+    ],
+    [
+      "p",
+      "Desafíos – Cumple objetivos de distintos niveles para aumentar la rejugabilidad."
+    ],
+    [
+      "p",
+      "Contenido en expansión – Se agregarán escenarios periódicamente, ampliando el juego y sus posibilidades estratégicas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "64-bit Windows 7 or newer"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-8400T CPU @ 1.70GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1050"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i7-7700T CPU @ 2.90GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1070"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_3162b32a69b1fb78bda88223b2d1d23627cf49f3.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_3162b32a69b1fb78bda88223b2d1d23627cf49f3.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_eb3f8e766844113ccd7ab243d914a2d59f2b485f.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_eb3f8e766844113ccd7ab243d914a2d59f2b485f.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_f0ea8397c866463fb38f8dc958cb2ce802b4c39a.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_f0ea8397c866463fb38f8dc958cb2ce802b4c39a.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_824b3f182433648eae94010dc58504b524b74379.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_824b3f182433648eae94010dc58504b524b74379.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/f359e63196da395dbf7d56522b9bed7377bdb9b9/ss_f359e63196da395dbf7d56522b9bed7377bdb9b9.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/f359e63196da395dbf7d56522b9bed7377bdb9b9/ss_f359e63196da395dbf7d56522b9bed7377bdb9b9.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_e6d3ad3a123f571d1dfb0800d48548e7abcd2348.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_e6d3ad3a123f571d1dfb0800d48548e7abcd2348.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_cb82910918c56231fc18ba7afd9021cfbb68e05d.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_cb82910918c56231fc18ba7afd9021cfbb68e05d.1920x1080.jpg?t=1794926410"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_1077d497242bc5b42ca52f62e892e6bb0854bed9.600x338.jpg?t=1794926410",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195410/ss_1077d497242bc5b42ca52f62e892e6bb0854bed9.1920x1080.jpg?t=1794926410"
+    }
+  ],
+  "web": "https://songs-of-silence.com/",
+  "consultado": "2026-11-22T22:29:08.958Z"
+}

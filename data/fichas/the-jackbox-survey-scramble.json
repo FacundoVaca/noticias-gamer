@@ -1,0 +1,274 @@
+{
+  "clave": "the jackbox survey scramble",
+  "v": 5,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "0191dcfe-f7d3-71d9-9279-a1a0a3bf9f14",
+  "appid": "2948640",
+  "lanzamiento": "2024-10-24",
+  "desarrolladores": [
+    "Jackbox Games Inc",
+    "Jackbox Games, Inc.",
+    "Jackbox Games, Inc"
+  ],
+  "editores": [
+    "Jackbox Games, Inc.",
+    "Jackbox Games Inc",
+    "Jackbox Games, Inc"
+  ],
+  "etiquetas": [
+    "Trivia",
+    "Strategy",
+    "Word Game",
+    "PvP",
+    "Board Game"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 320,
+      "url": "https://store.steampowered.com/app/2948640/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/the-jackbox-survey-scramble/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/the-jackbox-survey-scramble/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 17,
+      "url": "https://opencritic.com/game/17504/the-jackbox-survey-scramble"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3349110",
+      "nombre": "The Jackbox Survey Scramble Soundtrack",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 51
+    }
+  ],
+  "descripcion": "¡Descubre cómo piensan otras personas! The Jackbox Survey Scramble es una colección de juegos de fiesta basados en encuestas que usan respuestas monopalábricas de personas reales. ¡De carne y hueso! ¡Invita a tus amigos y poneos a adivinar!",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "23 OCT 2024",
+  "metacritic": null,
+  "nombreSteam": "The Jackbox Survey Scramble",
+  "acerca": [
+    [
+      "p",
+      "¡Descubre cómo piensan otras personas! The Jackbox Survey Scramble es una colección de juegos basados en encuestas que usan respuestas monopalábricas de personas reales. ¡De carne y hueso!"
+    ],
+    [
+      "p",
+      "¡Llega una nueva era de los juegos de fiesta!"
+    ],
+    [
+      "p",
+      "¡Una nueva experiencia festiva de Jackbox! The Jackbox Survey Scramble toma respuestas de encuestas reales realizadas por todo el mundo y cambia en función de ellas, ¡las tuyas incluidas! Invita a tus amigos, familia, compañeros de trabajo y enemigos y descubre en qué piensan al oír preguntas como: «En una sola palabra, ¿cuál es la forma más cuqui de llamar a un culo?», o: «En una sola palabra, ¿cuál es el mejor ingrediente para un bocadillo?»."
+    ],
+    [
+      "p",
+      "Usa tu teléfono o tu tableta: no se necesitan mandos especiales. Pueden jugar entre 2 y 10 jugadores, y haber un público de hasta 10 000 personas."
+    ],
+    [
+      "p",
+      "Los juegos de The Jackbox Survey Scramble están disponibles en inglés, francés, italiano, alemán, español (España), español (LATAM) y portugués de Brasil. También tendremos respuestas localizadas tanto para Reino Unido como para Australia. ¡Crikey!"
+    ],
+    [
+      "p",
+      "Diversos modos de juego"
+    ],
+    [
+      "p",
+      "Altibajos : ¿Serás capaz de adivinar cuáles son los nombres monopalábricos de gato más populares? ¿Y los menos populares? Compite para descubrir cuáles son las respuestas más y menos populares a muchas preguntas. ¡Seguro que los resultados te pillan por sorpresa! Al parecer, mucha gente ha llamado Frank a su gato. Ea, una de regalo."
+    ],
+    [
+      "p",
+      "Prueba de velocidad : Un modo rápido en el que hay que averiguar tantas respuestas de la lista como puedas, en el menor tiempo posible. ¡Sálvese quien pueda en este modo contrarreloj! Los puntos aumentan en cada ronda, ¡y cada vez hay más en juego! ¿Serás capaz de resistir al tiempo?"
+    ],
+    [
+      "p",
+      "Cuadrados : Dos equipos compiten para hacer un tres en raya en una cuadrícula. Adivina las elecciones populares para los primeros cuadrados, algo menos populares para los del medio, y las menos populares para los últimos. Nunca has discutido tan fuerte sobre el atractivo de unos personajes ficticios como lo harás jugando a Cuadrados."
+    ],
+    [
+      "p",
+      "Bota y rebota : Dos equipos controlan una pala equilibrada entre las respuestas más y menos populares. Tu equipo debe adivinar la respuesta que mueva la pala al lugar adecuado e interceptar una pelota; ¡evitad que vuestros oponentes anoten! Pero ¡cuidado! ¡La pelota cada vez va más rápido!"
+    ],
+    [
+      "p",
+      "Carrera : ¡Empieza la carrera! Competirás contra los demás jugadores: debes encontrar la respuesta más popular en una serie de opciones tomadas de una de nuestras listas masivas para avanzar. Progresa más rápido (o sufre una penalización mayor), envía opciones adicionales a la lista de tu oponente para ralentizarlo y sintoniza con la opinión pública para dejar atrás a los demás en el camino a la meta."
+    ],
+    [
+      "p",
+      "Retos : ¡Decide qué hay en juego para los demás jugadores! Tú decides si otro jugador debe adivinar algo que esté más arriba o más abajo en la lista que lo que se ha revelado. Propón un desafío casi imposible... Pero no te sorprendas si lo bordan y se llevan los puntos. Cuando completes una prueba de atrevimiento, gírate, da amor y desafía a otro jugador."
+    ],
+    [
+      "p",
+      "Características clave de The Jackbox Survey Scramble"
+    ],
+    [
+      "p",
+      "Una experiencia personalizada: Personaliza tu juego con filtros de contenido, ajustes para streamers y opciones de accesibilidad."
+    ],
+    [
+      "p",
+      "Jugabilidad infinita: Cada suposición que hagáis se añadirá a la base de datos y, después, al juego como respuesta, de modo que cada vez que juguéis se tratará de una experiencia actualizada."
+    ],
+    [
+      "p",
+      "Un juego para todo el mundo: Hay varios modos para familias, por lo que cualquier tipo de jugador encontrará lo que busca."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10+"
+      ],
+      [
+        "Procesador",
+        "2.66 Ghz Core 2 Duo or Greater"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 500+ / Radeon 5000+ or Greater"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10+"
+      ],
+      [
+        "Procesador",
+        "2.33 GHz Quad Core or Greater"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 600+ / Radeon 6000+"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_0f76176efa7bd1dde86b48bcdfa7d7deb6623600.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_0f76176efa7bd1dde86b48bcdfa7d7deb6623600.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_8a8ae40dd74a89c03841aeefbc650ce6eda0fb8e.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_8a8ae40dd74a89c03841aeefbc650ce6eda0fb8e.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_fd7bf1bd55399bb06ed0efdb483f5d7e8804cd73.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_fd7bf1bd55399bb06ed0efdb483f5d7e8804cd73.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_5f6079485a2b3576ed340ebc8611af02f6fdc26a.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_5f6079485a2b3576ed340ebc8611af02f6fdc26a.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_78a842438fe97ec33db57fb108aebf6c8cb9b29a.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_78a842438fe97ec33db57fb108aebf6c8cb9b29a.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_01f0e77457b37bb89854cd74930ce8bdca196e55.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_01f0e77457b37bb89854cd74930ce8bdca196e55.1920x1080.jpg?t=1748028277"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_b93b21dbb3a1351273587eefdf6b75ad192613cd.600x338.jpg?t=1748028277",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_b93b21dbb3a1351273587eefdf6b75ad192613cd.1920x1080.jpg?t=1748028277"
+    }
+  ],
+  "consultado": "2026-11-22T22:30:51.168Z"
+}
