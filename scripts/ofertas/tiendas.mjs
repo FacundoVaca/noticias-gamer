@@ -85,7 +85,8 @@ export function parseEpicGratis(json) {
 export function parseCheapShark(lista, tienda = "epic") {
   return (lista || []).filter((d) => +d.savings >= 5 && +d.salePrice > 0).map((d) => ({
     id: `${tienda}:cs${d.gameID}`, tienda, id_tienda: `cs${d.gameID}`, titulo: d.title,
-    url: `https://www.cheapshark.com/redirect?dealID=${d.dealID}`, imagen: d.steamAppID ? `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${d.steamAppID}/header.jpg` : d.thumb,
+    // Enlace directo a la tienda de Epic (búsqueda por nombre), sin pasar por la redirección de CheapShark
+    url: `https://store.epicgames.com/es-ES/browse?q=${encodeURIComponent(d.title)}&sortBy=relevancy&sortDir=DESC&count=40`, imagen: d.steamAppID ? `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${d.steamAppID}/header.jpg` : d.thumb,
     plataformas: ["PC"], precio: +d.salePrice, original: +d.normalPrice, moneda: "USD", descuento: Math.round(+d.savings), gratis: false, fin_oferta: null,
     extra: { metacritic: +d.metacriticScore || undefined, via: "CheapShark" },
   }));
