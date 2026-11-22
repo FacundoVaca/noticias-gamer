@@ -43,6 +43,8 @@ jobs:
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           ITAD_API_KEY: ${{ secrets.ITAD_API_KEY }}
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
         run: node scripts/ofertas/actualizar-ofertas.mjs --tiendas "${{ steps.t.outputs.tiendas }}"
       - name: Guardar cambios (Cloudflare publica solo)
         run: |

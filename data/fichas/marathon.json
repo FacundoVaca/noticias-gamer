@@ -1,0 +1,297 @@
+{
+  "clave": "marathon",
+  "v": 2,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-221d-72ee-99a5-238681910c51",
+  "appid": "3065800",
+  "lanzamiento": "2026-03-04",
+  "desarrolladores": [
+    "Bungie"
+  ],
+  "editores": [
+    "Bungie, Inc",
+    "Bungie",
+    "Bungie Inc"
+  ],
+  "etiquetas": [
+    "Extraction Shooter",
+    "PvP",
+    "Multiplayer",
+    "FPS",
+    "Sci-fi"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 45661,
+      "url": "https://store.steampowered.com/app/3065800/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 47,
+      "url": "https://metacritic.com/game/marathon/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 56,
+      "cantidad": 1491,
+      "url": "https://metacritic.com/game/marathon/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 135,
+      "url": "https://opencritic.com/game/20182/marathon"
+    }
+  ],
+  "descripcion": "Explora la colonia perdida de Tau Ceti IV saqueando botín de gran valor en un shooter de supervivencia de alto riesgo en primera persona de los creadores de Halo y Destiny.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "5 MAR 2026",
+  "metacritic": null,
+  "nombreSteam": "Marathon",
+  "acerca": [
+    [
+      "p",
+      "Infíltrate en el oscuro mundo de ciencia ficción de Marathon lleno de jugadores rivales, fuerzas enemigas y peligros impredecibles. Explora sus mapas en solitario o con una brigada, luego lucha por exfiltrarte en combates de PvP y PvE tensos y de alto riesgo."
+    ],
+    [
+      "h",
+      "SOBREVIVE Y PROSPERA"
+    ],
+    [
+      "p",
+      "Explora lugares peligrosos en busca de objetos de valor, botín e información sobre la colonia perdida."
+    ],
+    [
+      "p",
+      "Toma el equipamiento de jugadores y enemigos abatidos. Exfíltrate con éxito y llena tu depósito."
+    ],
+    [
+      "p",
+      "Completa contratos para ganar recompensas, mejorar tu dotación y regresar con más fuerza."
+    ],
+    [
+      "h",
+      "TU ESTRATEGIA, TU CORREDOR"
+    ],
+    [
+      "p",
+      "Elige una carcasa de corredor que encaje con tu estilo de juego; cada una tiene habilidades únicas."
+    ],
+    [
+      "p",
+      "Mejora tu dotación con un arsenal de armas modificables y habilidades personalizables."
+    ],
+    [
+      "p",
+      "Arma innumerables combinaciones de equipamiento, desde infiltradores sigilosos hasta matones de la línea frontal y especialistas de apoyo."
+    ],
+    [
+      "h",
+      "CUENTA CON TU BRIGADA, CONFÍA EN TI"
+    ],
+    [
+      "p",
+      "Forma una brigada de dos o tres jugadores o enfréntate a Tau Ceti en solitario."
+    ],
+    [
+      "p",
+      "Crea alianzas cautelosas que penden de un hilo. Haz tratos con jugadores enemigos o traiciona su confianza para tu propio beneficio."
+    ],
+    [
+      "p",
+      "Juega como ROOK, un chatarrero solitario sin nada que perder, excepto lo que encuentres en el camino."
+    ],
+    [
+      "h",
+      "AVANZA Y AUMENTA TU POTENCIA"
+    ],
+    [
+      "p",
+      "Vuélvete más fuerte durante la temporada y arriesga tu mejor botín para obtener recompensas increíbles."
+    ],
+    [
+      "p",
+      "Asciende y demuestra que eres uno de los mejores corredores en el modo Competitivo."
+    ],
+    [
+      "p",
+      "Entra al Crioarchivo para completar desafíos como los de incursión, resolver rompecabezas en capas y enfrentarte a brigadas rivales por botines de alto nivel."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit (latest Service Pack)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050 Ti (4 GB) / AMD Radeon RX 5500 XT (4 GB) / Intel Arc A580 (8 GB, with ReBAR on)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit (latest Service Pack)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400 / AMD Ryzen 5 3500"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 (6 GB) / AMD Radeon RX 5700 XT (8 GB) / Intel Arc A770 (16 GB, with ReBAR on)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/8d6f12e089ef10ea63ce7dedb75225bc94670480/ss_8d6f12e089ef10ea63ce7dedb75225bc94670480.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/8d6f12e089ef10ea63ce7dedb75225bc94670480/ss_8d6f12e089ef10ea63ce7dedb75225bc94670480.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/43cd320382cb63d6eba654d6fd47d4faf76dac89/ss_43cd320382cb63d6eba654d6fd47d4faf76dac89.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/43cd320382cb63d6eba654d6fd47d4faf76dac89/ss_43cd320382cb63d6eba654d6fd47d4faf76dac89.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/0e2c92f7cdf26d06c793101b26efb572ac8b3102/ss_0e2c92f7cdf26d06c793101b26efb572ac8b3102.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/0e2c92f7cdf26d06c793101b26efb572ac8b3102/ss_0e2c92f7cdf26d06c793101b26efb572ac8b3102.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/2c6cd7296eea42d71cf6ca061adf3853393b3a13/ss_2c6cd7296eea42d71cf6ca061adf3853393b3a13.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/2c6cd7296eea42d71cf6ca061adf3853393b3a13/ss_2c6cd7296eea42d71cf6ca061adf3853393b3a13.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/56d5dedc360ba2744057f5d58f577e40bcd1ac65/ss_56d5dedc360ba2744057f5d58f577e40bcd1ac65.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/56d5dedc360ba2744057f5d58f577e40bcd1ac65/ss_56d5dedc360ba2744057f5d58f577e40bcd1ac65.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/1a2035410e3637918229a6664d2835d036b71176/ss_1a2035410e3637918229a6664d2835d036b71176.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/1a2035410e3637918229a6664d2835d036b71176/ss_1a2035410e3637918229a6664d2835d036b71176.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/0e0f153c268acaa62f40f468f98306a4f8b5dc88/ss_0e0f153c268acaa62f40f468f98306a4f8b5dc88.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/0e0f153c268acaa62f40f468f98306a4f8b5dc88/ss_0e0f153c268acaa62f40f468f98306a4f8b5dc88.1920x1080.jpg?t=1795213517"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/61ca79eb9da9e2d77e10c0ba32c097ea01ebede7/ss_61ca79eb9da9e2d77e10c0ba32c097ea01ebede7.600x338.jpg?t=1795213517",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/61ca79eb9da9e2d77e10c0ba32c097ea01ebede7/ss_61ca79eb9da9e2d77e10c0ba32c097ea01ebede7.1920x1080.jpg?t=1795213517"
+    }
+  ],
+  "web": "https://www.marathonthegame.com/",
+  "consultado": "2026-11-22T22:06:43.435Z"
+}

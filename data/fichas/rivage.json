@@ -1,0 +1,224 @@
+{
+  "clave": "rivage",
+  "v": 2,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "019aeb0f-27a4-71ce-93cd-469d64e404d2",
+  "appid": "4094660",
+  "lanzamiento": "2026-09-22",
+  "desarrolladores": [
+    "Exnilo Studio"
+  ],
+  "editores": [
+    "Raw Fury",
+    "Exnilo Studio"
+  ],
+  "etiquetas": [
+    "Puzzle",
+    "Sci-fi",
+    "Exploration",
+    "First-Person",
+    "Logic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 563,
+      "url": "https://store.steampowered.com/app/4094660/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 66,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/rivage/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/rivage/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 64,
+      "cantidad": 27,
+      "url": "https://opencritic.com/game/21359/rivage"
+    }
+  ],
+  "descripcion": "Rivage es un juego de aventuras y puzles que transcurre en ARES, una estación espacial atrapada en un extraño fenómeno. Cuando Miranda despierta y se da cuenta de que su tripulación ha desaparecido, trata de averiguar su paradero explorando los alrededores y resolviendo intrincados puzles.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "22 SEP 2026",
+  "metacritic": null,
+  "nombreSteam": "Rivage",
+  "acerca": [
+    [
+      "h",
+      "En el siglo XXV, el planeta VESTA es el rayo de esperanza de una humanidad forzada a buscar un hogar fuera de las fronteras del sistema solar. Con el fin de analizar este nuevo planeta y estudiar su viabilidad, la estación espacial ARES entra en órbita. Lo que su tripulación no esperaba era toparse con un fenómeno espacial y sufrir una terrible desgracia."
+    ],
+    [
+      "p",
+      "Ponte en la piel de Miranda, que despierta sin sus compañeros después de que la estación quede atrapada en un extraño fenómeno cósmico. Por suerte, los ecos del pasado te brindan valiosas pistas: un objeto fuera de lugar, una puerta abierta, un mensaje estratégicamente colocado... Miranda no tiene más remedio que confiar en su mente, pues su único modo de sobrevivir es resolver puzles y experimentar con objetos para hallar una explicación a lo sucedido con ARES y su tripulación."
+    ],
+    [
+      "p",
+      "A medida que Miranda va despejando las incógnitas, una verdad sale a flote: todo progreso tiene su coste. Rivage es una aventura con puzles, exploración y lógica, pero también una envolvente historia de ciencia ficción con grandes dosis de misterio. En esta experiencia profundamente bella, cada paso que das te acerca un poco más a la salida."
+    ],
+    [
+      "p",
+      "Sube a bordo de la estación ARES, un entorno interactivo y repleto de detalles donde cada objeto cuenta una historia. Inspecciona artefactos, analiza datos de investigaciones y descubre notas ocultas en los puestos de trabajo abandonados."
+    ],
+    [
+      "p",
+      "La estación, que antes acogía a una tripulación con sueños, miedos y pensamientos propios, ya solo contiene retazos de vidas en forma de diarios, notas personales y mensajes cifrados. Descubre los vínculos que les unían, cómo sobrellevaban el aislamiento y otras ventanas a la vulnerabilidad humana mientras recorres la estación y te sumerges en una experiencia narrativa que une ciencia y misterio."
+    ],
+    [
+      "p",
+      "Todos los puzles de Rivage están vinculados a la historia del juego. Repara sistemas averiados, recalibra mecanismos y resuelve rompecabezas del entorno que desafían la gravedad, juegan con el magnetismo y moldean el tiempo."
+    ],
+    [
+      "p",
+      "Gracias al sistema K9, Miranda registra sus descubrimientos y almacena ciertas soluciones para que puedas centrarte en lo importante: averiguar la verdad sobre las distorsiones que han consumido la estación. El equilibrio de los elementos del juego y el ensalzamiento de la astucia y la perseverancia por encima de la repetición hacen que las mecánicas no pierdan interés con el tiempo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9400F / AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1070 Ti / AMD RX Vega 56"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-11400F / AMD Ryzen 5 5600X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 3060 12 GB / AMD RX 6700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/6a8aef20e8fecd3e8bb59abc17891f06653a96c1/ss_6a8aef20e8fecd3e8bb59abc17891f06653a96c1.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/6a8aef20e8fecd3e8bb59abc17891f06653a96c1/ss_6a8aef20e8fecd3e8bb59abc17891f06653a96c1.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/e34edd0eff7034e82fa5bd845fc025292b1a0820/ss_e34edd0eff7034e82fa5bd845fc025292b1a0820.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/e34edd0eff7034e82fa5bd845fc025292b1a0820/ss_e34edd0eff7034e82fa5bd845fc025292b1a0820.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/41b4be4a7b4d7740f272fe8b3b66632130c5f851/ss_41b4be4a7b4d7740f272fe8b3b66632130c5f851.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/41b4be4a7b4d7740f272fe8b3b66632130c5f851/ss_41b4be4a7b4d7740f272fe8b3b66632130c5f851.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/339292f06b49ceb030fee3ec0cb305e9927d9e43/ss_339292f06b49ceb030fee3ec0cb305e9927d9e43.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/339292f06b49ceb030fee3ec0cb305e9927d9e43/ss_339292f06b49ceb030fee3ec0cb305e9927d9e43.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/de12153985b26351e2a4eb90c52c67deac2faf73/ss_de12153985b26351e2a4eb90c52c67deac2faf73.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/de12153985b26351e2a4eb90c52c67deac2faf73/ss_de12153985b26351e2a4eb90c52c67deac2faf73.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/b0ffc513c17b4f45fe5502e358cec98217f8b88c/ss_b0ffc513c17b4f45fe5502e358cec98217f8b88c.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/b0ffc513c17b4f45fe5502e358cec98217f8b88c/ss_b0ffc513c17b4f45fe5502e358cec98217f8b88c.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/965ce3c29ac245d52938fba8aa14405386b0eac3/ss_965ce3c29ac245d52938fba8aa14405386b0eac3.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/965ce3c29ac245d52938fba8aa14405386b0eac3/ss_965ce3c29ac245d52938fba8aa14405386b0eac3.1920x1080.jpg?t=1794490853"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547/ss_7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547.600x338.jpg?t=1794490853",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094660/7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547/ss_7ae4534d3c6373ec5f9cd47b03cf2cd7be4d2547.1920x1080.jpg?t=1794490853"
+    }
+  ],
+  "web": "https://www.rivagethegame.com/",
+  "consultado": "2026-11-22T22:08:01.057Z"
+}

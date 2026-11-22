@@ -1,0 +1,302 @@
+{
+  "clave": "sos ops",
+  "v": 2,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-75cd-70d4-8dda-a1e5df8e55b1",
+  "appid": "2475460",
+  "lanzamiento": "2023-11-30",
+  "desarrolladores": [
+    "ArtDock"
+  ],
+  "editores": [
+    "ArtDock",
+    "Dreland Enterprises"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Parody ",
+    "Third Person",
+    "Funny",
+    "Physics"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 5749,
+      "url": "https://store.steampowered.com/app/2475460/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/sos-ops/user-reviews/?platform=pc"
+    }
+  ],
+  "descripcion": "SOS OPS! es un caótico juego cooperativo lleno de una enorme variedad de misiones PvE y PvP, que se pueden jugar en línea con hasta 6 jugadores. Sumérgete en escenarios impredecibles, vive situaciones hilarantes, compite, coopera y ¡déjate llevar por el caos!",
+  "generos": [
+    "Aventura",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "30 NOV 2023",
+  "metacritic": null,
+  "nombreSteam": "SOS OPS!",
+  "acerca": [
+    [
+      "h",
+      "SOS OPS! es un juego cooperativo caótico sobre salvar una ciudad, donde tú y tus amigos convertís cada misión en una locura absoluta."
+    ],
+    [
+      "h",
+      "GRAN ACTUALIZACIÓN: MODO PvP"
+    ],
+    [
+      "p",
+      "Una forma totalmente nueva de arruinar amistades."
+    ],
+    [
+      "p",
+      "Elige una arena en el ordenador del juego y lánzate directo al combate."
+    ],
+    [
+      "p",
+      "Configura tú mismo las reglas: límite de tiempo, objetivo de bajas, modo infinito, tasa de aparición de equipo."
+    ],
+    [
+      "p",
+      "Las armas y los potenciadores aparecen en el mapa y luego los pierdes al morir."
+    ],
+    [
+      "p",
+      "5 arenas para empezar: Volcano Crater, SOS Factory, Flight 747, Pirámide, Torre"
+    ],
+    [
+      "h",
+      "Sois un equipo de rescatistas."
+    ],
+    [
+      "p",
+      "En la práctica, eso significa que al menos lo intentáis ."
+    ],
+    [
+      "p",
+      "Alguien apaga un incendio, alguien carga con un gato, alguien deja caer a un compañero desde un tejado por accidente, y alguien más no entendió el objetivo… pero le pone ganas."
+    ],
+    [
+      "h",
+      "La física es eso por lo que o nos amarás, o nos odiarás."
+    ],
+    [
+      "p",
+      "Rompe planes, crea situaciones absurdas y convierte incluso las acciones más simples en una cadena de fallos, gritos (y a veces… victorias)."
+    ],
+    [
+      "p",
+      "Reúne a un equipo de hasta 4 jugadores y lánzate al caos de la ciudad, donde el éxito no se mide por niveles completados, sino por lo fuerte que os reís."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false
+    },
+    {
+      "nombre": "Hindi",
+      "voces": false
+    },
+    {
+      "nombre": "Suajili",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/8.1/10/11 x64"
+      ],
+      [
+        "Procesador",
+        "Intel i3-10100F or equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 x64"
+      ],
+      [
+        "Procesador",
+        "Ryzen 5 2600 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/99d1f93eca12349c8f44bd0636e3b294643a366b/ss_99d1f93eca12349c8f44bd0636e3b294643a366b.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/99d1f93eca12349c8f44bd0636e3b294643a366b/ss_99d1f93eca12349c8f44bd0636e3b294643a366b.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/efd67f52bc97b090cc3a4673dc4ffaa2e3aba1f1/ss_efd67f52bc97b090cc3a4673dc4ffaa2e3aba1f1.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/efd67f52bc97b090cc3a4673dc4ffaa2e3aba1f1/ss_efd67f52bc97b090cc3a4673dc4ffaa2e3aba1f1.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/6386fdd9ceb5eeab879bda5b5c7dd4e53082c1a0/ss_6386fdd9ceb5eeab879bda5b5c7dd4e53082c1a0.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/6386fdd9ceb5eeab879bda5b5c7dd4e53082c1a0/ss_6386fdd9ceb5eeab879bda5b5c7dd4e53082c1a0.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/c049fc3e0a28917aa72237b3275e4cc0784b136d/ss_c049fc3e0a28917aa72237b3275e4cc0784b136d.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/c049fc3e0a28917aa72237b3275e4cc0784b136d/ss_c049fc3e0a28917aa72237b3275e4cc0784b136d.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/c1431e3d1f9ee8ec7261ff30be6b347e0391dffa/ss_c1431e3d1f9ee8ec7261ff30be6b347e0391dffa.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/c1431e3d1f9ee8ec7261ff30be6b347e0391dffa/ss_c1431e3d1f9ee8ec7261ff30be6b347e0391dffa.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/4e218705e3dfd4748a12f24106cdfa63522a072e/ss_4e218705e3dfd4748a12f24106cdfa63522a072e.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/4e218705e3dfd4748a12f24106cdfa63522a072e/ss_4e218705e3dfd4748a12f24106cdfa63522a072e.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/4ae7c2518abf85970c5d04e3f431a29fbd943658/ss_4ae7c2518abf85970c5d04e3f431a29fbd943658.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/4ae7c2518abf85970c5d04e3f431a29fbd943658/ss_4ae7c2518abf85970c5d04e3f431a29fbd943658.1920x1080.jpg?t=1794825359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/06ab1c5ccae3c8eb6ac9851651562fca5bae3779/ss_06ab1c5ccae3c8eb6ac9851651562fca5bae3779.600x338.jpg?t=1794825359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/06ab1c5ccae3c8eb6ac9851651562fca5bae3779/ss_06ab1c5ccae3c8eb6ac9851651562fca5bae3779.1920x1080.jpg?t=1794825359"
+    }
+  ],
+  "web": "https://games.artdock.studio/",
+  "consultado": "2026-11-22T22:08:07.542Z"
+}

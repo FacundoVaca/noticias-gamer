@@ -1,0 +1,283 @@
+{
+  "clave": "gears 5",
+  "v": 3,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-1b7d-7140-87d3-8b830ed96b1d",
+  "appid": "1097840",
+  "lanzamiento": "2019-09-10",
+  "desarrolladores": [
+    "The Coalition"
+  ],
+  "editores": [
+    "Xbox Game Studios"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Third-Person Shooter",
+    "Multiplayer",
+    "Co-op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 21472,
+      "url": "https://store.steampowered.com/app/1097840/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 24,
+      "url": "https://metacritic.com/game/gears-5/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 3758,
+      "url": "https://metacritic.com/game/gears-5/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 85,
+      "cantidad": 152,
+      "url": "https://opencritic.com/game/7402/gears-5"
+    }
+  ],
+  "descripcion": "Llega la nueva entrega de Gears, una de las sagas más aclamadas de la industria, y lo hace a lo grande. En medio de una guerra sin cuartel, Kait Diaz se marcha para desentrañar su conexión con el enemigo y descubrir la auténtica amenaza para Sera: ella misma.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "9 SEP 2019",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/gears-5?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Gears 5",
+  "acerca": [
+    [
+      "p",
+      "Perteneciente a una de las sagas más aclamadas de los videojuegos, Gears 5 vuelve a lanzarse con nuevas características."
+    ],
+    [
+      "p",
+      "Campaña: Con el conflicto bélico totalmente desencadenado, Kait Diaz se evade para averiguar su conexión con el enemigo. Es ahí cuando descubre el verdadero peligro para Sera: ella misma. Las nuevas funciones de campaña te permitirán llevar a tu personaje y diseños de armas a un nuevo nivel y disfrutar de niveles de dificultad y modificadores adicionales."
+    ],
+    [
+      "p",
+      "JcJ: ¡Que gane el mejor equipo! Con nuevos modos y contenido desde el lanzamiento, Enfrentamiento recompensa a todos los estilos competitivos, desde informal hasta profesional."
+    ],
+    [
+      "p",
+      "JcE: Batalla cooperativa por la supervivencia. Reúne a tu pelotón y ponte cómodo en el modo Horda o ábrete paso en el modo Escape."
+    ],
+    [
+      "p",
+      "Campaña cooperativa para tres jugadores: Lucha junto a tus amigos en el modo cooperativo en línea o a pantalla dividida para tres jugadores."
+    ],
+    [
+      "p",
+      "Accesibilidad: Personaliza tu experiencia de juego con funciones de accesibilidad actualizadas, como la reasignación total del mando, movimiento con un solo stick, compatibilidad con Adaptive Controller, interfaz de usuario y menús narrados, subtítulos mejorados y mucho más."
+    ],
+    [
+      "p",
+      "Perfil de Xbox requerido. Inicia sesión con tu perfil o crea uno de forma gratuita."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Subtítulos disponibles",
+    "Compras dentro de la aplicación"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 SP1 64-bit, Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD FX-6000 series | Intel i3 Skylake"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon R9 280 | NVIDIA GeForce GTX 760 (Windows 10) | NVIDIA GeForce GTX 1050 (Windows 7)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "80 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 | Intel i5 Skylake"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 570 | NVIDIA GeForce GTX 970 (Windows 10) | NVIDIA GeForce GTX 1660ti (Windows 7)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "80 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_7f5ef63810c77809b65c19734ba66ea56cf15ee2.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_7f5ef63810c77809b65c19734ba66ea56cf15ee2.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_9429a77bad31287dc7c68a6925eb893eeee65f5e.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_9429a77bad31287dc7c68a6925eb893eeee65f5e.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_4869da09b43f0a38ee69e36c76e9a88d5641f03a.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_4869da09b43f0a38ee69e36c76e9a88d5641f03a.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_fedf48da899ad212d37b0ff7c908d9e93328b13a.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_fedf48da899ad212d37b0ff7c908d9e93328b13a.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_2dcba41c6f051b76f8843bc45e1c7249e63bdc49.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_2dcba41c6f051b76f8843bc45e1c7249e63bdc49.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_e7fdb3837f5a1c6e96be95ae1b4bf311c1f743c2.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_e7fdb3837f5a1c6e96be95ae1b4bf311c1f743c2.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_39f5c0e4c2aa7421cafc12f3173eaf9844bfc174.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_39f5c0e4c2aa7421cafc12f3173eaf9844bfc174.1920x1080.jpg?t=1780003997"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_f3505bb510f695e855b55810c2eb2503c4017843.600x338.jpg?t=1780003997",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/ss_f3505bb510f695e855b55810c2eb2503c4017843.1920x1080.jpg?t=1780003997"
+    }
+  ],
+  "web": "https://gears5.com",
+  "consultado": "2026-11-22T22:13:16.779Z"
+}

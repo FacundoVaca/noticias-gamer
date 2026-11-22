@@ -214,16 +214,59 @@ ${faqHtml({ nombre: "cada tienda" })}`;
         info.generos?.length ? ["Géneros", lista(info.generos.map(e))] : null,
         plataformas.length ? ["Plataformas en oferta", lista(plataformas.map(e))] : null,
       ].filter(Boolean);
-      const resenas = (info.resenas || []).filter((r) => r.puntaje != null).slice(0, 4);
+      const steamR = info.resenasSteam;
+      const resenas = [
+        steamR ? `<b>Usuarios de Steam:</b> ${e(steamR.texto || "")}${steamR.texto ? ", " : ""}${Math.round(steamR.positivas / steamR.total * 100)}% positivas de ${Number(steamR.total).toLocaleString("es-AR")} reseñas` : "",
+        ...(info.resenas || []).filter((r) => r.puntaje != null && !(steamR && /^steam$/i.test(r.fuente))).slice(0, 3)
+          .map((r) => `<b>${e(r.fuente)}:</b> ${e(String(r.puntaje))}${/steam/i.test(r.fuente) ? "% positivas" : "/100"}${r.cantidad ? ` (${Number(r.cantidad).toLocaleString("es-AR")} reseñas)` : ""}`),
+      ].filter(Boolean);
       const fuentes = (info.fuentes || []).map((x) => x === "Steam" ? "la tienda de Steam" : x);
+      // Los datos de Steam (idiomas, características, requisitos) son de la versión de PC: si el juego no está en oferta en Steam, se aclara
+      const deSteamPC = !ofertas.some((g) => g.tienda === "steam") ? " (versión de PC en Steam)" : "";
+      const hayPC = ofertas.some((g) => (g.plataformas || []).some((p) => /pc|windows/i.test(p)) || g.tienda === "steam" || g.tienda === "epic");
+      const acercaLargo = (info.acerca || []).length > 1 ? info.acerca : null;
+      const htmlBloques = (bs) => {
+        let h = "", enLista = false;
+        for (const [t, x] of bs) {
+          if (t === "li" && !enLista) { h += "<ul>"; enLista = true; }
+          if (t !== "li" && enLista) { h += "</ul>"; enLista = false; }
+          h += t === "h" ? `<h3>${e(x)}</h3>` : t === "li" ? `<li>${e(x)}</li>` : `<p>${e(x)}</p>`;
+        }
+        return h + (enLista ? "</ul>" : "");
+      };
+      const idiomasOrd = (info.idiomas || []).slice().sort((a, b) => /^español/i.test(b.nombre) - /^español/i.test(a.nombre));
+      const capturas = (info.capturas || []).filter((c) => /^https:\/\//.test(c.chica) && /^https:\/\//.test(c.grande));
+      const req = hayPC && info.requisitos ? info.requisitos : null;
+      const reqLista = (items) => `<ul>${items.map(([k, v]) => `<li>${k ? `<b>${e(k)}:</b> ` : ""}${e(v)}</li>`).join("")}</ul>`;
       const acerca = info.descripcion || datosJuego.length > 1 ? `<section class="j-acerca" aria-labelledby="j-acerca-tit">
 <h2 id="j-acerca-tit">Sobre ${e(nombre)}</h2>
-${info.descripcion ? `<p>${e(info.descripcion)}</p>` : ""}
+${info.descripcion ? `<p class="j-lead">${e(info.descripcion)}</p>` : ""}
 ${datosJuego.length ? `<dl class="j-ficha">${datosJuego.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl>` : ""}
-${resenas.length ? `<p class="j-resenas"><span>Reseñas:</span> ${resenas.map((r) => `<b>${e(r.fuente)}</b> ${e(String(r.puntaje))}${/steam/i.test(r.fuente) ? "% positivas" : "/100"}${r.cantidad ? ` (${Number(r.cantidad).toLocaleString("es-AR")} reseñas)` : ""}`).join(" · ")}</p>` : ""}
+${resenas.length ? `<ul class="j-resenas">${resenas.map((r) => `<li>${r}</li>`).join("")}</ul>` : ""}
 ${info.etiquetas?.length ? `<p class="o-chips">${info.etiquetas.map((t) => `<span class="o-plat">${e(t)}</span>`).join("")}</p>` : ""}
-${fuentes.length ? `<p class="mini">Datos del juego: ${lista(fuentes)}.</p>` : ""}
+${acercaLargo ? `<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto">${htmlBloques(acercaLargo)}</div></details>` : ""}
 </section>` : "";
+      const galeria = capturas.length ? `<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria">${capturas.map((c, n) => `<a href="${e(c.grande)}" target="_blank" rel="noopener"><img src="${e(c.chica)}" alt="Captura de ${e(nombre)} (${n + 1})" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a>`).join("")}</div>
+</section>` : "";
+      const caract = info.caracteristicas?.length || idiomasOrd.length ? `<section class="j-car">
+${info.caracteristicas?.length ? `<div><h2>Características${deSteamPC}</h2><ul class="j-lista">${info.caracteristicas.map((c) => `<li>${e(c)}</li>`).join("")}</ul></div>` : ""}
+${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${idiomasOrd.map((x) => `<li${/^español/i.test(x.nombre) ? ' class="es"' : ""}>${e(x.nombre)}${x.voces ? ' <span class="voz">con voces</span>' : ""}</li>`).join("")}</ul><p class="mini">${idiomasOrd.some((x) => /^español/i.test(x.nombre)) ? "" : "<b>No tiene textos en español</b> según Steam. "}Todos con textos en pantalla; "con voces" indica audio completo en ese idioma.</p></div>` : ""}
+</section>` : "";
+      const requis = req && (req.minimo || req.recomendado) ? `<section class="j-req" aria-labelledby="j-req-tit">
+<h2 id="j-req-tit">Requisitos del sistema para PC</h2>
+<div class="j-req-cols">${req.minimo ? `<div><h3>Mínimos</h3>${reqLista(req.minimo)}</div>` : ""}${req.recomendado ? `<div><h3>Recomendados</h3>${reqLista(req.recomendado)}</div>` : ""}</div>
+</section>` : "";
+      // Videos: YouTube (IGDB) con carga al tocar; si no hay, los tráileres oficiales que la editora subió a Steam
+      const yt = (info.youtube || []).filter((v) => /^[\w-]{11}$/.test(v.id));
+      const trailers = yt.length ? [] : (info.trailers || []).filter((t) => /^https:\/\//.test(t.mp4 || t.webm || "") && /^https:\/\//.test(t.poster || ""));
+      const videos = yt.length || trailers.length ? `<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid">${yt.map((v) => `<figure><button class="j-yt" type="button" data-id="${v.id}" aria-label="Reproducir ${e(v.nombre || "video")} de ${e(nombre)}"><img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button>${v.nombre ? `<figcaption>${e(v.nombre)}</figcaption>` : ""}</figure>`).join("")}${trailers.map((t) => `<figure><video controls preload="none" playsinline poster="${e(t.poster)}">${t.webm ? `<source src="${e(t.webm)}" type="video/webm">` : ""}${t.mp4 ? `<source src="${e(t.mp4)}" type="video/mp4">` : ""}</video>${t.nombre ? `<figcaption>${e(t.nombre)}</figcaption>` : ""}</figure>`).join("")}</div>
+<p class="mini">${yt.length ? "Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir." : "Tráileres oficiales publicados en la tienda de Steam."}</p>
+</section>` : "";
+      const pieFuentes = fuentes.length ? `<p class="mini j-fuentes">Datos del juego: ${lista(fuentes)}. Los textos y capturas son de la tienda y de su editora.</p>` : "";
 
       // Historial de cada tienda: resumen en texto + gráfico + tabla
       const hist = ofertas.map((g) => {
@@ -250,6 +293,11 @@ ${filasOferta}
 </div>
 ${indexar ? anuncio : ""}
 ${acerca}
+${videos}
+${galeria}
+${caract}
+${requis}
+${pieFuentes}
 <section class="j-hist" aria-labelledby="j-hist-tit">
 <h2 id="j-hist-tit">Historial de precios</h2>
 <p class="mini">Registramos el precio de cada tienda todos los días que el juego está en oferta; los días sin oferta quedan en blanco en el gráfico.</p>
@@ -264,7 +312,8 @@ ${hist}
       const conPrecio = ofertas.filter((g) => !g.gratis && g.precio > 0);
       const ld = {
         "@context": "https://schema.org", "@type": "VideoGame", name: nombre, url: cfg.sitio.url + f.url,
-        ...(imagen ? { image: imagen } : {}),
+        ...(imagen ? { image: [imagen, ...capturas.slice(0, 4).map((c) => c.grande)] } : {}),
+        ...(idiomasOrd.length ? { inLanguage: idiomasOrd.map((x) => x.nombre) } : {}),
         ...(info.descripcion ? { description: info.descripcion } : {}),
         ...(plataformas.length ? { gamePlatform: plataformas } : {}),
         ...(info.generos?.length ? { genre: info.generos } : {}),

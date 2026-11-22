@@ -9,6 +9,20 @@
   var hoy = function () { return new Date(Date.now() - 3 * 3600e3).toISOString().slice(0, 10); }; // hora de Argentina
   var num = function (d) { return Date.parse(d + "T12:00:00Z") / 864e5; };
 
+  // Videos de YouTube: el iframe se carga solo cuando la persona toca reproducir
+  [].slice.call(document.querySelectorAll(".j-yt")).forEach(function (b) {
+    b.addEventListener("click", function () {
+      var f = document.createElement("iframe");
+      f.src = "https://www.youtube-nocookie.com/embed/" + encodeURIComponent(b.dataset.id) + "?autoplay=1&rel=0";
+      f.title = b.getAttribute("aria-label").replace(/^Reproducir /, "");
+      f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+      f.allowFullscreen = true;
+      f.className = "j-yt-frame";
+      b.replaceWith(f);
+      f.focus();
+    });
+  });
+
   // Precio estimado en pesos con impuestos en cada tienda, con la cotización del día; marca la más barata
   var ofertas = [].slice.call(document.querySelectorAll(".j-of[data-precio]"));
   if (ofertas.length) {
