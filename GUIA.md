@@ -99,7 +99,7 @@ Una tarea aparte (**Actions → Actualizar ofertas de juegos**) junta las oferta
 | Steam | Buscador público de la tienda, precios regionales de Argentina (US$), las ~400 más vendidas en oferta | 6 veces por día |
 | Epic | Feed oficial de juegos gratis + descuentos vía CheapShark (con crédito) | 6 veces por día |
 | Xbox | Página pública de ofertas de xbox.com/es-AR (precios en pesos), ~150 juegos | 6 veces por día |
-| PlayStation | Página de ofertas de PlayStation Store Argentina, leída con un navegador (Playwright), primeras 10 páginas (~480) | 2 veces por día |
+| PlayStation | Página de ofertas de PlayStation Store Argentina, leída con un navegador (Playwright), primeras 20 páginas (~480) | 2 veces por día |
 
 **Precio en pesos:** precio de la tienda × dólar oficial (DolarApi) × (1 + IVA 21% + percepción 30%). Para Xbox, que ya viene en pesos, solo se suman los impuestos. Los porcentajes se cambian en `config.json → ofertas.impuestos`. PlayStation lee `ofertas.psPaginas` páginas.
 
