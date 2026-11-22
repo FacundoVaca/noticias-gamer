@@ -40,7 +40,7 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
       : `${g.arsOrig != null && g.original > g.precio ? `<span class="o-antes">${fmt(g.arsOrig)}</span>` : ""}${g.ars != null ? `<span class="o-base">${fmtOrig(g.precio, g.moneda)} en la tienda</span>` : ""}`;
     const chips = (g.plataformas || []).map((p) => `<span class="o-plat">${e(p)}</span>`).join("");
     const minExt = g.minHist && !g.gratis ? g.minHist : null;
-    const enMinimo = g.minimoReal || (minExt && g.precio <= minExt.precio);
+    const enMinimo = g.minimoReal || (minExt && g.precio <= minExt.precio * 1.01); // 1% de margen por redondeo
     const badges = [enMinimo ? `<span class="o-min">Precio más bajo registrado</span>` : "", g.extra?.gamePass ? `<span class="o-gp">En Game Pass</span>` : ""].join("");
     const fin = g.extra?.proximamente ? `Gratis desde el ${finTxt(g.extra.desde)}` : g.fin_oferta ? `Hasta el ${finTxt(g.fin_oferta)}` : "";
     return `<article class="o-card" data-t="${e(g.titulo.toLowerCase())}" data-d="${g.descuento || 0}" data-p="${g.gratis ? 0 : Math.round(g.ars ?? g.precio)}" data-pl="${e((g.plataformas || []).join("|"))}">
