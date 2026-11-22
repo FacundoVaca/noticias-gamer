@@ -1,6 +1,7 @@
 // Junta las ofertas de Steam, Epic, Xbox y PlayStation, las guarda en Neon (historial de precios)
 // y deja una foto de las ofertas vigentes en data/ofertas-juegos.json para armar el sitio.
 // Uso: node scripts/ofertas/actualizar-ofertas.mjs [--tiendas steam,epic,xbox,playstation]
+import { actualizarFichas } from "./fichas.mjs";
 import { TIENDAS } from "./tiendas.mjs";
 import { guardarJSON, leerJSON, ruta, log, config } from "../lib/util.mjs";
 import { construir } from "../build.mjs";
@@ -120,6 +121,7 @@ async function main() {
     juegos = [...sinBase.values()].filter((g) => new Date(g.visto).getTime() > limite);
   }
   juegos = await agregarMinimos(juegos);
+  await actualizarFichas(juegos).catch((err) => log("Fichas: ERROR", err.message));
   guardarJSON(SNAP, { actualizado: new Date().toISOString(), dolar, estado, juegos });
   log(`Foto guardada: ${juegos.length} ofertas vigentes.`);
   construir();

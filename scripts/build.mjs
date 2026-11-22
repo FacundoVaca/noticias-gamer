@@ -50,10 +50,10 @@ x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script>`;
 
-  const pagina = ({ titulo, desc, canon, cuerpo, og = "", ads = true, indexar = true, extraHead = "" }) => `<!doctype html>
+  const pagina = ({ titulo, desc, canon, cuerpo, og = "", ads = true, indexar = true, seguir = false, extraHead = "" }) => `<!doctype html>
 <html lang="${S.idioma}" class="sin-js"><head><meta charset="utf-8"><script>document.documentElement.className="js"</script><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${e(titulo)}</title><meta name="description" content="${e(desc)}">
-<link rel="canonical" href="${S.url}${canon}">${indexar ? "" : '<meta name="robots" content="noindex,nofollow">'}
+<link rel="canonical" href="${S.url}${canon}">${indexar ? "" : `<meta name="robots" content="noindex,${seguir ? "follow" : "nofollow"}">`}
 <meta property="og:site_name" content="${e(S.nombre)}"><meta property="og:title" content="${e(titulo)}"><meta property="og:description" content="${e(desc)}"><meta property="og:url" content="${S.url}${canon}">${og}
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">

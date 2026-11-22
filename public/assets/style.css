@@ -239,7 +239,29 @@ main.wrap{padding-top:30px;padding-bottom:64px}
 .j-img img{width:100%;height:100%;object-fit:cover}
 .j-img .o-desc{font-size:1.15rem;padding:6px 14px}
 .j-info h1{font:800 clamp(2rem,4.6vw,3rem)/1.02 var(--f-disp);margin:0 0 .35em}
-.j-precio{background:var(--panel);border-radius:14px;padding:14px 18px;margin:14px 0 10px}
+.j-sub{color:var(--soft);margin:0 0 14px}
+.j-ofertas{list-style:none;padding:0;margin:0;display:grid;gap:12px}
+.j-of{background:var(--panel);border-radius:14px;padding:14px 18px 16px}
+.j-of-tienda{display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px;margin-bottom:10px}
+.j-of-tienda .o-tienda{font-weight:800}
+.j-of-ed{flex-basis:100%;color:var(--muted);font-size:.85rem}
+.j-mejor{margin-left:auto;background:rgba(163,230,53,.14);color:var(--lime);font-weight:700;font-size:.78rem;padding:4px 9px;border-radius:99px}
+.j-of-precio{display:flex;flex-wrap:wrap;align-items:center;gap:4px 10px}
+.j-of-precio .o-desc{position:static;border-radius:6px;font-size:.85rem;padding:3px 7px}
+.j-of-precio s{color:var(--muted)}
+.j-of .j-datos{margin:10px 0 14px}
+.j-acerca{margin:28px 0}
+.j-acerca h2{font:800 1.7rem/1.1 var(--f-disp);margin:0 0 .4em}
+.j-acerca>p{color:var(--soft);max-width:72ch}
+.j-ficha{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:16px 0}
+.j-ficha div{background:var(--panel);border-radius:12px;padding:12px 14px}
+.j-ficha dt{color:var(--muted);font-size:.78rem;text-transform:uppercase;letter-spacing:.07em;font-weight:700}
+.j-ficha dd{margin:4px 0 0;font-weight:600}
+.j-resenas span{color:var(--muted)}
+.j-hist-t{border-top:1px solid var(--line);padding:6px 0 12px}
+.j-hist-t:first-of-type{border-top:0}
+.j-hist-t h3{font-size:1.05rem;margin:14px 0 6px}
+.j-hist-t>p{color:var(--soft);margin:0 0 6px;font-size:.95rem}
 .j-pesos{margin:0 0 4px;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px}
 .j-pesos strong{font:800 2.4rem/1 var(--f-disp);color:var(--lime);font-variant-numeric:tabular-nums}
 .j-pesos span{color:var(--soft);font-size:.9rem}

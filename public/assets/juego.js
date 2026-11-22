@@ -9,25 +9,38 @@
   var hoy = function () { return new Date(Date.now() - 3 * 3600e3).toISOString().slice(0, 10); }; // hora de Argentina
   var num = function (d) { return Date.parse(d + "T12:00:00Z") / 864e5; };
 
-  // Precio estimado en pesos con impuestos, con la cotización del día
-  var box = $("#j-precio");
-  if (box && +box.dataset.precio > 0) {
+  // Precio estimado en pesos con impuestos en cada tienda, con la cotización del día; marca la más barata
+  var ofertas = [].slice.call(document.querySelectorAll(".j-of[data-precio]"));
+  if (ofertas.length) {
     fetch("/ofertas/cotizacion.json").then(function (r) { return r.json(); }).then(function (c) {
-      var m = box.dataset.moneda, f = 1 + (c.iva || 0) + (c.percepcion || 0);
-      if (m !== "ARS" && !c.oficial) return;
-      var aArs = function (v) { return m === "ARS" ? v * f : v * c.oficial * f; };
-      var p = document.createElement("p");
-      p.className = "j-pesos";
-      p.innerHTML = "<strong></strong><span></span>";
-      p.firstChild.textContent = "≈ " + fmtArs(aArs(+box.dataset.precio));
-      p.lastChild.textContent = "en pesos con impuestos" + (+box.dataset.original > +box.dataset.precio ? " (antes " + fmtArs(aArs(+box.dataset.original)) + ")" : "");
-      box.insertBefore(p, box.firstChild);
+      var f = 1 + (c.iva || 0) + (c.percepcion || 0), mejor = null;
+      ofertas.forEach(function (box) {
+        var m = box.dataset.moneda, pr = +box.dataset.precio;
+        if (!(pr > 0) || (m !== "ARS" && !c.oficial)) return;
+        var aArs = function (v) { return m === "ARS" ? v * f : v * c.oficial * f; };
+        var p = document.createElement("p");
+        p.className = "j-pesos";
+        p.innerHTML = "<strong></strong><span></span>";
+        p.firstChild.textContent = "≈ " + fmtArs(aArs(pr));
+        p.lastChild.textContent = "en pesos con impuestos" + (+box.dataset.original > pr ? " (antes " + fmtArs(aArs(+box.dataset.original)) + ")" : "");
+        box.querySelector(".j-of-precio").insertAdjacentElement("beforebegin", p);
+        box._v = aArs(pr);
+        if (!mejor || box._v < mejor.v) mejor = { v: box._v };
+      });
+      // Si hay empate (diferencia menor al 0,5%) se marcan todas las que empatan
+      var conValor = ofertas.filter(function (b) { return b._v; });
+      var ganan = mejor ? conValor.filter(function (b) { return b._v <= mejor.v * 1.005; }) : [];
+      if (conValor.length > 1 && ganan.length < conValor.length) ganan.forEach(function (box) {
+        var b = document.createElement("span");
+        b.className = "j-mejor"; b.textContent = ganan.length > 1 ? "Más barato hoy (empate)" : "Más barato hoy";
+        box.querySelector(".j-of-tienda").appendChild(b);
+      });
     }).catch(function () {});
   }
 
   // Gráfico escalonado: un tramo por cada período de días seguidos con el mismo precio
-  var el = $("#j-chart");
-  if (!el) return;
+  [].slice.call(document.querySelectorAll(".j-chart")).forEach(grafico);
+  function grafico(el) {
   var tramos = JSON.parse(el.dataset.tramos || "[]"), mon = el.dataset.moneda, orig = +el.dataset.original || 0;
   if (!tramos.length) return;
   var fin = hoy();
@@ -47,7 +60,7 @@
     }
     if (orig) s += '<line class="ref" x1="' + m.l + '" x2="' + (W - m.r) + '" y1="' + Y(orig).toFixed(1) + '" y2="' + Y(orig).toFixed(1) + '"/><text class="ref-t" x="' + (W - m.r) + '" y="' + (Y(orig) - 6).toFixed(1) + '" text-anchor="end">Precio normal ' + fmtM(orig, mon) + "</text>";
     tramos.forEach(function (t) {
-      var a = X(num(t[0])), b = Math.max(X(num(t[1]) + 1), a + 3), y = Y(t[2]).toFixed(1);
+      var a = X(num(t[0])), b = Math.min(W - m.r, Math.max(X(num(t[1]) + 1), a + 3)), y = Y(t[2]).toFixed(1);
       s += '<line class="tramo" x1="' + a.toFixed(1) + '" x2="' + b.toFixed(1) + '" y1="' + y + '" y2="' + y + '"/>';
     });
     s += '<text x="' + m.l + '" y="' + (H - 8) + '">' + dia(tramos[0][0]).slice(0, 5) + '</text><text x="' + (W - m.r) + '" y="' + (H - 8) + '" text-anchor="end">Hoy</text>';
@@ -81,4 +94,5 @@
   }
   dibujar();
   var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(dibujar, 200); });
+  }
 })();

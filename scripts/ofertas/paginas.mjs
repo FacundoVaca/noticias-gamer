@@ -1,7 +1,11 @@
 // Páginas de ofertas en vivo: /ofertas/ (resumen) y /ofertas/<tienda>/ (listado completo con filtros)
 import { leerJSON, ruta } from "../lib/util.mjs";
+import { claveJuego, cargarFichas } from "./fichas.mjs";
 
-const DIAS_PARA_INDEXAR = 14; // una página de juego entra a Google recién con este historial
+// Una ficha de juego entra a Google solo si su historial sirve de verdad: suficientes días con precio
+// registrado, un período razonable y al menos un cambio (si no, el gráfico sería una línea plana).
+// Además tiene que tener datos propios del juego (descripción o desarrolladora y fecha de lanzamiento).
+const CALIDAD = { registros: 14, periodo: 21, tramos: 2 };
 
 export const TIENDAS_INFO = {
   steam: { nombre: "Steam", color: "#66c0f4", plat: "PC",
@@ -33,14 +37,22 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
   const todos = datos.juegos.map((g) => ({ ...g, ars: ars(g.precio, g.moneda), arsOrig: ars(g.original, g.moneda),
     minimoReal: g.dias >= 3 && g.minimo != null && g.precio <= g.minimo }));
   const porTienda = (t) => todos.filter((g) => g.tienda === t && !g.extra?.proximamente);
-  // Página propia de cada juego en oferta: /ofertas/<tienda>/<slug>/ (slug único dentro de la tienda)
-  const usados = new Set();
+  // Una ficha por videojuego en /ofertas/juego/<slug>/: junta las ofertas del mismo juego en distintas tiendas
+  const slugDe = (t) => t.replace(/\s+/g, "-").slice(0, 70).replace(/-+$/, "");
+  const fichasJuego = new Map(), usados = new Set();
   for (const g of todos) {
     if (g.extra?.proximamente) continue;
-    let base = (g.slug || String(g.id).split(":").pop()).slice(0, 70), sl = base, n = 2;
-    while (usados.has(`${g.tienda}/${sl}`)) sl = `${base}-${n++}`;
-    usados.add(`${g.tienda}/${sl}`);
-    g.pagina = `/ofertas/${g.tienda}/${sl}/`;
+    const k = claveJuego(g.titulo);
+    if (!k) continue;
+    if (!fichasJuego.has(k)) {
+      let base = slugDe(k), sl = base, n = 2;
+      while (usados.has(sl)) sl = `${base}-${n++}`;
+      usados.add(sl);
+      fichasJuego.set(k, { clave: k, url: `/ofertas/juego/${sl}/`, ofertas: [] });
+    }
+    const f = fichasJuego.get(k);
+    f.ofertas.push(g);
+    g.pagina = f.url;
   }
 
   const tarjeta = (g, i = 0) => {
@@ -136,61 +148,150 @@ ${faqHtml({ nombre: "cada tienda" })}`;
 
   function paginasJuegos() {
     const historial = leerJSON(ruta("data", "historial.json"), {});
+    const fichas = cargarFichas();
     // Cotización para el precio estimado en pesos: la página lo calcula en el navegador, así el HTML
     // de cada juego solo cambia cuando cambia su precio (y no todos los días con el dólar)
     escribir("ofertas/cotizacion.json", JSON.stringify({ oficial, iva: imp.iva || 0, percepcion: imp.percepcion || 0, fecha: datos.dolar?.fecha || null }));
     const mesAnio = (iso) => new Intl.DateTimeFormat("es-AR", { month: "long", year: "numeric" }).format(new Date(iso));
     const diaLargo = (d) => new Intl.DateTimeFormat("es-AR", { timeZone: "UTC", day: "numeric", month: "long", year: "numeric" }).format(new Date(d + "T12:00:00Z"));
+    const hoy = new Date(Date.now() - 3 * 3600e3).toISOString().slice(0, 10); // fecha en Argentina
+    const dnum = (d) => Math.round(Date.parse(d + "T12:00:00Z") / 864e5);
+    const lista = (xs) => xs.length > 1 ? `${xs.slice(0, -1).join(", ")} y ${xs[xs.length - 1]}` : xs[0] || "";
+    const ORDEN = ["steam", "epic", "xbox", "playstation"];
+
+    // Qué tan útil es el historial de una oferta (solo se usa para decidir si se indexa; no se muestra)
+    const evaluar = (tramos) => {
+      const validos = tramos.filter((t) => t[2] > 0);
+      if (!validos.length || validos.length !== tramos.length) return { util: false };
+      const registros = validos.reduce((s, [d, h]) => s + dnum(h || hoy) - dnum(d) + 1, 0);
+      const periodo = dnum(hoy) - dnum(validos[0][0]) + 1;
+      return { util: registros >= CALIDAD.registros && periodo >= CALIDAD.periodo && validos.length >= CALIDAD.tramos };
+    };
+    // Resumen en texto del historial, visible sin JavaScript (para lectores y buscadores)
+    const resumen = (tramos, g, T) => {
+      const min = tramos.reduce((a, t) => t[2] < a[2] ? t : a), max = tramos.reduce((a, t) => t[2] > a[2] ? t : a);
+      const cambios = tramos.slice(1).filter((t, i) => t[2] !== tramos[i][2]).length;
+      let txt = `Seguimos el precio de ${e(g.titulo)} en ${T.nombre} desde el ${diaLargo(tramos[0][0])}. `;
+      txt += min[2] === max[2] ? `En todos los días con oferta que registramos costó ${fmtOrig(min[2], g.moneda)}.`
+        : `El precio más bajo que registramos fue ${fmtOrig(min[2], g.moneda)} (desde el ${diaLargo(min[0])}) y el más alto, ${fmtOrig(max[2], g.moneda)}.`;
+      if (cambios) txt += ` Cambió de precio ${cambios === 1 ? "una vez" : `${cambios} veces`}.`;
+      return txt;
+    };
+
     const out = [];
-    for (const g of todos) {
-      if (!g.pagina) continue;
-      const T = TIENDAS_INFO[g.tienda];
-      const tramos = historial[g.id] || [];
-      const indexar = (g.dias || 0) >= DIAS_PARA_INDEXAR;
-      if (indexar) out.push(g.pagina);
-      const minExt = g.minHist && !g.gratis ? g.minHist : null;
-      const minPropio = g.dias >= 3 && g.minimo != null ? g.minimo : null;
-      const enMinimo = !g.gratis && ((minPropio != null && g.precio <= minPropio) || (minExt && g.precio <= minExt.precio * 1.01));
-      const filas = tramos.slice().reverse().map(([d, h, p]) => `<tr><td>${diaLargo(d)}</td><td>${h ? diaLargo(h) : "Sigue hoy"}</td><td class="num">${fmtOrig(p, g.moneda)}</td></tr>`).join("");
-      const cuerpo = `<nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/${g.tienda}/">${T.nombre}</a></nav>
+    let nIdx = 0;
+    for (const f of fichasJuego.values()) {
+      const ofertas = f.ofertas.slice().sort((a, b) => ORDEN.indexOf(a.tienda) - ORDEN.indexOf(b.tienda));
+      const info = fichas[f.clave] || {};
+      const principal = ofertas.find((g) => g.tienda === "steam") || ofertas.slice().sort((a, b) => a.titulo.length - b.titulo.length)[0];
+      const nombre = principal.titulo;
+      const imagen = principal.imagen || ofertas.find((g) => g.imagen)?.imagen || null;
+      const tiendas = [...new Set(ofertas.map((g) => TIENDAS_INFO[g.tienda].nombre))];
+      const plataformas = [...new Set(ofertas.flatMap((g) => g.plataformas || []))];
+      const tieneInfo = !!(info.descripcion || (info.desarrolladores?.length && (info.lanzamiento || info.lanzamientoTexto)));
+      const histUtil = ofertas.some((g) => evaluar(historial[g.id] || []).util);
+      const indexar = tieneInfo && histUtil;
+      if (indexar) { out.push(f.url); nIdx++; }
+
+      // Precio de hoy en cada tienda (el valor en pesos lo agrega juego.js con la cotización del día)
+      const filasOferta = ofertas.map((g) => {
+        const T = TIENDAS_INFO[g.tienda];
+        const minExt = g.minHist && !g.gratis ? g.minHist : null;
+        const minPropio = g.dias >= 3 && g.minimo != null ? g.minimo : null;
+        const enMinimo = !g.gratis && ((minPropio != null && g.precio <= minPropio) || (minExt && g.precio <= minExt.precio * 1.01));
+        return `<li class="j-of" data-precio="${g.gratis ? 0 : g.precio}" data-original="${g.original || 0}" data-moneda="${g.moneda}">
+<div class="j-of-tienda"><span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${(g.plataformas || []).map((p) => `<span class="o-plat">${e(p)}</span>`).join("")}${ofertas.filter((o) => o.tienda === g.tienda).length > 1 ? `<span class="j-of-ed">${e(g.titulo)}</span>` : ""}</div>
+<div class="j-of-precio"><span class="j-ars-val">${g.gratis ? "Gratis" : fmtOrig(g.precio, g.moneda)}</span>${g.descuento ? `<span class="o-desc">-${g.descuento}%</span>` : ""}${!g.gratis && g.original > g.precio ? `<s>${fmtOrig(g.original, g.moneda)}</s>` : ""}<span class="j-ars-nota">${g.gratis ? "por tiempo limitado" : g.moneda === "ARS" ? "precio de la tienda, sin impuestos" : "precio de la tienda"}</span></div>
+<ul class="j-datos">${g.fin_oferta ? `<li>Oferta hasta el ${finTxt(g.fin_oferta)}</li>` : ""}${enMinimo ? `<li><span class="o-min">Precio más bajo registrado</span></li>` : ""}${minExt ? `<li>Mínimo histórico: <b>${fmtOrig(minExt.precio, g.moneda)}</b>${minExt.fecha ? ` en ${mesAnio(minExt.fecha)}` : ""} (según ${e(minExt.fuente)})</li>` : ""}${minPropio != null && !enMinimo ? `<li>Mínimo que registramos: <b>${fmtOrig(minPropio, g.moneda)}</b></li>` : ""}${g.extra?.gamePass ? "<li>Incluido en Game Pass</li>" : ""}</ul>
+<a class="j-btn" href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank">Ver en ${T.nombre}</a></li>`;
+      }).join("\n");
+
+      // Datos del juego, solo los que trae alguna fuente
+      const datosJuego = [
+        info.desarrolladores?.length ? ["Desarrolladora", lista(info.desarrolladores.map(e))] : null,
+        info.editores?.length ? ["Editora", lista(info.editores.map(e))] : null,
+        info.lanzamiento ? ["Lanzamiento", diaLargo(info.lanzamiento)] : info.lanzamientoTexto ? ["Lanzamiento", e(info.lanzamientoTexto)] : null,
+        info.generos?.length ? ["Géneros", lista(info.generos.map(e))] : null,
+        plataformas.length ? ["Plataformas en oferta", lista(plataformas.map(e))] : null,
+      ].filter(Boolean);
+      const resenas = (info.resenas || []).filter((r) => r.puntaje != null).slice(0, 4);
+      const fuentes = (info.fuentes || []).map((x) => x === "Steam" ? "la tienda de Steam" : x);
+      const acerca = info.descripcion || datosJuego.length > 1 ? `<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre ${e(nombre)}</h2>
+${info.descripcion ? `<p>${e(info.descripcion)}</p>` : ""}
+${datosJuego.length ? `<dl class="j-ficha">${datosJuego.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl>` : ""}
+${resenas.length ? `<p class="j-resenas"><span>Reseñas:</span> ${resenas.map((r) => `<b>${e(r.fuente)}</b> ${e(String(r.puntaje))}${/steam/i.test(r.fuente) ? "% positivas" : "/100"}${r.cantidad ? ` (${Number(r.cantidad).toLocaleString("es-AR")} reseñas)` : ""}`).join(" · ")}</p>` : ""}
+${info.etiquetas?.length ? `<p class="o-chips">${info.etiquetas.map((t) => `<span class="o-plat">${e(t)}</span>`).join("")}</p>` : ""}
+${fuentes.length ? `<p class="mini">Datos del juego: ${lista(fuentes)}.</p>` : ""}
+</section>` : "";
+
+      // Historial de cada tienda: resumen en texto + gráfico + tabla
+      const hist = ofertas.map((g) => {
+        const T = TIENDAS_INFO[g.tienda], tramos = historial[g.id] || [];
+        const tit = `Historial de precio en ${T.nombre}${ofertas.filter((o) => o.tienda === g.tienda).length > 1 ? ` (${e(g.titulo)})` : ""}`;
+        if (!tramos.length) return `<div class="j-hist-t"><h3>${tit}</h3><p class="mini">Todavía no tenemos días suficientes para mostrar un gráfico. Registramos el precio todos los días que el juego está en oferta.</p></div>`;
+        const filas = tramos.slice().reverse().map(([d, h, p]) => `<tr><td>${diaLargo(d)}</td><td>${h ? diaLargo(h) : "Sigue hoy"}</td><td class="num">${fmtOrig(p, g.moneda)}</td></tr>`).join("");
+        return `<div class="j-hist-t"><h3>${tit}</h3><p>${resumen(tramos, g, T)}</p>
+<div class="j-chart" data-tramos='${e(JSON.stringify(tramos))}' data-moneda="${g.moneda}" data-original="${g.original || 0}"></div>
+<details class="j-tabla"><summary>Ver los datos en una tabla</summary><table><thead><tr><th>Desde</th><th>Hasta</th><th class="num">Precio</th></tr></thead><tbody>${filas}</tbody></table></details></div>`;
+      }).join("\n");
+
+      const cuerpo = `<nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › ${ofertas.length === 1 ? `<a href="/ofertas/${ofertas[0].tienda}/">${TIENDAS_INFO[ofertas[0].tienda].nombre}</a> › ` : ""}<span>${e(nombre)}</span></nav>
 <article class="juego">
 <div class="j-top">
-<div class="j-img"><img src="${e(g.imagen || "/assets/portada.svg")}" alt="${e(g.titulo)}" referrerpolicy="no-referrer" width="460" height="215">${g.descuento ? `<span class="o-desc">-${g.descuento}%</span>` : ""}</div>
+<div class="j-img"><img src="${e(imagen || "/assets/portada.svg")}" alt="${e(nombre)}" referrerpolicy="no-referrer" width="460" height="215"></div>
 <div class="j-info">
-<h1>${e(g.titulo)}</h1>
-<p class="o-chips"><span class="o-tienda" style="color:${T.color}">${T.nombre}</span>${(g.plataformas || []).map((p) => `<span class="o-plat">${e(p)}</span>`).join("")}</p>
-<div class="j-precio" id="j-precio" data-precio="${g.gratis ? 0 : g.precio}" data-original="${g.original || 0}" data-moneda="${g.moneda}">
-<p class="j-ars"><span class="j-ars-val">${g.gratis ? "Gratis" : fmtOrig(g.precio, g.moneda)}</span>${g.gratis ? "" : `<span class="j-ars-nota">${g.moneda === "ARS" ? "precio de la tienda, sin impuestos" : "precio de la tienda"}</span>`}</p>
-${!g.gratis && g.original > g.precio ? `<p class="j-antes">Precio normal: <s>${fmtOrig(g.original, g.moneda)}</s></p>` : ""}
-</div>
-${enMinimo ? `<p class="o-badges"><span class="o-min">Precio más bajo registrado</span></p>` : ""}
-<ul class="j-datos">
-${g.fin_oferta ? `<li>Oferta hasta el ${finTxt(g.fin_oferta)}</li>` : ""}
-${minExt ? `<li>Mínimo histórico: <b>${fmtOrig(minExt.precio, g.moneda)}</b>${minExt.fecha ? ` en ${mesAnio(minExt.fecha)}` : ""} (según ${e(minExt.fuente)})</li>` : ""}
-${minPropio != null ? `<li>Mínimo que registramos: <b>${fmtOrig(minPropio, g.moneda)}</b></li>` : ""}
-${g.extra?.gamePass ? "<li>Incluido en Game Pass</li>" : ""}
+<h1>${e(nombre)}</h1>
+<p class="j-sub">${ofertas.length > 1 ? `En oferta en ${lista(tiendas)}. Compará el precio de cada tienda en pesos con impuestos.` : `En oferta en ${tiendas[0]}.`}</p>
+<ul class="j-ofertas">
+${filasOferta}
 </ul>
-<a class="j-btn" href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank">Ver en ${T.nombre}</a>
 </div>
 </div>
-${anuncio}
+${indexar ? anuncio : ""}
+${acerca}
 <section class="j-hist" aria-labelledby="j-hist-tit">
-<h2 id="j-hist-tit">Historial de precio en ${T.nombre}</h2>
-${tramos.length ? `<p class="mini">Registramos el precio de la tienda cada día que el juego está en oferta${tramos[0] ? `, desde el ${diaLargo(tramos[0][0])}` : ""}. Los días sin oferta quedan en blanco.</p>
-<div class="j-chart" id="j-chart" data-tramos='${e(JSON.stringify(tramos))}' data-moneda="${g.moneda}" data-original="${g.original || 0}"></div>
-<details class="j-tabla"><summary>Ver los datos en una tabla</summary><table><thead><tr><th>Desde</th><th>Hasta</th><th class="num">Precio</th></tr></thead><tbody>${filas}</tbody></table></details>`
-  : `<p class="mini">Todavía no tenemos días suficientes para mostrar un gráfico. Registramos el precio todos los días que el juego está en oferta.</p>`}
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Registramos el precio de cada tienda todos los días que el juego está en oferta; los días sin oferta quedan en blanco en el gráfico.</p>
+${hist}
 </section>
-<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA ${pct(imp.iva)}% y percepción ${pct(imp.percepcion)}%. Es una estimación: el precio final lo define tu banco. <a href="/ofertas/">Ver todas las ofertas</a>.</p></aside>
-<p><a href="/ofertas/${g.tienda}/">Ver todas las ofertas de ${T.nombre}</a></p>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA ${pct(imp.iva)}% y percepción ${pct(imp.percepcion)}%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p>${[...new Set(ofertas.map((g) => g.tienda))].map((t) => `<a href="/ofertas/${t}/">Ver todas las ofertas de ${TIENDAS_INFO[t].nombre}</a>`).join(" · ")}</p>
 </article>
 <script src="/assets/juego.js" defer></script>`;
-      escribir(g.pagina.slice(1) + "index.html", pagina({
-        titulo: `${g.titulo}: precio en Argentina e historial en ${T.nombre} | ${cfg.sitio.nombre}`,
-        desc: `Precio de ${g.titulo} en ${T.nombre} Argentina, con el valor estimado en pesos con impuestos, el mínimo histórico y el historial de precios.`,
-        canon: g.pagina, cuerpo, indexar, ads: indexar,
-        og: g.imagen ? `<meta property="og:image" content="${e(g.imagen)}">` : "" }));
+
+      // Datos estructurados: solo lo que se muestra en la página y viene de una fuente
+      const conPrecio = ofertas.filter((g) => !g.gratis && g.precio > 0);
+      const ld = {
+        "@context": "https://schema.org", "@type": "VideoGame", name: nombre, url: cfg.sitio.url + f.url,
+        ...(imagen ? { image: imagen } : {}),
+        ...(info.descripcion ? { description: info.descripcion } : {}),
+        ...(plataformas.length ? { gamePlatform: plataformas } : {}),
+        ...(info.generos?.length ? { genre: info.generos } : {}),
+        ...(info.desarrolladores?.length ? { author: info.desarrolladores.map((n) => ({ "@type": "Organization", name: n })) } : {}),
+        ...(info.editores?.length ? { publisher: info.editores.map((n) => ({ "@type": "Organization", name: n })) } : {}),
+        ...(info.lanzamiento ? { datePublished: info.lanzamiento } : {}),
+        ...(conPrecio.length ? { offers: conPrecio.map((g) => ({ "@type": "Offer", price: g.precio, priceCurrency: g.moneda, url: g.url,
+          availability: "https://schema.org/InStock", seller: { "@type": "Organization", name: TIENDAS_INFO[g.tienda].nombre },
+          ...(g.fin_oferta ? { priceValidUntil: g.fin_oferta.slice(0, 10) } : {}) })) } : {}),
+      };
+      const migasLd = { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
+        { "@type": "ListItem", position: 1, name: "Ofertas", item: cfg.sitio.url + "/ofertas/" },
+        { "@type": "ListItem", position: 2, name: nombre, item: cfg.sitio.url + f.url }] };
+      const ldTxt = indexar ? [ld, migasLd].map((x) => `<script type="application/ld+json">${JSON.stringify(x).replace(/</g, "\\u003c")}</script>`).join("") : "";
+
+      const masBarata = conPrecio.length ? conPrecio.reduce((a, g) => (g.moneda === "USD" && a.moneda === "USD" && g.precio < a.precio) ? g : a) : null;
+      const desc = [
+        `${nombre} en oferta en ${lista(tiendas)}${masBarata && conPrecio.every((g) => g.moneda === masBarata.moneda) ? `: desde ${fmtOrig(masBarata.precio, masBarata.moneda)}${masBarata.descuento ? ` (-${masBarata.descuento}%)` : ""}` : ""}.`,
+        info.generos?.length ? `${lista(info.generos.slice(0, 2))}${info.desarrolladores?.length ? ` de ${info.desarrolladores[0]}` : ""}.` : "",
+        "Historial de precios, mínimo histórico y precio estimado en pesos con impuestos.",
+      ].filter(Boolean).join(" ");
+      escribir(f.url.slice(1) + "index.html", pagina({
+        titulo: `${nombre}: precio en Argentina e historial${ofertas.length > 1 ? "" : ` en ${tiendas[0]}`} | ${cfg.sitio.nombre}`,
+        desc, canon: f.url, cuerpo, indexar, seguir: true, ads: indexar, extraHead: ldTxt,
+        og: imagen ? `<meta property="og:image" content="${e(imagen)}">` : "" }));
     }
+    console.log(`Fichas de juegos: ${fichasJuego.size} (${nIdx} indexables).`);
     return out;
   }
 }
