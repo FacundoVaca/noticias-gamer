@@ -1,0 +1,405 @@
+{
+  "clave": "the crew motorfest grand garage edition",
+  "v": 4,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "01a11597-9960-7013-b580-a4454d4fff67",
+  "appid": "2698940",
+  "lanzamiento": "2024-04-18",
+  "desarrolladores": [
+    "Ubisoft",
+    "Ubisoft Ivory Tower"
+  ],
+  "editores": [
+    "Ubisoft"
+  ],
+  "etiquetas": [
+    "Racing",
+    "Open World",
+    "Driving",
+    "Multiplayer",
+    "Arcade"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 78,
+      "cantidad": 25310,
+      "url": "https://store.steampowered.com/app/2698940/"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 22,
+  "dlcLista": [
+    {
+      "appid": "4922020",
+      "nombre": "The Crew Motorfest | Pase anual 4",
+      "gratis": false,
+      "precio": "$23.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4922000",
+      "nombre": "The Crew Motorfest - Pack de Tomb Raider",
+      "gratis": false,
+      "precio": "$7.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4921940",
+      "nombre": "The Crew Motorfest - Pack de coches alemanes",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4921960",
+      "nombre": "The Crew Motorfest - Pack coches triple Mitsubishi",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4921980",
+      "nombre": "The Crew Motorfest - Pack de Dirt",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917380",
+      "nombre": "The Crew Motorfest | Pase anual 3",
+      "gratis": false,
+      "precio": "$7.91",
+      "antes": "$23.99",
+      "descuento": 67
+    },
+    {
+      "appid": "3251420",
+      "nombre": "The Crew Motorfest | Year 2 Pass",
+      "gratis": false,
+      "precio": "$7.91",
+      "antes": "$23.99",
+      "descuento": 67
+    },
+    {
+      "appid": "2805000",
+      "nombre": "The Crew Motorfest | Year 1 Pass",
+      "gratis": false,
+      "precio": "$7.91",
+      "antes": "$23.99",
+      "descuento": 67
+    },
+    {
+      "appid": "4160500",
+      "nombre": "The Crew Motorfest | RC Frenzy Pack",
+      "gratis": false,
+      "precio": "$5.59",
+      "antes": "$7.99",
+      "descuento": 30
+    },
+    {
+      "appid": "4160650",
+      "nombre": "The Crew Motorfest | Pack de coches doble Audi",
+      "gratis": false,
+      "precio": "$2.39",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4160670",
+      "nombre": "The Crew Motorfest | Pack de motos triple",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4160690",
+      "nombre": "The Crew Motorfest | Pack de coches japoneses",
+      "gratis": false,
+      "precio": "$5.59",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917400",
+      "nombre": "The Crew Motorfest | Pack Chase Squad",
+      "gratis": false,
+      "precio": "$7.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917430",
+      "nombre": "The Crew Motorfest | Pack de coches doble BMW",
+      "gratis": false,
+      "precio": "$2.39",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917450",
+      "nombre": "The Crew Motorfest | Pack de coches doble Alfa Romeo",
+      "gratis": false,
+      "precio": "$2.39",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917470",
+      "nombre": "The Crew Motorfest | Pack de coches triple Ford",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917500",
+      "nombre": "The Crew Motorfest | Pack de coches triple Porsche",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3917520",
+      "nombre": "The Crew Motorfest | JDM Car Pack",
+      "gratis": false,
+      "precio": "$5.59",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2849030",
+      "nombre": "Audi R8 Spyder Welcome Pack (+220,000 Crew Credits) – The Crew Motorfest",
+      "gratis": false,
+      "precio": "$15.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4670550",
+      "nombre": "The Crew Motorfest - Drift Pack",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4670570",
+      "nombre": "The Crew Motorfest - Dodge Pack",
+      "gratis": false,
+      "precio": "$2.39",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4670590",
+      "nombre": "The Crew Motorfest - Chevrolet Pack",
+      "gratis": false,
+      "precio": "$3.99",
+      "antes": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Te damos la bienvenida a Motorfest, la experiencia de conducción en mundo abierto definitiva! Explora un precioso campo de juegos hawaiano que se actualiza constantemente con nuevas ubicaciones, desafíos y vehículos. ¡Pruébalo gratis durante 5 horas!",
+  "generos": [
+    "Carreras"
+  ],
+  "lanzamientoTexto": "18 ABR 2024",
+  "metacritic": null,
+  "nombreSteam": "The Crew Motorfest",
+  "acerca": [
+    [
+      "p",
+      "¡Disfruta gratis del juego durante cinco horas!"
+    ],
+    [
+      "p",
+      "¡Consigue tu entrada para Motorfest, pon a prueba tu habilidad y vive las experiencias de conducción más emocionantes que la cultura automovilística puede ofrecer!"
+    ],
+    [
+      "p",
+      "Descubre las playlists y sumérgete en campañas temáticas en las que podrás disfrutar de los universos más fascinantes de la cultura automovilística, como el de los muscle cars norteamericanos, las carreras callejeras al estilo japonés y los vehículos legendarios del pasado."
+    ],
+    [
+      "p",
+      "Domina cada desafío de conducción y construye tu colección con los vehículos más legendarios jamás creados. Personaliza tus coches y presume de estilo en el Custom Show."
+    ],
+    [
+      "p",
+      "The Crew Motorfest se ha instalado en uno de los lugares más hermosos de la Tierra: la isla de O'ahu, en Hawái. Participa en carreras urbanas a máxima velocidad en la bulliciosa ciudad de Honolulu, pon a prueba tu habilidad en laderas cubiertas de ceniza de volcán y domina los derrapes en circuitos."
+    ],
+    [
+      "p",
+      "Domina todo tipo de vehículos en Grand Race y supera a otros 28 pilotos. Adéntrate en el caos puro de Demolition Royale, donde ocho equipos luchan por ser el último en pie. ¡Atrévete con Summit Contest y completa desafíos para dominar los marcadores!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Subtítulos disponibles",
+    "Compras dentro de la aplicación",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64 bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460, AMD Ryzen5 1400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 480 8GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 (64 bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400, AMD Ryzen7 2700X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 5700XT 8GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_933b5c1de0571f4e0c26c39ca3a4f68a314b2e38.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_933b5c1de0571f4e0c26c39ca3a4f68a314b2e38.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/404d4a443efc6ff31eab3902e932f836ee83ec94/ss_404d4a443efc6ff31eab3902e932f836ee83ec94.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/404d4a443efc6ff31eab3902e932f836ee83ec94/ss_404d4a443efc6ff31eab3902e932f836ee83ec94.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9a2fa8f4677c72372031f31a53aa03ed4e2b56ac/ss_9a2fa8f4677c72372031f31a53aa03ed4e2b56ac.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9a2fa8f4677c72372031f31a53aa03ed4e2b56ac/ss_9a2fa8f4677c72372031f31a53aa03ed4e2b56ac.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/737e29396443e6823bb281a4865a3a4fcd4febba/ss_737e29396443e6823bb281a4865a3a4fcd4febba.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/737e29396443e6823bb281a4865a3a4fcd4febba/ss_737e29396443e6823bb281a4865a3a4fcd4febba.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_d88a7b6cf59355545b0a90a8254379edd423cc06.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_d88a7b6cf59355545b0a90a8254379edd423cc06.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9578ba65a95bcd549c56217fd042a6dec08664d0/ss_9578ba65a95bcd549c56217fd042a6dec08664d0.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/9578ba65a95bcd549c56217fd042a6dec08664d0/ss_9578ba65a95bcd549c56217fd042a6dec08664d0.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_cc6671d73199ac2c8f7a9f0cf348ff1b42801812.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_cc6671d73199ac2c8f7a9f0cf348ff1b42801812.1920x1080.jpg?t=1791551745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_bcb037c118f6b8aff2c6b539c07ca8323d780ae3.600x338.jpg?t=1791551745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698940/ss_bcb037c118f6b8aff2c6b539c07ca8323d780ae3.1920x1080.jpg?t=1791551745"
+    }
+  ],
+  "consultado": "2026-11-22T22:25:34.167Z"
+}

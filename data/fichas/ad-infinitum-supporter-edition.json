@@ -1,0 +1,271 @@
+{
+  "clave": "ad infinitum supporter edition",
+  "v": 4,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-7356-705b-9fcf-2e8e2383046c",
+  "appid": "1234430",
+  "lanzamiento": "2023-09-01",
+  "desarrolladores": [
+    "Hekate"
+  ],
+  "editores": [
+    "Plugin Digital",
+    "Nacon",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Horror",
+    "Psychological Horror",
+    "Action",
+    "First-Person",
+    "Atmospheric"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 1229,
+      "url": "https://store.steampowered.com/app/1234430/"
+    }
+  ],
+  "tipo": "juego",
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2361650",
+      "nombre": "Ad Infinitum Soundtrack",
+      "gratis": false,
+      "precio": "$3.39",
+      "antes": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2361660",
+      "nombre": "Ad Infinitum - Digital Artbook",
+      "gratis": false,
+      "precio": "$2.99",
+      "antes": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Cuando la realidad es una pesadilla, las pesadillas se hacen realidad. En este juego de terror psicológico, luchas con las terroríficas criaturas que invaden tu mente. ¿Podrás conservar la cordura?",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "14 SEP 2023",
+  "metacritic": {
+    "puntaje": 68,
+    "url": "https://www.metacritic.com/game/pc/ad-infinitum?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Ad Infinitum",
+  "acerca": [
+    [
+      "p",
+      "Atrapado entre los muros de tu hogar familiar y las trincheras de la Primera Guerra Mundial, intentas recomponer las piezas de tu pasado y recuperar el control sobre tu vida."
+    ],
+    [
+      "h",
+      "ROMPE EL CICLO"
+    ],
+    [
+      "p",
+      "¿Terminará algún día la pesadilla de la guerra? ¿Encontrarás la paz interior algún día? En Ad Infinitum te metes en la piel de un soldado alemán atormentado por los horrores de la Gran Guerra. Mientras tu mente lucha con los recuerdos de tu hogar familiar y de las trincheras del frente, intentas romper el ciclo interminable de sufrimiento."
+    ],
+    [
+      "h",
+      "ENTRE UN SUEÑO Y LA REALIDAD"
+    ],
+    [
+      "p",
+      "Despiertas en tu dormitorio, igual que en tus años de adolescencia, en una mansión destartalada y desierta. De repente, de manera inexplicable, te ves transportado a las trincheras, donde los horrores de la guerra se ven eclipsados por criaturas viles y aún más terroríficas. Incapaz de distinguir entre realidad y pesadilla, debes luchar por recuperar el control sobre la narrativa de tu vida."
+    ],
+    [
+      "h",
+      "PESADILLAS QUE SE HACEN REALIDAD"
+    ],
+    [
+      "p",
+      "Pesadillas innombrables cobran vida en los rincones de tu mente. Para escapar de las trampas mortales y las criaturas terroríficas, debes comprender el origen y la motivación de cada monstruo y resolver los puzles que se interponen en tu camino. Desde demonios ciegos que oyen tus más suaves pisadas hasta espantosos títeres descoyuntados que se mueven en la oscuridad, el horror acecha tras cada esquina."
+    ],
+    [
+      "h",
+      "UNA FAMILIA DESTROZADA"
+    ],
+    [
+      "p",
+      "Las consecuencias de la guerra se sienten lejos del frente. Aparta el velo que oculta los secretos de tu familia, destrozada por la Gran Guerra, y trata de recordar tu pasado. Mediante la exploración y la resolución de acertijos y puzles entre los muros de tu hogar y el alambre de espino de la tierra de nadie, acabarás por desvelar un capítulo de la historia de una familia alemana destrozada por la guerra."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti, 2 GB or AMD Radeon RX 7850, 2 GB or Intel Arc A380, 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "21 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "To run at Low 720p @ 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060, 12 GB or AMD Radeon RX 6650 XT, 8 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "21 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_9c3446d99301346a6bf9eb07962855b62a8ae767.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_9c3446d99301346a6bf9eb07962855b62a8ae767.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_dd10ce2dcdcee986160f75fb79618cff78c44bdb.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_dd10ce2dcdcee986160f75fb79618cff78c44bdb.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_f742c991b716e13af7afd173e0752641611e02e8.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_f742c991b716e13af7afd173e0752641611e02e8.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_c5b0901c103aec2a3055f38a988719d8c060c249.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_c5b0901c103aec2a3055f38a988719d8c060c249.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_07ebb7d72821a26cdd01f3f521020a378b7a7f5b.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_07ebb7d72821a26cdd01f3f521020a378b7a7f5b.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_addd2402330233422dd8839c3c4cf70a14d1a7a9.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_addd2402330233422dd8839c3c4cf70a14d1a7a9.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_87cb9eb746c79eb811018d102e16e0ad2d0bfb16.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_87cb9eb746c79eb811018d102e16e0ad2d0bfb16.1920x1080.jpg?t=1778169586"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_a637e90762a87b23dd602ae09005fd5ef781782f.600x338.jpg?t=1778169586",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234430/ss_a637e90762a87b23dd602ae09005fd5ef781782f.1920x1080.jpg?t=1778169586"
+    }
+  ],
+  "web": "http://ad-infinitum-game.de/",
+  "consultado": "2026-11-22T22:26:07.476Z"
+}

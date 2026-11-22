@@ -46,14 +46,17 @@ export function parseSteam(html) {
   }
   return out;
 }
-export async function leerSteam({ paginas = 4 } = {}) {
+export async function leerSteam({ paginas = 4, paginasDlc = 1 } = {}) {
   const todos = new Map();
-  for (let p = 0; p < paginas; p++) {
-    const url = `https://store.steampowered.com/search/results/?specials=1&infinite=1&cc=ar&l=spanish&category1=998&filter=topsellers&count=100&start=${p * 100}`;
-    const j = await (await pedir(url)).json();
-    for (const g of parseSteam(j.results_html || "")) if (!todos.has(g.id)) todos.set(g.id, g);
-    if ((p + 1) * 100 >= (j.total_count || 0)) break;
-    await esperar(1500);
+  // category1=998: juegos · category1=21: contenido descargable (DLC), se marca para mostrarlo como tal
+  for (const [cat, n, dlc] of [[998, paginas, false], [21, paginasDlc, true]]) {
+    for (let p = 0; p < n; p++) {
+      const url = `https://store.steampowered.com/search/results/?specials=1&infinite=1&cc=ar&l=spanish&category1=${cat}&filter=topsellers&count=100&start=${p * 100}`;
+      const j = await (await pedir(url)).json();
+      for (const g of parseSteam(j.results_html || "")) if (!todos.has(g.id)) todos.set(g.id, dlc ? { ...g, extra: { ...g.extra, dlc: true } } : g);
+      if ((p + 1) * 100 >= (j.total_count || 0)) break;
+      await esperar(1500);
+    }
   }
   return [...todos.values()];
 }

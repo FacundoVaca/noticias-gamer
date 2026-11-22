@@ -1,0 +1,265 @@
+{
+  "clave": "los sims 4 a trabajar",
+  "v": 4,
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-2b74-7372-97be-6eea9b0643db",
+  "appid": "1235734",
+  "lanzamiento": "2015-03-30",
+  "desarrolladores": [
+    "Maxis"
+  ],
+  "editores": [
+    "EA Electronic Arts C2C",
+    "Electronic Arts"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Life Sim",
+    "Character Customization",
+    "Building",
+    "Relaxing"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 44,
+      "cantidad": 289,
+      "url": "https://store.steampowered.com/app/1235734/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 73,
+      "cantidad": 24,
+      "url": "https://metacritic.com/game/the-sims-4-get-to-work/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 167,
+      "url": "https://metacritic.com/game/the-sims-4-get-to-work/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 71,
+      "cantidad": 13,
+      "url": "https://opencritic.com/game/564/the-sims-4-get-to-work"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1222670",
+    "nombre": "The Sims™ 4"
+  },
+  "descripcion": "Convierte a tus Sims en intrépidos médicos, valientes detectives y científicos locos, o crea tu propio establecimiento comercial y amasa Simoleones en Los Sims 4 ¡A Trabajar!",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "18 JUN 2020",
+  "metacritic": null,
+  "nombreSteam": "Los Sims™ 4 ¡A Trabajar!",
+  "acerca": [
+    [
+      "p",
+      "Tú mandas en tu lugar de trabajo con Los Sims™ 4 ¡A Trabajar! Controla activamente a tus Sims durante su horario laboral y determina si avanzan con paso firme hacia un gran ascenso o se convierten en el azote de su lugar de trabajo. Lánzate al rescate y salva incontables vidas como médico, atormenta a tus vecinos con los inventos más gamberros dedicándote a la profesión científica o investiga escenas de delitos y resuelve grandes casos como detective. ¡Y si prefieres ser tu propio jefe, también puedes crear, personalizar y gestionar tu propio negocio para triunfar y amasar simoleones! ¡Tú decides cómo trabajan tus Sims!"
+    ],
+    [
+      "li",
+      "Únete a las profesiones médica, detectivesca o científica. Coge tu estetoscopio, tu placa o tu bata de laboratorio y ¡a trabajar! Controla a tus Sims en nuevos lugares de trabajo y usa tu privilegiado cerebro analítico para crear inventos descabellados en la profesión científica, saca a la luz montones de secretos investigando escenas de delitos como detective o trata a pacientes, asiste partos y realiza operaciones quirúrgicas en la profesión médica."
+    ],
+    [
+      "li",
+      "Crea negocios únicos de venta al público. ¡Tú mandas en tu negocio! Abre cualquier tipo de negocio de venta al público que se te antoje, como pastelerías, boutiques de ropa, galerías de arte, librerías y muchos más. ¡Personaliza cada faceta de tu negocio en el modo Construir y empieza a amasar tu propia fortuna! Elige lo que quieres vender, gestiona tu personal como creas conveniente y camélate a los clientes para cerrar ventas."
+    ],
+    [
+      "li",
+      "Adquiere nuevas habilidades. Enséñales a tus Sims nuevas habilidades para crear objetos aún más únicos y poder disfrutarlos en Los Sims 4. Haz la foto perfecta u hornea y decora un delicioso dulce con las nuevas habilidades Fotografía y Repostería. ¡Luce tus creaciones en casa o véndelas para ganarte unos simoleones!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows XP (SP3), Windows Vista (SP2), Windows 7 (SP1), Windows 8 or Windows 8.1"
+      ],
+      [
+        "Procesador",
+        "1.8 GHz Intel Core 2 Duo, AMD Athlon 64 Dual-Core 4000+ or equivalent (For computers using built-in graphics chipsets, the game requires 2.0 GHz Intel Core 2 Duo, 2.0 GHz AMD Turion 64 X2 TL-62 or equivalent)"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "64 Bit Windows 7, 8, 8.1, or 10"
+      ],
+      [
+        "Procesador",
+        "Intel core i5 or faster, AMD Athlon X4"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 650 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "18 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_7f5dc8b4709162247334dfac4690eb9551a12af6.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_7f5dc8b4709162247334dfac4690eb9551a12af6.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_58b1f04c97f97e47b44253c1130db19e2a59c756.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_58b1f04c97f97e47b44253c1130db19e2a59c756.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_0915a92a534210cd966eaf7f6f4506238bdc5049.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_0915a92a534210cd966eaf7f6f4506238bdc5049.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_5935b6e43d4b16c815e31d333b84397d45742149.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_5935b6e43d4b16c815e31d333b84397d45742149.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_48e4aaef18c20e269b7dd0f19fd2d20d0af6a7c2.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_48e4aaef18c20e269b7dd0f19fd2d20d0af6a7c2.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_ba1a41d04341258b270c5481f859a36c0998dca5.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_ba1a41d04341258b270c5481f859a36c0998dca5.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_6a6e307f967785f631ba265f1f167bbb0aceaa36.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_6a6e307f967785f631ba265f1f167bbb0aceaa36.1920x1080.jpg?t=1757964370"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_88900783cc9575f1b80506213edfd15d29103489.600x338.jpg?t=1757964370",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1235734/ss_88900783cc9575f1b80506213edfd15d29103489.1920x1080.jpg?t=1757964370"
+    }
+  ],
+  "web": "https://www.ea.com/games/the-sims/the-sims-4",
+  "consultado": "2026-11-22T22:21:50.038Z"
+}
