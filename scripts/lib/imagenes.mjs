@@ -78,6 +78,8 @@ const BUSQUEDAS = {
   movil: ["mobile gaming", "smartphone game"], esports: ["esports", "gaming tournament"],
   industria: ["video game", "game controller", "gaming setup"], general: ["video game", "game controller", "gaming setup"],
 };
+// Fotos que tienen etiquetas de videojuegos pero el protagonista es otra cosa (mascotas, chicos, personas posando)
+const NO_PORTADA = /\b(cat|cats|kitten|kitty|dog|dogs|puppy|pet|pets|animal|animals|bird|baby|child|children|kid|kids|toddler|girl|boy|woman|man|portrait|selfie|food)\b/i;
 const GAMER = /\b(game|games|gaming|gamer|gamepad|controller|joystick|console|playstation|xbox|nintendo|esports|e-sports|video ?game|arcade|pc|computer|keyboard|monitor|headset|handheld)\b/i;
 const consultasDe = (nota) => {
   const marcas = marcasDeNota(nota);
@@ -94,7 +96,7 @@ async function buscarPexels(nota, usadas) {
   for (const c of consultasDe(nota)) {
     const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(c)}&per_page=30&orientation=landscape`, { headers: { authorization: clave } });
     if (!r.ok) throw new Error(`Pexels HTTP ${r.status}`);
-    const f = elegir(((await r.json()).photos || []).filter((x) => !usadas.has(x.url) && !marcaAjena(`${x.alt || ""} ${x.url}`, marcas)));
+    const f = elegir(((await r.json()).photos || []).filter((x) => !usadas.has(x.url) && !NO_PORTADA.test(`${x.alt || ""} ${x.url}`) && !marcaAjena(`${x.alt || ""} ${x.url}`, marcas)));
     if (f) return { buffer: await traer(f.src.large2x || f.src.large, { tipo: "buffer" }), credito: { texto: `Foto: ${f.photographer} en Pexels`, url: f.url } };
   }
   return null;
@@ -109,7 +111,7 @@ async function buscarPixabay(nota, usadas) {
     const r = await fetch(`https://pixabay.com/api/?${q}`);
     if (!r.ok) throw new Error(`Pixabay HTTP ${r.status}`);
     // Solo fotos de videojuegos, que no se hayan usado y sin marcas de otra plataforma
-    const f = elegir(((await r.json()).hits || []).filter((h) => GAMER.test(h.tags || "") && !usadas.has(h.pageURL) && !marcaAjena(`${h.tags} ${h.pageURL}`, marcas)));
+    const f = elegir(((await r.json()).hits || []).filter((h) => GAMER.test(h.tags || "") && !NO_PORTADA.test(`${h.tags} ${h.pageURL}`) && !usadas.has(h.pageURL) && !marcaAjena(`${h.tags} ${h.pageURL}`, marcas)));
     // Pixabay no permite enlazar sus imágenes en forma permanente: se descargan y se sirven desde el sitio.
     if (f) return { buffer: await traer(f.largeImageURL || f.webformatURL, { tipo: "buffer" }), credito: { texto: `Imagen de ${f.user} en Pixabay`, url: f.pageURL } };
   }

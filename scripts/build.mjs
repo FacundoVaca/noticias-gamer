@@ -42,7 +42,7 @@ export function construir() {
   const navTiendas = [["steam", "Steam"], ["epic", "Epic Games"], ["xbox", "Xbox"], ["playstation", "PlayStation"]].map(([k, v]) => `<a href="/ofertas/${k}/">${v}</a>`).join("");
   const menu = `<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
 <nav class="menu" id="menu" aria-label="Principal">
-<a class="menu-p" href="/">Noticias</a><a class="menu-p menu-of" href="/ofertas/">Ofertas</a><a class="menu-p" href="/juegos-gratis/">Gratis</a><a class="menu-p" href="/soluciones/">Soluciones</a>
+%%PRINCIPAL%%
 <div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p>${navPlat}</div></div>
 <div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p>${navTiendas}</div>
 </nav>
@@ -52,6 +52,15 @@ x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script>`;
 
+  // Sección actual del menú según la dirección de la página (las demás quedan sin resaltar)
+  const seccionDe = (canon = "") => /^\/ofertas\//.test(canon) ? "/ofertas/" : /^\/juegos-gratis\//.test(canon) ? "/juegos-gratis/"
+    : /^\/soluciones\//.test(canon) ? "/soluciones/" : /^\/(revision|404)/.test(canon) ? "" : "/";
+  const menuCon = (canon) => {
+    const sec = seccionDe(canon);
+    const principal = [["/", "Noticias"], ["/ofertas/", "Ofertas"], ["/juegos-gratis/", "Gratis"], ["/soluciones/", "Soluciones"]]
+      .map(([h, t]) => `<a class="menu-p${h === sec ? " menu-act" : ""}" href="${h}"${h === sec ? ' aria-current="page"' : ""}>${t}</a>`).join("");
+    return menu.replace("%%PRINCIPAL%%", principal);
+  };
   const pagina = ({ titulo, desc, canon, cuerpo, og = "", ads = true, indexar = true, seguir = false, extraHead = "" }) => `<!doctype html>
 <html lang="${S.idioma}" class="sin-js"><head><meta charset="utf-8"><script>document.documentElement.className="js"</script><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${e(titulo)}</title><meta name="description" content="${e(desc)}">
@@ -66,8 +75,8 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("ari
 ${ads ? adsense : ""}${extraHead}
 </head><body>
 <header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico" aria-hidden="true">▶</span>${e(S.nombre).replace(/ Gamer$/, " <b>Gamer</b>")}</a>
+${menuCon(canon)}</div></header>
 ${menu}</div></header>
-<main class="wrap">${cuerpo}${S.telegram ? `<a class="tg-aviso" href="${e(S.telegram)}" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a>` : ""}</main>
 <footer class="pie"><div class="wrap">
 <p><strong>${e(S.nombre)}</strong>. ${e(S.descripcion)}</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>
