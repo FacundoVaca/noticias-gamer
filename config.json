@@ -137,5 +137,63 @@
       "percepcion": 0.3
     },
     "psPaginas": 20
+  },
+  "afiliados": {
+    "_nota": "IDs de afiliado. Sin ID, la tienda oficial igual se muestra con el enlace de IsThereAnyDeal sin cambios; los mercados de claves solo aparecen con ID. Ver GUIA.md, sección Otras tiendas.",
+    "pais": "AR",
+    "tiendas": {
+      "fanatical": {
+        "nombre": "Fanatical",
+        "itad": "Fanatical",
+        "buscar": "https://www.fanatical.com/en/search?search={q}",
+        "modo": "prefijo",
+        "id": ""
+      },
+      "humble": {
+        "nombre": "Humble Store",
+        "itad": "Humble Store",
+        "buscar": "https://www.humblebundle.com/store/search?search={q}",
+        "modo": "param",
+        "param": "partner",
+        "id": ""
+      },
+      "gmg": {
+        "nombre": "Green Man Gaming",
+        "itad": "GreenManGaming",
+        "buscar": "https://www.greenmangaming.com/search?query={q}",
+        "modo": "prefijo",
+        "id": ""
+      },
+      "gog": {
+        "nombre": "GOG",
+        "itad": "GOG",
+        "buscar": "https://www.gog.com/en/games?query={q}",
+        "modo": "prefijo",
+        "id": ""
+      }
+    },
+    "mercados": {
+      "eneba": {
+        "nombre": "Eneba",
+        "buscar": "https://www.eneba.com/store/all?text={q}",
+        "modo": "param",
+        "param": "af_id",
+        "id": ""
+      },
+      "g2a": {
+        "nombre": "G2A",
+        "buscar": "https://www.g2a.com/search?query={q}",
+        "modo": "param",
+        "param": "gtag",
+        "id": ""
+      },
+      "kinguin": {
+        "nombre": "Kinguin",
+        "buscar": "https://www.kinguin.net/listing?phrase={q}",
+        "modo": "param",
+        "param": "r",
+        "id": ""
+      }
+    }
   }
 }
