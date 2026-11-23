@@ -1,9 +1,9 @@
 {
   "clave": "octopath traveler 0",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01986144-5de5-70ec-b6d8-615eb55d9da8",
   "appid": "3014320",
@@ -50,12 +50,58 @@
       "url": "https://opencritic.com/game/19033/octopath-traveler-0"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1072112",
+      "nombre": "OCTOPATH TRAVELER 0",
+      "apps": [
+        {
+          "appid": "3014320",
+          "nombre": "OCTOPATH TRAVELER 0"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1346925",
+      "nombre": "OCTOPATH TRAVELER 0 Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3014320",
+          "nombre": "OCTOPATH TRAVELER 0"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 49.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3014320": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3825480",
+      "nombre": "OCTOPATH TRAVELER 0 Digital Deluxe Upgrade",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Empieza de cero y descubre la nueva entrega de la serie OCTOPATH TRAVELER. Descubre una historia de restauración y represalias a raíz de los anillos divinos; una saga épica que se desarrolla en el mundo de Orsterra.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "4 DIC 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "OCTOPATH TRAVELER 0",
   "acerca": [
     [
@@ -110,23 +156,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -233,5 +284,23 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014320/e0f8665117a36fddc0a709ea78751a8b53189716/ss_e0f8665117a36fddc0a709ea78751a8b53189716.1920x1080.jpg?t=1793265949"
     }
   ],
-  "consultado": "2026-11-22T22:07:57.876Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Ten en cuenta que el juego presenta contenido no apto ara todas las edades, incluida la violencia.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 358535,
+  "youtube": [
+    {
+      "id": "ENHXHzvMx-g",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "FBzEhPDvYlY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:23.362Z"
 }

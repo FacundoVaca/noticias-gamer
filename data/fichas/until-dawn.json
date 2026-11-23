@@ -1,9 +1,9 @@
 {
   "clave": "until dawn",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0c9d-70bc-876a-059b7f1d0f54",
   "appid": "2172010",
@@ -44,12 +44,35 @@
       "url": "https://metacritic.com/game/until-dawn/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "777584",
+      "nombre": "Until Dawn™",
+      "apps": [
+        {
+          "appid": "2172010",
+          "nombre": "Until Dawn™"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 59.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2172010": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Recreado y mejorado para PC, Until Dawn te invita a revivir la pesadilla y sumergirte en un slasher atrapante y aterrador en el que cada decisión que tomes puede marcar la diferencia entre la vida y la muerte.",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "4 OCT 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Until Dawn™",
   "acerca": [
     [
@@ -116,83 +139,103 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -300,5 +343,28 @@
     }
   ],
   "web": "https://www.playstation.com/games/until-dawn/",
-  "consultado": "2026-11-22T22:04:36.528Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Until Dawn es un juego narrativo de terror y supervivencia lleno de ramificaciones en el que cualquier elección del jugador tendrá consecuencias a medida que avanza la historia. A lo largo de la partida, el jugador toma decisiones difíciles al enfrentarse a dilemas éticos y morales. Sus elecciones pueden desembocar en escenas de violencia gráfica e intensa que incluyen muertes por caídas, desmembramientos con representación de vísceras y sangre, decapitación y otras muertes violentas de los personajes en escenas de tiroteos. El juego contiene con frecuencia lenguaje malsonante, diálogos sexualmente sugerentes y la representación esporádica de consumo de alcohol y tabaco.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 284721,
+  "youtube": [
+    {
+      "id": "pnbxcNmUcQo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8nApBGPy0ao",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "bIkuM5y0Bjw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:17.979Z"
 }

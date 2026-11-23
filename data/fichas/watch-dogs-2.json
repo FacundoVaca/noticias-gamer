@@ -2,7 +2,8 @@
   "clave": "watch dogs 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ff88-70fb-8ce4-9bda48f3048d",
   "appid": "447040",
@@ -30,6 +31,267 @@
       "url": "https://store.steampowered.com/app/447040/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "141098",
+      "nombre": "Watch_Dogs2",
+      "apps": [
+        {
+          "appid": "447040",
+          "nombre": "Watch_Dogs® 2"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 39.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "141100",
+      "nombre": "Watch_Dogs2 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "447040",
+          "nombre": "Watch_Dogs® 2"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 47.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "141099",
+      "nombre": "Watch_Dogs2 Gold Edition",
+      "apps": [
+        {
+          "appid": "447040",
+          "nombre": "Watch_Dogs® 2"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 63.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "447040": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 30,
+  "dlcLista": [
+    {
+      "appid": "525031",
+      "nombre": "Watch_Dogs® 2 - No Compromise",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 85
+    },
+    {
+      "appid": "525030",
+      "nombre": "Watch_Dogs® 2 - Human Conditions",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 85
+    },
+    {
+      "appid": "525000",
+      "nombre": "Watch_Dogs® 2 - T-Bone Pack",
+      "gratis": false,
+      "usd": 0.83,
+      "descuento": 85
+    },
+    {
+      "appid": "597076",
+      "nombre": "Watch_Dogs® 2 - Mega Pack",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "525010",
+      "nombre": "Watch_Dogs® 2 - Ultra Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "525011",
+      "nombre": "Watch_Dogs® 2 - Root Access Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525012",
+      "nombre": "Watch_Dogs® 2 - Punk Rock Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "525013",
+      "nombre": "Watch_Dogs® 2 - Psychedelic Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525014",
+      "nombre": "Watch_Dogs® 2 - Black Hat Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525015",
+      "nombre": "Watch_Dogs® 2 - Pixel Art Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525016",
+      "nombre": "Watch_Dogs® 2 - Guru Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525017",
+      "nombre": "Watch_Dogs® 2 - EliteSec Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525018",
+      "nombre": "Watch_Dogs® 2 - Glam Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525019",
+      "nombre": "Watch_Dogs® 2 - Private Eye Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "525032",
+      "nombre": "Watch_Dogs® 2 - Urban Artist Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "525033",
+      "nombre": "Watch_Dogs® 2 - Ubisoft Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "525034",
+      "nombre": "Watch_Dogs® 2 - Dumpster Diver Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "525035",
+      "nombre": "Watch_Dogs® 2 - Ded Labs Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "525036",
+      "nombre": "Watch_Dogs® 2 - Home Town Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "525037",
+      "nombre": "Watch_Dogs® 2 - Guts, Grit and Liberty Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "555240",
+      "nombre": "Watch_Dogs® 2 - Season Pass",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 80
+    },
+    {
+      "appid": "558390",
+      "nombre": "Watch_Dogs® 2 - Ultimate Pack",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "558391",
+      "nombre": "Watch_Dogs® 2 - Supreme Pack",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "581400",
+      "nombre": "Watch_Dogs® 2 - Fully Decked Out Bundle",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "597070",
+      "nombre": "Watch_Dogs® 2 - Retro Modernist Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "597071",
+      "nombre": "Watch_Dogs® 2 - Glow_Pro Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "597072",
+      "nombre": "Watch_Dogs® 2 - Ride Britannia Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "597073",
+      "nombre": "Watch_Dogs® 2 - Kick It Pack",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 0
+    },
+    {
+      "appid": "597074",
+      "nombre": "Watch_Dogs® 2 - Velvet Cowboy",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "597075",
+      "nombre": "Watch_Dogs® 2 - Bay Area Thrash Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Bienvenido a San Francisco. Juega como Marcus, un brillante hacker, y únete al grupo de hackers más famoso de la ciudad, DedSec. Tu objetivo es ejecutar el mayor pirateo de la historia.",
   "generos": [
     "Acción",
@@ -37,6 +299,266 @@
   ],
   "lanzamientoTexto": "28 NOV 2016",
   "metacritic": null,
-  "recomendaciones": 99732,
-  "consultado": "2026-11-22T21:44:31.486Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Watch_Dogs® 2",
+  "acerca": [
+    [
+      "p",
+      "Juega como Marcus Holloway, un joven y brillante hacker que vive en la cuna de la revolución tecnológica, la zona de la bahía de San Francisco."
+    ],
+    [
+      "p",
+      "Colabora con DedSec, un conocido grupo de hackers, para ejecutar el mayor pirateo de la historia; acaba con ctOS 2.0, un sistema operativo utilizado por un grupo de genios criminales para vigilar y manipular a los ciudadanos a gran escala."
+    ],
+    [
+      "li",
+      "Explora un mundo abierto y dinámico, lleno de posibilidades."
+    ],
+    [
+      "li",
+      "Hackea todos los dispositivos conectados y hazte con el control de la infraestructura de la ciudad."
+    ],
+    [
+      "li",
+      "Desarrolla diferentes habilidades según tu estilo de juego y mejora tus herramientas de hacker: coches por radiocontrol, dron cuadrirrotor, armas impresas en 3D y mucho más."
+    ],
+    [
+      "li",
+      "Mantente conectado con tus amigos en la nueva experiencia en cooperativo y de enfrentamiento de Watch Dogs."
+    ],
+    [
+      "p",
+      "PON TUS OJOS EN CTRL"
+    ],
+    [
+      "p",
+      "Aprovecha las ventajas de Tobii Eye Tracking. Deja que tu mirada te ayude a armar el \"Internet de las cosas\", apunta a los enemigos y cúbrete mientras exploras naturalmente el ambiente. Combina el amplio conjunto de funciones de seguimiento ocular para identificar a los enemigos, interactuar con el entorno, ubicar puntos de refugio y seleccionar rápidamente los objetivos pirateables. Deja que tu visión conduzca la piratería del cerebro digital de la ciudad."
+    ],
+    [
+      "p",
+      "Compatible con todos los dispositivos de juego de Tobii Eye Tracking."
+    ],
+    [
+      "p",
+      "----"
+    ],
+    [
+      "p",
+      "Notas adicionales:"
+    ],
+    [
+      "p",
+      "Las funciones de seguimiento visual están disponibles con Tobii Eye Tracking."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 2400s @ 2.5 GHz, AMD FX 6120 @ 3.5 GHz or better"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 with 2 GB VRAM or AMD Radeon HD 7870, with 2 GB VRAM or better - See supported List*"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible using the latest drivers"
+      ],
+      [
+        "Notas adicionales",
+        "Minimum specs above for 720p , 30+ FPS, Low graphic settings // Periphericals: Microsoft Xbox One Controller, DUALSHOCK® 4 Controller, Windows-compatible keyboard, mouse, optional controller / Multiplayer: 256 kbps or faster broadband connection / Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at . High speed internet access and a valid Ubisoft account are required to activate the game after installation, to authenticate your system and continue gameplay after any re-activation, access online features, play online or unlock exclusive content. Game contains EasyAntiCheat anti-cheat technology and Denuvo anti-tamper technology."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 3470 @ 3.2 GHz, AMD FX 8120 @ 3.9 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 780 | AMD Radeon R9 290, with 3GB VRAM or better - See supported List*"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX-compatible using the latest drivers"
+      ],
+      [
+        "Notas adicionales",
+        "Recommended specs above for 1080p , 30+ FPS, High graphic settings // SUPPORTED VIDEO CARDS AT TIME OF RELEASE: • NVIDIA® GeForce® GTX600 Series: GTX660 or better / GeForce® GTX700 Series: GTX760 or better / GeForce® GTX900 Series: GTX950 or better / GeForce® GTX1000 Series: GTX1060 or better. • AMD Radeon™ HD 7000 series: Radeon™ HD7870 or better / Radeon™ 200 series: Radeon R9 270 or better / Radeon™ 300/Fury X series: Radeon™ R9 370 or better / Radeon 400 series: Radeon RX460 or better. Game contains EasyAntiCheat anti-cheat technology and Denuvo anti-tamper technology."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_8071f719fea2d45baa805449ec550395db700118.600x338.jpg?t=1751986887",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_8071f719fea2d45baa805449ec550395db700118.1920x1080.jpg?t=1751986887"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_b93d600b2a0372d6b5a5d191b46654ba489819d1.600x338.jpg?t=1751986887",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_b93d600b2a0372d6b5a5d191b46654ba489819d1.1920x1080.jpg?t=1751986887"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_6eb9108a5ac2f33942d15ebf0801f0e69373d4f8.600x338.jpg?t=1751986887",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_6eb9108a5ac2f33942d15ebf0801f0e69373d4f8.1920x1080.jpg?t=1751986887"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_3466ea1a9e73594961b9f73fd560f379f7f49870.600x338.jpg?t=1751986887",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_3466ea1a9e73594961b9f73fd560f379f7f49870.1920x1080.jpg?t=1751986887"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_a3787b7673e663ef78a59397eaf6b50a61ef70ff.600x338.jpg?t=1751986887",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447040/ss_a3787b7673e663ef78a59397eaf6b50a61ef70ff.1920x1080.jpg?t=1751986887"
+    }
+  ],
+  "web": "http://watchdogs.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action-adventure game in which players assume the role of a man (Marcus Holloway) who joins forces with a hacker group intent on exposing corruption in the San Francisco Bay Area. As players explore the open-world environment, they can complete mission-based objectives, interact with characters, and engage in combat with criminals and rival gangs.",
+  "igdbIntentado": true,
+  "igdb": 19441,
+  "youtube": [
+    {
+      "id": "cUZDlHOSfdw",
+      "nombre": "April Update Trailer"
+    },
+    {
+      "id": "8E3wStmvZwM",
+      "nombre": "Predictive Trailer"
+    },
+    {
+      "id": "bgk77GCLB5o",
+      "nombre": "Live Trailer"
+    },
+    {
+      "id": "vub5Wj_TX34",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:34.606Z"
 }

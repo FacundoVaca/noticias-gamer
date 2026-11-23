@@ -2,7 +2,8 @@
   "clave": "battlefield 2042",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-50d6-701c-93ce-50c01ecd801c",
   "appid": "1517290",
@@ -46,6 +47,58 @@
       "url": "https://opencritic.com/game/11561/battlefield-2042"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "534836",
+      "nombre": "Battlefield™ 2042",
+      "apps": [
+        {
+          "appid": "1517290",
+          "nombre": "Battlefield™ 2042"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 59.99,
+      "descuento": 95
+    },
+    {
+      "packageid": "865444",
+      "nombre": "Battlefield™ 2042 Elite Edition",
+      "apps": [
+        {
+          "appid": "1517290",
+          "nombre": "Battlefield™ 2042"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 89.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1517290": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2363740",
+      "nombre": "Mejora de Battlefield™ 2042 Elite Edition",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3269070",
+      "nombre": "Battlefield™ 2042 - BFC",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Battlefield™ 2042 es un shooter en primera persona que marca el regreso a la emblemática guerra total de la franquicia.",
   "generos": [
     "Acción",
@@ -54,6 +107,252 @@
   ],
   "lanzamientoTexto": "19 NOV 2021",
   "metacritic": null,
-  "recomendaciones": 260598,
-  "consultado": "2026-11-22T21:46:09.588Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Battlefield™ 2042",
+  "acerca": [
+    [
+      "h",
+      "ESTO ES 2042"
+    ],
+    [
+      "p",
+      "Battlefield™ 2042 es un shooter en primera persona que marca el regreso a la emblemática guerra total de la franquicia. Con la ayuda de un arsenal de vanguardia, participa en batallas multijugador intensas e inmersivas."
+    ],
+    [
+      "p",
+      "Lleva a tu equipo a la victoria en la guerra total a gran escala y en los combates a corta distancia en mapas del mundo de 2042 y de títulos clásicos de Battlefield. Descubre tu propio estilo de juego entre las distintas clases y disfruta de varias experiencias con versiones mejoradas de Conquista y Avance. Explora Battlefield Portal, una plataforma donde puedes descubrir, crear y compartir batallas inesperadas del pasado y del presente de Battlefield."
+    ],
+    [
+      "h",
+      "ALL-OUT WARFARE"
+    ],
+    [
+      "p",
+      "Este título incluye compras opcionales en el juego de moneda virtual que se puede utilizar para obtener artículos virtuales del juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1600, Core i5 6600K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "No recommendation"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 2700X, Intel Core i7 4790"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6600 XT, Nvidia GeForce RTX 3060"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "No recommendation"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/4443207b9a21def316907bda32c5f32c7d42fcb6/ss_4443207b9a21def316907bda32c5f32c7d42fcb6.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/4443207b9a21def316907bda32c5f32c7d42fcb6/ss_4443207b9a21def316907bda32c5f32c7d42fcb6.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/931142c4907822f144340f34cc51c64b523669ff/ss_931142c4907822f144340f34cc51c64b523669ff.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/931142c4907822f144340f34cc51c64b523669ff/ss_931142c4907822f144340f34cc51c64b523669ff.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/cf954bff997292185b157a6024a59350544f8147/ss_cf954bff997292185b157a6024a59350544f8147.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/cf954bff997292185b157a6024a59350544f8147/ss_cf954bff997292185b157a6024a59350544f8147.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/07ce6014e2569f525b1cfcf4717eb084a6773e55/ss_07ce6014e2569f525b1cfcf4717eb084a6773e55.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/07ce6014e2569f525b1cfcf4717eb084a6773e55/ss_07ce6014e2569f525b1cfcf4717eb084a6773e55.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/04d639babf24fe2999d8326da36184a7bd0db350/ss_04d639babf24fe2999d8326da36184a7bd0db350.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/04d639babf24fe2999d8326da36184a7bd0db350/ss_04d639babf24fe2999d8326da36184a7bd0db350.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1/ss_a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1/ss_a0c5c62e72cafdddb10c4175c1cba00cba0b0fb1.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/c080841fe6e2c58dabf5c955cc90bcf58239c453/ss_c080841fe6e2c58dabf5c955cc90bcf58239c453.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/c080841fe6e2c58dabf5c955cc90bcf58239c453/ss_c080841fe6e2c58dabf5c955cc90bcf58239c453.1920x1080.jpg?t=1777324359"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54/ss_6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54.600x338.jpg?t=1777324359",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54/ss_6cf4f4f09aa86be025b5d6e41d15c90f7c9eae54.1920x1080.jpg?t=1777324359"
+    }
+  ],
+  "web": "https://www.ea.com/games/battlefield/battlefield-2042/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 125166,
+  "youtube": [
+    {
+      "id": "ASzOzrB-a9E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dTTGThC4aes",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "q4qWMcQfOCc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:25.816Z"
 }

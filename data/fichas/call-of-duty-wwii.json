@@ -1,9 +1,9 @@
 {
   "clave": "call of duty wwii",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0e1e-70f5-85f9-797eb8bb0d39",
   "appid": "476600",
@@ -49,12 +49,58 @@
       "url": "https://opencritic.com/game/4505/call-of-duty-wwii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1355247",
+      "nombre": "Call of Duty®: WWII",
+      "apps": [
+        {
+          "appid": "476600",
+          "nombre": "Call of Duty®: WWII"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 59.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "204807",
+      "nombre": "Call of Duty®: WWII - Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "476600",
+          "nombre": "Call of Duty®: WWII"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 99.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "476600": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "683100",
+      "nombre": "Call of Duty®: WWII - Season Pass",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Call of Duty®: WWII - Una experiencia sobrecogedora que redefine la Segunda Guerra Mundial.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "2 NOV 2017",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: WWII",
   "acerca": [
     [
@@ -101,51 +147,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -229,5 +287,32 @@
     }
   ],
   "web": "https://www.callofduty.com/wwii",
-  "consultado": "2026-11-22T22:03:58.309Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 28204,
+  "youtube": [
+    {
+      "id": "NnT-AKSRtF4",
+      "nombre": "Story Trailer"
+    },
+    {
+      "id": "6Fywv4x5OrI",
+      "nombre": "PGW 2017 Trailer"
+    },
+    {
+      "id": "D4Q_XYVescc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "DfaCoLn7m4E",
+      "nombre": "Gameplay Interview"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:39.078Z"
 }

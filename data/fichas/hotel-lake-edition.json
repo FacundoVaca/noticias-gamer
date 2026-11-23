@@ -1,8 +1,8 @@
 {
   "clave": "hotel lake edition",
-  "v": 4,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-7b32-70ac-aba9-45c3e7390789",
   "appid": null,
@@ -15,5 +15,46 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:26:02.245Z"
+  "igdbIntentado": true,
+  "igdb": 265870,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1du.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1du.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dv.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dw.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1do.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1do.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dp.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dp.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dr.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dr.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scp1dt.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scp1dt.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator"
+  ],
+  "resumenEn": "The Lake Edition adds an additional resort location: an idyllic lake and the surrounding forest. A true haven of tranquillity, it's an ideal place to build a hotel for holidaymakers seeking nature and the great outdoors.",
+  "v": 7,
+  "consultado": "2026-11-23T05:46:03.995Z"
 }

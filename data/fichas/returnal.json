@@ -1,9 +1,9 @@
 {
   "clave": "returnal",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-60af-7251-970a-94026c4d8fc7",
   "appid": "1649240",
@@ -52,12 +52,48 @@
       "url": "https://opencritic.com/game/11173/returnal"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "586096",
+      "nombre": "Returnal™",
+      "apps": [
+        {
+          "appid": "1649240",
+          "nombre": "Returnal™"
+        }
+      ],
+      "usd": 19.79,
+      "antes": 59.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "834404",
+      "nombre": "Returnal™",
+      "apps": [
+        {
+          "appid": "1649240",
+          "nombre": "Returnal™"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1649240": {
+      "usd": 19.79,
+      "gratis": false
+    }
+  },
   "descripcion": "ROMPE EL CICLO Lucha por sobrevivir en el shooter en tercera persona y disfruta de la historia de Selene en PC. Enfréntate a desafíos roguelike. Lucha contra enemigos en tiroteos. Comparte tu viaje por Returnal™ con otro jugador.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "15 FEB 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Returnal™",
   "acerca": [
     [
@@ -332,5 +368,31 @@
     }
   ],
   "web": "https://www.playstation.com/games/returnal/pc/",
-  "consultado": "2026-11-22T22:06:30.930Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134584,
+  "youtube": [
+    {
+      "id": "Jv4BjWoB-NA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "E94-hzpdBPU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "5929rKazHbE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "0iNGNYuR5_8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:54.990Z"
 }

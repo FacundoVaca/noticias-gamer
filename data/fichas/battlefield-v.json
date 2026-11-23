@@ -2,11 +2,12 @@
   "clave": "battlefield v",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-efe0-70c4-a142-bd045dd8c582",
   "appid": "1238810",
-  "lanzamiento": null,
+  "lanzamiento": "2018-11-20",
   "desarrolladores": [
     "DICE"
   ],
@@ -46,12 +47,295 @@
       "url": "https://opencritic.com/game/6207/battlefield-v"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "505826",
+      "nombre": "Battlefield™ V Definitive Edition",
+      "apps": [
+        {
+          "appid": "1238810",
+          "nombre": "Battlefield™ V"
+        }
+      ],
+      "usd": 2.49,
+      "antes": 49.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238810": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1264170",
+      "nombre": "Pack de inicio de Battlefield™ V Premium",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1264171",
+      "nombre": "Pack de inicio de Battlefield™ V",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Esta es la mejor experiencia de Battlefield V. Vive el mayor conflicto de la humanidad con un completo arsenal de armas, vehículos y dispositivos, y todos los contenidos de personalización de los dos primeros años.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "22 OCT 2020",
   "metacritic": null,
-  "recomendaciones": 238193,
-  "consultado": "2026-11-22T21:44:40.128Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Battlefield™ V",
+  "acerca": [
+    [
+      "p",
+      "Esta es la mejor experiencia de Battlefield V. Vive el mayor conflicto de la humanidad por tierra, aire y mar con todos los contenidos del juego desbloqueados desde el minuto uno. Con un completo arsenal a tu disposición, elige armas, vehículos y dispositivos y lánzate de cabeza a las reñidas batallas de la 2.ª Guerra Mundial. Destaca en el campo de batalla con la alineación completa de soldados de élite y los mejores contenidos de personalización de los dos primeros años."
+    ],
+    [
+      "p",
+      "Battlefield™ V Definitive Edition contiene el juego base de Battlefield V y la mejor colección posible de contenidos:"
+    ],
+    [
+      "li",
+      "Todos los contenidos de juego (armas, vehículos y dispositivos) del lanzamiento y de los dos primeros años"
+    ],
+    [
+      "li",
+      "Todos los soldados de élite"
+    ],
+    [
+      "li",
+      "84 detalladas variaciones de atuendo para los ejércitos británico y alemán con los que disfrutarás de una ambientación más completa en la 2.ª Guerra Mundial"
+    ],
+    [
+      "li",
+      "8 atuendos de soldado del segundo año"
+    ],
+    [
+      "li",
+      "2 aspectos para armas del segundo año, válidos para 10 y 4 armas respectivamente"
+    ],
+    [
+      "li",
+      "3 acabados para vehículos"
+    ],
+    [
+      "li",
+      "33 objetos de recompensa de capítulo del primer año."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "HDR disponible"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350/ Core i5 6600K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce® GTX 1050 / NVIDIA GeForce® GTX 660 2GB or AMD Radeon™ RX 560 / HD 7850 2GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or later"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 1300X/Intel Core i7 4790"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce® GTX 1060 6GB/AMD Radeon™ RX 580 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_73a21e43ec44cac9aab41d122a284582d194d352.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_73a21e43ec44cac9aab41d122a284582d194d352.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_0c20c45d2e00feae5b9edfb6526662cc3c669164.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_0c20c45d2e00feae5b9edfb6526662cc3c669164.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_d1952d018415b94bed85a503713a05ab12a407d6.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_d1952d018415b94bed85a503713a05ab12a407d6.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_0569f81cafd8b18870d6d5bc296ad557f5576067.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_0569f81cafd8b18870d6d5bc296ad557f5576067.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_818562302f3d6fdcab1689e5618a52e4b53a71f6.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_818562302f3d6fdcab1689e5618a52e4b53a71f6.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_1d38895ccc9beb342a0759fdaa7bd98a0c57d024.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_1d38895ccc9beb342a0759fdaa7bd98a0c57d024.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_a933e1c44fa328825219907f1dd84718da671f28.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_a933e1c44fa328825219907f1dd84718da671f28.1920x1080.jpg?t=1772707365"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_409e2c952aedae360bb2f64736cad845c3cae510.600x338.jpg?t=1772707365",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/ss_409e2c952aedae360bb2f64736cad845c3cae510.1920x1080.jpg?t=1772707365"
+    }
+  ],
+  "web": "https://www.ea.com/games/battlefield/battlefield-5",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 83728,
+  "youtube": [
+    {
+      "id": "9OTkhsJUK0U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UZW4cPUIVf4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SWVtV59mczk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JUaUciRJy3Y",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:45:59.873Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "s t a l k e r 2 heart of chornobyl",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018f4953-3ed5-70b5-a582-94a4de019373",
   "appid": "1643320",
@@ -53,6 +53,106 @@
       "url": "https://opencritic.com/game/17685/s-t-a-l-k-e-r-2-heart-of-chornobyl"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1175937",
+      "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1643320",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+        },
+        {
+          "appid": "1661620",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Upgrade"
+        }
+      ],
+      "usd": 40.59,
+      "antes": 57.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1175936",
+      "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "apps": [
+        {
+          "appid": "1643320",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+        }
+      ],
+      "usd": 42.99,
+      "antes": 42.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1175938",
+      "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "3765020",
+          "nombre": "S.T.A.L.K.E.R. 2: Cost of Hope"
+        },
+        {
+          "appid": "1643320",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+        },
+        {
+          "appid": "1661620",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Upgrade"
+        },
+        {
+          "appid": "1661621",
+          "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Upgrade"
+        }
+      ],
+      "usd": 78.99,
+      "antes": 78.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1643320": {
+      "usd": 40.59,
+      "gratis": false
+    },
+    "1661620": {
+      "usd": 17.99,
+      "gratis": false
+    },
+    "1661621": {
+      "usd": 39.5,
+      "gratis": false
+    },
+    "3765020": {
+      "usd": 21.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "3765020",
+      "nombre": "S.T.A.L.K.E.R. 2: Cost of Hope",
+      "gratis": false,
+      "usd": 21.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1661620",
+      "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Upgrade",
+      "gratis": false,
+      "usd": 17.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1661621",
+      "nombre": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Upgrade",
+      "gratis": false,
+      "usd": 39.5,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Adéntrate en la Zona anómala de Chernóbil, un extenso mundo abierto donde anomalías, mutantes y rivales se interponen en tu camino. Explora, rapiña y trata de sobrevivir en esta tierra brutal y peligrosa, un entorno que evoluciona con cada renovación y que ahora se corona con la ACTUALIZACIÓN 2.0.",
   "generos": [
     "Acción",
@@ -61,6 +161,7 @@
   ],
   "lanzamientoTexto": "20 NOV 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
   "caracteristicas": [
     "Un jugador",
@@ -76,71 +177,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Serbio",
@@ -236,5 +354,30 @@
     }
   ],
   "web": "https://www.stalker2.com/",
-  "consultado": "2026-11-22T22:03:23.077Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "ESRB M Blood and Gore, Intense Violence, Strong Language, Use of Alcohol and Tobacco.",
+  "igdbIntentado": true,
+  "igdb": 101440,
+  "youtube": [
+    {
+      "id": "SjDMwsbaSd8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4PqR5OBb1Ys",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LeTDQuzwEI4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cR9B1naRMwY",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:14.305Z"
 }

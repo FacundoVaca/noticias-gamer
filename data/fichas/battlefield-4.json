@@ -2,11 +2,12 @@
   "clave": "battlefield 4",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-fdb9-7203-a89a-1be9ff5e9467",
   "appid": "1238860",
-  "lanzamiento": null,
+  "lanzamiento": "2014-10-21",
   "desarrolladores": [
     "DICE"
   ],
@@ -46,12 +47,366 @@
       "url": "https://opencritic.com/game/317/battlefield-4"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432910",
+      "nombre": "Battlefield 4™ Premium Edition",
+      "apps": [
+        {
+          "appid": "1238860",
+          "nombre": "Battlefield 4™"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 39.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238860": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 18,
+  "dlcLista": [
+    {
+      "appid": "1238871",
+      "nombre": "Lote definitivo de accesos directos para Battlefield 4™",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 75
+    },
+    {
+      "appid": "1272657",
+      "nombre": "Battlefield 4™ Legacy Operations",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1272654",
+      "nombre": "Battlefield 4™ Night Operations",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1272650",
+      "nombre": "Battlefield 4™ Community Operations",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1315480",
+      "nombre": "Battlefield 4™ Soldier Shortcut Bundle",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315472",
+      "nombre": "Battlefield 4™ Support Shortcut Kit",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315471",
+      "nombre": "Battlefield 4™ Recon Shortcut Kit",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315470",
+      "nombre": "Battlefield 4™ Assault Shortcut Kit",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315443",
+      "nombre": "Lote de atajos a vehículos para Battlefield 4™",
+      "gratis": false,
+      "usd": 17.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315442",
+      "nombre": "Battlefield 4™ Weapon Shortcut Bundle",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315441",
+      "nombre": "Battlefield 4™ Air Vehicle Shortcut Kit",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315440",
+      "nombre": "Battlefield 4™ Ground & Sea Vehicle Shortcut Kit",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315435",
+      "nombre": "Battlefield 4™ Engineer Shortcut Kit",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315434",
+      "nombre": "Battlefield 4™ Carbine Shortcut Kit",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315433",
+      "nombre": "Battlefield 4™ Grenade Shortcut Kit",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315432",
+      "nombre": "Battlefield 4™ Shotgun Shortcut Kit",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315431",
+      "nombre": "Battlefield 4™ Handgun Shortcut Kit",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1315430",
+      "nombre": "Battlefield 4™ DMR Shortcut Kit",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Domina en Battlefield con los extras Premium",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "11 JUN 2020",
   "metacritic": null,
-  "recomendaciones": 70132,
-  "consultado": "2026-11-22T21:44:51.313Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Battlefield 4™",
+  "acerca": [
+    [
+      "p",
+      "La Edición Premium de Battlefield 4™ te ofrece los mejores mapas, modos y mucho más, todo en un único producto. Completa apasionantes misiones para desbloquear armas. Supera los desafíos tácticos de un entorno interactivo descomunal. Destruye los edificios que dan cobijo a tus enemigos, lidera un asalto desde la parte trasera de un cañonero o sácale todo el partido a un poquito de C4. En las inmensas batallas para 64 jugadores, usa todos tus recursos y dalo todo para alcanzar la victoria."
+    ],
+    [
+      "p",
+      "Características principales"
+    ],
+    [
+      "li",
+      "Campos de batalla dinámicos. Entornos interactivos que responden a tus acciones en tiempo real. Puedes provocar un naufragio o inundar las calles si con eso sacas ventaja táctica. Tus oponentes no sabrán de dónde les vienen los tiros."
+    ],
+    [
+      "li",
+      "Más vehículos, más libertad. Controla el campo de batalla con docenas de vehículos, desde helicópteros y sigilosos cazas a barcos armados y antiaéreos, todos ellos diseñados para darte la ventaja en los inmensos y caóticos mapas."
+    ],
+    [
+      "li",
+      "Una intensa campaña. La situación internacional está muy tensa, es imperativo evacuar a las importantes personalidades estadounidenses de Shanghái, aunque las posibilidades de volver con la patrulla a casa sean mínimas."
+    ],
+    [
+      "p",
+      "La Edición Premium incluye:"
+    ],
+    [
+      "li",
+      "Los cinco packs de expansión. 20 nuevos mapas, 48 misiones exclusivas, nuevos modos y más."
+    ],
+    [
+      "li",
+      "Opciones exclusivas de personalización. Equípate con nuevos camuflajes, pinturas, emblemas y chapas. Con equipamiento adaptado a los cuatro posibles roles de combate, las combinaciones son infinitas."
+    ],
+    [
+      "li",
+      "Posición prioritaria en las colas de los servidores. Salta al campo de batalla lo antes posible. La posición prioritaria te permite empezar a atacar más rápido al enemigo."
+    ],
+    [
+      "li",
+      "12 Battlepacks adicionales. Adquiere accesorios de armas, mejoras de XP y personalizaciones exclusivas, disponibles únicamente para miembros Premium."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "HDR disponible"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 8 32-bit"
+      ],
+      [
+        "Procesador",
+        "Processor (AMD): Athlon X2 2.8 GHz Processor (Intel): Core 2 Duo 2.4 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Graphics card (AMD): AMD Radeon HD 3870 Graphics card (NVIDIA): Nvidia GeForce 8800 GT"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 8 64-bit"
+      ],
+      [
+        "Procesador",
+        "Processor (AMD): Six-core CPU Processor (Intel): Quad-core CPU"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Graphics card (AMD): AMD Radeon HD 7870 Graphics card (Nvidia): NVIDIA GeForce GTX 660"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_8cd5ec2e4bf1986bc01265db93f184e38e3b1236.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_8cd5ec2e4bf1986bc01265db93f184e38e3b1236.1920x1080.jpg?t=1777391884"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_03f32767fd67f15723ffcd68c92e425265a0ca3d.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_03f32767fd67f15723ffcd68c92e425265a0ca3d.1920x1080.jpg?t=1777391884"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_006c4f68fb8389d8753bb87ba6a37903591d1ec1.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_006c4f68fb8389d8753bb87ba6a37903591d1ec1.1920x1080.jpg?t=1777391884"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_05303c6c14d6bffddb7e7ada02e071880def9ac2.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_05303c6c14d6bffddb7e7ada02e071880def9ac2.1920x1080.jpg?t=1777391884"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_fb5219a8fde71d6e29b95c35a95fe4f9769c2004.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_fb5219a8fde71d6e29b95c35a95fe4f9769c2004.1920x1080.jpg?t=1777391884"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_73976cff2f01c0430e9761127fcb307b029a4b32.600x338.jpg?t=1777391884",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_73976cff2f01c0430e9761127fcb307b029a4b32.1920x1080.jpg?t=1777391884"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 52642,
+  "v": 7,
+  "consultado": "2026-11-23T05:50:52.984Z"
 }

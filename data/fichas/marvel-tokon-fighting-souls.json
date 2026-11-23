@@ -2,7 +2,8 @@
   "clave": "marvel tokon fighting souls",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01978568-d686-7160-93cd-60833894c052",
   "appid": "3787240",
@@ -49,6 +50,99 @@
       "url": "https://opencritic.com/game/20101/marvel-tokon-fighting-souls"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1332306",
+      "nombre": "MARVEL Tōkon: Fighting Souls",
+      "apps": [
+        {
+          "appid": "3787240",
+          "nombre": "MARVEL Tōkon: Fighting Souls"
+        }
+      ],
+      "usd": 41.99,
+      "antes": 59.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1537311",
+      "nombre": "MARVEL Tōkon: Fighting Souls Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3787240",
+          "nombre": "MARVEL Tōkon: Fighting Souls"
+        }
+      ],
+      "usd": 59.49,
+      "antes": 84.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1537310",
+      "nombre": "MARVEL Tōkon: Fighting Souls Ultimate Edition",
+      "apps": [
+        {
+          "appid": "3787240",
+          "nombre": "MARVEL Tōkon: Fighting Souls"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 99.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3787240": {
+      "usd": 41.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "4848500",
+      "nombre": "Pase de personajes y escenarios del año 1 de MARVEL Tōkon: Fighting Souls",
+      "gratis": false,
+      "usd": 24.49,
+      "descuento": 30
+    },
+    {
+      "appid": "5185300",
+      "nombre": "MARVEL Tōkon: Fighting Souls – Cíclope Fénix",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5246710",
+      "nombre": "MARVEL Tōkon: Fighting Souls – Pack de trajes clásicos de Cíclope Fénix",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5246750",
+      "nombre": "MARVEL Tōkon: Fighting Souls – Pack de trajes de Joe Fixit para Hulk",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5030920",
+      "nombre": "Mejora de MARVEL Tōkon: Fighting Souls Standard – Ultimate Edition",
+      "gratis": false,
+      "usd": 28,
+      "descuento": 30
+    },
+    {
+      "appid": "5030930",
+      "nombre": "Mejora de MARVEL Tōkon: Fighting Souls Deluxe – Ultimate Edition",
+      "gratis": false,
+      "usd": 10.5,
+      "descuento": 30
+    }
+  ],
   "descripcion": "Reúne a tu equipo de legendarios personajes Marvel en el juego de lucha 4c4 definitivo de PlayStation Studios, Arc System Works y Marvel Games.",
   "generos": [
     "Acción",
@@ -56,6 +150,287 @@
   ],
   "lanzamientoTexto": "6 AGO 2026",
   "metacritic": null,
-  "recomendaciones": 5148,
-  "consultado": "2026-11-22T21:44:42.370Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "MARVEL Tōkon: Fighting Souls",
+  "acerca": [
+    [
+      "p",
+      "La edición incluye:"
+    ],
+    [
+      "li",
+      "MARVEL Tōkon: Fighting Souls"
+    ],
+    [
+      "p",
+      "Reúne a tu equipo de legendarios personajes de Marvel en el juego de lucha por equipos 4c4 definitivo de PlayStation Studios, Arc System Works y Marvel Games."
+    ],
+    [
+      "p",
+      "Ha llegado el momento de formar tu equipo soñado y lanzarte a combates 4c4 llenos de acción. Elige entre una larga lista de 20 personajes icónicos de Marvel disponibles en el lanzamiento, cada uno con un nuevo y llamativo estilo artístico inspirado en el anime, acompañados por los miembros de sus equipos de superhéroes y villanos de Marvel, igual de impresionantes."
+    ],
+    [
+      "p",
+      "Experimenta con las combinaciones de equipos para descubrir nuevos combos, sinergias y estrategias. Ábrete paso a través de escenarios dinámicos basados en localizaciones icónicas del Universo Marvel, algunos de ellos con transiciones de escenario interactivas."
+    ],
+    [
+      "p",
+      "El combate es inmersivo e intuitivo, con una amplia variedad de movimientos, combos y estrategias que dominar. Los controles ajustables, con inputs tanto tradicionales como rápidos, además de combos en cadena fáciles de ejecutar, hacen que lanzarse a la acción sea muy sencillo."
+    ],
+    [
+      "p",
+      "Enfréntate a un amigo en modo local o únete a la acción online con hasta 64 jugadores en la sala³, incluidos los modos VS estándar. Además, profundiza en cada equipo con el modo Episodio para un jugador y descubre más sobre la dinámica de los equipos y su historia."
+    ],
+    [
+      "p",
+      "³ Se necesita conexión a Internet y una cuenta para PlayStationNetwork."
+    ],
+    [
+      "p",
+      "MARVEL Tōkon: Fighting Souls ofrece una amplia gama de contenido offline, incluyendo el modo Episodio, modo Versus local, modo Entrenamiento, Arena All-Star, guías de personajes y mucho más."
+    ],
+    [
+      "p",
+      "El modo Arcadia Rumble también es totalmente jugable offline, con funciones online opcionales."
+    ],
+    [
+      "p",
+      "Solo son necesarias una cuenta para PlayStation y conexión a internet para el lobby online, partidas en sala (salas privadas), partidas clasificatorias, partidas casuales, perfil de jugador y funciones online."
+    ],
+    [
+      "h",
+      "Características en PC"
+    ],
+    [
+      "p",
+      "Ajustes ultra"
+    ],
+    [
+      "p",
+      "Disfruta de la acción de MARVEL Tōkon: Fighting Souls con un alto rendimiento de 60 fotogramas por segundo (bloqueado en combate) y espectaculares gráficos en 4K⁴."
+    ],
+    [
+      "p",
+      "⁴ El 4K requiere un televisor o pantalla 4K compatible."
+    ],
+    [
+      "p",
+      "Compatibilidad con el mando DualSense®"
+    ],
+    [
+      "p",
+      "Siente cada golpe superpoderoso y cada movimiento especial espectacular gracias a la tecnología háptica inmersiva del mando inalámbrico DualSense®."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 6GB or AMD Radeon RX 6600 XT 8GB"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700 or AMD Ryzen 5 3600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3070 8 GB or AMD Radeon RX 7600 XT 16 GB"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/10c0fc19577ce7b7d5ea0fbcb257a1744d320f91/ss_10c0fc19577ce7b7d5ea0fbcb257a1744d320f91.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/10c0fc19577ce7b7d5ea0fbcb257a1744d320f91/ss_10c0fc19577ce7b7d5ea0fbcb257a1744d320f91.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/695493c0bcb6f662019b22d148092b60e7de6167/ss_695493c0bcb6f662019b22d148092b60e7de6167.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/695493c0bcb6f662019b22d148092b60e7de6167/ss_695493c0bcb6f662019b22d148092b60e7de6167.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/4c831d2310a742238e3755366a6b8ae073aa44c0/ss_4c831d2310a742238e3755366a6b8ae073aa44c0.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/4c831d2310a742238e3755366a6b8ae073aa44c0/ss_4c831d2310a742238e3755366a6b8ae073aa44c0.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4/ss_b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4/ss_b64c0eb3fdfa7b80cd8b0899ae0440d02f9daaf4.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/953c246f3b05c5fa26b2ff5081001a7e8fe03a86/ss_953c246f3b05c5fa26b2ff5081001a7e8fe03a86.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/953c246f3b05c5fa26b2ff5081001a7e8fe03a86/ss_953c246f3b05c5fa26b2ff5081001a7e8fe03a86.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/9b9f80562039feb05bb71759a2f185a8ed7d2253/ss_9b9f80562039feb05bb71759a2f185a8ed7d2253.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/9b9f80562039feb05bb71759a2f185a8ed7d2253/ss_9b9f80562039feb05bb71759a2f185a8ed7d2253.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/47d19210a3b60ef03cd24bfa5c33b16429598384/ss_47d19210a3b60ef03cd24bfa5c33b16429598384.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/47d19210a3b60ef03cd24bfa5c33b16429598384/ss_47d19210a3b60ef03cd24bfa5c33b16429598384.1920x1080.jpg?t=1795050358"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/53c006b5fd5bf3d8ea62dd6d411ddeac4a624502/ss_53c006b5fd5bf3d8ea62dd6d411ddeac4a624502.600x338.jpg?t=1795050358",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/53c006b5fd5bf3d8ea62dd6d411ddeac4a624502/ss_53c006b5fd5bf3d8ea62dd6d411ddeac4a624502.1920x1080.jpg?t=1795050358"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 347132,
+  "youtube": [
+    {
+      "id": "AFdxKvplq9M",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "krh98HsMk5c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6fbfrV5qqnU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ftKJCWCqiEQ",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:38.268Z"
 }

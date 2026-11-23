@@ -1,9 +1,9 @@
 {
   "clave": "marathon",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-221d-72ee-99a5-238681910c51",
   "appid": "3065800",
@@ -49,12 +49,72 @@
       "url": "https://opencritic.com/game/20182/marathon"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1501378",
+      "nombre": "Marathon Edición Deluxe",
+      "apps": [
+        {
+          "appid": "3065800",
+          "nombre": "Marathon"
+        }
+      ],
+      "usd": 18.89,
+      "antes": 41.99,
+      "descuento": 55
+    },
+    {
+      "packageid": "1501379",
+      "nombre": "Marathon",
+      "apps": [
+        {
+          "appid": "3065800",
+          "nombre": "Marathon"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 27.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3065800": {
+      "usd": 18.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4623170",
+      "nombre": "Marathon: Lote de LUX de temporada Diversión//Policía",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4623200",
+      "nombre": "Paquete de Steam de Marathon - Niebla espectral",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3569830",
+      "nombre": "Marathon Mejora Deluxe",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Explora la colonia perdida de Tau Ceti IV saqueando botín de gran valor en un shooter de supervivencia de alto riesgo en primera persona de los creadores de Halo y Destiny.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "5 MAR 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Marathon",
   "acerca": [
     [
@@ -145,55 +205,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -293,5 +366,29 @@
     }
   ],
   "web": "https://www.marathonthegame.com/",
-  "consultado": "2026-11-22T22:06:43.435Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 250630,
+  "youtube": [
+    {
+      "id": "wwH2aNBrq7c",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "uZRGDZCl9pg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ZvJIQoWIQP8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "BlC31D_Rr-Y",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:11.950Z"
 }

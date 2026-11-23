@@ -1,9 +1,9 @@
 {
   "clave": "hunt showdown 1896",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019152f5-9009-71ea-884c-a8f60799b3ca",
   "appid": "594650",
@@ -41,6 +41,361 @@
       "url": "https://opencritic.com/game/17055/hunt-showdown-1896"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1340886",
+      "nombre": "Hunt: Showdown 1896 - Starter Edition",
+      "apps": [
+        {
+          "appid": "1143840",
+          "nombre": "Hunt: Showdown  1896 - Legends of the Bayou"
+        },
+        {
+          "appid": "594650",
+          "nombre": "Hunt: Showdown 1896"
+        },
+        {
+          "appid": "1576410",
+          "nombre": "Hunt: Showdown 1896 - The Prodigal Daughter"
+        },
+        {
+          "appid": "1397381",
+          "nombre": "Hunt: Showdown 1896 - The Trick Shooter"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 19.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "155279",
+      "nombre": "Hunt: Showdown 1896",
+      "apps": [
+        {
+          "appid": "594650",
+          "nombre": "Hunt: Showdown 1896"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "306512",
+      "nombre": "Hunt: Showdown - Commercial License",
+      "apps": [
+        {
+          "appid": "594650",
+          "nombre": "Hunt: Showdown 1896"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "594650": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "1143840": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "1397381": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1576410": {
+      "usd": 3.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 82,
+  "dlcLista": [
+    {
+      "appid": "4733620",
+      "nombre": "Hunt: Showdown 1896 - Bound by Blood",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5036130",
+      "nombre": "Hunt: Showdown 1896 - Starter Pack: The Crow’s Calling",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5036120",
+      "nombre": "Hunt: Showdown 1896 – Starter Pack: Among Crimson Shadows",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4730770",
+      "nombre": "Hunt: Showdown 1896 - Sage of Joseon",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5137100",
+      "nombre": "Hunt: Showdown 1896 – Port Sulphur Band – The Testament",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4719180",
+      "nombre": "Hunt: Showdown 1896 - Twice a Renegade",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4556010",
+      "nombre": "Hunt: Showdown 1896 - It Takes a Rogue",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4692810",
+      "nombre": "Hunt: Showdown 1896 – Port Sulphur Band – The Road to Hell",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4261930",
+      "nombre": "Hunt: Showdown 1896 - The Heart of Lower DeSalle",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4261920",
+      "nombre": "Hunt: Showdown 1896 - The Madness of Montresor",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4514260",
+      "nombre": "Hunt: Showdown 1896 – Port Sulphur Band – Take the Devil’s Trail ",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4514750",
+      "nombre": "Hunt: Showdown 1896 – Port Sulphur Band – The Sinners Songbook (Deluxe)",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4100260",
+      "nombre": "Hunt: Showdown 1896 - Violent Balance",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3713770",
+      "nombre": "Hunt: Showdown 1896 - Cry of the Caged Bird",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3713760",
+      "nombre": "Hunt: Showdown 1896 - Death's Day",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3569970",
+      "nombre": "Hunt: Showdown 1896 - The Ghost of Blanchett Graves",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4196990",
+      "nombre": "Hunt: Showdown 1896 - Port Sulphur Band - Shadows Wake (Deluxe)",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3768070",
+      "nombre": "Hunt: Showdown 1896 - Port Sulphur Band - The Fool",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3768100",
+      "nombre": "Hunt: Showdown 1896 - Port Sulphur Band - Let Us Prey",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3415590",
+      "nombre": "Hunt: Showdown 1896 - Last of the Herd",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3282900",
+      "nombre": "Hunt: Showdown 1896 - Dead Man's Cut",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3548900",
+      "nombre": "Hunt: Showdown 1896 – Port Sulphur Band – Rise Up Dead Man Anniversary Collection",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3282880",
+      "nombre": "Hunt: Showdown 1896 - The Last Laugh",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3389670",
+      "nombre": "Hunt: Showdown 1896 - Port Sulphur Band - The Sinners Songbook",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3389830",
+      "nombre": "Hunt: Showdown 1896 - Port Sulphur Band - The Devil's Match",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3204810",
+      "nombre": "Hunt: Showdown 1896 - Taker of Trophies",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3204800",
+      "nombre": "Hunt: Showdown 1896 - Ghost Face Rampage",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3037030",
+      "nombre": "Hunt: Showdown 1896 - Bones and Bounties",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2839560",
+      "nombre": "Hunt: Showdown 1896 - From the Wilds",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2719560",
+      "nombre": "Hunt: Showdown 1896 - The Reckoning Son",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2430650",
+      "nombre": "Hunt: Showdown 1896 - The Son of Gunpowder",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2643050",
+      "nombre": "Hunt: Showdown 1896 - Northern Justice",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2643040",
+      "nombre": "Hunt: Showdown 1896 - The Shadow Under the Cowl",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2585200",
+      "nombre": "Hunt: Showdown 1896 - Law of Salvage",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2581740",
+      "nombre": "Hunt: Showdown 1896 - Souls of a Feather",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2531020",
+      "nombre": "Hunt: Showdown 1896 - When Shadows Dance",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2407941",
+      "nombre": "Hunt: Showdown 1896 - Bark, Bone and Blood",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2407940",
+      "nombre": "Hunt: Showdown 1896 - Myth of the Moors",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2304380",
+      "nombre": "Hunt: Showdown 1896 - The Phantom of the Catacombs",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2304500",
+      "nombre": "Hunt: Showdown 1896 - Shrine Maiden's Hell",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Hunt: Showdown 1896 es un juego brutal de disparos con mecánicas de extracción. Sigue el rastro de monstruos retorcidos, lucha en tiroteos JcJ despiadados, y hazte con el botín entre la corrupción. Con tu equipo, podrías sobrevivir. Muere sin nada o escapa con todo.",
   "generos": [
     "Acción"
@@ -50,6 +405,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/hunt-showdown?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Hunt: Showdown 1896",
   "acerca": [
     [
@@ -94,59 +450,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -270,5 +640,31 @@
     }
   ],
   "web": "https://www.huntshowdown.com/",
-  "consultado": "2026-11-22T22:04:14.393Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7291,
+  "youtube": [
+    {
+      "id": "7xwM55lX3Ac",
+      "nombre": "E3 2017 Gameplay Trailer"
+    },
+    {
+      "id": "hdUWOetEpw8",
+      "nombre": "Early Access Launch Trailer"
+    },
+    {
+      "id": "XG-OKxLfOSs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dOWkNr3KP2g",
+      "nombre": "Steam Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:29.449Z"
 }

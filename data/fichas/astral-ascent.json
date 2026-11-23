@@ -1,9 +1,9 @@
 {
   "clave": "astral ascent",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4261-7276-8cfb-b10a2e6e569c",
   "appid": "1280930",
@@ -53,54 +53,69 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "446213",
+      "nombre": "Astral Ascent",
+      "apps": [
+        {
+          "appid": "1280930",
+          "nombre": "Astral Ascent"
+        }
+      ],
+      "usd": 3.8,
+      "antes": 9.5,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1280930": {
+      "usd": 3.8,
+      "gratis": false
+    }
+  },
   "dlcTotal": 6,
   "dlcLista": [
     {
       "appid": "4499280",
       "nombre": "Astral Ascent - Arven the Wolf Blade",
       "gratis": false,
-      "precio": "$2.39",
-      "antes": "$2.99",
+      "usd": 2.39,
       "descuento": 20
     },
     {
       "appid": "4116520",
       "nombre": "Astral Ascent - Celestial Haven",
       "gratis": false,
-      "precio": "$1.59",
-      "antes": "$1.99",
+      "usd": 1.59,
       "descuento": 20
     },
     {
       "appid": "3372880",
       "nombre": "Astral Ascent - The Outer Reaches",
       "gratis": false,
-      "precio": "$4.63",
-      "antes": "$5.79",
+      "usd": 4.63,
       "descuento": 20
     },
     {
       "appid": "3073420",
       "nombre": "Astral Ascent - Yamat the Breach Traveler",
       "gratis": false,
-      "precio": "$2.39",
-      "antes": "$2.99",
+      "usd": 2.39,
       "descuento": 20
     },
     {
       "appid": "2633220",
       "nombre": "Astral Ascent Artbook",
       "gratis": false,
-      "precio": "$1.49",
-      "antes": "$2.99",
+      "usd": 1.49,
       "descuento": 50
     },
     {
       "appid": "2455290",
       "nombre": "Astral Ascent (Original Game Soundtrack)",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     }
   ],
@@ -115,6 +130,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/astral-ascent?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Astral Ascent",
   "acerca": [
     [
@@ -205,39 +221,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -321,5 +346,32 @@
     }
   ],
   "web": "https://astral-ascent.com/",
-  "consultado": "2026-11-22T22:26:20.535Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 180876,
+  "youtube": [
+    {
+      "id": "_4Dhr8nY9x0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "lglfge62C2M",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wV9Q3xnRaq8",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "ywKI4kS0HEU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:46.572Z"
 }

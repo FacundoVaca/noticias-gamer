@@ -1,9 +1,9 @@
 {
   "clave": "assetto corsa",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0192-714b-abce-17e006566a8d",
   "appid": "244210",
@@ -48,6 +48,108 @@
       "url": "https://opencritic.com/game/579/assetto-corsa"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "29776",
+      "nombre": "Assetto Corsa",
+      "apps": [
+        {
+          "appid": "244210",
+          "nombre": "Assetto Corsa"
+        }
+      ],
+      "usd": 2.62,
+      "antes": 10.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "244210": {
+      "usd": 2.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 11,
+  "dlcLista": [
+    {
+      "appid": "675590",
+      "nombre": "Assetto Corsa - Ferrari 70th Anniversary Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    },
+    {
+      "appid": "540710",
+      "nombre": "Assetto Corsa - Porsche Pack II",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    },
+    {
+      "appid": "540711",
+      "nombre": "Assetto Corsa - Porsche Pack III",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    },
+    {
+      "appid": "347990",
+      "nombre": "Dream Pack 1",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    },
+    {
+      "appid": "404430",
+      "nombre": "Assetto Corsa - Dream Pack 2",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    },
+    {
+      "appid": "423630",
+      "nombre": "Assetto Corsa - Dream Pack 3",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    },
+    {
+      "appid": "467980",
+      "nombre": "Assetto corsa - Japanese Pack",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "493190",
+      "nombre": "Assetto Corsa - Red Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "509350",
+      "nombre": "Assetto Corsa -Tripl3 Pack",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 60
+    },
+    {
+      "appid": "619680",
+      "nombre": "Assetto Corsa - Ready To Race Pack",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    },
+    {
+      "appid": "526060",
+      "nombre": "Assetto Corsa - Porsche Pack I",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    }
+  ],
   "descripcion": "Assetto Corsa v1.16 introduces the new \"Laguna Seca\" laser-scanned track, 7 new cars among which the eagerly awaited Alfa Romeo Giulia Quadrifoglio! Check the changelog for further info!",
   "generos": [
     "Indie",
@@ -60,6 +162,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/assetto-corsa?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Assetto Corsa",
   "acerca": [
     [
@@ -318,19 +421,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -442,5 +549,25 @@
     }
   ],
   "web": "http://www.assettocorsa.gg",
-  "consultado": "2026-11-22T22:03:29.520Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 5597,
+  "youtube": [
+    {
+      "id": "Uu5C-apy1uU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wbSHCxjmOv4",
+      "nombre": "Engineered to Perfection Trailer"
+    },
+    {
+      "id": "ikY00TRkCVs",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:00.277Z"
 }

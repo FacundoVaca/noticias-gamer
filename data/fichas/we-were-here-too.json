@@ -1,9 +1,9 @@
 {
   "clave": "we were here too",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-29ce-7008-af01-732f00e9ed83",
   "appid": "677160",
@@ -49,22 +49,54 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "193007",
+      "nombre": "We Were Here Too",
+      "apps": [
+        {
+          "appid": "677160",
+          "nombre": "We Were Here Too"
+        }
+      ],
+      "usd": 5.79,
+      "antes": 5.79,
+      "descuento": 0
+    },
+    {
+      "packageid": "805671",
+      "nombre": "We Were Here Too",
+      "apps": [
+        {
+          "appid": "677160",
+          "nombre": "We Were Here Too"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "677160": {
+      "usd": 5.79,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
       "appid": "712130",
       "nombre": "We Were Here Too: Supporter Edition",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "712201",
       "nombre": "We Were Here Too: The Soundtrack",
       "gratis": false,
-      "precio": "$1.49",
-      "antes": null,
+      "usd": 1.49,
       "descuento": 0
     }
   ],
@@ -79,6 +111,7 @@
     "puntaje": 69,
     "url": "https://www.metacritic.com/game/pc/we-were-here-too?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "We Were Here Too",
   "acerca": [
     [
@@ -153,91 +186,113 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -353,5 +408,26 @@
     }
   ],
   "web": "http://totalmayhemgames.com/we-were-here-too/",
-  "consultado": "2026-11-22T22:26:04.643Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 54486,
+  "youtube": [
+    {
+      "id": "Mwq8c68BvOM",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "09ONcOAtmU0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "YhP6BtbPpYs",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:10.081Z"
 }

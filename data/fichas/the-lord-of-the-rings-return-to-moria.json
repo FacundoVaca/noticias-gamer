@@ -1,9 +1,9 @@
 {
   "clave": "the lord of the rings return to moria",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7678-7173-9f0e-462d406a56e7",
   "appid": "2933130",
@@ -48,6 +48,87 @@
       "url": "https://opencritic.com/game/15718/the-lord-of-the-rings-return-to-moria"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1044747",
+      "nombre": "The Lord of the Rings: Return to Moria™",
+      "apps": [
+        {
+          "appid": "2933130",
+          "nombre": "The Lord of the Rings: Return to Moria™"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 14.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "2933130": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "3874660",
+      "nombre": "The Lord of the Rings: Return to Moria™ Durin's Folk Expansion",
+      "gratis": false,
+      "usd": 4.39,
+      "descuento": 45
+    },
+    {
+      "appid": "3308250",
+      "nombre": "The Lord of the Rings: Return to Moria™, DLC: Paquete de Rohan",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 45
+    },
+    {
+      "appid": "3739110",
+      "nombre": "The Lord of the Rings: Return to Moria™ Beorn's Lodge Pack DLC",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 45
+    },
+    {
+      "appid": "3739100",
+      "nombre": "The Lord of the Rings: Return to Moria™, Paquete de cazaorcos",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 45
+    },
+    {
+      "appid": "3560550",
+      "nombre": "The Lord of the Rings: Return to Moria™, Paquete de artesanía ent",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 45
+    },
+    {
+      "appid": "3349540",
+      "nombre": "The Lord of the Rings: Return to Moria™, Paquete de Yuletide",
+      "gratis": false,
+      "usd": 0.48,
+      "descuento": 46
+    },
+    {
+      "appid": "3080090",
+      "nombre": "The Lord of the Rings: Return to Moria™ Soundtrack",
+      "gratis": false,
+      "usd": 2.46,
+      "descuento": 45
+    },
+    {
+      "appid": "3184500",
+      "nombre": "The Lord of the Rings: Return to Moria™ Digital Art Exhibition",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 45
+    }
+  ],
   "descripcion": "El único juego de fabricación ambientado en la Cuarta Edad de la Tierra Media™. Emprende un viaje épico para recuperar Moria, el hogar de los enanos. Explora, crea y construye en mundos generados procedimentalmente. Hazte a la aventura solo o con amigos en el modo cooperativo para 8 jugadores.",
   "generos": [
     "Acción",
@@ -56,6 +137,7 @@
   ],
   "lanzamientoTexto": "27 AGO 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "The Lord of the Rings: Return to Moria™",
   "acerca": [
     [
@@ -129,39 +211,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -277,5 +368,30 @@
     }
   ],
   "web": "https://www.returntomoria.com/",
-  "consultado": "2026-11-22T22:05:56.021Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 204460,
+  "youtube": [
+    {
+      "id": "veYNaJd5PzE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "sGSjYYAvLWs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "h9Pa9kN65X0",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "nC-J2Ny6ssw",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:29.436Z"
 }

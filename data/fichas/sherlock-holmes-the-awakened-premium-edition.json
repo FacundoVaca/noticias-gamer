@@ -1,9 +1,9 @@
 {
   "clave": "sherlock holmes the awakened premium edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6472-72ac-8f80-240e71d9d86c",
   "appid": "1949030",
@@ -30,30 +30,74 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "835194",
+      "nombre": "Sherlock Holmes The Awakened",
+      "apps": [
+        {
+          "appid": "1949030",
+          "nombre": "Sherlock Holmes The Awakened"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "835195",
+      "nombre": "Sherlock Holmes The Awakened – Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1949030",
+          "nombre": "Sherlock Holmes The Awakened"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "835196",
+      "nombre": "Sherlock Holmes The Awakened – Edición prémium",
+      "apps": [
+        {
+          "appid": "1949030",
+          "nombre": "Sherlock Holmes The Awakened"
+        }
+      ],
+      "usd": 32.99,
+      "antes": 32.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1949030": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 3,
   "dlcLista": [
     {
       "appid": "2208701",
       "nombre": "Sherlock Holmes The Awakened - Paquete de misión secundaria Sueños susurrados",
       "gratis": false,
-      "precio": "$7.79",
-      "antes": null,
+      "usd": 7.79,
       "descuento": 0
     },
     {
       "appid": "2330080",
       "nombre": "Banda sonora de Sherlock Holmes The Awakened",
       "gratis": false,
-      "precio": "$3.59",
-      "antes": null,
+      "usd": 3.59,
       "descuento": 0
     },
     {
       "appid": "2330100",
       "nombre": "Libro de arte de Sherlock Holmes The Awakened",
       "gratis": false,
-      "precio": "$3.59",
-      "antes": null,
+      "usd": 3.59,
       "descuento": 0
     }
   ],
@@ -63,6 +107,7 @@
   ],
   "lanzamientoTexto": "11 ABR 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Sherlock Holmes The Awakened",
   "acerca": [
     [
@@ -112,63 +157,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -275,5 +335,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1949030/ss_5e37f73843f6c777d3b52569b4c583ded83f66a9.1920x1080.jpg?t=1787840980"
     }
   ],
-  "consultado": "2026-11-22T22:26:18.309Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "The game contains exploration of crime scenes, depiction of blood.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 212664,
+  "youtube": [
+    {
+      "id": "rN3XjBJeCyk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Zve-L034uFA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "kjQP2O0c55E",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "wV0Dmvxjld4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:36.083Z"
 }

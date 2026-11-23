@@ -1,0 +1,277 @@
+{
+  "clave": "selaco",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4efa-7037-9d4a-c4ab52dea061",
+  "appid": "1592280",
+  "lanzamiento": "2024-05-31",
+  "desarrolladores": [
+    "Altered Orbit Studios"
+  ],
+  "editores": [
+    "Altered Orbit Studios"
+  ],
+  "etiquetas": [
+    "FPS",
+    "Shooter",
+    "Female Protagonist",
+    "First-Person",
+    "Boomer Shooter"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 4831,
+      "url": "https://store.steampowered.com/app/1592280/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "570269",
+      "nombre": "Selaco",
+      "apps": [
+        {
+          "appid": "1592280",
+          "nombre": "Selaco"
+        }
+      ],
+      "usd": 6.02,
+      "antes": 8.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "1592280": {
+      "usd": 6.02,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3047790",
+      "nombre": "Selaco Official Soundtrack",
+      "gratis": false,
+      "usd": 3,
+      "descuento": 33
+    }
+  ],
+  "descripcion": "Selaco is a brand new original shooter inspired by classics, featuring thrilling action set pieces, destructibility, smart enemies and a fleshed out story taking place within an immersive game world.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "31 MAY 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Selaco",
+  "acerca": [
+    [
+      "p",
+      "Selaco is a brand new original shooter inspired by classics, featuring thrilling action set pieces, destructibility, smart enemies and a fleshed out story taking place within an immersive game world. It draws inspiration heavily from F.E.A.R. in terms of action set pieces, while mixing exploration elements from Half-Life, along with some more modern features."
+    ],
+    [
+      "p",
+      "The story takes place during a violent invasion on Selaco, a massive space station sheltering the last refugees after Earth’s fall just a few years prior. You play as Dawn Collins, an ACE Security Captain who, with her recent promotion and high level security clearances, is digging deep into the truth behind Selaco's murky history. Before she can finish her investigation, Selaco is rocked by explosions and armed invaders."
+    ],
+    [
+      "p",
+      "A lengthy adventure-driven campaign"
+    ],
+    [
+      "p",
+      "Selaco offers a massive, uninterrupted journey packed with action and atmosphere. Explore a wide range of environments in a fully connected world - no cutaways, no time jumps, just seamless momentum from start to finish."
+    ],
+    [
+      "p",
+      "Intense Action set pieces"
+    ],
+    [
+      "p",
+      "Blast through your environment with impactful weapons that really leave a mark on the world. That once lavish office space, now nothing but a pile of rubble with broken paintings, smashed tables, screen, chairs, smoke, and chunks of debris."
+    ],
+    [
+      "p",
+      "Custom AI"
+    ],
+    [
+      "p",
+      "Selaco’s AI was built from the ground up for dynamic, coordinated combat. Enemies communicate, flank, suppress, and adapt to your tactics - keeping pressure when you're aggressive or rushing when you're vulnerable. Hundreds of voiced lines hint at their next move, making every fight feel alive."
+    ],
+    [
+      "p",
+      "Full soundtrack"
+    ],
+    [
+      "p",
+      "Selaco features an original, full-length soundtrack composed by Lawrence Steele, with over 3 hours of neon-tinged electronica spanning from high-intensity combat tracks to immersive, atmospheric soundscapes."
+    ],
+    [
+      "p",
+      "Adapt & Overcome"
+    ],
+    [
+      "p",
+      "As enemies evolve and gain access to new tools, so do you. Improve your weaponry with new utility upgrades, or transform weapon behavior entirely with Weapon Kits."
+    ],
+    [
+      "p",
+      "Replayability"
+    ],
+    [
+      "p",
+      "Selaco is designed with replayability in mind. Jump into Randomizer Mode to experience remixed mechanics, exclusive enemies, and fully customizable chaos. Or test your skills in Incursion Mode (coming later during Early Access), an endless survival challenge set in Deathmatch-style arenas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Microsoft Windows 10/11 (64-Bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-3570k / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 970 / AMD Radeon R9 380"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD is highly recommended. Requirements subject to change"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Microsoft Windows 10/11 (64-Bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i7-7700K / Ryzen 7 1700"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1070 / AMD Radeon RX 5600 XT"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD is highly recommended. Requirements subject to change"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_515b646ca4fa4d49f2ca3ca428256b0839a869fe.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_515b646ca4fa4d49f2ca3ca428256b0839a869fe.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_83f21f753385f2a9c6b0cfc3a77f012c8038e762.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_83f21f753385f2a9c6b0cfc3a77f012c8038e762.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_d78db4e9f6e4f680adb5dcb021eff21566857c61.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_d78db4e9f6e4f680adb5dcb021eff21566857c61.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_6b51e2798d68eaf27dd5df95602a0650f8710547.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_6b51e2798d68eaf27dd5df95602a0650f8710547.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_bc6ddb05173410679a9b98003ea04e49922987e5.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_bc6ddb05173410679a9b98003ea04e49922987e5.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_4b61de3433f48ea35e2d50d5a4f72a9d539994c4.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_4b61de3433f48ea35e2d50d5a4f72a9d539994c4.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_85444406dadb5b2eb85fbb0f2b0f6d3dd7622ac0.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_85444406dadb5b2eb85fbb0f2b0f6d3dd7622ac0.1920x1080.jpg?t=1794593167"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_117c195f47ef152e0d46b66abe6a57f719787a55.600x338.jpg?t=1794593167",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592280/ss_117c195f47ef152e0d46b66abe6a57f719787a55.1920x1080.jpg?t=1794593167"
+    }
+  ],
+  "web": "https://selacogame.com/",
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "avisoContenido": "Depictions of violence and Gore Contains profanity",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 145828,
+  "youtube": [
+    {
+      "id": "nUbF8Ytadx0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "A0IjETWuu7I",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "bFI1QSd4T2g",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:45:39.646Z"
+}

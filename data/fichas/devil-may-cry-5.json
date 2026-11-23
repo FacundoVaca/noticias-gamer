@@ -1,9 +1,9 @@
 {
   "clave": "devil may cry 5",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-556c-700b-adaa-249a833f300c",
   "appid": "601150",
@@ -36,6 +36,268 @@
       "url": "https://store.steampowered.com/app/601150/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "613144",
+      "nombre": "Devil May Cry 5 + Vergil",
+      "apps": [
+        {
+          "appid": "601150",
+          "nombre": "Devil May Cry 5"
+        }
+      ],
+      "usd": 5.75,
+      "antes": 23,
+      "descuento": 75
+    },
+    {
+      "packageid": "613145",
+      "nombre": "Devil May Cry 5 Deluxe + Vergil",
+      "apps": [
+        {
+          "appid": "601150",
+          "nombre": "Devil May Cry 5"
+        }
+      ],
+      "usd": 7.25,
+      "antes": 29,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "601150": {
+      "usd": 5.75,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 32,
+  "dlcLista": [
+    {
+      "appid": "1432640",
+      "nombre": "Devil May Cry 5 - Personaje jugable: Vergil",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "1432641",
+      "nombre": "Devil May Cry 5 - Pack de 4 temas de batalla de Vergil",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "1432642",
+      "nombre": "Devil May Cry 5 - Desbloqueo de super-Vergil",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1432643",
+      "nombre": "Devil May Cry 5 - Provocación EX de Vergil",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "1050460",
+      "nombre": "Devil May Cry 5 Original Soundtrack",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "941966",
+      "nombre": "Devil May Cry 5 - 1 Blue Orb",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "941967",
+      "nombre": "Devil May Cry 5 - 3 Blue Orbs",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "941968",
+      "nombre": "Devil May Cry 5 - 5 Blue Orbs",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "941969",
+      "nombre": "Devil May Cry 5 - 100000 Red Orbs",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "941970",
+      "nombre": "Devil May Cry 5 - 200000 Red Orbs",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "941971",
+      "nombre": "Devil May Cry 5 - 300000 Red Orbs",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "941972",
+      "nombre": "Devil May Cry 5 - 500000 Red Orbs",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "941973",
+      "nombre": "Devil May Cry 5 - 1000000 Red Orbs",
+      "gratis": false,
+      "usd": 7.5,
+      "descuento": 50
+    },
+    {
+      "appid": "941962",
+      "nombre": "Devil May Cry 5 - Super Character 3-Pack",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 20
+    },
+    {
+      "appid": "941963",
+      "nombre": "Devil May Cry 5 - Taunt Trio",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "941964",
+      "nombre": "Devil May Cry 5 - V & Vergil Alt Colors",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "940500",
+      "nombre": "Devil May Cry 5 - Alt Hero Colors",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "940501",
+      "nombre": "Devil May Cry 5 - Alt Heroine Colors",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "941950",
+      "nombre": "Devil May Cry 5 - Alt Style Rank Announcers",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 35
+    },
+    {
+      "appid": "941951",
+      "nombre": "Devil May Cry 5 - Alt Title Calls",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 35
+    },
+    {
+      "appid": "941952",
+      "nombre": "Devil May Cry 5 - Live Action Cutscenes",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "941953",
+      "nombre": "Devil May Cry 5 - DMC1 Battle Track 3-Pack",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "941954",
+      "nombre": "Devil May Cry 5 - DMC2 Battle Track 3-Pack",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "941955",
+      "nombre": "Devil May Cry 5 - DMC3 Battle Track 3-Pack",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "941956",
+      "nombre": "Devil May Cry 5 - DMC4 Battle Track 3-Pack",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "941957",
+      "nombre": "Devil May Cry 5 - Gerbera GP01",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 35
+    },
+    {
+      "appid": "941958",
+      "nombre": "Devil May Cry 5 - Pasta Breaker",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 35
+    },
+    {
+      "appid": "941959",
+      "nombre": "Devil May Cry 5 - Sweet Surrender",
+      "gratis": false,
+      "usd": 1.94,
+      "descuento": 35
+    },
+    {
+      "appid": "941960",
+      "nombre": "Devil May Cry 5 - Mega Buster",
+      "gratis": false,
+      "usd": 1.94,
+      "descuento": 35
+    },
+    {
+      "appid": "941961",
+      "nombre": "Devil May Cry 5 - Cavaliere R",
+      "gratis": false,
+      "usd": 1.94,
+      "descuento": 35
+    },
+    {
+      "appid": "941965",
+      "nombre": "Devil May Cry 5 - Monkey Business",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1426700",
+      "nombre": "Devil May Cry 5 Vergil's Rebirth Sound Selection",
+      "gratis": false,
+      "usd": 10.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "El cazademonios definitivo vuelve con estilo en el juego que los fans de la acción estaban esperando.",
   "generos": [
     "Acción"
@@ -45,6 +307,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/devil-may-cry-5?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Devil May Cry 5",
   "acerca": [
     [
@@ -72,51 +335,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -204,5 +479,32 @@
     }
   ],
   "web": "http://www.capcom.co.jp/devil5/",
-  "consultado": "2026-11-22T22:06:40.291Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "WARNING: This game contains strong language, violence and nudity.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 76253,
+  "youtube": [
+    {
+      "id": "NiC5aCJKifs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MWxlbnI9mpU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0gBESLaqXFs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "rKp1Hy0pjtw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:45.224Z"
 }

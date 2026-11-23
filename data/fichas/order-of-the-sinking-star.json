@@ -2,7 +2,8 @@
   "clave": "order of the sinking star",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b1012-8c75-71ad-8caa-8645ae509ee8",
   "appid": "499170",
@@ -48,6 +49,38 @@
       "url": "https://opencritic.com/game/21501/order-of-the-sinking-star"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "114220",
+      "nombre": "Order of the Sinking Star",
+      "apps": [
+        {
+          "appid": "499170",
+          "nombre": "Order of the Sinking Star"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "499170": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5217050",
+      "nombre": "Order of the Sinking Star Soundtrack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    }
+  ],
   "descripcion": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, discover unique playable heroes, master evolving gameplay mechanics, and decipher a grand mystery.",
   "generos": [
     "Aventura",
@@ -59,6 +92,219 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/order-of-the-sinking-star?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 4068,
-  "consultado": "2026-11-22T21:46:03.048Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Order of the Sinking Star",
+  "acerca": [
+    [
+      "p",
+      "Del legendario director Jonathan Blow (Braid, The Witness) llega Order of the Sinking Star, una aventura masiva con más de mil rompecabezas hechos a mano y diseñados para poner a prueba tu intelecto. Te transportarás a un reino de extraña magia, artilugios peligrosos y monstruos despiadados. Explora cuatro mundos distintos, cada uno con su propia mecánica, personajes e historias, y observa cómo todos ellos chocan entre sí. A medida que los mundos se fusionan y los personajes se encuentran, los sistemas de rompecabezas se entrelazan, creando nuevas y sorprendentes posibilidades de juego. Explora a tu propio ritmo, vuelve a visitar mundos y regresa a los desafíos cuando lo consideres conveniente. Descubre personajes únicos con los que jugar, domina mecánicas de juego en constante evolución y descifra los profundos misterios de un mundo de juego interconectado en expansión. Combinando exploración, narración y mecánicas en constante evolución, Order of the Sinking Star te invita a adentrarte en un misterioso y vivo rompecabezas diferente a todo lo que hayas jugado antes."
+    ],
+    [
+      "p",
+      "Embárcate en una innovadora aventura de rompecabezas con docenas de mecánicas de juego y cientos de horas de juego único. Cada rompecabezas se basa en el anterior, introduciendo nuevas mecánicas de juego que recompensan la curiosidad y la persistencia."
+    ],
+    [
+      "p",
+      "Explora cuatro mundos de juego expansivos y misteriosos, cada uno con sus propios personajes, reglas, peligros y secretos que esperan ser descubiertos. Muévete como quieras: eres libre de resolver los rompecabezas que descubras a tu propio ritmo."
+    ],
+    [
+      "p",
+      "Una reina, un ladrón, un guerrero, un mago y un barco parlante son solo algunos de los héroes de esta historia. Cada personaje posee habilidades complementarias e historias cautivadoras que contar."
+    ],
+    [
+      "p",
+      "A medida que los personajes jugables comienzan a conocerse y los mundos chocan, el misterio se va desentrañando. A través del juego y de las notas que recopiles, aprenderás más sobre este enigmático reino. Pieza a pieza y pista a pista, descubrirás los secretos de Order of the Sinking Star."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or later 64-bit (latest update)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K or AMD Ryzen R5 1600 processor"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or later 64-bit (latest update)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K or AMD Ryzen R5 3600 processor"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 2070 Ti or AMD Radeon RX 5700 or Intel Arc B570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/44bbf392f454a49aa304917d30befad7f2bad8e3/ss_44bbf392f454a49aa304917d30befad7f2bad8e3.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/44bbf392f454a49aa304917d30befad7f2bad8e3/ss_44bbf392f454a49aa304917d30befad7f2bad8e3.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/6227367e4defd4d5d43a852b43ff20994cb8cb32/ss_6227367e4defd4d5d43a852b43ff20994cb8cb32.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/6227367e4defd4d5d43a852b43ff20994cb8cb32/ss_6227367e4defd4d5d43a852b43ff20994cb8cb32.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/a6be2dd33d8b2e23237ac848d52c176623244abb/ss_a6be2dd33d8b2e23237ac848d52c176623244abb.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/a6be2dd33d8b2e23237ac848d52c176623244abb/ss_a6be2dd33d8b2e23237ac848d52c176623244abb.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/a931cf3f32faf6ef25d2e5ab07b99567596f135a/ss_a931cf3f32faf6ef25d2e5ab07b99567596f135a.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/a931cf3f32faf6ef25d2e5ab07b99567596f135a/ss_a931cf3f32faf6ef25d2e5ab07b99567596f135a.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/c07db0d61819d0bf6bffd4939dc12305ac5f685d/ss_c07db0d61819d0bf6bffd4939dc12305ac5f685d.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/c07db0d61819d0bf6bffd4939dc12305ac5f685d/ss_c07db0d61819d0bf6bffd4939dc12305ac5f685d.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/fce9f588d54d2dd95b6a9689a2edf5f0b0b6e79a/ss_fce9f588d54d2dd95b6a9689a2edf5f0b0b6e79a.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/fce9f588d54d2dd95b6a9689a2edf5f0b0b6e79a/ss_fce9f588d54d2dd95b6a9689a2edf5f0b0b6e79a.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/ae34007e8198cd937fa910c9b79ab2548809e506/ss_ae34007e8198cd937fa910c9b79ab2548809e506.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/ae34007e8198cd937fa910c9b79ab2548809e506/ss_ae34007e8198cd937fa910c9b79ab2548809e506.1920x1080.jpg?t=1795262597"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/dbfe962fa3f25bae8f2a9ec51081a1b787637db4/ss_dbfe962fa3f25bae8f2a9ec51081a1b787637db4.600x338.jpg?t=1795262597",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/dbfe962fa3f25bae8f2a9ec51081a1b787637db4/ss_dbfe962fa3f25bae8f2a9ec51081a1b787637db4.1920x1080.jpg?t=1795262597"
+    }
+  ],
+  "web": "https://www.orderofthesinkingstar.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 381222,
+  "youtube": [
+    {
+      "id": "ZwEG6S2RtQI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "T0OBDqGDMYU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SvijpvPhEz0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_TM7vqtT0jM",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:24.266Z"
 }

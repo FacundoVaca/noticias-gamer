@@ -2,7 +2,8 @@
   "clave": "dragon age the veilguard",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018fee47-aed3-72de-8b98-d94181c6b394",
   "appid": "1845910",
@@ -46,6 +47,58 @@
       "url": "https://opencritic.com/game/17037/dragon-age-the-veilguard"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "664222",
+      "nombre": "Dragon Age™: The Veilguard",
+      "apps": [
+        {
+          "appid": "1845910",
+          "nombre": "Dragon Age™: The Veilguard"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 59.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "976092",
+      "nombre": "Dragon Age™: The Veilguard Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1845910",
+          "nombre": "Dragon Age™: The Veilguard"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 79.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1845910": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3281890",
+      "nombre": "Oferta de aspecto de arma de Rook en Dragon Age™: The Veilguard",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2727510",
+      "nombre": "Mejora de la Dragon Age™: The Veilguard Edición Deluxe",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Une a la guardia del Velo y desafía a los dioses en Dragon Age™: The Veilguard, un inmersivo juego de rol para un jugador.",
   "generos": [
     "Acción",
@@ -55,6 +108,286 @@
   ],
   "lanzamientoTexto": "31 OCT 2024",
   "metacritic": null,
-  "recomendaciones": 41686,
-  "consultado": "2026-11-22T21:46:11.797Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Dragon Age™: The Veilguard",
+  "acerca": [
+    [
+      "p",
+      "Adéntrate en Thedas, una tierra vibrante de agrestes páramos, laberintos traicioneros y ciudades resplandecientes, rebosantes de conflictos y magia secreta. Ahora, un par de dioses antiguos vuelven a ser libres tras varios siglos de oscuridad y están decididos a destruir el mundo."
+    ],
+    [
+      "p",
+      "Thedas necesita a alguien con quien se pueda contar. Álzate como Rook, la nueva figura heroica de Dragon Age. Sé quien quieras ser y juega con estilo propio mientras luchas para impedir que los dioses corrompan el mundo. Pero no es una tarea que pueda hacerse sin compañía, pues la suerte está en tu contra. Lidera a un equipo de siete camaradas, con historias llenas de matices que podrás descubrir y condicionar, para convertiros en la Guardia del Velo."
+    ],
+    [
+      "p",
+      "Une a la guardia del Velo y desafía a los dioses en Dragon Age™: The Veilguard, un inmersivo juego de rol para un jugador."
+    ],
+    [
+      "p",
+      "SALVA UN MUNDO MALTRATADO"
+    ],
+    [
+      "p",
+      "Entra en Thedas, un vibrante mundo de agrestes páramos, laberintos traicioneros y ciudades resplandecientes. El mundo está al borde del colapso mientras unos dioses corruptos desatan el caos por todo el continente. Las naciones están en guerra y las facciones, en conflicto. ¿En quién confiarás? El mundo está hecho pedazos, desde el bosque de Arlathan a los callejones de Minrathous. Tus acciones afectarán al destino de Thedas para siempre."
+    ],
+    [
+      "li",
+      "Una espectacular campaña en solitario : Salva Thedas de la amenaza que suponen los dioses élficos corruptos. Aunque lo tenga todo en su contra, a Rook no le asustan las peleas. Plantará cara cueste lo que cueste."
+    ],
+    [
+      "li",
+      "Entornos vibrantes y diversos : Adéntrate en un vívido mundo de fantasía y disfruta de nuevas ubicaciones excepcionales y de ubicaciones de las que has oído hablar pero que nunca has visto."
+    ],
+    [
+      "li",
+      "Rivales espectaculares : Enfréntate a engendros tenebrosos, demonios del Velo, dragones que gobiernan los cielos y oponentes únicos mientras avanzas en tu misión y luchas por el futuro de Thedas."
+    ],
+    [
+      "p",
+      "UNE A LA GUARDIA DEL VELO"
+    ],
+    [
+      "p",
+      "Une a un equipo de siete camaradas con historias y trasfondos profundos y llenos de matices. Entabla amistad o enamórate de los distintos personajes. Entre ellos, hay un asesino, un nigromante o una detective, cada uno con su propia experiencia y técnicas únicas en combate. Siempre tendrás compañía: decide a quién llevarte a la batalla para enfrentarte en compañía a demonios, dragones y dioses corruptos."
+    ],
+    [
+      "li",
+      "Recluta a tus camaradas : Tu equipo está lleno de personas con historias lúgubres y maravillosas, con sus propias motivaciones y luchas personales, y habilidades inusuales que te ayudarán a sobrevivir. Lucharás junto con Harding, exploradora; Neve, detective; Emmrich, nigromante; Taash, cazadragones; Davrin, guarda; Bellara, exploradora del Velo; y Lucanis, asesino de magos."
+    ],
+    [
+      "li",
+      "Camaradas con historias profundas : Conoce mejor y profundiza en las relaciones con cada camarada mientras te aventuras por Thedas. Las decisiones de estas historias afectarán a su desarrollo y, si las completas, desbloquearás poderosas técnicas. Crea recuerdos con tu equipo para disfrutar más de tu experiencia en Thedas y obtener más razones por las que luchar."
+    ],
+    [
+      "p",
+      "USA TU CARISMA Y DESTACA COMO LÍDER"
+    ],
+    [
+      "p",
+      "Elige entre distintas razas y clases de combate, personaliza tu apariencia, elige el trasfondo de tu personaje y comienza tu aventura como Rook, la nueva figura heroica de Dragon Age. La decisión es tuya. En tus aventuras, adquirirás nuevas técnicas y descubrirás artefactos únicos y poderosos que mejorarán tu estilo de combate. Prepárate, pues tendrás que tomar decisiones difíciles, inspirar a tu bando y librar un combate que necesita todas las espadas, bastones y arcos que puedas reunir."
+    ],
+    [
+      "li",
+      "Sé quien quieras ser : Personaliza a tu Rook con un creador de personajes lleno de posibilidades. Elige entre un diverso conjunto de opciones de apariencia para los distintos linajes: humano, qunari, enano y elfo."
+    ],
+    [
+      "li",
+      "Elige tu forma de jugar : Elige entre las clases guerrera, maga y pícara, cada una con 2 tipos de arma diferentes y técnicas únicas entre las que escoger. Descubre una nueva profundidad estratégica: combina ataques rápidos, rechaces y evasiones con la rueda de técnicas de camarada para aprovecharte de los puntos débiles de tus oponentes y hacerte con la victoria con combos devastadores. Personaliza tu estilo de combate como más te guste."
+    ],
+    [
+      "li",
+      "Progreso tipo juego de rol : Sube de nivel a tu Rook y a tus camaradas con sus propios árboles de habilidades. Elige ventajas y técnicas de combate a medida que avanzas hacia especializaciones más potentes."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Sonido envolvente",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 3 3300X* (see notes)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 970/1650 / AMD Radeon R9 290X"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Preferred, HDD Supported; AMD AM4 CPUs on Windows 11 require AGESA V2 1.2.0.7 or newer"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i9-9900K / AMD Ryzen 7 3700X* (see notes)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 2070 / AMD Radeon RX 5700XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required; AMD AM4 CPUs on Windows 11 require AGESA V2 1.2.0.7 or newer"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_a252774678fde933d4fbee722db855b731b0e627.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_a252774678fde933d4fbee722db855b731b0e627.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_94c6e6f26435702105b83e76804cd27710543fcc.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_94c6e6f26435702105b83e76804cd27710543fcc.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_e1cb223c41c80599db057d4101266b4da0d254d3.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_e1cb223c41c80599db057d4101266b4da0d254d3.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_89d0a2e20fd17f28f78bffefc563d2ff246f0e65.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_89d0a2e20fd17f28f78bffefc563d2ff246f0e65.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_951d3c6870be42c63c8baf0c1854be0365272798.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_951d3c6870be42c63c8baf0c1854be0365272798.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_90183c305ccf080f68a9d230a7f97884b7546ff6.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_90183c305ccf080f68a9d230a7f97884b7546ff6.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_f1c4c747397d2e5d6265dacfd767c3b27f64c533.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_f1c4c747397d2e5d6265dacfd767c3b27f64c533.1920x1080.jpg?t=1777414790"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_5165ce61bcc15e27dc8a6217f2bb328cbe46b5c0.600x338.jpg?t=1777414790",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845910/ss_5165ce61bcc15e27dc8a6217f2bb328cbe46b5c0.1920x1080.jpg?t=1777414790"
+    }
+  ],
+  "web": "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 30208,
+  "youtube": [
+    {
+      "id": "W7x685DxMcw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tCokMTQ6qKk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NdtmtuzICOI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "drVOCrvXHhE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:48.699Z"
 }

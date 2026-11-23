@@ -1,9 +1,9 @@
 {
   "clave": "deep rock galactic rogue core",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-75fa-70c7-a9f5-bebc1d0fd23c",
   "appid": "2605790",
@@ -32,6 +32,52 @@
       "url": "https://store.steampowered.com/app/2605790/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "935035",
+      "nombre": "Deep Rock Galactic: Rogue Core",
+      "apps": [
+        {
+          "appid": "2605790",
+          "nombre": "Deep Rock Galactic: Rogue Core"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2605790": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4813580",
+      "nombre": "Deep Rock Galactic: Rogue Core - First Responder",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4216130",
+      "nombre": "Deep Rock Galactic: Rogue Core - Supporter Upgrade",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4630280",
+      "nombre": "Deep Rock Galactic: Rogue Core Soundtrack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    }
+  ],
   "descripcion": "DEEP ROCK GALACTIC: ROGUE CORE is a 1-4 player co-op shooter with sci-fi dwarves, procedurally-generated caves and random roguelike upgrades. Explore maze-like mines and blast through hordes of alien abominations — no two runs are the same. Move quickly, work together and shoot first to survive.",
   "generos": [
     "Acción",
@@ -39,6 +85,7 @@
   ],
   "lanzamientoTexto": "20 MAY 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Deep Rock Galactic: Rogue Core",
   "acerca": [
     [
@@ -125,59 +172,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -285,5 +346,31 @@
     }
   ],
   "web": "http://deeprockgalactic.com/roguecore",
-  "consultado": "2026-11-22T22:03:48.693Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violence, Use of Alcohol, Strong Language",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 270354,
+  "youtube": [
+    {
+      "id": "eq303OLkBkY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "7YnopCuFTWM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "CQ__5je1Bgw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qdHGDsSYiQE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:12.031Z"
 }

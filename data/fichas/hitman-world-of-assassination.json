@@ -1,9 +1,9 @@
 {
   "clave": "hitman world of assassination",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6993-7288-8655-db3300f50295",
   "appid": "1659040",
@@ -38,6 +38,162 @@
       "url": "https://metacritic.com/game/hitman-world-of-assassination/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "672746",
+      "nombre": "HITMAN World of Assassination",
+      "apps": [
+        {
+          "appid": "1659040",
+          "nombre": "HITMAN World of Assassination"
+        }
+      ],
+      "usd": 13.19,
+      "antes": 32.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "963307",
+      "nombre": "HITMAN World of Assassination Part One",
+      "apps": [
+        {
+          "appid": "1659040",
+          "nombre": "HITMAN World of Assassination"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "963308",
+      "nombre": "HITMAN World of Assassination Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1659040",
+          "nombre": "HITMAN World of Assassination"
+        }
+      ],
+      "usd": 45.99,
+      "antes": 45.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1659040": {
+      "usd": 13.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 15,
+  "dlcLista": [
+    {
+      "appid": "5235590",
+      "nombre": "HITMAN WOA - The Host Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5235600",
+      "nombre": "HITMAN WOA - Alter Ego Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4911210",
+      "nombre": "HITMAN WOA - The Herbalist Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "4944070",
+      "nombre": "HITMAN WOA - The Getaway Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "4621250",
+      "nombre": "HITMAN WOA - The Wizard Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "4542910",
+      "nombre": "HITMAN WOA - World Champions Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "3711140",
+      "nombre": "HITMAN WOA - The Banker Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4328240",
+      "nombre": "HITMAN WOA - Patient Zero Requiem Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "3254350",
+      "nombre": "HITMAN WOA - The Splitter Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3110360",
+      "nombre": "HITMAN WOA - The Drop Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2828470",
+      "nombre": "HITMAN WOA - The Undying Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2475260",
+      "nombre": "HITMAN WOA - Sarajevo Six Campaign Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1829596",
+      "nombre": "HITMAN WOA - Trinity Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2184790",
+      "nombre": "HITMAN WOA - Street Art Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2184791",
+      "nombre": "HITMAN WOA - Makeshift Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Entra al mundo del asesino definitivo. HITMAN: mundo del asesinato reúne lo mejor de HITMAN, HITMAN 2 y HITMAN 3. Incluye la campaña principal, contratos, intensificaciones, objetivos escurridizos y HITMAN: Freelancer, un modo inspirado en el género roguelike.",
   "generos": [
     "Acción",
@@ -48,6 +204,7 @@
     "puntaje": 87,
     "url": "https://www.metacritic.com/game/pc/hitman-3?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "HITMAN World of Assassination",
   "acerca": [
     [
@@ -110,39 +267,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -242,5 +408,33 @@
     }
   ],
   "web": "https://hitman.com/",
-  "consultado": "2026-11-22T22:03:51.839Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. This game contains Frequent Violence or Gore, General Mature Content, Drug Use, illegal substances use. There are no sexual acts, but there are some sexual themes where people appear half-naked. Please be cautious as this game also includes acts of suicide.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134595,
+  "youtube": [
+    {
+      "id": "1a2SBO_q66o",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "R_Ob-fupzKg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "YAvs_w9Dsls",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "te_nocX0gi4",
+      "nombre": "Game Intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:25.213Z"
 }

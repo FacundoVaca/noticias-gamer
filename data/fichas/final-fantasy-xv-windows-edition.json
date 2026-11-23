@@ -1,9 +1,9 @@
 {
   "clave": "final fantasy xv windows edition",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-228e-7233-9b1b-1389c0b3a1e3",
   "appid": "637650",
@@ -38,12 +38,66 @@
       "url": "https://opencritic.com/game/5716/final-fantasy-xv-windows-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "245307",
+      "nombre": "FINAL FANTASY XV WINDOWS EDITION",
+      "apps": [
+        {
+          "appid": "637650",
+          "nombre": "FINAL FANTASY XV WINDOWS EDITION"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 27.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "637650": {
+      "usd": 8.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "771560",
+      "nombre": "FFXV WINDOWS EDITION 4K Resolution Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "977610",
+      "nombre": "FINAL FANTASY XV EPISODE ARDYN",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "3372340",
+      "nombre": "FINAL FANTASY XV Original Soundtrack",
+      "gratis": false,
+      "usd": 13.48,
+      "descuento": 10
+    },
+    {
+      "appid": "4425360",
+      "nombre": "Piano Collections - FINAL FANTASY XV: Moonlit Melodies",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Una aventura con la mejor calidad. Gracias a un montón de contenidos adicionales y compatibilidad con opciones gráficas de alta resolución y HDR10, ahora puedes disfrutar como nunca antes de la experiencia de FINAL FANTASY XV en un mundo hermoso y lleno de detalles.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "6 MAR 2018",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "FINAL FANTASY XV WINDOWS EDITION",
   "acerca": [
     [
@@ -278,47 +332,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -434,5 +499,23 @@
     }
   ],
   "web": "https://www.finalfantasyxv.com/",
-  "consultado": "2026-11-22T22:07:22.220Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 55034,
+  "youtube": [
+    {
+      "id": "O0EQlItIDTg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6v9cnSU3ZX0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:17.740Z"
 }

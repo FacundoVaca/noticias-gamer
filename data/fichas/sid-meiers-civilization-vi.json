@@ -1,9 +1,9 @@
 {
   "clave": "sid meiers civilization vi",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f81a-7288-868c-49236397885a",
   "appid": "289070",
@@ -60,6 +60,101 @@
       "url": "https://opencritic.com/game/2719/sid-meiers-civilization-vi"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "123215",
+      "nombre": "Sid Meier's Civilization VI",
+      "apps": [
+        {
+          "appid": "289070",
+          "nombre": "Sid Meier’s Civilization® VI"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 59.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "289070": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "2158250",
+      "nombre": "Pase de líder de Civilization VI",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1308090",
+      "nombre": "Sid Meier's Civilization® VI: New Frontier Pass",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "947510",
+      "nombre": "Sid Meier's Civilization® VI: Gathering Storm",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "645402",
+      "nombre": "Sid Meier’s Civilization® VI: Rise and Fall",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1478300",
+      "nombre": "Sid Meier's Civilization® VI: Portugal Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "1436950",
+      "nombre": "Sid Meier's Civilization® VI: Vietnam & Kublai Khan Pack",
+      "gratis": false,
+      "usd": 8.09,
+      "descuento": 10
+    },
+    {
+      "appid": "1388850",
+      "nombre": "Sid Meier's Civilization® VI: Babylon Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "1284470",
+      "nombre": "Sid Meier's Civilization® VI: Byzantium & Gaul Pack",
+      "gratis": false,
+      "usd": 8.09,
+      "descuento": 10
+    },
+    {
+      "appid": "1270540",
+      "nombre": "Sid Meier's Civilization® VI: Ethiopia Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "1253990",
+      "nombre": "Sid Meier's Civilization® VI: Maya & Gran Colombia Pack",
+      "gratis": false,
+      "usd": 8.09,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Expande tu imperio, haz avanzar tu cultura y enfréntate a los mejores líderes de la historia. ¿Podrá tu civilización superar la prueba del tiempo?",
   "generos": [
     "Estrategia"
@@ -69,6 +164,7 @@
     "puntaje": 88,
     "url": "https://www.metacritic.com/game/pc/sid-meiers-civilization-vi?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Sid Meier’s Civilization® VI",
   "acerca": [
     [
@@ -131,51 +227,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -287,5 +395,31 @@
     }
   ],
   "web": "http://www.civilization.com/",
-  "consultado": "2026-11-22T22:04:07.930Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 19130,
+  "youtube": [
+    {
+      "id": "ZHgVlRdO72U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0YFh38ImZ58",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5KdE0p2joJw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9vVGQThK01M",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:30.857Z"
 }

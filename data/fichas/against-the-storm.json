@@ -1,9 +1,9 @@
 {
   "clave": "against the storm",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-42c6-70a5-a29b-9d8c2e0f7b84",
   "appid": "1336490",
@@ -48,6 +48,52 @@
       "url": "https://opencritic.com/game/13940/against-the-storm"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "467072",
+      "nombre": "Against the Storm",
+      "apps": [
+        {
+          "appid": "1336490",
+          "nombre": "Against the Storm"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 14.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1336490": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "3725110",
+      "nombre": "Against the Storm - Nightwatchers",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3075500",
+      "nombre": "Against the Storm - Keepers of the Stone",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 35
+    },
+    {
+      "appid": "2712950",
+      "nombre": "Against the Storm - Supporter Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Crea ciudades en un mundo de fantasía oscura. Reconstruye una civilización azotada por lluvias apocalípticas. Sirve a la Reina, lidera humanos, castores, lagartos, zorros y harpías para reconquistar la naturaleza y dar un futuro a los últimos supervivientes de la civilización.",
   "generos": [
     "Simuladores",
@@ -58,6 +104,7 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/against-the-storm?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Against the Storm",
   "acerca": [
     [
@@ -102,75 +149,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -262,5 +327,29 @@
     }
   ],
   "web": "https://eremitegames.com",
-  "consultado": "2026-11-22T22:05:27.388Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 147519,
+  "youtube": [
+    {
+      "id": "dgCm2rWkb9w",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "nGGFqp6K284",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "mNBdJkKbkiU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "thxyAE88Ay4",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:29.266Z"
 }

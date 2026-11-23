@@ -1,9 +1,9 @@
 {
   "clave": "space engineers 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193e09c-fdb0-70ed-9bfc-82b21f0c8a38",
   "appid": "1133870",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/1133870/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "385453",
+      "nombre": "Space Engineers 2",
+      "apps": [
+        {
+          "appid": "1133870",
+          "nombre": "Space Engineers 2"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 29.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1133870": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3365540",
+      "nombre": "Space Engineers 2 Pioneer Edition",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Space Engineers 2 es un sandbox Alpha de Acceso Anticipado ya jugable, centrado en la ingeniería, la exploración y la colonización en un universo totalmente destructible. Diseña y construye naves, estaciones y bases planetarias mientras descubres la historia de Miro e Ivan Sokol.",
   "generos": [
     "Acción",
@@ -39,6 +71,7 @@
   ],
   "lanzamientoTexto": "27 ENE 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Space Engineers 2",
   "acerca": [
     [
@@ -148,39 +181,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -288,5 +330,25 @@
     }
   ],
   "web": "https://www.spaceengineers2.com/",
-  "consultado": "2026-11-22T22:06:18.224Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 326578,
+  "youtube": [
+    {
+      "id": "Qw-I-uzT5KY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EZQvoBWHbCU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "vmdTYjQFQWE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:16.930Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "here comes the horde",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a04799-7604-73aa-ae16-ab33b2eeedbf",
   "appid": "5066010",
@@ -27,6 +27,38 @@
       "puntaje": 81,
       "cantidad": 1136,
       "url": "https://store.steampowered.com/app/5066010/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1755914",
+      "nombre": "Here Comes the Horde",
+      "apps": [
+        {
+          "appid": "5066010",
+          "nombre": "Here Comes the Horde"
+        }
+      ],
+      "usd": 2.79,
+      "antes": 3.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "5066010": {
+      "usd": 2.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5322720",
+      "nombre": "Here Comes the Horde Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "«Here Comes the Horde» es un juego de combate automático e incremental en el que mandas tropas a defender tu castillo contra hordas de muertos vivientes. Sobrevive a los ataques, desbloquea nuevas unidades, consigue poderosas habilidades e invade la pantalla con tropas por doquier.",
@@ -281,5 +313,21 @@
     }
   ],
   "web": "https://polishedgames.com/games/here-comes-the-horde/",
-  "consultado": "2026-11-22T22:03:06.959Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 420511,
+  "youtube": [
+    {
+      "id": "TXHtYi_5r5I",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "sQn9_YFf8HM",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:58.848Z"
 }

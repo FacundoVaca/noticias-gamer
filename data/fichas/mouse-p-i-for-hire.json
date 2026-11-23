@@ -1,9 +1,9 @@
 {
   "clave": "mouse p i for hire",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019398c3-d6e6-7085-a03d-b0e04aba35ee",
   "appid": "2416450",
@@ -47,6 +47,110 @@
       "url": "https://opencritic.com/game/19810/mouse-p-i-for-hire"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "869715",
+      "nombre": "MOUSE: P.I. For Hire",
+      "apps": [
+        {
+          "appid": "2416450",
+          "nombre": "MOUSE: P.I. For Hire"
+        }
+      ],
+      "usd": 9.89,
+      "antes": 14.99,
+      "descuento": 34
+    },
+    {
+      "packageid": "1539430",
+      "nombre": "MOUSE: P.I. For Hire Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2416450",
+          "nombre": "MOUSE: P.I. For Hire"
+        },
+        {
+          "appid": "3879490",
+          "nombre": "MOUSE: P.I. For Hire Comic Book"
+        },
+        {
+          "appid": "3879460",
+          "nombre": "MOUSE: P.I. For Hire Original Game Soundtrack"
+        },
+        {
+          "appid": "3912890",
+          "nombre": "MOUSE: P.I. For Hire Story DLC"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1582710",
+      "nombre": "MOUSE: P.I. For Hire Digital Deluxe Upgrade",
+      "apps": [
+        {
+          "appid": "3879490",
+          "nombre": "MOUSE: P.I. For Hire Comic Book"
+        },
+        {
+          "appid": "3879460",
+          "nombre": "MOUSE: P.I. For Hire Original Game Soundtrack"
+        },
+        {
+          "appid": "3912890",
+          "nombre": "MOUSE: P.I. For Hire Story DLC"
+        }
+      ],
+      "usd": 5.79,
+      "antes": 5.79,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2416450": {
+      "usd": 9.89,
+      "gratis": false
+    },
+    "3879460": {
+      "usd": 5.79,
+      "gratis": false
+    },
+    "3879490": {
+      "usd": 0.9,
+      "gratis": false
+    },
+    "3912890": {
+      "usd": 5.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "3879460",
+      "nombre": "MOUSE: P.I. For Hire Original Game Soundtrack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3879490",
+      "nombre": "MOUSE: P.I. For Hire Comic Book",
+      "gratis": false,
+      "usd": 0.9,
+      "descuento": 0
+    },
+    {
+      "appid": "3912890",
+      "nombre": "MOUSE: P.I. For Hire Story DLC",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Únete al detective privado Jack Pepper en una aventura a tiro limpio y llena de jazz en MOUSE: P.I. For Hire. MOUSE combina el encanto de la animación a mano estilo \"rubber hose\" de los dibujos animados de la década de 1930 con la adrenalina de un explosivo juego de disparos en primera persona.",
   "generos": [
     "Acción",
@@ -57,6 +161,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/mouse-pi-for-hire?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "MOUSE: P.I. For Hire",
   "acerca": [
     [
@@ -127,59 +232,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -287,5 +406,30 @@
     }
   ],
   "web": "https://www.mousethegame.com",
-  "consultado": "2026-11-22T22:02:47.432Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 249324,
+  "youtube": [
+    {
+      "id": "sqhhea7jeCo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "8-ueTky6eEk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LwD_h0OQFfQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "-TqHADv6zfg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:18.576Z"
 }

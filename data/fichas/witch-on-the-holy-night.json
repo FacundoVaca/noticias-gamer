@@ -1,9 +1,9 @@
 {
   "clave": "witch on the holy night",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-74c9-7334-8873-29eab5d87eb2",
   "appid": "2052410",
@@ -43,12 +43,35 @@
       "url": "https://opencritic.com/game/14122/witch-on-the-holy-night"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "733245",
+      "nombre": "WITCH ON THE HOLY NIGHT",
+      "apps": [
+        {
+          "appid": "2052410",
+          "nombre": "WITCH ON THE HOLY NIGHT"
+        }
+      ],
+      "usd": 13.49,
+      "antes": 26.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2052410": {
+      "usd": 13.49,
+      "gratis": false
+    }
+  },
   "descripcion": "A tale told with vivid colors and rich sound in a classic TYPE-MOON visual novel.",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "14 DIC 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "WITCH ON THE HOLY NIGHT",
   "acerca": [
     [
@@ -110,19 +133,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -222,5 +249,30 @@
     }
   ],
   "web": "http://typemoon.com/products/mahoyo/",
-  "consultado": "2026-11-22T22:03:26.352Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 201065,
+  "youtube": [
+    {
+      "id": "hgDkwN4Cg2A",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "s_oAO0LG51A",
+      "nombre": "Character Promotional Video"
+    },
+    {
+      "id": "KVmyDtQ9Pr0",
+      "nombre": "Promotional Video"
+    },
+    {
+      "id": "uU6h-7Yi4Mw",
+      "nombre": "Character Promotional Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:45:54.735Z"
 }

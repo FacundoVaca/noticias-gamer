@@ -1,9 +1,9 @@
 {
   "clave": "crysis 3 remastered",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-57b2-72cf-9154-1f6e0c2e1073",
   "appid": "2096610",
@@ -38,12 +38,35 @@
       "url": "https://metacritic.com/game/crysis-3-remastered/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "749319",
+      "nombre": "Crysis 3 Remastered",
+      "apps": [
+        {
+          "appid": "2096610",
+          "nombre": "Crysis 3 Remastered"
+        }
+      ],
+      "usd": 6.92,
+      "antes": 19.79,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "2096610": {
+      "usd": 6.92,
+      "gratis": false
+    }
+  },
   "descripcion": "Vive la experiencia para un jugador del icónico shooter en primera persona, Crysis 3, optimizada para aprovechar los dispositivos actuales en Crysis 3 Remastered.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "17 NOV 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Crysis 3 Remastered",
   "acerca": [
     [
@@ -65,51 +88,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -197,5 +232,19 @@
     }
   ],
   "web": "https://www.crysis.com/",
-  "consultado": "2026-11-22T22:04:58.533Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood Strong Language Violence",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 165127,
+  "youtube": [
+    {
+      "id": "zSFLMW5d_6w",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:47.245Z"
 }

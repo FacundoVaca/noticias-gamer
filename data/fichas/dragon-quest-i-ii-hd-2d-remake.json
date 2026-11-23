@@ -2,7 +2,8 @@
   "clave": "dragon quest i ii hd 2d remake",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01902c24-3805-730c-b168-1f8beedcd780",
   "appid": "2893570",
@@ -49,12 +50,302 @@
       "url": "https://opencritic.com/game/19041/dragon-quest-i-ii-hd-2d-remake"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1031524",
+      "nombre": "DRAGON QUEST I & II HD-2D Remake",
+      "apps": [
+        {
+          "appid": "2893570",
+          "nombre": "DRAGON QUEST I & II HD-2D Remake"
+        }
+      ],
+      "usd": 32.49,
+      "antes": 49.99,
+      "descuento": 35
+    },
+    {
+      "packageid": "1305710",
+      "nombre": "DRAGON QUEST - Pack trilogía de Erdrick HD-2D",
+      "apps": [
+        {
+          "appid": "2893570",
+          "nombre": "DRAGON QUEST I & II HD-2D Remake"
+        },
+        {
+          "appid": "2701660",
+          "nombre": "DRAGON QUEST III HD-2D Remake"
+        }
+      ],
+      "usd": 53.94,
+      "antes": 82.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2701660": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "2893570": {
+      "usd": 32.49,
+      "gratis": false
+    }
+  },
   "descripcion": "El legado de Erdrick continúa.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "30 OCT 2025",
   "metacritic": null,
-  "recomendaciones": 1791,
-  "consultado": "2026-11-22T21:45:15.416Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "DRAGON QUEST I & II HD-2D Remake",
+  "acerca": [
+    [
+      "p",
+      "DRAGON QUEST I & II HD-2D Remake presenta una versión actualizada de las dos primeras historias de la trilogía de Erdrick en un solo título conjunto."
+    ],
+    [
+      "p",
+      "(Podrás escoger si jugar a DRAGON QUEST I o DRAGON QUEST II desde la pantalla de inicio del juego)."
+    ],
+    [
+      "h",
+      "■ DRAGON QUEST I"
+    ],
+    [
+      "p",
+      "◇ Sinopsis"
+    ],
+    [
+      "p",
+      "Gracias a las heroicas gestas del legendario Erdrick, el Señor del Inframundo cayó derrotado y la paz volvió a reinar en la tierra de Alefgrado. Aun así, la ausencia de conflictos fue breve y no tardó en surgir una nueva amenaza: la del diabólico Draconarius y, con él, hordas de monstruos que plagan el mundo entero. ¡Ahora, la misión de acabar con el mal y socorrer a la humanidad recae sobre ti, el descendiente de Erdrick!"
+    ],
+    [
+      "p",
+      "◇ Ambientación"
+    ],
+    [
+      "p",
+      "La historia tiene lugar en Alefgrado, una tierra a la que dio forma una diosa llamada Pamplín. El héroe deberá viajar por todos sus recovecos con el objetivo de derrotar al nefario Draconarius. Durante el periplo, conocerá a varios personajes pintorescos y se enfrentará a una miríada de temibles enemigos."
+    ],
+    [
+      "h",
+      "■ DRAGON QUEST II"
+    ],
+    [
+      "p",
+      "◇ Sinopsis"
+    ],
+    [
+      "p",
+      "Han pasado numerosos lustros desde que el héroe salvó Alefgrado, una hazaña que le granjeó el mismo título de su antepasado. En el presente, existen tres grandes reinos fundados por este “segundo Erdrick” y sus vástagos. Sin embargo, la oscuridad también sigue vigente, y una súbita invasión de criaturas malignas vuelve a sumir al mundo en la penumbra. Los únicos capaces de plantar cara a las fuerzas del mal y sus pérfidas ambiciones son un grupo de jóvenes príncipes y princesas pertenecientes al linaje de Erdrick. ¡La nueva generación de héroes deberá luchar para estar a la altura de su legado!"
+    ],
+    [
+      "p",
+      "◇ Ambientación"
+    ],
+    [
+      "p",
+      "Explorarás un mundo repleto de enclaves que otrora visitara el héroe legendario, así como nuevas ciudades, castillos, cuevas y todo tipo de mazmorras."
+    ],
+    [
+      "p",
+      "Según avances en la aventura, te harás con un barco propio que te permitirá surcar ríos y mares y así ampliar aún más tus horizontes."
+    ],
+    [
+      "p",
+      "◇ Personajes principales"
+    ],
+    [
+      "p",
+      "El príncipe de Centrumbría, el protagonista del juego, viajará acompañado de sus primos: el príncipe de Cannock, la princesa de Arroyo Luna y, como novedad de esta nueva versión del juego, la princesa de Cannock. Los cuatro descendientes de Erdrick, el héroe legendario, emprenderán una aventura para salvar al mundo de las fuerzas oscuras."
+    ],
+    [
+      "p",
+      "◇ Sistema de combate"
+    ],
+    [
+      "p",
+      "Disfruta del sistema de combate clásico por turnos característico de la franquicia. Ataca valiéndote de un amplísimo arsenal de armas y desata todo tipo de conjuros y habilidades para deshacerte de los enemigos que se interpongan en tu camino."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 460 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 750 Ti"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1920 × 1080, Graphics Preset \"Lowest\", 60FPS. 16GB RAM required when using Intel Arc GPU."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 470 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1060"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1920x1080, Graphics Preset \"Highest\", 60FPS. 16GB RAM required when using Intel Arc GPU."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e/ss_bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e.600x338.jpg?t=1773044632",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e/ss_bcc7e908b0dcef5ebf7c76d9a63f5e80db569a3e.1920x1080.jpg?t=1773044632"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/6fb386fd0fbfa9ff5dab40fa584206b4643894b7/ss_6fb386fd0fbfa9ff5dab40fa584206b4643894b7.600x338.jpg?t=1773044632",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/6fb386fd0fbfa9ff5dab40fa584206b4643894b7/ss_6fb386fd0fbfa9ff5dab40fa584206b4643894b7.1920x1080.jpg?t=1773044632"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/f001285af551dfa2f7495d8f2232c6cb0b2fa424/ss_f001285af551dfa2f7495d8f2232c6cb0b2fa424.600x338.jpg?t=1773044632",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/f001285af551dfa2f7495d8f2232c6cb0b2fa424/ss_f001285af551dfa2f7495d8f2232c6cb0b2fa424.1920x1080.jpg?t=1773044632"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/9155996c69e986f02c9d93668bcf57ebe7ea0fad/ss_9155996c69e986f02c9d93668bcf57ebe7ea0fad.600x338.jpg?t=1773044632",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/9155996c69e986f02c9d93668bcf57ebe7ea0fad/ss_9155996c69e986f02c9d93668bcf57ebe7ea0fad.1920x1080.jpg?t=1773044632"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/077e87174aedfa228213e4476ac436ec6fed0756/ss_077e87174aedfa228213e4476ac436ec6fed0756.600x338.jpg?t=1773044632",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/077e87174aedfa228213e4476ac436ec6fed0756/ss_077e87174aedfa228213e4476ac436ec6fed0756.1920x1080.jpg?t=1773044632"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 306144,
+  "youtube": [
+    {
+      "id": "1ltsk99E-RY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "CC1iBil7DR0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RY42dXxFkGE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_cmM8vHv8Wo",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:27.412Z"
 }

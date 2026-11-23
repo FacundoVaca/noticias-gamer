@@ -1,9 +1,9 @@
 {
   "clave": "darkest dungeon ii",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4af2-718f-9dfb-c80328b245fe",
   "appid": "1940340",
@@ -47,6 +47,66 @@
       "url": "https://opencritic.com/game/12422/darkest-dungeon-ii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "699070",
+      "nombre": "Darkest Dungeon® II",
+      "apps": [
+        {
+          "appid": "1940340",
+          "nombre": "Darkest Dungeon® II"
+        }
+      ],
+      "usd": 5.88,
+      "antes": 18.99,
+      "descuento": 69
+    }
+  ],
+  "sueltos": {
+    "1940340": {
+      "usd": 5.88,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "2598510",
+      "nombre": "Darkest Dungeon® II: The Binding Blade",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3205310",
+      "nombre": "Darkest Dungeon® II: Inhuman Bondage",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3591040",
+      "nombre": "Darkest Dungeon® II: Infernal Supporter Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 25
+    },
+    {
+      "appid": "2393240",
+      "nombre": "Darkest Dungeon® II: The Soundtrack",
+      "gratis": false,
+      "usd": 1.54,
+      "descuento": 69
+    },
+    {
+      "appid": "3715610",
+      "nombre": "Darkest Dungeon® II: Hero Origin Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Darkest Dungeon II es el viaje «roguelike» de los condenados. Reúne a un grupo, abastece tu carruaje y embárcate en un viaje por el yermo para evitar el apocalipsis. Aunque los mayores peligros a los que te enfrentarás moran en tu interior...",
   "generos": [
     "Indie",
@@ -58,6 +118,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/darkest-dungeon-ii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Darkest Dungeon® II",
   "acerca": [
     [
@@ -201,63 +262,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -345,5 +421,32 @@
     }
   ],
   "web": "https://www.darkestdungeon.com/",
-  "consultado": "2026-11-22T22:05:43.362Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "Darkest Dungeon II features stylized cartoon violence, gore, and adult themes. Alcohol consumption and intimacy are implied, but not pictured. Content in Darkest Dungeon II does not exceed the threshold of a Teen rating.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 115425,
+  "youtube": [
+    {
+      "id": "Kxom3MTlODI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fq53pdxY-0U",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "gNwTL98TmEg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tjvI9W7WUhc",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:44.629Z"
 }

@@ -2,7 +2,8 @@
   "clave": "nioh 3",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01973dc5-7692-728a-b675-5bb399bb6801",
   "appid": "3681010",
@@ -51,6 +52,58 @@
       "url": "https://opencritic.com/game/19372/nioh-3"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1394720",
+      "nombre": "Nioh 3",
+      "apps": [
+        {
+          "appid": "3681010",
+          "nombre": "Nioh 3"
+        }
+      ],
+      "usd": 29.14,
+      "antes": 58.29,
+      "descuento": 50
+    },
+    {
+      "packageid": "1394724",
+      "nombre": "Nioh 3 Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "3681010",
+          "nombre": "Nioh 3"
+        }
+      ],
+      "usd": 91.69,
+      "antes": 91.69,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3681010": {
+      "usd": 29.14,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4003930",
+      "nombre": "Nioh 3 Season Pass",
+      "gratis": false,
+      "usd": 24.96,
+      "descuento": 25
+    },
+    {
+      "appid": "4003950",
+      "nombre": "Nioh 3 Auge del inframundo",
+      "gratis": false,
+      "usd": 16.69,
+      "descuento": 0
+    }
+  ],
   "descripcion": "En la tercera entrega de la serie de RPG de acción oscura de samuráis, \"Nioh\", tendrás que combinar estilos de combate samurái y ninja para enfrentarte a temibles yokai en un emocionante campo abierto.",
   "generos": [
     "Acción",
@@ -61,6 +114,286 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/nioh-3?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 12149,
-  "consultado": "2026-11-22T21:45:02.378Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Nioh 3",
+  "acerca": [
+    [
+      "p",
+      "Conquista el Purgatorio, conviértete en Shogun."
+    ],
+    [
+      "p",
+      "Nioh 3 es la esperada continuación de la serie Nioh, un RPG oscuro de acción con samuráis. Un letal conflicto se desarrolla en una versión alternativa del período de los estados en guerra en el que los bandidos campan por sus anchas y los yokai esperan al acecho."
+    ],
+    [
+      "h",
+      "Elementos clave del juego:"
+    ],
+    [
+      "p",
+      "• Un campo abierto que te desafía en todo momento"
+    ],
+    [
+      "p",
+      "El juego ofrece un campo abierto que transmite la característica sensación de tensión de la serie \"Nioh\" a la vez que te permite explorar a tu gusto. En este oscuro mundo samurái te enfrentarás a formidables yokai, explorarás aldeas siniestras donde acecha la oscuridad y lucharás por hacer frente a la temible presencia de \"el Purgatorio\"."
+    ],
+    [
+      "h",
+      "• Estilos de combate samurái y Ninja"
+    ],
+    [
+      "p",
+      "Cambia fluidamente entre los dos estilos durante el combate, haciendo frente a tus enemigos con el estilo samurái, y haciendo gala de tu agilidad y técnicas especiales con el estilo ninja."
+    ],
+    [
+      "p",
+      "Nota: También está a la venta el producto \"Nioh 3 Edición Digital Deluxe\". Asegúrate de elegir el producto correcto antes de proceder a la compra."
+    ],
+    [
+      "p",
+      "Nota: Las imágenes son de una versión en desarrollo. El producto final puede ser diferente a lo que se muestra."
+    ],
+    [
+      "p",
+      "Nota:"
+    ],
+    [
+      "p",
+      "- Los datos de guardado de la demo se transferirán automáticamente al ejecutar el juego completo. (Los datos guardados de la demo deben estar en el mismo dispositivo en el que juegues al juego completo.)"
+    ],
+    [
+      "p",
+      "- Si ejecutas el juego completo una sola vez y creas datos de guardado, ya no podrás jugar a la demo."
+    ],
+    [
+      "p",
+      "- EL extra por completar la demo, el Casco de las serpientes gemelas, que puedes obtener al completar la demo hasta el 15 de febrero de 2026, también se puede obtener como botín garantizado al derrotar a Jakotsu-baba en el juego completo hasta el 15 de febrero de 2026. A partir del 16 de febrero de 2026, el objeto pasará a ser botín infrecuente de Jakotsu-baba."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400, AMD Ryzen 5 2600 6 núcleos y 12 hilos o superior"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 VRAM 6GB, AMD Radeon RX 5600 XT (Rev. 2.0) VRAM 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "125 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "48 000 Hz, 16 bits, estéreo"
+      ],
+      [
+        "Notas adicionales",
+        "Se recomienda la configuración de memoria multicanal. Se requiere SSD. El rendimiento del juego puede verse afectado si el rendimiento de la unidad SSD es insuficiente. Se puede jugar a 1080p / 30fps utilizando la configuración gráfica predefinida “más ligera” (con reescalado). Compatible con generación de fotogramas. Nota: Cumple con los requisitos del sistema Windows® 11."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10600K, AMD Ryzen 5 5600X 6 núcleos y 12 hilos o superior"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 Ti VRAM 8GB, AMD Radeon RX 6700 XT VRAM 12GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "125 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "48 000 Hz, 16 bits, estéreo"
+      ],
+      [
+        "Notas adicionales",
+        "Se recomienda la configuración de memoria multicanal. Se requiere SSD, se recomienda NVMe SSD. Se puede jugar a 1080p / 60fps utilizando la configuración gráfica predefinida “estándar” (con reescalado). Compatible con generación de fotogramas. Nota: Cumple con los requisitos del sistema Windows® 11."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/c65877619b70c51d6be030c20b5c37bcfaf2e248/ss_c65877619b70c51d6be030c20b5c37bcfaf2e248.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/c65877619b70c51d6be030c20b5c37bcfaf2e248/ss_c65877619b70c51d6be030c20b5c37bcfaf2e248.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/8c9333bf3f28194cb8113af455ecaf1aa45a0050/ss_8c9333bf3f28194cb8113af455ecaf1aa45a0050.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/8c9333bf3f28194cb8113af455ecaf1aa45a0050/ss_8c9333bf3f28194cb8113af455ecaf1aa45a0050.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d02a1bcff9cc74ef4551c9afce91c78881539a1/ss_5d02a1bcff9cc74ef4551c9afce91c78881539a1.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d02a1bcff9cc74ef4551c9afce91c78881539a1/ss_5d02a1bcff9cc74ef4551c9afce91c78881539a1.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/fe1a9485c46e95c8a899e8cfc645136f303b4fda/ss_fe1a9485c46e95c8a899e8cfc645136f303b4fda.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/fe1a9485c46e95c8a899e8cfc645136f303b4fda/ss_fe1a9485c46e95c8a899e8cfc645136f303b4fda.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/9068ef1b3d231d0808ac8ec50ae864483e4374d9/ss_9068ef1b3d231d0808ac8ec50ae864483e4374d9.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/9068ef1b3d231d0808ac8ec50ae864483e4374d9/ss_9068ef1b3d231d0808ac8ec50ae864483e4374d9.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/271b11ccc100773992d9e0a1d06a1d3848eaf1c8/ss_271b11ccc100773992d9e0a1d06a1d3848eaf1c8.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/271b11ccc100773992d9e0a1d06a1d3848eaf1c8/ss_271b11ccc100773992d9e0a1d06a1d3848eaf1c8.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3/ss_291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3/ss_291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b/ss_5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b.600x338.jpg?t=1772090941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b/ss_5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b.1920x1080.jpg?t=1772090941"
+    }
+  ],
+  "web": "https://teamninja-studio.com/nioh3/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, Partial Nudity",
+  "igdbIntentado": true,
+  "igdb": 347123,
+  "youtube": [
+    {
+      "id": "KXGm-JaxY54",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "MyenuEg-z1w",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "q-1M7pQVu6M",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "IPM1NaVqGDw",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:12.531Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "call to arms gates of hell ostfront",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-442a-7041-bbe5-85c680270035",
   "appid": "400750",
@@ -36,6 +36,80 @@
       "url": "https://metacritic.com/game/call-to-arms-gates-of-hell-ostfront/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "77781",
+      "nombre": "Call to Arms - Gates of Hell: Ostfront",
+      "apps": [
+        {
+          "appid": "400750",
+          "nombre": "Call to Arms - Gates of Hell: Ostfront"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 17.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "400750": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "3691330",
+      "nombre": "Call to Arms - Gates of Hell: Finest Hour",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1911520",
+      "nombre": "Call to Arms - Gates of Hell: Talvisota",
+      "gratis": false,
+      "usd": 2.62,
+      "descuento": 75
+    },
+    {
+      "appid": "2123890",
+      "nombre": "Call to Arms - Gates of Hell: Scorched Earth",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 75
+    },
+    {
+      "appid": "2447590",
+      "nombre": "Call to Arms - Gates of Hell: Liberation",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 75
+    },
+    {
+      "appid": "2904660",
+      "nombre": "Call to Arms - Gates of Hell: Airborne",
+      "gratis": false,
+      "usd": 1.82,
+      "descuento": 75
+    },
+    {
+      "appid": "3588030",
+      "nombre": "Call to Arms - Gates of Hell: Jubilee",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3588040",
+      "nombre": "Call to Arms - Gates of Hell: Supporter Pack",
+      "gratis": false,
+      "usd": 2.62,
+      "descuento": 75
+    }
+  ],
   "descripcion": "Prepárate para una experiencia realista de la S.G.M. Este juego de estrategia basado en hechos históricos te permite controlar soldados en solitario o regimientos enteros de blindados. Es el momento de pasar por el infierno que vivieron los soldados de aquella generación tan valiente.",
   "generos": [
     "Acción",
@@ -44,6 +118,7 @@
   ],
   "lanzamientoTexto": "11 JUN 2021",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Call to Arms - Gates of Hell: Ostfront",
   "acerca": [
     [
@@ -130,43 +205,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -274,5 +359,18 @@
     }
   ],
   "web": "https://www.barbed-wire.eu/",
-  "consultado": "2026-11-22T22:03:03.503Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "'Gates of Hell' es un videojuego realista sobre la 2ª Guerra Mundial. Los jugadores estarán expuestos a contenido sensible.",
+  "igdbIntentado": true,
+  "igdb": 211196,
+  "youtube": [
+    {
+      "id": "G9KkEnBKY60",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:28.740Z"
 }

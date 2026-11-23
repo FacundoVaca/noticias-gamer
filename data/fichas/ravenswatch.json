@@ -1,9 +1,9 @@
 {
   "clave": "ravenswatch",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6782-73a6-8456-4ae2abb8acdd",
   "appid": "2071280",
@@ -49,6 +49,208 @@
       "url": "https://opencritic.com/game/17371/ravenswatch"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1098329",
+      "nombre": "Ravenswatch",
+      "apps": [
+        {
+          "appid": "2071280",
+          "nombre": "Ravenswatch"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 14.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1629752",
+      "nombre": "Ravenswatch - Year One Edition",
+      "apps": [
+        {
+          "appid": "2071280",
+          "nombre": "Ravenswatch"
+        },
+        {
+          "appid": "3113130",
+          "nombre": "Ravenswatch - Digital Artbook"
+        },
+        {
+          "appid": "3113100",
+          "nombre": "Ravenswatch - Fairytales Skin Pack"
+        },
+        {
+          "appid": "3607950",
+          "nombre": "Ravenswatch - Merlin"
+        },
+        {
+          "appid": "3113120",
+          "nombre": "Ravenswatch - Nightmares Skin Pack"
+        },
+        {
+          "appid": "3113110",
+          "nombre": "Ravenswatch - Ravens Skin Pack"
+        },
+        {
+          "appid": "3607920",
+          "nombre": "Ravenswatch - Romeo & Juliet"
+        },
+        {
+          "appid": "3607930",
+          "nombre": "Ravenswatch - Romeo & Juliet Skin Pack"
+        },
+        {
+          "appid": "3607940",
+          "nombre": "Ravenswatch - Timeless Skin Pack"
+        },
+        {
+          "appid": "3393430",
+          "nombre": "Ravenswatch - Unleashed Skin Pack"
+        },
+        {
+          "appid": "3113220",
+          "nombre": "Ravenswatch Soundtrack"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2071280": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "3113100": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3113110": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3113120": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3113130": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3113220": {
+      "usd": 4.79,
+      "gratis": false
+    },
+    "3393430": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3607920": {
+      "usd": null,
+      "gratis": true
+    },
+    "3607930": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3607940": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3607950": {
+      "usd": 3.81,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "4809870",
+      "nombre": "Ravenswatch - Kintaro",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4406950",
+      "nombre": "Ravenswatch - Mercenaries Skin Pack",
+      "gratis": false,
+      "usd": 2.28,
+      "descuento": 15
+    },
+    {
+      "appid": "3607950",
+      "nombre": "Ravenswatch - Merlin",
+      "gratis": false,
+      "usd": 3.81,
+      "descuento": 15
+    },
+    {
+      "appid": "3607940",
+      "nombre": "Ravenswatch - Timeless Skin Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3607920",
+      "nombre": "Ravenswatch - Romeo & Juliet",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3607930",
+      "nombre": "Ravenswatch - Romeo & Juliet Skin Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3393430",
+      "nombre": "Ravenswatch - Unleashed Skin Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3113100",
+      "nombre": "Ravenswatch - Fairytales Skin Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3113110",
+      "nombre": "Ravenswatch - Ravens Skin Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3113120",
+      "nombre": "Ravenswatch - Nightmares Skin Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3113130",
+      "nombre": "Ravenswatch - Digital Artbook",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3113220",
+      "nombre": "Ravenswatch Soundtrack",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Héroes caídos de antiguas leyendas populares: se avecina una batalla crucial contra la Pesadilla que invade y corrompe vuestro mundo. Un «roguelike» de acción de los creadores de Curse of the Dead Gods©, para jugar solo o en modo cooperativo online.",
   "generos": [
     "Acción",
@@ -59,6 +261,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/ravenswatch?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Ravenswatch",
   "acerca": [
     [
@@ -145,51 +348,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -288,5 +503,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/ss_523bda5251c57b700796ad8188a52a257391db04.1920x1080.jpg?t=1792157123"
     }
   ],
-  "consultado": "2026-11-22T22:06:21.403Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "This game features fantasy violence.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 208417,
+  "youtube": [
+    {
+      "id": "uVrUGQ2rE3E",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "H0HQrcAIFXk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ILIe1AbYzOo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "oCIgqESq9Hw",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:24.069Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "total war warhammer",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-fee6-720d-b05e-53c3301ebc6f",
   "appid": "364360",
@@ -52,6 +52,129 @@
       "url": "https://opencritic.com/game/1710/total-war-warhammer"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "109561",
+      "nombre": "Total War: WARHAMMER",
+      "apps": [
+        {
+          "appid": "364360",
+          "nombre": "Total War: WARHAMMER"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 49.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "364360": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 14,
+  "dlcLista": [
+    {
+      "appid": "4605270",
+      "nombre": "Total War: WARHAMMER - Banda sonora original",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "455040",
+      "nombre": "Total War: WARHAMMER - Norsca",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "534330",
+      "nombre": "Total War: WARHAMMER - Bretonnia",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "455041",
+      "nombre": "Total War: WARHAMMER - Isabella von Carstein",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "534331",
+      "nombre": "Total War: WARHAMMER - Realm of The Wood Elves",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "551821",
+      "nombre": "Total War: WARHAMMER - Grey Wizard",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "551820",
+      "nombre": "Total War: WARHAMMER - Jade Wizard",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "404015",
+      "nombre": "Total War: WARHAMMER - Wurrzag",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "506190",
+      "nombre": "Total War: WARHAMMER - Grombrindal The White Dwarf",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "404014",
+      "nombre": "Total War: WARHAMMER - The King and the Warlord",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "404013",
+      "nombre": "Total War: WARHAMMER - The Grim and the Grave",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "404012",
+      "nombre": "Total War: WARHAMMER - Call of the Beastmen",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "404010",
+      "nombre": "Total War: WARHAMMER - Chaos Warriors",
+      "gratis": false,
+      "usd": 3.24,
+      "descuento": 50
+    },
+    {
+      "appid": "404011",
+      "nombre": "Total War: WARHAMMER - Blood for the Blood God",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Toma el mando del Viejo Mundo. Lidera a Señores legendarios en una combinación de campaña por turnos y batallas estratégicas en tiempo real rebosantes de magia, y decide el destino de la raza que elijas en su lucha contra el Caos.",
   "generos": [
     "Acción",
@@ -62,6 +185,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/total-war-warhammer?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Total War: WARHAMMER",
   "acerca": [
     [
@@ -176,55 +300,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -323,5 +460,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/ss_d6bdffce07824b72b467d8abe7c1c64371ced823.1920x1080.jpg?t=1780389642"
     }
   ],
-  "consultado": "2026-11-22T22:06:24.609Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This content shows violence of a graphical nature within a Fantasy World.",
+  "igdbIntentado": true,
+  "igdb": 9898,
+  "youtube": [
+    {
+      "id": "kkZtf0o5MLA",
+      "nombre": "Announcement Cinematic Trailer"
+    },
+    {
+      "id": "3RRfR45EEwM",
+      "nombre": "Welcome to The Old World Trailer"
+    },
+    {
+      "id": "ToTyylPzWPQ",
+      "nombre": "Dwarfs Campaign Walkthrough Trailer"
+    },
+    {
+      "id": "r5_mvEmN8PU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:05.118Z"
 }

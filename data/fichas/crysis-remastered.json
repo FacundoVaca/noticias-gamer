@@ -1,9 +1,9 @@
 {
   "clave": "crysis remastered",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-47ab-722e-b17e-6491648a959d",
   "appid": "1715130",
@@ -47,12 +47,35 @@
       "url": "https://opencritic.com/game/10091/crysis-remastered"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "614173",
+      "nombre": "Crysis Remastered",
+      "apps": [
+        {
+          "appid": "1715130",
+          "nombre": "Crysis Remastered"
+        }
+      ],
+      "usd": 5.73,
+      "antes": 19.79,
+      "descuento": 71
+    }
+  ],
+  "sueltos": {
+    "1715130": {
+      "usd": 5.73,
+      "gratis": false
+    }
+  },
   "descripcion": "El shooter clásico en primera persona de Crytek ha vuelto con un gameplay lleno de acción, un mundo abierto y las batallas épicas emocionantes que le atraparon la primera vez; ahora con gráficos remasterizados optimizados para una nueva generación de hardware.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "17 SEP 2021",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Crysis Remastered",
   "acerca": [
     [
@@ -94,51 +117,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -226,5 +261,19 @@
     }
   ],
   "web": "https://www.crysis.com/",
-  "consultado": "2026-11-22T22:05:08.146Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violence Strong language Weapons",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 132164,
+  "youtube": [
+    {
+      "id": "u6gsOQ8HZAU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:27.149Z"
 }

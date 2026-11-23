@@ -1,9 +1,9 @@
 {
   "clave": "harry potter quidditch champions deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0190fea1-be6e-7101-8788-31e08df2d5fb",
   "appid": "2878600",
@@ -35,14 +35,47 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1026451",
+      "nombre": "Harry Potter: Campeones de quidditch",
+      "apps": [
+        {
+          "appid": "2878600",
+          "nombre": "Harry Potter: Campeones de quidditch"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1045613",
+      "nombre": "Harry Potter: Campeones de quidditch Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2878600",
+          "nombre": "Harry Potter: Campeones de quidditch"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2878600": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "3105320",
       "nombre": "Harry Potter: Quidditch Champions Deluxe Pack",
       "gratis": false,
-      "precio": "$10.99",
-      "antes": null,
+      "usd": 10.99,
       "descuento": 0
     }
   ],
@@ -53,6 +86,7 @@
   ],
   "lanzamientoTexto": "3 SEP 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Harry Potter: Campeones de quidditch",
   "acerca": [
     [
@@ -115,55 +149,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -263,5 +310,30 @@
     }
   ],
   "web": "https://www.quidditchchampions.com",
-  "consultado": "2026-11-22T22:26:10.331Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 246166,
+  "youtube": [
+    {
+      "id": "U1LWcdB0kZg",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "XRS3MSKyKrc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "RDT_OU1DyC8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2vUTDoKLp40",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:45.066Z"
 }

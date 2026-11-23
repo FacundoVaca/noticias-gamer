@@ -1,9 +1,9 @@
 {
   "clave": "final fantasy tactics the ivalice chronicles",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019740d2-6ed6-7129-b13b-e5561c38765e",
   "appid": "1004640",
@@ -48,6 +48,51 @@
       "url": "https://opencritic.com/game/19362/final-fantasy-tactics-the-ivalice-chronicles"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "332151",
+      "nombre": "Final Fantasy Tactics - The Ivalice Chronicles",
+      "apps": [
+        {
+          "appid": "1004640",
+          "nombre": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 39.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1294130",
+      "nombre": "Final Fantasy Tactics - The Ivalice Chronicles: Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1004640",
+          "nombre": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 49.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "1004640": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3681880",
+      "nombre": "FINAL FANTASY TACTICS Complete Soundtrack",
+      "gratis": false,
+      "usd": 10.34,
+      "descuento": 10
+    }
+  ],
   "descripcion": "El juego de rol táctico que marcó un antes y un después en el género regresa por fin con voces para los diálogos, gráficos perfeccionados y un sinnúmero de mejoras de jugabilidad.",
   "generos": [
     "Rol",
@@ -55,6 +100,7 @@
   ],
   "lanzamientoTexto": "30 SEP 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
   "acerca": [
     [
@@ -141,31 +187,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -273,5 +326,26 @@
     }
   ],
   "web": "https://finalfantasytactics.com/",
-  "consultado": "2026-11-22T22:06:59.304Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 347121,
+  "youtube": [
+    {
+      "id": "UKRoOtl7weI",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "oMx8pAVmIcU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JYnDpKMRBWo",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:39.006Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "nier automata",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2ee8-7008-bda8-5bc6436d8ae3",
   "appid": "524220",
@@ -43,6 +43,87 @@
       "url": "https://opencritic.com/game/7334/nier-automata-game-of-the-yorha-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "339705",
+      "nombre": "NieR:Automata™ Game of the YoRHa Edition",
+      "apps": [
+        {
+          "appid": "524220",
+          "nombre": "NieR:Automata™"
+        }
+      ],
+      "usd": 12.79,
+      "antes": 31.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "524220": {
+      "usd": 12.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "580600",
+      "nombre": "NieR:Automata™ - 3C3C1D119440927",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 60
+    },
+    {
+      "appid": "3514130",
+      "nombre": "NieR:Automata Original Soundtrack",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    },
+    {
+      "appid": "3514270",
+      "nombre": "NieR:Automata Arranged & Unreleased Tracks",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    },
+    {
+      "appid": "3514280",
+      "nombre": "NieR:Automata Orchestral Arrangement Album",
+      "gratis": false,
+      "usd": 6.51,
+      "descuento": 10
+    },
+    {
+      "appid": "3514300",
+      "nombre": "Piano Collections NieR:Automata",
+      "gratis": false,
+      "usd": 7.39,
+      "descuento": 10
+    },
+    {
+      "appid": "3514210",
+      "nombre": "NieR Orchestral Arrangement Album - Addendum",
+      "gratis": false,
+      "usd": 6.51,
+      "descuento": 10
+    },
+    {
+      "appid": "3518710",
+      "nombre": "NieR:Piano Journeys",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    },
+    {
+      "appid": "4267420",
+      "nombre": "NieR:Orchestra Concert re:12024 [ the end of data ] Music CD",
+      "gratis": false,
+      "usd": 8.36,
+      "descuento": 10
+    }
+  ],
   "descripcion": "NieR: Automata narra la historia de los androides 2B, 9S y A2, que luchan para recuperar el mundo distópico dirigido por las máquinas que han invadido unas poderosas formas de vida mecánicas.",
   "generos": [
     "Acción",
@@ -53,6 +134,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/nier-automata?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "NieR:Automata™",
   "acerca": [
     [
@@ -110,39 +192,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -258,5 +349,29 @@
     }
   ],
   "web": "http://www.niergame.com/",
-  "consultado": "2026-11-22T22:04:30.267Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 11208,
+  "youtube": [
+    {
+      "id": "brp-8Xq9tGw",
+      "nombre": "Paris Games Week Trailer"
+    },
+    {
+      "id": "4AoGICBGy9U",
+      "nombre": "PSX 2016 Trailer"
+    },
+    {
+      "id": "2GvC5teNiRM",
+      "nombre": "Jump Festa 2016 Trailer"
+    },
+    {
+      "id": "WqXS5_YrA9Q",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:16.552Z"
 }

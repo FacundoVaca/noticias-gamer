@@ -2,7 +2,8 @@
   "clave": "sonic racing crossworlds",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0194fc66-d60d-71a8-8f5c-66db5556853b",
   "appid": "2486820",
@@ -47,6 +48,199 @@
       "url": "https://opencritic.com/game/18727/sonic-racing-crossworlds"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "894965",
+      "nombre": "Sonic Racing: CrossWorlds",
+      "apps": [
+        {
+          "appid": "2486820",
+          "nombre": "Sonic Racing: CrossWorlds"
+        }
+      ],
+      "usd": 19.19,
+      "antes": 31.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1270169",
+      "nombre": "Sonic Racing: CrossWorlds - Edición digital Deluxe",
+      "apps": [
+        {
+          "appid": "2486820",
+          "nombre": "Sonic Racing: CrossWorlds"
+        },
+        {
+          "appid": "3601460",
+          "nombre": "Sonic Racing: CrossWorlds - Pack Avatar Legends"
+        },
+        {
+          "appid": "3601480",
+          "nombre": "Sonic Racing: CrossWorlds - Pack Mega Man"
+        },
+        {
+          "appid": "3565190",
+          "nombre": "Sonic Racing: CrossWorlds - Pack Minecraft"
+        },
+        {
+          "appid": "3601440",
+          "nombre": "Sonic Racing: CrossWorlds - Pack PAC-MAN"
+        },
+        {
+          "appid": "3601430",
+          "nombre": "Sonic Racing: CrossWorlds - Pack SpongeBob SquarePants"
+        },
+        {
+          "appid": "3601470",
+          "nombre": "Sonic Racing: CrossWorlds - Pack Teenage Mutant Ninja Turtles"
+        },
+        {
+          "appid": "3592250",
+          "nombre": "Sonic Racing: CrossWorlds - Pase de temporada"
+        }
+      ],
+      "usd": 28.79,
+      "antes": 47.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1680345",
+      "nombre": "Sonic Racing: CrossWorlds – Edición digital Deluxe 2.º año",
+      "apps": [
+        {
+          "appid": "4836560",
+          "nombre": "Pack Sonic Racing: CrossWorlds - Godzilla"
+        },
+        {
+          "appid": "2486820",
+          "nombre": "Sonic Racing: CrossWorlds"
+        },
+        {
+          "appid": "4836670",
+          "nombre": "Sonic Racing: CrossWorlds - Pase de temporada 2"
+        }
+      ],
+      "usd": 38.39,
+      "antes": 47.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2486820": {
+      "usd": 19.19,
+      "gratis": false
+    },
+    "3565190": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "3592250": {
+      "usd": 14.69,
+      "gratis": false
+    },
+    "3601430": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "3601440": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "3601460": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "3601470": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "3601480": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "4836560": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "4836670": {
+      "usd": 20.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "4836560",
+      "nombre": "Pack Sonic Racing: CrossWorlds - Godzilla",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4836670",
+      "nombre": "Sonic Racing: CrossWorlds - Pase de temporada 2",
+      "gratis": false,
+      "usd": 20.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3601460",
+      "nombre": "Sonic Racing: CrossWorlds - Pack Avatar Legends",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3601470",
+      "nombre": "Sonic Racing: CrossWorlds - Pack Teenage Mutant Ninja Turtles",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3592250",
+      "nombre": "Sonic Racing: CrossWorlds - Pase de temporada",
+      "gratis": false,
+      "usd": 14.69,
+      "descuento": 30
+    },
+    {
+      "appid": "3601480",
+      "nombre": "Sonic Racing: CrossWorlds - Pack Mega Man",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3601440",
+      "nombre": "Sonic Racing: CrossWorlds - Pack PAC-MAN",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3601430",
+      "nombre": "Sonic Racing: CrossWorlds - Pack SpongeBob SquarePants",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3565190",
+      "nombre": "Sonic Racing: CrossWorlds - Pack Minecraft",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3601510",
+      "nombre": "Sonic Racing: CrossWorlds - Extreme Gear «Blue Star»",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Corre por tierra, mar, aire, espacio y tiempo en Sonic Racing: CrossWorlds! Teletranspórtate a través de los Rings de travesía a nuevas dimensiones, donde te aguardan sorpresas en cada giro y curva.",
   "generos": [
     "Acción",
@@ -58,6 +252,336 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/sonic-racing-crossworlds?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 12047,
-  "consultado": "2026-11-22T21:44:37.992Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Sonic Racing: CrossWorlds",
+  "acerca": [
+    [
+      "p",
+      "¡Corre por tierra, mar, aire y espacio en Sonic Racing: CrossWorlds! Teletranspórtate a través de los Rings de travesía a nuevas dimensiones, donde te aguardan sorpresas en cada giro y curva. Acelera hacia la victoria en solitario o en equipo en una gran variedad de modos locales y en línea, y compite contra jugadores de todo el mundo. ¡Crea un vehículo que se adapte a ti, desbloquea artilugios para ganar ventaja y usa potenciadores!"
+    ],
+    [
+      "h",
+      "Ven a competir a nuestro nivel"
+    ],
+    [
+      "p",
+      "Compite por 24* circuitos y teletranspórtate a uno de los 15 CrossWorlds con los Rings de travesía, que te llevan a un nuevo circuito con reglas y desafíos especiales en la segunda vuelta. Regresa al primer circuito para la última vuelta, donde te esperan sorpresas y cambios en el trazado de la pista. Los Rings de travesía siempre esconden una sorpresa al otro lado. ¡No hay dos carreras iguales!"
+    ],
+    [
+      "h",
+      "Fácil de aprender, difícil de dominar"
+    ],
+    [
+      "p",
+      "Elige entre más de 45 vehículos únicos y más de 70** artilugios que definen tu estilo de juego. Personaliza con artilugios todos los aspectos de la carrera, como la eficacia del turbo, la probabilidad de obtener objetos y el tiempo de recuperación. Crea tu configuración."
+    ],
+    [
+      "p",
+      "Hay 5 clases de personajes/vehículos: velocidad, aceleración, conducción, potencia y turbo. Ajusta su rendimiento con piezas delanteras, traseras y neumáticos, y modifica cada parámetro adaptándolo a tu estilo. Da el toque final con carrocerías personalizadas, pegatinas y más para montar tu vehículo definitivo."
+    ],
+    [
+      "h",
+      "Un elenco enorme"
+    ],
+    [
+      "p",
+      "¡Elige entre 23 personajes emblemáticos de Sonic! Desde el Equipo Sonic hasta los Babylon Rogues, el Equipo Chaotix e incluso los Mortíferos Seis, es el plantel más completo en un juego de carreras de Sonic hasta ahora."
+    ],
+    [
+      "p",
+      "Los personajes tienen interacciones únicas con el nuevo sistema de rivales, que selecciona al azar un rival en cada carrera y lo hace más rápido, astuto y desafiante. Derrótalo y gana recompensas y diálogos exclusivos."
+    ],
+    [
+      "h",
+      "Juega a tu manera"
+    ],
+    [
+      "p",
+      "Afina tu técnica en solitario, coopera con amigos o juega en línea con hasta 12 jugadores en modos diseñados para competir, practicar y dominar."
+    ],
+    [
+      "p",
+      "• Gran Premio clásico: compite en 4 circuitos por la mayor puntuación."
+    ],
+    [
+      "p",
+      "• Parque de competición: compite en equipos de 2 a 4 jugadores con reglas únicas. Recoge la mayor cantidad de Rings, ayuda a tus aliados con turbos, elimina a tus oponentes, juega solo con objetos de gran impacto o crea reglas personalizadas."
+    ],
+    [
+      "p",
+      "• Pruebas contrarreloj: compite en solitario en un circuito y logra el mejor tiempo posible. Comparte tu tiempo en la clasificación mundial y exhibe tu dominio."
+    ],
+    [
+      "p",
+      "• Partidas globales y clasificación en línea: juega contra jugadores internacionales en salas de 12 participantes y lucha por alcanzar el rango legendario."
+    ],
+    [
+      "h",
+      "Una experiencia de carreras en evolución"
+    ],
+    [
+      "p",
+      "Sonic Racing: CrossWorlds contará con actualizaciones periódicas gratis que añadirán personajes, vehículos, música, sonidos y artilugios. Personajes del universo SEGA, como Joker, Ichiban, Hatsune Miku, AiAi y NiGHTS, se suman a la competición, con más personajes en camino."
+    ],
+    [
+      "p",
+      "Amplía tu experiencia con el contenido de pago del pase de temporada, que incluye colaboraciones con franquicias como Bob Esponja y Minecraft. Los packs de personajes del pase de temporada incluyen entre 2 y 4 corredores jugables***, circuitos, pegatinas y sonidos para personalizar tu vehículo, música, artilugios y más."
+    ],
+    [
+      "h",
+      "Corre por diversión y por la fama"
+    ],
+    [
+      "p",
+      "Las actualizaciones gratis de personajes y el contenido de pago vienen acompañados de festivales, eventos de tiempo limitado donde representas a uno de los 3 equipos y compites con jugadores de todo el mundo por la mayor puntuación. Las carreras tendrán reglas especiales durante estos eventos, y el equipo ganador obtendrá recompensas."
+    ],
+    [
+      "p",
+      "Si te consideras de los mejores, ponte a prueba en las competiciones legendarias. Son eventos cronometrados con reglas únicas, abiertos solo a jugadores de élite (rango legendario 9 o más en partidas globales). Apunta a lo más alto para recibir recompensas especiales y lucha por el codiciado rango «Corredor de esmeralda»."
+    ],
+    [
+      "p",
+      "* Pueden añadirse más circuitos tras el lanzamiento."
+    ],
+    [
+      "p",
+      "* Pueden añadirse más artilugios tras el lanzamiento."
+    ],
+    [
+      "p",
+      "*** Consulta el pase de temporada y los packs de contenido individuales para más información sobre personajes jugables."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Compatible con DualShock"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3470 or AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1630, 4GB or AMD Radeon R9 380, 4GB or Intel Arc A380, 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low 1080p @ 30 FPS. A processor supporting AVX extensions set is required to launch the application. Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700K or AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660 Ti, 6 GB or AMD Radeon RX 5600 XT, 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p @ 60 FPS. A processor supporting AVX extensions set is required to launch the application."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/510ee49b239a6b010e43abed1e7d12ab8f97c60a/ss_510ee49b239a6b010e43abed1e7d12ab8f97c60a.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/510ee49b239a6b010e43abed1e7d12ab8f97c60a/ss_510ee49b239a6b010e43abed1e7d12ab8f97c60a.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/fd50d89c6b9a83bf0fb07fe286f8e86baf355772/ss_fd50d89c6b9a83bf0fb07fe286f8e86baf355772.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/fd50d89c6b9a83bf0fb07fe286f8e86baf355772/ss_fd50d89c6b9a83bf0fb07fe286f8e86baf355772.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/2e53e78c9906ea2202ef39592c0419123cd0c59e/ss_2e53e78c9906ea2202ef39592c0419123cd0c59e.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/2e53e78c9906ea2202ef39592c0419123cd0c59e/ss_2e53e78c9906ea2202ef39592c0419123cd0c59e.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/44c006f80b9bb0bf8d36f42a04f357d1a25c000d/ss_44c006f80b9bb0bf8d36f42a04f357d1a25c000d.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/44c006f80b9bb0bf8d36f42a04f357d1a25c000d/ss_44c006f80b9bb0bf8d36f42a04f357d1a25c000d.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/3d0d2e2f1ec38bc6e5cb19766f104bfe1442e3c3/ss_3d0d2e2f1ec38bc6e5cb19766f104bfe1442e3c3.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/3d0d2e2f1ec38bc6e5cb19766f104bfe1442e3c3/ss_3d0d2e2f1ec38bc6e5cb19766f104bfe1442e3c3.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/68d04858202b2f8fa8f84e5497962cb22c09e22c/ss_68d04858202b2f8fa8f84e5497962cb22c09e22c.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/68d04858202b2f8fa8f84e5497962cb22c09e22c/ss_68d04858202b2f8fa8f84e5497962cb22c09e22c.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/bf3f2046733d9bdf12e86a245ca716c01b6dcc88/ss_bf3f2046733d9bdf12e86a245ca716c01b6dcc88.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/bf3f2046733d9bdf12e86a245ca716c01b6dcc88/ss_bf3f2046733d9bdf12e86a245ca716c01b6dcc88.1920x1080.jpg?t=1795211139"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/86d5c09bf44f310269c4d492135b9a6e911fac33/ss_86d5c09bf44f310269c4d492135b9a6e911fac33.600x338.jpg?t=1795211139",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486820/86d5c09bf44f310269c4d492135b9a6e911fac33/ss_86d5c09bf44f310269c4d492135b9a6e911fac33.1920x1080.jpg?t=1795211139"
+    }
+  ],
+  "web": "https://www.RaceCrossWorlds.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 325608,
+  "youtube": [
+    {
+      "id": "Ks_Uxuhz6nc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "JIS6rIf2HVU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "L0zbZhoDU20",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "C6BSu_x0gcE",
+      "nombre": "Accolades Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:06.479Z"
 }

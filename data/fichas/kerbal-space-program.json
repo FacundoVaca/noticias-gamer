@@ -1,9 +1,9 @@
 {
   "clave": "kerbal space program",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-08a5-730e-ab9f-04c285adec1c",
   "appid": "220200",
@@ -53,6 +53,45 @@
       "url": "https://opencritic.com/game/562/kerbal-space-program"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "27437",
+      "nombre": "Kerbal Space Program",
+      "apps": [
+        {
+          "appid": "220200",
+          "nombre": "Kerbal Space Program"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 19.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "220200": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "283740",
+      "nombre": "Kerbal Space Program: Making History Expansion",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 70
+    },
+    {
+      "appid": "982970",
+      "nombre": "Kerbal Space Program: Breaking Ground Expansion",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 70
+    }
+  ],
   "descripcion": "En Kerbal Space Program, dirige el programa espacial de una raza alienígena conocida como los Kerbals. Utiliza una gran variedad de piezas para construir naves espaciales completamente funcionales que volarán (o no) en función de las leyes de la aerodinámica y la física orbital.",
   "generos": [
     "Indie",
@@ -63,6 +102,7 @@
     "puntaje": 88,
     "url": "https://www.metacritic.com/game/pc/kerbal-space-program?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Kerbal Space Program",
   "acerca": [
     [
@@ -125,39 +165,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -241,5 +290,31 @@
     }
   ],
   "web": "https://kerbalspaceprogram.com/",
-  "consultado": "2026-11-22T22:06:52.952Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 3102,
+  "youtube": [
+    {
+      "id": "EcaiqlTpfHI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7kTbo1wmN-w",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "nfRe0696vZM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wd5uVMLGmuA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:34.897Z"
 }

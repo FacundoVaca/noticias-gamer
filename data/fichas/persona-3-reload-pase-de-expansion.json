@@ -1,9 +1,9 @@
 {
   "clave": "persona 3 reload pase de expansion",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018e30d4-0ddc-7292-847f-9dc355a2a7cb",
   "appid": "2689210",
@@ -35,6 +35,27 @@
   "juegoBase": {
     "appid": "2161700",
     "nombre": "Persona 3 Reload"
+  },
+  "ediciones": [
+    {
+      "packageid": "963162",
+      "nombre": "Persona 3 Reload: Expansion Pass",
+      "apps": [
+        {
+          "appid": "2689210",
+          "nombre": "Persona 3 Reload: pase de expansión"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 27.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "2689210": {
+      "usd": 8.39,
+      "gratis": false
+    }
   },
   "descripcion": "Profundiza en el mundo de Persona 3 Reload con este pase de expansión que incluye nuevos atuendos, música y la versión extendida del Episodio Aigis -La respuesta-.",
   "generos": [
@@ -251,55 +272,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -363,5 +397,20 @@
     }
   ],
   "web": "https://persona.atlus.com/p3r",
-  "consultado": "2026-11-22T22:21:21.537Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game includes content such as blood, partial nudity, sexual themes, and violence.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 289704,
+  "youtube": [
+    {
+      "id": "gRIkpLo42GM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:59.893Z"
 }

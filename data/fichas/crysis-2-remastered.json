@@ -1,9 +1,9 @@
 {
   "clave": "crysis 2 remastered",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-57b2-72cf-9154-1f6e0d264d45",
   "appid": "2096600",
@@ -37,12 +37,35 @@
       "url": "https://metacritic.com/game/crysis-2-remastered/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "749316",
+      "nombre": "Crysis 2 Remastered",
+      "apps": [
+        {
+          "appid": "2096600",
+          "nombre": "Crysis 2 Remastered"
+        }
+      ],
+      "usd": 6.92,
+      "antes": 19.79,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "2096600": {
+      "usd": 6.92,
+      "gratis": false
+    }
+  },
   "descripcion": "Revive la legendaria campaña de un jugador del clásico shooter en primera persona, Crysis 2, optimizada para los dispositivos actuales en Crysis 2 Remastered.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "17 NOV 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Crysis 2 Remastered",
   "acerca": [
     [
@@ -64,51 +87,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -208,5 +243,19 @@
     }
   ],
   "web": "https://www.crysis.com/",
-  "consultado": "2026-11-22T22:04:55.308Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violence Strong language Weapons",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 165126,
+  "youtube": [
+    {
+      "id": "njoqC5OJA0U",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:42.226Z"
 }

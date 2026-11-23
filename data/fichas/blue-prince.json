@@ -1,9 +1,9 @@
 {
   "clave": "blue prince",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4f0d-70a3-a226-913f086b70d6",
   "appid": "1569580",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/18352/blue-prince"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "554675",
+      "nombre": "Blue Prince",
+      "apps": [
+        {
+          "appid": "1569580",
+          "nombre": "Blue Prince"
+        }
+      ],
+      "usd": 8.09,
+      "antes": 14.99,
+      "descuento": 46
+    }
+  ],
+  "sueltos": {
+    "1569580": {
+      "usd": 8.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3711820",
+      "nombre": "Blue Prince - The Original Soundtrack",
+      "gratis": false,
+      "usd": 3.47,
+      "descuento": 40
+    }
+  ],
   "descripcion": "Esto es Monte Holly, donde cada amanecer revela un nuevo misterio. Recorre pasillos y salas cambiantes en este juego que rompe con los géneros y combina aventura, estrategia y puzles. Pero ¿llegarás a la misteriosa habitación 46?",
   "generos": [
     "Aventura",
@@ -59,6 +91,7 @@
     "puntaje": 92,
     "url": "https://www.metacritic.com/game/pc/blue-prince?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Blue Prince",
   "acerca": [
     [
@@ -90,7 +123,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -190,5 +224,31 @@
     }
   ],
   "web": "http://blueprincegame.com/",
-  "consultado": "2026-11-22T22:05:14.623Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 149657,
+  "youtube": [
+    {
+      "id": "9Ali8xUOvZo",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Kwq7O2nLK1U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BVvcRH3Mbtk",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "GoOcOTwmhbg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:57.198Z"
 }

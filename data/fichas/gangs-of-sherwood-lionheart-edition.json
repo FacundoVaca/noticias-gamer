@@ -1,9 +1,9 @@
 {
   "clave": "gangs of sherwood lionheart edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-75cc-73ef-8683-d9f88d6e954b",
   "appid": "1351000",
@@ -33,46 +33,75 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "916764",
+      "nombre": "Gangs of Sherwood - Lionheart Edition",
+      "apps": [
+        {
+          "appid": "1351000",
+          "nombre": "Gangs of Sherwood"
+        }
+      ],
+      "usd": 1.89,
+      "antes": 18.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "472626",
+      "nombre": "Gangs of Sherwood",
+      "apps": [
+        {
+          "appid": "1351000",
+          "nombre": "Gangs of Sherwood"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1351000": {
+      "usd": 1.89,
+      "gratis": false
+    }
+  },
   "dlcTotal": 5,
   "dlcLista": [
     {
       "appid": "2394540",
       "nombre": "Gangs of Sherwood - Digital Soundtrack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2394550",
       "nombre": "Gangs of Sherwood - Digital Artbook",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2432270",
       "nombre": "Gangs of Sherwood - Prestige Skin Set Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2432271",
       "nombre": "Gangs of Sherwood - Lionheart Skin Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2432272",
       "nombre": "Gangs of Sherwood - Alan A Dale Alternative Skin",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     }
   ],
@@ -83,6 +112,7 @@
   ],
   "lanzamientoTexto": "30 NOV 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Gangs of Sherwood",
   "caracteristicas": [
     "Un jugador",
@@ -99,43 +129,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -234,5 +274,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_35b3f8dbac5a781c1c6ecd2754c5d5c476374773.1920x1080.jpg?t=1778173468"
     }
   ],
-  "consultado": "2026-11-22T22:26:16.022Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "This game features fantasy violence, mild blood and mild language.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 208399,
+  "youtube": [
+    {
+      "id": "rqE-C48Yrss",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "8a5xd3zuaqQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "JOaZrYVcs8A",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "dtWsrBf0iM0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:23.714Z"
 }

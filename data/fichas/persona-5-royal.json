@@ -1,9 +1,9 @@
 {
   "clave": "persona 5 royal",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4adb-73a6-a9e5-94ff62f6265b",
   "appid": "1687950",
@@ -52,6 +52,28 @@
       "url": "https://opencritic.com/game/8785/persona-5-royal"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "601219",
+      "nombre": "Persona 5 Royal",
+      "apps": [
+        {
+          "appid": "1687950",
+          "nombre": "Persona 5 Royal"
+        }
+      ],
+      "usd": 14.39,
+      "antes": 47.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1687950": {
+      "usd": 14.39,
+      "gratis": false
+    }
+  },
   "descripcion": "Lidera a los Ladrones Fantasma de Corazones en este RPG por turnos, repleto de exploración de mazmorras, personalización del grupo, combate estratégico y fusión de Personas. Explora Tokio, forja vínculos, combate contra las Sombras e infíltrate en las mentes de los corruptos para hacer que cambien.",
   "generos": [
     "Rol"
@@ -61,6 +83,7 @@
     "puntaje": 95,
     "url": "https://www.metacritic.com/game/pc/persona-5-royal?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Persona 5 Royal",
   "acerca": [
     [
@@ -103,39 +126,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -243,5 +275,32 @@
     }
   ],
   "web": "https://www.atlus.com/p5r",
-  "consultado": "2026-11-22T22:04:01.511Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game includes content such as blood, drug reference, partial nudity, sexual themes, strong language, and violence.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 114283,
+  "youtube": [
+    {
+      "id": "IR_7H_zzU7Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "o9QjlLdYK5I",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "xHVbI9wjM4U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8U8OLRnde70",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:25.482Z"
 }

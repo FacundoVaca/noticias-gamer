@@ -2,7 +2,9 @@
   "clave": "yakuza 0 directors cut",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "01979374-0b09-736a-98b4-c25fdc1b25f2",
   "appid": "2988580",
@@ -42,6 +44,41 @@
       "url": "https://opencritic.com/game/18341/yakuza-0-directors-cut"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1470285",
+      "nombre": "Yakuza 0 Director's Cut - Mejora",
+      "apps": [
+        {
+          "appid": "2988580",
+          "nombre": "Yakuza 0 Director's Cut"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 11.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1063458",
+      "nombre": "Yakuza 0 Director's Cut",
+      "apps": [
+        {
+          "appid": "2988580",
+          "nombre": "Yakuza 0 Director's Cut"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2988580": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Descubre la decadencia y los peligros del Japón de 1988 mientras luchas en sus distritos de entretenimiento llenos de neones en la edición definitiva del épico drama criminal que originó las leyendas de la yakuza.",
   "generos": [
     "Acción",
@@ -50,6 +87,278 @@
   ],
   "lanzamientoTexto": "8 DIC 2025",
   "metacritic": null,
-  "recomendaciones": 1894,
-  "consultado": "2026-11-22T21:46:20.640Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Yakuza 0 Director's Cut",
+  "acerca": [
+    [
+      "p",
+      "Yakuza 0 Director's Cut es la edición definitiva de la aclamada precuela de la saga Yakuza."
+    ],
+    [
+      "p",
+      "Ponte en la piel del yakuza Kazuma Kiryu y del gerente de cabaret Goro Majima y ábrete paso a puño limpio por las calles de los distritos de entretenimiento de Tokio y Osaka en este épico drama criminal en el que los destinos se entrelazan y nacen nuevas leyendas."
+    ],
+    [
+      "p",
+      "■ APLASTA A TUS RIVALES CON ESTILO"
+    ],
+    [
+      "p",
+      "Kiryu y Majima tienen tres estilos de lucha únicos cada uno, entre los cuales puedes alternar libremente para repartir leña a diestro y siniestro, ya sea con tus puños o con lo que tengas a mano. No habrá pelea que se te resista gracias a unos controles intuitivos y la posibilidad de perfeccionar tus habilidades al máximo."
+    ],
+    [
+      "p",
+      "■ DESCUBRE LA DECADENCIA DEL JAPÓN DE 1988"
+    ],
+    [
+      "p",
+      "Luchar no es la única forma de matar el tiempo en el Japón de 1988: discotecas, dardos, recreativos de SEGA, cabarets... En esta ciudad llena de neones puedes hacer de todo."
+    ],
+    [
+      "p",
+      "■ DISFRUTA DEL CONTENIDO DE DIRECTOR'S CUT"
+    ],
+    [
+      "p",
+      "Sumérgete en los momentos clave y en las historias de los personajes como nunca a través de las cinemáticas exclusivas de la versión Director's Cut. Además, en el modo multijugador en línea «Raid Luz Roja», podrás unir fuerzas con amigos y elegir entre 60 personajes jugables para enfrentarte a hordas de enemigos."
+    ],
+    [
+      "p",
+      "*Si tienes la versión digital de Yakuza 0, puedes obtener la versión digital de Yakuza 0 Director's Cut con descuento en su precio."
+    ],
+    [
+      "p",
+      "*Yakuza 0 y Yakuza 0 Director's Cut tienen especificaciones diferentes y no se pueden transferir los datos guardados."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8100,3.6GHz or AMD Ryzen 3 2300X,3.5GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX960,4GB or AMD Radeon RX460,4GB or Intel Arc A380,6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "95 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "N/A"
+      ],
+      [
+        "Compatibilidad con RV",
+        "N/A"
+      ],
+      [
+        "Notas adicionales",
+        "Low 1080p@30FPS, requires a CPU with supports the AVX and SSE4.2 instruction set"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600K,3.6GHz or AMD Ryzen 5 2500X,3.6GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX1070,8GB or AMD Radeon RX Vega 56,8GB or Intel Arc A750,8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "95 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "N/A"
+      ],
+      [
+        "Compatibilidad con RV",
+        "N/A"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p@60FPS, requires a CPU with supports the AVX and SSE4.2 instruction set"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/003a62cdb4153ecaa10875b54fc9a971d81ae3e1/ss_003a62cdb4153ecaa10875b54fc9a971d81ae3e1.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/003a62cdb4153ecaa10875b54fc9a971d81ae3e1/ss_003a62cdb4153ecaa10875b54fc9a971d81ae3e1.1920x1080.jpg?t=1783041339"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/623571304e3b2acc62e0c0d64fd5748b139afdb6/ss_623571304e3b2acc62e0c0d64fd5748b139afdb6.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/623571304e3b2acc62e0c0d64fd5748b139afdb6/ss_623571304e3b2acc62e0c0d64fd5748b139afdb6.1920x1080.jpg?t=1783041339"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/96730b7510e8f42e3fa60f6d899abbcf349758f2/ss_96730b7510e8f42e3fa60f6d899abbcf349758f2.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/96730b7510e8f42e3fa60f6d899abbcf349758f2/ss_96730b7510e8f42e3fa60f6d899abbcf349758f2.1920x1080.jpg?t=1783041339"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/b92821648eddca5730924df55d73f502972bb021/ss_b92821648eddca5730924df55d73f502972bb021.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/b92821648eddca5730924df55d73f502972bb021/ss_b92821648eddca5730924df55d73f502972bb021.1920x1080.jpg?t=1783041339"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/8181c3d831eb56cfa6808750800e3e310d982964/ss_8181c3d831eb56cfa6808750800e3e310d982964.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/8181c3d831eb56cfa6808750800e3e310d982964/ss_8181c3d831eb56cfa6808750800e3e310d982964.1920x1080.jpg?t=1783041339"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/75dabb2e6857c31c3c70f053991be963f5e8b149/ss_75dabb2e6857c31c3c70f053991be963f5e8b149.600x338.jpg?t=1783041339",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988580/75dabb2e6857c31c3c70f053991be963f5e8b149/ss_75dabb2e6857c31c3c70f053991be963f5e8b149.1920x1080.jpg?t=1783041339"
+    }
+  ],
+  "web": "https://www.sega.com/like-a-dragon-yakuza/yakuza-0-directors-cut",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.6,
+    "cantidad": 204,
+    "escala": 5
+  },
+  "xbox": "9NRKLTWN2ZQ7",
+  "igdbIntentado": true,
+  "igdb": 338084,
+  "youtube": [
+    {
+      "id": "GLfVy1VqR3E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "N5E-R6NjMgk",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "At2-E9yWVRo",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:04.419Z"
 }

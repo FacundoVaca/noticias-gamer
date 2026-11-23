@@ -1,9 +1,9 @@
 {
   "clave": "escape from duckov",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193b9ab-4050-727f-b2bc-7ac12738caa2",
   "appid": "3167020",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/19417/escape-from-duckov"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1123810",
+      "nombre": "Escape from Duckov",
+      "apps": [
+        {
+          "appid": "3167020",
+          "nombre": "Escape from Duckov 逃离鸭科夫"
+        }
+      ],
+      "usd": 9.74,
+      "antes": 12.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "3167020": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4240540",
+      "nombre": "Escape from Duckov Soundtrack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Escape from Duckov es un videojuego indie de supervivencia y rol PVE. Cuidado con todo tipo de enemigos, una vez derrotados, perderás el equipo que tienes. ¡Pero no importa, ¡ haz un buen trabajo de infraestructura y pronto puedes volver!",
   "generos": [
     "Acción",
@@ -56,6 +88,7 @@
   ],
   "lanzamientoTexto": "16 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Escape from Duckov 逃离鸭科夫",
   "acerca": [
     [
@@ -169,43 +202,53 @@
   "idiomas": [
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -313,5 +356,30 @@
     }
   ],
   "web": "https://game.bilibili.com/duckov/",
-  "consultado": "2026-11-22T22:07:41.724Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 329309,
+  "youtube": [
+    {
+      "id": "JxHopm6cQnc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "n_Eep8gyAbI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "-nH6wuOdEyY",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "72E5KhRqD-A",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:28.544Z"
 }

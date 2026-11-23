@@ -1,9 +1,9 @@
 {
   "clave": "magical girl witch trials",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b7612-1d7b-7008-91a4-1c1f7de54afe",
   "appid": "3101040",
@@ -31,6 +31,38 @@
       "url": "https://store.steampowered.com/app/3101040/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1101478",
+      "nombre": "魔法少女ノ魔女裁判 (Steam)",
+      "apps": [
+        {
+          "appid": "3101040",
+          "nombre": "Magical Girl Witch Trials (魔法少女ノ魔女裁判)"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3101040": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3423770",
+      "nombre": "魔法少女ノ魔女裁判 Digital Original Soundtrack",
+      "gratis": false,
+      "usd": 10.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Thirteen girls awaken, only to find themselves in a prison. What awaits them: a Witch Trial. Help them prepare for the trial by exploring the prison in order to find the witch hidden amongst them. Find the witch, learn what kind of magic she holds, dispel the lies, and prepare for the execution.",
   "generos": [
     "Aventura",
@@ -39,6 +71,7 @@
   ],
   "lanzamientoTexto": "18 JUL 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Magical Girl Witch Trials (魔法少女ノ魔女裁判)",
   "acerca": [
     [
@@ -127,11 +160,13 @@
   "idiomas": [
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -231,5 +266,27 @@
     }
   ],
   "web": "https://manosaba.com",
-  "consultado": "2026-11-22T22:06:49.841Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "This game features mature content that may not be suitable for all audiences, including: fantasy/mild violence; blood; violent acts; accidental death; bodily injury; corpses; violence description; killing; torture; detailed deaths; depiction of suicide; depiction of violence acts; fear; psychological horror; mild swearing; unapproved use of medical drugs. For those may feel discomfort against the listed topic(s), please refrain from playing the game. Explanation against some topics listed above: >>> Fantasy/mild violence This game features teenage girl protagonists who possess magical abilities and are referred to as \"magical girls\" (魔法少女) or \"witches\" (魔女) throughout the story. The gameplay taking place in the courtroom is referred to as the \"Witch Trial\" (魔女裁判) within the game's fictional world, and is not intended to be discriminatory toward any real-world groups or minorities. >>> Blood; violent acts; bodily injury; corpses; violence description; killing; detailed deaths; depiction of violence acts; fear; psychological horror; mild swearing As a part of the investigation and courtroom experience, the game contains depictions of violence, including murder scenes. While most violent depictions appear as text descriptions or indirect visual references that can be avoided through player choices during gameplay, some violent imagery is presented directly during investigation and trial sequences required for story progression. These scenes might also serve as evidence during trials and may be referenced multiple times during the trial sequences. Violence and gore, however, is mostly presented through artistic, unrealistic imagery without using jump scare tactics in order to reduce psychological impact while retaining the game's atmosphere.",
+  "igdbIntentado": true,
+  "igdb": 324791,
+  "youtube": [
+    {
+      "id": "7sgI08GVcVg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MxHf0eEBoAQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "w2HuQ95Huxw",
+      "nombre": "Game Intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:08.980Z"
 }

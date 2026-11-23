@@ -1,9 +1,9 @@
 {
   "clave": "like a dragon infinite wealth",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7515-714c-a729-3ee2fa98effc",
   "appid": "2072450",
@@ -51,6 +51,190 @@
       "url": "https://opencritic.com/game/15906/like-a-dragon-infinite-wealth"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "927860",
+      "nombre": "Like a Dragon: Infinite Wealth",
+      "apps": [
+        {
+          "appid": "2072450",
+          "nombre": "Like a Dragon: Infinite Wealth"
+        }
+      ],
+      "usd": 11.19,
+      "antes": 55.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "935917",
+      "nombre": "Like a Dragon: Infinite Wealth - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2072450",
+          "nombre": "Like a Dragon: Infinite Wealth"
+        }
+      ],
+      "usd": 13.59,
+      "antes": 67.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "927861",
+      "nombre": "Like a Dragon: Infinite Wealth - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "2072450",
+          "nombre": "Like a Dragon: Infinite Wealth"
+        }
+      ],
+      "usd": 17.59,
+      "antes": 87.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2072450": {
+      "usd": 11.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 19,
+  "dlcLista": [
+    {
+      "appid": "2669420",
+      "nombre": "Paquete de trabajos especiales de Like a Dragon: Infinite Wealth ",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2562820",
+      "nombre": "Paquete de vacaciones extremas de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 55
+    },
+    {
+      "appid": "2562830",
+      "nombre": "Paquete atuendos variados de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 5.39,
+      "descuento": 55
+    },
+    {
+      "appid": "2562840",
+      "nombre": "Set de CD de Yakuza de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 55
+    },
+    {
+      "appid": "2562850",
+      "nombre": "Paq. vacac. y Sujimon, Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 5.39,
+      "descuento": 55
+    },
+    {
+      "appid": "2562860",
+      "nombre": "Paquete de trabajos especiales de Like a Dragon: Infinite Wealth ",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 55
+    },
+    {
+      "appid": "2606390",
+      "nombre": "Paquete de elaboración de equipamiento (mediano) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 55
+    },
+    {
+      "appid": "2606400",
+      "nombre": "Paquete de elaboración de equipamiento (grande) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 55
+    },
+    {
+      "appid": "2606410",
+      "nombre": "Paquete para potenciar el desarrollo personal (pequeño) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2606420",
+      "nombre": "Paquete para potenciar el desarrollo personal (mediano) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 55
+    },
+    {
+      "appid": "2606430",
+      "nombre": "Paquete para potenciar el desarrollo personal (grande) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 55
+    },
+    {
+      "appid": "2606440",
+      "nombre": "Paquete para subir de nivel laboral (pequeño) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2606450",
+      "nombre": "Paquete para subir de nivel laboral (mediano) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 55
+    },
+    {
+      "appid": "2606460",
+      "nombre": "Paquete de subida de nivel (grande) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 55
+    },
+    {
+      "appid": "2606470",
+      "nombre": "Paquete para subir de nivel (pequeño) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2606480",
+      "nombre": "Paquete para subir de nivel (mediano) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 55
+    },
+    {
+      "appid": "2606490",
+      "nombre": "Paquete para subir de nivel (grande) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 55
+    },
+    {
+      "appid": "2606500",
+      "nombre": "Paquete para subir de nivel (extragrande) de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 5.75,
+      "descuento": 55
+    },
+    {
+      "appid": "2606510",
+      "nombre": "Paquete potenciador legendario de Like a Dragon: Infinite Wealth",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 55
+    }
+  ],
   "descripcion": "Dos héroes más grandes que la vida misma se unen guiados por el destino, o quizás, por algo más siniestro… Disfruta de la vida en Japón y explora todo lo que ofrece Hawái en una aventura tan grande que abarca todo el Pacífico.",
   "generos": [
     "Acción",
@@ -62,6 +246,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/like-a-dragon-infinite-wealth?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Like a Dragon: Infinite Wealth",
   "acerca": [
     [
@@ -152,47 +337,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -308,5 +504,32 @@
     }
   ],
   "web": "https://infinitewealth.sega.com/",
-  "consultado": "2026-11-22T22:06:15.018Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence, Sexual Themes, Strong Language, and Use of Tobacco and Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 217623,
+  "youtube": [
+    {
+      "id": "Fx0YMVgCD5E",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "3Q1HRYrO1Gw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BpmYdgZc-bM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "jeTFK18PjnM",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:03.909Z"
 }

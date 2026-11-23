@@ -1,9 +1,10 @@
 {
   "clave": "yet another zombie survivors",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-699c-726e-b55f-465525da0d5a",
   "appid": "2163330",
@@ -35,6 +36,38 @@
       "url": "https://opencritic.com/game/21178/yet-another-zombie-survivors"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "773988",
+      "nombre": "Yet Another Zombie Survivors",
+      "apps": [
+        {
+          "appid": "2163330",
+          "nombre": "Yet Another Zombie Survivors"
+        }
+      ],
+      "usd": 4.39,
+      "antes": 7.99,
+      "descuento": 45
+    }
+  ],
+  "sueltos": {
+    "2163330": {
+      "usd": 4.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4377470",
+      "nombre": "Yet Another Zombie Survivors Soundtrack",
+      "gratis": false,
+      "usd": 3.18,
+      "descuento": 45
+    }
+  ],
   "descripcion": "¡La Horda se acerca, pero estás listo para luchar! Reúne a tu equipo y decide sus mejoras para encontrar las sinergias más eficientes contra miles de muertos vivientes. Sobrevive. Luego evoluciona. Luego rompe todos los límites en este engañosamente simple pero adictivo infierno de balas inverso.",
   "generos": [
     "Acción",
@@ -44,6 +77,7 @@
   ],
   "lanzamientoTexto": "20 AGO 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Yet Another Zombie Survivors",
   "acerca": [
     [
@@ -98,43 +132,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -226,5 +270,39 @@
     }
   ],
   "web": "https://www.awesomegamesstudio.com",
-  "consultado": "2026-11-22T22:15:18.763Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood and gore throughout the game",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.8,
+    "cantidad": 1043,
+    "escala": 5
+  },
+  "xbox": "9NCK0FXQL38F",
+  "igdbIntentado": true,
+  "igdb": 224692,
+  "youtube": [
+    {
+      "id": "cygOS1BX5Zg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "foG7tODmFks",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "m1bwU4R47uc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mbhTYEDrmK8",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:38.717Z"
 }

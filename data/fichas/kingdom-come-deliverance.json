@@ -2,7 +2,8 @@
   "clave": "kingdom come deliverance",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ffaf-736e-9842-0215c4cbf061",
   "appid": "379430",
@@ -49,6 +50,196 @@
       "url": "https://opencritic.com/game/1561/kingdom-come-deliverance"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "227168",
+      "nombre": "Kingdom Come: Deliverance",
+      "apps": [
+        {
+          "appid": "379430",
+          "nombre": "Kingdom Come: Deliverance"
+        }
+      ],
+      "usd": 3.44,
+      "antes": 22.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "368776",
+      "nombre": "Kingdom Come: Deliverance Royal Edition",
+      "apps": [
+        {
+          "appid": "379430",
+          "nombre": "Kingdom Come: Deliverance"
+        },
+        {
+          "appid": "1033890",
+          "nombre": "Kingdom Come: Deliverance – A Woman's Lot"
+        },
+        {
+          "appid": "977420",
+          "nombre": "Kingdom Come: Deliverance – Band of Bastards"
+        },
+        {
+          "appid": "883150",
+          "nombre": "Kingdom Come: Deliverance – From the Ashes"
+        },
+        {
+          "appid": "836900",
+          "nombre": "Kingdom Come: Deliverance – HD Sound Pack"
+        },
+        {
+          "appid": "921950",
+          "nombre": "Kingdom Come: Deliverance – The Amorous Adventures of Bold Sir Hans Capon"
+        },
+        {
+          "appid": "768530",
+          "nombre": "Kingdom Come: Deliverance – Treasures of The Past"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "318224",
+      "nombre": "Kingdom Come: Deliverance - Commercial License",
+      "apps": [
+        {
+          "appid": "379430",
+          "nombre": "Kingdom Come: Deliverance"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "379430": {
+      "usd": 3.44,
+      "gratis": false
+    },
+    "768530": {
+      "usd": 0.74,
+      "gratis": false
+    },
+    "836900": {
+      "usd": null,
+      "gratis": true
+    },
+    "883150": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "921950": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "977420": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "1033890": {
+      "usd": 1.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 13,
+  "dlcLista": [
+    {
+      "appid": "1033890",
+      "nombre": "Kingdom Come: Deliverance – A Woman's Lot",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 75
+    },
+    {
+      "appid": "977420",
+      "nombre": "Kingdom Come: Deliverance – Band of Bastards",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 75
+    },
+    {
+      "appid": "921950",
+      "nombre": "Kingdom Come: Deliverance – The Amorous Adventures of Bold Sir Hans Capon",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 75
+    },
+    {
+      "appid": "883150",
+      "nombre": "Kingdom Come: Deliverance – From the Ashes",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 75
+    },
+    {
+      "appid": "768530",
+      "nombre": "Kingdom Come: Deliverance – Treasures of The Past",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 75
+    },
+    {
+      "appid": "1052530",
+      "nombre": "Kingdom Come: Deliverance – OST Atmospheres & Additionals",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 75
+    },
+    {
+      "appid": "794220",
+      "nombre": "Kingdom Come: Deliverance – OST Essentials",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "801980",
+      "nombre": "Kingdom Come: Deliverance – Artbook",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "836890",
+      "nombre": "Kingdom Come: Deliverance – HD Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "836910",
+      "nombre": "Kingdom Come: Deliverance – HD Voice Pack English",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "836920",
+      "nombre": "Kingdom Come: Deliverance – HD Voice Pack German",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "836930",
+      "nombre": "Kingdom Come: Deliverance – HD Voice Pack French",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "836900",
+      "nombre": "Kingdom Come: Deliverance – HD Sound Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Kingdom Come: Deliverance es un RPG de mundo abierto basado en la historia que te sumerge en una aventura épica en el Sacro Imperio Romano. Venga la muerte de tus padres mientras luchas contra fuerzas invasoras, haz misiones dinámicas y haz elecciones influyentes.",
   "generos": [
     "Acción",
@@ -60,6 +251,286 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/kingdom-come-deliverance?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 145063,
-  "consultado": "2026-11-22T21:46:18.441Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Kingdom Come: Deliverance",
+  "acerca": [
+    [
+      "h",
+      "Juego:"
+    ],
+    [
+      "p",
+      "Eres Henry, el hijo de un herrero. Empujado en una furiosa guerra civil, miras impotente mientras que los invasores asaltan tu aldea y matan a tus amigos y familia. Por poco escapando del ataque brutal, agarras tu espada para luchar nuevamente. ¡Venga la muerte de tus padres y ayuda a repeler a las fuerzas invasoras!"
+    ],
+    [
+      "h",
+      "Historia:"
+    ],
+    [
+      "p",
+      "Bohemia - situado en el corazón de Europa, la región es rica en cultura, plata y castillos extensos. La muerte de su querido gobernante, el emperador Carlos IV, ha sumido el reino en tiempos oscuros: la guerra, la corrupción y la discordia desgarran esta joya del Sacro Imperio Romano."
+    ],
+    [
+      "p",
+      "Uno de los hijos de Carlos, Wenceslas, ha heredado la corona. A diferencia de su padre, Wenceslas es un monarca ingenuo, indulgente y poco ambicioso. Su medio hermano y Rey de Hungría, Sigismund el Zorro Rojo, detecta debilidad en Wenceslas. Fingiendo buena voluntad, Sigismund viaja a Bohemia y secuestra a su medio hermano. Con ningún rey en el trono, Sigismund es ahora libre de saquear Bohemia y aprovechar sus riquezas."
+    ],
+    [
+      "p",
+      "En medio de este caos, eres Henry, el hijo de un herrero. Tu vida pacífica se rompe cuando una incursión mercenaria, ordenada por el propio rey Sigismund, quema su aldea hasta el suelo. Por fortuna agridulce, eres uno de los únicos supervivientes de esta masacre."
+    ],
+    [
+      "p",
+      "Sin hogar, familia o futuro, terminas al servicio de Lord Radzig Kobyla, que está formando una resistencia contra la invasión. El destino te arrastra a este sangriento conflicto y te empuja a una violenta guerra civil, donde ayudas a luchar por el futuro de Bohemia."
+    ],
+    [
+      "h",
+      "Caracteristicas:"
+    ],
+    [
+      "li",
+      "Mundo abierto realista masivo: Castillos majestuosos, vastos campos, todos hechos en impresionantes gráficos de alta gama."
+    ],
+    [
+      "li",
+      "Historia no lineal: resuelve las misiones de múltiples maneras, luego enfrenta las consecuencias de tus decisiones."
+    ],
+    [
+      "li",
+      "Combate desafiante: Distancia, sigilo o cuerpo a cuerpo. Elige tus armas y ejecuta docenas de combos únicos en batallas tan emocionantes como despiadadas."
+    ],
+    [
+      "li",
+      "Desarrollo del personaje: Mejora tus habilidades, gana nuevas ventajas y forja y actualiza tu equipo."
+    ],
+    [
+      "li",
+      "Mundo dinámico: Tus acciones influyen en las reacciones de las personas que te rodean. Luchar, robar, seducir, amenazar, persuadir o sobornar. Todo depende de ti."
+    ],
+    [
+      "li",
+      "Exactitud histórica: Conoce personajes históricos reales y experimenta la apariencia genuina de la Bohemia medieval.[/list]"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "90 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Creative SOUND BLASTER Zx"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_1e65496b05d2c37ed0dd7d0c31d73e34fa83533e.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_1e65496b05d2c37ed0dd7d0c31d73e34fa83533e.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_b9b014da63d552adbf4958d9ce6edab64ecfcbae.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_b9b014da63d552adbf4958d9ce6edab64ecfcbae.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_458888009ad29357b5e8d249e2130f12172a8c44.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_458888009ad29357b5e8d249e2130f12172a8c44.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_610c1ce30e151a8e9550a9cf9119791e15d3c91a.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_610c1ce30e151a8e9550a9cf9119791e15d3c91a.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_ec23caf08c667e41e29154130141fb9647769e2e.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_ec23caf08c667e41e29154130141fb9647769e2e.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_a68d90b54017263f56d61a5263c7fc03b392d94f.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_a68d90b54017263f56d61a5263c7fc03b392d94f.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_c1e6beff10e5414cf835246b579f59b2135fecf7.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_c1e6beff10e5414cf835246b579f59b2135fecf7.1920x1080.jpg?t=1770998376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_7b6c8d121de17314d798d556e8803eacaab7a692.600x338.jpg?t=1770998376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379430/ss_7b6c8d121de17314d798d556e8803eacaab7a692.1920x1080.jpg?t=1770998376"
+    }
+  ],
+  "web": "https://www.kingdomcomerpg.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The game contains violence, including realistic battle scenes and blood. Offensive language is used regularly. Sexual content is rarely but realistically depicted, depending on players choices. General mature themes are discussed that may not be suitable for all age groups or may be perceived as offensive.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 4843,
+  "youtube": [
+    {
+      "id": "5Cn70tmCoXo",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "1cn4Hg6q9XU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "snHPepmqvaU",
+      "nombre": "Gamescom 2017 Trailer"
+    },
+    {
+      "id": "5bMsSFmenY8",
+      "nombre": "E3 2017: Rex, Familia et Ultio Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:38.904Z"
 }

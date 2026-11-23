@@ -2,7 +2,8 @@
   "clave": "avowed",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee2-70f6-940c-6212b045c9c3",
   "appid": "2457220",
@@ -47,12 +48,360 @@
       "url": "https://opencritic.com/game/17747/avowed"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1162570",
+      "nombre": "Avowed Standard Edition",
+      "apps": [
+        {
+          "appid": "2457220",
+          "nombre": "Avowed"
+        }
+      ],
+      "usd": 17.5,
+      "antes": 35,
+      "descuento": 50
+    },
+    {
+      "packageid": "1162565",
+      "nombre": "Avowed Premium Edition",
+      "apps": [
+        {
+          "appid": "2457220",
+          "nombre": "Avowed"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 41.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2457220": {
+      "usd": 17.5,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3281800",
+      "nombre": "Avowed Premium Upgrade",
+      "gratis": false,
+      "usd": 3.5,
+      "descuento": 50
+    },
+    {
+      "appid": "3361640",
+      "nombre": "Avowed Original Soundtrack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Avowed es un juego RPG de fantasía en primera persona de Obsidian Entertainment.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "18 FEB 2025",
   "metacritic": null,
-  "recomendaciones": 12880,
-  "consultado": "2026-11-22T21:46:05.207Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Avowed",
+  "acerca": [
+    [
+      "p",
+      "Te damos la bienvenida a las Tierras Vivas, una misteriosa isla repleta de aventuras y peligros."
+    ],
+    [
+      "p",
+      "Avowed está ambientado en el mundo ficticio de Eora, que se presentó a los jugadores en la franquicia de Pillars of Eternity. Se trata de un RPG de acción y fantasía en primera persona del galardonado equipo de Obsidian Entertainment."
+    ],
+    [
+      "p",
+      "Las Tierras Vivientes son una isla cuyo aire vibra con magia antigua, la flora parece desplazarse con voluntad propia y la tierra bajo tus pies se mueve con secretos esperando a ser desvelados."
+    ],
+    [
+      "p",
+      "Ahora, las Tierras Vivientes se enfrentan a una aciaga amenaza: una misteriosa plaga que desafía a la naturaleza y a la razón, y que está sembrando el caos por sus agrestes parajes."
+    ],
+    [
+      "p",
+      "Aedyr te ha enviado para investigar, pero lo que empieza como una misión emprendida por deber no tarda en convertirse en algo profundamente personal. Sientes como si la tierra te reconociera y te atrajera hacia algo más grande."
+    ],
+    [
+      "p",
+      "Las decisiones que tomes tendrán repercusiones en las Tierras Vivientes, y moldearán el destino de sus gentes, sus criaturas y hasta de tu propia persona. Pero ten cuidado, porque cada elección es crucial, y las fuerzas con las que te encontrarás no durarán en poner a prueba tu determinación."
+    ],
+    [
+      "p",
+      "¿Podrás abrirte camino en la densa red de intrigas, poder y peligros para descubrir la verdad? ¿Podrás salvar esta tierra fronteriza y tu alma de las fuerzas que amenazan con despedazarlas?"
+    ],
+    [
+      "p",
+      "Actualización de aniversario"
+    ],
+    [
+      "p",
+      "¡Ahora con más contenido! Esta actualización incluye la opción Nueva partida +, el modo Foto, un nuevo tipo de arma con báculos a dos manos, la opción de cambiar el aspecto de tu personaje cuando quieras, una creación de personaje más variada, opciones adicionales de divino, ajustes personalizados de la dificultad y tres nuevas razas jugables: enano, aumaua y orlano."
+    ],
+    [
+      "p",
+      "Las extrañas y hermosas Tierras Vivas"
+    ],
+    [
+      "p",
+      "Las Tierras Vivas son un lugar que te resulta extraño y a la vez intrínseco; parece que la propia isla te pide ayuda. Explora una isla que alberga distintos entornos y paisajes, cada cual con su propio ecosistema único."
+    ],
+    [
+      "p",
+      "Combate visceral para que juegues a tu manera"
+    ],
+    [
+      "p",
+      "Combina espadas, hechizos, armas de fuego y escudos para luchar como más te guste. Investiga tu grimorio y encontrarás hechizos para atrapar, congelar o quemar a tus enemigos; golpéalos con tu escudo o atácalos a distancia con tu arco."
+    ],
+    [
+      "p",
+      "Tus compañeros formarán parte del viaje"
+    ],
+    [
+      "p",
+      "Junto a ti lucharán compañeros de diferentes especies con conjuntos de habilidades únicos. Podrán formar parte de tu viaje desde un exmercenario hasta un mago excéntrico, y las decisiones que tomes los marcarán a medida que los ayudas a cumplir sus objetivos."
+    ],
+    [
+      "p",
+      "Gráficos de alta fidelidad"
+    ],
+    [
+      "p",
+      "Descubre la belleza sobrecogedora de las Tierras Vivientes mientras te embarcas en tu viaje como enviado de Aedyr. Avowed ofrece unos gráficos impresionantes, mejorados para PC, con auténtica resolución 4K en dispositivos compatibles y tasas de fotogramas desbloqueadas para conseguir un rendimiento fluido y sin interrupciones. Cada detalle de este mundo extraño y maravilloso está diseñado para que parezca vivo y envolvente."
+    ],
+    [
+      "p",
+      "Trazado de rayos"
+    ],
+    [
+      "p",
+      "Entra en un mundo de realismo inigualable gracias a la tecnología del trazado de rayos de Avowed. Desde la luz solar moteada que se filtra a través de las copas de los árboles hasta el titilar de las antorchas en antiguas cavernas, el trazado de rayos da vida a las Tierras Vivientes con una iluminación, reflejos y sombras tan reales como la vida misma. Cada escena se renderiza con un nivel de detalle increíble, lo que aumenta tu sensación de inmersión en este mundo mágico y enigmático."
+    ],
+    [
+      "p",
+      "Compatibilidad con NVIDIA® DLSS y Reflex"
+    ],
+    [
+      "p",
+      "Disfruta del máximo rendimiento sin sacrificar la calidad. NVIDIA DLSS aprovecha el escalado potenciado por IA para ofrecer gráficos nítidos y espectaculares, al mismo tiempo que mejora la tasa de fotogramas en las GPU de NVIDIA compatibles. Mientras tanto, NVIDIA Reflex garantiza una respuesta ultrarrápida, que reduce la latencia de entrada y contribuye a reaccionar con rapidez y confianza en el combate."
+    ],
+    [
+      "p",
+      "Compatible con pantallas ultraanchas"
+    ],
+    [
+      "p",
+      "Sumérgete en los extensos paisajes de las Tierras Vivientes como nunca antes. La compatibilidad con pantallas ultraanchas 21:9 ofrece una experiencia panorámica y cinematográfica que amplía tu campo de visión. Contempla la magnitud de majestuosas montañas, vastas praderas y antiguas ruinas, todo diseñado para hacer que cada momento te parezca épico e inolvidable."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Dificultad ajustable",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Estadísticas"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 with updates"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600 / Intel i5-8400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 with updates"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600X / Intel i7-10700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Graphics: AMD RX 6800 XT / Nvidia RTX 3080"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/4ce0337503b8aa740fd84c0ec19a850a5efb8569/ss_4ce0337503b8aa740fd84c0ec19a850a5efb8569.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/4ce0337503b8aa740fd84c0ec19a850a5efb8569/ss_4ce0337503b8aa740fd84c0ec19a850a5efb8569.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/6cbf7b81f6b1604bbe02886c666eafa0bd2d5f6e/ss_6cbf7b81f6b1604bbe02886c666eafa0bd2d5f6e.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/6cbf7b81f6b1604bbe02886c666eafa0bd2d5f6e/ss_6cbf7b81f6b1604bbe02886c666eafa0bd2d5f6e.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/082ba9d5d0ed6718de9a138bce5da847fcd05a61/ss_082ba9d5d0ed6718de9a138bce5da847fcd05a61.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/082ba9d5d0ed6718de9a138bce5da847fcd05a61/ss_082ba9d5d0ed6718de9a138bce5da847fcd05a61.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/f757a8184327a7a53d148ecf62eb7e8823cf2fdf/ss_f757a8184327a7a53d148ecf62eb7e8823cf2fdf.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/f757a8184327a7a53d148ecf62eb7e8823cf2fdf/ss_f757a8184327a7a53d148ecf62eb7e8823cf2fdf.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/58c502b53fc3741bf6a3e10dbb4cff5e5460ba0d/ss_58c502b53fc3741bf6a3e10dbb4cff5e5460ba0d.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/58c502b53fc3741bf6a3e10dbb4cff5e5460ba0d/ss_58c502b53fc3741bf6a3e10dbb4cff5e5460ba0d.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/f0f28c667b0d29666cbc1896f2cf55ea55fffbbd/ss_f0f28c667b0d29666cbc1896f2cf55ea55fffbbd.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/f0f28c667b0d29666cbc1896f2cf55ea55fffbbd/ss_f0f28c667b0d29666cbc1896f2cf55ea55fffbbd.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/07dc06a63a0e7918f15bef26290d5c16dd7e8d76/ss_07dc06a63a0e7918f15bef26290d5c16dd7e8d76.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/07dc06a63a0e7918f15bef26290d5c16dd7e8d76/ss_07dc06a63a0e7918f15bef26290d5c16dd7e8d76.1920x1080.jpg?t=1771352530"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/04a508cfa4220710711c46860e9f25b49628a9ed/ss_04a508cfa4220710711c46860e9f25b49628a9ed.600x338.jpg?t=1771352530",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/04a508cfa4220710711c46860e9f25b49628a9ed/ss_04a508cfa4220710711c46860e9f25b49628a9ed.1920x1080.jpg?t=1771352530"
+    }
+  ],
+  "web": "https://avowed.obsidian.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Avowed contains realistic violence against intelligent species. It also contains realistic violence against wildlife and fantastical creatures. Vulgar language is used throughout the story containing mature themes, drug and alcohol references, and sexual references. The player may also participate in drug and alcohol use with their companions.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 135994,
+  "youtube": [
+    {
+      "id": "YS8n-pZQWWc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ULsF7B6bFuU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cv23HkHm3AQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bb3as57njWg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:53.755Z"
 }

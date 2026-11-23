@@ -1,9 +1,10 @@
 {
   "clave": "the jackbox party pack 12",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "019dfdcd-f70a-70d8-be98-15a624788a6b",
   "appid": "4199960",
@@ -42,6 +43,38 @@
       "puntaje": 76,
       "cantidad": 14,
       "url": "https://opencritic.com/game/21509/the-jackbox-party-pack-12"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1470866",
+      "nombre": "The Jackbox Party Pack 12",
+      "apps": [
+        {
+          "appid": "4199960",
+          "nombre": "The Jackbox Party Pack 12"
+        }
+      ],
+      "usd": 10.86,
+      "antes": 14.49,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "4199960": {
+      "usd": 10.86,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5108610",
+      "nombre": "The Jackbox Party Pack 12 Soundtrack",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 50
     }
   ],
   "descripcion": "Escape the ordinary with The Jackbox Party Pack 12! Embark on a party adventure with goofy greetings in We Forgot a Card, wild image warping in Hyperface, absurd arguments in Debate and Switch, team-based fact battles in Idol Factions, and mind-melding friendship in MegaPals.",
@@ -134,7 +167,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -234,5 +268,28 @@
     }
   ],
   "web": "https://www.jackboxgames.com/",
-  "consultado": "2026-11-22T22:08:23.450Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.6,
+    "cantidad": 7,
+    "escala": 5
+  },
+  "xbox": "9NSL3HH3H023",
+  "igdbIntentado": true,
+  "igdb": 400686,
+  "youtube": [
+    {
+      "id": "PoDkhUzWjno",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:22.071Z"
 }

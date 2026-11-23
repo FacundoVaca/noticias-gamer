@@ -1,9 +1,9 @@
 {
   "clave": "death stranding directors cut",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5c96-7241-a70f-e8de1c1e0609",
   "appid": "1850570",
@@ -42,6 +42,51 @@
       "url": "https://metacritic.com/game/death-stranding-directors-cut/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "685053",
+      "nombre": "DEATH STRANDING DIRECTOR'S CUT UPGRADE",
+      "apps": [
+        {
+          "appid": "1850570",
+          "nombre": "DEATH STRANDING DIRECTOR'S CUT"
+        }
+      ],
+      "usd": 1.44,
+      "antes": 5.79,
+      "descuento": 75
+    },
+    {
+      "packageid": "665843",
+      "nombre": "DEATH STRANDING DIRECTOR'S CUT",
+      "apps": [
+        {
+          "appid": "1850570",
+          "nombre": "DEATH STRANDING DIRECTOR'S CUT"
+        }
+      ],
+      "usd": 4.74,
+      "antes": 18.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1850570": {
+      "usd": 4.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1946740",
+      "nombre": "DEATH STRANDING Digital Artbook",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "El legendario Hideo Kojima nos ofrece una experiencia que desafía los géneros, ahora ampliada con este DIRECTOR’S CUT. Como Sam Bridges, tu misión será dar esperanza a la humanidad conectando a los últimos supervivientes de un país arrasado. ¿Podrás volver a unir, paso a paso, un mundo hecho añicos?",
   "generos": [
     "Acción",
@@ -52,6 +97,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/death-stranding-directors-cut?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "DEATH STRANDING DIRECTOR'S CUT",
   "acerca": [
     [
@@ -130,83 +176,103 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -322,5 +388,27 @@
     }
   ],
   "web": "http://www.kojimaproductions.jp/en/",
-  "consultado": "2026-11-22T22:03:00.274Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages. General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152063,
+  "youtube": [
+    {
+      "id": "q76jhOinT9I",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6tgsz7WbidU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "QlLEmu8c-Vk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:17.605Z"
 }

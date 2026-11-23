@@ -1,9 +1,9 @@
 {
   "clave": "call of duty black ops cold war",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-464b-729e-8310-87b89a47b685",
   "appid": "1985810",
@@ -55,12 +55,108 @@
       "url": "https://opencritic.com/game/10119/call-of-duty-black-ops-cold-war"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "717014",
+      "nombre": "Call of Duty®: Black Ops Cold War - Edición Estándar",
+      "apps": [
+        {
+          "appid": "1985810",
+          "nombre": "Call of Duty®: Black Ops Cold War"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 59.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1985810": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "2289290",
+      "nombre": "Call of Duty Endowment (C.O.D.E.) - Paquete Challenger",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289291",
+      "nombre": "Call of Duty Endowment (C.O.D.E.) - Paquete Médico de Combate",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289292",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Inicial",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289293",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Profesional: Edad Dorada III",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289294",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Profesional: Operaciones Encubiertas",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289295",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Élite",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289296",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Profesional Reacción Química",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289297",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Profesional Fallo de Contención",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289298",
+      "nombre": "Call of Duty®: Black Ops Cold War - Paquete Definitivo",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2296260",
+      "nombre": "Puntos de Call of Duty®: Black Ops Cold War",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Black Ops Cold War, la secuela directa de Call of Duty®: Black Ops, transportará a los jugadores al centro de la volátil batalla geopolítica de la Guerra Fría, a principios de los 80.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "8 MAR 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty®: Black Ops Cold War",
   "acerca": [
     [
@@ -99,55 +195,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -255,5 +364,31 @@
     }
   ],
   "web": "https://www.callofduty.com/",
-  "consultado": "2026-11-22T22:04:11.065Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 137001,
+  "youtube": [
+    {
+      "id": "aTS9n_m7TW0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3G2JektAKW8",
+      "nombre": "Gamescom 2020 Trailer"
+    },
+    {
+      "id": "mniWW2haNnY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "zsBRGCabaog",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:58.363Z"
 }

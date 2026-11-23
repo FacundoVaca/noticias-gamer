@@ -2,7 +2,8 @@
   "clave": "persona 3 reload",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7466-727c-8331-8f9c8c2af33b",
   "appid": "2161700",
@@ -50,6 +51,178 @@
       "url": "https://opencritic.com/game/16094/persona-3-reload"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "914635",
+      "nombre": "Persona 3 Reload",
+      "apps": [
+        {
+          "appid": "2161700",
+          "nombre": "Persona 3 Reload"
+        }
+      ],
+      "usd": 16.79,
+      "antes": 47.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "914636",
+      "nombre": "Persona 3 Reload Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2161700",
+          "nombre": "Persona 3 Reload"
+        }
+      ],
+      "usd": 19.59,
+      "antes": 55.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "914637",
+      "nombre": "Persona 3 Reload Digital Premium Edition",
+      "apps": [
+        {
+          "appid": "2161700",
+          "nombre": "Persona 3 Reload"
+        }
+      ],
+      "usd": 25.19,
+      "antes": 71.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "981711",
+      "nombre": "Persona 3 Reload - DLC Pack",
+      "apps": [
+        {
+          "appid": "2334536",
+          "nombre": "Paquete de música de fondo de P5R"
+        },
+        {
+          "appid": "2334531",
+          "nombre": "Persona 3 Reload - Conjunto de atuendos de los Ladrones Fantasma (P5R)"
+        },
+        {
+          "appid": "2334530",
+          "nombre": "Persona 3 Reload - Conjunto de atuendos del Instituto Shujin (P5R)"
+        },
+        {
+          "appid": "2322840",
+          "nombre": "Persona 3 Reload - Conjunto de atuendos del Instituto Yasogami (P4G)"
+        },
+        {
+          "appid": "2334532",
+          "nombre": "Persona 3 Reload - Paquete 1 de Persona P5R"
+        },
+        {
+          "appid": "2334533",
+          "nombre": "Persona 3 Reload - Paquete de Personas de P5R 2"
+        },
+        {
+          "appid": "2334534",
+          "nombre": "Persona 3 Reload - Persona 4 Golden Persona Set"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2161700": {
+      "usd": 16.79,
+      "gratis": false
+    },
+    "2322840": {
+      "usd": 1.55,
+      "gratis": false
+    },
+    "2334530": {
+      "usd": 1.55,
+      "gratis": false
+    },
+    "2334531": {
+      "usd": 1.55,
+      "gratis": false
+    },
+    "2334532": {
+      "usd": 3.24,
+      "gratis": false
+    },
+    "2334533": {
+      "usd": 3.24,
+      "gratis": false
+    },
+    "2334534": {
+      "usd": 2.07,
+      "gratis": false
+    },
+    "2334536": {
+      "usd": 2.07,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "2689210",
+      "nombre": "Persona 3 Reload: pase de expansión",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 70
+    },
+    {
+      "appid": "2322840",
+      "nombre": "Persona 3 Reload - Conjunto de atuendos del Instituto Yasogami (P4G)",
+      "gratis": false,
+      "usd": 1.55,
+      "descuento": 35
+    },
+    {
+      "appid": "2334530",
+      "nombre": "Persona 3 Reload - Conjunto de atuendos del Instituto Shujin (P5R)",
+      "gratis": false,
+      "usd": 1.55,
+      "descuento": 35
+    },
+    {
+      "appid": "2334531",
+      "nombre": "Persona 3 Reload - Conjunto de atuendos de los Ladrones Fantasma (P5R)",
+      "gratis": false,
+      "usd": 1.55,
+      "descuento": 35
+    },
+    {
+      "appid": "2334532",
+      "nombre": "Persona 3 Reload - Paquete 1 de Persona P5R",
+      "gratis": false,
+      "usd": 3.24,
+      "descuento": 35
+    },
+    {
+      "appid": "2334533",
+      "nombre": "Persona 3 Reload - Paquete de Personas de P5R 2",
+      "gratis": false,
+      "usd": 3.24,
+      "descuento": 35
+    },
+    {
+      "appid": "2334534",
+      "nombre": "Persona 3 Reload - Persona 4 Golden Persona Set",
+      "gratis": false,
+      "usd": 2.07,
+      "descuento": 35
+    },
+    {
+      "appid": "2334536",
+      "nombre": "Paquete de música de fondo de P5R",
+      "gratis": false,
+      "usd": 2.07,
+      "descuento": 35
+    }
+  ],
   "descripcion": "Sumérgete en la Hora Oscura y despierta lo más profundo de tu corazón. Persona 3 Reload es la fascinante nueva versión del RPG que definió el género y que ahora renace para la era moderna con gráficos y una jugabilidad de última generación.",
   "generos": [
     "Aventura",
@@ -61,6 +234,296 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/persona-3-reload?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 46303,
-  "consultado": "2026-11-22T21:44:46.865Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Persona 3 Reload",
+  "acerca": [
+    [
+      "p",
+      "Ponte en la piel de un estudiante recién llegado que se ve arrojado a un destino inesperado cuando entra en la hora \"\"escondida\"\" entre un día y el siguiente. Despierta un increíble poder y persigue los misterios de la Hora Oscura, lucha por tus amigos y deja huella en su memoria."
+    ],
+    [
+      "p",
+      "Persona 3 Reload es la nueva versión del RPG que definió el género y que renace para la era moderna."
+    ],
+    [
+      "p",
+      "Características principales:"
+    ],
+    [
+      "p",
+      "- Disfruta de un título fundamental de la saga Persona, que vuelve con los gráficos más avanzados, funciones modernizadas y una interfaz de usuario elegante."
+    ],
+    [
+      "p",
+      "- Sumérgete en un viaje apasionante y emotivo con escenas inéditas, nuevas interacciones entre los personajes y una locución adicional."
+    ],
+    [
+      "p",
+      "- Elige entre diferentes actividades para que cada día sea único, desde explorar la isla Puerto hasta estrechar lazos con personajes entrañables."
+    ],
+    [
+      "p",
+      "- Forma el mejor equipo para derrotar a las sombras de otro mundo y estar un paso más cerca de la verdad."
+    ],
+    [
+      "p",
+      "---"
+    ],
+    [
+      "p",
+      "Persona 3 Reload Digital Deluxe Edition incluye:"
+    ],
+    [
+      "p",
+      "- Juego base"
+    ],
+    [
+      "p",
+      "- Libro de ilustraciones digital con 64 páginas de diseños de personajes, arte conceptual, fondos y otras ilustraciones del juego."
+    ],
+    [
+      "p",
+      "- Banda sonora digital: escucha los temas con arreglos del Persona 3 original, así como los nuevos temas de Persona 3 Reload, que suman un total de 60 canciones nuevas, todo de manos del equipo de sonido de Atlus."
+    ],
+    [
+      "p",
+      "---"
+    ],
+    [
+      "p",
+      "Persona 3 Reload Digital Premium Edition incluye:"
+    ],
+    [
+      "p",
+      "- Juego base"
+    ],
+    [
+      "p",
+      "- Libro de ilustraciones digital"
+    ],
+    [
+      "p",
+      "- Banda sonora digital"
+    ],
+    [
+      "p",
+      "- Paquete de contenido descargable de Persona 3 Reload: conjunto de atuendos de los Ladrones Fantasma de P5R, conjunto de atuendos del Instituto Shujin de P5R, paquete de Personas de P5R, paquete de Personas de P5R 2, paquete de música de P5R, conjunto de atuendos del Instituto Yasogami de P4G y paquete de Personas de P4G"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300, AMD FX-4350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650 Ti, 2 GB; AMD Radeon HD 7850, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Performance Target: 720p, low graphics settings, @ 30 FPS. Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790, AMD Ryzen 5 1400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650, 4 GB, AMD Radeon R9 290X, 4 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Performance Target: 1080p, high graphics settings, @ 60 FPS. Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7017244fb8319ba927a0ef414959b95a6164356f.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7017244fb8319ba927a0ef414959b95a6164356f.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_cfe4b9124ea5e815e7981e3ac29a72a02fd48239.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_cfe4b9124ea5e815e7981e3ac29a72a02fd48239.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_c123d3e9360f030e6600db27311586d033f65ff7.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_c123d3e9360f030e6600db27311586d033f65ff7.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_f51fc26c627816bbd87011ca278b1fbbda2d6bc8.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_f51fc26c627816bbd87011ca278b1fbbda2d6bc8.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b60f1f21f4794f0ba90bbc55c41aab4637b4103a.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b60f1f21f4794f0ba90bbc55c41aab4637b4103a.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7f066d1c88b826ee72646f2a3dac0719842835b2.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_7f066d1c88b826ee72646f2a3dac0719842835b2.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b5b93089686b45d6abee593d025c91389c7dc20e.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_b5b93089686b45d6abee593d025c91389c7dc20e.1920x1080.jpg?t=1764776430"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_e5f9b3aedadef82286c34d9d419b7cd45e034f87.600x338.jpg?t=1764776430",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/ss_e5f9b3aedadef82286c34d9d419b7cd45e034f87.1920x1080.jpg?t=1764776430"
+    }
+  ],
+  "web": "https://persona.atlus.com/p3r",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game includes content such as blood, partial nudity, sexual themes, and violence.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 252647,
+  "youtube": [
+    {
+      "id": "HnZJL1Mg900",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "1Zi-XzAYj4I",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "CMx9iB_83uo",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "V6yOfG3jFgA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:43.506Z"
 }

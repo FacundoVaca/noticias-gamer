@@ -2,7 +2,8 @@
   "clave": "south park the fractured but whole",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea31-72ce-bf91-30dc94a27f5b",
   "appid": "488790",
@@ -47,12 +48,280 @@
       "url": "https://opencritic.com/game/2845/south-park-the-fractured-but-whole"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "242133",
+      "nombre": "South Park: The Fractured But Whole",
+      "apps": [
+        {
+          "appid": "488790",
+          "nombre": "South Park™: The Fractured But Whole™"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 23.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "242136",
+      "nombre": "South Park: The Fractured But Whole - Gold Edition",
+      "apps": [
+        {
+          "appid": "488790",
+          "nombre": "South Park™: The Fractured But Whole™"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 39.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "488790": {
+      "usd": 7.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "564794",
+      "nombre": "South Park™: The Fractured But Whole™ - Season Pass",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 70
+    },
+    {
+      "appid": "564793",
+      "nombre": "South Park™: The Fractured But Whole™ - Relics of Zaron",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    },
+    {
+      "appid": "564780",
+      "nombre": "South Park™: The Fractured But Whole™ - Danger Deck",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 75
+    },
+    {
+      "appid": "564790",
+      "nombre": "South Park™: The Fractured But Whole™ - From Dusk Till Casa Bonita",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 75
+    },
+    {
+      "appid": "564791",
+      "nombre": "South Park™: The Fractured But Whole™ - Bring The Crunch",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 75
+    },
+    {
+      "appid": "564792",
+      "nombre": "South Park™: The Fractured But Whole™ - Towelie: Your Gaming Bud",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Los creadores de South Park, Trey Parker y Matt Stone, presentan South Park: the Fractured but Whole, secuela del galardonado juego de 2014 South Park: La Vara de la Verdad.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "16 OCT 2017",
   "metacritic": null,
-  "recomendaciones": 32676,
-  "consultado": "2026-11-22T21:45:52.335Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "South Park™: The Fractured But Whole™",
+  "acerca": [
+    [
+      "p",
+      "Los creadores de South Park, Trey Parker y Matt Stone, presentan South Park: the Fractured but Whole, secuela del galardonado juego de 2014 South Park: La Vara de la Verdad. Los jugadores volverán a encarnar al «chico nuevo» y participarán con los protagonistas de la serie, Stan, Kyle, Kenny y Cartman, en otra divertida y provocadora aventura rolera."
+    ],
+    [
+      "p",
+      "En South Park: the Fractured but Whole, los jugadores se adentrarán en el submundo criminal de South Park con el Mapache y Amigos. Este grupo de aguerridos justicieros fue fundado por Eric Cartman, cuyo alter ego, el Mapache, es mitad hombre y mitad mapache. En el papel de niño nuevo, los jugadores unirán fuerzas con Mysterion, Cobertizo y el Cometa Humano entre otros para combatir el mal mientras el Mapache trata que su equipo de superhéroes se convierta en el más querido de la historia."
+    ],
+    [
+      "p",
+      "South Park™: Retaguardia en Peligro™ estará localizado completamente al castellano con las voces de los actores oficiales."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Compat. parcial con mando",
+    "Remote Play en móvil",
+    "Remote Play en tableta"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1, Windows 10 (64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 2400 / AMD FX 4320 or equivalent"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 560Ti / GTX 650 / GTX 750 / GTX 950 / GTX 1050 / AMD Radeon HD 7850 / R9 270 / R9 370 / RX 460"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "720p @~60FPS. Game contains Denuvo anti-tamper technology. Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1, Windows 10 (64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690K / AMD FX-8350 or equivalent"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 670 / GTX 750ti / GTX 960 / GTX 1060 / AMD Radeon R9 280X / R9 380 / RX 470"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p @~60FPS. Game contains Denuvo anti-tamper technology. Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_2f851a0caefb87f6e8a27dae8730194edcdc23d4.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_2f851a0caefb87f6e8a27dae8730194edcdc23d4.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_c3be86ef593551a05364c6b0d9c1b0446c18415b.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_c3be86ef593551a05364c6b0d9c1b0446c18415b.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_f3e0bcbe3358a11a19076c9435a5a2ca9248359a.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_f3e0bcbe3358a11a19076c9435a5a2ca9248359a.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_dff077a16bae12a3818ceada24f4b0d98643424f.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_dff077a16bae12a3818ceada24f4b0d98643424f.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_cab2565bbb675f76400dae3a6a267ebf19a9d53c.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_cab2565bbb675f76400dae3a6a267ebf19a9d53c.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_495101cab102331a7f52d18984bbf31907b0ed8c.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_495101cab102331a7f52d18984bbf31907b0ed8c.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_cc1eced77cb2b7a17e843b29749025dbebfb5b75.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_cc1eced77cb2b7a17e843b29749025dbebfb5b75.1920x1080.jpg?t=1777994114"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_327543b0967e5687ff015fba733d24e67df75dad.600x338.jpg?t=1777994114",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488790/ss_327543b0967e5687ff015fba733d24e67df75dad.1920x1080.jpg?t=1777994114"
+    }
+  ],
+  "web": "http://southpark.ubisoft.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 11161,
+  "youtube": [
+    {
+      "id": "i6VoL22QxnQ",
+      "nombre": "Freedom Pals Preview Trailer"
+    },
+    {
+      "id": "saRV25tV5Cs",
+      "nombre": "Nosulus Rift Trailer 2"
+    },
+    {
+      "id": "YC6eJHdGG8Y",
+      "nombre": "Nosulus Rift Trailer 1"
+    },
+    {
+      "id": "Ihw1IzzjUdA",
+      "nombre": "Behind The Scene Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:50.813Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "grim dawn",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-017c-71b7-a34f-8870be2f564f",
   "appid": "219990",
@@ -47,6 +47,94 @@
       "url": "https://opencritic.com/game/2179/grim-dawn"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "32132",
+      "nombre": "Grim Dawn",
+      "apps": [
+        {
+          "appid": "219990",
+          "nombre": "Grim Dawn"
+        }
+      ],
+      "usd": 2.49,
+      "antes": 12.49,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "219990": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "2699230",
+      "nombre": "Grim Dawn - Fangs of Asterkarn",
+      "gratis": false,
+      "usd": 7.86,
+      "descuento": 25
+    },
+    {
+      "appid": "897670",
+      "nombre": "Grim Dawn - Forgotten Gods Expansion",
+      "gratis": false,
+      "usd": 4.54,
+      "descuento": 50
+    },
+    {
+      "appid": "642280",
+      "nombre": "Grim Dawn - Ashes of Malmouth Expansion",
+      "gratis": false,
+      "usd": 4.97,
+      "descuento": 50
+    },
+    {
+      "appid": "4964960",
+      "nombre": "Grim Dawn - Steam Loyalist Items Pack 4",
+      "gratis": false,
+      "usd": 4.63,
+      "descuento": 20
+    },
+    {
+      "appid": "2701090",
+      "nombre": "Grim Dawn - Steam Loyalist Items Pack 3",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "1088290",
+      "nombre": "Grim Dawn - Steam Loyalist Items Pack 2",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "565610",
+      "nombre": "Grim Dawn - Steam Loyalist Items Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "483840",
+      "nombre": "Grim Dawn - Crucible Mode DLC",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1250890",
+      "nombre": "Grim Dawn Soundtrack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    }
+  ],
   "descripcion": "Enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. This ARPG features complex character development, hundreds of unique items, crafting and quests with choice & consequence.",
   "generos": [
     "Acción",
@@ -59,6 +147,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/grim-dawn?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Grim Dawn",
   "acerca": [
     [
@@ -153,55 +242,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -305,5 +407,27 @@
     }
   ],
   "web": "http://www.grimdawn.com/",
-  "consultado": "2026-11-22T22:04:27.104Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Killing enemies in the game can result in blood and death fx.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 1907,
+  "youtube": [
+    {
+      "id": "BfABNZqU-PA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mZXyxZK28QY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fc17r931tN0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:34.732Z"
 }

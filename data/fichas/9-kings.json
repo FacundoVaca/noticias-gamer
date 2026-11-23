@@ -1,9 +1,9 @@
 {
   "clave": "9 kings",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018de04c-7ffa-7196-bde0-08380149d24d",
   "appid": "2784470",
@@ -39,6 +39,28 @@
       "url": "https://metacritic.com/game/9-kings/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "995014",
+      "nombre": "9 Kings",
+      "apps": [
+        {
+          "appid": "2784470",
+          "nombre": "9 Kings"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 9.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2784470": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Levanta tu imperio en este trepidante constructor de reinos roguelike. Libra cruentas batallas contra tus homónimos rivales. Explota las mecánicas con cientos de construcciones increíbles para convertirte en el rey de reyes.",
   "generos": [
     "Rol",
@@ -46,6 +68,7 @@
   ],
   "lanzamientoTexto": "12 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "9 Kings",
   "acerca": [
     [
@@ -320,5 +343,31 @@
     }
   ],
   "web": "https://www.sadsocket.com",
-  "consultado": "2026-11-22T22:04:49.003Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 288741,
+  "youtube": [
+    {
+      "id": "ov9896CX9Xo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "xqFV5t8qQYs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "k_lsnczriWc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "qpDVz0m9wy4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:16.706Z"
 }

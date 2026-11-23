@@ -1,0 +1,433 @@
+{
+  "clave": "ghostrunner",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-09d2-716c-8840-0fb4fde1cfaf",
+  "appid": "1139900",
+  "lanzamiento": "2020-10-27",
+  "desarrolladores": [
+    "3D Realms",
+    "One More Level",
+    "Slipgate Ironworks™",
+    "One More Level S.A.",
+    "One More Level and 3D Realms",
+    "All in! Games"
+  ],
+  "editores": [
+    "505 Games",
+    "All in! Games",
+    "One More Level",
+    "505 Games, All In! Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Cyberpunk",
+    "Fast-Paced",
+    "First-Person",
+    "Difficult"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 47094,
+      "url": "https://store.steampowered.com/app/1139900/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 65,
+      "url": "https://metacritic.com/game/ghostrunner/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 1194,
+      "url": "https://metacritic.com/game/ghostrunner/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 115,
+      "url": "https://opencritic.com/game/10172/ghostrunner"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "511201",
+      "nombre": "Ghostrunner",
+      "apps": [
+        {
+          "appid": "1139900",
+          "nombre": "Ghostrunner"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "735408",
+      "nombre": "Ghostrunner: Complete Edition",
+      "apps": [
+        {
+          "appid": "1139900",
+          "nombre": "Ghostrunner"
+        },
+        {
+          "appid": "1741380",
+          "nombre": "Ghostrunner - Digital Artbook"
+        },
+        {
+          "appid": "1760130",
+          "nombre": "Ghostrunner - Halloween Pack"
+        },
+        {
+          "appid": "1542040",
+          "nombre": "Ghostrunner - Metal OX Pack"
+        },
+        {
+          "appid": "1647450",
+          "nombre": "Ghostrunner - Neon Pack"
+        },
+        {
+          "appid": "1760190",
+          "nombre": "Ghostrunner - Project_Hel"
+        },
+        {
+          "appid": "1741240",
+          "nombre": "Ghostrunner - Soundtrack"
+        },
+        {
+          "appid": "1480500",
+          "nombre": "Ghostrunner - Winter Pack"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1139900": {
+      "usd": 3.74,
+      "gratis": false
+    },
+    "1480500": {
+      "usd": 0.74,
+      "gratis": false
+    },
+    "1542040": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "1647450": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "1741240": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "1741380": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "1760130": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "1760190": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "1760190",
+      "nombre": "Ghostrunner - Project_Hel",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1480500",
+      "nombre": "Ghostrunner - Winter Pack",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1542040",
+      "nombre": "Ghostrunner - Metal OX Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1647450",
+      "nombre": "Ghostrunner - Neon Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1741240",
+      "nombre": "Ghostrunner - Soundtrack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1741380",
+      "nombre": "Ghostrunner - Digital Artbook",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1760130",
+      "nombre": "Ghostrunner - Halloween Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Ghostrunner ofrece una experiencia única para un solo jugador con combates trepidantes y violentos, además de una ambientación que combina la ciencia ficción con temas postapocalípticos. Descubre la historia de un mundo que ha llegado a su fin y cuyos habitantes luchan por sobrevivir.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "27 OCT 2020",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/ghostrunner?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Ghostrunner",
+  "acerca": [
+    [
+      "p",
+      "Ghostrunner es un juego intenso de acción vertiginosa con perspectiva en primera persona y ambientado en una megaestructura ciberpunk. Sube por la torre Dharma, el último refugio de la humanidad tras un cataclismo devastador. Tendrás que llegar a la cima y enfrentarte a la ama de las llaves, una tirana, para vengarte de una vez por todas."
+    ],
+    [
+      "p",
+      "La violencia reina en las calles de la torre. Mara, la ama de las llaves, gobierna con mano de hierro y con desdén por las vidas humanas."
+    ],
+    [
+      "p",
+      "Los recursos se diezman, los más fuertes dan caza a los débiles y el caos amenaza con devorar el orden por completo. La batalla final se acerca. Será la última oportunidad de arreglar las cosas antes de que la humanidad se extinga para siempre."
+    ],
+    [
+      "p",
+      "Te crearon con un dominio de la espada extraordinario, eres letal aunque te superen en número. Rebana a tus enemigos con una katana monomolecular, esquiva balas gracias a unos reflejos sobrehumanos y usa técnicas especiales para sobrevivir."
+    ],
+    [
+      "p",
+      "Los combates son rápidos e intensos gracias a unas mecánicas que te permiten matar de un golpe. Aprovéchate de tu movilidad (y de los puntos de control) para vértelas cara a cara con la muerte sin cesar."
+    ],
+    [
+      "p",
+      "Ghostrunner ofrece una experiencia única para un solo jugador con combates trepidantes y violentos, además de una ambientación que combina la ciencia ficción con temas postapocalípticos. Descubre la historia de un mundo que ha llegado a su fin y cuyos habitantes luchan por sobrevivir."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7, 8.1, 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2500K (4 * 3300) AMD Phenom II X4 965 (4 * 3400) or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1050 (2048 MB) / Radeon RX 550 (4096 MB)"
+      ],
+      [
+        "Almacenamiento",
+        "22 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "60FPS, Low settings, 720p)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7, 8.1, 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K (4 * 4000) or AMD Ryzen 5 1500X (4 * 3500) or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 970 (4096 MB) or Radeon RX 5700 (8192 MB)"
+      ],
+      [
+        "Almacenamiento",
+        "22 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "(60FPS, High settings, 1080p)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_6f7ea1399cdf74cfafb0ddbf397ccb1f04f2bb04.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_6f7ea1399cdf74cfafb0ddbf397ccb1f04f2bb04.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_b3685fcab4d6f60c9fd54ffe8757ccaaef803d9e.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_b3685fcab4d6f60c9fd54ffe8757ccaaef803d9e.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_8f6b985f8568ccca30ddfe28b9b26fcf4468eaa5.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_8f6b985f8568ccca30ddfe28b9b26fcf4468eaa5.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_4df66f282c6aed12f941b3f7eb4c6fc3de3a8ea8.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_4df66f282c6aed12f941b3f7eb4c6fc3de3a8ea8.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_8f91ee2a403f257dce6ad4b199c4ef2079bb09ca.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_8f91ee2a403f257dce6ad4b199c4ef2079bb09ca.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_c2c721768fa6759bb9d0fe0c39e86aa27ed80d10.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_c2c721768fa6759bb9d0fe0c39e86aa27ed80d10.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_31627e45e5062e619c23fb21d10223136f222905.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_31627e45e5062e619c23fb21d10223136f222905.1920x1080.jpg?t=1793370755"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_034ce61072ebb41127d4920da5c4cec0184513fa.600x338.jpg?t=1793370755",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1139900/ss_034ce61072ebb41127d4920da5c4cec0184513fa.1920x1080.jpg?t=1793370755"
+    }
+  ],
+  "web": "https://ghostrunnergame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood and gore in realistic graphics. Violence on human and human-like characters. Mutilated and dismembered bodies. Mature coarse language. The fear-inducing atmosphere, events, and characters.",
+  "igdbIntentado": true,
+  "igdb": 121752,
+  "youtube": [
+    {
+      "id": "bdwr3oTTpvk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "lQ_hlg0PVJ8",
+      "nombre": "Gamescom 2020 trailer"
+    },
+    {
+      "id": "Wa3j9mdtrjs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "zsjaRHMr088",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:45:12.586Z"
+}

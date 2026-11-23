@@ -1,9 +1,9 @@
 {
   "clave": "horizon zero dawn remasterizado",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019252e5-9375-72d9-803a-e683d86875a6",
   "appid": "2561580",
@@ -53,6 +53,28 @@
       "url": "https://opencritic.com/game/17569/horizon-zero-dawn-remastered"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "920004",
+      "nombre": "Horizon Zero Dawn™ remasterizado",
+      "apps": [
+        {
+          "appid": "2561580",
+          "nombre": "Horizon Zero Dawn™ remasterizado"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 49.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2561580": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Disfruta de Horizon Zero Dawn™, el juego aclamado por la crítica, con un impresionante y renovado apartado gráfico y más mejoras que nunca. En un futuro en el que colosales máquinas dominan la Tierra, los reductos de la humanidad sobreviven en tribus entre las ruinas de nuestra extinta civilización.",
   "generos": [
     "Acción",
@@ -61,6 +83,7 @@
   ],
   "lanzamientoTexto": "31 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Horizon Zero Dawn™ remasterizado",
   "acerca": [
     [
@@ -155,83 +178,103 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -327,5 +370,23 @@
     }
   ],
   "web": "https://www.guerrilla-games.com/tags/horizon",
-  "consultado": "2026-11-22T22:04:33.391Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 317103,
+  "youtube": [
+    {
+      "id": "rgDYyxOKBgg",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "kMN-x9goE7M",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:37.294Z"
 }

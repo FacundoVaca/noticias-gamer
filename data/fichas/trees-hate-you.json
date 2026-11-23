@@ -1,9 +1,9 @@
 {
   "clave": "trees hate you",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b12ed-15a3-7250-b324-54a747b612ab",
   "appid": "4171850",
@@ -22,6 +22,45 @@
     "Dark Humor"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1461440",
+      "nombre": "Trees Hate You",
+      "apps": [
+        {
+          "appid": "4171850",
+          "nombre": "Trees Hate You"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 4.59,
+      "descuento": 13
+    }
+  ],
+  "sueltos": {
+    "4171850": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5364210",
+      "nombre": "Trees Hate You Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5378320",
+      "nombre": "Trees Hate You - Supporter Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Ve de excursión por el peor bosque del mundo lleno de los árboles más horribles. No confíes en ellos. Intentarán engañarte, te acosarán y te harán daño. Si pudieras encontrar un hacha...",
   "generos": [
     "Aventura",
@@ -76,91 +115,113 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -206,5 +267,23 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4171850/c8de9b75aa9ee0614025890a93c34d29ab4f0aa9/ss_c8de9b75aa9ee0614025890a93c34d29ab4f0aa9.1920x1080.jpg?t=1794837394"
     }
   ],
-  "consultado": "2026-11-22T22:05:40.181Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 382400,
+  "youtube": [
+    {
+      "id": "Lea_yP4Rr2Y",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "UfWumLI6SRQ",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:31.371Z"
 }

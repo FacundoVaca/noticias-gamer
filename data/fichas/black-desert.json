@@ -1,9 +1,9 @@
 {
   "clave": "black desert",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f4b9-7080-816b-cf6e33e64534",
   "appid": "582660",
@@ -29,6 +29,52 @@
       "url": "https://store.steampowered.com/app/582660/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "776495",
+      "nombre": "Black Desert",
+      "apps": [
+        {
+          "appid": "582660",
+          "nombre": "Black Desert"
+        }
+      ],
+      "usd": 1.07,
+      "antes": 3.59,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "582660": {
+      "usd": 1.07,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2052350",
+      "nombre": "[SA] Black desert - Viajero a Explorador",
+      "gratis": false,
+      "usd": 12.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2052351",
+      "nombre": "[SA] Black Desert - Explorador a Conquistador",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2052352",
+      "nombre": "[SA] Black Desert - Viajero a Conquistador",
+      "gratis": false,
+      "usd": 28.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Con más de 20 millones de aventureros, black Desert Online es un MMORPG de acción de mundo abierto. ¡Experimenta su intenso combate, enfréntante a Jefes mundiales, asedia castillos junto a tus amigos y mejora en diversas profesiones como pesca, comercio, manufactura, y cocina, entre otras!",
   "generos": [
     "Acción",
@@ -42,6 +88,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/black-desert-online-land-of-the-morning-light-edition?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Black Desert",
   "acerca": [
     [
@@ -151,47 +198,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -291,5 +349,30 @@
     }
   ],
   "web": "https://blackdesert.pearlabyss.com/Steam",
-  "consultado": "2026-11-22T22:02:57.021Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Use and insinuated use of tobacco.",
+  "igdbIntentado": true,
+  "igdb": 6292,
+  "youtube": [
+    {
+      "id": "POnCB0ywTT8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mIsGYegBr9Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "c6lxwMhB4TU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JjXM9jceCDE",
+      "nombre": "E3 2017 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:48.836Z"
 }

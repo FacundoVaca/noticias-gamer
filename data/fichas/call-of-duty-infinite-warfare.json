@@ -1,9 +1,9 @@
 {
   "clave": "call of duty infinite warfare",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-30a2-71a7-9634-fb31a94f9ab0",
   "appid": "292730",
@@ -48,6 +48,115 @@
       "url": "https://opencritic.com/game/2850/call-of-duty-infinite-warfare"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "137606",
+      "nombre": "Call of Duty: Infinite Warfare",
+      "apps": [
+        {
+          "appid": "292730",
+          "nombre": "Call of Duty®: Infinite Warfare"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 59.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "137607",
+      "nombre": "Call of Duty: Infinite Warfare Digital Legacy Edition",
+      "apps": [
+        {
+          "appid": "292730",
+          "nombre": "Call of Duty®: Infinite Warfare"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 79.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "137608",
+      "nombre": "Call of Duty: Infinite Warfare Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "292730",
+          "nombre": "Call of Duty®: Infinite Warfare"
+        },
+        {
+          "appid": "517831",
+          "nombre": "Call of Duty®: Infinite Warfare - Digital Deluxe Edition"
+        },
+        {
+          "appid": "420490",
+          "nombre": "Call of Duty®: Infinite Warfare - Season Pass"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 99.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "292730": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "420490": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "517831": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "420490",
+      "nombre": "Call of Duty®: Infinite Warfare - Season Pass",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 50
+    },
+    {
+      "appid": "593270",
+      "nombre": "Call of Duty®: Infinite Warfare - UK Special Forces VO Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "593271",
+      "nombre": "Call of Duty®: Infinite Warfare - Method Man VO Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "593272",
+      "nombre": "Call of Duty®: Infinite Warfare - Ozzy Man Reviews VO Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "593273",
+      "nombre": "Call of Duty®: Infinite Warfare - Ken Jeong VO Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "638120",
+      "nombre": "Call of Duty®: Infinite Warfare - Grandma Knows Best VO Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Infinite Warfare ofrece tres modos de juego exclusivos: campaña, multijugador y Zombis.",
   "generos": [
     "Acción",
@@ -58,6 +167,7 @@
     "puntaje": 73,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-infinite-warfare?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: Infinite Warfare",
   "acerca": [
     [
@@ -97,51 +207,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -225,5 +347,27 @@
     }
   ],
   "web": "https://www.callofduty.com/infinitewarfare",
-  "consultado": "2026-11-22T22:06:37.189Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 18968,
+  "youtube": [
+    {
+      "id": "y_RI3bZhU50",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "PpcNQNJmU9Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EeF3UTkCoxY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:59.575Z"
 }

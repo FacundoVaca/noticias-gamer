@@ -2,7 +2,8 @@
   "clave": "assetto corsa competizione",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3592-70a1-8934-a495c90387a4",
   "appid": "805550",
@@ -35,6 +36,94 @@
       "url": "https://opencritic.com/game/7861/assetto-corsa-competizione"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "245453",
+      "nombre": "Assetto Corsa Competizione",
+      "apps": [
+        {
+          "appid": "805550",
+          "nombre": "Assetto Corsa Competizione"
+        }
+      ],
+      "usd": 3.79,
+      "antes": 18.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "805550": {
+      "usd": 3.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "2700610",
+      "nombre": "Assetto Corsa Competizione - 24H Nürburgring Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1865970",
+      "nombre": "Assetto Corsa Competizione - American Track Pack",
+      "gratis": false,
+      "usd": 3.71,
+      "descuento": 60
+    },
+    {
+      "appid": "1493170",
+      "nombre": "Assetto Corsa Competizione - British GT Pack",
+      "gratis": false,
+      "usd": 2.91,
+      "descuento": 60
+    },
+    {
+      "appid": "1201360",
+      "nombre": "Assetto Corsa Competizione - Intercontinental GT Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 60
+    },
+    {
+      "appid": "1865950",
+      "nombre": "Assetto Corsa Competizione - Challengers Pack",
+      "gratis": false,
+      "usd": 2.51,
+      "descuento": 60
+    },
+    {
+      "appid": "1337860",
+      "nombre": "Assetto Corsa Competizione - GT4 Pack",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 60
+    },
+    {
+      "appid": "1449260",
+      "nombre": "Assetto Corsa Competizione - 2020 GT World Challenge Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "2700600",
+      "nombre": "Assetto Corsa Competizione - GT2 Pack",
+      "gratis": false,
+      "usd": 5.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2328720",
+      "nombre": "Assetto Corsa Competizione - 2023 GT World Challenge Pack",
+      "gratis": false,
+      "usd": 2.91,
+      "descuento": 60
+    }
+  ],
   "descripcion": "Assetto Corsa Competizione es el nuevo juego oficial de la GT World Challenge. La excelente simulación del juego te permitirá experimentar la auténtica atmósfera de un campeonato homologado por la FIA GT3, en el que te enfrentarás a circuitos, vehículos, equipos y pilotos oficiales.",
   "generos": [
     "Carreras",
@@ -46,6 +135,302 @@
     "puntaje": 77,
     "url": "https://www.metacritic.com/game/pc/assetto-corsa-competizione?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 34607,
-  "consultado": "2026-11-22T21:44:55.830Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Assetto Corsa Competizione",
+  "acerca": [
+    [
+      "p",
+      "Las imágenes o tráileres podrían mostrar contenido que puede que aún no esté disponible. Este contenido, una vez esté disponible, será ofrecido a todos los poseedores de ACC sin coste adicional. Aquí podrás revisar nuestro plan completo de lanzamientos:"
+    ],
+    [
+      "p",
+      "Assetto Corsa Competizione es el nuevo juego oficial de GT World Challenge."
+    ],
+    [
+      "p",
+      "La excelente calidad de la simulación del juego te permitirá experimentar la auténtica atmósfera de un campeonato homologado por la FIA GT3, en el que te enfrentarás a circuitos, vehículos, equipos y pilotos oficiales. Todos ellos han sido recreados con un nivel de precisión nunca antes visto en ningún juego."
+    ],
+    [
+      "p",
+      "Las carreras de velocidad, resistencia y Spa 24 horas cobrarán vida con un nivel de realismo increíble, tanto en el modo para un jugador como en el multijugador."
+    ],
+    [
+      "p",
+      "Assetto Corsa Competizione nace de la longeva experiencia de KUNOS Simulazioni y aprovecha el Unreal Engine 4 para ofrecer gráficos y condiciones climatológicas fotorrealistas, carreras nocturnas, animaciones capturadas del mundo real y grandes mejoras a nivel de modelos aerodinámicos y de ruedas. Todo esto le permite alcanzar un nuevo estándar en lo que respecta a inmersión y realismo al volante."
+    ],
+    [
+      "p",
+      "Diseñado para innovar, Assetto Corsa Competizione está pensado para promocionar el deporte electrónico y poner a los jugadores en el corazón de la GT World Challenge. Es una ocasión única para ponerse al volante de Ferraris, Lamborghinis, McLarens y muchos otros vehículos famosos de GT, todos ellos recreados con un increíble nivel de detalle."
+    ],
+    [
+      "p",
+      "SIMULACIÓN REALISTA"
+    ],
+    [
+      "p",
+      "Assetto Corsa Competizione está diseñado para recrear, con la máxima fidelidad posible, el rendimiento y la experiencia de conducción de los vehículos reales de GT World Challenge. Esto se consigue a través de un sofisticado modelo matemático que replica con precisión el agarre de las ruedas, los impactos aerodinámicos, los parámetros del motor, las suspensiones y los sistemas electrónicos que determinan el equilibrio del vehículo, así como el modo en el que influyen en la conducción los daños mecánicos del vehículo."
+    ],
+    [
+      "p",
+      "EFECTOS VISUALES Y GRÁFICOS DE NUEVA GENERACIÓN"
+    ],
+    [
+      "p",
+      "El motor Unreal Engine 4 garantiza una recreación fotorrealista y precisa de los escenarios, los materiales de los vehículos y las condiciones climatológicas. Gracias a las grabaciones multicanal del sonido de coches GT reales, el juego consigue presentar entornos acústicos cautivadores y envolventes, además de efectos realistas del entorno."
+    ],
+    [
+      "p",
+      "ATENCIÓN A LOS DETALLES"
+    ],
+    [
+      "p",
+      "Incluso los detalles secundarios están fielmente reproducidos para hacerte sentir toda la emoción de estar a los mandos de un coche de competición real. Puertas, limpiaparabrisas, faros, luces de competición, equipo de carrera y dispositivos de control tales como ABS, control de tracción, encendido del motor, unidad de control del motor. Todo está bajo el control del piloto, para asegurar el mejor rendimiento y ofrecer al jugador el control total del coche."
+    ],
+    [
+      "p",
+      "LOS CIRCUITOS MÁS REALES"
+    ],
+    [
+      "p",
+      "Gracias a la tecnología de escaneado láser, todos los circuitos oficiales están recreados con la máxima precisión. Todas las curvas y todos los detalles son totalmente fieles a sus homólogos reales, para garantizar así una experiencia de juego lo más fiel posible a la realidad."
+    ],
+    [
+      "p",
+      "FUNCIONALIDAD MULTIJUGADOR AVANZADA"
+    ],
+    [
+      "p",
+      "Un sistema de marcadores muy bien estructurado evaluará el rendimiento individual y el comportamiento al volante, con el fin de recompensar a los pilotos más virtuosos y de promover el juego limpio en las competiciones online. El sistema de emparejamientos se asegura de que compitas contra rivales de un nivel de habilidad similar y de que puedas encontrar fácilmente carreras online a las que unirte. Por su parte, los marcadores te permitirán comparar tu actuación en vueltas individuales con la de otros pilotos virtuales de todo el mundo que hayan usado el mismo coche, el mismo circuito y las mismas condiciones climatológicas."
+    ],
+    [
+      "p",
+      "ENVOLVENTE EXPERIENCIA PARA UN JUGADOR"
+    ],
+    [
+      "p",
+      "Los modos Carrera, Campeonato y Juego libre ofrecen una experiencia de juego completa y personalizable. Además, gracias a los tutoriales y a los niveles de ayuda progresivos, podrás determinar la dificultad de tus rivales de la IA y la adaptar el control del vehículo a tus habilidades. Los eventos especiales te permitirán experimentar de primera mano los desafíos reales más destacables de GT World Challenge."
+    ],
+    [
+      "p",
+      "COMPATIBLE CON HARDWARE DE GAMA ALTA"
+    ],
+    [
+      "p",
+      "Assetto Corsa Competizione te asegura compatibilidad total con un amplio abanico de periféricos, desde mandos hasta volantes profesionales."
+    ],
+    [
+      "p",
+      "CAPTURA DE MOVIMIENTO PARA ANIMACIONES REALISTAS"
+    ],
+    [
+      "p",
+      "La tecnología de captura de movimiento se usa para crear las animaciones más realistas posibles para mecánicos y pilotos y, de este modo, garantizar que el jugador se sumerja completamente en las carreras, en las paradas en boxes y en los cambios de piloto."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "Compatible con RV",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 20H2 (October 2020 Update)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460 or AMD FX-8120"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 750 4GB, Radeon RX 460 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated"
+      ],
+      [
+        "Compatibilidad con RV",
+        "SteamVR or Oculus PC. Keyboard or gamepad required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 - 21H2"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600K or AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1070 8 GB, Radeon RX 580 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/ae39ccca56617ec8e3cf9495e84bee15c9a2dce1/ss_ae39ccca56617ec8e3cf9495e84bee15c9a2dce1.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/ae39ccca56617ec8e3cf9495e84bee15c9a2dce1/ss_ae39ccca56617ec8e3cf9495e84bee15c9a2dce1.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/b6f40edeb91d14d78b5fb38311af236458dab35f/ss_b6f40edeb91d14d78b5fb38311af236458dab35f.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/b6f40edeb91d14d78b5fb38311af236458dab35f/ss_b6f40edeb91d14d78b5fb38311af236458dab35f.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/6f21e352840c96361524072d12e2123285178a42/ss_6f21e352840c96361524072d12e2123285178a42.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/6f21e352840c96361524072d12e2123285178a42/ss_6f21e352840c96361524072d12e2123285178a42.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/c5682efc86c8485ed1fae1d907d7b790bebdc869/ss_c5682efc86c8485ed1fae1d907d7b790bebdc869.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/c5682efc86c8485ed1fae1d907d7b790bebdc869/ss_c5682efc86c8485ed1fae1d907d7b790bebdc869.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/443238f8f4e8ba4ee2ff1ce5c91c1f9287e14c83/ss_443238f8f4e8ba4ee2ff1ce5c91c1f9287e14c83.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/443238f8f4e8ba4ee2ff1ce5c91c1f9287e14c83/ss_443238f8f4e8ba4ee2ff1ce5c91c1f9287e14c83.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/b5c34755d725cbca82b7d60e8f49d0c9863df019/ss_b5c34755d725cbca82b7d60e8f49d0c9863df019.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/b5c34755d725cbca82b7d60e8f49d0c9863df019/ss_b5c34755d725cbca82b7d60e8f49d0c9863df019.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/f9ad3c3f559162567aae95877859e31cbbb1a51f/ss_f9ad3c3f559162567aae95877859e31cbbb1a51f.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/f9ad3c3f559162567aae95877859e31cbbb1a51f/ss_f9ad3c3f559162567aae95877859e31cbbb1a51f.1920x1080.jpg?t=1793287213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/a3b80a5ddf444189f0934003c3c69cc99ae4836e/ss_a3b80a5ddf444189f0934003c3c69cc99ae4836e.600x338.jpg?t=1793287213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/805550/a3b80a5ddf444189f0934003c3c69cc99ae4836e/ss_a3b80a5ddf444189f0934003c3c69cc99ae4836e.1920x1080.jpg?t=1793287213"
+    }
+  ],
+  "web": "https://www.assettocorsa.gg/competizione",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 89444,
+  "youtube": [
+    {
+      "id": "Wl-I8oUhrVQ",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "lI-Q-C0koSU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wpTkgOB_TEo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "gc2iifUKvNg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:44.884Z"
 }

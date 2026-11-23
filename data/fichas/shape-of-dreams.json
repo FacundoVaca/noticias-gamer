@@ -1,9 +1,9 @@
 {
   "clave": "shape of dreams",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0190ab02-7d22-70bb-8487-54143200cd16",
   "appid": "2444750",
@@ -51,6 +51,38 @@
       "url": "https://opencritic.com/game/19269/shape-of-dreams"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "879838",
+      "nombre": "Shape of Dreams",
+      "apps": [
+        {
+          "appid": "2444750",
+          "nombre": "Shape of Dreams"
+        }
+      ],
+      "usd": 8.74,
+      "antes": 12.49,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "2444750": {
+      "usd": 8.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3969650",
+      "nombre": "Shape of Dreams - Original Soundtrack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Shape of Dreams delivers fast-paced top-down roguelite action with chaotic projectile-filled battles, fluid combat, and high-stakes co-op. Play solo or with up to three friends as you dodge overwhelming attacks and unleash devastating builds.",
   "generos": [
     "Acción",
@@ -60,6 +92,7 @@
   ],
   "lanzamientoTexto": "10 SEP 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Shape of Dreams",
   "acerca": [
     [
@@ -164,55 +197,68 @@
   "idiomas": [
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -300,5 +346,30 @@
     }
   ],
   "web": "https://www.playshapeofdreams.com/",
-  "consultado": "2026-11-22T22:06:46.634Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 293572,
+  "youtube": [
+    {
+      "id": "AgPW7jsfRb0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "zp2uDMIWIgw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "06BleIXLDC4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "8pNeoyZVo5Y",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:50.784Z"
 }

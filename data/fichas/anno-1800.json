@@ -1,9 +1,9 @@
 {
   "clave": "anno 1800",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0861-7097-b165-ce3dc4c8aaf1",
   "appid": "916440",
@@ -49,6 +49,302 @@
       "url": "https://opencritic.com/game/7085/anno-1800"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "799852",
+      "nombre": "Anno 1800",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 47.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "935343",
+      "nombre": "Anno 1800 - Year 5 Gold Edition",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 79.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "935346",
+      "nombre": "Anno 1800 - Definitive Annoversary",
+      "apps": [
+        {
+          "appid": "916440",
+          "nombre": "Anno 1800"
+        }
+      ],
+      "usd": 51.99,
+      "antes": 103.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "916440": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 35,
+  "dlcLista": [
+    {
+      "appid": "1933240",
+      "nombre": "Anno 1800™ - Season 4 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1530880",
+      "nombre": "Anno 1800™ - Season 3 Pass",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1247710",
+      "nombre": "Anno 1800™ - Season 2 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1066850",
+      "nombre": "Anno 1800™ - Season 1 Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3256930",
+      "nombre": "Anno 1800 - End of an Era Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3113620",
+      "nombre": "Anno 1800 - Pirate Cove Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2830580",
+      "nombre": "Anno 1800 - Steampunk Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2622040",
+      "nombre": "Anno 1800 - Eldritch Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2504950",
+      "nombre": "Anno 1800™ National Park Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2400950",
+      "nombre": "Anno 1800™ Fiesta Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1933242",
+      "nombre": "Anno 1800 Cosmetic Pack Bundle #1",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2622020",
+      "nombre": "Anno 1800 Cosmetic Pack Bundle #2",
+      "gratis": false,
+      "usd": 25.59,
+      "descuento": 20
+    },
+    {
+      "appid": "2277980",
+      "nombre": "Anno 1800™ Dragon Garden Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2222650",
+      "nombre": "Anno 1800 - Old Town Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2055760",
+      "nombre": "Anno 1800 - Industrial Zone Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1803742",
+      "nombre": "Anno 1800 - Vibrant Cities Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1704690",
+      "nombre": "Anno 1800 - Pedestrian Zone Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1626972",
+      "nombre": "Anno 1800 - Vehicle Liveries",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1465650",
+      "nombre": "Anno 1800 - City Lights Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1383240",
+      "nombre": "Anno 1800 - Amusements Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1210040",
+      "nombre": "Anno 1800 – Holiday pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1881100",
+      "nombre": "Anno 1800 - Seasonal Decorations Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "1125790",
+      "nombre": "Anno 1800 - Sunken Treasure",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1125792",
+      "nombre": "Anno 1800 - Botanica",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1125794",
+      "nombre": "Anno 1800 - The Passage",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1247680",
+      "nombre": "Anno 1800 - Seat of Power",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1314950",
+      "nombre": "Anno 1800 - Bright Harvest",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1442810",
+      "nombre": "Anno 1800 - Land of Lions",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1530882",
+      "nombre": "Anno 1800 - Docklands",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1626970",
+      "nombre": "Anno 1800 - Tourist Season",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1704680",
+      "nombre": "Anno 1800 - The High Life",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 50
+    },
+    {
+      "appid": "1933244",
+      "nombre": "Anno 1800 - Seeds of Change",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2074410",
+      "nombre": "Anno 1800 - Empire of the Skies",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 50
+    },
+    {
+      "appid": "2222640",
+      "nombre": "Anno 1800 – New World Rising",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1066852",
+      "nombre": "Anno 1800 - Deluxe Pack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Forja tu imperio en un juego de construcción galardonado, ambientado en los albores de la Revolución Industrial. Ponte al frente de tu sociedad con estrategia y domina complejas cadenas de producción, mediante la innovación, la diplomacia y la maestría económica.",
   "generos": [
     "Simuladores",
@@ -59,6 +355,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/anno-1800?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Anno 1800",
   "acerca": [
     [
@@ -88,47 +385,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -228,5 +536,29 @@
     }
   ],
   "web": "https://www.anno-union.com",
-  "consultado": "2026-11-22T22:05:17.877Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 55036,
+  "youtube": [
+    {
+      "id": "o2hLWQ8-JB8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AIGMu1mctpY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "B8ZspVPX6zI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "DZ3TOOvRfOE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:39.524Z"
 }

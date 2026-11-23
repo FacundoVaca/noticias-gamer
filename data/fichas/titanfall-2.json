@@ -1,9 +1,9 @@
 {
   "clave": "titanfall 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-267f-730f-bba4-2d6b52801740",
   "appid": "1237970",
@@ -29,6 +29,66 @@
       "url": "https://store.steampowered.com/app/1237970/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432912",
+      "nombre": "Titanfall® 2: Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1237970",
+          "nombre": "Titanfall® 2"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1237970": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "1238100",
+      "nombre": "Titanfall® 2: Monarch's Reign Bundle",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1238102",
+      "nombre": "Titanfall® 2: Colony Reborn Bundle",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1238103",
+      "nombre": "Titanfall® 2: Prime Titan Bundle",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1238104",
+      "nombre": "Titanfall® 2: Angel City's Most Wanted Bundle",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1238105",
+      "nombre": "Titanfall® 2 Nitro Scorch Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Incluye todo el contenido de Digital Deluxe, el pack Arranque para subir de nivel y desbloquear artículos más rápido, y la pintura Underground personalizada para la carabina R-201.",
   "generos": [
     "Acción"
@@ -38,6 +98,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/titanfall-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Titanfall® 2",
   "acerca": [
     [
@@ -60,43 +121,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -184,5 +255,30 @@
     }
   ],
   "web": "https://www.ea.com/games/titanfall/titanfall-2",
-  "consultado": "2026-11-22T22:04:42.770Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 17447,
+  "youtube": [
+    {
+      "id": "zBcWai9LUG8",
+      "nombre": "Launch Trailer: Become One"
+    },
+    {
+      "id": "00wFXKzVYfE",
+      "nombre": "Single Player Gameplay Trailer"
+    },
+    {
+      "id": "cxH7f8yXY-c",
+      "nombre": "Multiplayer Gameplay Trailer"
+    },
+    {
+      "id": "bdvqUfYCyUI",
+      "nombre": "Encore Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:39.955Z"
 }

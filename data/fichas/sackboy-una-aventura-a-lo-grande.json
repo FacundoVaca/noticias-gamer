@@ -1,9 +1,9 @@
 {
   "clave": "sackboy una aventura a lo grande",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5dbc-72fe-a81e-1d6173483628",
   "appid": "1599660",
@@ -50,12 +50,205 @@
       "url": "https://opencritic.com/game/10519/sackboy-a-big-adventure"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "566502",
+      "nombre": "Sackboy™: A Big Adventure",
+      "apps": [
+        {
+          "appid": "1599660",
+          "nombre": "Sackboy™ Una aventura a lo grande"
+        }
+      ],
+      "usd": 19.79,
+      "antes": 59.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "791062",
+      "nombre": "Sackboy™: A Big Adventure",
+      "apps": [
+        {
+          "appid": "1599660",
+          "nombre": "Sackboy™ Una aventura a lo grande"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1599660": {
+      "usd": 19.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 22,
+  "dlcLista": [
+    {
+      "appid": "2193240",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Nathan Drake",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2193241",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Chloe Frazer",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2206300",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Kratos",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2206301",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Atreus",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2206302",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Freya",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2216230",
+      "nombre": "Sackboy™: Una aventura a lo grande - Equipamiento de fútbol",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2228240",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete de gestos",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2228241",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de Año Nuevo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232410",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje del Rey Mono",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232470",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete Ropa elegante",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232480",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete de gestos de celebración",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232490",
+      "nombre": "Traje de Gran Turismo® Racing para Sackboy™: Una aventura a lo grande",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232500",
+      "nombre": "Sackboy™: Una aventura a lo grande – Disfraz de recreativa",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232501",
+      "nombre": "Sackboy™ Una aventura a lo grande – Disfraz de año nuevo chino",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232502",
+      "nombre": "Sackboy™: Una aventura a lo grande - Traje de San Valentín",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232510",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete de gestos emotivos",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232520",
+      "nombre": "Sackboy™: Una aventura a lo grande – Disfraz de ASTRO BOT",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232530",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete Ropa deportiva",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232540",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete de pintura mate",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232550",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete de pintura gominola",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232560",
+      "nombre": "Sackboy™: Una aventura a lo grande – Traje de margarita",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2232580",
+      "nombre": "Sackboy™: Una aventura a lo grande – Paquete Ropa informal",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "FABRICADO A MEDIDA PARA PC Sackboy, el emblemático héroe de PlayStation®, vuelve a la acción en una aventura de plataformas multijugador en 3D. Una odisea épica llena de desafíos de plataformas. Controles profundamente inmersivos. Diversión en un multijugador cooperativo, caótico y divertido.",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "27 OCT 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Sackboy™ Una aventura a lo grande",
   "acerca": [
     [
@@ -234,99 +427,123 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Rumano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -426,5 +643,26 @@
     }
   ],
   "web": "https://www.playstation.com/games/sackboy-a-big-adventure/pc/",
-  "consultado": "2026-11-22T22:04:45.887Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134585,
+  "youtube": [
+    {
+      "id": "ZOk3fj5ujNM",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "MAaEqyE_Hfg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "C3I6SoCN5bI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:33.656Z"
 }

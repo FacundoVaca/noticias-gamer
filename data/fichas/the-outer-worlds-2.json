@@ -1,9 +1,9 @@
 {
   "clave": "the outer worlds 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193bdb3-8ec2-7319-b424-00c7171350c2",
   "appid": "1449110",
@@ -48,6 +48,58 @@
       "url": "https://opencritic.com/game/18723/the-outer-worlds-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "509844",
+      "nombre": "The Outer Worlds 2",
+      "apps": [
+        {
+          "appid": "1449110",
+          "nombre": "The Outer Worlds 2"
+        }
+      ],
+      "usd": 19.59,
+      "antes": 48.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1312931",
+      "nombre": "The Outer Worlds 2 Premium Edition",
+      "apps": [
+        {
+          "appid": "1449110",
+          "nombre": "The Outer Worlds 2"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 69.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1449110": {
+      "usd": 19.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4891270",
+      "nombre": "The Outer Worlds 2 - Premium Upgrade Bundle",
+      "gratis": false,
+      "usd": 21,
+      "descuento": 0
+    },
+    {
+      "appid": "4465910",
+      "nombre": "The Outer Worlds 2: Side Effects Guaranteed",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The Outer Worlds 2 es la continuación del galardonado juego de rol de ciencia ficción en primera persona creado por Obsidian Entertainment.",
   "generos": [
     "Acción",
@@ -56,6 +108,7 @@
   ],
   "lanzamientoTexto": "29 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Outer Worlds 2",
   "acerca": [
     [
@@ -149,51 +202,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -300,5 +365,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449110/6a0b9078c00fe0259a0458d47800970157c04bff/ss_6a0b9078c00fe0259a0458d47800970157c04bff.1920x1080.jpg?t=1794935549"
     }
   ],
-  "consultado": "2026-11-22T22:02:50.637Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood and Gore, Intense Violence, Strong Language",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152246,
+  "youtube": [
+    {
+      "id": "ClhDyC0ZECs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "I_rvTE-3S4c",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "EQ_PNu2c87A",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "YtHvZbKYv8k",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:32.885Z"
 }

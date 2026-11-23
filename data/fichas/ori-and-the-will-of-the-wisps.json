@@ -1,9 +1,9 @@
 {
   "clave": "ori and the will of the wisps",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3cc5-7116-b8e1-06ca7dd2e7ca",
   "appid": "1057090",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/7403/ori-and-the-will-of-the-wisps"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "353051",
+      "nombre": "Ori and the Will of the Wisps",
+      "apps": [
+        {
+          "appid": "1057090",
+          "nombre": "Ori and the Will of the Wisps"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 29.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1057090": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1258740",
+      "nombre": "Ori and the Will of the Wisps Soundtrack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 60
+    }
+  ],
   "descripcion": "Comienza un nuevo viaje por un mundo enorme y exótico en el que encontrarás imponentes enemigos y puzles desafiantes en tu misión para desentrañar el destino de Ori.",
   "generos": [
     "Acción"
@@ -56,6 +88,7 @@
     "puntaje": 88,
     "url": "https://www.metacritic.com/game/pc/ori-and-the-will-of-the-wisps?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Ori and the Will of the Wisps",
   "acerca": [
     [
@@ -177,87 +210,108 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -349,5 +403,30 @@
     }
   ],
   "web": "https://www.orithegame.com",
-  "consultado": "2026-11-22T22:05:59.178Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 37001,
+  "youtube": [
+    {
+      "id": "2reK8k8nwBc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "kd0zbNw1VOg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "dqdu_H66kL8",
+      "nombre": "TGA 2019 Trailer"
+    },
+    {
+      "id": "2kPSl2vyu2Y",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:39.890Z"
 }

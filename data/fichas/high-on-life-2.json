@@ -1,9 +1,9 @@
 {
   "clave": "high on life 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019750ed-01c7-73f0-9d0f-892551f149f2",
   "appid": "2069250",
@@ -49,6 +49,28 @@
       "url": "https://opencritic.com/game/19191/high-on-life-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1440832",
+      "nombre": "High On Life 2",
+      "apps": [
+        {
+          "appid": "2069250",
+          "nombre": "High On Life 2"
+        }
+      ],
+      "usd": 13.86,
+      "antes": 18.49,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "2069250": {
+      "usd": 13.86,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Una conspiración intergaláctica amenaza el destino de la humanidad! Únete a un variado grupo de armas alienígenas parlantes y dispara, apuñala y patina por exóticos lugares para derrotar a los malos y salvar a tu especie favorita (los humanos).",
   "generos": [
     "Acción",
@@ -56,6 +78,7 @@
   ],
   "lanzamientoTexto": "13 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "High On Life 2",
   "acerca": [
     [
@@ -114,31 +137,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -246,5 +276,28 @@
     }
   ],
   "web": "https://squanchgames.com/",
-  "consultado": "2026-11-22T22:05:52.840Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "Intense Violence Blood and Gore Strong Sexual Content Nudity Strong Language Use of Drugs and Alcohol",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 348166,
+  "youtube": [
+    {
+      "id": "GtTLjkB0vbo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "PdMX5_snGGQ",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "JDSLqJC2VLs",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:57:21.506Z"
 }

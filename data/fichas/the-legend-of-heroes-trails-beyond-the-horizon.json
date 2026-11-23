@@ -2,7 +2,8 @@
   "clave": "the legend of heroes trails beyond the horizon",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019bc095-79e0-73b7-a579-a321054fc14c",
   "appid": "3316940",
@@ -33,6 +34,143 @@
       "url": "https://store.steampowered.com/app/3316940/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1503720",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon",
+      "apps": [
+        {
+          "appid": "3316940",
+          "nombre": "The Legend of Heroes: Trails beyond the Horizon"
+        }
+      ],
+      "usd": 22.49,
+      "antes": 29.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "3316940": {
+      "usd": 22.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 16,
+  "dlcLista": [
+    {
+      "appid": "4214380",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Rean Schwarzer's Instructor Apparel",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214390",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Zemuria BGM Collection",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214400",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Black Mask & Rosenberg Dress",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214410",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Altina's Travel Outfit",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214420",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Silver Xiongshou Garb",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214430",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Marduk Survival Kit",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214440",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Agnès' Pink Lapine Attire",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214450",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - 4SPG UNITED Attire Set",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4214460",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Free Sample Set",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4214470",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Costumes & Colors Vol. 1",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4214480",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Costumes & Colors Vol. 2",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4214490",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Costumes & Colors Vol. 3",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4214500",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Accessories Pack",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4214510",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - BGM Pack",
+      "gratis": false,
+      "usd": 7.86,
+      "descuento": 25
+    },
+    {
+      "appid": "4214520",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Starter Pack",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4214530",
+      "nombre": "The Legend of Heroes: Trails beyond the Horizon - Advanced Pack",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 25
+    }
+  ],
   "descripcion": "The future of an entire continent is at stake in this milestone entry in the Trails series! Explore the vast Calvard Republic with three different protagonists, nurture connections, and master powerful skills in both real-time and turn-based battles as you uncover the secrets at the core of Zemuria!",
   "generos": [
     "Acción",
@@ -41,6 +179,200 @@
   ],
   "lanzamientoTexto": "15 ENE 2026",
   "metacritic": null,
-  "recomendaciones": 738,
-  "consultado": "2026-11-22T21:45:04.523Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "The Legend of Heroes: Trails beyond the Horizon",
+  "acerca": [
+    [
+      "p",
+      "The prophesied end of the Zemurian continent draws near, and so does the launch of humanity's first foray into space. A sudden invitation from Marduk to cooperate in a high-tech training exercise sets Van Arkride, Ashen Chevalier Rean Schwarzer, and Father Kevin Graham on a collision course with the secrets that lay at the very core of Zemuria."
+    ],
+    [
+      "p",
+      "Their paths may diverge, but the ultimate question remains the same: Just what lies beyond the edge of the horizon?"
+    ],
+    [
+      "h",
+      "Gameplay Mechanics"
+    ],
+    [
+      "p",
+      "Explore detailed locations across the Calvard Republic, strengthen your connections with your allies, and uncover what lies beyond the horizon of Zemuria across three intertwining story paths. Plus, Trails beyond the Horizon introduces new gameplay mechanics to the beloved battle system introduced in Trails through Daybreak, giving you an unprecedented amount of options in both Field and Command Battles. Battle it out in the action-packed Field Battle mode, then swap to the turn-based Command Battle mode to strategically plan out your attacks!"
+    ],
+    [
+      "p",
+      "New features include:"
+    ],
+    [
+      "p",
+      "Wield more power in battle than ever before with Shard Commands ! Utilize S-Boosts to give your party a range of benefits during battle. Each character and holo core comes with their own unique Shard Commands, so be sure to take advantage of them!"
+    ],
+    [
+      "p",
+      "Certain characters, such as Van with his ability to transform into the Grendel, can surge with extra strength using Awakening during Field Battles to temporarily increase their power."
+    ],
+    [
+      "p",
+      "Take control of time itself with Z.O.C . to slow the speed of enemies to a crawl, allowing characters to perform multiple attacks in quick succession. Not only that, but while Z.O.C. is activated, your attack power and stun damage will dramatically increase, making stunning enemies with high defense a breeze!"
+    ],
+    [
+      "p",
+      "Plus, gather allies from all over Calvard and beyond and put a stop to Ouroboros' machinations in the Grim Garten , a dungeon that you can take on with your own custom party!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "26 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Settings: 1080p, 30 FPS, Performance Graphics Profile"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "26 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Settings: 1440p, 60 FPS, High Graphics Profile"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/98ae78c86324ce123e560d13d48aba72592042b5/ss_98ae78c86324ce123e560d13d48aba72592042b5.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/98ae78c86324ce123e560d13d48aba72592042b5/ss_98ae78c86324ce123e560d13d48aba72592042b5.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/f329c3db227b2ba3a24c58c398d6564fdb5d23f7/ss_f329c3db227b2ba3a24c58c398d6564fdb5d23f7.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/f329c3db227b2ba3a24c58c398d6564fdb5d23f7/ss_f329c3db227b2ba3a24c58c398d6564fdb5d23f7.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/e8a37a59072901b9576919d32aa2def9e07ddf66/ss_e8a37a59072901b9576919d32aa2def9e07ddf66.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/e8a37a59072901b9576919d32aa2def9e07ddf66/ss_e8a37a59072901b9576919d32aa2def9e07ddf66.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/47f6af41dff967e37d2b633f392a55581765f152/ss_47f6af41dff967e37d2b633f392a55581765f152.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/47f6af41dff967e37d2b633f392a55581765f152/ss_47f6af41dff967e37d2b633f392a55581765f152.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/05bf3cd554f55f0abefc0f6e5e8b4b3053aa15ea/ss_05bf3cd554f55f0abefc0f6e5e8b4b3053aa15ea.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/05bf3cd554f55f0abefc0f6e5e8b4b3053aa15ea/ss_05bf3cd554f55f0abefc0f6e5e8b4b3053aa15ea.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/4d5cd7c2dd26409dfed4c5414855399234fb0a64/ss_4d5cd7c2dd26409dfed4c5414855399234fb0a64.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/4d5cd7c2dd26409dfed4c5414855399234fb0a64/ss_4d5cd7c2dd26409dfed4c5414855399234fb0a64.1920x1080.jpg?t=1793654761"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/07e5365d4c5f30e1d1ad541f3988631e25f083f5/ss_07e5365d4c5f30e1d1ad541f3988631e25f083f5.600x338.jpg?t=1793654761",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3316940/07e5365d4c5f30e1d1ad541f3988631e25f083f5/ss_07e5365d4c5f30e1d1ad541f3988631e25f083f5.1920x1080.jpg?t=1793654761"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "Frequent Violence. Suggestive Outfits. Sexual Insinuation. Usage of Fantasy Drugs. Threatening of Suicide. Gambling.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 280573,
+  "youtube": [
+    {
+      "id": "6P8vitrIGAk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "PnzBiTduoUc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "N8wfZrV854Q",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jQELYrJXO-A",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:01.181Z"
 }

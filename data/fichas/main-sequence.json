@@ -1,9 +1,9 @@
 {
   "clave": "main sequence",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193b69c-726a-7000-8d2f-9c2105ed8e2e",
   "appid": "2487190",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/2487190/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1204045",
+      "nombre": "Main Sequence",
+      "apps": [
+        {
+          "appid": "2487190",
+          "nombre": "Main Sequence"
+        }
+      ],
+      "usd": 10.39,
+      "antes": 12.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2487190": {
+      "usd": 10.39,
+      "gratis": false
+    }
+  },
   "descripcion": "Main Sequence es un juego de construcción de fábricas y simulador espacial en 1.ª persona en el que diseñas naves, construyes estaciones espaciales y lo automatizas todo. Empieza con una nave, conviértete en un imperio industrial interestelar y deja marca en la galaxia.",
   "generos": [
     "Indie",
@@ -39,6 +61,7 @@
   ],
   "lanzamientoTexto": "12 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Main Sequence",
   "acerca": [
     [
@@ -93,43 +116,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -228,5 +261,17 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/b7546b69fec410d7c5e2b4f03e0a6ab011ba192b/ss_b7546b69fec410d7c5e2b4f03e0a6ab011ba192b.1920x1080.jpg?t=1794507021"
     }
   ],
-  "consultado": "2026-11-22T22:04:39.648Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 371514,
+  "youtube": [
+    {
+      "id": "JNBCsoAUblA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:19.409Z"
 }

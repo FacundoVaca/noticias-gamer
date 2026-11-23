@@ -1,9 +1,9 @@
 {
   "clave": "microsoft flight simulator 2020 40th anniversary edition",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01971f4e-0d26-704d-a9cc-5f2f61df3854",
   "appid": "1250410",
@@ -31,6 +31,91 @@
       "url": "https://store.steampowered.com/app/1250410/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "759287",
+      "nombre": "Microsoft Flight Simulator (2020): 40th Anniversary Standard Edition",
+      "apps": [
+        {
+          "appid": "1250410",
+          "nombre": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 59.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "759286",
+      "nombre": "Microsoft Flight Simulator (2020): 40th Anniversary Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1250410",
+          "nombre": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+        }
+      ],
+      "usd": 31.49,
+      "antes": 89.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "759285",
+      "nombre": "Microsoft Flight Simulator (2020): 40th Anniversary Premium Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1250410",
+          "nombre": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+        }
+      ],
+      "usd": 41.99,
+      "antes": 119.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "1768546",
+      "nombre": "Microsoft Flight Simulator (2020): 40th Anniversary Aviator Edition",
+      "apps": [
+        {
+          "appid": "1250410",
+          "nombre": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+        }
+      ],
+      "usd": 112.09,
+      "antes": 189.99,
+      "descuento": 41
+    }
+  ],
+  "sueltos": {
+    "1250410": {
+      "usd": 20.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "5068460",
+      "nombre": "Microsoft Flight Simulator (2020) Local Legends Pack 1",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5068470",
+      "nombre": "Microsoft Flight Simulator (2020) Local Legends Pack 2",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5068480",
+      "nombre": "Microsoft Flight Simulator (2020) Famous Flyers Pack 1",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "From gliders and helicopters to wide-body jets, fly highly detailed and accurate aircraft in the Microsoft Flight Simulator 40th Anniversary Edition. The world is at your fingertips.",
   "generos": [
     "Simuladores"
@@ -40,6 +125,7 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/microsoft-flight-simulator?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
   "acerca": [
     [
@@ -240,55 +326,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -392,5 +491,30 @@
     }
   ],
   "web": "https://www.flightsimulator.com",
-  "consultado": "2026-11-22T22:04:04.707Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 119295,
+  "youtube": [
+    {
+      "id": "ReDDgFfWlS4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TYqJALPVn0Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dU6dq3zhCxw",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "EsIEnwMSjvU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:19.300Z"
 }

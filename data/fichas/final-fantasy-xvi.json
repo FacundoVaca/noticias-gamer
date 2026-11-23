@@ -2,7 +2,8 @@
   "clave": "final fantasy xvi",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6be0-706c-8cd9-b37e064b146f",
   "appid": "2515020",
@@ -47,6 +48,95 @@
       "url": "https://opencritic.com/game/14516/final-fantasy-xvi"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1029297",
+      "nombre": "FINAL FANTASY XVI",
+      "apps": [
+        {
+          "appid": "2515020",
+          "nombre": "FINAL FANTASY XVI"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1111230",
+      "nombre": "FINAL FANTASY XVI COMPLETE EDITION",
+      "apps": [
+        {
+          "appid": "2515020",
+          "nombre": "FINAL FANTASY XVI"
+        },
+        {
+          "appid": "2744050",
+          "nombre": "FINAL FANTASY XVI Echoes of the Fallen"
+        },
+        {
+          "appid": "2744060",
+          "nombre": "FINAL FANTASY XVI The Rising Tide"
+        }
+      ],
+      "usd": 21.99,
+      "antes": 54.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2515020": {
+      "usd": 15.99,
+      "gratis": false
+    },
+    "2744050": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "2744060": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "2886900",
+      "nombre": "FINAL FANTASY XVI Pase de expansión",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 60
+    },
+    {
+      "appid": "2744060",
+      "nombre": "FINAL FANTASY XVI The Rising Tide",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 60
+    },
+    {
+      "appid": "2744050",
+      "nombre": "FINAL FANTASY XVI Echoes of the Fallen",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 60
+    },
+    {
+      "appid": "3372350",
+      "nombre": "FINAL FANTASY XVI Original Soundtrack",
+      "gratis": false,
+      "usd": 15.95,
+      "descuento": 10
+    },
+    {
+      "appid": "3372360",
+      "nombre": "FINAL FANTASY XVI - Original DLC Soundtrack - From Spire to Sea",
+      "gratis": false,
+      "usd": 8.28,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Un épico mundo de fantasía oscura cuyo destino está en manos de los poderosos eikon y de los Dominantes que los controlan. Esta es la historia de Clive Rosfield, que jura vengarse del misterioso eikon oscuro Ifrit que solo deja desgracias a su paso.",
   "generos": [
     "Acción",
@@ -54,6 +144,280 @@
   ],
   "lanzamientoTexto": "17 SEP 2024",
   "metacritic": null,
-  "recomendaciones": 24818,
-  "consultado": "2026-11-22T21:46:00.909Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "FINAL FANTASY XVI",
+  "acerca": [
+    [
+      "p",
+      "El primer juego de rol de la franquicia Final Fantasy donde la acción cobra todo el protagonismo."
+    ],
+    [
+      "p",
+      "Un épico mundo de fantasía oscura cuyo destino está en manos de los poderosos eikon y de los Dominantes que los controlan."
+    ],
+    [
+      "p",
+      "Esta es la historia de Clive Rosfield, un guerrero que ha sido investido guarda mayor de Rosaria y es responsable de la protección de su hermano Joshua, el Dominante del Fénix. Clive no tarda en verse envuelto en una gran tragedia y jura vengarse de Ifrit, el misterioso eikon oscuro que solo deja desgracias a su paso."
+    ],
+    [
+      "p",
+      "Batallas colosales"
+    ],
+    [
+      "p",
+      "Participa en increíbles batallas entre Dominantes y eikon."
+    ],
+    [
+      "p",
+      "Acciones eikónicas"
+    ],
+    [
+      "p",
+      "Domina el poder de los eikon para derrotar a tus enemigos con toda clase de habilidades."
+    ],
+    [
+      "h",
+      "Habilidades por doquier"
+    ],
+    [
+      "p",
+      "Desarrolla tu propio estilo de combate."
+    ],
+    [
+      "p",
+      "Existen dos modos de juego: Historia y Acción. El modo Historia está recomendado para aquellos jugadores que prefieran centrarse en la historia o no tengan mucha experiencia con juegos de acción. En este modo, podrás esquivar automáticamente los ataques enemigos y ejecutar toda clase de impresionantes combos pulsando combinaciones sencillas de botones. Por otra parte, en el modo Acción controlarás todas las acciones de Clive de forma manual y es ideal para quienes busquen una experiencia de combate más desafiante."
+    ],
+    [
+      "h",
+      "Contenidos incluidos en este producto:"
+    ],
+    [
+      "p",
+      "- Juego base FINAL FANTASY XVI."
+    ],
+    [
+      "p",
+      "- Espada cebolla (este objeto descargable se puede obtener en el apartado Ajustes del menú principal al llegar al capítulo Anagnórisis de la historia principal)."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Subtítulos disponibles",
+    "Tamaño del texto ajustable",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 / 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 5 1600 / Intel® Core™ i5-8400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 5700 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "170 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "30FPS at 720p expected. SSD required. VRAM 8GB or above."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 / 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 7 5700X / Intel® Core™ i7-10700"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 6700 XT / NVIDIA® GeForce® RTX 2080"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "170 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "60FPS at 1080p expected. SSD required. VRAM 8GB or above."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_99530c1f839832ceeab2cf3450d5c0905312de47.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_99530c1f839832ceeab2cf3450d5c0905312de47.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_7620e893321e1661bdf821617f349196c2b0019f.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_7620e893321e1661bdf821617f349196c2b0019f.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_04ef537e3123d4a8dcbbadccc190cf87dee67783.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_04ef537e3123d4a8dcbbadccc190cf87dee67783.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_d3aea73c0bea755c7152ee339ebb7f7dfefe8f91.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_d3aea73c0bea755c7152ee339ebb7f7dfefe8f91.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_90a7849fb556c73db88ac37afb1cce44ac39bfab.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_90a7849fb556c73db88ac37afb1cce44ac39bfab.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_656229eb5e6846753160378c748d7d32143cf55a.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_656229eb5e6846753160378c748d7d32143cf55a.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_1f19a79460eba5d3d7f88bf6488f17c29f374a84.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_1f19a79460eba5d3d7f88bf6488f17c29f374a84.1920x1080.jpg?t=1773294537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_cd52855dc62ce1488379d7f831acd4423b05c02a.600x338.jpg?t=1773294537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515020/ss_cd52855dc62ce1488379d7f831acd4423b05c02a.1920x1080.jpg?t=1773294537"
+    }
+  ],
+  "web": "https://www.finalfantasyxvi.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "FINAL FANTASY XVI contiene escenas y diálogos en los que aparecen elementos no aptos para menores, como sangre, violencia, actos criminales y asesinatos.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 31551,
+  "youtube": [
+    {
+      "id": "NtpBEfrtE1s",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TU4g37kks2c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "jwu-57pBxd8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SdoKnM29qrA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:04.274Z"
 }

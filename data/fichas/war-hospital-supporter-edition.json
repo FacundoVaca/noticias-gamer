@@ -1,8 +1,8 @@
 {
   "clave": "war hospital supporter edition",
-  "v": 4,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-7ae4-729d-8c6f-2181ad9b4ff7",
   "appid": null,
@@ -18,5 +18,53 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:26:08.063Z"
+  "igdbIntentado": true,
+  "igdb": 284858,
+  "youtube": [
+    {
+      "id": "XK1uDhLukZA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "IrCYz5FdE_4",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcje.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcje.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcja.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcja.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcj8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcj8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcj9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcj9.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcjb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcjb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcjc.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcjc.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scqcjd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scqcjd.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator",
+    "Strategy"
+  ],
+  "resumenEn": "Take charge of a WW1 field hospital on the Western Front, and make all the decisions necessary to help the soldiers recover and to support the war effort. This edition includes the X-Ray DLC, the original soundtrack and the exclusive artbook.",
+  "v": 7,
+  "consultado": "2026-11-23T05:46:26.735Z"
 }

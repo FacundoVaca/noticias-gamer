@@ -1,9 +1,9 @@
 {
   "clave": "dreadmoor",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019638bb-68f5-72cc-8085-19253e747dd5",
   "appid": "3629430",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/3629430/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1279454",
+      "nombre": "DREADMOOR",
+      "apps": [
+        {
+          "appid": "3629430",
+          "nombre": "DREADMOOR"
+        }
+      ],
+      "usd": 9.89,
+      "antes": 10.99,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "3629430": {
+      "usd": 9.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5307520",
+      "nombre": "DREADMOOR Supporter Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "DREADMOOR es una oscura aventura de pesca en primera persona ambientada en un mundo sumergido, en descomposición tras una catástrofe. Pesca en aguas turbias, mejora tu barco, fabrica equipo de supervivencia y combate a las criaturas monstruosas que acechan bajo el agua y en tierra.",
   "generos": [
     "Acción",
@@ -40,6 +72,7 @@
   ],
   "lanzamientoTexto": "9 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "DREADMOOR",
   "acerca": [
     [
@@ -88,51 +121,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -240,5 +285,27 @@
     }
   ],
   "web": "https://www.dream-dock.com",
-  "consultado": "2026-11-22T22:03:55.172Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Players may encounter the following content: Horror and disturbing themes: An oppressive, unsettling atmosphere, cursed and flooded landscapes, grotesque mutated creatures, and moments of tension and fear. Some scenes may be frightening for sensitive players. Gore and dissection: Players can catch fish and dissect them to harvest organs and body parts used for crafting lures and gear. The game contains no sexual content or nudity.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 340334,
+  "youtube": [
+    {
+      "id": "CVBZL2Eku7E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "z16ngiZZerw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7izXYeu7Mu8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:50.483Z"
 }

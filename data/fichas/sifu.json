@@ -2,7 +2,8 @@
   "clave": "sifu",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4cb1-7067-9ee2-3c3366d2a96b",
   "appid": "2138710",
@@ -49,6 +50,52 @@
       "url": "https://opencritic.com/game/12705/sifu"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "764995",
+      "nombre": "Sifu",
+      "apps": [
+        {
+          "appid": "2138710",
+          "nombre": "Sifu"
+        }
+      ],
+      "usd": 4.74,
+      "antes": 18.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2138710": {
+      "usd": 4.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2231950",
+      "nombre": "Sifu Deluxe Cosmetic Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2253840",
+      "nombre": "The Sound of Sifu",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2253841",
+      "nombre": "The Art of Sifu",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Sifu es un juego de lucha realista en tercera persona con cuidadas mecánicas de combate kung-fu y artes marciales cinematográficas que te conducirá por el camino de la venganza.",
   "generos": [
     "Acción",
@@ -59,6 +106,236 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/sifu?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 22576,
-  "consultado": "2026-11-22T21:45:34.953Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Sifu",
+  "acerca": [
+    [
+      "p",
+      "¿Con ganas de kung-fu del bueno? La expansión de Arenas gratis añade múltiples horas de juego que pondrán tu kung-fu a prueba. Con 5 nuevos modos de juego, 15 ubicaciones dinámicas y 120 retos, equípate para combates espectaculares, oponentes brutales e infinitas oportunidades de pulir tus movimientos."
+    ],
+    [
+      "p",
+      "Tanto si eliges jugar con un personaje masculino o femenino, Sifu te llevará a meditar esta cuestión en tu camino hacia la venganza, cazando a los asesinos de tu familia. Uno contra todos. Sin aliados, con innumerables enemigos y un misterioso amuleto que te devuelve a la vida cada vez que mueres. ¡Pero ten cuidado! El uso de tu arma secreta supone un precio considerable: el envejecimiento y sus consecuencias."
+    ],
+    [
+      "p",
+      "Tus enemigos no esperan su turno y no muestran sus intenciones. Esquiva, bloquea, golpea, utiliza combinaciones y se como el agua fluyendo por entornos cautivadores. Aprende a dominar el arte del kung-fu, ya sea luchando en el sótano de un club nocturno, atravesando finas galerías para evitar que te rodeen o navegando verticalmente por un imponente edificio de oficinas."
+    ],
+    [
+      "p",
+      "Un posicionamiento cuidadoso y un uso inteligente del entorno a tu favor son claves para la supervivencia. Usa todo lo que tengas a mano: objetos arrojadizos, armas improvisadas, ventanas y repisas... La suerte no está de tu parte y no se te concederá clemencia."
+    ],
+    [
+      "p",
+      "La maestría del kung-fu requiere práctica, un camino tanto para el cuerpo como para la mente. Aprende de tus errores, desbloquea habilidades únicas y halla la fuerza para dominar las devastadoras técnicas del kung-fu Pak Mei."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1"
+      ],
+      [
+        "Procesador",
+        "AMD FX-4350 or Intel Core i5-3470 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon R7 250 or GeForce GT 640 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "22 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD FX-9590 or Intel Core i7-6700K or equivalent"
+      ],
+      [
+        "Memoria",
+        "10 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 970 or Radeon R9 390X or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "22 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_9be1654f96e9fd6517fbe9107d76da245cbfaeb9.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_9be1654f96e9fd6517fbe9107d76da245cbfaeb9.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_7f7fd03f973d0a1e5e9d481a2235402c19c0f0e5.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_7f7fd03f973d0a1e5e9d481a2235402c19c0f0e5.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_fcbdfe30cb361fdc6971878306a5179d175240c9.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_fcbdfe30cb361fdc6971878306a5179d175240c9.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_c917c981f912e8331b40a2638a32b3021458d4b8.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_c917c981f912e8331b40a2638a32b3021458d4b8.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_6541bc550e7b1133d123ebce8b0e098dccbe66eb.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_6541bc550e7b1133d123ebce8b0e098dccbe66eb.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_c400edce5e28150a5d9859aaace1c76fb2b44d78.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_c400edce5e28150a5d9859aaace1c76fb2b44d78.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_8bdc441c064f7ac1f75a33bb9f50e38110f38d28.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_8bdc441c064f7ac1f75a33bb9f50e38110f38d28.1920x1080.jpg?t=1782742326"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_e13cb718cba01b51788627b43226fedd52caa217.600x338.jpg?t=1782742326",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/ss_e13cb718cba01b51788627b43226fedd52caa217.1920x1080.jpg?t=1782742326"
+    }
+  ],
+  "web": "https://www.sifugame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Sifu is an action-fighting game that features violent combat gameplay.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 144022,
+  "youtube": [
+    {
+      "id": "1FQ1YO3Ks2U",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "AYbLI3a7SD8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Vy-enf5xxgQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "T7jWeH0VXMg",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:45.036Z"
 }

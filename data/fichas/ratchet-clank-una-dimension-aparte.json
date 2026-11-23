@@ -1,9 +1,9 @@
 {
   "clave": "ratchet clank una dimension aparte",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6be4-7201-9629-1fd2381d5b32",
   "appid": "1895880",
@@ -53,6 +53,41 @@
       "url": "https://opencritic.com/game/10994/ratchet-clank-rift-apart"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "682842",
+      "nombre": "Ratchet & Clank: Una dimensión aparte",
+      "apps": [
+        {
+          "appid": "1895880",
+          "nombre": "Ratchet & Clank: Una dimensión aparte"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 59.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "910734",
+      "nombre": "Ratchet & Clank: Una dimensión aparte",
+      "apps": [
+        {
+          "appid": "1895880",
+          "nombre": "Ratchet & Clank: Una dimensión aparte"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1895880": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Ábrete paso a través de una aventura interdimensional con Ratchet y Clank, ¡ahora en PC! ¡Ayúdalos a derrotar a un malvado emperador de otra realidad saltando entre mundos cargados de acción y más allá a hipervelocidad!",
   "generos": [
     "Acción",
@@ -60,6 +95,7 @@
   ],
   "lanzamientoTexto": "26 JUL 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Ratchet & Clank: Una dimensión aparte",
   "acerca": [
     [
@@ -198,99 +234,123 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Rumano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Croata",
@@ -394,5 +454,30 @@
     }
   ],
   "web": "https://www.playstation.com/games/ratchet-and-clank-rift-apart/pc/",
-  "consultado": "2026-11-22T22:03:35.956Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134582,
+  "youtube": [
+    {
+      "id": "9aJK8K_NnTE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tS0dl8KEbng",
+      "nombre": "Gamescom 2020 Gameplay Demo"
+    },
+    {
+      "id": "LjuAi3WVlqk",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "i_jZ3BV6Adc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:06.535Z"
 }

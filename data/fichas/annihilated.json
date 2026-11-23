@@ -1,9 +1,9 @@
 {
   "clave": "annihilated",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018e3673-848a-721e-91f6-ce5b9483fad7",
   "appid": "2638080",
@@ -42,6 +42,38 @@
       "url": "https://metacritic.com/game/annihilated/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "945913",
+      "nombre": "Annihilated",
+      "apps": [
+        {
+          "appid": "2638080",
+          "nombre": "Annihilated"
+        }
+      ],
+      "usd": 8.59,
+      "antes": 9.55,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "2638080": {
+      "usd": 8.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4549290",
+      "nombre": "Annihilated Original Soundtrack",
+      "gratis": false,
+      "usd": 5.75,
+      "descuento": 10
+    }
+  ],
   "descripcion": "A story-driven roguelite RPG about a journey through the depths with a broken hero — and what they have to answer for. The hero's party has been annihilated: you carry one of them out of a cursed dungeon, learn what broke them, and settle it together. Four routes, four heroes, four reckonings.",
   "generos": [
     "Indie",
@@ -49,6 +81,7 @@
   ],
   "lanzamientoTexto": "9 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Annihilated",
   "acerca": [
     [
@@ -182,15 +215,18 @@
   "idiomas": [
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,5 +289,30 @@
     }
   ],
   "web": "https://x.com/Annihilated_JP",
-  "consultado": "2026-11-22T22:04:17.567Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Contains bloodshed, death, a bit of horror, and psycho-horror elements. Please be careful if you do not like them. However, if you expect too much of these elements, you may be disappointed.",
+  "igdbIntentado": true,
+  "igdb": 291331,
+  "youtube": [
+    {
+      "id": "kjXMFsKY_xo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8rF3QskJp7w",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "Y83_CtZtOE8",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "fHUYeDn39mo",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:15.027Z"
 }

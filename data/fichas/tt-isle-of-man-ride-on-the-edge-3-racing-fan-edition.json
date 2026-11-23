@@ -1,9 +1,9 @@
 {
   "clave": "tt isle of man ride on the edge 3 racing fan edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6c94-7096-b156-2a973822f0b3",
   "appid": "1924170",
@@ -32,30 +32,61 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "842143",
+      "nombre": "TT Isle Of Man: Ride on the Edge 3",
+      "apps": [
+        {
+          "appid": "1924170",
+          "nombre": "TT Isle Of Man: Ride on the Edge 3"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "858040",
+      "nombre": "TT Isle Of Man: Ride on the Edge 3 - Racing Fan Edition",
+      "apps": [
+        {
+          "appid": "1924170",
+          "nombre": "TT Isle Of Man: Ride on the Edge 3"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1924170": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 3,
   "dlcLista": [
     {
       "appid": "2148840",
       "nombre": "TT Isle Of Man 3 - John McGuinness 100th Start Special Livery",
       "gratis": false,
-      "precio": "$1.39",
-      "antes": null,
+      "usd": 1.39,
       "descuento": 0
     },
     {
       "appid": "2157600",
       "nombre": "TT Isle Of Man 3 - 2023 TT Races Roster",
       "gratis": false,
-      "precio": "$8.99",
-      "antes": null,
+      "usd": 8.99,
       "descuento": 0
     },
     {
       "appid": "2214700",
       "nombre": "TT Isle Of Man 3 - Career Starter Pack",
       "gratis": false,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     }
   ],
@@ -67,6 +98,7 @@
   ],
   "lanzamientoTexto": "11 MAY 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "TT Isle Of Man: Ride on the Edge 3",
   "acerca": [
     [
@@ -120,55 +152,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -276,5 +321,21 @@
     }
   ],
   "web": "https://iomttthegame.com/",
-  "consultado": "2026-11-22T22:26:22.860Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 228729,
+  "youtube": [
+    {
+      "id": "o_nuaJEi9cE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "fWP_Bn6CSlw",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:58.000Z"
 }

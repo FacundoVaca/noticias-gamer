@@ -1,9 +1,9 @@
 {
   "clave": "for honor",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea45-71c7-84fa-91cf40cca4de",
   "appid": "304390",
@@ -51,6 +51,337 @@
       "url": "https://opencritic.com/game/2863/for-honor"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1004569",
+      "nombre": "FOR HONOR",
+      "apps": [
+        {
+          "appid": "304390",
+          "nombre": "FOR HONOR™"
+        }
+      ],
+      "usd": 3.59,
+      "antes": 23.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "1004572",
+      "nombre": "FOR HONOR – Gold Edition",
+      "apps": [
+        {
+          "appid": "304390",
+          "nombre": "FOR HONOR™"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 47.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "1004575",
+      "nombre": "FOR HONOR – Ultimate Edition",
+      "apps": [
+        {
+          "appid": "304390",
+          "nombre": "FOR HONOR™"
+        }
+      ],
+      "usd": 10.79,
+      "antes": 71.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "304390": {
+      "usd": 3.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 59,
+  "dlcLista": [
+    {
+      "appid": "4912200",
+      "nombre": "Pase de batalla – Y10S3 – FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4912220",
+      "nombre": "Lote de batalla – Y10S3 – FOR HONOR",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4912240",
+      "nombre": "Pase del Legado – Y6S3 – FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4912260",
+      "nombre": "Guardián de Cadenas – Diseño de Conquistador - FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4739910",
+      "nombre": "Arakure – Heroína– FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4739950",
+      "nombre": "Pack de Valor - FOR HONOR",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4739930",
+      "nombre": "Pack de Bienvenida - FOR HONOR",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4585190",
+      "nombre": "The Oni's Hunt Deluxe – Hero Skin Bundle – FOR HONOR",
+      "gratis": false,
+      "usd": 27.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4585210",
+      "nombre": "The Oni's Hunt – Hero Skin Bundle – FOR HONOR",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4585170",
+      "nombre": "The Oni's Wrath – Sohei Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4418510",
+      "nombre": "Naoe the Swift – Shinobi Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4418540",
+      "nombre": "Yasuke el Valiente – Diseño de héroe para el Shugoki – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4418560",
+      "nombre": "Eivor Matalobos – Diseño de héroe para el Bersérker – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4418590",
+      "nombre": "Lote de diseño de héroe de Assassin's Creed Shadows - FOR HONOR",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4418610",
+      "nombre": "Lote de diseño de héroe definitivo de Assassin's Creed – FOR HONOR",
+      "gratis": false,
+      "usd": 43.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4312460",
+      "nombre": "Juren - Héroe - FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4380600",
+      "nombre": "Lote Historias de Grifo – Lote de héroe Grifo y diseño de héroe Heraldo Abrasador – FOR HONOR",
+      "gratis": false,
+      "usd": 17.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4380580",
+      "nombre": "El Heraldo Abrasador – Diseño de héroe legendario Grifo – FOR HONOR",
+      "gratis": false,
+      "usd": 13.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4196400",
+      "nombre": "Prince Yi – Tiandi Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4080100",
+      "nombre": "Yoshiro the Damned - Orochi Hero Skin - FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3888050",
+      "nombre": "Saori – Diseño de héroe Nobushi – FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3854280",
+      "nombre": "Virtuosa - Hero - FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3642940",
+      "nombre": "The Warrior Prince - Aramusha Hero Skin - FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3534380",
+      "nombre": "Queen Kalliopi - Gladiator Hero Skin - FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3407080",
+      "nombre": "Khatun - Hero - FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3255770",
+      "nombre": "Violet King & Crucible Lord - Hero Skin Bundle - FOR HONOR",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3255730",
+      "nombre": "The Crucible Lord – Centurion Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3255750",
+      "nombre": "The Violet King - Lawbringer Hero Skin - FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3178740",
+      "nombre": "Gudmundr the Great - Warlord Hero Skin - FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3028750",
+      "nombre": "Master Katashi – Orochi Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3062480",
+      "nombre": "Sohei – Hero – FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2914620",
+      "nombre": "Ultimate Heroes Pack – FOR HONOR",
+      "gratis": false,
+      "usd": 31.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2914600",
+      "nombre": "Gold Heroes Pack – FOR HONOR",
+      "gratis": false,
+      "usd": 31.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2914640",
+      "nombre": "Ezio Auditore – Peacekeeper Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2845690",
+      "nombre": "The Unsung Knight – Warden Hero Skin – FOR HONOR",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2625100",
+      "nombre": "FOR HONOR™ - Highlander Hero Skin - Oathbreaker Maddox",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2697740",
+      "nombre": "Varangian Guard - Hero - FOR HONOR",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2541870",
+      "nombre": "FOR HONOR™ - Monkey King Hero Skin",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2478490",
+      "nombre": "FOR HONOR™ - Ocelotl Hero",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2235540",
+      "nombre": "FOR HONOR™ - Afeera Hero",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "For Honor es un revolucionario juego de lucha cuerpo a cuerpo JcJ por equipos donde caballeros, samuráis, vikingos, Wu Lin y muchos otros combaten en batallas infinitas. Elige héroes excepcionales y domina intensas batallas 4c4, 2c2 o 1c1.",
   "generos": [
     "Acción"
@@ -60,6 +391,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/for-honor?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "FOR HONOR™",
   "acerca": [
     [
@@ -114,59 +446,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -282,5 +628,32 @@
     }
   ],
   "web": "http://forhonorgame.com/",
-  "consultado": "2026-11-22T22:06:56.096Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action game in which players control one of three factions (Samurai, Vikings, Knights) in a protracted battle for dominance.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11162,
+  "youtube": [
+    {
+      "id": "0XGAhLZxFwc",
+      "nombre": "Conqueror Trailer"
+    },
+    {
+      "id": "1e89GOvQj4Q",
+      "nombre": "Kensei Hero Trailer"
+    },
+    {
+      "id": "E4xfwg8TEU4",
+      "nombre": "The Thin Red Path Trailer"
+    },
+    {
+      "id": "6rl3D_p4Zk8",
+      "nombre": "Valkyrie Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:42.297Z"
 }

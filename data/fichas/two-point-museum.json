@@ -1,9 +1,9 @@
 {
   "clave": "two point museum",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01915130-8a02-7145-a090-fed280414ae8",
   "appid": "2185060",
@@ -48,6 +48,94 @@
       "url": "https://opencritic.com/game/17484/two-point-museum"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "782296",
+      "nombre": "Two Point Museum",
+      "apps": [
+        {
+          "appid": "2185060",
+          "nombre": "Two Point Museum"
+        }
+      ],
+      "usd": 14.06,
+      "antes": 20.99,
+      "descuento": 33
+    },
+    {
+      "packageid": "1067228",
+      "nombre": "Two Point Museum: Explorer Edition",
+      "apps": [
+        {
+          "appid": "2185060",
+          "nombre": "Two Point Museum"
+        },
+        {
+          "appid": "2999850",
+          "nombre": "Two Point Museum: Explorer Upgrade Pack"
+        }
+      ],
+      "usd": 20.09,
+      "antes": 29.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "2185060": {
+      "usd": 14.06,
+      "gratis": false
+    },
+    "2999850": {
+      "usd": 6.69,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "4511680",
+      "nombre": "Two Point Museum: Atracciones y reliquias",
+      "gratis": false,
+      "usd": 8.09,
+      "descuento": 10
+    },
+    {
+      "appid": "4114070",
+      "nombre": "Two Point Museum: Arte-Factos",
+      "gratis": false,
+      "usd": 6.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3804850",
+      "nombre": "Two Point Museum: Zoomuseo",
+      "gratis": false,
+      "usd": 6.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3592600",
+      "nombre": "Two Point Museum: Hallazgos fantásticos",
+      "gratis": false,
+      "usd": 3.89,
+      "descuento": 40
+    },
+    {
+      "appid": "2999850",
+      "nombre": "Two Point Museum: Explorer Upgrade Pack",
+      "gratis": false,
+      "usd": 6.69,
+      "descuento": 33
+    },
+    {
+      "appid": "3550890",
+      "nombre": "Banda sonora de Two Point Museum",
+      "gratis": false,
+      "usd": 4.34,
+      "descuento": 33
+    }
+  ],
   "descripcion": "¡Organiza y gestiona museos increíbles! Explora para descubrir reliquias asombrosas. Diseña las salas y mantén al personal contento, a los visitantes entretenidos, las donaciones abundantes y a los niños alejados de las piezas expuestas.",
   "generos": [
     "Casual",
@@ -60,6 +148,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/two-point-museum?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Two Point Museum",
   "acerca": [
     [
@@ -178,67 +267,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -346,5 +451,32 @@
     }
   ],
   "web": "https://www.twopointstudios.com/",
-  "consultado": "2026-11-22T22:05:24.270Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 313595,
+  "youtube": [
+    {
+      "id": "8tI85pecH1g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "CQTsdT4xS0w",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "yfqdHURcc5U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "iGmUKTszyRU",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:32.178Z"
 }

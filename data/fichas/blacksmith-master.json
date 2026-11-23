@@ -1,9 +1,10 @@
 {
   "clave": "blacksmith master",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-6c8d-737a-b9a1-abf07a1b9174",
   "appid": "2292800",
@@ -31,6 +32,28 @@
       "url": "https://store.steampowered.com/app/2292800/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "822600",
+      "nombre": "Blacksmith Master",
+      "apps": [
+        {
+          "appid": "2292800",
+          "nombre": "Blacksmith Master"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 9.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2292800": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Blacksmith Master te da la oportunidad de gestionar tu propia herrería medieval. Supervisa todo el proceso, desde la extracción de minerales y piedras preciosas hasta el diseño de productos. Fragua todo tipo de objetos, ¡consolida tu negocio y domina la profesión!",
   "generos": [
     "Simuladores",
@@ -38,6 +61,7 @@
   ],
   "lanzamientoTexto": "19 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Blacksmith Master",
   "acerca": [
     [
@@ -113,71 +137,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -276,5 +317,35 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2292800/1b574dd5ec01f9aeb34a6f9ba4fbb54e6facd9a7/ss_1b574dd5ec01f9aeb34a6f9ba4fbb54e6facd9a7.1920x1080.jpg?t=1795111301"
     }
   ],
-  "consultado": "2026-11-22T22:07:48.247Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.8,
+    "cantidad": 364,
+    "escala": 5
+  },
+  "xbox": "9NMZH1KXLTSB",
+  "igdbIntentado": true,
+  "igdb": 240253,
+  "youtube": [
+    {
+      "id": "S35VFwXg2Ow",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "RPri2AEAN4g",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "5owR1PIf6_k",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:20.279Z"
 }

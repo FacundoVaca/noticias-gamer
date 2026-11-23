@@ -1,8 +1,8 @@
 {
   "clave": "deceive inc black tie edition",
-  "v": 4,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-6b09-7234-9fe8-f5dd665b4e17",
   "appid": null,
@@ -17,5 +17,25 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:26:01.659Z"
+  "igdbIntentado": true,
+  "igdb": 234244,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm9jq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scm9jq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scm9jr.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scm9jr.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Strategy",
+    "Tactical",
+    "Indie"
+  ],
+  "resumenEn": "Dress to impress with the Deceive Inc. Black Tie Edition!\n\nEvery Black Tie Edition Includes:\nExclusive ‘Black Tie’ outfits for all 8 Agents\nCustom ‘Black Tie’ Profile Portrait & Title\n1,000 Deceive Inc. Bonds",
+  "v": 7,
+  "consultado": "2026-11-23T05:46:02.125Z"
 }

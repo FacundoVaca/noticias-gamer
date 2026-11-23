@@ -1,9 +1,9 @@
 {
   "clave": "the binding of isaac rebirth",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-09ae-70b2-8269-996df377eeea",
   "appid": "250900",
@@ -48,12 +48,73 @@
       "url": "https://opencritic.com/game/171/the-binding-of-isaac-rebirth"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "56355",
+      "nombre": "The Binding of Isaac: Rebirth",
+      "apps": [
+        {
+          "appid": "250900",
+          "nombre": "The Binding of Isaac: Rebirth"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "250900": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "3353470",
+      "nombre": "The Binding of Isaac: Repentance+",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1426300",
+      "nombre": "The Binding of Isaac: Repentance",
+      "gratis": false,
+      "usd": 40.76,
+      "descuento": 20
+    },
+    {
+      "appid": "401920",
+      "nombre": "The Binding of Isaac: Afterbirth",
+      "gratis": false,
+      "usd": 8.79,
+      "descuento": 20
+    },
+    {
+      "appid": "570660",
+      "nombre": "The Binding of Isaac: Afterbirth+",
+      "gratis": false,
+      "usd": 28.77,
+      "descuento": 20
+    },
+    {
+      "appid": "322660",
+      "nombre": "The Binding of Isaac: Rebirth - Soundtrack",
+      "gratis": false,
+      "usd": 10.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "4 NOV 2014",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Binding of Isaac: Rebirth",
   "acerca": [
     [
@@ -192,7 +253,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -284,5 +346,24 @@
     }
   ],
   "web": "http://www.bindingofisaac.com",
-  "consultado": "2026-11-22T22:03:13.381Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7789,
+  "youtube": [
+    {
+      "id": "Z6_C2ppkdVc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "1aBb0M8HRCQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:51.854Z"
 }

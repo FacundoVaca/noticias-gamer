@@ -2,7 +2,8 @@
   "clave": "dragon age origins ultimate edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea85-70a6-a417-f6015968fcca",
   "appid": "47810",
@@ -34,6 +35,28 @@
       "url": "https://metacritic.com/game/dragon-age-origins-ultimate-edition/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "6517",
+      "nombre": "Dragon Age: Origins - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "47810",
+          "nombre": "Dragon Age: Origins - Ultimate Edition"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 29.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "47810": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Dragon Age: Origins - Ultimate Edition incluye Dragon Age: Origins, Dragon Age: Origins - Awakening y los nueve packs de contenido.",
   "generos": [
     "Rol"
@@ -43,6 +66,193 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/dragon-age-origins?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 29094,
-  "consultado": "2026-11-22T21:43:52.518Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Dragon Age: Origins - Ultimate Edition",
+  "acerca": [
+    [
+      "p",
+      "Dragon Age: Origins"
+    ],
+    [
+      "p",
+      "Eres un Guarda Gris, uno de los últimos que quedan de una legendaria orden de guardianes. El retorno de un ancestral enemigo de la humanidad y la guerra civil que asola el reino llevan a tu elección por parte del destino para unir las tierras devastadas y derrotar al archidemonio de una vez por todas. Explora un mundo fascinante, realiza complejas elecciones morales y prepárate para un cruento combate contra enormes y aterradoras criaturas."
+    ],
+    [
+      "p",
+      "Pack de Expansión Awakening (El Despertar) para Dragon Age: Origins"
+    ],
+    [
+      "p",
+      "La historia de los Guardas Grises continúa con tu nombramiento como su comandante. Enfréntate a nuevos enemigos, aprende nuevas habilidades y hechizos y explora una zona totalmente nueva, Amaranthine."
+    ],
+    [
+      "p",
+      "Los Nueve Packs de Contenido"
+    ],
+    [
+      "p",
+      "Amplía tu aventura con El Prisionero de Piedra, La Fortaleza de los Guardas, el Regreso a Ostagar, Regalos Festivos, Las Crónicas de los Engendros Oscuros, Bromas Festivas, La Canción de Leliana, Los Gólems de Amgarrak y Caza de Brujas. Recoge nuevas recompensas, gana nuevos miembros para tu equipo y mucho más a medida que profundices en la historia de Dragon Age."
+    ],
+    [
+      "p",
+      "Características Principales:"
+    ],
+    [
+      "li",
+      "Incluye el 'RPG del Año' 2009 Dragon Age: Origins, el pack de expansión Dragon Age: Origins - Awakening (El Despertar) y los nueve packs de contenido adicional."
+    ],
+    [
+      "li",
+      "Aclamado por la crítica y ganador de más de 50 premios incluyendo más de 30 galardones 'Mejor de 2009'."
+    ],
+    [
+      "li",
+      "Una colección valorada en $114 por un precio muy bajo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows XP con SP3"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 (o equivalente) a 1.4 Ghz o superior, AMD X2 (o equivalente) a 1.8 Ghz o superior"
+      ],
+      [
+        "Memoria",
+        "1 Gb o más"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon X850 con 128 Mb o superior, nVidia GeForce 6600 GT con 128 Mb o superior"
+      ],
+      [
+        "DirectX®",
+        "DirectX (Noviembre 2007)"
+      ],
+      [
+        "Disco Duro",
+        "20 Gb de espacio"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX"
+      ],
+      [
+        "SO",
+        "Windows Vista con SP1"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 (o equivalente) a 1.6 Ghz o superior, AMD X2 (o equivalente) a 2.0 Ghz o superior"
+      ],
+      [
+        "Memoria",
+        "1.5 Gb o más"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon X1550 con 256 Mb o superior, nVidia GeForce 7600 GT con 256 Mb o superior"
+      ],
+      [
+        "DirectX®",
+        "DirectX (Noviembre 2007)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "Procesador",
+        "Intel Core 2 Quad a 2.4 Ghz o AMD Phenom II X3 Triple-Core a 2.8 Ghz o superior"
+      ],
+      [
+        "Memoria",
+        "4 GB (Vista) o 2 GB (XP)"
+      ],
+      [
+        "Gráficos",
+        "ATI 3850 con 512 Mb o superior, nVidia 8800 GTS con 512 Mb o superior"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_7fe94447069d399c8b32c125d684ec7b255600ba.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_32fa8fda83dcb8152ba6d83bda8379eb1bf6ed2c.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_6d3f7f75d007bc2efe93b1f230b66850757001db.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_2ed7d42701bb8d97b5eaab3f26c9be5e37dc0957.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_15c511e75db32a0ff967b9b97ac0fb824556b707.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_15c511e75db32a0ff967b9b97ac0fb824556b707.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_ee0b4f2fb49908b30ec794e5567c21885e5d5db9.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_afc54931c8ae9665ab2716e40c814ba0d8997972.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_afc54931c8ae9665ab2716e40c814ba0d8997972.1920x1080.jpg?t=1782471846"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_4bad018ac270857660c0d82ba62c5651ef47e497.600x338.jpg?t=1782471846",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/47810/ss_4bad018ac270857660c0d82ba62c5651ef47e497.1920x1080.jpg?t=1782471846"
+    }
+  ],
+  "web": "http://dragonage.bioware.com/dao/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 27911,
+  "youtube": [
+    {
+      "id": "uS6O2-uaro4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OmQJltir7PE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:52.688Z"
 }

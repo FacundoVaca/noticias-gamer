@@ -2,7 +2,8 @@
   "clave": "mass effect legendary edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4b67-7020-aac6-246767f92aa6",
   "appid": "1328670",
@@ -47,6 +48,28 @@
       "url": "https://opencritic.com/game/11290/mass-effect-legendary-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "464066",
+      "nombre": "Mass Effect™ Legendary Edition",
+      "apps": [
+        {
+          "appid": "1328670",
+          "nombre": "Mass Effect™ Legendary Edition"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 59.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1328670": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Mass Effect™ Legendary Edition incluye el contenido básico para un jugador y más de 40 contenidos descargables aclamados de Mass Effect, Mass Effect 2 y Mass Effect 3, además de armas, armaduras y paquetes promocionales; todo remasterizado y optimizado para 4K Ultra HD.",
   "generos": [
     "Acción",
@@ -57,6 +80,256 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/mass-effect-legendary-edition?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 64376,
-  "consultado": "2026-11-22T21:45:50.164Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Mass Effect™ Legendary Edition",
+  "acerca": [
+    [
+      "p",
+      "Solo una persona se interpone entre la humanidad y la mayor amenaza a la que se haya enfrentado jamás. Revive la leyenda del comandante Shepard en la aclamada trilogía Mass Effect con Mass Effect™ Legendary Edition. Incluye contenido básico para un jugador y más de 40 contenidos descargables de Mass Effect, Mass Effect 2 y Mass Effect 3, además de armas, armaduras y paquetes promocionales, remasterizados y optimizados para 4K Ultra HD."
+    ],
+    [
+      "p",
+      "Descubre un universo lleno de detalles en el que tus decisiones tienen consecuencias e influyen en el desenlace."
+    ],
+    [
+      "h",
+      "Revive una saga de cine"
+    ],
+    [
+      "p",
+      "La acción más trepidante se une a una narración interactiva en la que tú decides cómo se desarrolla la historia."
+    ],
+    [
+      "li",
+      "Tres juegos, una aplicación de inicio: Juega la historia para un jugador de la trilogía de Mass Effect con más de 40 contenidos descargables, entre ellos armas, armaduras y paquetes promocionales."
+    ],
+    [
+      "li",
+      "Remasterizado para una nueva generación: Disfruta de la trilogía en 4K Ultra HD con texturas, gráficos y modelos mejorados, todo disponible en HDR."
+    ],
+    [
+      "li",
+      "Mejoras visuales en los tres juegos: Las actualizaciones incluyen mejoras en modelos, shaders, efectos especiales, iluminación y profundidad de campo, además de sonido de resolución completa."
+    ],
+    [
+      "h",
+      "Descubre la leyenda de Shepard"
+    ],
+    [
+      "p",
+      "Crea y personaliza tu personaje, desde el aspecto y las habilidades hasta un arsenal personalizado y, a continuación, lidera a tu pelotón de reconocimiento de élite a través de una galaxia sumida en el caos."
+    ],
+    [
+      "li",
+      "Nueva personalización para Shepard: El editor de personajes unificado con mejoras en el pelo, el maquillaje, el color de los ojos y los tonos de piel te ofrece todas las opciones en la trilogía completa, que también se puede jugar en el papel de la emblemática comandante Shepard de Mass Effect 3."
+    ],
+    [
+      "li",
+      "Mejoras en la mecánica de juego del primer Mass Effect: Disfruta de mejoras en el apuntado, el equilibrio de las armas, los efectos, la respuesta de los controles, el comportamiento de los compañeros, el uso de las coberturas y las cámaras."
+    ],
+    [
+      "h",
+      "Reflexiona sobre tus decisiones"
+    ],
+    [
+      "p",
+      "Tus elecciones se trasladan de forma consistente de un juego al siguiente. Las decisiones que tomes afectarán al resultado de cada misión, relación, batalla e, incluso, al destino mismo de la galaxia."
+    ],
+    [
+      "li",
+      "Mejoras visuales en el primer Mass Effect: El diseño del mundo, el arte ambiental, los efectos visuales y la iluminación de niveles han mejorado."
+    ],
+    [
+      "li",
+      "Actualizaciones de PC: disfruta de una experiencia en PC modernizada en los tres juegos gracias a la compatibilidad nativa con mandos y pantallas panorámicas de 21:9, mejoras en la navegación por la interfaz y compatibilidad con DirectX 11."
+    ],
+    [
+      "h",
+      "Contenido incluido"
+    ],
+    [
+      "p",
+      "Mass Effect Legendary Edition incluye todo el contenido original para un jugador de los tres juegos, (Mass Effect, Mass Effect 2 y Mass Effect 3) y el contenido descargable de historia para un jugador, además de armas, armaduras y paquetes promocionales:"
+    ],
+    [
+      "li",
+      "DLC: El cielo se está cayendo, Génesis, Zaeed: El precio de la venganza, Kasumi: La memoria robada, Corredor sombrío, Paquete de caminafuegos, Caudillo supremo, Zona de impacto de la Normandía, La llegada, Génesis 2, De las cenizas, Mass Effect 3: Versión extendida, Leviatán, Omega y Ciudadela."
+    ],
+    [
+      "li",
+      "Armas y armadura: arma y armadura de Cerberus, proyector de arco, arma y armadura de recolector, arma y armadura de Terminus, Incisor M-21, armadura de Sangre de dragón, armadura Inferno, capucha de reconocimiento, interfaz Sentry, visor Umbra, pertrechos bélicos N7, raider AT-12, lanzachakrams, Argus M-55, Indra M-90 y armadura Reckoner Knight."
+    ],
+    [
+      "li",
+      "Paquetes: paquete Equalizer, paquete de protección, paquete de armas, paquete resistencia en superficie, paquete de operaciones de reconocimiento, paquete de tiroteo, paquete de indumentaria alternativa 1 de ME2, paquete de indumentaria alternativa 2 de ME2, paquete de indumentaria alternativa 1 de ME3 y paquete Edición de coleccionista N7."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Dificultad ajustable",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Remote Play en TV"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 3570 or AMD FX-8350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GPU: NVIDIA GTX 760, AMD Radeon 7970 / R9280X GPU RAM: 2 GB Video Memory"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-7700 or AMD Ryzen 7 3700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GPU: NVIDIA GTX 1070 / RTX 200, Radeon Vega 56, GPU RAM: 4 GB Video Memory"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_3cfdbd8a5d94f9005d33ba17bb6b163dc458ddf7.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_3cfdbd8a5d94f9005d33ba17bb6b163dc458ddf7.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_4e226eb092381ba6c4ea9c164a1d18574c993a8a.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_4e226eb092381ba6c4ea9c164a1d18574c993a8a.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_8994024759b1e6afb09a99381637c8b6fb4e4075.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_8994024759b1e6afb09a99381637c8b6fb4e4075.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_4b2b412307b72a21f68148c32fab7a278875d139.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_4b2b412307b72a21f68148c32fab7a278875d139.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_9ecf8386f29c5e3ef066d7591816add13a98d2b0.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_9ecf8386f29c5e3ef066d7591816add13a98d2b0.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_9e91250917cdf701007d623387a65c1119b038fe.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_9e91250917cdf701007d623387a65c1119b038fe.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_117821694b8c388c702e5628c047b5ad7392b28d.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_117821694b8c388c702e5628c047b5ad7392b28d.1920x1080.jpg?t=1777395134"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_2358d92931529dba0cadecadca4137860e6304b1.600x338.jpg?t=1777395134",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328670/ss_2358d92931529dba0cadecadca4137860e6304b1.1920x1080.jpg?t=1777395134"
+    }
+  ],
+  "web": "https://www.ea.com/games/mass-effect/mass-effect-legendary-edition",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 140839,
+  "youtube": [
+    {
+      "id": "n8i53TtQ6IQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EMW2hhDFz54",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:38.854Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "dead island 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-21dc-70da-8455-a7edecc2c2d6",
   "appid": "934700",
@@ -52,6 +52,222 @@
       "url": "https://opencritic.com/game/1551/dead-island-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1004410",
+      "nombre": "Dead Island 2 Ultimate Edition",
+      "apps": [
+        {
+          "appid": "934700",
+          "nombre": "Dead Island 2"
+        },
+        {
+          "appid": "2813050",
+          "nombre": "Dead Island 2 - Character Pack: Cyber Slayer Amy"
+        },
+        {
+          "appid": "2813070",
+          "nombre": "Dead Island 2 - Character Pack: Jungle Fantasy Ryan"
+        },
+        {
+          "appid": "2813040",
+          "nombre": "Dead Island 2 - Character Pack: Silver Star Jacob"
+        },
+        {
+          "appid": "2813080",
+          "nombre": "Dead Island 2 - Character Pack: Steel Horse Carla"
+        },
+        {
+          "appid": "2813090",
+          "nombre": "Dead Island 2 - Character Pack: Venice Vogue Bruno"
+        },
+        {
+          "appid": "2813110",
+          "nombre": "Dead Island 2 - Expansion Pass"
+        },
+        {
+          "appid": "2813010",
+          "nombre": "Dead Island 2 - Golden Weapons Pack"
+        },
+        {
+          "appid": "2667910",
+          "nombre": "Dead Island 2 - Kingdom Come: Deliverance II Weapons Pack"
+        },
+        {
+          "appid": "2813000",
+          "nombre": "Dead Island 2 - Memories of Banoi Pack"
+        },
+        {
+          "appid": "2813020",
+          "nombre": "Dead Island 2 - Pulp Weapons Pack"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 52.49,
+      "descuento": 90
+    },
+    {
+      "packageid": "303210",
+      "nombre": "Dead Island 2",
+      "apps": [
+        {
+          "appid": "934700",
+          "nombre": "Dead Island 2"
+        }
+      ],
+      "usd": 37.49,
+      "antes": 37.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "934700": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "2667910": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2813000": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813010": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813020": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813040": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813050": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813070": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813080": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813090": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "2813110": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 14,
+  "dlcLista": [
+    {
+      "appid": "2667910",
+      "nombre": "Dead Island 2 - Kingdom Come: Deliverance II Weapons Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2813110",
+      "nombre": "Dead Island 2 - Expansion Pass",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 90
+    },
+    {
+      "appid": "2813310",
+      "nombre": "Dead Island 2 - SoLA",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2813100",
+      "nombre": "Dead Island 2 - Haus",
+      "gratis": false,
+      "usd": 5.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813030",
+      "nombre": "Dead Island 2 - Red’s Demise Katana",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813010",
+      "nombre": "Dead Island 2 - Golden Weapons Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813020",
+      "nombre": "Dead Island 2 - Pulp Weapons Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813000",
+      "nombre": "Dead Island 2 - Memories of Banoi Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813040",
+      "nombre": "Dead Island 2 - Character Pack: Silver Star Jacob",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813050",
+      "nombre": "Dead Island 2 - Character Pack: Cyber Slayer Amy",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813060",
+      "nombre": "Dead Island 2 - Character Pack: Gaelic Queen Dani",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813070",
+      "nombre": "Dead Island 2 - Character Pack: Jungle Fantasy Ryan",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813080",
+      "nombre": "Dead Island 2 - Character Pack: Steel Horse Carla",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2813090",
+      "nombre": "Dead Island 2 - Character Pack: Venice Vogue Bruno",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Un virus mortal se extiende por Los Ángeles y está convirtiendo a sus habitantes en zombis. Te han mordido y te han infectado, pero tu cuerpo es inmune. Descubre la verdad tras el brote y quién (o qué) eres. Sobrevive, evoluciona y conviértete en el matazombis supremo.",
   "generos": [
     "Acción",
@@ -59,6 +275,7 @@
   ],
   "lanzamientoTexto": "22 ABR 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Dead Island 2",
   "acerca": [
     [
@@ -85,59 +302,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -237,5 +468,33 @@
     }
   ],
   "web": "http://www.deadisland.com/",
-  "consultado": "2026-11-22T22:05:11.482Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 18,
+  "avisoContenido": "Dead Island 2: This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Intense Violence or Gore, Suggestive Themes, Strong Language, Use of Drugs, General Mature Content.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7329,
+  "youtube": [
+    {
+      "id": "hEkkrJpI6XA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "DJOAunMCGkk",
+      "nombre": "Old Cinematic Trailer"
+    },
+    {
+      "id": "0c8Yy_3C-RQ",
+      "nombre": "Old Gameplay Trailer"
+    },
+    {
+      "id": "6Dv1cqr1npA",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:14.359Z"
 }

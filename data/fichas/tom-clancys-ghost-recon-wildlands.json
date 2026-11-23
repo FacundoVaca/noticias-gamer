@@ -1,9 +1,9 @@
 {
   "clave": "tom clancys ghost recon wildlands",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f06b-7284-bf6c-c4e440623880",
   "appid": "460930",
@@ -55,6 +55,107 @@
       "url": "https://opencritic.com/game/2870/tom-clancys-ghost-recon-wildlands"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "155213",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands",
+      "apps": [
+        {
+          "appid": "460930",
+          "nombre": "Tom Clancy's Ghost Recon® Wildlands"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1663311",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands - Definitive Edition",
+      "apps": [
+        {
+          "appid": "460930",
+          "nombre": "Tom Clancy's Ghost Recon® Wildlands"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 79.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "460930": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "5192150",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands - Deluxe Pack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4784440",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands: mejora a la Definitive Edition",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4784400",
+      "nombre": "Pack Nightfall Protocol de Tom Clancy's Ghost Recon Wildlands",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4784380",
+      "nombre": "Pack Cold Eye de Tom Clancy's Ghost Recon Wildlands",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4784420",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands - Pack Predator Prémium",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "832700",
+      "nombre": "Tom Clancy's Ghost Recon Wildlands - Year 2 Pass",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 80
+    },
+    {
+      "appid": "573830",
+      "nombre": "Tom Clancy’s Ghost Recon® Wildlands - Season Pass Year 1",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 80
+    },
+    {
+      "appid": "573831",
+      "nombre": "Tom Clancy's Ghost Recon® Wildlands - Narco Road",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 80
+    },
+    {
+      "appid": "573832",
+      "nombre": "Tom Clancy's Ghost Recon® Wildlands - Fallen Ghosts",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 80
+    }
+  ],
   "descripcion": "Lidera a tu equipo de élite de Ghosts en este shooter táctico en tercera persona. Explora un mundo abierto enorme, infíltrate y destruye al mortífero cártel de Santa Blanca para salvar a Bolivia y su pueblo.",
   "generos": [
     "Acción",
@@ -62,6 +163,7 @@
   ],
   "lanzamientoTexto": "6 MAR 2017",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Tom Clancy's Ghost Recon® Wildlands",
   "acerca": [
     [
@@ -97,67 +199,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -265,5 +383,31 @@
     }
   ],
   "web": "http://ghostrecon.com",
-  "consultado": "2026-11-22T22:05:33.772Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Tom Clancy's Ghost Recon Wildlands is an open-world tactical shooter which contains Blood, Gore, Intense Violence, Partial Nudity, Sexual Themes, Strong Language and Use of Drugs.",
+  "igdbIntentado": true,
+  "igdb": 11171,
+  "youtube": [
+    {
+      "id": "BsoB8nu0Y-U",
+      "nombre": "E3 2016 Cartel Cinematic Trailer"
+    },
+    {
+      "id": "6HoHsrIpQf4",
+      "nombre": "Peruvian Connection Pre-order Trailer"
+    },
+    {
+      "id": "_hFVokxR4g8",
+      "nombre": "Comeback Trailer"
+    },
+    {
+      "id": "224nKpGc1NU",
+      "nombre": "E3 2016 Fight For The Wildlands Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:03.410Z"
 }

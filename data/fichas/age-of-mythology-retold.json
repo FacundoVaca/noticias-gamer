@@ -1,9 +1,9 @@
 {
   "clave": "age of mythology retold",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018dd749-4e61-73b3-8614-7fc1c787f5c7",
   "appid": "1934680",
@@ -54,6 +54,124 @@
       "url": "https://opencritic.com/game/17117/age-of-mythology-retold"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "697004",
+      "nombre": "Age of Mythology: Retold Standard Edition",
+      "apps": [
+        {
+          "appid": "1934680",
+          "nombre": "Age of Mythology: Retold"
+        }
+      ],
+      "usd": 11.49,
+      "antes": 22.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1070337",
+      "nombre": "Age of Mythology: Retold Premium Edition",
+      "apps": [
+        {
+          "appid": "1934680",
+          "nombre": "Age of Mythology: Retold"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1075614",
+      "nombre": "Age of Mythology: Retold Premium Upgrade",
+      "apps": [
+        {
+          "appid": "2991160",
+          "nombre": "Age of Mythology: Retold - Legacy Deity Portrait Pack"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1934680": {
+      "usd": 11.49,
+      "gratis": false
+    },
+    "2991160": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "4180380",
+      "nombre": "Age of Mythology: Retold - Expansion Pass",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 50
+    },
+    {
+      "appid": "4197940",
+      "nombre": "Age of Mythology: Retold - Obsidian Mirror",
+      "gratis": false,
+      "usd": 9.37,
+      "descuento": 33
+    },
+    {
+      "appid": "3398380",
+      "nombre": "Age of Mythology: Retold - New Gods Pack: Demeter",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2991180",
+      "nombre": "Age of Mythology: Retold - Heavenly Spear",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2991170",
+      "nombre": "Age of Mythology: Retold - Immortal Pillars",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "4140570",
+      "nombre": "Age of Mythology: Retold - Ultimate Fan Pack",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2991160",
+      "nombre": "Age of Mythology: Retold - Legacy Deity Portrait Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3076160",
+      "nombre": "Age of Mythology: Retold Original Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4197930",
+      "nombre": "Age of Mythology: Retold - Blood & Bones Pack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "De los creadores de la galardonada franquicia «Age of Empires», «Age of Mythology: Retold» va más allá de la historia y te transporta a una época mítica de conflicto entre los dioses, los monstruos y los humanos.",
   "generos": [
     "Estrategia"
@@ -63,6 +181,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/age-of-mythology-retold?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Age of Mythology: Retold",
   "acerca": [
     [
@@ -169,103 +288,128 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -357,5 +501,25 @@
     }
   ],
   "web": "https://www.ageofempires.com/games/aom/age-of-mythology-retold/",
-  "consultado": "2026-11-22T22:03:32.799Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 222803,
+  "youtube": [
+    {
+      "id": "O67dQQ9ZAqs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Jbste8C0Yes",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "YhoFR48tU48",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:32.577Z"
 }

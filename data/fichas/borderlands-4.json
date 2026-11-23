@@ -1,9 +1,9 @@
 {
   "clave": "borderlands 4",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01917100-2f57-70e4-8580-d881d5a099af",
   "appid": "1285190",
@@ -51,6 +51,176 @@
       "url": "https://opencritic.com/game/18111/borderlands-4"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1278740",
+      "nombre": "Borderlands 4 Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1285190",
+          "nombre": "Borderlands 4"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 99.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "447947",
+      "nombre": "Borderlands 4",
+      "apps": [
+        {
+          "appid": "1285190",
+          "nombre": "Borderlands 4"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 69.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1278742",
+      "nombre": "Borderlands 4 Edición Super Deluxe",
+      "apps": [
+        {
+          "appid": "1285190",
+          "nombre": "Borderlands 4"
+        }
+      ],
+      "usd": 129.99,
+      "antes": 129.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1285190": {
+      "usd": 49.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 17,
+  "dlcLista": [
+    {
+      "appid": "3829680",
+      "nombre": "Borderlands®4: Pack Buscacámaras",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4627500",
+      "nombre": "Borderlands®4 - Desamor la hacker",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4627490",
+      "nombre": "Borderlands®4 - P4RNÉ el Granuja",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3802450",
+      "nombre": "Borderlands®4 - Pack Historia 1: Mad Ellie y la Cámara de los Condenados",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3802460",
+      "nombre": "Borderlands®4 - Pack Historia 2: FL4K y las Últimas Vacaciones",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3829670",
+      "nombre": "Borderlands®4: Pack Lote de recompensas",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3802420",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 2: La Leyenda del Demonio de Piedra",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4598000",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 3: Un Zane por el que matar",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4614350",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 4: Fusiles y adquisiciones",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4614370",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 5: Amara y las sombras viles",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4602020",
+      "nombre": "Borderlands®4 - Lote de recompensas 2: tarjeta de la Cámara 2",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4598010",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 3: tarjeta de la cámara 3",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4614360",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 4: tarjeta de la cámara 4",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4614380",
+      "nombre": "Borderlands®4 - Pack Lote de recompensas 5: tarjeta de la Cámara 5",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3802360",
+      "nombre": "Borderlands®4: Modelo de arma Firehawk's Fury",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3802370",
+      "nombre": "Borderlands®4: Pack Ornate Order",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2013850",
+      "nombre": "Borderlands®4: Pack Gilded Glory",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Borderlands 4 es un shooter de botín cargado de caos, repleto de miles de millones de armas, enemigos letales y una intensa acción cooperativa. Juega como uno de nuestros cuatro nuevos buscacámaras más chungos y escápate de un misterioso planeta oculto.",
   "generos": [
     "Acción",
@@ -62,6 +232,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/borderlands-4?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Borderlands 4",
   "acerca": [
     [
@@ -112,59 +283,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -264,5 +449,31 @@
     }
   ],
   "web": "https://borderlands.2k.com/",
-  "consultado": "2026-11-22T22:04:20.702Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Intense Violence or Gore, Suggestive Themes, Strong Language, General Mature Content.",
+  "igdbIntentado": true,
+  "igdb": 314246,
+  "youtube": [
+    {
+      "id": "ZhKilJFhI3E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BXzf6j2Sr5c",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "5hODQSLU5ZQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AxaPpkie6t4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:32.323Z"
 }

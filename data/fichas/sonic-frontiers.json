@@ -2,7 +2,8 @@
   "clave": "sonic frontiers",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-643d-724f-b375-ca72c389ae17",
   "appid": "1237320",
@@ -47,6 +48,65 @@
       "url": "https://opencritic.com/game/13687/sonic-frontiers"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "754036",
+      "nombre": "Sonic Frontiers",
+      "apps": [
+        {
+          "appid": "1237320",
+          "nombre": "Sonic Frontiers"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 31.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "760973",
+      "nombre": "Sonic Frontiers – Digital Deluxe",
+      "apps": [
+        {
+          "appid": "1237320",
+          "nombre": "Sonic Frontiers"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 39.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1237320": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2089730",
+      "nombre": "Sonic Frontiers: Paquete Colaboración con Monster Hunter",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2089733",
+      "nombre": "Sonic Frontiers: Atuendo Espíritu festivo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2089840",
+      "nombre": "Sonic Frontiers: Zapatos de Sonic Adventure 2",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Sonic Frontiers es un innovador juego de acción y aventuras en zonas abiertas ambientado en las ancestrales Starfall Islands. ¡Acompaña a Sonic y lucha contra hordas de poderosos enemigos con el nuevo sistema de combate, explora los misterios de la isla y salva a sus amigos!",
   "generos": [
     "Acción",
@@ -54,6 +114,253 @@
   ],
   "lanzamientoTexto": "7 NOV 2022",
   "metacritic": null,
-  "recomendaciones": 22973,
-  "consultado": "2026-11-22T21:45:41.401Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Sonic Frontiers",
+  "acerca": [
+    [
+      "h",
+      "DISFRUTA DE SONIC COMO NUNCA ANTES"
+    ],
+    [
+      "p",
+      "Al ir en busca de las Chaos Emeralds perdidas, Sonic llega a una antigua isla repleta de criaturas un tanto extrañas. ¡Alcanza nuevas alturas y explora las extensas zonas abiertas de las enormes Starfall Islands! Lucha contra hordas de poderosos enemigos con el trepidante sistema de combate, descubre los misterios de la isla y salva a los amigos de Sonic."
+    ],
+    [
+      "h",
+      "La experiencia al completo"
+    ],
+    [
+      "p",
+      "Vive la última aventura en 3D de Sonic, con todos los modos de juego y actualizaciones de contenido en un solo paquete. Además de Sonic, juega también con Tails, Amy y Knuckles, cada uno con sus propias habilidades y estilos de lucha únicos, en la campaña «Horizonte final». Disfruta de desafíos adicionales, atuendos, música y mucho más con las actualizaciones de contenido «Cumpleaños de Sonic» y «Vistas, sonido y velocidad». ¡Y disfruta en Nintendo Switch™ 2 con las mejoras de fotogramas y gráficos!"
+    ],
+    [
+      "h",
+      "Aventura en zona abierta 3D"
+    ],
+    [
+      "p",
+      "Conviértete en Sonic y viaja para desvelar los misterios de una antigua civilización amenazada por hordas de robots. Corre a través de cinco enormes islas, cada una con desafíos únicos de acción plataformera y repletas de secretos ocultos."
+    ],
+    [
+      "h",
+      "Sistema de combate trepidante"
+    ],
+    [
+      "p",
+      "Combina movimientos como esquivar, bloquear, contraatacar y hacer combos en un sistema de combate con recuadro de habilidades que permite luchar de forma más estratégica que nunca. ¡Usa el novedoso cibergiro para hacerles frente a enemigos misteriosos y titanes colosales!"
+    ],
+    [
+      "h",
+      "Contenido adicional"
+    ],
+    [
+      "p",
+      "Saca aún más partido a toda la experiencia de Sonic Frontiers con el contenido adicional ya publicado*: el Cofre del explorador, el paquete Colaboración con Monster Hunter, los zapatos de Sonic Adventure 2, el atuendo Espíritu festivo y un libro de ilustraciones digital y una mini banda sonora especiales*."
+    ],
+    [
+      "p",
+      "* Cofre del aventurero no incluido."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3470 or AMD Ryzen 5 1400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft ya no es compatible con Windows 10 o versiones anteriores"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 or AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070, 8 GB or AMD Radeon RX Vega 56, 8 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft ya no es compatible con Windows 10 o versiones anteriores"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_8ac5bfdc998b20e4a54ee27b68ef175f7cd9f1a9.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_8ac5bfdc998b20e4a54ee27b68ef175f7cd9f1a9.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_d9c769a9346e5b1d7e1f9109d0c317c81213c021.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_d9c769a9346e5b1d7e1f9109d0c317c81213c021.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_45369645d9c1c1b1fd9483b48c8a15f21b8693c5.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_45369645d9c1c1b1fd9483b48c8a15f21b8693c5.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_cddd10b31502d648f964c5df550499d041212759.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_cddd10b31502d648f964c5df550499d041212759.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_b355860697bafd2a16e77b97be27ffaf5c9b6609.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_b355860697bafd2a16e77b97be27ffaf5c9b6609.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_e115f40d130f010908ba4208ac769ad695d91406.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_e115f40d130f010908ba4208ac769ad695d91406.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_2b77ee8ba5497f29409d1110dd3010161be3da91.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_2b77ee8ba5497f29409d1110dd3010161be3da91.1920x1080.jpg?t=1783493175"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_9817ace7705cf9096bde3fae0141055d170fbf66.600x338.jpg?t=1783493175",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237320/ss_9817ace7705cf9096bde3fae0141055d170fbf66.1920x1080.jpg?t=1783493175"
+    }
+  ],
+  "web": "https://frontiers.sonicthehedgehog.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 150010,
+  "youtube": [
+    {
+      "id": "WoRM3qUPi8U",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "RRkKZG1z9PY",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "RjSTwlFuaxk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "o3wolC1aR9U",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:50:17.976Z"
 }

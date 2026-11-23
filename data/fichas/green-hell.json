@@ -1,9 +1,9 @@
 {
   "clave": "green hell",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1608-721b-8ee7-f4903258fb76",
   "appid": "815370",
@@ -48,6 +48,51 @@
       "url": "https://opencritic.com/game/8233/green-hell"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1120600",
+      "nombre": "Green Hell - Anniversary Edition",
+      "apps": [
+        {
+          "appid": "815370",
+          "nombre": "Green Hell"
+        }
+      ],
+      "usd": 1.35,
+      "antes": 13.53,
+      "descuento": 90
+    },
+    {
+      "packageid": "1135912",
+      "nombre": "Green Hell",
+      "apps": [
+        {
+          "appid": "815370",
+          "nombre": "Green Hell"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "815370": {
+      "usd": 1.35,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2564710",
+      "nombre": "Green Hell Official Soundtrack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Adéntrate de lleno en esta simulación del Amazonas de mundo abierto y trata de sobrevivir a un entorno muy extremo. Utiliza técnicas de supervivencia reales: fabrica objetos, caza, lucha y reúne recursos; construye un refugio temporal o un fuerte. Hazlo a solas o enfréntate a la selva con amigos.",
   "generos": [
     "Acción",
@@ -60,6 +105,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/green-hell?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Green Hell",
   "acerca": [
     [
@@ -322,5 +368,30 @@
     }
   ],
   "web": "https://greenhell-game.com/",
-  "consultado": "2026-11-22T22:09:59.276Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game has mild levels of violence. The player needs to hunt for survival and fight with the enemy tribes. The player's character may consume human flesh when in extreme hunger, although it's not required nor he's encouraged to do so, as it leads to negative psychological effects. The game is depicting various diseases that will have impact on characters body. Some of their symptoms may be found disturbing. The player may also enter a hallucinating state after eating various hallucinogenic plants and mushrooms scattered around the jungle.",
+  "igdbIntentado": true,
+  "igdb": 101461,
+  "youtube": [
+    {
+      "id": "6T_V4RhejHo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Zb8MJi_M0QA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EOCzDVTsfug",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "L8xr-SvSyQg",
+      "nombre": "Gameplay video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:59:34.858Z"
 }

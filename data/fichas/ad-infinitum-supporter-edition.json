@@ -1,9 +1,9 @@
 {
   "clave": "ad infinitum supporter edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7356-705b-9fcf-2e8e2383046c",
   "appid": "1234430",
@@ -32,22 +32,54 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "428111",
+      "nombre": "Ad Infinitum",
+      "apps": [
+        {
+          "appid": "1234430",
+          "nombre": "Ad Infinitum"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "897390",
+      "nombre": "Ad Infinitum Supporter Edition",
+      "apps": [
+        {
+          "appid": "1234430",
+          "nombre": "Ad Infinitum"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1234430": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
       "appid": "2361650",
       "nombre": "Ad Infinitum Soundtrack",
       "gratis": false,
-      "precio": "$3.39",
-      "antes": null,
+      "usd": 3.39,
       "descuento": 0
     },
     {
       "appid": "2361660",
       "nombre": "Ad Infinitum - Digital Artbook",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     }
   ],
@@ -61,6 +93,7 @@
     "puntaje": 68,
     "url": "https://www.metacritic.com/game/pc/ad-infinitum?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Ad Infinitum",
   "acerca": [
     [
@@ -111,59 +144,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,5 +314,32 @@
     }
   ],
   "web": "http://ad-infinitum-game.de/",
-  "consultado": "2026-11-22T22:26:07.476Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game contains Violence, Monsters, Gore and Blood. It is a psychological horror game set in the context of the First World War, which addresses topics such as post-traumatic stress disorder and family dramas. Some creatures are naked, like Nyx with visible breasts and small creatures with visible buttocks.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 77338,
+  "youtube": [
+    {
+      "id": "zr0DgiomX-8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VQUQKZbw1Vs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "yaHW8Y3AMJ8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "YS_ggSstkVc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:46:24.751Z"
 }

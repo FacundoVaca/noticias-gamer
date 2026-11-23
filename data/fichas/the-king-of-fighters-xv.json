@@ -1,0 +1,591 @@
+{
+  "clave": "the king of fighters xv",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-5af9-7132-a3f9-a02ec391e860",
+  "appid": "1498570",
+  "lanzamiento": "2022-02-17",
+  "desarrolladores": [
+    "SNK Corporation"
+  ],
+  "editores": [
+    "SNK Corporation"
+  ],
+  "etiquetas": [
+    "2D Fighter",
+    "Fighting",
+    "Action",
+    "PvP",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 8536,
+      "url": "https://store.steampowered.com/app/1498570/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/the-king-of-fighters-xv/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 123,
+      "url": "https://metacritic.com/game/the-king-of-fighters-xv/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 107,
+      "url": "https://opencritic.com/game/12740/the-king-of-fighters-xv"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "695855",
+      "nombre": "THE KING OF FIGHTERS XV Standard Edition",
+      "apps": [
+        {
+          "appid": "1498570",
+          "nombre": "THE KING OF FIGHTERS XV"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "695856",
+      "nombre": "THE KING OF FIGHTERS XV Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1498570",
+          "nombre": "THE KING OF FIGHTERS XV"
+        }
+      ],
+      "usd": 20.97,
+      "antes": 20.97,
+      "descuento": 0
+    },
+    {
+      "packageid": "1194350",
+      "nombre": "THE KING OF FIGHTERS XV Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1498570",
+          "nombre": "THE KING OF FIGHTERS XV"
+        }
+      ],
+      "usd": 26.99,
+      "antes": 26.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1498570": {
+      "usd": 3.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 16,
+  "dlcLista": [
+    {
+      "appid": "3253320",
+      "nombre": "Personajes DLC de KOF XV \"MATURE\" y \"VICE\"",
+      "gratis": false,
+      "usd": 1.44,
+      "descuento": 75
+    },
+    {
+      "appid": "2193910",
+      "nombre": "KOF XV Fighter Pass",
+      "gratis": false,
+      "usd": 3.82,
+      "descuento": 55
+    },
+    {
+      "appid": "2574580",
+      "nombre": "Personaje DLC de KOF XV \"HINAKO SHIJO\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2507300",
+      "nombre": "Personaje DLC de KOF XV \"DUO LON\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2428540",
+      "nombre": "Personaje DLC de KOF XV \"NAJD\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2351530",
+      "nombre": "Personaje DLC de KOF XV \"SYLVIE PAULA PAULA\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2193911",
+      "nombre": "Personaje DLC de KOF XV \"SHINGO YABUKI\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2302800",
+      "nombre": "Personaje DLC de KOF XV \"KIM KAPHWAN\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 75
+    },
+    {
+      "appid": "2005311",
+      "nombre": "KOF XV Team Pass 2",
+      "gratis": false,
+      "usd": 3.82,
+      "descuento": 55
+    },
+    {
+      "appid": "2101210",
+      "nombre": "Personajes DLC para KOF XV \"Team SAMURAI\"",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 75
+    },
+    {
+      "appid": "2005310",
+      "nombre": "Personajes DLC para KOF XV \"Team AWAKENED OROCHI\"",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 75
+    },
+    {
+      "appid": "1839450",
+      "nombre": "KOF XV Team Pass 1",
+      "gratis": false,
+      "usd": 3.82,
+      "descuento": 55
+    },
+    {
+      "appid": "1835751",
+      "nombre": "Personajes DLC de KOF XV \"Team SOUTH TOWN\"",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 75
+    },
+    {
+      "appid": "1835750",
+      "nombre": "Personajes DLC para KOF XV \"Team GAROU\"",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 75
+    },
+    {
+      "appid": "1835740",
+      "nombre": "Traje DLC para KOF XV \"GAROU: MotW TERRY\"",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    },
+    {
+      "appid": "1835741",
+      "nombre": "Traje DLC para KOF XV \"CLASSIC LEONA\"",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "SHATTER ALL EXPECTATIONS ¡El nuevo \"XV\" que sobrepasa todo!",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "12 DIC 2024",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/the-king-of-fighters-xv?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "THE KING OF FIGHTERS XV",
+  "acerca": [
+    [
+      "p",
+      "THE KING OF FIGHTERS XV Standard Edition"
+    ],
+    [
+      "p",
+      "[Contenido del producto]"
+    ],
+    [
+      "p",
+      "- \"THE KING OF FIGHTERS XV\" Juego base"
+    ],
+    [
+      "p",
+      "[Bonificación especial]"
+    ],
+    [
+      "p",
+      "- Bonificación exclusiva"
+    ],
+    [
+      "p",
+      "Traje DLC para KOF XV \"CLASSIC LEONA\""
+    ],
+    [
+      "p",
+      "------------------"
+    ],
+    [
+      "p",
+      "THE KING OF FIGHTERS XV Deluxe Edition"
+    ],
+    [
+      "p",
+      "[Contenido del producto]"
+    ],
+    [
+      "p",
+      "- \"THE KING OF FIGHTERS XV\" Juego base"
+    ],
+    [
+      "p",
+      "- Personajes DLC de KOF XV \"Team GAROU\""
+    ],
+    [
+      "p",
+      "- Personajes DLC de KOF XV \"Team SOUTH TOWN\""
+    ],
+    [
+      "p",
+      "[Bonificación especial]"
+    ],
+    [
+      "p",
+      "- Bonificación exclusiva"
+    ],
+    [
+      "p",
+      "Traje DLC para KOF XV \"CLASSIC LEONA\""
+    ],
+    [
+      "p",
+      "------------------"
+    ],
+    [
+      "p",
+      "THE KING OF FIGHTERS XV Ultimate Edition [Contenido del producto]"
+    ],
+    [
+      "p",
+      "\"THE KING OF FIGHTERS XV\" Juego base"
+    ],
+    [
+      "p",
+      "- KOF XV Team Pass 1"
+    ],
+    [
+      "p",
+      "- KOF XV Team Pass 2"
+    ],
+    [
+      "p",
+      "- KOF XV Fighter Pass"
+    ],
+    [
+      "p",
+      "- Personajes DLC de KOF XV \"MATURE\"\" y \"\"VICE\""
+    ],
+    [
+      "p",
+      "- Traje DLC para KOF XV \"GAROU: MotW TERRY\""
+    ],
+    [
+      "p",
+      "- Traje DLC para KOF XV \"CLASSIC LEONA\""
+    ],
+    [
+      "p",
+      "------------------"
+    ],
+    [
+      "p",
+      "[Contenido del juego]"
+    ],
+    [
+      "p",
+      "SHATTER ALL EXPECTATIONS"
+    ],
+    [
+      "p",
+      "¡El nuevo \"XV\" que sobrepasa todo!"
+    ],
+    [
+      "p",
+      "Desde su debut en 1994, la serie de juegos de lucha KOF ha hecho vibrar al mundo con sus fascinantes personajes y su sistema de juego único. Han pasado seis años desde el último título de la serie, ¡y ahora KOF XV supera a todos sus predecesores en términos de gráficos, sistemas y experiencia online!"
+    ],
+    [
+      "p",
+      "- ¡Un total de 39 personajes para jugar!"
+    ],
+    [
+      "p",
+      "¡Personajes clásicos populares, personajes revividos, nuevos personajes y mucho más! ¡La batalla de ensueño más épica de la historia de KOF está a punto de comenzar!"
+    ],
+    [
+      "p",
+      "- ¡La historia de KOF llega a su clímax!"
+    ],
+    [
+      "p",
+      "La última saga de KOF continúa desde el juego anterior en el modo historia. Esta vez, ¡la historia se acerca a un clímax explosivo!"
+    ],
+    [
+      "p",
+      "- La consolidación del sistema de combate de la serie"
+    ],
+    [
+      "p",
+      "Heredando la tradicional batalla por equipos de 3 contra 3 de la serie, KOF XV también presenta un nuevo sistema. ¡Disfruta de una sensación de velocidad y frescura sin precedentes!"
+    ],
+    [
+      "p",
+      "- Partidas online fáciles y versátiles"
+    ],
+    [
+      "p",
+      "KOF XV cuenta con netcode Rollback. ¡También hay una variedad de opciones de batalla que te permiten elegir cómo quieres jugar!"
+    ],
+    [
+      "p",
+      "- KOF está repleto de contenido a disfrutar"
+    ],
+    [
+      "p",
+      "Incluye una galería con videos y voces, y un nuevo DJ STATION con más de 300 canciones populares de la serie KOF y más."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "65 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "65 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a78f803bb251e541225b0d82b8c7ce30fc823bdd.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a78f803bb251e541225b0d82b8c7ce30fc823bdd.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_67261dc701d58d1cdb581e155fb7185c7e8d6c90.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_67261dc701d58d1cdb581e155fb7185c7e8d6c90.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_303a91a683131f7deb6e07c304c48ccaf1c4edf1.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_303a91a683131f7deb6e07c304c48ccaf1c4edf1.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a564ef3489b58dbd2ebeb37846325fffeecff949.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a564ef3489b58dbd2ebeb37846325fffeecff949.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_0e1f166b567e41daabf2a3302e7508d7596ddc8b.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_0e1f166b567e41daabf2a3302e7508d7596ddc8b.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_5db4fb0fa25d185dcb1fa3a11282defbc50b3ad2.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_5db4fb0fa25d185dcb1fa3a11282defbc50b3ad2.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a8ecc251ff6fc6e011a4df1bfe15a54fde1a629f.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_a8ecc251ff6fc6e011a4df1bfe15a54fde1a629f.1920x1080.jpg?t=1742873915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_6763d5c2f84e07b3e04e47c88030b85e4d943863.600x338.jpg?t=1742873915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1498570/ss_6763d5c2f84e07b3e04e47c88030b85e4d943863.1920x1080.jpg?t=1742873915"
+    }
+  ],
+  "web": "https://www.snk-corp.co.jp/us/games/kof-xv/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 113104,
+  "youtube": [
+    {
+      "id": "fEx2_jSqbRo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "XeAg8B2Vyeg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WULO-M2wOYs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3B1GXLeMQdo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:45:20.164Z"
+}

@@ -1,9 +1,9 @@
 {
   "clave": "darkest dungeon",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-17be-72b4-ac97-2a2712a897d9",
   "appid": "262060",
@@ -48,6 +48,80 @@
       "url": "https://opencritic.com/game/1567/darkest-dungeon"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "33877",
+      "nombre": "Darkest Dungeon",
+      "apps": [
+        {
+          "appid": "262060",
+          "nombre": "Darkest Dungeon®"
+        }
+      ],
+      "usd": 1.79,
+      "antes": 11.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "262060": {
+      "usd": 1.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "4964110",
+      "nombre": "Darkest Dungeon®: The Fire's Edge",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 20
+    },
+    {
+      "appid": "580100",
+      "nombre": "Darkest Dungeon®: The Crimson Court",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "735730",
+      "nombre": "Darkest Dungeon®: The Color Of Madness",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "702540",
+      "nombre": "Darkest Dungeon®: The Shieldbreaker",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1117860",
+      "nombre": "Darkest Dungeon©: The Butcher's Circus",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "445700",
+      "nombre": "Darkest Dungeon®: The Musketeer",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "345800",
+      "nombre": "Darkest Dungeon Soundtrack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 80
+    }
+  ],
   "descripcion": "Darkest Dungeon es un desafiante juego de rol gótico en mazmorras y por turnos que gira en torno al esfuerzo psicológico de la aventura. Recluta, entrena y lidera a un equipo de héroes imperfectos a través de enrevesados bosques, laberintos olvidados, criptas en ruinas y más allá.",
   "generos": [
     "Indie",
@@ -59,6 +133,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/darkest-dungeon?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Darkest Dungeon®",
   "acerca": [
     [
@@ -171,51 +246,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -299,5 +386,23 @@
     }
   ],
   "web": "http://www.darkestdungeon.com",
-  "consultado": "2026-11-22T22:05:46.497Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 8965,
+  "youtube": [
+    {
+      "id": "AQLxdHfMPF8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9-y5jn1_ltI",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:22.063Z"
 }

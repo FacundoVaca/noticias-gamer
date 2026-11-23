@@ -1,9 +1,9 @@
 {
   "clave": "one more lawn",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a117d8-7a5f-7028-949f-ffa178890747",
   "appid": "5378110",
@@ -35,6 +35,28 @@
       "url": "https://metacritic.com/game/one-more-lawn/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1857442",
+      "nombre": "One More Lawn",
+      "apps": [
+        {
+          "appid": "5378110",
+          "nombre": "One More Lawn"
+        }
+      ],
+      "usd": 3,
+      "antes": 4.29,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "5378110": {
+      "usd": 3,
+      "gratis": false
+    }
+  },
   "descripcion": "Corta el pasto en primera persona arriba de un tractorcito destartalado, solo o en cooperativo online, hasta 6. Eres un viejo gruñón que fuma, toma cerveza barata y no le importa nada, pero deja franjas perfectas. Una vecina exigente, un campo de golf abandonado, una boda en una isla.",
   "generos": [
     "Casual",
@@ -388,5 +410,19 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/dc2f5b3bcd1f71dfb16c471137f97083b7490198/ss_dc2f5b3bcd1f71dfb16c471137f97083b7490198.1920x1080.jpg?t=1794839931"
     }
   ],
-  "consultado": "2026-11-22T22:03:16.577Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Juego de comedia. El protagonista, un viejo gruñón, fuma cigarrillos y toma cerveza en pantalla, también mientras maneja el tractor cortacésped (tomar hace que la imagen se vea borrosa y que cueste más manejar). Violencia cómica y sin sangre: puedes patear y romper un enano de jardín de cerámica, y en el cooperativo online los jugadores pueden darse puñetazos o tirarse fruta (solo los marea). La radio del juego pasa canciones de humor con lenguaje fuerte (incluido \"fuck\") y humor grosero, escatológico y sexual; la radio empieza apagada y se puede apagar en cualquier momento. El cooperativo online tiene chat de voz de proximidad sin moderar y \"Música compartida\" opcional: un jugador puede hacer que los de su partida privada escuchen música que cargó desde su computadora (viene apagada; el anfitrión y cada uno que escucha tienen que aceptar). La voz y la música compartida vienen de otros jugadores y el desarrollador no las revisa; puedes silenciar o bloquear a cualquier jugador, y el modo streamer apaga la música compartida.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 425741,
+  "youtube": [
+    {
+      "id": "yXcKvohwik4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:58.860Z"
 }

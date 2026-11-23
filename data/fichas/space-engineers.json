@@ -1,9 +1,9 @@
 {
   "clave": "space engineers",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-013a-71f8-be61-b93626d4c5ac",
   "appid": "244850",
@@ -35,6 +35,178 @@
       "url": "https://metacritic.com/game/space-engineers/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "28952",
+      "nombre": "Space Engineers",
+      "apps": [
+        {
+          "appid": "244850",
+          "nombre": "Space Engineers"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "244850": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 21,
+  "dlcLista": [
+    {
+      "appid": "5070970",
+      "nombre": "Space Engineers - Warfare 3 Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4835530",
+      "nombre": "Space Engineers: Prosperity Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4502100",
+      "nombre": "Space Engineers - Economy 2 Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "4116960",
+      "nombre": "Space Engineers - Core Systems Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "3858380",
+      "nombre": "Space Engineers - Apex Survival Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "3601770",
+      "nombre": "Space Engineers - Fieldwork Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "3066290",
+      "nombre": "Space Engineers - Contact Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2914120",
+      "nombre": "Space Engineers - Signal Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2504720",
+      "nombre": "Space Engineers - Decorative Pack #3",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "1958640",
+      "nombre": "Space Engineers - Automatons",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "1783760",
+      "nombre": "Space Engineers - Warfare 2 Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "1676100",
+      "nombre": "Space Engineers - Heavy Industry",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1475830",
+      "nombre": "Space Engineers - Warfare 1 Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1374610",
+      "nombre": "Space Engineers - Wasteland",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1307680",
+      "nombre": "Space Engineers - Sparks of the Future",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1241550",
+      "nombre": "Space Engineers - Frostbite",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1167910",
+      "nombre": "Space Engineers - Decorative Pack #2",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1135960",
+      "nombre": "Space Engineers - Economy Deluxe",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1084680",
+      "nombre": "Space Engineers - Style Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1049790",
+      "nombre": "Space Engineers - Decorative Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    },
+    {
+      "appid": "573160",
+      "nombre": "Space Engineers Deluxe",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 70
+    }
+  ],
   "descripcion": "Space Engineers es un sandbox espacial donde creas naves, estaciones y bases en un mundo 100% destructible. Explora planetas y el espacio, extrae recursos, sobrevive y combate solo o en multijugador, en modos Creativo o Supervivencia.",
   "generos": [
     "Acción",
@@ -44,6 +216,7 @@
   ],
   "lanzamientoTexto": "28 FEB 2019",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Space Engineers",
   "acerca": [
     [
@@ -232,67 +405,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -400,5 +589,17 @@
     }
   ],
   "web": "http://www.SpaceEngineersGame.com",
-  "consultado": "2026-11-22T22:04:23.893Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 3239,
+  "youtube": [
+    {
+      "id": "WrePWKCSB5c",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:51:55.501Z"
 }

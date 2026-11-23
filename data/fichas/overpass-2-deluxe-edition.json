@@ -1,9 +1,9 @@
 {
   "clave": "overpass 2 deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-75cc-73ef-8683-d9f88cf0edc0",
   "appid": "1830630",
@@ -32,30 +32,61 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "926464",
+      "nombre": "Overpass 2 - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1830630",
+          "nombre": "Overpass 2"
+        }
+      ],
+      "usd": 1.89,
+      "antes": 18.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "658496",
+      "nombre": "Overpass 2",
+      "apps": [
+        {
+          "appid": "1830630",
+          "nombre": "Overpass 2"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1830630": {
+      "usd": 1.89,
+      "gratis": false
+    }
+  },
   "dlcTotal": 3,
   "dlcLista": [
     {
       "appid": "2432400",
       "nombre": "Overpass 2 - Polaris vehicles pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2432401",
       "nombre": "Overpass 2 - Career Starter Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2461590",
       "nombre": "Overpass 2 - Ford Play Rockbouncer",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     }
   ],
@@ -66,6 +97,7 @@
   ],
   "lanzamientoTexto": "28 SEP 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Overpass 2",
   "acerca": [
     [
@@ -146,55 +178,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -293,5 +338,17 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830630/ss_689254255251afae5b86090eb1704bc1d262a9ae.1920x1080.jpg?t=1725351831"
     }
   ],
-  "consultado": "2026-11-22T22:26:13.777Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 264500,
+  "youtube": [
+    {
+      "id": "gyjl1HAf8EM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:47:11.188Z"
 }

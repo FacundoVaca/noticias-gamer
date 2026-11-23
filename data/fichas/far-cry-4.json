@@ -2,7 +2,8 @@
   "clave": "far cry 4",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-e9e5-72fa-a1dc-e7e0859183b6",
   "appid": "298110",
@@ -51,6 +52,79 @@
       "url": "https://opencritic.com/game/159/far-cry-4"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "54143",
+      "nombre": "Far Cry 4",
+      "apps": [
+        {
+          "appid": "298110",
+          "nombre": "Far Cry® 4"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 23.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "54146",
+      "nombre": "Far Cry 4 Gold",
+      "apps": [
+        {
+          "appid": "298110",
+          "nombre": "Far Cry® 4"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 47.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "298110": {
+      "usd": 4.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "324340",
+      "nombre": "Far Cry® 4 Season Pass",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 80
+    },
+    {
+      "appid": "324344",
+      "nombre": "Far Cry® 4 Valley of the Yetis",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 80
+    },
+    {
+      "appid": "324342",
+      "nombre": "Far Cry® 4 – Hurk Deluxe Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 80
+    },
+    {
+      "appid": "324343",
+      "nombre": "Far Cry® 4 – Overrun",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "338620",
+      "nombre": "Far Cry® 4 – Escape From Durgesh Prison",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Lucha para liberar una región del Himalaya devastada por la guerra en este shooter en primera persona de mundo abierto. Equípate con un arsenal letal, usa girocópteros y elefantes de guerra para dominar la tierra y el aire, y adéntrate en el territorio enemigo en solitario o en cooperativo.",
   "generos": [
     "Acción",
@@ -61,6 +135,279 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/far-cry-4?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 70130,
-  "consultado": "2026-11-22T21:45:06.691Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Far Cry® 4",
+  "acerca": [
+    [
+      "h",
+      "DOMINA UN ARSENAL LETAL"
+    ],
+    [
+      "p",
+      "Elige la herramienta perfecta para cada situación, ¡desde ballestas silenciosas hasta potentes lanzacohetes! Ya prefieras el sigilo o la fuerza explosiva, tu variado arsenal garantiza que siempre tengas todo listo para enfrentarte a los peligros de Kyrat."
+    ],
+    [
+      "h",
+      "EXPLORA LAS ALTURAS DE KYRAT"
+    ],
+    [
+      "p",
+      "Muévete por el mundo abierto de FARCRY más vertical y diverso. Explora los frondosos bosques y las cumbres nevadas del territorio enemigo desde el girocóptero antes de descender en picado por los valles con tu traje de alas para tomar ventaja."
+    ],
+    [
+      "h",
+      "DESATA EL PODER DE LA NATURALEZA"
+    ],
+    [
+      "p",
+      "En Kyrat hay una fauna abundante y peligrosa, desde leopardos y rinocerontes hasta feroces rateles. Monta en un elefante de guerra de seis toneladas para arrasar los puestos avanzados enemigos y aplastar a las fuerzas de Pagan Min con puro poder animal."
+    ],
+    [
+      "h",
+      "MODO COOPERATIVO EN MUNDO ABIERTO"
+    ],
+    [
+      "p",
+      "No te enfrentes a la naturaleza en solitario. Invita a un amigo a entrar y salir de tu partida en cualquier momento para explorar juntos el mundo vivo de Kyrat. Coordina ataques contra puestos avanzados fortificados y caza bestias legendarias en este mundo abierto."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX-compatible (5.1 surround sound recommended)"
+      ],
+      [
+        "Notas adicionales",
+        "Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "2.5 GHz Intel® Core™ i5-2400S or 4.0 GHz AMD FX-8350 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 680 or AMD Radeon R9 290X or better (2 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX-compatible (5.1 surround sound recommended)"
+      ],
+      [
+        "Notas adicionales",
+        "Supported video cards at the time of release: NVIDIA GeForce GTX 460 or better, GeForce GTX 700 series; AMD Radeon HD5850 or better, Radeon R9 series. Note: Laptop versions of these cards may work but are NOT officially supported."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/703b3e3ba281a4b7e9594b790cc1c8d9cd26790b/ss_703b3e3ba281a4b7e9594b790cc1c8d9cd26790b.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/703b3e3ba281a4b7e9594b790cc1c8d9cd26790b/ss_703b3e3ba281a4b7e9594b790cc1c8d9cd26790b.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/80837f83feb636e6747a9ddc24bee20003c714d0/ss_80837f83feb636e6747a9ddc24bee20003c714d0.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/80837f83feb636e6747a9ddc24bee20003c714d0/ss_80837f83feb636e6747a9ddc24bee20003c714d0.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/994c96b823374e576cb5d6513f8a976c1a41efc8/ss_994c96b823374e576cb5d6513f8a976c1a41efc8.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/994c96b823374e576cb5d6513f8a976c1a41efc8/ss_994c96b823374e576cb5d6513f8a976c1a41efc8.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/f8d2168d3fcca8ad6abd8311ea5edf775aa28171/ss_f8d2168d3fcca8ad6abd8311ea5edf775aa28171.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/f8d2168d3fcca8ad6abd8311ea5edf775aa28171/ss_f8d2168d3fcca8ad6abd8311ea5edf775aa28171.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/fffb8639ae2cf20762afed059b9a90a08687e449/ss_fffb8639ae2cf20762afed059b9a90a08687e449.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/fffb8639ae2cf20762afed059b9a90a08687e449/ss_fffb8639ae2cf20762afed059b9a90a08687e449.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/44ad5ea0dfe9e8116506ecaa92947642bf213a3f/ss_44ad5ea0dfe9e8116506ecaa92947642bf213a3f.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/44ad5ea0dfe9e8116506ecaa92947642bf213a3f/ss_44ad5ea0dfe9e8116506ecaa92947642bf213a3f.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/63b55dc7195b2fe6f195c33dc860609836c3cdce/ss_63b55dc7195b2fe6f195c33dc860609836c3cdce.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/63b55dc7195b2fe6f195c33dc860609836c3cdce/ss_63b55dc7195b2fe6f195c33dc860609836c3cdce.1920x1080.jpg?t=1793367666"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/1f767a80833902ea244147811257bf25e669f772/ss_1f767a80833902ea244147811257bf25e669f772.600x338.jpg?t=1793367666",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/1f767a80833902ea244147811257bf25e669f772/ss_1f767a80833902ea244147811257bf25e669f772.1920x1080.jpg?t=1793367666"
+    }
+  ],
+  "web": "http://farcrygame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a first-person shooter in which players assume the role of a man (Ajay Ghale) returning to his ancestral home to spread his mother's ashes. Players engage in a variety of frenetic combat missions and use machine guns, pistols, shotguns, knives, and explosives to kill enemy fighters amid mountainous environments.",
+  "igdbIntentado": true,
+  "igdb": 6801,
+  "youtube": [
+    {
+      "id": "5XtEes5nd0U",
+      "nombre": "Welcome to Kyrat part 2 Trailer"
+    },
+    {
+      "id": "RE_E2MMzuGE",
+      "nombre": "Welcome to Kyrat part 1 Trailer"
+    },
+    {
+      "id": "6X-UlvMr0hk",
+      "nombre": "Weapons of Kyrat Trailer"
+    },
+    {
+      "id": "dO8ogv8yKBM",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:54:08.287Z"
 }

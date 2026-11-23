@@ -1,9 +1,9 @@
 {
   "clave": "crime scene cleaner",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-15b2-7355-a962-80a69e0e4448",
   "appid": "1040200",
@@ -36,6 +36,45 @@
       "url": "https://metacritic.com/game/crime-scene-cleaner/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "346452",
+      "nombre": "Crime Scene Cleaner",
+      "apps": [
+        {
+          "appid": "1040200",
+          "nombre": "Crime Scene Cleaner"
+        }
+      ],
+      "usd": 9.09,
+      "antes": 12.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "1040200": {
+      "usd": 9.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4492060",
+      "nombre": "Crime Scene Cleaner - Biohazard",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3153150",
+      "nombre": "Crime Scene Cleaner Soundtrack",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 30
+    }
+  ],
   "descripcion": "Ingresar en la mafia implica compromiso absoluto. Aunque te pagan bien por encargarte de sus trabajos sucios, no ignoras su naturaleza. Tu labor implica limpiar la escena del crimen, evadir a la policía y prepararte para futuras misiones.",
   "generos": [
     "Acción",
@@ -43,6 +82,7 @@
   ],
   "lanzamientoTexto": "14 AGO 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Crime Scene Cleaner",
   "acerca": [
     [
@@ -144,67 +184,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -303,5 +359,23 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1040200/61348eb557d5563a0b872553394bb2a638562c93/ss_61348eb557d5563a0b872553394bb2a638562c93.1920x1080.jpg?t=1790922726"
     }
   ],
-  "consultado": "2026-11-22T22:05:49.711Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Escenas del crimen realistas con cadáveres y enormes cantidades de sangre.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 115830,
+  "youtube": [
+    {
+      "id": "TdFeQultVDA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "TG2jf0UxER0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:14.046Z"
 }

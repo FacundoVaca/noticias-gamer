@@ -2,7 +2,8 @@
   "clave": "tekken 8",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ef1-73d9-ad41-390d2d748c30",
   "appid": "1778820",
@@ -54,6 +55,245 @@
       "url": "https://opencritic.com/game/15734/tekken-8"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1262248",
+      "nombre": "TEKKEN 8 Advanced Edition",
+      "apps": [
+        {
+          "appid": "1778820",
+          "nombre": "TEKKEN 8"
+        }
+      ],
+      "usd": 21.99,
+      "antes": 39.99,
+      "descuento": 45
+    },
+    {
+      "packageid": "912716",
+      "nombre": "TEKKEN 8",
+      "apps": [
+        {
+          "appid": "1778820",
+          "nombre": "TEKKEN 8"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1262249",
+      "nombre": "TEKKEN 8 Season 2 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1778820",
+          "nombre": "TEKKEN 8"
+        }
+      ],
+      "usd": 47.99,
+      "antes": 63.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1262250",
+      "nombre": "TEKKEN 8: Ultimate Edition de la temporada 2",
+      "apps": [
+        {
+          "appid": "1778820",
+          "nombre": "TEKKEN 8"
+        }
+      ],
+      "usd": 71.99,
+      "antes": 71.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1778820": {
+      "usd": 21.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 25,
+  "dlcLista": [
+    {
+      "appid": "4536150",
+      "nombre": "TEKKEN 8 - Roger Jr.",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "4536140",
+      "nombre": "TEKKEN 8 - Bob",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "4129110",
+      "nombre": "TEKKEN 8: Pase de la temporada 3",
+      "gratis": false,
+      "usd": 27.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4129100",
+      "nombre": "TEKKEN 8 - Kunimitsu",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3417270",
+      "nombre": "TEKKEN 8: Pase de personajes y escenarios de la temporada 2",
+      "gratis": false,
+      "usd": 31.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3417250",
+      "nombre": "TEKKEN 8: Pase de personajes de la temporada 2",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4001560",
+      "nombre": "TEKKEN 8 - Miary Zo",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "4001570",
+      "nombre": "TEKKEN 8 - BAOBAB HORIZON",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3775990",
+      "nombre": "TEKKEN 8 - Armor King",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3564540",
+      "nombre": "TEKKEN 8 - Fahkumram",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3564550",
+      "nombre": "TEKKEN 8 - PAC-PIXELS",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3417000",
+      "nombre": "TEKKEN 8 - Anna Williams",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3417240",
+      "nombre": "TEKKEN 8: Pase de personajes y escenarios de la temporada 1",
+      "gratis": false,
+      "usd": 31.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3417230",
+      "nombre": "TEKKEN 8: Pase de personajes de la temporada 1",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2732280",
+      "nombre": "TEKKEN 8 - Eddy Gordo",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2891170",
+      "nombre": "TEKKEN 8 - Lidia Sobieska",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3024980",
+      "nombre": "TEKKEN 8 - Heihachi Mishima",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3303020",
+      "nombre": "TEKKEN 8 - Conjunto de colaboración de Clive Rosfield y PHOENIX GATE (serie FINAL FANTASY)",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3145880",
+      "nombre": "TEKKEN 8 - Clive Rosfield (serie FINAL FANTASY)",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3025000",
+      "nombre": "TEKKEN 8 - GENMAJI TEMPLE",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3145890",
+      "nombre": "TEKKEN 8 - PHOENIX GATE (serie FINAL FANTASY)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3417280",
+      "nombre": "TEKKEN 8: Paquete de objetos de personalización",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2512940",
+      "nombre": "TEKKEN 8 - Atuendo de avatar: conjunto de Paul Phoenix",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2518100",
+      "nombre": "TEKKEN 8 - Aspecto de avatar: Tetsujin",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2518110",
+      "nombre": "TEKKEN 8 - Aspecto de avatar: Mokujin",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "TEKKEN 8 es la última entrega de la saga TEKKEN, la cúspide de los juegos de lucha 3D. Únete a la lucha con más de 32 personajes y no te pierdas la continuación de esta épica saga. ¡Prepárate para el mejor y mayor juego de TEKKEN hasta la fecha!",
   "generos": [
     "Acción"
@@ -63,6 +303,263 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/tekken-8?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 48406,
-  "consultado": "2026-11-22T21:45:37.091Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "TEKKEN 8",
+  "acerca": [
+    [
+      "p",
+      "TEKKEN 8 es la última entrega de la saga TEKKEN, que ha cumplido 30 años en 2025, año en el que también ha superado la cifra de 59 millones de copias vendidas en todo el mundo."
+    ],
+    [
+      "p",
+      "El juego incluye más de 32 personajes con modelos de alta resolución meticulosamente detallados que llevan al límite el hardware moderno. Disfruta de combates llenos de emoción con nuevas funciones como Heat, o sal de situaciones complicadas con poderosos movimientos definitivos conocidos como Rage Arts. Con el nuevo sistema de control Special Style, puedes jugar con un solo botón, lo que te permite disfrutar de aspectos como predecir el próximo movimiento de tu oponente."
+    ],
+    [
+      "p",
+      "TEKKEN 8 ofrece varias formas de jugar. Sumérgete en la trama con mayor recorrido de la historia de los videojuegos con el modo de juego Historia, para un jugador, y conoce mejor a tu luchador preferido mediante episodios de personaje individuales. Diviértete dando forma a tu propio avatar y deja huella en varios arcades, donde además aprenderás los fundamentos del combate. También puedes visitar la sala online interactiva donde se reúnen jugadores de todos los rincones del mundo y medirte con ellos."
+    ],
+    [
+      "p",
+      "¿Quieres mejorar tus habilidades? Puedes luchar contra tu propio fantasma o los de otros jugadores, que aprenden tu estilo de lucha usando tecnología de IA. También puedes ver repeticiones de combates para recibir consejos y mejorar tus habilidades."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K/AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380X"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard/Onboard chipset"
+      ],
+      [
+        "Notas adicionales",
+        "*\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-7700K/AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard/Onboard chipset"
+      ],
+      [
+        "Notas adicionales",
+        "*\"FPS (frame rate/second): Stable over 60\" is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_62e6ec252bc1a641e8e42dba07f23631d5da85e6.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_62e6ec252bc1a641e8e42dba07f23631d5da85e6.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_99dabe34abc0f92adc39d7099908c9540be7eb3f.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_99dabe34abc0f92adc39d7099908c9540be7eb3f.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_bbd38a5fe748ec966cbc85ffcd4931f0f2da8ffd.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_bbd38a5fe748ec966cbc85ffcd4931f0f2da8ffd.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_7c55021d3ba8e4f14c6d9dbea9f19d9b7665d5f0.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_7c55021d3ba8e4f14c6d9dbea9f19d9b7665d5f0.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_3128df5768cf9fe7ea7b21096cddaf07279ba0bd.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_3128df5768cf9fe7ea7b21096cddaf07279ba0bd.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_5115ee8e47dda957a648a1fedb5325c7b49ec898.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_5115ee8e47dda957a648a1fedb5325c7b49ec898.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_b0b4c57e786656b4232b9ec51f3e04f73e88d843.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_b0b4c57e786656b4232b9ec51f3e04f73e88d843.1920x1080.jpg?t=1794438159"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_853e5ffd8d75e9b5aa171e0b332d026866e1b5af.600x338.jpg?t=1794438159",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/ss_853e5ffd8d75e9b5aa171e0b332d026866e1b5af.1920x1080.jpg?t=1794438159"
+    }
+  ],
+  "web": "https://tk8.tekken-official.jp/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 217590,
+  "youtube": [
+    {
+      "id": "07FdDRbdurg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2hPuRQz6IlM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jGQBmSsunT4",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "457g-rjA_cY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:53:11.808Z"
 }

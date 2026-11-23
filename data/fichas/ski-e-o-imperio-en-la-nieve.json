@@ -1,9 +1,9 @@
 {
   "clave": "ski e o imperio en la nieve",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019ef054-ca5d-7253-8d97-41583e9a43c0",
   "appid": "4493130",
@@ -22,6 +22,38 @@
     "Singleplayer"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1567791",
+      "nombre": "Ski-E-O! Imperio en la nieve",
+      "apps": [
+        {
+          "appid": "4493130",
+          "nombre": "Ski-E-O! Imperio en la nieve"
+        }
+      ],
+      "usd": 9.44,
+      "antes": 10.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4493130": {
+      "usd": 9.44,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5563770",
+      "nombre": "Ski-E-O! Ski Resort Tycoon Soundtrack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Crea tu imperio en la nieve: construye la acogedora estación de esquí de tus sueños en este juego de gestión. Adáptate al clima cambiante, traza pistas, coloca telesillas y construye alojamientos y bares de après-ski que mantendrán a miles de visitantes felices, calentitos y con la barriga llena.",
   "generos": [
     "Simuladores",
@@ -30,6 +62,7 @@
   ],
   "lanzamientoTexto": "12 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Ski-E-O! Imperio en la nieve",
   "acerca": [
     [
@@ -132,31 +165,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -264,5 +304,19 @@
     }
   ],
   "web": "https://skieogame.com",
-  "consultado": "2026-11-22T22:04:52.144Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 414510,
+  "youtube": [
+    {
+      "id": "5VVm7LKiwNE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:55:06.471Z"
 }

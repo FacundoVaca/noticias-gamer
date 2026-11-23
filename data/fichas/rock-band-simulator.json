@@ -1,9 +1,9 @@
 {
   "clave": "rock band simulator",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-463f-73d5-b536-e1f029ca7223",
   "appid": "4697880",
@@ -27,6 +27,38 @@
       "puntaje": 97,
       "cantidad": 370,
       "url": "https://store.steampowered.com/app/4697880/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1634978",
+      "nombre": "Rock Band Simulator",
+      "apps": [
+        {
+          "appid": "4697880",
+          "nombre": "Rock Band Simulator"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 6.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4697880": {
+      "usd": 5.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5173630",
+      "nombre": "Rock Band Simulator Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "A first-person rock band life sim. Play rhythm-based gigs, take shady jobs, gamble, fight, and upgrade your gear and garage. Keep the band together and try to stay in one piece. Whatever happens, you’ve still got a show at nine.",
@@ -166,39 +198,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Letón",
@@ -206,23 +247,28 @@
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -314,5 +360,27 @@
     }
   ],
   "web": "https://discord.gg/FJmvx47FC5?proof=e6a5a59341a7a34a",
-  "consultado": "2026-11-22T22:06:11.868Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Rock Band Simulator is a crude comedy about a garage band. It contains strong language, crude sexual humour and innuendo, stylised drawn pin-up posters and playing cards, smoking, heavy drinking and drug use (cannabis and fictional substances), street fights with blood and firearms, and a scene where an axe can take limbs off defeated enemies.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 409076,
+  "youtube": [
+    {
+      "id": "mITSh67yPG0",
+      "nombre": "Teaser"
+    },
+    {
+      "id": "p4ybmlXJJiY",
+      "nombre": "Teaser"
+    },
+    {
+      "id": "3qVh1WoliXA",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:58:12.424Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "call of duty black ops 6",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0192e8e0-a339-7262-a156-d03bd1f8a899",
   "appid": "4384550",
@@ -36,12 +36,35 @@
       "url": "https://store.steampowered.com/app/4384550/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1171657",
+      "nombre": "Call of Duty®: Black Ops 6",
+      "apps": [
+        {
+          "appid": "4384550",
+          "nombre": "Call of Duty®: Black Ops 6"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 69.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "4384550": {
+      "usd": 27.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Call of Duty®: Black Ops 6 es el Black Ops auténtico, con una campaña cinemática individual, la mejor experiencia Multijugador de su clase y el épico regreso de Zombis por rondas.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "1 NOV 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty®: Black Ops 6",
   "acerca": [
     [
@@ -84,59 +107,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -244,5 +281,21 @@
     }
   ],
   "web": "https://www.callofduty.com/",
-  "consultado": "2026-11-22T22:05:04.941Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 302156,
+  "youtube": [
+    {
+      "id": "dqEvH7TBSnA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "V08UPqchVgQ",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:52:57.897Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "far cry 5",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ff81-721c-b0a9-797caababfd7",
   "appid": "552520",
@@ -54,6 +54,109 @@
       "url": "https://opencritic.com/game/4384/far-cry-5"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "252904",
+      "nombre": "Far Cry 5 - Standard Edition",
+      "apps": [
+        {
+          "appid": "552520",
+          "nombre": "Far Cry® 5"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 47.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "252910",
+      "nombre": "Far Cry 5 - Gold edition",
+      "apps": [
+        {
+          "appid": "552520",
+          "nombre": "Far Cry® 5"
+        }
+      ],
+      "usd": 10.79,
+      "antes": 71.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "338055",
+      "nombre": "Far Cry 5 + Far Cry New Dawn Deluxe Edition Bundle",
+      "apps": [
+        {
+          "appid": "939960",
+          "nombre": "Far Cry® New Dawn"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 79.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "338058",
+      "nombre": "Far Cry 5 Gold Edition + Far Cry New Dawn Deluxe Edition Bundle",
+      "apps": [
+        {
+          "appid": "939960",
+          "nombre": "Far Cry® New Dawn"
+        }
+      ],
+      "usd": 15.59,
+      "antes": 103.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "552520": {
+      "usd": 7.19,
+      "gratis": false
+    },
+    "939960": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "763820",
+      "nombre": "Far Cry® 5 - Season Pass",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 85
+    },
+    {
+      "appid": "761820",
+      "nombre": "Far Cry® 5 - Lost On Mars",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 85
+    },
+    {
+      "appid": "761821",
+      "nombre": "Far Cry® 5 - Hours of Darkness",
+      "gratis": false,
+      "usd": 1.43,
+      "descuento": 85
+    },
+    {
+      "appid": "823990",
+      "nombre": "Far Cry® 5 - Deluxe Pack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "874610",
+      "nombre": "Far Cry® 5 - Dead Living Zombies",
+      "gratis": false,
+      "usd": 0.95,
+      "descuento": 85
+    }
+  ],
   "descripcion": "Enfréntate a una secta de fanáticos en este shooter en primera persona de mundo abierto. Libra combates intensos en territorio hostil, recluta a seguidores leales y aliados animales, y libera el condado de Hope en solitario o en cooperativo para 2 jugadores.",
   "generos": [
     "Acción",
@@ -61,6 +164,7 @@
   ],
   "lanzamientoTexto": "26 MAR 2018",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Far Cry® 5",
   "acerca": [
     [
@@ -116,63 +220,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -288,5 +407,31 @@
     }
   ],
   "web": "https://far-cry.ubisoft.com/",
-  "consultado": "2026-11-22T22:03:45.532Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a first-person shooter in which players assume the role of a sheriff's deputy as he battles religious zealots in Montana.",
+  "igdbIntentado": true,
+  "igdb": 28552,
+  "youtube": [
+    {
+      "id": "q2Ma9HstasU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "UA4KoqTICog",
+      "nombre": "The Baptism Live Action Trailer"
+    },
+    {
+      "id": "P3La92ethq4",
+      "nombre": "The Resistance Trailer"
+    },
+    {
+      "id": "DW6lQSwL8oA",
+      "nombre": "PGW 2017 Announce Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:49:54.539Z"
 }

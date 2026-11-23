@@ -2,7 +2,8 @@
   "clave": "unravel two",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-fdc2-73df-94b6-e4aee2aaf4f4",
   "appid": "1225570",
@@ -47,6 +48,28 @@
       "url": "https://opencritic.com/game/6194/unravel-two"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "424778",
+      "nombre": "Unravel Two",
+      "apps": [
+        {
+          "appid": "1225570",
+          "nombre": "Unravel Two"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 19.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1225570": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Cuando cortas con el pasado, se forman nuevos vínculos.",
   "generos": [
     "Acción",
@@ -57,6 +80,165 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/unravel-two?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 7653,
-  "consultado": "2026-11-22T21:44:35.782Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Unravel Two",
+  "acerca": [
+    [
+      "p",
+      "Ganador - D.I.C.E. Awards, juego familiar del año."
+    ],
+    [
+      "p",
+      "Cuando cortas con el pasado, se forman nuevos vínculos. En Unravel Two puedes crear tu propio Yarny. Después puedes relacionarte con otros Yarnys en cooperativo local o jugando en solitario para viajar juntos y ayudaros mutuamente mientras crece vuestra amistad."
+    ],
+    [
+      "p",
+      "La aventura comienza en una tierra fría e imponente, pero luego verás cómo el escenario florece y se llena de nueva vida mientras persigues la chispa de la aventura. Sumérgete en una historia envolvente llena de energía, exuberancia, inspiración... e incluso monstruos. Afronta cada reto con actitud positiva y valor para despertar el mundo que te rodea, y descubre un vínculo inseparable entre amigos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit, 8.1 64-bit OR Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i3 2120 @ 3.3GHz OR AMD FX 4350 @ 4.2 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon R7 250X OR Nvidia GTX 650Ti"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit, 8.1 64-bit OR Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5 2300 @ 2.8GHz OR AMD FX 6100 @ 3.3 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon R9 270 OR Nvidia GTX 670"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_7839b4bf192afd7b081335311aee5ffa470dc262.600x338.jpg?t=1777389655",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_7839b4bf192afd7b081335311aee5ffa470dc262.1920x1080.jpg?t=1777389655"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_b64105f8f5e5632112209fe5be22f8801afc0409.600x338.jpg?t=1777389655",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_b64105f8f5e5632112209fe5be22f8801afc0409.1920x1080.jpg?t=1777389655"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_024a11b37d7f53675305b7c1dcab374edef90501.600x338.jpg?t=1777389655",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_024a11b37d7f53675305b7c1dcab374edef90501.1920x1080.jpg?t=1777389655"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_12f19e24d27a444d15d86e54a7613e072736426e.600x338.jpg?t=1777389655",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_12f19e24d27a444d15d86e54a7613e072736426e.1920x1080.jpg?t=1777389655"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_1b80ad222f28236cac60f9b0984f435818d398b9.600x338.jpg?t=1777389655",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225570/ss_1b80ad222f28236cac60f9b0984f435818d398b9.1920x1080.jpg?t=1777389655"
+    }
+  ],
+  "web": "https://www.ea.com/games/unravel/unravel-two",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19241,
+  "youtube": [
+    {
+      "id": "j2TmLrTl6gs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:48:54.048Z"
 }

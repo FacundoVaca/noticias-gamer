@@ -1,9 +1,9 @@
 {
   "clave": "total war warhammer ii",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-19bf-7267-b295-082ae0d3557e",
   "appid": "594570",
@@ -52,6 +52,192 @@
       "url": "https://opencritic.com/game/4520/total-war-warhammer-ii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "212516",
+      "nombre": "Total War: WARHAMMER II",
+      "apps": [
+        {
+          "appid": "594570",
+          "nombre": "Total War: WARHAMMER II"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 49.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "594570": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 23,
+  "dlcLista": [
+    {
+      "appid": "4605260",
+      "nombre": "Total War: WARHAMMER II - Banda sonora original",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1556110",
+      "nombre": "Total War: WARHAMMER II - The Silence & The Fury",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1315750",
+      "nombre": "Total War: WARHAMMER II - The Twisted & The Twilight",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1315751",
+      "nombre": "Total War: WARHAMMER II - Skaven Chieftain",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1209120",
+      "nombre": "Total War: WARHAMMER II - The Warden & The Paunch",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1209121",
+      "nombre": "Total War: WARHAMMER II - Imrik",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1158180",
+      "nombre": "Total War: WARHAMMER II - The Shadow & The Blade",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1158181",
+      "nombre": "Total War: WARHAMMER II - Repanse de Lyonesse",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1074320",
+      "nombre": "Total War: WARHAMMER II - The Hunter & The Beast",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1074321",
+      "nombre": "Total War: WARHAMMER II - Gor-Rok",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "965220",
+      "nombre": "Total War: WARHAMMER II - The Prophet & The Warlock",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1003160",
+      "nombre": "Total War: WARHAMMER II - Tiktaq'to",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "835670",
+      "nombre": "Total War: WARHAMMER II - Curse of the Vampire Coast",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "835671",
+      "nombre": "Total War: WARHAMMER II - Lokhir Fellheart",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "779880",
+      "nombre": "Total War: WARHAMMER II - The Queen & The Crone",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "794110",
+      "nombre": "Total War: WARHAMMER II - Alith Anar",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "617870",
+      "nombre": "Total War: WARHAMMER II - Rise of the Tomb Kings",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 50
+    },
+    {
+      "appid": "735420",
+      "nombre": "Total War: WARHAMMER II - Tretch Craventail",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "617810",
+      "nombre": "Total War: WARHAMMER II - Mortal Empires",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "594591",
+      "nombre": "Total War: WARHAMMER II - Blood for the Blood God II",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "781190",
+      "nombre": "Total War: WARHAMMER II - Steps of Isha",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1517260",
+      "nombre": "Total War: WARHAMMER II - Rakarth",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1576390",
+      "nombre": "Total War: WARHAMMER II - Thorek Ironbrow",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Toma el mando de las fuerzas de Lustria. Elige un Señor legendario, expande tus ejércitos, forja alianzas en una campaña estratégica por turnos y desata el poder de tus monstruosas tropas en trepidantes batallas en tiempo real.",
   "generos": [
     "Acción",
@@ -62,6 +248,7 @@
     "puntaje": 87,
     "url": "https://www.metacritic.com/game/pc/total-war-warhammer-ii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Total War: WARHAMMER II",
   "acerca": [
     [
@@ -164,55 +351,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -311,5 +511,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/ss_e12a1320cd1ab645c2e63a0e6ae196c8874b93bd.1920x1080.jpg?t=1780389571"
     }
   ],
-  "consultado": "2026-11-22T22:05:37.017Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This content shows violence of a graphical nature within a Fantasy World.",
+  "igdbIntentado": true,
+  "igdb": 28028,
+  "youtube": [
+    {
+      "id": "Aw6As7MqvCQ",
+      "nombre": "Announcement Cinematic Trailer"
+    },
+    {
+      "id": "n2wvG5HBwx4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "D-wjXg8cZaI",
+      "nombre": "10 Ways to Die Trailer"
+    },
+    {
+      "id": "Gd1OIvSK37U",
+      "nombre": "E3 2017 Gameplay"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T05:56:23.786Z"
 }
