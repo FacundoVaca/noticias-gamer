@@ -48,6 +48,7 @@ const ESQUEMA = {
   properties: {
     apta: { type: "BOOLEAN", description: "false SOLO si no tiene que ver con videojuegos, es publicidad encubierta, contenido para adultos o una tragedia sensible. Que hable de fechas o hechos que no conocés NO es motivo para false" },
     tipo: { type: "STRING", enum: ["noticia", "problema", "ofertas"], description: "problema = errores, fallas, bugs, caídas de servidores o cuelgues; ofertas = descuentos, rebajas, juegos gratis o precios rebajados; noticia = todo lo demás" },
+    apertura: { type: "STRING", enum: ["dato", "cifra", "pregunta", "impacto", "escena", "contraste"], description: "Cómo empieza el primer párrafo: dato = el hecho principal; cifra = un número llamativo; pregunta = la duda que resuelve la nota; impacto = qué cambia para el jugador; escena = una situación concreta; contraste = lo esperado frente a lo que pasó" },
     formato: { type: "STRING", enum: ["breve", "estandar", "rumor", "guia", "analisis"], description: "Forma de la nota según la información disponible: breve = anuncio o dato puntual de último momento con poca información; rumor = filtración, rumor o dato no confirmado oficialmente; guia = la información sirve para hacer algo (resolver un problema, prepararse, comprar, configurar); analisis = hay material para explicar causas, comparar o dar contexto amplio (curiosidades, secretos, polémicas, repercusiones); estandar = noticia confirmada con datos suficientes que no encaja en las otras" },
     motivo: { type: "STRING" },
     titulo: { type: "STRING", description: "Título original en español, informativo, sin clickbait, máx. 95 caracteres" },
@@ -56,10 +57,18 @@ const ESQUEMA = {
     etiquetas: { type: "ARRAY", items: { type: "STRING" }, description: "3 a 6 etiquetas: juegos, empresas, plataformas" },
     cuerpo: {
       type: "ARRAY",
-      description: "Bloques del artículo en orden",
+      description: "Bloques del artículo en orden. Además de p, h2 y li podés usar piezas opcionales SOLO cuando la noticia tiene material para eso: hito (un momento de una cronología: fecha + texto; varios seguidos forman la cronología), dato (una cifra destacada: valor + texto corto; 2 a 4 seguidos forman 'En números'), tabla (texto = título de la tabla, con encabezados y filas), cita (texto = lo que dijo una persona o empresa, con autor; solo si la declaración está en las fuentes), contexto (texto = recuadro breve que explica algo a quien no conoce el tema), pro y contra (puntos a favor y en contra, seguidos)",
       items: {
         type: "OBJECT",
-        properties: { tipo: { type: "STRING", enum: ["p", "h2", "li"] }, texto: { type: "STRING" } },
+        properties: {
+          tipo: { type: "STRING", enum: ["p", "h2", "li", "hito", "dato", "tabla", "cita", "contexto", "pro", "contra"] },
+          texto: { type: "STRING" },
+          fecha: { type: "STRING", description: "Solo en hito: fecha o período tal como lo dicen las fuentes (ej: 'Marzo de 2024')" },
+          valor: { type: "STRING", description: "Solo en dato: la cifra exacta de las fuentes (ej: '10 millones', 'US$69,99', '60 FPS')" },
+          autor: { type: "STRING", description: "Solo en cita: quién lo dijo y su cargo" },
+          encabezados: { type: "ARRAY", items: { type: "STRING" }, description: "Solo en tabla: 2 a 4 columnas" },
+          filas: { type: "ARRAY", items: { type: "OBJECT", properties: { celdas: { type: "ARRAY", items: { type: "STRING" } } }, required: ["celdas"] }, description: "Solo en tabla: 2 a 8 filas, con datos de las fuentes" },
+        },
         required: ["tipo", "texto"],
       },
     },
@@ -111,6 +120,8 @@ Reglas obligatorias:
   * guia (450 a 900 palabras): orientada a hacer algo. Subtítulos que sean acciones o preguntas concretas y pasos en lista (li) cuando corresponda.
   * analisis (800 a 1200 palabras): el más largo. Explicá causas, compará con casos anteriores y cerrá con una conclusión propia argumentada (marcada como opinión del medio), sin inventar datos.
   * estandar (550 a 900 palabras): noticia confirmada con datos (fechas, plataformas, precios, requisitos) y su contexto.
+- Piezas opcionales: usá 0 a 2 por nota, solo si la información lo pide (cronología si hay varias fechas, "en números" si hay cifras concretas, tabla si hay datos para comparar, cita si las fuentes traen una declaración, contexto si hace falta explicar antecedentes, pro y contra en análisis o compras). Todo dato de una pieza tiene que estar en las fuentes. No las fuerces.
+- Variá cómo empieza la nota (campo "apertura") y no uses siempre el hecho principal en la primera oración.
 - Variá la estructura: los subtítulos (h2) tienen que ser específicos de ESTA noticia (por ejemplo "Qué cambia en la versión de PS5" y no "Qué significa para los jugadores"). No repitas siempre la misma secuencia de secciones ni la misma cantidad de subtítulos.
 - Estructura según el tipo:
   * noticia: usá el formato que corresponda de los de arriba.
@@ -128,12 +139,12 @@ const SISTEMA_FECHA = () => {
 };
 const SISTEMA_TXT = () => `${SISTEMA_FECHA()}\n\n${SISTEMA_BASE}`;
 
-export async function redactarNota(grupo, cfg, aviso = "") {
+export async function redactarNota(grupo, cfg, aviso = "", recientes = "") {
   const fuentes = grupo.map((it, i) => `### Fuente ${i + 1} (${it.idioma}) - ${it.fecha.slice(0, 10)}
 Título: ${it.titulo}
 Resumen: ${it.resumen}
 Texto: ${(it.texto || it.contenido || "").slice(0, 5000)}${it.enlaces?.length ? `\nLista de enlaces de la fuente (texto -> url):\n${it.enlaces.slice(0, 60).map((l) => `- ${l.texto} -> ${l.url}`).join("\n")}` : ""}`).join("\n\n");
-  const prompt = `Escribí una nota a partir de esta información sobre una misma noticia.${aviso ? "\nIMPORTANTE: " + aviso : ""}\n\n${fuentes}`;
+  const prompt = `Escribí una nota a partir de esta información sobre una misma noticia.${aviso ? "\nIMPORTANTE: " + aviso : ""}${recientes ? `\n\nAsí están armadas las últimas notas del sitio. No repitas su secuencia de bloques, sus subtítulos ni su forma de empezar:\n${recientes}` : ""}\n\n${fuentes}`;
 
   if (process.env.GEMINI_MOCK) return notaDePrueba(grupo);
 
