@@ -1,0 +1,333 @@
+{
+  "clave": "menes the chainbreaker",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "0198ff76-b58e-7169-b196-c8069eef5eb3",
+  "appid": "2891970",
+  "lanzamiento": "2026-11-13",
+  "desarrolladores": [
+    "Rage Game Studio"
+  ],
+  "editores": [
+    "Rage Game Studio"
+  ],
+  "etiquetas": [
+    "Exploration",
+    "Precision Platformer",
+    "3D Platformer",
+    "Souls-like",
+    "PvE"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 9,
+      "url": "https://store.steampowered.com/app/2891970/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1031002",
+      "nombre": "Menes: The Chainbreaker",
+      "apps": [
+        {
+          "appid": "2891970",
+          "nombre": "Menes: The Chainbreaker"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 8.23,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "2891970": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Eres un fragmento del alma de un Arcángel, tienes alas y una espada viviente que se vuelve más fuerte cada vez que desvías un ataque. Eres Menes. Derrota a dioses y monstruos, supera peligros, desvela un trasfondo misterioso y explora paisajes surrealistas.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "12 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Menes: The Chainbreaker",
+  "acerca": [
+    [
+      "h",
+      "¿Qué puedes esperar de esta aventura?"
+    ],
+    [
+      "p",
+      "Un mundo con un rico trasfondo"
+    ],
+    [
+      "p",
+      "Universo único, banda sonora original, voces, coleccionables"
+    ],
+    [
+      "p",
+      "Combates épicos contra jefes"
+    ],
+    [
+      "p",
+      "Enfréntate a falsos dioses que son a la vez prisioneros y carceleros."
+    ],
+    [
+      "p",
+      "¡Descubre sus historias y rompe sus cadenas!"
+    ],
+    [
+      "p",
+      "Progresión al estilo Souls"
+    ],
+    [
+      "p",
+      "Aprende de cada muerte mientras te haces más fuerte. Vence a enemigos difíciles."
+    ],
+    [
+      "p",
+      "¡Cuantos más ataques desvíes, más fuerte golpeará tu espada, Dédalo!"
+    ],
+    [
+      "p",
+      "Plataformas exigentes"
+    ],
+    [
+      "p",
+      "Muy difícil, pero puedes volar... a veces. ¡Juégalo y compruébalo tú mismo!"
+    ],
+    [
+      "p",
+      "¿Sobrevivirás a las pruebas y descubrirás la verdad sobre tus orígenes,"
+    ],
+    [
+      "p",
+      "o caerás ante las sombras que acechan en el desierto y más allá?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4570 / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1070 / AMD Radeon RX Vega 56, 8 GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Tarjeta de sonido compatible con DirectX"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Ryzen 5 5600 / i5-11600K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060 / RX 5700 XT / Arc A750"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible sound card"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/ce76c0f15a707c802e52bd2ca543130ff8a79786/ss_ce76c0f15a707c802e52bd2ca543130ff8a79786.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/ce76c0f15a707c802e52bd2ca543130ff8a79786/ss_ce76c0f15a707c802e52bd2ca543130ff8a79786.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/d1dedcbd824ccd72c635bc6e812ca7aae81cfb43/ss_d1dedcbd824ccd72c635bc6e812ca7aae81cfb43.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/d1dedcbd824ccd72c635bc6e812ca7aae81cfb43/ss_d1dedcbd824ccd72c635bc6e812ca7aae81cfb43.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/8a5cb9083c797864754026b633caababab0e5a91/ss_8a5cb9083c797864754026b633caababab0e5a91.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/8a5cb9083c797864754026b633caababab0e5a91/ss_8a5cb9083c797864754026b633caababab0e5a91.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/21530168d8c4dd96d0aa83a938c5684ead2aa398/ss_21530168d8c4dd96d0aa83a938c5684ead2aa398.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/21530168d8c4dd96d0aa83a938c5684ead2aa398/ss_21530168d8c4dd96d0aa83a938c5684ead2aa398.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/604f792226e82f562c870e068af662a10740aea0/ss_604f792226e82f562c870e068af662a10740aea0.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/604f792226e82f562c870e068af662a10740aea0/ss_604f792226e82f562c870e068af662a10740aea0.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/4adebcfb50c5418d883ff82c222b32c32e0e1887/ss_4adebcfb50c5418d883ff82c222b32c32e0e1887.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/4adebcfb50c5418d883ff82c222b32c32e0e1887/ss_4adebcfb50c5418d883ff82c222b32c32e0e1887.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/a25f0d896e9988a7c498b5a9e6fc1e6237068391/ss_a25f0d896e9988a7c498b5a9e6fc1e6237068391.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/a25f0d896e9988a7c498b5a9e6fc1e6237068391/ss_a25f0d896e9988a7c498b5a9e6fc1e6237068391.1920x1080.jpg?t=1794928177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/263a6bf354d0e1cf0a5067670c2a6dad8d31b98b/ss_263a6bf354d0e1cf0a5067670c2a6dad8d31b98b.600x338.jpg?t=1794928177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891970/263a6bf354d0e1cf0a5067670c2a6dad8d31b98b/ss_263a6bf354d0e1cf0a5067670c2a6dad8d31b98b.1920x1080.jpg?t=1794928177"
+    }
+  ],
+  "web": "https://ragegame.io/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.6,
+    "cantidad": 8,
+    "escala": 5
+  },
+  "xbox": "9NWDV2KTMWRN",
+  "igdbIntentado": true,
+  "igdb": 333316,
+  "youtube": [
+    {
+      "id": "SAe61i5LM8k",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:38:35.457Z"
+}

@@ -1,0 +1,513 @@
+{
+  "clave": "tekken 7",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0a42-73de-a3a3-e7a08a03de7a",
+  "appid": "389730",
+  "lanzamiento": "2017-06-01",
+  "desarrolladores": [
+    "BANDAI NAMCO Studios",
+    "BANDAI NAMCO Studios Inc."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "BANDAI NAMCO Studios Inc.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Fighting",
+    "Action",
+    "Multiplayer",
+    "Competitive",
+    "Arcade"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 68327,
+      "url": "https://store.steampowered.com/app/389730/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/tekken-7/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 67,
+      "cantidad": 1207,
+      "url": "https://metacritic.com/game/tekken-7/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 131,
+      "url": "https://opencritic.com/game/3599/tekken-7"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "74007",
+      "nombre": "TEKKEN 7",
+      "apps": [
+        {
+          "appid": "389730",
+          "nombre": "TEKKEN 7"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "643882",
+      "nombre": "TEKKEN 7 - Originals Edition",
+      "apps": [
+        {
+          "appid": "389730",
+          "nombre": "TEKKEN 7"
+        }
+      ],
+      "usd": 71.99,
+      "antes": 71.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "643883",
+      "nombre": "TEKKEN 7 - Definitive Edition",
+      "apps": [
+        {
+          "appid": "389730",
+          "nombre": "TEKKEN 7"
+        }
+      ],
+      "usd": 87.99,
+      "antes": 87.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "389730": {
+      "usd": 31.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 24,
+  "dlcLista": [
+    {
+      "appid": "1289450",
+      "nombre": "TEKKEN 7 - Season Pass 4",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1289451",
+      "nombre": "TEKKEN 7 - DLC16: Kunimitsu",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1289452",
+      "nombre": "TEKKEN 7 - DLC17: Vermilion Gates",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1289453",
+      "nombre": "TEKKEN 7 - DLC18: Lidia Sobieska",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1289454",
+      "nombre": "TEKKEN 7 - DLC19: Island Paradise",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1114550",
+      "nombre": "TEKKEN 7 - Season Pass 3",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "878467",
+      "nombre": "TEKKEN 7 - Season Pass 2",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "580020",
+      "nombre": "TEKKEN 7 - Season Pass",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1236501",
+      "nombre": "TEKKEN 7 - DLC15: CAVE OF ENLIGHTENMENT",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1236500",
+      "nombre": "TEKKEN 7 - DLC14: Fahkumram",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1162602",
+      "nombre": "TEKKEN 7 - DLC13: Frame Data Display",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1162601",
+      "nombre": "TEKKEN 7 - DLC12: Leroy Smith",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1162600",
+      "nombre": "TEKKEN 7 - DLC11: Ganryu",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1114561",
+      "nombre": "TEKKEN 7 - DLC10: Zafina",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "878465",
+      "nombre": "TEKKEN 7 - DLC9: Negan",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "878464",
+      "nombre": "TEKKEN 7 - DLC8: Julia Chang",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "878463",
+      "nombre": "TEKKEN 7 - DLC7: Armor King",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "878462",
+      "nombre": "TEKKEN 7 - DLC6: Craig Marduk",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "878461",
+      "nombre": "TEKKEN 7 - DLC5: Lei Wulong",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "878460",
+      "nombre": "TEKKEN 7 - DLC4: Anna Williams",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "592374",
+      "nombre": "TEKKEN 7 - DLC3: Noctis Lucis Caelum Pack",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "592370",
+      "nombre": "TEKKEN 7 Eliza Character",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "592372",
+      "nombre": "TEKKEN 7 DLC 1 Ultimate TEKKEN BOWL & Additional Costumes",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 0
+    },
+    {
+      "appid": "592373",
+      "nombre": "TEKKEN 7 DLC 2 Geese Howard Pack",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Descubre el épico final de la prolongada contienda entre miembros del clan Mishima. La legendaria saga de juegos de lucha vuelve a la carga con este título creado con Unreal Engine 4 que ofrece espectaculares batallas con cinemáticas narrativas e intensos duelos para disfrutar con amigos y rivales.",
+  "generos": [
+    "Acción",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "1 JUN 2017",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/tekken-7?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "TEKKEN 7",
+  "acerca": [
+    [
+      "p",
+      "Descubre el épico final del clan Mishima y descubre los motivos detrás de cada uno de los pasos de esta batalla interminable. TEKKEN 7, creado con Unreal Engine 4, ofrece espectaculares batallas con cinemáticas narrativas e intensos duelos para disfrutar con amigos y rivales gracias a las nuevas mecánicas de lucha."
+    ],
+    [
+      "p",
+      "Amor, venganza, orgullo. Todo el mundo tiene un motivo para luchar. Los valores son lo que nos define y nos hace humanos, más allá de nuestras fortalezas y debilidades. No existen las motivaciones erróneas, solo el camino que decidimos escoger."
+    ],
+    [
+      "p",
+      "Expande tu viaje de luchador comprando el pase de temporada de Tekken 7 por separado y obtén acceso a espectacular contenido adicional."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play en TV",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-4160 @ 3.60GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 2GB, GTX 750Ti 2GB, or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690 3.5 GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 equivalent or higher"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_d92a558644ad60ae5814fc4d2bbaebc5abf62fa3.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_d92a558644ad60ae5814fc4d2bbaebc5abf62fa3.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_40faa5ba39563cb899f1ab2ddd2afbf8b451d52f.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_ed3246605518907954918eb06e90705249be77d6.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_ed3246605518907954918eb06e90705249be77d6.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_4274653781c2c618f7749cdb569e2b9274fceba9.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_4274653781c2c618f7749cdb569e2b9274fceba9.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_744702d2289cc49bebb1b2fba7dd758b5534e1c5.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_744702d2289cc49bebb1b2fba7dd758b5534e1c5.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_e4266a29ed7485522c85ff61b454f3765151a0db.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_e4266a29ed7485522c85ff61b454f3765151a0db.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_8f6d9f87f50513ed756004cfa5b2b54cdeb1df18.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_8f6d9f87f50513ed756004cfa5b2b54cdeb1df18.1920x1080.jpg?t=1765812753"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_c7a9506d38bf22e205217cede4da7a909de2d493.600x338.jpg?t=1765812753",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389730/ss_c7a9506d38bf22e205217cede4da7a909de2d493.1920x1080.jpg?t=1765812753"
+    }
+  ],
+  "web": "https://www.bandainamcostudios.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Game includes Crude Humor, Mild Blood, Language, Suggestive Themes, and Violence.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7498,
+  "youtube": [
+    {
+      "id": "h2dbZn6EiPs",
+      "nombre": "Release date Trailer"
+    },
+    {
+      "id": "JMoXwa1forM",
+      "nombre": "Master Raven Reveal Trailer"
+    },
+    {
+      "id": "KUf8XpVuIlY",
+      "nombre": "Character Trailer 1"
+    },
+    {
+      "id": "Lf4xDkAV8VA",
+      "nombre": "Opening Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:01.784Z"
+}

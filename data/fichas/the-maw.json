@@ -1,0 +1,357 @@
+{
+  "clave": "the maw",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-157e-7178-9b15-76557d459155",
+  "appid": "26000",
+  "lanzamiento": "2009-03-10",
+  "desarrolladores": [
+    "Twisted Pixel Games"
+  ],
+  "editores": [
+    "Microsoft Studios",
+    "Xbox Game Studios",
+    "Twisted Pixel Games"
+  ],
+  "etiquetas": [
+    "Indie",
+    "Action",
+    "Platformer",
+    "Cute",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 332,
+      "url": "https://store.steampowered.com/app/26000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/the-maw/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 20,
+      "url": "https://metacritic.com/game/the-maw/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1441",
+      "nombre": "The Maw",
+      "apps": [
+        {
+          "appid": "26000",
+          "nombre": "The Maw"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 9.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1582",
+      "nombre": "The Mawesome Pack",
+      "apps": [
+        {
+          "appid": "26000",
+          "nombre": "The Maw"
+        },
+        {
+          "appid": "26005",
+          "nombre": "The Maw: Brute Force"
+        },
+        {
+          "appid": "26006",
+          "nombre": "The Maw: River Redirect"
+        },
+        {
+          "appid": "26007",
+          "nombre": "The Maw: Speeder Lane"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 11.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "26000": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "26005": {
+      "usd": 1,
+      "gratis": false
+    },
+    "26006": {
+      "usd": 1,
+      "gratis": false
+    },
+    "26007": {
+      "usd": 1,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "26005",
+      "nombre": "The Maw: Brute Force",
+      "gratis": false,
+      "usd": 1,
+      "descuento": 20
+    },
+    {
+      "appid": "26006",
+      "nombre": "The Maw: River Redirect",
+      "gratis": false,
+      "usd": 1,
+      "descuento": 20
+    },
+    {
+      "appid": "26007",
+      "nombre": "The Maw: Speeder Lane",
+      "gratis": false,
+      "usd": 1,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "La cumbre de la evolución alienígena, Maw es una bola de grasa cobarde preocupada únicamente de descansar y consumir refrigerios. Sin embargo, Maw también puede absorber las características de todo lo que come, es virtualmente indestructible, y puede crecer hasta un tamaño ilimitado.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "9 MAR 2009",
+  "metacritic": {
+    "puntaje": 75,
+    "url": "https://www.metacritic.com/game/pc/the-maw?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "The Maw",
+  "acerca": [
+    [
+      "p",
+      "La cumbre de la evolución alienígena, Maw es una bola de grasa cobarde preocupada únicamente de descansar y consumir refrigerios. Sin embargo, Maw también puede absorber las características de todo lo que come, es virtualmente indestructible, y puede crecer hasta un tamaño ilimitado. Si no fuera un peligro para toda la vida del universo, debería ser la mascota ideal. En este juego de acción y aventura Maw es el mejor amigo de nuestro héroe Frank y únicamente trabajando juntos podrán lograr que Maw devore su camino hacia la libertad. The Maw fue galardonado con el premio \"Audience Choice Award\" en la muestra de juegos independientes de 2008 \"PAX-10\" y fue finalista en el festival de juegos independientes para la excelencia técnica de 2009."
+    ],
+    [
+      "li",
+      "¡Desbloquea todos los logros de Steam!"
+    ],
+    [
+      "li",
+      "Completo juego en 3D de acción y aventura"
+    ],
+    [
+      "li",
+      "Ganador del premio \"Audience Choice Award\" del PAX-10 de 2008"
+    ],
+    [
+      "li",
+      "Finalista en el festival de juegos independientes de 2009"
+    ],
+    [
+      "li",
+      "Un imparable e insaciablemente hambriento Maw que crece hasta proporciones ilimitadas"
+    ],
+    [
+      "li",
+      "Secuencias cinemáticas con mucha personalidad y humor a lo largo de toda una historia de amistad y situaciones cómicas"
+    ],
+    [
+      "li",
+      "Sistema versátil de manipulación de criaturas y objetos"
+    ],
+    [
+      "li",
+      "Ocho niveles con diversos rompecabezas y trampas que superar"
+    ],
+    [
+      "li",
+      "Cinco criaturas únicas que otorgan a Maw cinco poderes singulares"
+    ],
+    [
+      "li",
+      "Banda sonora interactiva creada por el galardonado compositor Winifred Phillips"
+    ],
+    [
+      "li",
+      "Niveles adicionales disponibles como contenido descargable"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Microsoft® Windows® XP / Vista"
+      ],
+      [
+        "Procesador",
+        "AMD® Athlon® 64 a 2.2 GHz o equivalente"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Disco Duro",
+        "300 MB de espacio libre"
+      ],
+      [
+        "Gráficos",
+        "nVidia® GeForce® 7600 con 256 MB o equivalente (la ATI® 2400 funciona igual de bien)"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX®"
+      ],
+      [
+        "Versión de DirectX®",
+        "DirectX® 9.0c"
+      ],
+      [
+        "Controladores",
+        "Controlador de Xbox 360 y otros controladores DirectInput soportados"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Microsoft® Windows® XP / Vista"
+      ],
+      [
+        "Procesador",
+        "Intel® Pentium® Core 2 Duo a 2.2 GHz o equivalente"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Disco Duro",
+        "300 MB de espacio libre"
+      ],
+      [
+        "Gráficos",
+        "nVidia® Geforce® 8800 GT con 512 MB o equivalente (ATI® 3870 en el caso de ATI)"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX®"
+      ],
+      [
+        "Versión de DirectX®",
+        "DirectX® 9.0c"
+      ],
+      [
+        "Controladores",
+        "Controlador de Xbox 360 y otros controladores DirectInput soportados"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007433.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007433.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007434.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007434.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007435.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007435.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007436.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007436.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007437.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007437.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007438.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007438.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007439.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007439.1920x1080.jpg?t=1776350668"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007440.600x338.jpg?t=1776350668",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/26000/0000007440.1920x1080.jpg?t=1776350668"
+    }
+  ],
+  "web": "http://www.WhatIsTheMaw.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.5,
+    "cantidad": 737,
+    "escala": 5
+  },
+  "xbox": "BPXNKHZ54LGX",
+  "igdbIntentado": true,
+  "igdb": 3976,
+  "youtube": [
+    {
+      "id": "-KJbUeXmEq8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:40:13.845Z"
+}

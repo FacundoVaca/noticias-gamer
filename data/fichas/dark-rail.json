@@ -1,0 +1,252 @@
+{
+  "clave": "dark rail",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "019d3932-c3a2-7294-ab9a-1826f0c7a3b9",
+  "appid": "4553620",
+  "lanzamiento": "2026-11-18",
+  "desarrolladores": [
+    "Steam Veil Games"
+  ],
+  "editores": [
+    "JanduSoft"
+  ],
+  "etiquetas": [
+    "Resource Management",
+    "Strategy",
+    "Management",
+    "Turn-Based Strategy",
+    "Roguelite"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1587713",
+      "nombre": "Dark Rail",
+      "apps": [
+        {
+          "appid": "4553620",
+          "nombre": "Dark Rail"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 7.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4553620": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4834950",
+      "nombre": "Dark Rail Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Roguelike de gestión por turnos. Comanda la Inquisición y gobierna una ciudad industrial en el borde del imperio. Usa tu tren para cumplir cuotas de prisioneros cazando herejes y eliminando bestias mágicas. Produce recursos, controla revueltas y sacrifica prisioneros para detener la locura.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "18 NOV 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Dark Rail",
+  "acerca": [
+    [
+      "p",
+      "Roguelike de gestión por turnos. Comanda la Inquisición y gobierna una ciudad industrial en la frontera del imperio. Usa tu tren para cumplir cuotas de envío de prisioneros cazando herejes y matando bestias mágicas. Produce recursos, controla la revuelta y sacrifica prisioneros para detener la locura."
+    ],
+    [
+      "p",
+      "Envía a tus inquisidores en tren a misiones mortales para cazar herejes a través de la frontera. Estas expediciones cuestan recursos vitales, pueden aumentar la locura y la revuelta, y dejar a tus inquisidores heridos o rotos, pero son necesarias. Los envíos de prisioneros nunca deben detenerse, cueste lo que cueste."
+    ],
+    [
+      "p",
+      "Gestiona una ciudad al borde del colapso. Sube los impuestos para recaudar más, mejora el cuartel y suspende la actividad de los edificios cuando escaseen los suministros. Reparte tus escasos recursos para sofocar la Revuelta y haz sacrificios cuando aumente la Locura. Decide qué partes de la ciudad reciben los suministros que te quedan y cuáles pueden esperar un día más."
+    ],
+    [
+      "p",
+      "Entrena a tus inquisidores para que se especialicen, cuida de su salud y elige a quién enviar a cada misión. Durante las misiones, decide cómo actúan en cada encuentro y tira los dados para ver qué ocurre. Sube a tus inquisidores de nivel en el cuartel y asígnales habilidades que mejoren sus probabilidades de éxito sobre el terreno."
+    ],
+    [
+      "p",
+      "Este juego te obligará a tomar decisiones difíciles para sobrevivir. Quizá tengas que incriminar a inocentes para cumplir con las cuotas y, cuando la locura se apodere de la ciudad, sacrificar a prisioneros podría ser la única forma de mantenerla con vida."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "64-bit Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-7400 / Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1050 / Radeon RX 460"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700K / AMD Ryzen 7 3700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/afb2d6eb7cbf06c79337ef82c14462c0c025eabd/ss_afb2d6eb7cbf06c79337ef82c14462c0c025eabd.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/afb2d6eb7cbf06c79337ef82c14462c0c025eabd/ss_afb2d6eb7cbf06c79337ef82c14462c0c025eabd.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/52ca4f498d020a72734f2ac7d0e3cd9fe52bf766/ss_52ca4f498d020a72734f2ac7d0e3cd9fe52bf766.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/52ca4f498d020a72734f2ac7d0e3cd9fe52bf766/ss_52ca4f498d020a72734f2ac7d0e3cd9fe52bf766.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/03391ab8b65850940e4942edcd620f626c016a2c/ss_03391ab8b65850940e4942edcd620f626c016a2c.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/03391ab8b65850940e4942edcd620f626c016a2c/ss_03391ab8b65850940e4942edcd620f626c016a2c.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/86c5b9c0f01aacdfd8a1f2138af9f45b322d7baa/ss_86c5b9c0f01aacdfd8a1f2138af9f45b322d7baa.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/86c5b9c0f01aacdfd8a1f2138af9f45b322d7baa/ss_86c5b9c0f01aacdfd8a1f2138af9f45b322d7baa.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/11d75726f53ccdabc59583701a4b9c79b222e8db/ss_11d75726f53ccdabc59583701a4b9c79b222e8db.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/11d75726f53ccdabc59583701a4b9c79b222e8db/ss_11d75726f53ccdabc59583701a4b9c79b222e8db.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/1a83cc7d9586daa9bd7b593d275ca5aaaf457f7f/ss_1a83cc7d9586daa9bd7b593d275ca5aaaf457f7f.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/1a83cc7d9586daa9bd7b593d275ca5aaaf457f7f/ss_1a83cc7d9586daa9bd7b593d275ca5aaaf457f7f.1920x1080.jpg?t=1795017826"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/a66c3e580fb1a330ebf4c9ef314fa39ca8a4a77f/ss_a66c3e580fb1a330ebf4c9ef314fa39ca8a4a77f.600x338.jpg?t=1795017826",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4553620/a66c3e580fb1a330ebf4c9ef314fa39ca8a4a77f/ss_a66c3e580fb1a330ebf4c9ef314fa39ca8a4a77f.1920x1080.jpg?t=1795017826"
+    }
+  ],
+  "web": "https://www.jandusoft.com/darkrail/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game contains depictions of blood and moments where torture is implied and gored corpses can be seen on the background.",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.4,
+    "cantidad": 7,
+    "escala": 5
+  },
+  "xbox": "9PLX7NJFQN4B",
+  "igdbIntentado": true,
+  "igdb": 410670,
+  "youtube": [
+    {
+      "id": "rovuWnbKQ-k",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "RwRqedC8Hg4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:38:20.334Z"
+}

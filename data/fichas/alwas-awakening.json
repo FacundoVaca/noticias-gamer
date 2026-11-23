@@ -1,0 +1,281 @@
+{
+  "clave": "alwas awakening",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-05a3-72a8-8fbe-2f4aca2b23d2",
+  "appid": "549260",
+  "lanzamiento": "2017-02-02",
+  "desarrolladores": [
+    "Elden Pixels"
+  ],
+  "editores": [
+    "Elden Pixels"
+  ],
+  "etiquetas": [
+    "Metroidvania",
+    "Indie",
+    "Adventure",
+    "Pixel Graphics",
+    "Platformer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 79,
+      "cantidad": 720,
+      "url": "https://store.steampowered.com/app/549260/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 71,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/alwas-awakening/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 71,
+      "cantidad": 23,
+      "url": "https://metacritic.com/game/alwas-awakening/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 72,
+      "cantidad": 31,
+      "url": "https://opencritic.com/game/3885/alwas-awakening"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "135834",
+      "nombre": "Alwa's Awakening",
+      "apps": [
+        {
+          "appid": "549260",
+          "nombre": "Alwa's Awakening"
+        }
+      ],
+      "usd": 5.79,
+      "antes": 5.79,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "549260": {
+      "usd": 5.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "905290",
+      "nombre": "Alwa's Awakening Soundtrack (Deluxe Edition)",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Usa tu bastón mágico y avanza a través de un gran mundo interconectado donde resolverás acertijos, lucharás y vencerás a jefes para ayudar a liberar el mundo de Alwa. Usa tus habilidades en plataformas en este desafiante y encantador juego de aventuras 8-bit.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "2 FEB 2017",
+  "metacritic": {
+    "puntaje": 71,
+    "url": "https://www.metacritic.com/game/pc/alwas-awakening?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Alwa's Awakening",
+  "acerca": [
+    [
+      "p",
+      "Usa tu bastón mágico y avanza a través de un gran mundo interconectado donde resolverás acertijos, lucharás y vencerás jefes para ayudar a liberar el mundo de Alwa. Usa tus habilidades en plataformas en este desafiante y encantador juego de aventuras 8-bit."
+    ],
+    [
+      "p",
+      "Alwa’s Awakening es un juego que trata de mantenerse lo más cerca posible al auténtico aspecto 8-bit, una banda sonora llena de pegadizas melodías chiptune y mucho encanto que te llevará a la era del NES. Con controles fáciles de entender el juego es fácil de aprender pero difícil de dominar, ¡Justo como los juegos solían ser en los viejos tiempos!"
+    ],
+    [
+      "p",
+      "- Un nuevo y desafiante juego de aventura inspirado en el NES"
+    ],
+    [
+      "p",
+      "- Usa tu bastón mágico para resolver acertijos y vencer enemigos"
+    ],
+    [
+      "p",
+      "- Encuentra y abre mejoras para tus ítems y habilidades"
+    ],
+    [
+      "p",
+      "- Explora un gran mapa interconectado al verdadero estilo “metroidvania”"
+    ],
+    [
+      "p",
+      "- Escucha una completa banda sonora 8-bit con cerca de 25 pistas originales"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Subtítulos disponibles",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP, 7, 8, or 10"
+      ],
+      [
+        "Procesador",
+        "2.1 GHz Dual Core"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "280 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Yes"
+      ],
+      [
+        "Notas adicionales",
+        "Gamepad Recommended"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_be56c907987602710c4aaef8dae76bbbc2454869.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_be56c907987602710c4aaef8dae76bbbc2454869.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_f54b244b0d79bf2b8a167a73917cd14955ed0ac3.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_f54b244b0d79bf2b8a167a73917cd14955ed0ac3.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_c8cbf576c00358a5c6b1575ab8d64977e8efe6d8.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_c8cbf576c00358a5c6b1575ab8d64977e8efe6d8.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_78d871d08eed9fb2011859654355c4d2043285e0.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_78d871d08eed9fb2011859654355c4d2043285e0.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_5b99befa8fac06c877fe2ff6d7965decf36f8d7f.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_5b99befa8fac06c877fe2ff6d7965decf36f8d7f.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_c310522c8ed4e7f890e339744eab32e651aa5db8.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_c310522c8ed4e7f890e339744eab32e651aa5db8.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_906df4016ea5aee556daf0882e1db0af299da5bb.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_906df4016ea5aee556daf0882e1db0af299da5bb.1920x1080.jpg?t=1705322736"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_5d7d4a3ed317545d557e94cbc3c81ffee589e7c6.600x338.jpg?t=1705322736",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/549260/ss_5d7d4a3ed317545d557e94cbc3c81ffee589e7c6.1920x1080.jpg?t=1705322736"
+    }
+  ],
+  "web": "https://eldenpixels.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.4,
+    "cantidad": 124,
+    "escala": 5
+  },
+  "xbox": "9N4PWWSQPDCF",
+  "igdbIntentado": true,
+  "igdb": 10681,
+  "youtube": [
+    {
+      "id": "Q9PvAmtSf9c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ijP4WJjSdLg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:40:23.114Z"
+}

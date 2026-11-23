@@ -1,0 +1,256 @@
+{
+  "clave": "pico park 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0191946a-5cf4-71ca-918d-e7c67feb7020",
+  "appid": "2644470",
+  "lanzamiento": "2024-09-12",
+  "desarrolladores": [
+    "TECOPARK",
+    "Gemdrops, Inc."
+  ],
+  "editores": [
+    "TECOPARK"
+  ],
+  "etiquetas": [
+    "Casual",
+    "Multiplayer",
+    "Online Co-Op",
+    "Co-op",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 4109,
+      "url": "https://store.steampowered.com/app/2644470/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 18,
+      "url": "https://metacritic.com/game/pico-park-2/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "948025",
+      "nombre": "PICO PARK 2",
+      "apps": [
+        {
+          "appid": "2644470",
+          "nombre": "PICO PARK 2"
+        }
+      ],
+      "usd": 3.49,
+      "antes": 4.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "2644470": {
+      "usd": 3.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3228750",
+      "nombre": "PICO PARK 2 Soundtrack",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 30
+    }
+  ],
+  "descripcion": "¡Vuelve PICO PARK con niveles completamente nuevos! ¡Sumérgete en este juego cooperativo de 2-8 jugadores, de rompecabezas y acción, que podrás jugar en modo local u online!",
+  "generos": [
+    "Acción",
+    "Casual"
+  ],
+  "lanzamientoTexto": "12 SEP 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "PICO PARK 2",
+  "acerca": [
+    [
+      "p",
+      "* Al jugar con 2 jugadores y un teclado, puede que tengas que usar la tecla Ctrl de la derecha. Si tu teclado no tiene esa tecla, cambia los ajustes de teclado en la pantalla CONFIG. TECLADO en el menú de AJUSTES."
+    ],
+    [
+      "p",
+      "¡PICO PARK 2 es un juego de rompecabezas y acción en 2D en el que trabajar en equipo es vital! ¡Y ojo, porque hemos vuelto con más niveles que en la entrega anterior!"
+    ],
+    [
+      "p",
+      "Como siempre, podrás jugar con amigos en modo local u online con un mínimo de dos jugadores y un máximo de ocho. ¡Todos los niveles pueden jugarse sin importar el número de jugadores que haya, así que aventúrate con tus amigos y pásatelos todos!"
+    ],
+    [
+      "p",
+      "¡El juego online incluye también un sistema multiplataforma para que puedas jugar desde cualquier dispositivo! Además, hasta siete jugadores pueden unirse en línea con una dispositivo.."
+    ],
+    [
+      "p",
+      "¡Además de los modos MUNDO, INFINITO y BATALLA, encontrarás el ligeramente injusto y digamos que más difícil modo OSCURO! ¡Salta, planifica y sumérgete en el novísimo y original PICO PARK 2!"
+    ],
+    [
+      "p",
+      "[TecoGamePad]"
+    ],
+    [
+      "p",
+      "Usa tu smartphone de mando con TecoGamePad. Puedes descargarla en App Store y Google Play."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Compat. parcial con mando",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10, 64-bit / Windows 11, 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10, 64-bit / Windows 11, 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_d25ef9f4153bbd0c2d936fe8eb9de3d2e48a6944.600x338.jpg?t=1760143639",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_d25ef9f4153bbd0c2d936fe8eb9de3d2e48a6944.1920x1080.jpg?t=1760143639"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_10728aee7041fe5b5996040be91b1f86ebdea231.600x338.jpg?t=1760143639",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_10728aee7041fe5b5996040be91b1f86ebdea231.1920x1080.jpg?t=1760143639"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_6f90ecb51a4e152d8e0f350e98400c6ab526bc23.600x338.jpg?t=1760143639",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_6f90ecb51a4e152d8e0f350e98400c6ab526bc23.1920x1080.jpg?t=1760143639"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_f387564a815150110661d34f214962955c5001be.600x338.jpg?t=1760143639",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_f387564a815150110661d34f214962955c5001be.1920x1080.jpg?t=1760143639"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_cba4e50a6b542ab75234261697f800071cc162d1.600x338.jpg?t=1760143639",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2644470/ss_cba4e50a6b542ab75234261697f800071cc162d1.1920x1080.jpg?t=1760143639"
+    }
+  ],
+  "web": "https://picoparkgame.com/en/pp2/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 314933,
+  "youtube": [
+    {
+      "id": "4NDye1CEIo8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:54.338Z"
+}

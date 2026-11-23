@@ -1,0 +1,314 @@
+{
+  "clave": "alan wakes american nightmare",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-13b0-73ee-9ed6-3338de4c255b",
+  "appid": "202750",
+  "lanzamiento": "2012-05-22",
+  "desarrolladores": [
+    "Remedy Entertainment"
+  ],
+  "editores": [
+    "THQ Nordic",
+    "THQ Nordic GmbH",
+    "Remedy Entertainment",
+    "680"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Third Person",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 8468,
+      "url": "https://store.steampowered.com/app/202750/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 73,
+      "cantidad": 15,
+      "url": "https://metacritic.com/game/alan-wakes-american-nightmare/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 321,
+      "url": "https://metacritic.com/game/alan-wakes-american-nightmare/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "14562",
+      "nombre": "Alan Wake's American Nightmare ",
+      "apps": [
+        {
+          "appid": "202750",
+          "nombre": "Alan Wake's American Nightmare"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "15407",
+      "nombre": "Alan Wake Origins Bundle",
+      "apps": [
+        {
+          "appid": "108710",
+          "nombre": "Alan Wake"
+        },
+        {
+          "appid": "108726",
+          "nombre": "Alan Wake Collector's Edition Extras"
+        },
+        {
+          "appid": "202750",
+          "nombre": "Alan Wake's American Nightmare"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "108710": {
+      "usd": 7.99,
+      "gratis": false
+    },
+    "108726": {
+      "usd": 5.79,
+      "gratis": false
+    },
+    "202750": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Una emocionante historia, espeluznantes enemigos, potencia de fuego y hermosas localizaciones en Arizona, todo combinado con un divertido y desafiante nuevo modo de juego!",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "22 MAY 2012",
+  "metacritic": {
+    "puntaje": 73,
+    "url": "https://www.metacritic.com/game/pc/alan-wakes-american-nightmare?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Alan Wake's American Nightmare",
+  "acerca": [
+    [
+      "p",
+      "¡En esta nueva aventura independiente, Alan Wake lucha contra el heraldo de la oscuridad, el malvado Sr. Chirridos! Una historia emocionante, hordas de espeluznantes enemigos, considerable potencia de fuego y hermosas localizaciones en Arizona, todo ello combinado con un divertido y desafiante nuevo modo de juego, convierten a este título en un imprescindible para los veteranos de la saga y en un punto de partida perfecto para los nuevos jugadores."
+    ],
+    [
+      "h",
+      "Características principales:"
+    ],
+    [
+      "li",
+      "Juega un modo historia en toda regla: que te tendrá sentado al borde de la silla mientras luchas por detener a tu homicida y malvado doble para recuperar tu vida... ¡y cambiar la realidad misma!"
+    ],
+    [
+      "li",
+      "Lucha hasta el amanecer: en un modo arcade cargado de acción, tendrás que dominar la mecánica de Combate con Luz para seguir vivo hasta el amanecer y derrotar a tus amigos en las tablas de clasificación. ¿Serás capaz de sobrevivir hasta que salga el sol?"
+    ],
+    [
+      "li",
+      "Enfréntate a la oscuridad: retorcidos y peligrosos enemigos te acechan desde las sombras. Acaba con ellos con el poderoso arsenal de armas a tu disposición."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Compat. total con mando",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows XP SP2"
+      ],
+      [
+        "Procesador",
+        "Dual Core Intel a 2 GHz o AMD a 2.8 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Gráfica con 512 MB de VRAM y compatible con DirectX 10"
+      ],
+      [
+        "Versión de DirectX®",
+        "10"
+      ],
+      [
+        "Disco Duro",
+        "8 GB de espacio libre"
+      ],
+      [
+        "Sonido",
+        "Dispositivo compatible con DirectX 9.0c"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Quad Core a 2.66 GHz o AMD a 3.2 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Gráfica con 1 GB de VRAM y compatible con DirectX 10 posterior"
+      ],
+      [
+        "Versión de DirectX®",
+        "10"
+      ],
+      [
+        "Disco Duro",
+        "8 GB de espacio libre"
+      ],
+      [
+        "Sonido",
+        "Dispositivo compatible con DirectX 9.0c"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_948ea8787e81cddddbbfa39eb7b372302aa2e30d.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_948ea8787e81cddddbbfa39eb7b372302aa2e30d.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_682869fef2289ee0554c0ce1695190cc06bfa3f9.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_682869fef2289ee0554c0ce1695190cc06bfa3f9.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_14e9166e9dbb24f91bf5c461c7351da5bb967081.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_14e9166e9dbb24f91bf5c461c7351da5bb967081.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_29fc81b65a7dcf87436047e2930b86f52b57ca2c.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_29fc81b65a7dcf87436047e2930b86f52b57ca2c.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_8cbd3122a7af037b926b232ddc10884fe1238cde.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_8cbd3122a7af037b926b232ddc10884fe1238cde.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_9f4fd79dd7ba73eb631d88898253283f636a6cea.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_9f4fd79dd7ba73eb631d88898253283f636a6cea.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_962fc4388cb9d6372fcabbacfd85ae5d5c796a19.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_962fc4388cb9d6372fcabbacfd85ae5d5c796a19.1920x1080.jpg?t=1769717428"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_908f3e7d2c37d170459aa6b4cc061454b99892a2.600x338.jpg?t=1769717428",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202750/ss_908f3e7d2c37d170459aa6b4cc061454b99892a2.1920x1080.jpg?t=1769717428"
+    }
+  ],
+  "web": "http://www.alanwake.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.3,
+    "cantidad": 1906,
+    "escala": 5
+  },
+  "xbox": "BW08NW03FX4R",
+  "igdbIntentado": true,
+  "igdb": 2602,
+  "youtube": [
+    {
+      "id": "Dg02_suSIAQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VfY_7gahx5g",
+      "nombre": "VGA 2011 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:39:58.323Z"
+}

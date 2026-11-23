@@ -1,0 +1,247 @@
+{
+  "clave": "1971 project helios",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-387a-72e1-8ea3-edd87fe5e130",
+  "appid": "1186630",
+  "lanzamiento": "2020-06-09",
+  "desarrolladores": [
+    "RecoTechnology",
+    "Recotechnology S.L."
+  ],
+  "editores": [
+    "RecoTechnology",
+    "Recotechnology S.L."
+  ],
+  "etiquetas": [
+    "Indie",
+    "Strategy",
+    "Tactical",
+    "Post-apocalyptic",
+    "Alternate History"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 33,
+      "cantidad": 15,
+      "url": "https://store.steampowered.com/app/1186630/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/1971-project-helios/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 49,
+      "cantidad": 11,
+      "url": "https://opencritic.com/game/9614/1971-project-helios"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "408197",
+      "nombre": "1971 PROJECT HELIOS",
+      "apps": [
+        {
+          "appid": "1186630",
+          "nombre": "1971 PROJECT HELIOS"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 11.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1186630": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "1971 Project Helios es un juego de estrategia por turnos que combina tácticas militares modernas con combate cuerpo a cuerpo. Las armas de fuego y los vehículos escasean, los combates y las hostilidades no tienen fin y un frío terrible aniquila a su paso amigos y enemigos.",
+  "generos": [
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "9 JUN 2020",
+  "metacritic": null,
+  "nombreSteam": "1971 PROJECT HELIOS",
+  "acerca": [
+    [
+      "p",
+      "1971 Project Helios es un juego de estrategia por turnos que combina tácticas militares modernas con combate cuerpo a cuerpo. Las armas de fuego y los vehículos escasean, los combates y las hostilidades no tienen fin y un frío terrible aniquila a su paso amigos y enemigos."
+    ],
+    [
+      "p",
+      "Ocho personajes deben unirse por una causa común: encontrar a una importante científica secuestrada por una poderosa sociedad militarizada. En su camino deberán evitar bandidos, investigar enclaves militares, e infiltrarse en el territorio de peligrosa secta ultra-religiosa que reniega de la tecnología."
+    ],
+    [
+      "li",
+      "Combate Táctico . Lucha contra tres facciones diferentes, cada una con sus propias unidades, estrategia y ventajas. Soldados, francotiradores, bandidos escurridizos, caballeros inmunes al frío… ¡Estudia a tus enemigos, planea cada movimiento y adáptate a todos los enfrentamientos!"
+    ],
+    [
+      "li",
+      "Exploración . Viaja a través de varias localizaciones, desde enclaves militares hasta mazmorras medievales. Allí puedes buscar fulgor, nuevo equipamiento para tus personajes, y fragmentos de información acerca del mundo en el que te encuentras y las facciones a las que te enfrentas."
+    ],
+    [
+      "li",
+      "Árboles de Habilidades . A medida que encuentres equipamiento compatible con cada personaje, puedes desbloquear y mejorar nuevas habilidades, y combinarlas para crear las builds perfectas para tu estrategia."
+    ],
+    [
+      "li",
+      "Gestión de Recursos . Usa todo el fulgor que puedas encontrar para descongelar tu HP, disminuir los cooldowns, y reanimar a tus unidades caídas."
+    ],
+    [
+      "p",
+      "La campaña tiene lugar en un mundo helado, en el cual ocho personajes - cada uno con sus propios problemas e intereses - se unen en una suerte de alianza temporal, para encontrar a una persona concreta: la Doctora Margaret Blythe. Siguiendo su rastro, deberán viajar y luchar codo con codo, llegando inevitablemente a conocerse más entre ellos. Dependiendo de ciertas decisiones estratégicas y personales, guiarás a estos personajes hasta uno de los tres posibles finales."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 / 8 / 10 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-760 / AMD Phenom II X4 965"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GTX 580 / AMD Radeon HD 7870"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 / 8 / 10 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K/ AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 970 or higher / AMD Radeon RX 480 or higher"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_4e632885edaabd21d6d564f1114659598ec7f04d.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_4e632885edaabd21d6d564f1114659598ec7f04d.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_b3fda53ec8ef246fc4420225faec4829075705a9.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_b3fda53ec8ef246fc4420225faec4829075705a9.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_c8b4bdf791e3267897620f06d078df62337cf8f1.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_c8b4bdf791e3267897620f06d078df62337cf8f1.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_5522dd742f026083ded68b1c69a09583fed637b5.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_5522dd742f026083ded68b1c69a09583fed637b5.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_33a7b420cbf642b758a0d731a9973eb91cf57d18.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_33a7b420cbf642b758a0d731a9973eb91cf57d18.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_597364f80dd82678a2671fd8eb056a7d7b2acba3.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_597364f80dd82678a2671fd8eb056a7d7b2acba3.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_58cd771ad80f655d1eeda8f55fec466785ea306c.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_58cd771ad80f655d1eeda8f55fec466785ea306c.1920x1080.jpg?t=1667217295"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_45b5d90af93c00229278cbefd956e9861d31ccd8.600x338.jpg?t=1667217295",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186630/ss_45b5d90af93c00229278cbefd956e9861d31ccd8.1920x1080.jpg?t=1667217295"
+    }
+  ],
+  "web": "http://recotech.es/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.7,
+    "cantidad": 61,
+    "escala": 5
+  },
+  "xbox": "9NSGCW16VFPH",
+  "igdbIntentado": true,
+  "igdb": 124919,
+  "youtube": [
+    {
+      "id": "g49nNmUXePM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7MnLGesdS8U",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:34:50.483Z"
+}

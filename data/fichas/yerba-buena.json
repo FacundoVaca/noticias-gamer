@@ -1,0 +1,325 @@
+{
+  "clave": "yerba buena",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-7ae5-716a-934d-fc5e34a3edbc",
+  "appid": "2330110",
+  "lanzamiento": "2026-05-26",
+  "desarrolladores": [
+    "Mad About Pandas"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "First-Person",
+    "Puzzle Platformer",
+    "Singleplayer",
+    "Puzzle",
+    "Physics"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 68,
+      "cantidad": 22,
+      "url": "https://store.steampowered.com/app/2330110/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 65,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/yerba-buena/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 68,
+      "cantidad": 23,
+      "url": "https://opencritic.com/game/20411/yerba-buena"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "836903",
+      "nombre": "Yerba Buena",
+      "apps": [
+        {
+          "appid": "2330110",
+          "nombre": "Yerba Buena"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2330110": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Sumérgete en un mundo de juego surrealista de los 70 y salva San Francisco de una siniestra amenaza. Ponte en la piel de Barb y captura y reutiliza los rasgos físicos de los objetos con el Oscilador para resolver puzles de plataformas intrincados.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "26 MAY 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Yerba Buena",
+  "acerca": [
+    [
+      "p",
+      "Ponte en la piel de Barb, una joven PNJ en un mundo de videojuego abandonado, y vive una aventura de plataformas rocambolescas. Un siniestro complot amenaza tu querida San Francisco, y solo tú puedes salvarla gracias a un dispositivo misterioso y poderoso: el Oscilador."
+    ],
+    [
+      "p",
+      "Domina una mecánica de «copia y pega» rompedora y reutiliza el movimiento y los rasgos físicos de los objetos en otros para manipular el mundo del juego. Haz que una mesa rebote como una cama elástica, envía edificios enteros a la otra punta de la ciudad o haz desaparecer muros macizos como si nada."
+    ],
+    [
+      "p",
+      "Sumérgete en un mundo de videojuego original ambientado en la San Francisco de la década de los 70 y salva tu ciudad de la codicia y la destrucción. Usa el Oscilador para resolver rompecabezas ingeniosos, persigue a una banda de moteros con superpoderes y descubre el origen del misterioso <i>Glitch</i> que amenaza San Francisco."
+    ],
+    [
+      "p",
+      "Ponte en la piel de Barb, una joven que lucha por encontrar su camino en la San Francisco de los 70. Conviértete en la protagonista que no estabas destinada a ser con la ayuda de tus amigos Russell, Wanda y Jorge, y de unos aliados inesperados..."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600 / Intel Core i5-8400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 580 / Nvidia GeForce GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "9 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required. 30 FPS in 1920x1080 with \"Low\" preset."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600X / Intel Core i5-12400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 7600 XT / Nvidia GeForce RTX 3060"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "9 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required. 60 FPS in 1920x1080 with \"High\" preset."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/af6ae462babf8e914f937ea50209d66d2fda55e3/ss_af6ae462babf8e914f937ea50209d66d2fda55e3.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/af6ae462babf8e914f937ea50209d66d2fda55e3/ss_af6ae462babf8e914f937ea50209d66d2fda55e3.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/24152113503ab671f5cded452c1d84642f83ba3d/ss_24152113503ab671f5cded452c1d84642f83ba3d.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/24152113503ab671f5cded452c1d84642f83ba3d/ss_24152113503ab671f5cded452c1d84642f83ba3d.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/b8a9aae4599bf1b94eb6fd0050103fb890200353/ss_b8a9aae4599bf1b94eb6fd0050103fb890200353.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/b8a9aae4599bf1b94eb6fd0050103fb890200353/ss_b8a9aae4599bf1b94eb6fd0050103fb890200353.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/b46d59e94a2708c3e5f065f874741ef2880ceeda/ss_b46d59e94a2708c3e5f065f874741ef2880ceeda.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/b46d59e94a2708c3e5f065f874741ef2880ceeda/ss_b46d59e94a2708c3e5f065f874741ef2880ceeda.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/193c0988682b8834cc6af8ec8331849466982e60/ss_193c0988682b8834cc6af8ec8331849466982e60.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/193c0988682b8834cc6af8ec8331849466982e60/ss_193c0988682b8834cc6af8ec8331849466982e60.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/0ed38dd47f93b64310bc58c6181eb0ef6abe391d/ss_0ed38dd47f93b64310bc58c6181eb0ef6abe391d.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/0ed38dd47f93b64310bc58c6181eb0ef6abe391d/ss_0ed38dd47f93b64310bc58c6181eb0ef6abe391d.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/d6c2e84658d7bb81b8a450da6b6adc6b5075c094/ss_d6c2e84658d7bb81b8a450da6b6adc6b5075c094.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/d6c2e84658d7bb81b8a450da6b6adc6b5075c094/ss_d6c2e84658d7bb81b8a450da6b6adc6b5075c094.1920x1080.jpg?t=1784712333"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/f693f8477f11f2765a7a86d0476378d2efd3a209/ss_f693f8477f11f2765a7a86d0476378d2efd3a209.600x338.jpg?t=1784712333",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330110/f693f8477f11f2765a7a86d0476378d2efd3a209/ss_f693f8477f11f2765a7a86d0476378d2efd3a209.1920x1080.jpg?t=1784712333"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/yerba-buena",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.2,
+    "cantidad": 11,
+    "escala": 5
+  },
+  "xbox": "9NS2M6Z9RNRT",
+  "igdbIntentado": true,
+  "igdb": 249016,
+  "youtube": [
+    {
+      "id": "hK-NqsLYN3g",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "P-nMWLPu0qw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "jvZX_hSqTi4",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:37:23.375Z"
+}

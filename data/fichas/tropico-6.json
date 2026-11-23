@@ -1,0 +1,433 @@
+{
+  "clave": "tropico 6",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1cd5-7291-b6b7-afc302945dbb",
+  "appid": "492720",
+  "lanzamiento": "2019-01-25",
+  "desarrolladores": [
+    "Limbic Entertainment GmbH",
+    "Limbic Entertainment",
+    "Realmforge Studios"
+  ],
+  "editores": [
+    "Kalypso Media",
+    "Kalypso",
+    "Kalypso Media UK. Ltd",
+    "Kalypso Media UK Ltd",
+    "Kalypso Media Group GmbH",
+    "Kalypso Media Digital",
+    "Kaypso Media Digital"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Strategy",
+    "Simulation",
+    "Economy",
+    "Management"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 20030,
+      "url": "https://store.steampowered.com/app/492720/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 62,
+      "url": "https://metacritic.com/game/tropico-6/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 247,
+      "url": "https://metacritic.com/game/tropico-6/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 85,
+      "url": "https://opencritic.com/game/7015/tropico-6"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "309466",
+      "nombre": "Tropico 6 - El Prez Edition",
+      "apps": [
+        {
+          "appid": "492720",
+          "nombre": "Tropico 6"
+        },
+        {
+          "appid": "881960",
+          "nombre": "Tropico 6 - El Prez Edition Upgrade"
+        },
+        {
+          "appid": "1224940",
+          "nombre": "Tropico 6 - Original Soundtrack"
+        }
+      ],
+      "usd": 11.24,
+      "antes": 44.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "309467",
+      "nombre": "Tropico 6",
+      "apps": [
+        {
+          "appid": "492720",
+          "nombre": "Tropico 6"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "492720": {
+      "usd": 11.24,
+      "gratis": false
+    },
+    "881960": {
+      "usd": 7.99,
+      "gratis": false
+    },
+    "1224940": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 11,
+  "dlcLista": [
+    {
+      "appid": "3391380",
+      "nombre": "Tropico 6 - Return to Nature",
+      "gratis": false,
+      "usd": 12.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2938080",
+      "nombre": "Tropico 6 - Tropican Shores",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2594010",
+      "nombre": "Tropico 6 - Going Viral",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2186250",
+      "nombre": "Tropico 6 - New Frontiers",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1631380",
+      "nombre": "Tropico 6 - Festival",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1449310",
+      "nombre": "Tropico 6 - Caribbean Skies",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1282350",
+      "nombre": "Tropico 6 - Lobbyistico",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1259750",
+      "nombre": "Tropico 6 - Spitter",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1100250",
+      "nombre": "Tropico 6 - The Llama of Wall Street",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "881960",
+      "nombre": "Tropico 6 - El Prez Edition Upgrade",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1224940",
+      "nombre": "Tropico 6 - Original Soundtrack",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡El Presidente ha vuelto! Demuestra una vez más tu valía como temible dictador u hombre de estado pacifista en la isla de Tropico y erige el futuro de tu nación durante cuatro eras emblemáticas.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "29 MAR 2019",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/tropico-6?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Tropico 6",
+  "acerca": [
+    [
+      "p",
+      "¡El Presidente ha vuelto!"
+    ],
+    [
+      "p",
+      "En tiempos de agitación política y malestar social, los ciudadanos necesitan líderes visionarios que dirijan el destino de su país con diligencia e ingenio. Demuestra una vez más tu valía como temible dictador u hombre de estado pacifista en la isla de Tropico y erige el futuro de tu nación durante cuatro eras emblemáticas. Enfréntate a nuevos retos a nivel internacional y ten siempre en cuenta las necesidades de tu pueblo."
+    ],
+    [
+      "p",
+      "Por primera vez en esta saga, podrás gobernar grandes archipiélagos, construir puentes para conectar tus islas y utilizar nuevos medios de transporte e infraestructuras. Envía hordas de tropicanos a robar las maravillas del mundo, la Estatua de la Libertad y la Torre Eiffel incluidas. Decora tu palacio a tu gusto y pronuncia discursos electorales desde el balcón para ganarte el apoyo de tus súbditos."
+    ],
+    [
+      "p",
+      "Por primera vez en esta saga, podrás jugar en enormes archipiélagos . Gobierna varias islas a la vez y enfréntate a los nuevos retos."
+    ],
+    [
+      "p",
+      "Envía a tus agentes a tierras extranjeras para robar las maravillas del mundo y otros monumentos para tu colección."
+    ],
+    [
+      "p",
+      "Levanta puentes , construye túneles y transporta a tus ciudadanos y turistas en taxis , autobuses y teleféricos . Tropico 6 ofrece medios de transporte e infraestructuras completamente nuevas."
+    ],
+    [
+      "p",
+      "Personaliza tu palacio y escoge entre todos los extras disponibles."
+    ],
+    [
+      "p",
+      "Tropico 6 incluye un sistema de investigación revisado que se centra en los aspectos políticos de ser el mayor dictador del mundo."
+    ],
+    [
+      "p",
+      "¡Vuelven los discursos electorales ! Dirígete a los ciudadanos y haz promesas que no podrás cumplir."
+    ],
+    [
+      "p",
+      "Tropico 6 presenta multijugador para hasta 4 jugadores ."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD or Intel, 3 GHz (AMD A10 7850K, Intel i3-2000)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD/NVIDIA dedicated GPU, 2GB dedicated VRAM (Radeon HD 7870, Geforce GTX 750)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD or Intel, 3.3 GHz (AMD FX 8300, Intel i5 3000)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD/NVIDIA dedicated GPU, 4GB dedicated VRAM (Radeon R9 380, Geforce GTX 960)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_b42df2bcf6dfa639490169474181bec8f2929b27.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_b42df2bcf6dfa639490169474181bec8f2929b27.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_436ad59ec875edddf5db2a255189eed6dba3bf3f.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_436ad59ec875edddf5db2a255189eed6dba3bf3f.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_0549f2698a70ac1136e6e59eacb261aeaf5054f0.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_0549f2698a70ac1136e6e59eacb261aeaf5054f0.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_4d93898fe41ee43b1f25bd24d0711226c283afd0.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_4d93898fe41ee43b1f25bd24d0711226c283afd0.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_d5a58d25a040b0b4d008ec3a39f10484fe7e1c66.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_d5a58d25a040b0b4d008ec3a39f10484fe7e1c66.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_c16410e4fd74ef21eeb2b689240d0ab879b9144a.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_c16410e4fd74ef21eeb2b689240d0ab879b9144a.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_435ee50f438d0bdabc99039c2cb113d1f869c2ab.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_435ee50f438d0bdabc99039c2cb113d1f869c2ab.1920x1080.jpg?t=1755702256"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_142c569b3e22c6c348e069e7ddb76485a9f191f5.600x338.jpg?t=1755702256",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492720/ss_142c569b3e22c6c348e069e7ddb76485a9f191f5.1920x1080.jpg?t=1755702256"
+    }
+  ],
+  "web": "http://www.worldoftropico.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 36649,
+  "youtube": [
+    {
+      "id": "mAe2YAaJLHY",
+      "nombre": "E3 2017 Announcement Trailer"
+    },
+    {
+      "id": "BxatJ798PSA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "c-4y1iTDMuE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "X6Kmi8DYl0o",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:22.613Z"
+}

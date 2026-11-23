@@ -1,0 +1,344 @@
+{
+  "clave": "echoes of aincrad ultimate edition",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "019cc040-a7a5-73ca-993a-6e70fdeae30d",
+  "appid": "2244210",
+  "lanzamiento": "2026-07-09",
+  "desarrolladores": [
+    "Game Studio Inc."
+  ],
+  "editores": [
+    "Game Studio Inc.",
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco US",
+    "Bandai Namco Entertainment Inc.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Anime",
+    "Singleplayer",
+    "JRPG",
+    "Action RPG",
+    "Souls-like"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 47,
+      "cantidad": 4238,
+      "url": "https://store.steampowered.com/app/2244210/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "804660",
+      "nombre": "Echoes of Aincrad",
+      "apps": [
+        {
+          "appid": "2244210",
+          "nombre": "Echoes of Aincrad"
+        }
+      ],
+      "usd": 55.99,
+      "antes": 55.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1531723",
+      "nombre": "Echoes of Aincrad Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2244210",
+          "nombre": "Echoes of Aincrad"
+        }
+      ],
+      "usd": 71.99,
+      "antes": 71.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1531725",
+      "nombre": "Echoes of Aincrad Ultimate Edition",
+      "apps": [
+        {
+          "appid": "2244210",
+          "nombre": "Echoes of Aincrad"
+        }
+      ],
+      "usd": 87.99,
+      "antes": 87.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2244210": {
+      "usd": 55.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4337740",
+      "nombre": "Ecos de Aincrad - Paquete de expansión",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4337770",
+      "nombre": "Echoes of Aincrad - Paquete de mejora supremo",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4249250",
+      "nombre": "Ecos de Aincrad - Paquete de armas: serie prototipo Elucidator",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Entra en Aincrad, un mundo de belleza y peligro en el que cada batalla podría ser la última. Crea a tu héroe, escoge tu equipo y domina el combate construyendo un vínculo con tu compañero, subiendo de nivel y desbloqueando habilidades especiales para expandir tus horizontes.",
+  "generos": [
+    "Acción",
+    "Rol"
+  ],
+  "lanzamientoTexto": "9 JUL 2026",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Echoes of Aincrad",
+  "acerca": [
+    [
+      "p",
+      "Entra en el castillo flotante de Aincrad, un mundo de belleza imponente y peligro mortal en el que cada batalla podría ser la última. Adéntrate en un mundo misterioso y vibrante y dale forma a tu destino. Crea a tu héroe, escoge tu equipo y domina el combate gracias a tus habilidades especiales y reflejos. Construye un vínculo con un compañero a tu elección, sube de nivel y desbloquea poderosas habilidades mientras expandes tus horizontes con cada victoria."
+    ],
+    [
+      "p",
+      "¿Te alzarás y aceptarás tu destino o caerás ante enemigos más fuertes de lo que imaginabas?"
+    ],
+    [
+      "p",
+      "No es solo un juego, es una batalla por la supervivencia. ¡Coge un arma, dale forma a tu leyenda y adéntrate en una aventura en la que arriesgarás tu realidad!"
+    ],
+    [
+      "p",
+      "Vive esta aventura JRPG de primera mano, diseñando y personalizando tu propio avatar para crear a un héroe que refleje tu visión. Esta es tu identidad, tu leyenda y tu oportunidad de dejar huella en un mundo en el que la supervivencia lo es todo."
+    ],
+    [
+      "p",
+      "Dale forma a tu aventura y determina tu destino adaptando el equipo, armas, estadísticas, compañero y habilidades especiales para reflejar tus preferencias: la velocidad, la inteligencia o la resistencia. Consigue más fuerza al subir de nivel. Crecer es esencial para sobrevivir. Profundiza el vínculo con tu compañero, adapta sus tácticas y sus habilidades para crear una dinámica de equipo que convierta cada combate en una victoria."
+    ],
+    [
+      "p",
+      "Pasea por distintas ciudades y viaja en entornos asombrosos, desde llanuras serenas a peligrosas mazmorras plagadas de secretos. Completa misiones, da caza a tesoros raros y desafía a enemigos formidables en un combate lleno de acción en tiempo real. El mapa se expande con el desarrollo de tu historia, revelando nuevas zonas y peligros en cada esquina."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700K / AMD Ryzen 3 3300X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 2060 [6GB] / AMD Radeon RX 5700 [8GB] / Intel Arc B580 [12GB]"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "*SSD is required. The “Performance mode” game setting enables gameplay at 1080p/60fps. 1080p/30fps gameplay is possible with the Intel Core i5-8400 or the AMD Ryzen 3 3300X CPUs and the Nvidia GeForce GTX 1060 [6GB], AMD Radeon RX Vega 56 [8GB] or Intel Arc A750 [8GB] GPUs."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700K / AMD Ryzen 5 5600G"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 2070 [8GB] / AMD Radeon RX 6700XT [12GB]"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "*SSD is required. The \"Balanced mode\" game setting enables gameplay at 1080p/60fps. To play at 1080p/60fps in the “Quality mode” game setting, the Intel Core i7-10700K or the AMD Ryzen 5 5600G CPUs and the Nvidia GeForce RTX 3060Ti [8GB] orAMD Radeon RX 6800 [16GB] GPUs are recommended."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/4e631acbbd04158ff72f0c727ed3ac5b8c030ffc/ss_4e631acbbd04158ff72f0c727ed3ac5b8c030ffc.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/4e631acbbd04158ff72f0c727ed3ac5b8c030ffc/ss_4e631acbbd04158ff72f0c727ed3ac5b8c030ffc.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/84aae791793dca0e234ed509e64c6ed4759ccd76/ss_84aae791793dca0e234ed509e64c6ed4759ccd76.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/84aae791793dca0e234ed509e64c6ed4759ccd76/ss_84aae791793dca0e234ed509e64c6ed4759ccd76.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/6e1a35fbd3758c1c550c329de77a56c5d968ae37/ss_6e1a35fbd3758c1c550c329de77a56c5d968ae37.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/6e1a35fbd3758c1c550c329de77a56c5d968ae37/ss_6e1a35fbd3758c1c550c329de77a56c5d968ae37.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/094cc9c485a5f589375c1181d651788d064033fa/ss_094cc9c485a5f589375c1181d651788d064033fa.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/094cc9c485a5f589375c1181d651788d064033fa/ss_094cc9c485a5f589375c1181d651788d064033fa.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/9a1098b7fceee634f6f8e7b0c7a2eba30050a412/ss_9a1098b7fceee634f6f8e7b0c7a2eba30050a412.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/9a1098b7fceee634f6f8e7b0c7a2eba30050a412/ss_9a1098b7fceee634f6f8e7b0c7a2eba30050a412.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/cf1cc71535a115755a8c7499886bef6b8a2570d2/ss_cf1cc71535a115755a8c7499886bef6b8a2570d2.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/cf1cc71535a115755a8c7499886bef6b8a2570d2/ss_cf1cc71535a115755a8c7499886bef6b8a2570d2.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/6d4b4465be0dba89f1813212da0ecfa5d1c9a557/ss_6d4b4465be0dba89f1813212da0ecfa5d1c9a557.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/6d4b4465be0dba89f1813212da0ecfa5d1c9a557/ss_6d4b4465be0dba89f1813212da0ecfa5d1c9a557.1920x1080.jpg?t=1791165838"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/0fe4e667de7039ad889dc8924c17370991fb24a1/ss_0fe4e667de7039ad889dc8924c17370991fb24a1.600x338.jpg?t=1791165838",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/0fe4e667de7039ad889dc8924c17370991fb24a1/ss_0fe4e667de7039ad889dc8924c17370991fb24a1.1920x1080.jpg?t=1791165838"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game contains: Blood, Violence, references to Alcohol, and use of language.",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.1,
+    "cantidad": 11,
+    "escala": 5
+  },
+  "xbox": "9NVV6X9LK06Q",
+  "igdbIntentado": true,
+  "igdb": 393932,
+  "youtube": [
+    {
+      "id": "JXZUqTlirQM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "U5IUKHX0cSA",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:41:43.066Z"
+}

@@ -1,0 +1,260 @@
+{
+  "clave": "xeno crisis",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-3600-72e8-956d-09940e027bb1",
+  "appid": "464260",
+  "lanzamiento": "2019-10-28",
+  "desarrolladores": [
+    "Bitmap Bureau"
+  ],
+  "editores": [
+    "Bitmap Bureau Ltd.",
+    "Bitmap Bureau"
+  ],
+  "etiquetas": [
+    "Action",
+    "Pixel Graphics",
+    "Top-Down Shooter",
+    "Twin Stick Shooter",
+    "2D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 200,
+      "url": "https://store.steampowered.com/app/464260/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/xeno-crisis/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 66,
+      "cantidad": 3,
+      "url": "https://opencritic.com/game/8556/xeno-crisis"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "101739",
+      "nombre": "Xeno Crisis",
+      "apps": [
+        {
+          "appid": "464260",
+          "nombre": "Xeno Crisis"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "464260": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Xeno Crisis es un juego de disparos en el que hasta dos jugadores entran en un puesto de investigación devastado para enfrentar una amenaza alienígena y salir con vida! Corre y avanza disparando a través de miles de adversarios mientras buscas la fuente del mortal brote alienígena.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "28 OCT 2019",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Xeno Crisis",
+  "acerca": [
+    [
+      "p",
+      "¡Xeno Crisis es un arena shooter en el que uno o dos jugadores toman el control de marines curtidos en batalla embarcados en una misión mortífera para luchar contra una amenaza alienígena y volver con vida a casa! Corre y dispara a través de miles de enemigos mientras exploras el devastado puesto de investigación en busca de supervivientes para enfrentarte finalmente al origen de la desaparición del puesto."
+    ],
+    [
+      "p",
+      "Puesto 88 se divide en siete áreas distintas, cada una generada aleatoriamente en cada partida, lo que significa que tu estrategia debe desarrollarse sobre la marcha si quieres tener éxito en tu misión. Recoge las chapas de identificación de los enemigos derrotados para mejorar tu equipamiento entre áreas y busca armas especiales que te darán una ventaja temporal."
+    ],
+    [
+      "p",
+      "* Una conversión fiel del exitoso juego de 16 bits con extras adicionales."
+    ],
+    [
+      "p",
+      "* Increíbles gráficos retro del legendario artista del píxel, Henk Nieborg."
+    ],
+    [
+      "p",
+      "* ¡Intensa banda sonora chiptune FM de Savaged Regime, originalmente creada para el YM2612!"
+    ],
+    [
+      "p",
+      "* Dos niveles de dificultad y tres modos de juego."
+    ],
+    [
+      "p",
+      "* Un arsenal de 10 armas que dominar."
+    ],
+    [
+      "p",
+      "* ¡Juega solo o en cooperativo local con un amigo! (2 jugadores requieren al menos un controlador)"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Estadísticas",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.x/10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "512MB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "400 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Any compatible soundcard"
+      ],
+      [
+        "Notas adicionales",
+        "2 player requires at least one controller"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_39e079b5bbc9ad6fc0105038ed039f728a8128d3.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_39e079b5bbc9ad6fc0105038ed039f728a8128d3.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_1aad063102dbd3c8144985118be141eda53ea695.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_1aad063102dbd3c8144985118be141eda53ea695.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_ccc89a88f23d38346a414e5740354e2bfc124b2e.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_ccc89a88f23d38346a414e5740354e2bfc124b2e.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_ca237435ab9ee7dff90b8144f18adf866145b26c.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_ca237435ab9ee7dff90b8144f18adf866145b26c.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_2a402bf0c54ff06f6e30dfc24ff93fc7f2bb65f4.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_2a402bf0c54ff06f6e30dfc24ff93fc7f2bb65f4.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_07e6c44bad9e73b8af8428a6e5d53e5d0e7cbffc.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_07e6c44bad9e73b8af8428a6e5d53e5d0e7cbffc.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_8d2d823cdf06066b21398153f559a606cb257a16.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_8d2d823cdf06066b21398153f559a606cb257a16.1920x1080.jpg?t=1592932356"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_d1834980f9fb7da4c7676eaba0301b0e1a622491.600x338.jpg?t=1592932356",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/ss_d1834980f9fb7da4c7676eaba0301b0e1a622491.1920x1080.jpg?t=1592932356"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.5,
+    "cantidad": 694,
+    "escala": 5
+  },
+  "xbox": "9PNBGZTL0Z1S",
+  "igdbIntentado": true,
+  "igdb": 80010,
+  "youtube": [
+    {
+      "id": "vIFSzeK-PsI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "N1YHzQp8580",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:38:04.912Z"
+}

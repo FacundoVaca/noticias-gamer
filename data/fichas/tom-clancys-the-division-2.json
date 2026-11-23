@@ -1,0 +1,434 @@
+{
+  "clave": "tom clancys the division 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-19a2-72b4-bbf4-f547be9c3f15",
+  "appid": "2221490",
+  "lanzamiento": "2019-03-01",
+  "desarrolladores": [
+    "Massive Entertainment",
+    "Ubisoft"
+  ],
+  "editores": [
+    "Ubisoft",
+    "Ubisoft Entertainment"
+  ],
+  "etiquetas": [
+    "Looter Shooter",
+    "Open World",
+    "Multiplayer",
+    "Third-Person Shooter",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 79,
+      "cantidad": 34072,
+      "url": "https://store.steampowered.com/app/2221490/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 84,
+      "cantidad": 34,
+      "url": "https://metacritic.com/game/tom-clancys-the-division-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 63,
+      "cantidad": 1848,
+      "url": "https://metacritic.com/game/tom-clancys-the-division-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 161,
+      "url": "https://opencritic.com/game/7089/tom-clancys-the-division-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "796567",
+      "nombre": "Tom Clancy's The Division 2 - Standard Edition",
+      "apps": [
+        {
+          "appid": "2221490",
+          "nombre": "Tom Clancy’s The Division® 2"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1793617",
+      "nombre": "Tom Clancy's The Division 2 - Elite Edition",
+      "apps": [
+        {
+          "appid": "2221490",
+          "nombre": "Tom Clancy’s The Division® 2"
+        }
+      ],
+      "usd": 47.99,
+      "antes": 47.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1793620",
+      "nombre": "Tom Clancy's The Division 2 - Legendary Edition",
+      "apps": [
+        {
+          "appid": "2221490",
+          "nombre": "Tom Clancy’s The Division® 2"
+        }
+      ],
+      "usd": 55.99,
+      "antes": 55.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2221490": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "5109220",
+      "nombre": "Contenido descargable Deluxe Echoes of Central Park - Tom Clancy's The Division 2",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5109260",
+      "nombre": "Contenido descargable Echoes of Central Park - Tom Clancy's The Division 2",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5109160",
+      "nombre": "Colección de Nueva York - Tom Clancy's The Division 2",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5182420",
+      "nombre": "Tom Clancy's The Division 2: Pack de máscara de rape",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4974000",
+      "nombre": "Tom Clancy’s The Division 2: Envío de suministros Horizonte rojo",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4973980",
+      "nombre": "Tom Clancy’s The Division 2: Lote Horizonte rojo",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3572140",
+      "nombre": "Tom Clancy's The Division 2 – Battle for Brooklyn DLC",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2222570",
+      "nombre": "Tom Clancy's The Division 2 – Warlords of New York – Expansion",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3268800",
+      "nombre": "Tom Clancy's The Division 2 – Activation Bundle",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Únete a The Division en este shooter táctico de mundo abierto. Enfréntate en intensos combates basados en la cobertura, forma equipo con tus amigos y crea al agente definitivo para salvar Washington D.C.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "12 ENE 2023",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/tom-clancys-the-division-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Tom Clancy’s The Division® 2",
+  "acerca": [
+    [
+      "p",
+      "Defiende y reconstruye Washington D. C tras una pandemia devastadora en este shooter táctico en tercera persona de mundo abierto:"
+    ],
+    [
+      "h",
+      "COMBATE TÁCTICO"
+    ],
+    [
+      "p",
+      "Enfréntate a tus enemigos en intensos tiroteos basados en la cobertura, donde un posicionamiento táctico y el uso de herramientas marcan la diferencia entre la vida y la muerte."
+    ],
+    [
+      "h",
+      "CREA AL AGENTE DEFINITIVO"
+    ],
+    [
+      "p",
+      "Saquea y fabrica equipo puntero y aprende habilidades poderosas para personalizar tu forma de luchar. Ve más allá con las especializaciones, con roles como francotirador, experto en demoliciones, líder de supervivientes y más."
+    ],
+    [
+      "h",
+      "EL TRABAJO EN EQUIPO SALVA VIDAS"
+    ],
+    [
+      "p",
+      "Forma equipo con hasta otros tres agentes para emprender misiones cooperativas tácticas en las que la sinergia es fundamental. Combina especializaciones, comparte recursos y enfréntate a desafíos dinámicos que se adaptan a tu escuadrón."
+    ],
+    [
+      "h",
+      "SOBREVIVE EN WASHINGTON D. C., UNA CIUDAD EN CONSTANTE EVOLUCIÓN"
+    ],
+    [
+      "p",
+      "La ciudad reacciona, se adapta y te desafía a sobrevivir con cada uno de tus movimientos, desde tensos tiroteos en condiciones meteorológicas cambiantes hasta el constante tira y afloja de las facciones que luchan por controlar el mapa."
+    ],
+    [
+      "h",
+      "FINAL DE JUEGO INTENSO"
+    ],
+    [
+      "p",
+      "Alcanzar el nivel máximo solo es el principio. Sumérgete en misiones finales de alto riesgo, intensas batallas JcJ y eventos mundiales dinámicos que llevarán tus habilidades y tu trabajo en equipo al límite. Cada temporada trae consigo nuevas recompensas y encarnizados desafíos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Subtítulos disponibles",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "HDR disponible"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "AMD FX 6350, Intel Core i5-2500K, or better (SSE 4.2 and AVX support required)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD R9 280X (3 GB), NVIDIA GeForce GTX 780 (3 GB with Shader Model 5.0+), or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "77 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1500x, Intel Core i7-4790, or better (SSE 4.2 and AVX support required)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 480 (4 GB), NVIDIA GeForce GTX 970 (4 GB with Shader Model 6.0+), or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "77 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/6f05e8a12c31edef7658d6f382ea348131c5ca26/ss_6f05e8a12c31edef7658d6f382ea348131c5ca26.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/6f05e8a12c31edef7658d6f382ea348131c5ca26/ss_6f05e8a12c31edef7658d6f382ea348131c5ca26.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/17c27624d35a167621a0097b324ebf693ac8db97/ss_17c27624d35a167621a0097b324ebf693ac8db97.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/17c27624d35a167621a0097b324ebf693ac8db97/ss_17c27624d35a167621a0097b324ebf693ac8db97.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/4c19d531d113e269e1e5d1d32c9412964920f41d/ss_4c19d531d113e269e1e5d1d32c9412964920f41d.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/4c19d531d113e269e1e5d1d32c9412964920f41d/ss_4c19d531d113e269e1e5d1d32c9412964920f41d.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/143534912ee8a4e699684d5d716e287a4739b682/ss_143534912ee8a4e699684d5d716e287a4739b682.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/143534912ee8a4e699684d5d716e287a4739b682/ss_143534912ee8a4e699684d5d716e287a4739b682.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/a66fb9edbd7ced68ee106e1ec847b29328dc748b/ss_a66fb9edbd7ced68ee106e1ec847b29328dc748b.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/a66fb9edbd7ced68ee106e1ec847b29328dc748b/ss_a66fb9edbd7ced68ee106e1ec847b29328dc748b.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/b344c21b491393c628e55ec1da83abd3224fe8a5/ss_b344c21b491393c628e55ec1da83abd3224fe8a5.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/b344c21b491393c628e55ec1da83abd3224fe8a5/ss_b344c21b491393c628e55ec1da83abd3224fe8a5.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/db8e97048b12128aa48731089db6091becf6fd6d/ss_db8e97048b12128aa48731089db6091becf6fd6d.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/db8e97048b12128aa48731089db6091becf6fd6d/ss_db8e97048b12128aa48731089db6091becf6fd6d.1920x1080.jpg?t=1793697026"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/d6677f95dab7b92f456498e35b80199d505866a7/ss_d6677f95dab7b92f456498e35b80199d505866a7.600x338.jpg?t=1793697026",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2221490/d6677f95dab7b92f456498e35b80199d505866a7/ss_d6677f95dab7b92f456498e35b80199d505866a7.1920x1080.jpg?t=1793697026"
+    }
+  ],
+  "web": "https://www.ubisoft.com/en-gb/game/the-division",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a tactical third-person shooter in which players assume the role of an elite government agent battling hostile factions in a fictionalized Washington D.C. Players use machine guns, sniper rifles, and explosives to kill waves of enemy soldiers/thugs in frenetic combat.",
+  "igdbIntentado": true,
+  "igdb": 90099,
+  "youtube": [
+    {
+      "id": "3QhpGkYFRbc",
+      "nombre": "E3 2018 Gameplay Trailer"
+    },
+    {
+      "id": "urraPzTqLzs",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "19KZwYe38pg",
+      "nombre": "Enter the Dark Zone Trailer"
+    },
+    {
+      "id": "AocvxqvPSkM",
+      "nombre": "E3 2018: The Fall of Washington DC Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:45:02.379Z"
+}

@@ -1,0 +1,348 @@
+{
+  "clave": "dinkum",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0645-71fc-8e04-64b616c87c31",
+  "appid": "1062520",
+  "lanzamiento": "2025-04-23",
+  "desarrolladores": [
+    "James Bendon"
+  ],
+  "editores": [
+    "James Bendon",
+    "KRAFTON, Inc."
+  ],
+  "etiquetas": [
+    "Open World Survival Craft",
+    "Agriculture",
+    "Relaxing",
+    "Co-op",
+    "Farming Sim"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 24754,
+      "url": "https://store.steampowered.com/app/1062520/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 16,
+      "url": "https://metacritic.com/game/dinkum/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1300133",
+      "nombre": "Dinkum",
+      "apps": [
+        {
+          "appid": "1062520",
+          "nombre": "Dinkum"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 10.49,
+      "descuento": 20
+    },
+    {
+      "packageid": "1314507",
+      "nombre": "Dinkum",
+      "apps": [
+        {
+          "appid": "1062520",
+          "nombre": "Dinkum"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1062520": {
+      "usd": 8.25,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2468700",
+      "nombre": "Dinkum OST",
+      "gratis": false,
+      "usd": 0.78,
+      "descuento": 70
+    }
+  ],
+  "descripcion": "Dinkum is a survival life simulation game set on an island inspired by the rugged Australian outback. Farm, hunt, mine, fish, and forage to gather resources, expand your town, and discover what makes Dinkum so special—either solo or with friends.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "22 ABR 2025",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Dinkum",
+  "acerca": [
+    [
+      "p",
+      "G'Day! Grab your tools, gather resources, and build your town while hanging out with friends and enjoying the charm of Dinkum."
+    ],
+    [
+      "h",
+      "A Survival Life Sim with Endless Possibilities"
+    ],
+    [
+      "p",
+      "Plant crops, raise animals, and build your dream farm, or roam the island catching fish and bugs at your own pace."
+    ],
+    [
+      "p",
+      "With changing seasons and weather affecting how your crops grow, every day brings a new challenge. Slip on your flip-flops to hunt for rare fish, bugs, or ores. Every moment becomes a special adventure."
+    ],
+    [
+      "h",
+      "Explore and Survive the Wild"
+    ],
+    [
+      "p",
+      "From red deserts and lush forests to hidden mines, Dinkum is full of wild places to explore. Hunt wild animals, gather resources, and learn how to survive in the great outdoors."
+    ],
+    [
+      "p",
+      "The creatures might look cute, but don't let your guard down! You'll need tools, weapons, and a solid strategy to make it out in one piece. Will you go head-to-head, or set traps and play it smart? The choice is yours."
+    ],
+    [
+      "h",
+      "Build Your Town Your Way"
+    ],
+    [
+      "p",
+      "What starts as a simple campfire and a sleeping bag can grow into a thriving town with shops, fountains, flower beds, and windmills."
+    ],
+    [
+      "p",
+      "Craft furniture and decorations to personalize your home, reshape the island to design your ideal town layout, and customize your character's look from head to toe. Invite friends over to show off your one-of-a-kind creation!"
+    ],
+    [
+      "h",
+      "The Joy of Growing Together"
+    ],
+    [
+      "p",
+      "Sell your harvest and foraged goods to earn Dinks, and reinvest them to help your town flourish."
+    ],
+    [
+      "p",
+      "As your town grows, new shops will open, visitors will stop by—and some might even decide to stay for good. Celebrate with festivals and build a vibrant, lively town, whether you're playing solo or with friends."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-13100 / AMD Ryzen 3 4100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1650 4GB / AMD Radeon RX 570 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-12600K / AMD Ryzen 5 5600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 3060 12GB / AMD Radeon RX 6600 XT 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_767bcbda803dfceedee650dfcbae8a52fbd2b1b7.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_767bcbda803dfceedee650dfcbae8a52fbd2b1b7.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_1325a4d57f22edce9019c03f3d78f3ed5150fbec.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_1325a4d57f22edce9019c03f3d78f3ed5150fbec.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_bf3c6dab03aae7bbb552763e241ce1cb74354660.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_bf3c6dab03aae7bbb552763e241ce1cb74354660.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_c41f7808eab7b18ea70c03bf2f0cbd13768925e4.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_c41f7808eab7b18ea70c03bf2f0cbd13768925e4.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_e1475ccea78fcfd36eb0471ceceac8d0a55d3d57.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_e1475ccea78fcfd36eb0471ceceac8d0a55d3d57.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_ccee2db8998d930ba669e9e2779fe225b32fb0da.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_ccee2db8998d930ba669e9e2779fe225b32fb0da.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_dd3c7d818608ab4ccfb2ff823136de4625746ddb.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_dd3c7d818608ab4ccfb2ff823136de4625746ddb.1920x1080.jpg?t=1767607973"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_025ed25b249d5484f24088ef33bbcffcb9bbcb37.600x338.jpg?t=1767607973",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062520/ss_025ed25b249d5484f24088ef33bbcffcb9bbcb37.1920x1080.jpg?t=1767607973"
+    }
+  ],
+  "web": "https://dinkum.krafton.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 120322,
+  "youtube": [
+    {
+      "id": "FrzryxM30bM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "kx_yiJR746E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qzwIo6YQ91c",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "gNu2iUyjeBI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:16.383Z"
+}

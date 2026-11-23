@@ -1,0 +1,278 @@
+{
+  "clave": "a pizza delivery",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "01940a75-0666-70ee-9fc0-0c602c651069",
+  "appid": "3415450",
+  "lanzamiento": "2025-11-07",
+  "desarrolladores": [
+    "Eric Osuna"
+  ],
+  "editores": [
+    "Dolores Entertainment"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Walking Simulator",
+    "Cinematic",
+    "Narrative",
+    "Exploration"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 29,
+      "url": "https://store.steampowered.com/app/3415450/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 66,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/a-pizza-delivery/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 56,
+      "cantidad": 25,
+      "url": "https://opencritic.com/game/19548/a-pizza-delivery"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1207992",
+      "nombre": "A Pizza Delivery",
+      "apps": [
+        {
+          "appid": "3415450",
+          "nombre": "A Pizza Delivery"
+        }
+      ],
+      "usd": 7.79,
+      "antes": 7.79,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3415450": {
+      "usd": 7.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4146100",
+      "nombre": "A Pizza Delivery - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "A Pizza Delivery is a narrative exploration game with puzzle elements focused on connecting with people. Share pizza with charming characters to uncover their stories—and your own. Drive and explore a strange, meditative world filled with secrets.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "7 NOV 2025",
+  "metacritic": null,
+  "nombreSteam": "A Pizza Delivery",
+  "acerca": [
+    [
+      "p",
+      "Step into the dreamlike journey of \"B\", a pizza delivery rider on her final order of the day."
+    ],
+    [
+      "p",
+      "Ride through a surreal world, navigating strange landscapes, sudden shifts in scenery, and moments of quiet introspection."
+    ],
+    [
+      "p",
+      "This is no ordinary place—it’s a mental space, a liminal realm shared by individuals trapped in a state of limbo. Each corner of this \"non-place\" reveals stories of unease, instability, and longing."
+    ],
+    [
+      "p",
+      "Accompanied by her trusty scooter, B must deliver her final pizza while uncovering the mysteries of this enigmatic world. Along the way, connect with its eccentric inhabitants, explore their dreams and regrets, and discover the shared threads that bind them in this surreal, shifting reality."
+    ],
+    [
+      "h",
+      "Key Features:"
+    ],
+    [
+      "p",
+      "Meditative Exploration: Journey through a strange and captivating world on your trusty Vespa. From beautiful landscapes to liminal spaces, “B” must keep moving forward."
+    ],
+    [
+      "p",
+      "A Narrative Experience: Discover a variety of objects that reveal details about the protagonist and the characters you meet along the way."
+    ],
+    [
+      "p",
+      "Charming Characters: Interact with unique individuals to uncover why they inhabit this world. Each has their own dreams, regrets and aspirations. Share a slice of pizza with them to get to know them better."
+    ],
+    [
+      "p",
+      "Solve Puzzles: Use levers, clay stars, or conveyor belts to solve puzzles and deliver pizza if you want to share it. The choice is yours!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Phenom II X4 965, 3.40 GHz / Intel Core i5-2300, 2.80 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB RAM GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ HD 7730, NVIDIA GeForce® GT 640"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350, 4.00 GHz / Intel Core i5-3470, 3.20 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon RX 590, 8 GB / GeForce GTX 1060, 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_bd4684da20f1c6b1a982fc0b74bc7b3e67cb5d00.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_bd4684da20f1c6b1a982fc0b74bc7b3e67cb5d00.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_e8ae2d7d1a864332dccffbe91e25148747359a52.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_e8ae2d7d1a864332dccffbe91e25148747359a52.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_d851405f4c8009cbe5db7c5ad90276ef572c31cd.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_d851405f4c8009cbe5db7c5ad90276ef572c31cd.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_51c32acabfb2507130401a7bb4dab651632efcaa.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_51c32acabfb2507130401a7bb4dab651632efcaa.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_49e9ee3b7233a64f648bb74b037cc97f005ef98e.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_49e9ee3b7233a64f648bb74b037cc97f005ef98e.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_374b106403565be3f7dcbe07c047ebb6705a8e0d.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_374b106403565be3f7dcbe07c047ebb6705a8e0d.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_138fbe6790110332407b8045c9a341e1c9cca4c3.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_138fbe6790110332407b8045c9a341e1c9cca4c3.1920x1080.jpg?t=1762523923"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_0925dc8a55776a3bc9924b2e37b4f7eed7284b96.600x338.jpg?t=1762523923",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415450/ss_0925dc8a55776a3bc9924b2e37b4f7eed7284b96.1920x1080.jpg?t=1762523923"
+    }
+  ],
+  "web": "http://www.doloresentertainment.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.6,
+    "cantidad": 23,
+    "escala": 5
+  },
+  "xbox": "9PG0HZX751ZT",
+  "igdbIntentado": true,
+  "igdb": 328195,
+  "youtube": [
+    {
+      "id": "exmlUvkfhMA",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:36:29.088Z"
+}

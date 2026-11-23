@@ -1,0 +1,268 @@
+{
+  "clave": "wytchwood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-1388-7276-a377-dc0356541b6b",
+  "appid": "729000",
+  "lanzamiento": "2021-12-09",
+  "desarrolladores": [
+    "Alientrap",
+    "Alientrap Games"
+  ],
+  "editores": [
+    "Plugin Digital",
+    "Whitethorn Digital",
+    "Whitethorn Games",
+    "Plug-in Digital",
+    "Plug In Digital",
+    "Alientrap Games",
+    "Alientrap"
+  ],
+  "etiquetas": [
+    "Crafting",
+    "Story Rich",
+    "Exploration",
+    "Investigation",
+    "RPG"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 4088,
+      "url": "https://store.steampowered.com/app/729000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/wytchwood/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 33,
+      "url": "https://metacritic.com/game/wytchwood/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 20,
+      "url": "https://opencritic.com/game/12465/wytchwood"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "212492",
+      "nombre": "Wytchwood",
+      "apps": [
+        {
+          "appid": "729000",
+          "nombre": "Wytchwood"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "729000": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1844670",
+      "nombre": "Wytchwood OST",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Un juego de aventuras y creación ambientado en una tierra de fábulas góticas",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "9 DIC 2021",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/wytchwood?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Wytchwood",
+  "acerca": [
+    [
+      "p",
+      "Wytchwood es un juego de aventuras y creación de objetos ambientado en una tierra de fábulas y cuentos de hadas góticos. En la piel de la misteriosa bruja del bosque, explorarás una campiña extraña, recogerás ingredientes mágicos, prepararás encantamientos brujescos y juzgarás con retorcido criterio a un elenco pintoresco de personajes y criaturas."
+    ],
+    [
+      "p",
+      "\"・Un estilo de arte encantador inspirado en los libros de cuentos."
+    ],
+    [
+      "p",
+      "・Recoge, colecciona, acumula y crea todo tipo de ingredientes bizarros: hongos tóxicos, ojos de tritón y miedo embotellado."
+    ],
+    [
+      "p",
+      "・Investiga y prepara conjuros y hechizos tortuosos. ¡Convierte a las personas avaras en ranas! ¡Engaña a la gente malvada con ingeniosas maldiciones!"
+    ],
+    [
+      "p",
+      "・Explora un mundo alegórico de relatos fantásticos y descubre personajes extravagantes y narrativas increíbles."
+    ],
+    [
+      "p",
+      "・Usa tu ingenio y distintas artimañas para resolver acertijos y superar a los extraños monstruos del bosque.\""
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64bit"
+      ],
+      [
+        "Procesador",
+        "Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce 9600 GS, Radeon HD4000, Shader Model 3.0, 512 MB"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_b5c706abacf932c95851ab3c74ef5555f2151215.600x338.jpg?t=1705693631",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_b5c706abacf932c95851ab3c74ef5555f2151215.1920x1080.jpg?t=1705693631"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_c264e26cc985b733866691fd449b50e116c5d566.600x338.jpg?t=1705693631",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_c264e26cc985b733866691fd449b50e116c5d566.1920x1080.jpg?t=1705693631"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_f01cbdd526860019aa2c05b2a925113f8c3b85d3.600x338.jpg?t=1705693631",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_f01cbdd526860019aa2c05b2a925113f8c3b85d3.1920x1080.jpg?t=1705693631"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_381ca89ab003973a39c9b25d693d27c7c8191ca0.600x338.jpg?t=1705693631",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_381ca89ab003973a39c9b25d693d27c7c8191ca0.1920x1080.jpg?t=1705693631"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_89563c3fb8e062ca8e06159ebe54948a9f15824b.600x338.jpg?t=1705693631",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/ss_89563c3fb8e062ca8e06159ebe54948a9f15824b.1920x1080.jpg?t=1705693631"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.6,
+    "cantidad": 123,
+    "escala": 5
+  },
+  "xbox": "9P40FJDR9BZR",
+  "igdbIntentado": true,
+  "igdb": 75341,
+  "youtube": [
+    {
+      "id": "OchVijhoAds",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "ufvmbqHVbLY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "h3dZgMx6Ymg",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:38:13.048Z"
+}

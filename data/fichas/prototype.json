@@ -1,0 +1,250 @@
+{
+  "clave": "prototype",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-15d1-7105-b09a-6ce4199e5ad8",
+  "appid": "10150",
+  "lanzamiento": "2009-06-10",
+  "desarrolladores": [
+    "Radical Entertainment"
+  ],
+  "editores": [
+    "Activision"
+  ],
+  "etiquetas": [
+    "Action",
+    "Open World",
+    "Gore",
+    "Singleplayer",
+    "Third Person"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 12684,
+      "url": "https://store.steampowered.com/app/10150/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 35,
+      "url": "https://metacritic.com/game/prototype-2009/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 429,
+      "url": "https://metacritic.com/game/prototype-2009/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1685",
+      "nombre": "Prototype™",
+      "apps": [
+        {
+          "appid": "10150",
+          "nombre": "Prototype™"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 19.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "47880",
+      "nombre": "Prototype Franchise Pack",
+      "apps": [
+        {
+          "appid": "115320",
+          "nombre": "Prototype 2"
+        },
+        {
+          "appid": "115340",
+          "nombre": "Prototype 2 RADNET Access Pack"
+        },
+        {
+          "appid": "10150",
+          "nombre": "Prototype™"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "10150": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "115320": {
+      "usd": 11.99,
+      "gratis": false
+    },
+    "115340": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Tú eres el Prototipo, Alex Mercer, un hombre sin recuerdos armado con unas increíbles habilidades de transformación, debes abrirte camino hacia el centro de la conspiración responsable de tu creación; y hacer pagar a los responsables. Combate con transformaciones Rápidas y Mortíferas: Reconfigura tu cuerpo para cada situación específica.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "12 JUN 2009",
+  "metacritic": {
+    "puntaje": 79,
+    "url": "https://www.metacritic.com/game/pc/prototype?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Prototype™",
+  "acerca": [
+    [
+      "p",
+      "Tú eres el Prototipo, Alex Mercer, un hombre sin recuerdos armado con unas increíbles habilidades de transformación, debes abrirte camino hacia el centro de la conspiración responsable de tu creación; y hacer pagar a los responsables."
+    ],
+    [
+      "li",
+      "Combate con transformaciones Rápidas y Mortíferas: Reconfigura tu cuerpo para cada situación específica. Ya sean Garras, Hojas, Martillos o Látigos, escoge el arma adecuada para el momento. Cambia a un escudo o blindaje para la defensa, o utiliza avanzados poderes sensoriales (visión térmica, visión infectada) para localizar a tus enemigos."
+    ],
+    [
+      "li",
+      "Locomoción y Agilidad sobrehumanas: Salta perfectamente y con fluidez de edificio en edificio, corre por los muros, rebota en los coches y en cualquier objeto en tu camino. El movimiento adaptativo te permite desplazarte con total libertad por los entornos abiertos de la ciudad de Nueva York."
+    ],
+    [
+      "li",
+      "Habilidades Únicas de Camuflaje: Consume a cualquiera, en cualquier momento, toma su apariencia, sus recuerdos y sus habilidades especiales."
+    ],
+    [
+      "li",
+      "Compleja Trama de Conspiración: Despierta sin el más mínimo recuerdo del pasado...tan sólo unos misteriosos poderes y una conexión en un pueblo de Idaho. Investiga los misterios de tu origen, la auténtica naturaleza de tus poderes y tu parte en una conspiración que dura ya 40 años."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows® XP (con Service Pack 3) o Windows Vista®"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™2 Duo 1.86 GHz o AMD Athlon™ 64 X2 4000+ o superior"
+      ],
+      [
+        "Memoria",
+        "Vista 2 GB RAM / XP 1 GB RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® 7800 GT 256 MB y superiores. ATI Radeon™ X1800 256 MB y superiores"
+      ],
+      [
+        "DirectX®",
+        "Microsoft DirectX 9.0c"
+      ],
+      [
+        "Disco Duro",
+        "8GB de espacio libre"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX® 9.0c"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008853.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008853.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008854.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008854.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008855.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008855.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008856.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008856.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008857.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008857.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008858.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008858.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008859.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008859.1920x1080.jpg?t=1655760765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008860.600x338.jpg?t=1655760765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/0000008860.1920x1080.jpg?t=1655760765"
+    }
+  ],
+  "web": "http://www.prototypegame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.9,
+    "cantidad": 2715,
+    "escala": 5
+  },
+  "xbox": "BTB6374NZGV3",
+  "igdbIntentado": true,
+  "igdb": 570,
+  "youtube": [
+    {
+      "id": "Nc3XptLacMM",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "iiINfo_c-Qs",
+      "nombre": "VGA 2007 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:36:37.181Z"
+}

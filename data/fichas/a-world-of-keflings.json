@@ -1,0 +1,287 @@
+{
+  "clave": "a world of keflings",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-4b7d-7226-8d5a-a1f085e523ee",
+  "appid": "3238580",
+  "lanzamiento": "2025-07-29",
+  "desarrolladores": [
+    "NinjaBee"
+  ],
+  "editores": [
+    "NinjaBee"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Cozy",
+    "Building",
+    "Crafting",
+    "Management"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 99,
+      "cantidad": 532,
+      "url": "https://store.steampowered.com/app/3238580/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 40,
+      "url": "https://metacritic.com/game/a-world-of-keflings/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1147882",
+      "nombre": "A World of Keflings",
+      "apps": [
+        {
+          "appid": "3238580",
+          "nombre": "A World of Keflings"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 6.59,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3238580": {
+      "usd": 6.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "5364040",
+      "nombre": "A World of Keflings - Which Witch",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3302330",
+      "nombre": "A World of Keflings - The Curse of the Zombiesaurus",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3302310",
+      "nombre": "A World of Keflings - Sugar, Spice and Not So Nice",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3302320",
+      "nombre": "A World of Keflings - It Came From Outer Space",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4006680",
+      "nombre": "A World of Keflings Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Puede que los Keflings sean pequeños, ¡pero sus aventuras son gigantescas! ¡Construye un mundo con tus amigos en A World of Keflings! Recolecta recursos, hazte amigo de un dragón y ayuda a una espeluznante bruja en esta actualización de la clásica aventura de 2010.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "29 JUL 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "A World of Keflings",
+  "acerca": [
+    [
+      "p",
+      "Los Keflings pueden ser pequeños, pero sus aventuras de construcción de reinos son gigantescas."
+    ],
+    [
+      "p",
+      "Viaja a tierras lejanas y ayuda a tus nuevos y diminutos amigos Keflings en el camino. Recolecta recursos para crear y personalizar hermosas ciudades llenas de fuentes, talleres, castillos y más."
+    ],
+    [
+      "p",
+      "¡Completa misiones! ¡Compón música! ¡Construye un robot, rescata a la princesa, hazte amigo de un dragón y ayuda a una espeluznante bruja a volverse aún más espeluznante en esta emocionante y amigable aventura de construcción de ciudades!"
+    ],
+    [
+      "p",
+      "¡Invita a tus amigos! A World of Keflings cuenta con un modo cooperativo en línea para hasta 8 jugadores."
+    ],
+    [
+      "p",
+      "A World of Keflings, que se lanzó originalmente para consolas en 2010, se ha actualizado para máquinas modernas manteniendo la misma experiencia de juego clásica. ¡Estamos orgullosos de traer esta aventura de tamaño gigante a tu PC!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Opción solo táctil"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64bit)"
+      ],
+      [
+        "Procesador",
+        "x86, x64 architecture"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DX11 capable"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "600 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_dd8605422b060f37c6bebf2106a632cd9fd6751b.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_dd8605422b060f37c6bebf2106a632cd9fd6751b.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_acd6b31de895b86310838512b0615e43a9b85bc3.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_acd6b31de895b86310838512b0615e43a9b85bc3.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_b576100c9f118b32c2d069b9af7aec0fca443792.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_b576100c9f118b32c2d069b9af7aec0fca443792.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_b40239505d98ead982d398a272929047a3ae34e1.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_b40239505d98ead982d398a272929047a3ae34e1.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_57ebe2e50318a18e2792a4a8c65495d83a661167.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_57ebe2e50318a18e2792a4a8c65495d83a661167.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/2f1c0915572f83246354547781bd3f1c29a29328/ss_2f1c0915572f83246354547781bd3f1c29a29328.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/2f1c0915572f83246354547781bd3f1c29a29328/ss_2f1c0915572f83246354547781bd3f1c29a29328.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_5117e2d26f741d1bdc34a919445c148f96bbbdbe.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_5117e2d26f741d1bdc34a919445c148f96bbbdbe.1920x1080.jpg?t=1794009843"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_66bc772f26fdb8a4ea19af809a461dd2516ad469.600x338.jpg?t=1794009843",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3238580/ss_66bc772f26fdb8a4ea19af809a461dd2516ad469.1920x1080.jpg?t=1794009843"
+    }
+  ],
+  "web": "https://www.ninjabee.com/games/a_world_of_keflings.html",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.2,
+    "cantidad": 998,
+    "escala": 5
+  },
+  "xbox": "C3FNJLM45CCC",
+  "igdbIntentado": true,
+  "igdb": 21077,
+  "youtube": [
+    {
+      "id": "fa_TIbyr4ic",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ueZabVIAjy4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "6VQv-DWRV4g",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:40:04.264Z"
+}

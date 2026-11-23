@@ -1,0 +1,304 @@
+{
+  "clave": "2dark",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-1f25-70c0-9c55-9c37d94ec520",
+  "appid": "435100",
+  "lanzamiento": "2017-03-10",
+  "desarrolladores": [
+    "Gloomywood"
+  ],
+  "editores": [
+    "Nacon",
+    "Plugin Digital",
+    "Bigben Interactive",
+    "Plug-in Digital",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Horror",
+    "Indie",
+    "Stealth",
+    "Survival Horror",
+    "Strategy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 549,
+      "url": "https://store.steampowered.com/app/435100/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 68,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/2dark/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 45,
+      "url": "https://metacritic.com/game/2dark/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 63,
+      "cantidad": 41,
+      "url": "https://opencritic.com/game/3956/2dark"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "90844",
+      "nombre": "2Dark",
+      "apps": [
+        {
+          "appid": "435100",
+          "nombre": "2Dark"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "435100": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "579740",
+      "nombre": "2Dark Official Soundtrack and Artbook",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "2Dark es un juego de aventura y sigilo desarrollado por Frédérick Raynal, el pionero de los juegos de survival horror y creador de Alone in the Dark®. Ábrete paso por guaridas de psicópatas, resuelve una intriga que mezcla locura con terror y, sobre todo, ¡salva a los niños!",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "10 MAR 2017",
+  "metacritic": {
+    "puntaje": 68,
+    "url": "https://www.metacritic.com/game/pc/2dark?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "2Dark",
+  "acerca": [
+    [
+      "p",
+      "Asolada por una serie de secuestros de niños, la oscuridad cubre la antes pintoresca ciudad de Gloomywood como una maldición, asfixiando la esperanza y paralizando de miedo a sus vecinos. Tras ver cómo asesinaban a su propia esposa y se llevaban a sus hijos, el señor Smith, antiguo detective, jura que hará justicia y pondrá fin a tanto sufrimiento. Pero ojalá fuera tan sencillo. Desde las calles sospechosas y sus recelosos habitantes, hasta el paquete de cigarrillos de tu bolsillo y la traición de tus propias pisadas, el peligro infesta cada esquina y cada rendija. Duda de todo en esta ciudad-trampa donde la muerte es la única certeza."
+    ],
+    [
+      "p",
+      "Obra de Frédérick Raynal, creador de Alone in the Dark ® y pionero del survival horror, 2Dark es un siniestro viaje de sigilo y valor al corazón de la corrupción. Usa tu astucia para infiltrarte en los bastiones de crueldad de Gloomywood. Investiga para descubrir los secretos de los psicópatas perturbados que lo habitan, busca venganza por sus crímenes y lleva a los niños a un lugar seguro."
+    ],
+    [
+      "h",
+      "UNA NUEVA AVENTURA DE HORROR Y SIGILO"
+    ],
+    [
+      "li",
+      "Una experiencia angustiosa de consecuencias despiadadas en la que solo te guiará tu ingenio."
+    ],
+    [
+      "li",
+      "Perfecciona tu plan para infiltrarte en intrincados niveles diseñados a mano y escapar con los niños."
+    ],
+    [
+      "li",
+      "Mantente en las sombras y avanza con cuidado. La luz y el sonido pueden ser tus aliados o tu perdición."
+    ],
+    [
+      "li",
+      "Los suministros son limitados. Desde las pilas para la linterna hasta las balas, haz que cada objeto cuente."
+    ],
+    [
+      "li",
+      "Investiga cada rincón para desvelar los siniestros secretos que se ocultan tras los secuestros, descubrir áreas nuevas y encontrar a todos los niños."
+    ],
+    [
+      "li",
+      "Los niños son niños. Si te paras mucho tiempo, se pondrán nerviosos y llorarán, poniéndoos en peligro a los dos."
+    ],
+    [
+      "li",
+      "Párate a fumar para guardar tus progresos, pero ten cuidado con los ruidosos ataques de tos, y recuerda que fumar mata de verdad."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 32-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-530, 2.93 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia Geforce GT 9800 / ATi Radeon HD 4870"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Yes"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-4130, 3.2 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia Geforce GTX 750 / ATi Radeon R7 260X"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Yes"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_ff6b69c0782df3ef3656b680d4af5ca4c672e0c2.600x338.jpg?t=1778169512",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_ff6b69c0782df3ef3656b680d4af5ca4c672e0c2.1920x1080.jpg?t=1778169512"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_df56f6db565e9c40d0126fc96226be5d6e4744cb.600x338.jpg?t=1778169512",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_df56f6db565e9c40d0126fc96226be5d6e4744cb.1920x1080.jpg?t=1778169512"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_410c6c08065428df73f6d0178407687541364fd7.600x338.jpg?t=1778169512",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_410c6c08065428df73f6d0178407687541364fd7.1920x1080.jpg?t=1778169512"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_c6f8fa5bc38e856a77f3630f5d051b0ea586ccd4.600x338.jpg?t=1778169512",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_c6f8fa5bc38e856a77f3630f5d051b0ea586ccd4.1920x1080.jpg?t=1778169512"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_6e378bca37fa2a1305357f9bc40d4a7fb839726f.600x338.jpg?t=1778169512",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435100/ss_6e378bca37fa2a1305357f9bc40d4a7fb839726f.1920x1080.jpg?t=1778169512"
+    }
+  ],
+  "web": "https://www.2dark.tv/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.6,
+    "cantidad": 230,
+    "escala": 5
+  },
+  "xbox": "BSN59ZHCMTRX",
+  "igdbIntentado": true,
+  "igdb": 26847,
+  "youtube": [
+    {
+      "id": "XRTZsxyJiKU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "X2-Z-9eKvU8",
+      "nombre": "Story Trailer"
+    },
+    {
+      "id": "iF1Z58SLhSs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "fXsDCpcBL3Y",
+      "nombre": "Developer's Diary: Vision"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:34:55.935Z"
+}

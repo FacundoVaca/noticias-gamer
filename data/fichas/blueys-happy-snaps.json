@@ -1,0 +1,311 @@
+{
+  "clave": "blueys happy snaps",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "019d2b77-4bb2-71e4-a44d-f1f132f9e8fd",
+  "appid": "3064040",
+  "lanzamiento": "2026-10-15",
+  "desarrolladores": [
+    "Gameloft"
+  ],
+  "editores": [
+    "Gameloft"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Casual",
+    "Education",
+    "Action-Adventure",
+    "Puzzle"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 64,
+      "cantidad": 14,
+      "url": "https://store.steampowered.com/app/3064040/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/blueys-happy-snaps/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 18,
+      "url": "https://opencritic.com/game/21390/blueys-happy-snaps"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1827492",
+      "nombre": "Bluey's Happy Snaps: Edición prémium",
+      "apps": [
+        {
+          "appid": "3064040",
+          "nombre": "Bluey's Happy Snaps"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 29.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1088898",
+      "nombre": "Bluey's Happy Snaps",
+      "apps": [
+        {
+          "appid": "3064040",
+          "nombre": "Bluey's Happy Snaps"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3064040": {
+      "usd": 20.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Hora de jugar! Explora, diviértete y capta tus momentos favoritos con Bluey y Bingo en este juego fotográfico. Busca lugares familiares de la serie, crea tu propio álbum y convierte los recuerdos del juego en momentos divertidos de la vida real.",
+  "generos": [
+    "Aventura",
+    "Casual"
+  ],
+  "lanzamientoTexto": "14 OCT 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Bluey's Happy Snaps",
+  "acerca": [
+    [
+      "p",
+      "Explora el mundo de Bluey como nunca antes."
+    ],
+    [
+      "p",
+      "¡Hora de jugar! Explora, diviértete y capta tus momentos favoritos con Bluey y Bingo en este juego fotográfico. Busca lugares familiares de la serie, crea tu propio álbum y convierte los recuerdos del juego en momentos divertidos de la vida real."
+    ],
+    [
+      "p",
+      "¡Pa-ta-ta!"
+    ],
+    [
+      "p",
+      "Bluey y Bingo han encontrado la antigua cámara de su padre (de cuando era guay y eso). Recorre el mundo de Bluey con ella y saca fotos de sus juegos y los animales que descubre. Cada instantánea se guarda en el álbum de recuerdos de Bluey, donde los jugadores podrán ver sus momentos favoritos."
+    ],
+    [
+      "p",
+      "¡A jugar!"
+    ],
+    [
+      "p",
+      "Únete a la pastora ganadera australiana más querida en Fotos Alegres de Bluey, una graciosa aventura interactiva inspirada en la serie de televisión de éxito. Explora lugares familiares, juega con montones de juguetes o persigue ibis blancos, y disfruta de actividades divertidas con Bluey, Bingo y sus amigos."
+    ],
+    [
+      "p",
+      "¡Haz fotos, colecciona y juega!"
+    ],
+    [
+      "p",
+      "Usa la cámara y desbloquea pegatinas y adornos para personalizar tu álbum de recuerdos. Colorea, ordena las instantáneas y haz que tu álbum con recuerdos de Bluey sea único. A medida que descubran cada lugar, los jugadores también verán ideas de actividades para divertirse en la vida real lejos de una pantalla."
+    ],
+    [
+      "p",
+      "¡Comparte la diversión!"
+    ],
+    [
+      "p",
+      "Comparte la aventura con alguien en el modo de colega. Un segundo jugador se podrá unir a ti para explorar y posar, aunque el jugador principal será quien lleve la batuta detrás de cámara. ¡Hasta podéis jugar juntos con juguetes!"
+    ],
+    [
+      "p",
+      "Fotos Alegres de Bluey no incluye compras integradas ni la posibilidad de jugar en línea."
+    ],
+    [
+      "p",
+      "Voces totalmente localizadas en los siguientes idiomas: español (España), español (Latinoamérica), francés, italiano, alemán, japonés, portugués (Brasil) y mandarín."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 (or valid compatibility layer)"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1600X / Intel Core i5-9400F"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6400 / Nvidia GeForce GTX 1650"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 (or valid compatibility layer)"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 3600X / Intel Core i5-10400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 5700 XT / Nvidia GeForce RTX 3050"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/e7467b9cffe90c7655eda5686a96f9196ebe11c5/ss_e7467b9cffe90c7655eda5686a96f9196ebe11c5.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/e7467b9cffe90c7655eda5686a96f9196ebe11c5/ss_e7467b9cffe90c7655eda5686a96f9196ebe11c5.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/18c5b5c23dbb8cf6d44c68ca3c38def20e13b12a/ss_18c5b5c23dbb8cf6d44c68ca3c38def20e13b12a.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/18c5b5c23dbb8cf6d44c68ca3c38def20e13b12a/ss_18c5b5c23dbb8cf6d44c68ca3c38def20e13b12a.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/3c00fb1721a9402f7cd13efe4e636b080b73a223/ss_3c00fb1721a9402f7cd13efe4e636b080b73a223.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/3c00fb1721a9402f7cd13efe4e636b080b73a223/ss_3c00fb1721a9402f7cd13efe4e636b080b73a223.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/4c6addaef9329b858e1fd531d0e0317bb0813c4d/ss_4c6addaef9329b858e1fd531d0e0317bb0813c4d.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/4c6addaef9329b858e1fd531d0e0317bb0813c4d/ss_4c6addaef9329b858e1fd531d0e0317bb0813c4d.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/5879bb224b973cedcc1c6c93bfad22da6525a478/ss_5879bb224b973cedcc1c6c93bfad22da6525a478.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/5879bb224b973cedcc1c6c93bfad22da6525a478/ss_5879bb224b973cedcc1c6c93bfad22da6525a478.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/d9b32f65b255dc13fb39763d3fd6776d6ddf6f2f/ss_d9b32f65b255dc13fb39763d3fd6776d6ddf6f2f.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/d9b32f65b255dc13fb39763d3fd6776d6ddf6f2f/ss_d9b32f65b255dc13fb39763d3fd6776d6ddf6f2f.1920x1080.jpg?t=1795137739"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/b740b849259ac6b6967f05d9981e31811c9d3b1e/ss_b740b849259ac6b6967f05d9981e31811c9d3b1e.600x338.jpg?t=1795137739",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3064040/b740b849259ac6b6967f05d9981e31811c9d3b1e/ss_b740b849259ac6b6967f05d9981e31811c9d3b1e.1920x1080.jpg?t=1795137739"
+    }
+  ],
+  "web": "https://blueyshappysnapsgame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.4,
+    "cantidad": 255,
+    "escala": 5
+  },
+  "xbox": "9NQVHHW88XW9",
+  "igdbIntentado": true,
+  "igdb": 396024,
+  "youtube": [
+    {
+      "id": "l-k93PJGj3E",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "8uYZrfXjPfY",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:39:17.859Z"
+}

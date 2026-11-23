@@ -1,0 +1,294 @@
+{
+  "clave": "survivor cells",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-6f0b-71a5-bb5e-5ec4722d963f",
+  "appid": "1976100",
+  "lanzamiento": "2024-05-10",
+  "desarrolladores": [
+    "YAW Studios"
+  ],
+  "editores": [
+    "YAW Studios"
+  ],
+  "etiquetas": [
+    "Roguelike",
+    "Bullet Hell",
+    "Roguelite",
+    "Action Roguelike",
+    "2D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 38,
+      "url": "https://store.steampowered.com/app/1976100/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "713478",
+      "nombre": "Survivor Cells",
+      "apps": [
+        {
+          "appid": "1976100",
+          "nombre": "Survivor Cells"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1976100": {
+      "usd": 6.22,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2866970",
+      "nombre": "Survivor Cells - Virusbane",
+      "gratis": false,
+      "usd": 1.11,
+      "descuento": 20
+    },
+    {
+      "appid": "2695700",
+      "nombre": "Survivor Cells - Robin",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Descubre la fragilidad de la vida en Survivor Cells, un juego único de supervivencia contra virus y bacterias que une estratégicamente los elementos de roguelite, bullet hell y tower defense en una experiencia desafiante. Tu destino depende de tu agilidad y elecciones. ¿Hasta dónde llegarás?",
+  "generos": [
+    "Acción",
+    "Casual",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "10 MAY 2024",
+  "metacritic": null,
+  "nombreSteam": "Survivor Cells",
+  "acerca": [
+    [
+      "p",
+      "Desde la vida hasta la muerte, nuestras células enfrentan innumerables batallas, aniquilando miles de virus y bacterias invasoras. ¡Avanza en este increíble viaje y desbloquea nuevas células, medicamentos y nanotecnología para fortalecerte en la mayor aventura que un ser vivo puede enfrentar: la vida!"
+    ],
+    [
+      "p",
+      "En Survivor Cells, la agilidad es solo el comienzo para proteger tu célula de los implacables ataques. También deberás tomar decisiones estratégicas al controlar tu nanobot y mejorar tus medicamentos a medida que avanzas. ¡Este es un juego casual y desafiante, con elementos de roguelite, bullet hell y tower defense, donde la supervivencia es la clave para la victoria!"
+    ],
+    [
+      "h",
+      "En Survivor Cells, tú:"
+    ],
+    [
+      "p",
+      "- Enfrentarás y derrotarás bacterias con ataques devastadores y habilidades únicas;"
+    ],
+    [
+      "p",
+      "- Avanzar en la jornada de la vida desbloquea nuevas células con nuevas habilidades especiales;"
+    ],
+    [
+      "p",
+      "- Usarás nanotecnología y controlarás nanobots para eliminar virus y bacterias;"
+    ],
+    [
+      "p",
+      "- Podrás usar medicamentos para aumentar tu capacidad de destruir virus y reforzar tu defensa;"
+    ],
+    [
+      "p",
+      "- Enfrentarás diferentes virus y bacterias con características y habilidades distintas;"
+    ],
+    [
+      "p",
+      "- Te enfrentarás a super bacterias \"Boss\" con habilidades especiales;"
+    ],
+    [
+      "p",
+      "¡Y mucho más..."
+    ],
+    [
+      "p",
+      "COMUNIDAD"
+    ],
+    [
+      "p",
+      "Somos un estudio pequeño pero trabajamos duro para hacer que nuestros juegos sean lo más divertidos posible. ¡Tu opinión es muy importante y nos haría muy felices!"
+    ],
+    [
+      "p",
+      "Si quieres seguir el desarrollo y participar en futuras pruebas de juegos, síguenos en la página del estudio en Steam y únete a nuestro Discord."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Microsoft® Windows® 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 3.0 GHz 64 bits Processor"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce GTX 770 (4 GB)"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and OS."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_3ddcd0269948813a29bf9499188f2e2175a31846.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_3ddcd0269948813a29bf9499188f2e2175a31846.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_8a087698ccf764fa7a52c0c669613fe8fadc3a60.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_8a087698ccf764fa7a52c0c669613fe8fadc3a60.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_87b6165195d377b1de6e80c87a836f02c5535dd0.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_87b6165195d377b1de6e80c87a836f02c5535dd0.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_ad16a04e74d22b0384bdeca81957ef5879eeee3a.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_ad16a04e74d22b0384bdeca81957ef5879eeee3a.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_2500ce69e8fd047eb990c08dcd797b330ad65bd4.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_2500ce69e8fd047eb990c08dcd797b330ad65bd4.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_5973fdc9a89ee0055bfb30d941839b57408634f7.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_5973fdc9a89ee0055bfb30d941839b57408634f7.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_6d434945da780235194b1ffe6593ca7677f74443.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_6d434945da780235194b1ffe6593ca7677f74443.1920x1080.jpg?t=1729019488"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_c6dc55e4194a721fe2e6b95fd068b9e5859f073f.600x338.jpg?t=1729019488",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976100/ss_c6dc55e4194a721fe2e6b95fd068b9e5859f073f.1920x1080.jpg?t=1729019488"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.6,
+    "cantidad": 9,
+    "escala": 5
+  },
+  "xbox": "9P586HXNHZVT",
+  "igdbIntentado": true,
+  "igdb": 199590,
+  "youtube": [
+    {
+      "id": "lA7UsqdnWso",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2Wu7ghQ8JoA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:39:24.952Z"
+}

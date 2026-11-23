@@ -1,0 +1,271 @@
+{
+  "clave": "88 heroes",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-0e94-7003-b94b-805c99507913",
+  "appid": "487040",
+  "lanzamiento": "2017-03-24",
+  "desarrolladores": [
+    "Bitmap Bureau"
+  ],
+  "editores": [
+    "Bitmap Bureau",
+    "Rising Star Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Indie",
+    "Pixel Graphics",
+    "Platformer",
+    "2D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 73,
+      "cantidad": 56,
+      "url": "https://store.steampowered.com/app/487040/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 62,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/88-heroes/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 26,
+      "url": "https://opencritic.com/game/4088/88-heroes"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "109713",
+      "nombre": "88 Heroes",
+      "apps": [
+        {
+          "appid": "487040",
+          "nombre": "88 Heroes"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "487040": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "619800",
+      "nombre": "88 Heroes – H8 Mode Activated!",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    },
+    {
+      "appid": "619801",
+      "nombre": "88 Heroes – RSG Champions",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Prepárate para infiltrarte en la guarida del Dr. H8 con la ayuda de los superhéroes más raros, tontos e inútiles de la historia… ¡los 88 héroes!",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "24 MAR 2017",
+  "metacritic": null,
+  "nombreSteam": "88 Heroes",
+  "acerca": [
+    [
+      "p",
+      "Son las 8:08 a. m. del 8 de agosto de 1988, ¡y el malvado Dr. H8 ha puesto el mundo al borde de la aniquilación total! Sus exigencias son sencillas: o se le pagan 88 octillones de $ en 88 minutos, ¡o las 88 ojivas termonucleares del Dr. H8 harán desaparecer la Tierra! ¿Pero quién nos salvará en este momento de necesidad? ¿Los más valientes? ¿Los más audaces? No... ¡los 88 héroes!"
+    ],
+    [
+      "p",
+      "¡Prepárate para infiltrarte en la guarida del Dr. H8 con la ayuda de los superhéroes más raros, tontos e inútiles de la historia! 88 niveles te separan del Dr. H8, tienes solo 88 segundos para completar cada uno de ellos y el reloj del Juicio Final ya está contando sus 88 minutos... Ponte al frente de 88 personajes únicos —cada cual con sus propias habilidades especiales— saltando de plataforma en plataforma, aplastando enemigos y esquivando peligros, ¡todo para salvar la Tierra de la destrucción total!"
+    ],
+    [
+      "p",
+      "¿Podrán los 88 héroes solucionar la situación? ¡Esperemos que sí! Llamaron a los mejores, pero los mejores estaban ocupados..."
+    ],
+    [
+      "li",
+      "¡88 héroes distintos! Descubre sus poderes únicos y úsalos para conquistar cada nivel, aunque si mueren, ¡los perderás para siempre (bueno, más o menos)!"
+    ],
+    [
+      "li",
+      "¡88 niveles distintos! Explora la guarida del Dr. H8 a través de cuatro mundos, esquivando todo tipo de obstáculos mortales y malvados enemigos asesinos de héroes."
+    ],
+    [
+      "li",
+      "¡88 segundos por nivel! El reloj está en marcha; ¡¿podrás llegar al ático de la estación espacial orbital del Dr. H8 antes de que se agoten los 88 minutos del Contador del Juicio Final?!"
+    ],
+    [
+      "li",
+      "¡Siempre querrás volver a jugar! El orden de los héroes cambia cada vez que juegas para que no decaiga el interés, y puedes intentar que tus ocho héroes preferidos sean la salvación, o incluso uno solo. ¡Buena suerte!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.x/10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "512Mb VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "450 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Any compatible soundcard"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_f946414d78a96659b1e837d1a5cf060a477f10bf.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_f946414d78a96659b1e837d1a5cf060a477f10bf.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_a5ee13cb59773f88dbad6b1dc76bcd20165a7716.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_a5ee13cb59773f88dbad6b1dc76bcd20165a7716.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_dd7d3b515c85038b73d3d0b35016a3a342566230.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_dd7d3b515c85038b73d3d0b35016a3a342566230.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_fbf6aec0a3298ec388e94155dce87a98a25ac9e1.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_fbf6aec0a3298ec388e94155dce87a98a25ac9e1.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_90cc3e4392d08b98e85485d79b579c79b35755a1.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_90cc3e4392d08b98e85485d79b579c79b35755a1.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_4ad2ea7bcd1e7cd2d2e6f3ac30aad1554b2d3cec.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_4ad2ea7bcd1e7cd2d2e6f3ac30aad1554b2d3cec.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_b7e436a27cbcce77e162a0d333da95fe74717931.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_b7e436a27cbcce77e162a0d333da95fe74717931.1920x1080.jpg?t=1587115019"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_82a4018dcda66e2621c15c7df97788c3acb60b6e.600x338.jpg?t=1587115019",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487040/ss_82a4018dcda66e2621c15c7df97788c3acb60b6e.1920x1080.jpg?t=1587115019"
+    }
+  ],
+  "web": "http://www.risingstargames.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.2,
+    "cantidad": 75,
+    "escala": 5
+  },
+  "xbox": "C0CLMQ17922W",
+  "igdbIntentado": true,
+  "igdb": 23501,
+  "youtube": [
+    {
+      "id": "Qegd1RpI7as",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:35:46.854Z"
+}

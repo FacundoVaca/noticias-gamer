@@ -1,0 +1,341 @@
+{
+  "clave": "yakuza kiwami",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-05e3-7166-b4fd-fd7befde7f8f",
+  "appid": "3717330",
+  "lanzamiento": "2025-12-11",
+  "desarrolladores": [
+    "SEGA",
+    "RGG Studio"
+  ],
+  "editores": [
+    "SEGA"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Action-Adventure",
+    "Beat 'em up"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 1535,
+      "url": "https://store.steampowered.com/app/3717330/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/yakuza-kiwami/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 1092,
+      "url": "https://metacritic.com/game/yakuza-kiwami/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 146,
+      "url": "https://opencritic.com/game/4737/yakuza-kiwami"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1466003",
+      "nombre": "Yakuza Kiwami - Actualización",
+      "apps": [
+        {
+          "appid": "3717330",
+          "nombre": "Yakuza Kiwami"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 1.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1308688",
+      "nombre": "Yakuza Kiwami",
+      "apps": [
+        {
+          "appid": "3717330",
+          "nombre": "Yakuza Kiwami"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 17.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3717330": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Revela una conspiración de 10 000 millones de yenes en el barrio rojo de Tokio. Tus puños y una determinación inquebrantable te harán leyenda.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "11 DIC 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Yakuza Kiwami",
+  "acerca": [
+    [
+      "p",
+      "Kazuma Kiryu carga con la culpa de un asesinato y, tras una década entre rejas, regresa a las calles para descubrir que los clanes yakuza están a un paso de la guerra. Embárcate en una intensa aventura de amor, humanidad y traición, donde tus puños y una determinación inquebrantable te guiarán por el vibrante barrio rojo del Japón moderno."
+    ],
+    [
+      "p",
+      "■ CONTROLA CUATRO ESTILOS DE LUCHA"
+    ],
+    [
+      "p",
+      "Cambia a tu aire entre cuatro estilos de lucha (el brutal \"camorrista\", el veloz \"acelerado\", el imponente \"bestia\" y el legendario \"dragón\") y emplea cualquier cosa que encuentres por la calle como arma para machacar a oleadas de enemigos en combates realistas, trepidantes y divertidos."
+    ],
+    [
+      "p",
+      "■ ADÉNTRATE EN JAPÓN"
+    ],
+    [
+      "p",
+      "Tras partir algunas caras, date un respiro de la historia principal y disfruta de las actividades nocturnas que hay por Kamurocho: el karaoke, el casino, el club de hostesses, máquinas recreativas, la zona de bateo y muchas más, mientras conoces a pintorescos personajes de todo tipo."
+    ],
+    [
+      "p",
+      "* Si tienes Yakuza Kiwami (versión anterior), puedes hacerte con Yakuza Kiwami a un precio reducido."
+    ],
+    [
+      "p",
+      "* Yakuza Kiwami es una versión que añade idiomas adicionales no disponibles en Yakuza Kiwami (versión anterior). No hay otras diferencias en el contenido básico ni en las especificaciones del juego."
+    ],
+    [
+      "p",
+      "* Los datos guardados de Yakuza Kiwami (versión anterior) no se transfieren a Yakuza Kiwami."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8100, 3.6 GHz or AMD Ryzen 3 2300X, 3.5 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX960, 4GB or AMD Radeon RX460, 4GB or Intel Arc A380, 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "31 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low 1080p @ 30FPS. Requires a CPU which supports AVX and SSE4.2 instruction set."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600K, 3.6 GHz or AMD Ryzen 5 2500X, 3.6 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX1070, 8GB or AMD Radeon RX Vega 56, 8GB or Intel Arc A750, 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "31 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p @ 60FPS. Requires a CPU which supports AVX and SSE4.2 instruction set."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/149c196db11c34987d6573d8e9980240d7695ca4/ss_149c196db11c34987d6573d8e9980240d7695ca4.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/149c196db11c34987d6573d8e9980240d7695ca4/ss_149c196db11c34987d6573d8e9980240d7695ca4.1920x1080.jpg?t=1784876186"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/a3fe61e383ec2686c1df138fd10ccec4d341f11e/ss_a3fe61e383ec2686c1df138fd10ccec4d341f11e.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/a3fe61e383ec2686c1df138fd10ccec4d341f11e/ss_a3fe61e383ec2686c1df138fd10ccec4d341f11e.1920x1080.jpg?t=1784876186"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/84a81bf7397a6c9baa8e898afa9c51510291fb24/ss_84a81bf7397a6c9baa8e898afa9c51510291fb24.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/84a81bf7397a6c9baa8e898afa9c51510291fb24/ss_84a81bf7397a6c9baa8e898afa9c51510291fb24.1920x1080.jpg?t=1784876186"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/de558c224b73496d63c9e4d4db454590807db642/ss_de558c224b73496d63c9e4d4db454590807db642.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/de558c224b73496d63c9e4d4db454590807db642/ss_de558c224b73496d63c9e4d4db454590807db642.1920x1080.jpg?t=1784876186"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/334809241d509548cf4083713c84e75be2847dfd/ss_334809241d509548cf4083713c84e75be2847dfd.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/334809241d509548cf4083713c84e75be2847dfd/ss_334809241d509548cf4083713c84e75be2847dfd.1920x1080.jpg?t=1784876186"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/9ede06e1a36f9a67e373bb1b2a806bf24e1ead48/ss_9ede06e1a36f9a67e373bb1b2a806bf24e1ead48.600x338.jpg?t=1784876186",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3717330/9ede06e1a36f9a67e373bb1b2a806bf24e1ead48/ss_9ede06e1a36f9a67e373bb1b2a806bf24e1ead48.1920x1080.jpg?t=1784876186"
+    }
+  ],
+  "web": "https://www.sega.com/like-a-dragon-yakuza/yakuza-kiwami",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.8,
+    "cantidad": 42,
+    "escala": 5
+  },
+  "xbox": "9PGTT1QZLXDD",
+  "igdbIntentado": true,
+  "igdb": 12595,
+  "youtube": [
+    {
+      "id": "LcxJYIcsQzs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5PqHYONG-xI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HMw_E_s4Y74",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "g4mKPYm_i0w",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:37:48.829Z"
+}

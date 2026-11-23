@@ -1,0 +1,610 @@
+{
+  "clave": "naruto to boruto shinobi striker",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-21bd-730b-89ed-9d4ac523a8f0",
+  "appid": "633230",
+  "lanzamiento": "2018-08-30",
+  "desarrolladores": [
+    "Soleil Ltd."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "Soleil Ltd.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Anime",
+    "Character Customization",
+    "Multiplayer",
+    "Action",
+    "Fighting"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 42640,
+      "url": "https://store.steampowered.com/app/633230/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 66,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/naruto-to-boruto-shinobi-striker/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 191,
+      "url": "https://metacritic.com/game/naruto-to-boruto-shinobi-striker/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 64,
+      "cantidad": 53,
+      "url": "https://opencritic.com/game/6537/naruto-to-boruto-shinobi-striker"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "172542",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER",
+      "apps": [
+        {
+          "appid": "633230",
+          "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "286199",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER Deluxe Edition",
+      "apps": [
+        {
+          "appid": "633230",
+          "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "894705",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER Ultimate Edition",
+      "apps": [
+        {
+          "appid": "633230",
+          "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER"
+        }
+      ],
+      "usd": 63.99,
+      "antes": 63.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "633230": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 90,
+  "dlcLista": [
+    {
+      "appid": "4467520",
+      "nombre": "Pase de temporada 10 de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4467480",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Kabuto Yakushi (Modo Sabio)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4467470",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Naruto Uzumaki (Modo Sabio)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4467460",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Jiraiya (Modo Sabio)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4467510",
+      "nombre": "Conjunto Entrenamiento ultrasecreto NTBSS - Personajes del pase de temporada 9",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3601260",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Kimimaro",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3601250",
+      "nombre": "Paquete de entrenamiento personaje maestro de NTBSS: Momoshiki Otsutsuki",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3888520",
+      "nombre": "Paquete completo de ninjutsu especial de NTBSS: \"Bestia con colas\" despierta",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3601240",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Kakuzu",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3601230",
+      "nombre": "NTBSS: Paquete de entrenamiento de personaje maestro: Hidan",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3601290",
+      "nombre": "Pase de temporada 9 de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3020740",
+      "nombre": "NTBSS: Special Ninjutsu - Host Transformation: Seven Tails",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3623160",
+      "nombre": "Paquete de personaje, temporada 8 de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3020770",
+      "nombre": "NTBSS: Paquete de entrenamiento personaje maestro: Sasuke Uchiha (vers. joven, batalla final)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3244600",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER - Paquete de inicio de Sasuke Uchiha",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3020730",
+      "nombre": "NTBSS: Ninjutsu especial - Transformación de portador: Tres colas",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3020760",
+      "nombre": "Paquete de entrenamiento personaje maestro de NTBSS: Naruto Uzumaki (vers. joven)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3244590",
+      "nombre": "Paquete de inicio de Naruto Uzumaki de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 10.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3244580",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER - Paquete de Ninjutsu especial: Un anciano que renació como Kage",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3020720",
+      "nombre": "NTBSS: Ninjutsu especial - Transformación de portador: Seis colas",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3020750",
+      "nombre": "NTBSS: Paquete de entrenamiento de personaje maestro: Shisui Uchiha (Susano'o perfecto)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2903770",
+      "nombre": "NTBSS: Ninjutsu especial - Transformación de portador: Dos colas",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2903750",
+      "nombre": "NTBSS: Paquete de entrenamiento de personaje maestro: Kawaki (progresión de karma)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321111",
+      "nombre": "Pase de temporada 7 de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2321105",
+      "nombre": "NTBSS: Paquete de entrenamiento de personaje maestro: Sasori",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321103",
+      "nombre": "NTBSS: Paq. entrenamiento pers. maestro: Gaara (vers. joven)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321100",
+      "nombre": "NTBSS: Paq. entren. pers. maestro: Boruto Uzumaki (progresión de karma)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321110",
+      "nombre": "Pase de temporada 6 de NARUTO TO BORUTO: SHINOBI STRIKER",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2321096",
+      "nombre": "NTBSS: Paquete de entrenamiento de personaje maestro: Kaguya Otsutsuki",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321094",
+      "nombre": "NTBSS: Paq. entrenamiento personaje maestro: Obito Uchiha (Diez Colas)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2321091",
+      "nombre": "NTBSS: Paq. entrenamiento personaje maestro: Minato Namikaze (Transmigración)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1983245",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER Season Pass 5",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1983244",
+      "nombre": "NTBSS Paquete de entrenamiento de personaje maestro - Isshiki Otsutsuki",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1983243",
+      "nombre": "NTBSS Paquete de entrenamiento personaje maestro Naruto Uzumaki (modo Baryon)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1983242",
+      "nombre": "NTBSS Paquete de entrenamiento personaje maestro Konohamaru Sarutobi (BORUTO)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1983241",
+      "nombre": "NTBSS Paquete de entrenamiento personaje maestro Temari",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1983240",
+      "nombre": "NTBSS Master Character Training Pack - Madara Uchiha (Six Paths)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1090165",
+      "nombre": "NARUTO TO BORUTO: SHINOBI STRIKER Season Pass 4",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1090183",
+      "nombre": "NTBSS Master Character Training Pack - Kawaki",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1090182",
+      "nombre": "NTBSS Master Character Training Pack - Sasuke Uchiha (Last Battle)",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Combate en un equipo de 4 para competir contra otros equipos online! SHINOBI STRIKER tiene un estilo gráfico totalmente nuevo, creado desde cero. ¡Dirige a tu equipo y combate online para ver quiénes son los mejores ninjas!",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "29 JUN 2023",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "NARUTO TO BORUTO: SHINOBI STRIKER",
+  "acerca": [
+    [
+      "p",
+      "¡La franquicia de Naruto vuelve con una nueva experiencia en NARUTO TO BORUTO: SHINOBI STRIKER! ¡Este nuevo juego permite a los jugadores combatir en un equipo de 4 para competir contra otros equipos online! SHINOBI STRIKER tiene un estilo gráfico totalmente nuevo, creado desde cero. ¡Dirige a tu equipo y combate online para ver quiénes son los mejores ninjas!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8.1/10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8350K"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GT 640"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8.1/10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2500K @ 3.30GHz / AMD FX-6300 Six-Core"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon R9 270X / R7 265 2 GB / Nvidia GeForce GTX 660 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_c4db8eb9899c7e9a652e3121b89e4a5d5fb0a3d6.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_c4db8eb9899c7e9a652e3121b89e4a5d5fb0a3d6.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_aee57b82c12b83f5a0e11c774c1ae5bc9fea235f.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_aee57b82c12b83f5a0e11c774c1ae5bc9fea235f.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_8ff5d5db6682e51f5542026f457fa63619e57ab1.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_8ff5d5db6682e51f5542026f457fa63619e57ab1.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_433acea463c9491570812c3f89b779f8ce5e3a0e.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_433acea463c9491570812c3f89b779f8ce5e3a0e.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_c13b3cadae06f976be610acc749ca9d7870b5d91.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_c13b3cadae06f976be610acc749ca9d7870b5d91.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_98648de36eb423c45bc3acb692b416c1c34494b9.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_98648de36eb423c45bc3acb692b416c1c34494b9.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_3e8e3dacc1ab883569b28bce4d35ba9a11d0204e.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_3e8e3dacc1ab883569b28bce4d35ba9a11d0204e.1920x1080.jpg?t=1794524689"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_5d46580cef46c854a46f894cde36be36ba8f71f6.600x338.jpg?t=1794524689",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/ss_5d46580cef46c854a46f894cde36be36ba8f71f6.1920x1080.jpg?t=1794524689"
+    }
+  ],
+  "web": "https://www.bandainamcoent.com/games/naruto-to-boruto-shinobi-striker",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 28175,
+  "youtube": [
+    {
+      "id": "9nsbKNAtwdw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "e9ZWOlLSxpo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "j4CWuPoDeOQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2H9uHv2neEU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:09.772Z"
+}

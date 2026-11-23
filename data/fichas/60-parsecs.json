@@ -1,0 +1,310 @@
+{
+  "clave": "60 parsecs",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-0a78-72ea-954a-ac37d8d49b79",
+  "appid": "646270",
+  "lanzamiento": "2018-09-18",
+  "desarrolladores": [
+    "Robot Gentleman"
+  ],
+  "editores": [
+    "Robot Gentleman"
+  ],
+  "etiquetas": [
+    "Turn-Based Strategy",
+    "Text-Based",
+    "Funny",
+    "Dark Humor",
+    "Sci-fi"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 3335,
+      "url": "https://store.steampowered.com/app/646270/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 68,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/60-parsecs/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 48,
+      "url": "https://metacritic.com/game/60-parsecs/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 72,
+      "cantidad": 10,
+      "url": "https://opencritic.com/game/6671/60-parsecs-"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "181514",
+      "nombre": "60 Parsecs!",
+      "apps": [
+        {
+          "appid": "646270",
+          "nombre": "60 Parsecs!"
+        }
+      ],
+      "usd": 3.14,
+      "antes": 6.29,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "646270": {
+      "usd": 3.14,
+      "gratis": false
+    }
+  },
+  "descripcion": "60 Parsecs! es una aventura de búsqueda y supervivencia en la era espacial atómica. Mantén a tu tripulación viva y lista para la acción. Toma difíciles decisiones, enfréntate a la escasez de sopa y a otros horrores del espacio exterior, y alcanza tu destino, o no.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "18 SEP 2018",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "60 Parsecs!",
+  "acerca": [
+    [
+      "p",
+      "¡La era espacial atómica fue la bomba! Hasta que se convirtió en la era espacial posapocalíptica."
+    ],
+    [
+      "p",
+      "Tu estación espacial está a punto de explotar y solo tienes 60 segundos antes de que las cosas se pongan feas. ¿Qué (o a quién) llevarás contigo antes de salir pitando al transbordador de emergencia y comenzar tu viaje hacia LO DESCONOCIDO?"
+    ],
+    [
+      "p",
+      "60 Parsecs! es una aventura de ciencia ficción y comedia negra ambientada en la era espacial atómica que cuenta con toda la paranoia de la Guerra Fría, detalles cromados en las paredes y cucarachas con cascos espaciales."
+    ],
+    [
+      "p",
+      "Lidera una tripulación de astronautas desgraciadamente inexpertos que solo dispondrán de la basura, perdón, los «suministros» que puedas recoger antes de despegar y recorrer el cosmos en un viaje desafortunado. Saca el mayor provecho a la situación mientras te enfrentas a la escasez de sopa y a otros numerosos horrores del espacio exterior. ¿Tienes lo que hay que tener para sobrevivir y encontrar un nuevo hogar entre las estrellas?"
+    ],
+    [
+      "p",
+      "Bon voyage!"
+    ],
+    [
+      "h",
+      "BUSCA Y EVACÚA"
+    ],
+    [
+      "p",
+      "Solo tienes 60 segundos antes de que las bombas nucleares reduzcan la estación espacial a partículas flotantes en el vacío del espacio, así que hazte con todos los recursos y tripulantes que puedas antes de escapar. Nunca sabes cuándo te puede venir bien una marioneta de calcetín."
+    ],
+    [
+      "h",
+      "SOBREVIVE Y DECIDE"
+    ],
+    [
+      "p",
+      "Los funerales en el espacio son un fastidio, así que intenta no morir y eso. Haz uso de tus recursos limitados y de tu inteligencia (esperemos que sin limitar) para tomar decisiones difíciles que garanticen tu supervivencia, aunque parezca que todo esté en tu contra."
+    ],
+    [
+      "h",
+      "EXPLORA Y FABRICA"
+    ],
+    [
+      "p",
+      "La cinta adhesiva lo arregla todo, pero ¿qué arregla (o al menos fabrica) la cinta adhesiva? Envía expediciones en busca de recursos, fabrica equipamiento necesario para sobrevivir y explora mundos desconocidos en esta aventura procedimental de muerte muy pero que muy permanente."
+    ],
+    [
+      "h",
+      "LIDERA Y PROTEGE"
+    ],
+    [
+      "p",
+      "Como comandante, es tu deber mantener felices a los miembros de la tripulación, ya que así es menos probable que te acaben matando. Gestiona tus relaciones con ellos y contempla cómo estrecháis lazos, y quizá, solo quizá, no os tiráis los unos a los otros por la cámara estanca."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 64 Bit"
+      ],
+      [
+        "Procesador",
+        "i5-2430M"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GT540"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_172697460ff9765c13d24fbd855a31d18bca26f1.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_172697460ff9765c13d24fbd855a31d18bca26f1.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_3da32205b491968adf7954072da4cd33b89ef50d.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_3da32205b491968adf7954072da4cd33b89ef50d.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_743ef1a60af1f4844492f066fb3d306f0cc5b549.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_743ef1a60af1f4844492f066fb3d306f0cc5b549.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_e46e02c467d16bf49876731b96365cacf9b67fb5.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_e46e02c467d16bf49876731b96365cacf9b67fb5.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_ac8280654c057db36adbff70caf5b5457692da15.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_ac8280654c057db36adbff70caf5b5457692da15.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_97a68dac2a3653afa4a24eef38572945fc865eb0.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_97a68dac2a3653afa4a24eef38572945fc865eb0.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_f22de5c3f52dda3846b0d3d7e2cdee6051a2dc19.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_f22de5c3f52dda3846b0d3d7e2cdee6051a2dc19.1920x1080.jpg?t=1781618811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_5cd7e65c72f1a429f78ddc5747379ab96022fffb.600x338.jpg?t=1781618811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646270/ss_5cd7e65c72f1a429f78ddc5747379ab96022fffb.1920x1080.jpg?t=1781618811"
+    }
+  ],
+  "web": "http://60parsecs.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.9,
+    "cantidad": 129,
+    "escala": 5
+  },
+  "xbox": "9NSCS1KS9Z0W",
+  "igdbIntentado": true,
+  "igdb": 11710,
+  "youtube": [
+    {
+      "id": "OdRBWBAiO_4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "jHR50pU6fgo",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:35:15.525Z"
+}

@@ -1,0 +1,316 @@
+{
+  "clave": "escape the backrooms",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-619b-7030-921e-96f4eaf27dda",
+  "appid": "1943950",
+  "lanzamiento": "2025-10-22",
+  "desarrolladores": [
+    "Fancy Games",
+    "Blackbird Interactive"
+  ],
+  "editores": [
+    "Fancy Games",
+    "Secret Mode Limited",
+    "Secret Mode",
+    "Secret Mode Ltd"
+  ],
+  "etiquetas": [
+    "Horror",
+    "Multiplayer",
+    "Online Co-Op",
+    "Psychological Horror",
+    "Co-op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 141402,
+      "url": "https://store.steampowered.com/app/1943950/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 35,
+      "url": "https://metacritic.com/game/escape-the-backrooms/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "700469",
+      "nombre": "Escape the Backrooms",
+      "apps": [
+        {
+          "appid": "1943950",
+          "nombre": "Escape the Backrooms"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1943950": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5002700",
+      "nombre": "Escape the Backrooms Lost & Found Cosmetic Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Escape the Backrooms es un juego de terror y exploración cooperativa de 1 a 4 jugadores. Recorre más de 30 niveles de salas traseras estremecedoras mientras evitas entidades y otros peligros. Tu misión es escapar, pero ten cuidado: nada te asegurará sobrevivir.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "23 OCT 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Escape the Backrooms",
+  "acerca": [
+    [
+      "p",
+      "Explora una extensión supuestamente infinita de niveles terroríficamente familiares en salas traseras basadas en el popular acervo «creepypasta». Cada nivel cuenta con varias formas de escapar y peligros por el camino."
+    ],
+    [
+      "p",
+      "Los gráficos realistas, las interfaces de usuario mínimas y el ambiente sombrío se combinan para ofrecer un ambiente escalofriante."
+    ],
+    [
+      "p",
+      "Explora las salas con un equipo de hasta 4 jugadores. Buena suerte: puede que algunos compañeros de equipo atraviesen algún muro y aparezcan en otras zonas del mapa, pero todos los miembros de tu equipo deben llegar a la salida con vida para escapar. Ningún caminante debe quedar atrás."
+    ],
+    [
+      "p",
+      "Recorre más de 30 niveles únicos basados en el acervo de las salas traseras. No te alejes de tu equipo, ya que es muy fácil perderse en este lugar."
+    ],
+    [
+      "p",
+      "Comprueba cada rincón por si hay entidades hostiles acechando. Cada una tiene sus propias mecánicas. Aprende rápido si quieres sobrevivir al terror."
+    ],
+    [
+      "p",
+      "Comunícate con tus compañeros de equipo con el chat de voz de proximidad. Las entidades también pueden oírte, así que permanece en silencio siempre que haya peligro cerca."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 8 / 10 / 11 - 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Any"
+      ],
+      [
+        "Notas adicionales",
+        "Los requisitos pueden cambiar en futuras actualizaciones.."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400 / AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_391a7c8a4ff906726977d9d72f82c0336be46bfd.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_391a7c8a4ff906726977d9d72f82c0336be46bfd.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/7ec4526ee8cf906377d44ff5e0284e2f9191dcaa/ss_7ec4526ee8cf906377d44ff5e0284e2f9191dcaa.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/7ec4526ee8cf906377d44ff5e0284e2f9191dcaa/ss_7ec4526ee8cf906377d44ff5e0284e2f9191dcaa.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/31c55970a7cc9a08c6ff72ba165cc0124e2224f9/ss_31c55970a7cc9a08c6ff72ba165cc0124e2224f9.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/31c55970a7cc9a08c6ff72ba165cc0124e2224f9/ss_31c55970a7cc9a08c6ff72ba165cc0124e2224f9.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/de0d406d4946b22d174bb9ce1e64317516d92b5a/ss_de0d406d4946b22d174bb9ce1e64317516d92b5a.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/de0d406d4946b22d174bb9ce1e64317516d92b5a/ss_de0d406d4946b22d174bb9ce1e64317516d92b5a.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_bd0c8faa3e219d4a8489a9e9f8c69dae3f5653d1.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_bd0c8faa3e219d4a8489a9e9f8c69dae3f5653d1.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_be8a2441bfd9c6853c9e8091ce0c146ec6bea6ae.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/ss_be8a2441bfd9c6853c9e8091ce0c146ec6bea6ae.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f660fbae0d7b6aae223449cf102fa575ca1fd297/ss_f660fbae0d7b6aae223449cf102fa575ca1fd297.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f660fbae0d7b6aae223449cf102fa575ca1fd297/ss_f660fbae0d7b6aae223449cf102fa575ca1fd297.1920x1080.jpg?t=1793277465"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/fcad6110fc59ef9179e72ce0e463a537f727885c/ss_fcad6110fc59ef9179e72ce0e463a537f727885c.600x338.jpg?t=1793277465",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/fcad6110fc59ef9179e72ce0e463a537f727885c/ss_fcad6110fc59ef9179e72ce0e463a537f727885c.1920x1080.jpg?t=1793277465"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4,
+    "cantidad": 5574,
+    "escala": 5
+  },
+  "xbox": "9MW15L8FRT9P",
+  "igdbIntentado": true,
+  "igdb": 197202,
+  "youtube": [
+    {
+      "id": "fDKC13rtCMI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7CP0obmijRo",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "ib-Nepqh19Y",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "uYyLijTKma4",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:42:44.678Z"
+}

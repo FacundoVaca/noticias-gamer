@@ -1,0 +1,295 @@
+{
+  "clave": "grood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937e-ea50-722d-912d-9b9a5ff87c3d",
+  "appid": "793630",
+  "lanzamiento": "2018-03-31",
+  "desarrolladores": [
+    "Claudio Catalano",
+    "CC ARTS"
+  ],
+  "editores": [
+    "Claudio Catalano",
+    "CC ARTS"
+  ],
+  "etiquetas": [
+    "Action",
+    "Indie",
+    "Shoot 'Em Up",
+    "Difficult",
+    "Bullet Hell"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 36,
+      "url": "https://store.steampowered.com/app/793630/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "240510",
+      "nombre": "GROOD",
+      "apps": [
+        {
+          "appid": "793630",
+          "nombre": "GROOD"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "793630": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "819200",
+      "nombre": "GROOD - Original Soundtrack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "GROOD es un indie 2.5D Shoot 'em up hecho con Unity y Heavy Metal🤘🏻. El juego combina el clásico Shoot 'em up con gráficos modernos low poly, partículas, shaders y el poder de Unity. Aniquila a un ejército de máquinas y, después, aniquila a sus jefes – da el todo por el todo para confirmar que tu batalla valió la pena.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "30 MAR 2018",
+  "metacritic": null,
+  "nombreSteam": "GROOD",
+  "acerca": [
+    [
+      "p",
+      "GROOD es un indie 2.5D Shoot 'em up hecho con Unity y Heavy Metal🤘🏻."
+    ],
+    [
+      "p",
+      "El juego combina el clásico Shoot 'em up, la mecánica de la frenética con gráficos modernos low poly, partículas, shaders y el poder de Unity."
+    ],
+    [
+      "p",
+      "Viaja a través de diferentes ambientes y todo tipo de climas, desde el día hasta la noche. Aniquila a un ejército de máquinas y, después, aniquila a sus jefes – da el todo por el todo para confirmar que tu batalla valió la pena."
+    ],
+    [
+      "p",
+      "Viaja a través de bosques, pantanos, ciudades, tierras heladas, desiertos y más. Los patrones climáticos dinámicos del juego significan que tu batalla tendrá lugar en un lugar diferente cada vez que juegues."
+    ],
+    [
+      "p",
+      "Un bosque se verá salvajemente diferente bajo la lluvia al amanecer, en el sol del mediodía y durante una nevada nocturna."
+    ],
+    [
+      "p",
+      "Te enfrentaras a diferentes enemigos en diferentes juegos. Pequeño, grande, lento, rápido: pelea contra todos."
+    ],
+    [
+      "h",
+      "Características de GROOD"
+    ],
+    [
+      "li",
+      "Modo de juego súper rápido"
+    ],
+    [
+      "li",
+      "Condiciones climáticas dinámicas para una experiencia diferente cada vez que juegas"
+    ],
+    [
+      "li",
+      "Múltiples jefes para las finales"
+    ],
+    [
+      "li",
+      "Varias armas"
+    ],
+    [
+      "li",
+      "Ciclo diurno/nocturno. ¡Lucha temprano en la mañana, durante la tarde o en la noche!"
+    ],
+    [
+      "li",
+      "Más de 30 logros difíciles de alcanzar"
+    ],
+    [
+      "li",
+      "Tabla de clasificación mundial: vence a tus amigos y a todos en el mundo"
+    ],
+    [
+      "li",
+      "Cámara lenta: golpea a tus oponentes con fuerza y disfruta de tu pelea desde una nueva perspectiva"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tablas de clasificación de Steam",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8/10 32/64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core2 Quad Q6600 or AMD Phenom FX-5200 Quad-Core"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 650 or Radeon HD 7850"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/8/10 32/64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3450 or AMD FX-4330"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 660 (2048mb) or Radeon HD 7950"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_6c90429cf208709cfb40de12f4a605b63ba46edf.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_6c90429cf208709cfb40de12f4a605b63ba46edf.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_478fe5b8512d00aec38492ae8ec10beb842169f1.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_478fe5b8512d00aec38492ae8ec10beb842169f1.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_34622a968428fec3aeb18fb39f04beaf8836930c.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_34622a968428fec3aeb18fb39f04beaf8836930c.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_fe0baab27c3e6aab8ebfc54c6fc8785d5a9eff1b.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_fe0baab27c3e6aab8ebfc54c6fc8785d5a9eff1b.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_86d3ff399cd14492b22b6610abbc10e76a6bf9f8.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_86d3ff399cd14492b22b6610abbc10e76a6bf9f8.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_6727dec6102696493cb37de59730ba0caf4bea8f.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_6727dec6102696493cb37de59730ba0caf4bea8f.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_fb28d3ab44ebba77fff5b6d25e3b244f5d9ddb50.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_fb28d3ab44ebba77fff5b6d25e3b244f5d9ddb50.1920x1080.jpg?t=1670440188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_ea6079ccaafa22fc3c703ddcc7f339964ca452dc.600x338.jpg?t=1670440188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/793630/ss_ea6079ccaafa22fc3c703ddcc7f339964ca452dc.1920x1080.jpg?t=1670440188"
+    }
+  ],
+  "web": "https://ccarts.it/grood",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.5,
+    "cantidad": 42,
+    "escala": 5
+  },
+  "xbox": "9P5GP0261HN5",
+  "igdbIntentado": true,
+  "igdb": 90116,
+  "youtube": [
+    {
+      "id": "c4ItBoEWOfw",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:40:57.365Z"
+}

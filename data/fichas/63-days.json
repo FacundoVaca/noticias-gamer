@@ -1,0 +1,324 @@
+{
+  "clave": "63 days",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018ec18c-f1b6-7118-a8fc-16da67185dde",
+  "appid": "2202120",
+  "lanzamiento": "2024-09-26",
+  "desarrolladores": [
+    "Destructive Creations"
+  ],
+  "editores": [
+    "Destructive Creations"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "Real Time Tactics",
+    "World War II",
+    "RTS",
+    "Isometric"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 418,
+      "url": "https://store.steampowered.com/app/2202120/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/63-days/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "788589",
+      "nombre": "63 Days",
+      "apps": [
+        {
+          "appid": "2202120",
+          "nombre": "63 Days"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 17.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2202120": {
+      "usd": 17.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3389260",
+      "nombre": "63 Days Soundtrack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "La Segunda Guerra Mundial me despojó de mi familia, mi hogar y mi futuro. Ahora sólo me queda una opción: vengarme y conseguir la independencia o morir en el intento. Las probabilidades están en nuestra contra: ¿serán suficientes nuestras tácticas, nuestro sigilo y nuestro trabajo en equipo?",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "26 SEP 2024",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "63 Days",
+  "acerca": [
+    [
+      "p",
+      "Pertenezco a la primera generación nacida en una Polonia libre, tras 123 años de ocupación extranjera. El estallido de la Segunda Guerra Mundial me despojó de mi familia, mi hogar y mi futuro. Estamos enfadados, cansados, pero unidos. Estamos ansiosos por hacer algo, por recuperar cierto control sobre nuestras vidas. Mis compañeros y yo sentimos que sólo tenemos una opción: vengarnos y recuperar la independencia de nuestra ciudad y nuestra nación, o morir en el intento."
+    ],
+    [
+      "p",
+      "Las probabilidades están abrumadoramente en nuestra contra. Somos como hermanos y hermanas, envalentonados por nuestro espíritu de lucha, confiando en nuestro ingenio, sigilo y trabajo en equipo. ¿Pero será todo suficiente?"
+    ],
+    [
+      "p",
+      "Si planeamos bien y ejecutamos correctamente como grupo, puede que tengamos una oportunidad. Ni siquiera sabrán qué les ha golpeado. Tenemos muchas opciones para abordar cada misión. Esperemos tomar las decisiones correctas y prevalecer."
+    ],
+    [
+      "p",
+      "Dondequiera que nos lleve nuestro levantamiento, nuestra valentía será recordada durante generaciones. Nuestra historia se contará, habrá suficientes supervivientes para contarlo. Emplearemos buenas tácticas, seremos intrépidos, seremos como fantasmas."
+    ],
+    [
+      "p",
+      "Sabemos cómo luchar. Preferimos ser sigilosos, maximizar nuestras posibilidades, minimizar nuestras pérdidas. Pero si ese enfoque nos falla, nos abriremos paso a tiros."
+    ],
+    [
+      "p",
+      "Conocemos Varsovia a la perfección. La usaremos a nuestro favor. Los alemanes pueden haber destruido grandes partes de la ciudad, ¡pero eso se volverá en su contra ahora!"
+    ],
+    [
+      "p",
+      "Somos menos en número, pero más fuertes en motivación y en los lazos que nos mantienen unidos. La buena cooperación es uno de nuestros puntos fuertes. Cada uno de nosotros tiene un trasfondo, una personalidad y unas habilidades diferentes, pero podemos luchar bien juntos. Tener un buen amigo que luche a tu lado y te cubra las espaldas no sólo es más divertido, sino también una gran ventaja."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows® 7 (Service Pack 1) / Windows® 8 / Windows® 8.1 / Windows® 10 / (64-bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-7400 or AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel Arc 380, NVIDIA GeForce GTX 950 or AMD Radeon R9 270. At least 2GB of dedicated VRAM."
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated or dedicated DirectX 11 compatible soundcard."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows® 7 (Service Pack 1) / Windows® 8 / Windows® 8.1 / Windows® 10 / (64-bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 or AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel Arc 750, NVIDIA GeForce GTX 1650 or AMD Radeon RX 470. At least 4GB of dedicated VRAM."
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated or dedicated DirectX 11 compatible soundcard."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_203ba469f5b81e0d9f1703a6e4ba70bef0c77c8a.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_203ba469f5b81e0d9f1703a6e4ba70bef0c77c8a.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_c4810e8c091c7b439f223f77de683e2936ad4380.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_c4810e8c091c7b439f223f77de683e2936ad4380.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_b13bfcad543b7837fd2fb5c705137eb49e5f29a0.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_b13bfcad543b7837fd2fb5c705137eb49e5f29a0.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_e78cf2d07d0c046f34d9f73ea501fd1b8449d998.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_e78cf2d07d0c046f34d9f73ea501fd1b8449d998.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_856fe9c58131f81b8aeea1225bfc4b2544ba4baf.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_856fe9c58131f81b8aeea1225bfc4b2544ba4baf.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_d50fbcf41669b8f5d34dd4c446d8e5cd420b1554.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_d50fbcf41669b8f5d34dd4c446d8e5cd420b1554.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_b5c4e2f19d560fb21529d6f1cee017d3c98ad673.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_b5c4e2f19d560fb21529d6f1cee017d3c98ad673.1920x1080.jpg?t=1787601971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_5387fed241310cbbce645d0409f910a35e8c0b1b.600x338.jpg?t=1787601971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/ss_5387fed241310cbbce645d0409f910a35e8c0b1b.1920x1080.jpg?t=1787601971"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violence, blood, dark themes and bad language to be experienced throughout the whole game, as it realistically portraits the War. Torture and killing of the innocent, shown or implied to be present at places. Gore is present in limited amount. Atmosphere may be found scary by some.",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.8,
+    "cantidad": 54,
+    "escala": 5
+  },
+  "xbox": "9P7T53NQ97M0",
+  "igdbIntentado": true,
+  "igdb": 296541,
+  "youtube": [
+    {
+      "id": "ddXRUPx99gs",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:35:21.297Z"
+}

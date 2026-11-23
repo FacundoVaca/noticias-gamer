@@ -1,0 +1,703 @@
+{
+  "clave": "forza horizon 6 premium edition",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "019be6fb-cd04-715b-8e6f-2bab35d6007e",
+  "appid": "2483190",
+  "lanzamiento": "2026-05-19",
+  "desarrolladores": [
+    "Playground Games"
+  ],
+  "editores": [
+    "Xbox Game Studios"
+  ],
+  "etiquetas": [
+    "Racing",
+    "Open World",
+    "Driving",
+    "Multiplayer",
+    "Automobile Sim"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 92916,
+      "url": "https://store.steampowered.com/app/2483190/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "950527",
+      "nombre": "Forza Horizon 6",
+      "apps": [
+        {
+          "appid": "2483190",
+          "nombre": "Forza Horizon 6"
+        }
+      ],
+      "usd": 36.74,
+      "antes": 48.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1463376",
+      "nombre": "Forza Horizon 6 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2483190",
+          "nombre": "Forza Horizon 6"
+        }
+      ],
+      "usd": 52.49,
+      "antes": 69.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1463380",
+      "nombre": "Forza Horizon 6 Premium Edition",
+      "apps": [
+        {
+          "appid": "2483190",
+          "nombre": "Forza Horizon 6"
+        }
+      ],
+      "usd": 62.99,
+      "antes": 83.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "2483190": {
+      "usd": 36.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 37,
+  "dlcLista": [
+    {
+      "appid": "4520360",
+      "nombre": "Forza Horizon 6 Premium Upgrade",
+      "gratis": false,
+      "usd": 31.49,
+      "descuento": 25
+    },
+    {
+      "appid": "4439260",
+      "nombre": "Forza Horizon 6 Welcome Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4439790",
+      "nombre": "Forza Horizon 6 Car Pass",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4440380",
+      "nombre": "Forza Horizon 6 VIP Membership",
+      "gratis": false,
+      "usd": 10.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4439750",
+      "nombre": "Forza Horizon 6 Treasure Map",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 25
+    },
+    {
+      "appid": "4520350",
+      "nombre": "Forza Horizon 6 Expansions Bundle",
+      "gratis": false,
+      "usd": 22.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4439240",
+      "nombre": "Forza Horizon 6 Expansion 1",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4439250",
+      "nombre": "Forza Horizon 6 Expansion 2",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4439280",
+      "nombre": "Forza Horizon 6 Time Attack Car Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4439290",
+      "nombre": "Forza Horizon 6 Italian Passion Car Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4439800",
+      "nombre": "Forza Horizon 6 1990 Nissan #12 Skyline GT-R (BNR32 Gr.A) JTC",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439810",
+      "nombre": "Forza Horizon 6 2024 Koenigsegg Gemera",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439820",
+      "nombre": "Forza Horizon 6 1972 Datsun #269 Attacking the Clock Racing 240Z \"All Carbon Hill Climb Beast\"",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439830",
+      "nombre": "Forza Horizon 6 2008 Honda Civic Type R (FD2)",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439840",
+      "nombre": "Forza Horizon 6 2023 Audi R8 Coupé V10 GT RWD",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439890",
+      "nombre": "Forza Horizon 6 1974 Mazda #123 Mad Mike 808 Wagon 'FURSTY'",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4610350",
+      "nombre": "Forza Horizon 6 1998 Nissan Skyline GT-R 40th Anniversary",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4439900",
+      "nombre": "Forza Horizon 6 2023 Toyota GR Corolla",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4797360",
+      "nombre": "Forza Horizon 6 2003 Aston Martin DB7 GT",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4797340",
+      "nombre": "Forza Horizon 6 1972 Nissan Patrol",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4797350",
+      "nombre": "Forza Horizon 6 2024 Toyota Prius Prime XSE Premium",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4797330",
+      "nombre": "Forza Horizon 6 1972 Honda Z GT",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4913460",
+      "nombre": "Forza Horizon 6 1987 Porsche #203 Porsche AG 1",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4913480",
+      "nombre": "Forza Horizon 6 1957 Ford Thunderbird",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4913450",
+      "nombre": "Forza Horizon 6 1968 Alfa Romeo Tipo 33/2",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4913470",
+      "nombre": "Forza Horizon 6 1983 Nissan Skyline 2000 Turbo RS",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4949520",
+      "nombre": "Forza Horizon 6 2025 McLaren W1",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4949510",
+      "nombre": "Forza Horizon 6 2023 Dodge Challenger SRT Demon 170",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4949540",
+      "nombre": "Forza Horizon 6 1998 Renault Sport Spider",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4949530",
+      "nombre": "Forza Horizon 6 1985 Porsche 911 Carrera Coupe 'Luftauto 002'",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5067170",
+      "nombre": "Forza Horizon 6 1972 Datsun 240Z #5 Rallye",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5067180",
+      "nombre": "Forza Horizon 6 2024 Ferrari Purosangue",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5134010",
+      "nombre": "Forza Horizon 6 1990 Eunos Cosmo",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5067200",
+      "nombre": "Forza Horizon 6 2024 Mercedes-AMG GT 63 4MATIC+",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5104170",
+      "nombre": "Forza Horizon 6 2025 Ford Mustang GTD",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5104200",
+      "nombre": "Forza Horizon 6 2025 Volkswagen Electric Buzz",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5104180",
+      "nombre": "Forza Horizon 6 1983 Nissan 240RS",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Descubre los asombrosos paisajes de Japón con más de 550 coches reales y conviértete en una leyenda del automovilismo en la mayor aventura de conducción en mundo abierto de Forza Horizon.",
+  "generos": [
+    "Carreras",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "18 MAY 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Forza Horizon 6",
+  "acerca": [
+    [
+      "p",
+      "Descubre los asombrosos paisajes de Japón con más de 550 coches reales y conviértete en una leyenda del automovilismo en el Festival Horizon. Comienza tu viaje como turista y explora un mundo lleno de la mejor música y cultura japonesa. Construye una propiedad en el valle, obtén increíbles casas y exhibe tu preciada colección de coches en garajes personalizables. Recorre las carreteras con tus amigos, únete a concentraciones de coches por todo Japón, da rienda suelta a tu imaginación con EventLab y construid juntos en Horizon CoLab."
+    ],
+    [
+      "p",
+      "Tu viaje para convertirte en leyenda de Horizon comienza aquí: ¡Japón te espera!"
+    ],
+    [
+      "p",
+      "DISFRUTA DE TOKIO, LA CIUDAD MÁS GRANDE DE HORIZON"
+    ],
+    [
+      "p",
+      "Te damos la bienvenida a Japón, un lugar de impresionantes contrastes entre lo rural y lo urbano donde descubrirás los secretos ocultos en el mapa más extenso de Horizon hasta la fecha, lleno de verticalidad, biomas diversos y espectaculares experiencias de conducción. Recorre los suburbios y las emblemáticas calles del centro o ponte a prueba en los muelles y distritos industriales de Tokio, la urbe más grande jamás vista en un juego de Forza Horizon y el hogar de todo fan del mundo del motor."
+    ],
+    [
+      "p",
+      "ADÉNTRATE EN LA CULTURA AUTOMOVILÍSTICA JAPONESA"
+    ],
+    [
+      "p",
+      "Conduce más de 550 coches reales, como algunos clásicos del país nipón muy apreciados, con un sonido de motor de última generación y nuevas animaciones de giro con hasta 540 grados de rotación del volante. Mientras exploras Japón, reúne coches Forza Edition especiales con modificaciones extremas y encuentra modelos en el mercado de ocasión insólitos para que los pruebes y los compres. En tu camino hacia la fama, conocerás a las leyendas del Festival Horizon, participarás en batallas de Touge y vivirás auténticas historias arraigadas en la legendaria cultura automovilística de Japón."
+    ],
+    [
+      "p",
+      "COMPITE Y DESCUBRE JAPÓN"
+    ],
+    [
+      "p",
+      "En Forza Horizon 6, tendrás por delante una enorme campaña de descubrimiento y un festival de carreras que podrás disfrutar en solitario o junto a tus amigos. Comenzarás como turista y deberás demostrar que tienes lo que hay que tener para unirte al Festival Horizon como principiante, todo ello mientras descubres Japón y completas tu diario de coleccionista. Clasifícate al festival en el Evento por invitación de Horizon y ve escalando posiciones en coches cada vez más rápidos para obtener nuevas pulseras y convertirte en leyenda de Horizon. Tu nuevo estatus te permitirá acceder a la Isla Legendaria, un lugar para los mejores pilotos."
+    ],
+    [
+      "p",
+      "CÓMETE EL MUNDO"
+    ],
+    [
+      "p",
+      "Durante tu viaje, irás comprando casas increíbles en Japón, cada una con garajes personalizables en los que podrás crear espacios perfectos para exhibir tu colección de coches o descargar diseños compartidos en línea con la comunidad. Desbloquea la propiedad, un valle montañoso en el que podrás construir en mundo abierto y crear prácticamente todo lo que puedas imaginar. También podrás mejorar tus coches favoritos con carrocerías, nuevas opciones aerodinámicas de Forza y acabados especiales en las ventanas."
+    ],
+    [
+      "p",
+      "ÚNETE A LA COMUNIDAD EN MULTIJUGADOR"
+    ],
+    [
+      "p",
+      "Un festival siempre es más divertido con amigos. Participa y triunfa en circuitos Contrarreloj y Retos de aceleración, o haz alarde de tus vehículos en las concentraciones de coches. Consigue nuevas maniobras de Enlace cooperando con otros jugadores, compite en campeonatos de Carreras monomarca o diviértete en los modos multijugador de Horizon que tanto te gustan, como el Eliminador y el trepidante juego del Escondite."
+    ],
+    [
+      "p",
+      "CONSTRUID JUNTOS EN CUALQUIER LUGAR DE JAPÓN"
+    ],
+    [
+      "p",
+      "Construye en cualquier lugar de Japón y crea eventos personalizados con tus amigos en CoLab, la versión mejorada de EventLab, que ahora cuenta con modo multijugador* y la capacidad de construir en cualquier parte del mundo. Comparte tus obras maestras para que otros puedan jugar y disfrutar de un catálogo que siempre cuenta con nuevo contenido de la comunidad."
+    ],
+    [
+      "p",
+      "EL FESTIVAL PARA CADA PILOTO"
+    ],
+    [
+      "p",
+      "Domina la carretera en nuestro juego de Horizon más accesible hasta la fecha. Entre las opciones de personalización se incluyen el modo de alto contraste granular, un radar de proximidad de coches, lenguaje de signos estadounidense y británico, o la función de conducción automática. Todo esto permite a los jugadores disfrutar de coches preciosos, la mejor música y los asombrosos escenarios del Festival Horizon."
+    ],
+    [
+      "p",
+      "Descubre tu leyenda y explora los contrastes y la cultura de Japón."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Chat de texto convertido a voz",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 22H2 (version 19045) or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i5-8400 OR AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1650 OR AMD RX 6500 XT OR Intel Arc A380"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "167 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 22H2 (version 19045) or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i5-12400F OR AMD Ryzen 5 5600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 3060 Ti OR AMD RX 6700 XT OR Intel Arc A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "167 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/706eb79418b2a74192de059693ddcbfaa803108a/ss_706eb79418b2a74192de059693ddcbfaa803108a.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/383ace7815eaa8f8f5128a58fd8ca7df911d3e14/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/d4b81f0cafcfba410371e53bd696fb5cc9b434c0/ss_d4b81f0cafcfba410371e53bd696fb5cc9b434c0.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/041b9a2854dc647bf54d7d8b36d2f4186ed72c13/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/945a08124625ffa26ec0077761fcbe19df07dad5/ss_945a08124625ffa26ec0077761fcbe19df07dad5.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/0824558c70b2e5ed67fe239d577434929f157a26/ss_0824558c70b2e5ed67fe239d577434929f157a26.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/701382eb1431c978e0c7e2518f47aa02b3fe6583/ss_701382eb1431c978e0c7e2518f47aa02b3fe6583.1920x1080.jpg?t=1795104806"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.600x338.jpg?t=1795104806",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg?t=1795104806"
+    }
+  ],
+  "web": "https://forza.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4,
+    "cantidad": 165,
+    "escala": 5
+  },
+  "xbox": "9N4XW3N02MNJ",
+  "igdbIntentado": true,
+  "igdb": 348330,
+  "youtube": [
+    {
+      "id": "oYhaW-Vr4wg",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "pWw-UENvdTw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QKo9Rnh8bkA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VXedKqX5Wa4",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:34:35.299Z"
+}

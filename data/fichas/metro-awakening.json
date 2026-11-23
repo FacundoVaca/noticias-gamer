@@ -1,0 +1,287 @@
+{
+  "clave": "metro awakening",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-7b69-73cb-9999-7b8554a6c77f",
+  "appid": "2669410",
+  "lanzamiento": "2024-11-07",
+  "desarrolladores": [
+    "Vertigo Games"
+  ],
+  "editores": [
+    "Vertigo Games",
+    "Vertigo Games BV",
+    "Deep Silver"
+  ],
+  "etiquetas": [
+    "VR",
+    "Shooter",
+    "Exploration",
+    "Story Rich",
+    "FPS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 73,
+      "cantidad": 3116,
+      "url": "https://store.steampowered.com/app/2669410/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 48,
+      "url": "https://opencritic.com/game/17596/metro-awakening"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1136690",
+      "nombre": "Metro Awakening",
+      "apps": [
+        {
+          "appid": "2669410",
+          "nombre": "Metro Awakening"
+        }
+      ],
+      "usd": 5.45,
+      "antes": 20.99,
+      "descuento": 74
+    },
+    {
+      "packageid": "1136691",
+      "nombre": "Metro Awakening Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2669410",
+          "nombre": "Metro Awakening"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 27.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2669410": {
+      "usd": 5.45,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2841900",
+      "nombre": "Metro Awakening - Deluxe Upgrade",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Metro Awakening is a story-driven first person adventure built for VR that blends atmospheric exploration, stealth and combat in the most immersive Metro experience yet. Don your gas mask, brave the crippling radiation and venture into the depths of the Metro where threats haunt your every step.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "7 NOV 2024",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/metro-awakening-vr?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "Metro Awakening",
+  "acerca": [
+    [
+      "p",
+      "Metro Awakening is a story-driven first person adventure built exclusively for VR that blends atmospheric exploration, stealth and combat in the most immersive Metro experience yet."
+    ],
+    [
+      "p",
+      "The year is 2028"
+    ],
+    [
+      "p",
+      "The survivors of nuclear Armageddon cling to existence in the buried subways of the Moscow Metro – civilization’s last refuge and tomb, where ghosts and spirits haunt the living in this man-made purgatory."
+    ],
+    [
+      "p",
+      "You are Serdar, a doctor braving the darkness, crippling radiation and deadly threats of the Metro in the search for your wife and the medication she so desperately needs. As your courage and sanity are pushed to the limit you must learn to walk the line between life and death, the spirit and the material world, and awaken the being you will become…"
+    ],
+    [
+      "p",
+      "Features:"
+    ],
+    [
+      "p",
+      "Lose yourself in a journey of spiritual awakening in this chilling, supernatural origins story from Metro creator Dmitry Glukhovsky"
+    ],
+    [
+      "p",
+      "Experience Metro’s tense, heart-pounding gameplay in VR for the first time as you put on your mask, ammo and filters run low and your torchlight flickers and dies in the darkness"
+    ],
+    [
+      "p",
+      "Wield a signature arsenal of hand-made weapons, don your gas mask, and venture into the depths of the Metro where desperate bandits, mutants, and worse haunt your every step"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Detección de mov. en mando",
+    "Solo para RV",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 - 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel 9th gen i7 (i7-9700)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX-2070 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Compatibilidad con RV",
+        "Oculus Rift, Meta Quest 2, Meta Quest 3 Family, HTC VIVE, HTC VIVE PRO and HTC VIVE PRO 2 and Index"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_f3e023e5f5f1149c4a8f19168cf32740e7c6fed4.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_f3e023e5f5f1149c4a8f19168cf32740e7c6fed4.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_79b1ba5bd9fa0969a6dc950052ed8e18ab21d550.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_79b1ba5bd9fa0969a6dc950052ed8e18ab21d550.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_4892f90d66a3b8cbe65228e87569bddf4b71b559.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_4892f90d66a3b8cbe65228e87569bddf4b71b559.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_c3aef99ebb3209b98059f89e311f493cbe3781f2.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_c3aef99ebb3209b98059f89e311f493cbe3781f2.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_bc8cd9a1158dc9368c34df465bdce77093f8b842.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_bc8cd9a1158dc9368c34df465bdce77093f8b842.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_a166766dad5dbf75e6439e0d009676280dfc6c8b.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_a166766dad5dbf75e6439e0d009676280dfc6c8b.1920x1080.jpg?t=1770030023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_a6c7f8bb917f20114edd4f46dd637c2ca011e8b0.600x338.jpg?t=1770030023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669410/ss_a6c7f8bb917f20114edd4f46dd637c2ca011e8b0.1920x1080.jpg?t=1770030023"
+    }
+  ],
+  "web": "https://metroawakening.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game contains gunplay combat. Blood splatter and corpses appear in the environment. There are alcohol and tobacco references throughout the game in the form of insinuated consumption.",
+  "igdbIntentado": true,
+  "igdb": 284720,
+  "youtube": [
+    {
+      "id": "984iLrRYHtQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "v9j3xpmd4ag",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "4dvFiSwPFkU",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:41.263Z"
+}

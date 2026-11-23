@@ -1,0 +1,374 @@
+{
+  "clave": "clone drone in the danger zone",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-30ea-73e1-ae80-96b4311df608",
+  "appid": "597170",
+  "lanzamiento": "2021-07-27",
+  "desarrolladores": [
+    "Doborog Games"
+  ],
+  "editores": [
+    "Doborog Games"
+  ],
+  "etiquetas": [
+    "Robots",
+    "Action",
+    "3D Fighter",
+    "Swordplay",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 96,
+      "cantidad": 36454,
+      "url": "https://store.steampowered.com/app/597170/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/clone-drone-in-the-danger-zone/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 77,
+      "cantidad": 82,
+      "url": "https://metacritic.com/game/clone-drone-in-the-danger-zone/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "156571",
+      "nombre": "Clone Drone in the Danger Zone",
+      "apps": [
+        {
+          "appid": "597170",
+          "nombre": "Clone Drone in the Danger Zone"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 19.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "554145",
+      "nombre": "Clone Drone in the Danger Zone - Commercial License",
+      "apps": [
+        {
+          "appid": "597170",
+          "nombre": "Clone Drone in the Danger Zone"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 8.39,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "597170": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4833360",
+      "nombre": "Clone Drone in the Danger Zone - Night Mode Pack",
+      "gratis": false,
+      "usd": 0.87,
+      "descuento": 20
+    },
+    {
+      "appid": "4824790",
+      "nombre": "Clone Drone in the Danger Zone - Fast Lane Pack",
+      "gratis": false,
+      "usd": 0.87,
+      "descuento": 20
+    },
+    {
+      "appid": "4833350",
+      "nombre": "Clone Drone in the Danger Zone - Horse Power Pack",
+      "gratis": false,
+      "usd": 0.87,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Clone Drone in the Danger Zone es un juego de luchas a espada en tercera persona, donde te pueden mutilar cualquier parte del cuerpo. Tu mente ha sido descargada en un robot gladiador y deberás sobrevivir a las siniestras pruebas de la arena de lucha.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "27 JUL 2021",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/clone-drone-in-the-danger-zone?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Clone Drone in the Danger Zone",
+  "acerca": [
+    [
+      "h",
+      "🤖 ¡ENHORABUENA, HUMANO! 🤖"
+    ],
+    [
+      "p",
+      "Disculpa por la breve agonía que has sufrido mientras procedíamos a la recolección de tu mente. ¡Pero ahora tus patrones de pensamiento están a salvo, incrustados en este elegante y resplandeciente robot!"
+    ],
+    [
+      "p",
+      "CON UNA ESPADA LÁSER."
+    ],
+    [
+      "h",
+      "SOBREVIVE Y, QUIZÁ, CONSIGAS MEJORAS."
+    ],
+    [
+      "h",
+      "BUENA SUERTE EN LA ARENA."
+    ],
+    [
+      "p",
+      "Esperamos que aguantes más que el último contrincante..."
+    ],
+    [
+      "p",
+      "Oh, y el que pasó antes de ese..."
+    ],
+    [
+      "h",
+      "Modos de juego para un jugador"
+    ],
+    [
+      "li",
+      "Modo Historia: Una dosis de historia épica sobre el desafío humano combinada con otra sobre espadas láser."
+    ],
+    [
+      "li",
+      "Modo Interminable: Enfréntate al reto de combatir a través de 86 niveles variados en 7 fases de dificultad. ¡A ver si aguantas hasta la fase de 🏆TITANIO🏆 !"
+    ],
+    [
+      "li",
+      "Modo Twitch: TWITCH JUEGA CONTIGO . Tus espectadores en stream de Twitch ganan monedas, apuestan en tu juego y generan enemigos para matarte."
+    ],
+    [
+      "li",
+      "Modo Desafío: Solo arco, solo martillo... ¿podrás sobrevivir al combate?"
+    ],
+    [
+      "h",
+      "Modos de juego multijugador"
+    ],
+    [
+      "li",
+      "Último robot en pie: Un modo de juego al estilo Battle Royale, con sesiones breves de 5-10 minutos y hasta 15 jugadores. Sobrevive y deléitate entre los restos de la competencia robótica."
+    ],
+    [
+      "li",
+      "Duelos privados: ¡Reta a tu amigo a un duelo uno contra uno!"
+    ],
+    [
+      "li",
+      "¡Cooperativo online! ¡Aprovecha el poder de la amistad humana (¡y las espadas láser!) para sobrevivir en la arena!"
+    ],
+    [
+      "h",
+      "Características (¡ya en el juego!)"
+    ],
+    [
+      "li",
+      "Épico desmembramiento en vóxel : Además de que queda muy guay, la posibilidad de amputar partes del cuerpo es una pieza clave del juego. Saltar a la pata coja es una cosa muy habitual. Con los enemigos grandes, hay que cortarlos a pedazos antes de poder asestar el golpe final mortal."
+    ],
+    [
+      "li",
+      "Afilados combates de espada : El combate es rápido e intenso, con mucho énfasis en el movimiento, la sincronización y la posición. Nunca estás a salvo, pues cualquier impacto puede matarte o mutilarte al instante."
+    ],
+    [
+      "li",
+      "Amenos comentarios : Con más de 38 000(!!!) palabras dialogadas, Comentatrón y el Robot Analítico te deleitarán con comentarios constantes sobre tu rendimiento y reaccionarán ante tus acciones."
+    ],
+    [
+      "li",
+      "Mejora tu robot: propulsión, arco, patadas, bloqueo, clones, armaduras, FUEGO 🔥🔥🔥."
+    ],
+    [
+      "li",
+      "Aterradores enemigos: ¡Aterradores enemigos robóticos, duros de pelar! Robots espadachines, robots arqueros, Spidertrón 5000, Spidertrón 6000, mastodónticos robots martillo. Hay tantas cosas que desmembrar..."
+    ],
+    [
+      "li",
+      "Editor de niveles : ¡Crea niveles y desafíos personalizados y compártelos con otros humanos! ¡Explora la amplia biblioteca del Workshop con fantásticos niveles creados por humanos!"
+    ],
+    [
+      "li",
+      "¡Logros! ¡Desbloquea mejoras, emoticonos y modelos para multijugador, consiguiendo una amplia variedad de cosas!"
+    ],
+    [
+      "li",
+      "¡Emoticonos! ¡Haz el Baile de columnas funky, búrlate de tus enemigos o agita los brazos divinamente!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Subtítulos disponibles",
+    "Steam Workshop",
+    "Compras dentro de la aplicación",
+    "Steam Cloud",
+    "Incluye editor de niveles"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 or newer"
+      ],
+      [
+        "Procesador",
+        "Modern quad-core (AMD FX-Series or newer, Intel Core i5 or faster)"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon HD 5770 or faster, Nvidia GeForce GT 640 or faster"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_b0e2f164f94d531f6c49785598f2a444d3e965a4.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_b0e2f164f94d531f6c49785598f2a444d3e965a4.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c/ss_96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c/ss_96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_735de402cde4c061b74c0b7bc0f4c7762e1eff74.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_735de402cde4c061b74c0b7bc0f4c7762e1eff74.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/f081fb0e9475a85dc9e077600a222f6ab83b4282/ss_f081fb0e9475a85dc9e077600a222f6ab83b4282.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/f081fb0e9475a85dc9e077600a222f6ab83b4282/ss_f081fb0e9475a85dc9e077600a222f6ab83b4282.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_9f0e774f099b1a4eb2dfa97aab629acbf18c7b9e.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_9f0e774f099b1a4eb2dfa97aab629acbf18c7b9e.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/4dbcdeca81994353342e7554925787d06c90cab9/ss_4dbcdeca81994353342e7554925787d06c90cab9.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/4dbcdeca81994353342e7554925787d06c90cab9/ss_4dbcdeca81994353342e7554925787d06c90cab9.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_aeb33da5fd0a8bccd3b4e11ed9489a1abac3e56d.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_aeb33da5fd0a8bccd3b4e11ed9489a1abac3e56d.1920x1080.jpg?t=1784069375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_2dd9b99d36d6fd1cee26f383ed36a34fb9a56010.600x338.jpg?t=1784069375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_2dd9b99d36d6fd1cee26f383ed36a34fb9a56010.1920x1080.jpg?t=1784069375"
+    }
+  ],
+  "web": "https://clonedroneinthedangerzone.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 29411,
+  "youtube": [
+    {
+      "id": "szuv_8YGwLY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "F86Q_97xAbg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:29.392Z"
+}

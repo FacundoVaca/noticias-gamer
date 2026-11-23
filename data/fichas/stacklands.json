@@ -1,0 +1,308 @@
+{
+  "clave": "stacklands",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-5ed9-713c-968f-ec976740ee1a",
+  "appid": "1948280",
+  "lanzamiento": "2022-04-08",
+  "desarrolladores": [
+    "Sokpop Collective"
+  ],
+  "editores": [
+    "Sokpop Collective",
+    "Sokpop BV"
+  ],
+  "etiquetas": [
+    "Card Game",
+    "Management",
+    "Survival",
+    "Roguelite",
+    "Card Battler"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 96,
+      "cantidad": 29516,
+      "url": "https://store.steampowered.com/app/1948280/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/stacklands/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "702568",
+      "nombre": "Stacklands",
+      "apps": [
+        {
+          "appid": "1948280",
+          "nombre": "Stacklands"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 7.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1948280": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2446110",
+      "nombre": "Stacklands: Cursed Worlds",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 30
+    },
+    {
+      "appid": "2867570",
+      "nombre": "Stacklands 2000",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Stacklands es un juego de construir aldeas apilando cartas para conseguir comida, construir estructuras y luchar contra criaturas. 🃏 Por ejemplo, si colocas una carta de Aldeano sobre una de Arbusto de bayas, se crearán cartas de Baya para comer. 🃏 ¡Juega bien tus cartas y expande tu aldea!",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "8 ABR 2022",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Stacklands",
+  "acerca": [
+    [
+      "p",
+      "Stacklands es un juego de construcción de aldeas en el que tendrás que apilar cartas para conseguir comida, levantar estructuras y luchar contra criaturas."
+    ],
+    [
+      "p",
+      "Por ejemplo, si colocas una carta de \"Aldeano\" sobre una de \"Arbusto de bayas\", se crearán cartas de \"Baya\" que podrán comer los aldeanos para sobrevivir."
+    ],
+    [
+      "p",
+      "Vende cartas 💰"
+    ],
+    [
+      "p",
+      "También puedes vender cartas para conseguir monedas con las que comprar paquetes de cartas. Los paquetes contienen varias cartas que puedes usar para expandir tu aldea. Los paquetes se centran en recetas, granja o construcción."
+    ],
+    [
+      "p",
+      "Al final de cada luna tendrás que alimentar a tus aldeanos, así que intenta conseguir suficiente comida, ¡o se morirán de hambre! 💀"
+    ],
+    [
+      "p",
+      "Características 🔥"
+    ],
+    [
+      "li",
+      "🃏 Más de 200 cartas que coleccionar"
+    ],
+    [
+      "li",
+      "💡 Más de 60 ideas que encontrar"
+    ],
+    [
+      "li",
+      "✅ Más de 80 misiones que completar"
+    ],
+    [
+      "li",
+      "📦 13 paquetes de cartas diferentes que comprar"
+    ],
+    [
+      "li",
+      "🕒 De 5 a 7 horas de juego"
+    ],
+    [
+      "p",
+      "Combate 🗡️"
+    ],
+    [
+      "p",
+      "Si un aldeano se encuentra con una criatura enemiga, comenzará el combate. ¡Lucha contra goblins, osos, ratas y mucho más! Mejora las habilidades de combate de tus aldeanos dándoles armas o forma equipos para luchar contra enemigos."
+    ],
+    [
+      "p",
+      "Encuentra ideas 🧠"
+    ],
+    [
+      "p",
+      "Expande tu conocimiento encontrando cartas de ideas. Estas cartas te informan de cómo crear cartas nuevas. Por ejemplo: apila 2 de madera, 1 de piedra y 1 aldeano para construir una casa."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Dual Core 2 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX9 compatible with at least 500MB of memory"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_8a4eae84cdc5e8996a33d66c22f1537568654aaf.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_8a4eae84cdc5e8996a33d66c22f1537568654aaf.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_962b1fd0961f54cd3b7c3f7a5181ef9f260ff1af.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_962b1fd0961f54cd3b7c3f7a5181ef9f260ff1af.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_bd3af9ad2dc489246661bb4fe0488a4ccacf7d3f.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_bd3af9ad2dc489246661bb4fe0488a4ccacf7d3f.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_4a2a44468bec65a6beb57138cdac779154fc4529.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_4a2a44468bec65a6beb57138cdac779154fc4529.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_c3d850ba32dc7ed66d5691966cef7e5724f6dfbc.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_c3d850ba32dc7ed66d5691966cef7e5724f6dfbc.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_47047d138a4296b482fd1a5b8259b59792399348.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_47047d138a4296b482fd1a5b8259b59792399348.1920x1080.jpg?t=1769357052"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_ae83d3bd517b9757090162c4f64b4f789b543c00.600x338.jpg?t=1769357052",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948280/ss_ae83d3bd517b9757090162c4f64b4f789b543c00.1920x1080.jpg?t=1769357052"
+    }
+  ],
+  "web": "https://sokpop.co",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 196230,
+  "youtube": [
+    {
+      "id": "7qpT2xXUaCs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VaR6R5FuwNg",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:44:34.646Z"
+}

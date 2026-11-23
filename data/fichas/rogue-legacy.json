@@ -1,0 +1,330 @@
+{
+  "clave": "rogue legacy",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-3644-70b9-8ba4-77cd53f88932",
+  "appid": "241600",
+  "lanzamiento": "2013-06-27",
+  "desarrolladores": [
+    "Cellar Door Games"
+  ],
+  "editores": [
+    "Cellar Door Games"
+  ],
+  "etiquetas": [
+    "Platformer",
+    "Roguelike",
+    "Indie",
+    "Action Roguelike",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 15895,
+      "url": "https://store.steampowered.com/app/241600/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 43,
+      "url": "https://metacritic.com/game/rogue-legacy/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 817,
+      "url": "https://metacritic.com/game/rogue-legacy/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 84,
+      "cantidad": 43,
+      "url": "https://opencritic.com/game/233/rogue-legacy"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "28233",
+      "nombre": "Rogue Legacy",
+      "apps": [
+        {
+          "appid": "241600",
+          "nombre": "Rogue Legacy"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "241600": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Rogue Legacy es un juego tipo rogue-\"LITE\" genealógico en el que cualquiera puede ser un héroe. Cada vez que mueras, te sucederá un descendiente. Cada descendiente es único. Algunos son daltónicos, otros pueden tener vértigo... Pueden incluso ser enanos.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "27 JUN 2013",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/rogue-legacy?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Rogue Legacy",
+  "acerca": [
+    [
+      "p",
+      "Rogue Legacy es un juego tipo rogue-\"LITE\" genealógico en el que cualquiera puede ser un héroe."
+    ],
+    [
+      "p",
+      "Cada vez que mueras, te sucederá un descendiente. Cada descendiente es único. Algunos son daltónicos, otros pueden tener vértigo... Pueden incluso ser enanos."
+    ],
+    [
+      "p",
+      "Pero no pasa nada, porque nadie es perfecto ni tiene por qué serlo para triunfar. Lo que sí tienes que hacer es darlo todo, porque este juego es DIFÍCIL. Por suerte, cada vez que mueras podrás usar todo el oro que hayas reunido para mejorar tu caserón, con lo que le darás a tu descendiente un impulso en la vida y una nueva oportunidad para aniquilar el mal."
+    ],
+    [
+      "p",
+      "No te lo creas solo porque yo lo diga. Mejor échale un vistazo al tráiler, que explica el juego mucho mejor que yo."
+    ],
+    [
+      "p",
+      "Aunque si lo que quieres es LEER de qué va el juego, entonces deberías mirar la lista que aparece a continuación."
+    ],
+    [
+      "p",
+      "Rogue Legacy va de ESTO:"
+    ],
+    [
+      "li",
+      "Aventura generada de forma procedimental. Explora nuevos castillos en cada vida."
+    ],
+    [
+      "li",
+      "Rogue-lite. Los personajes mueren, pero cada fallecimiento acrecienta el linaje y lo fortalece."
+    ],
+    [
+      "li",
+      "Montones de rasgos únicos que harán especial cada partida. ¿Alguna vez has querido tener dislexia? ¡Ahora podrás!"
+    ],
+    [
+      "li",
+      "¡Más de 8 clases para elegir (concretamente 9)! Cada clase tiene sus propias habilidades que modifican la forma en la que se juega."
+    ],
+    [
+      "li",
+      "Más de 60 enemigos distintos para poner a prueba tu destreza. ¡Espero que te gusten las variaciones cromáticas!"
+    ],
+    [
+      "li",
+      "Descomunal árbol de habilidades ampliable. Acumula botín para mejorar el caserón y dar ventaja a tus sucesores."
+    ],
+    [
+      "li",
+      "Por cierto, también hay un herrero y una encantadora, pero se nos olvidó ponerlos en el tráiler..."
+    ],
+    [
+      "li",
+      "Pertrecha a tus héroes de poderosas armas y corazas. También puedes obtener nuevas habilidades, como el vuelo, la aceleración y los saltos aéreos."
+    ],
+    [
+      "li",
+      "Secretos y huevos de pascua a raudales para descubrir... ¡O a lo mejor es mentira! ¡Que no, que es verdad!"
+    ],
+    [
+      "li",
+      "¿Tienes mando? Juega con el mando. Preparado para pantalla grande."
+    ],
+    [
+      "li",
+      "Incluye payasos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Se recomienda usar un mando",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS *",
+        "Windows XP/Vista/7"
+      ],
+      [
+        "Processor",
+        "1.6 Ghz"
+      ],
+      [
+        "Memory",
+        "1 GB RAM"
+      ],
+      [
+        "Graphics",
+        "X1950 Pro, 7900 GT"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Hard Drive",
+        "400 MB HD space"
+      ],
+      [
+        "Additional",
+        "Only available in desktop mode for Windows 8."
+      ]
+    ],
+    "recomendado": [
+      [
+        "OS *",
+        "Windows XP/Vista/7"
+      ],
+      [
+        "Processor",
+        "2 Ghz"
+      ],
+      [
+        "Memory",
+        "2 GB RAM"
+      ],
+      [
+        "Graphics",
+        "HD 4770, 8800 GTX"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Hard Drive",
+        "400 MB HD space"
+      ],
+      [
+        "Additional",
+        "Only available in desktop mode for Windows 8."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_42804c992b120b548816f72ddbf4d4029df45063.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_42804c992b120b548816f72ddbf4d4029df45063.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_50f6fb74c984beebd86bf33a988c6c3ca09bed84.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_50f6fb74c984beebd86bf33a988c6c3ca09bed84.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_837c7b3ada2265a0f40d48138111a02a5ce4fb22.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_837c7b3ada2265a0f40d48138111a02a5ce4fb22.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_1240a41810b577a678c7ef6f831eb385e178c5e4.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_1240a41810b577a678c7ef6f831eb385e178c5e4.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_c9130e321806fd0100db3fdacccf75437da00bb1.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_c9130e321806fd0100db3fdacccf75437da00bb1.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_9ebf5ab75856d9d6ea9cb82d1af668f1f953db77.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_9ebf5ab75856d9d6ea9cb82d1af668f1f953db77.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_5680e84beea07396c7cc287c0a61de7273296874.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_5680e84beea07396c7cc287c0a61de7273296874.1920x1080.jpg?t=1743078622"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_83fd8ec5d72359d674c291b562144c4200bc644b.600x338.jpg?t=1743078622",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/241600/ss_83fd8ec5d72359d674c291b562144c4200bc644b.1920x1080.jpg?t=1743078622"
+    }
+  ],
+  "web": "http://www.roguelegacy.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.3,
+    "cantidad": 1558,
+    "escala": 5
+  },
+  "xbox": "BVN6M64JCHTL",
+  "igdbIntentado": true,
+  "igdb": 3221,
+  "youtube": [
+    {
+      "id": "T0DKxOEikTs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:40:41.751Z"
+}

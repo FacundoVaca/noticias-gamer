@@ -1,0 +1,331 @@
+{
+  "clave": "active matter",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "0192d404-aa9f-720a-8833-12fe3d245208",
+  "appid": "2887580",
+  "lanzamiento": "2026-09-15",
+  "desarrolladores": [
+    "Matter Team"
+  ],
+  "editores": [
+    "Gaijin Network Ltd",
+    "Gaijin Distribution KFT"
+  ],
+  "etiquetas": [
+    "Extraction Shooter",
+    "FPS",
+    "Horror",
+    "PvE",
+    "PvP"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 78,
+      "cantidad": 4890,
+      "url": "https://store.steampowered.com/app/2887580/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/active-matter/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 13,
+      "url": "https://opencritic.com/game/21380/active-matter"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1029511",
+      "nombre": "Active Matter - Standard Edition",
+      "apps": [
+        {
+          "appid": "2887580",
+          "nombre": "Active Matter"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2887580": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5180360",
+      "nombre": "Active Matter - Original Game Soundtrack, Vol.1",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Participa en batallas JcJ y asaltos con botín en este nuevo shooter militar realista ambientado en un multiverso fragmentado. Ve a las zonas de inestabilidad cuántica y lucha por el control de la materia activa, la sustancia que distorsiona el tiempo y el espacio.",
+  "generos": [
+    "Acción",
+    "Multijugador masivo"
+  ],
+  "lanzamientoTexto": "15 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Active Matter",
+  "acerca": [
+    [
+      "p",
+      "Eres un operario atrapado en un bucle temporal; resucitas de entre los muertos y vuelves al mismo punto una y otra vez. Elige tu equipamiento y entra en las zonas de inestabilidad cuántica rebosantes de materia activa, el recurso más preciado y peligroso de todo el multiverso. Enfréntate a rivales de otras líneas temporales, sobrevive a anomalías que desafían las leyes de la física e intenta sobrevivir a toda costa. Recoge materia activa, acumula botín y huye a un lugar seguro antes de que esa zona y todo lo que contiene deje de existir para siempre."
+    ],
+    [
+      "p",
+      "La materia activa modifica las cosas y distorsiona el tiempo y el espacio. Por eso, no es extraño encontrarse con operarios y otros supervivientes que, tras la exposición a esta sustancia, han perdido la cabeza y la humanidad. Pero no te equivoques: el enemigo más peligroso son los demás jugadores. Amplía tu base sindical, mejora tu arsenal y participa en encarnizadas batallas entre sindicatos por las fuentes principales de materia activa, pues son tu única esperanza para salir del bucle y controlar tu propio destino."
+    ],
+    [
+      "p",
+      "Lucha para escapar en asaltos de extracción JcE y JcJcE"
+    ],
+    [
+      "p",
+      "Juega en solitario o únete a pequeños grupos para adentrarte en zonas de inestabilidad cuántica en asaltos JcJcE y JcE. Recoge materia activa, acumula un valioso botín y huye antes de que todo se vaya al infierno."
+    ],
+    [
+      "p",
+      "Armas y equipamiento realistas"
+    ],
+    [
+      "p",
+      "La materia activa transporta aleatoriamente elementos de otras líneas temporales hasta las zonas de inestabilidad cuántica y te permite replicar un objeto específico de otra línea temporal en la seguridad de tu base. A pesar del misterioso origen de las armas, tu arsenal está basado en las tecnologías y estrategias militares del mundo real. La guerra parece ser la única constante en este caótico multiverso."
+    ],
+    [
+      "p",
+      "Efectos que influyen en la jugabilidad"
+    ],
+    [
+      "p",
+      "Anomalías increíbles que modifican la fuerza gravitacional y la topología espacial ante tus ojos. Emocionantes encuentros con objetos inspirados en la SCP que te pondrán los pelos de punta y criaturas transformadas con materia activa que te atacarán nada más verte."
+    ],
+    [
+      "p",
+      "Intensas batallas JcJ"
+    ],
+    [
+      "p",
+      "Los sindicatos luchan por hacerse con el control de una fuente pasiva de materia activa o una tecnología de MA, y utilizarán todas las armas, vehículos militares y demás equipamiento que puedan llevar al campo de batalla o fabricar in situ. ¡Únete al sindicato que prefieras y cambia el destino del multiverso!"
+    ],
+    [
+      "p",
+      "Mapas fascinantes"
+    ],
+    [
+      "p",
+      "Las batallas tienen lugar en ubicaciones que existen fuera del marco del tiempo y el espacio. Active Matter comprende varios mapas distintos; entre ellos, una enorme isla repleta de complejos industriales soviéticos y enigmáticos laboratorios científicos que fueron de los primeros en investigar este nuevo fenómeno. Explora estos lugares y encontrarás pistas sobre el origen de la materia activa."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (64bit)"
+      ],
+      [
+        "Procesador",
+        "Core i5-6600 / Ryzen 3 1300X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1050 Ti / RX 470 / ARC A580"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (64bit)"
+      ],
+      [
+        "Procesador",
+        "Core i5-8700 / Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060 / RX 5700 XT / ARC A770"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/a88b881bb8e41f8669057761c6714d5d16f949cf/ss_a88b881bb8e41f8669057761c6714d5d16f949cf.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/a88b881bb8e41f8669057761c6714d5d16f949cf/ss_a88b881bb8e41f8669057761c6714d5d16f949cf.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/7adc177868319f37fefd1737fde3aa47ffa5ef1d/ss_7adc177868319f37fefd1737fde3aa47ffa5ef1d.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/7adc177868319f37fefd1737fde3aa47ffa5ef1d/ss_7adc177868319f37fefd1737fde3aa47ffa5ef1d.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/91853a4741926b8b62b1ac5666d7c9e0e0622682/ss_91853a4741926b8b62b1ac5666d7c9e0e0622682.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/91853a4741926b8b62b1ac5666d7c9e0e0622682/ss_91853a4741926b8b62b1ac5666d7c9e0e0622682.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/f7993b1b3a5cb74cc75c1b22a410e37a3024a141/ss_f7993b1b3a5cb74cc75c1b22a410e37a3024a141.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/f7993b1b3a5cb74cc75c1b22a410e37a3024a141/ss_f7993b1b3a5cb74cc75c1b22a410e37a3024a141.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/a09517aff651b3db05d80658df410d9e6ebcf37e/ss_a09517aff651b3db05d80658df410d9e6ebcf37e.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/a09517aff651b3db05d80658df410d9e6ebcf37e/ss_a09517aff651b3db05d80658df410d9e6ebcf37e.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/fc703b811e39f7b5bee97c1be6a2c2679331a83b/ss_fc703b811e39f7b5bee97c1be6a2c2679331a83b.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/fc703b811e39f7b5bee97c1be6a2c2679331a83b/ss_fc703b811e39f7b5bee97c1be6a2c2679331a83b.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/aa4210a3329f16efcfeae4df094a300eae90d313/ss_aa4210a3329f16efcfeae4df094a300eae90d313.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/aa4210a3329f16efcfeae4df094a300eae90d313/ss_aa4210a3329f16efcfeae4df094a300eae90d313.1920x1080.jpg?t=1794474177"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/6101424a2f2ce98a68ec8b2a8fa9257f6a171e5a/ss_6101424a2f2ce98a68ec8b2a8fa9257f6a171e5a.600x338.jpg?t=1794474177",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/6101424a2f2ce98a68ec8b2a8fa9257f6a171e5a/ss_6101424a2f2ce98a68ec8b2a8fa9257f6a171e5a.1920x1080.jpg?t=1794474177"
+    }
+  ],
+  "web": "https://activematter.game/",
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "avisoContenido": "Este juego puede incluir contenido no apto para todas las edades o para verlo en el trabajo: violencia frecuente o gore, y contenido general para adultos.",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.1,
+    "cantidad": 1143,
+    "escala": 5
+  },
+  "xbox": "9MZ1SK7H6LB6",
+  "igdbIntentado": true,
+  "igdb": 322158,
+  "youtube": [
+    {
+      "id": "Vb9Ys_Q2ypY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HdsTgpwDNEE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Zltmk_OveVk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ayQGfZ7cB8w",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:42:38.681Z"
+}

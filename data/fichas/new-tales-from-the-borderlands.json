@@ -1,0 +1,300 @@
+{
+  "clave": "new tales from the borderlands",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6431-737d-bcae-e1de1ddb3cda",
+  "appid": "1454970",
+  "lanzamiento": "2022-10-21",
+  "desarrolladores": [
+    "Gearbox Software"
+  ],
+  "editores": [
+    "2K",
+    "TAKE-TWO INTERACTIVE",
+    "2K Games",
+    "Gearbox Software"
+  ],
+  "etiquetas": [
+    "Choices Matter",
+    "Choose Your Own Adventure",
+    "Quick-Time Events",
+    "Multiple Endings",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 29,
+      "cantidad": 1764,
+      "url": "https://store.steampowered.com/app/1454970/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 69,
+      "cantidad": 60,
+      "url": "https://metacritic.com/game/new-tales-from-the-borderlands/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 39,
+      "cantidad": 108,
+      "url": "https://metacritic.com/game/new-tales-from-the-borderlands/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 67,
+      "cantidad": 84,
+      "url": "https://opencritic.com/game/13753/new-tales-from-the-borderlands"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "784307",
+      "nombre": "New tales from the Borderlands: Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1454970",
+          "nombre": "Nueva entrega de New Tales from the Borderlands"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 49.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "761003",
+      "nombre": "New Tales from the Borderlands",
+      "apps": [
+        {
+          "appid": "1454970",
+          "nombre": "Nueva entrega de New Tales from the Borderlands"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1454970": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1970470",
+      "nombre": "New tales from the Borderlands: Pack Aventura Capital ",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Decide el destino de la altruista científica Anu, de su ambicioso y \"callejero\" hermano Octavio y de la feroz Fran. Atraviesa cinco emocionantes capítulos con tus garras y tus timos.",
+  "generos": [
+    "Aventura"
+  ],
+  "lanzamientoTexto": "20 OCT 2022",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Nueva entrega de New Tales from the Borderlands",
+  "acerca": [
+    [
+      "p",
+      "Enfréntate a los despiadados señores de las empresas en esta aventura narrativa."
+    ],
+    [
+      "p",
+      "En la metrópolis de Promethea, perpetuamente devastada por la guerra, controlarás a Anu, Octavio y Fran en el peor día de sus vidas. Ayuda a estos tres adorables perdedores en su empeño por cambiar el mundo (y quizá incluso salvarlo). Enfréntate a una invasión planetaria, a un despiadado monstruo de la cámara acorazada y a un capitalista de corazón frío en este emocionante viaje cinematográfico en el que lo que ocurra a continuación dependerá de ti. Conoce a un variopinto elenco de inadaptados, robots asesinos y pistolas parlantes en esta carrera hacia la cima."
+    ],
+    [
+      "p",
+      "Es hora de luchar contra la explotación y la codicia de las empresas. Es hora de hacer del Caos tu negocio."
+    ],
+    [
+      "h",
+      "A HISTORIA DE TRES PERSONAS ADORABLES QUE NO TIENEN NADA QUE HACER"
+    ],
+    [
+      "p",
+      "Decide el destino de la altruista científica Anu, de su ambicioso y \"callejero\" hermano Octavio, y de la feroz Fran, que lanza ranas. Sin nada que perder y con todo por ganar, te abrirás paso con garras y estafas a través de esta emocionante historia de cinco partes llena de matones armados, bestias de otro mundo y deliciosos tacos."
+    ],
+    [
+      "h",
+      "UNA EXTRAORDINARIA AVENTURA CINEMATOGRÁFICA"
+    ],
+    [
+      "p",
+      "Las Tierras Fronterizas no son solo el hogar de los Cazadores de la Cámara, los psicópatas y los Directores Ejecutivos de las corporaciones armamentísticas, sino que están llenas de civiles oprimidos e intrépidos que intentan salir adelante. Con una serie de caras nuevas y que regresan, incluyendo un bot asesino con aspiraciones cómicas y un bandido menos asesino de lo habitual, esta inolvidable historia seguro que encantará a los fans nuevos y viejos."
+    ],
+    [
+      "h",
+      "TUS DECISIONES DETERMINAN EL RESULTADO"
+    ],
+    [
+      "p",
+      "Las decisiones que tomes determinarán el final de tu historia. Ya sea la visión de Anu de un universo que comercializa algo más que armas, los sueños de Octavio de fama y fortuna, o el gélido plan de venganza de Fran, su éxito o fracaso depende de ti."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690K or AMD Ryzen 3 1300X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 960 4GB or AMD Radeon RX 470 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4770 or AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060 6GB or AMD Radeon RX 590 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_1ea0549f4a38156e996b49fa9bfc4c4dbf4b749c.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_1ea0549f4a38156e996b49fa9bfc4c4dbf4b749c.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_75dccb2226724fd7484514d4c9f83f719dbe8762.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_75dccb2226724fd7484514d4c9f83f719dbe8762.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_497338b4b49bcba0dde9b8abf8235e63bf51e0f0.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_497338b4b49bcba0dde9b8abf8235e63bf51e0f0.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_fbe47887c3667e8922a6e03058115a8395096d7d.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_fbe47887c3667e8922a6e03058115a8395096d7d.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_0cff38969884a0dcebf9513cc72e5881580338a5.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_0cff38969884a0dcebf9513cc72e5881580338a5.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_08a749a0aebd6809770612eebdcde4bf33d6146d.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_08a749a0aebd6809770612eebdcde4bf33d6146d.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_3196c51621ccfd9864fd69249f4ce88c137459f0.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_3196c51621ccfd9864fd69249f4ce88c137459f0.1920x1080.jpg?t=1728609086"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_59f7a978f5872366a5e4bd1a221b6865ada93c54.600x338.jpg?t=1728609086",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1454970/ss_59f7a978f5872366a5e4bd1a221b6865ada93c54.1920x1080.jpg?t=1728609086"
+    }
+  ],
+  "web": "http://newtalesborderlands.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Mature content in this game is displayed in a variety of ways. From shooting other characters resulting in blood and gore spurting out, to characters losing limbs or being decapitated, to characters morphing into obscene monsters, and characters shooting themselves or inflicting self-harm. The context of self-harm occurring due to depression from a character is not present and the self-harm is only used for comedic effect given the context of the scene, however those who are sensitive to this topic should be aware of such scenes.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 214139,
+  "youtube": [
+    {
+      "id": "8688wNaRnD0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ujh7O-UGxDY",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:43:04.273Z"
+}

@@ -1,0 +1,658 @@
+{
+  "clave": "taiko no tatsujin rhythm festival",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-64fc-7105-acc5-52f3bf4d882e",
+  "appid": "2288630",
+  "lanzamiento": "2024-11-07",
+  "desarrolladores": [
+    "Bandai Namco Amusement Lab Inc.",
+    "BANDAI NAMCO Studios"
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco Amusement Lab Inc.",
+    "Bandai Namco Entertainment America Inc.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Casual",
+    "Rhythm",
+    "Multiplayer",
+    "Singleplayer",
+    "PvP"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 1319,
+      "url": "https://store.steampowered.com/app/2288630/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 72,
+      "cantidad": 26,
+      "url": "https://metacritic.com/game/taiko-no-tatsujin-rhythm-festival/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 31,
+      "url": "https://opencritic.com/game/13744/taiko-no-tatsujin-rhythm-festival"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1112155",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival The Setlist Edition",
+      "apps": [
+        {
+          "appid": "2288630",
+          "nombre": "Taiko no Tatsujin: Rhythm Festival"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 63.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "820988",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival",
+      "apps": [
+        {
+          "appid": "2288630",
+          "nombre": "Taiko no Tatsujin: Rhythm Festival"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2288630": {
+      "usd": 31.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 48,
+  "dlcLista": [
+    {
+      "appid": "4889890",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - KASANE TETO Pack Vol. 2",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4889880",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 2000 Series Pack Vol. 2",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4578950",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4578940",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 7",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4578930",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Pack de HATSUNE MIKU Vol. 7",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4267540",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - [Chiikawa Anime] Collab. Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3068530",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Songs Collection",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3068540",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Pops Collection",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3068550",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Vocaloid™ Songs Collection",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2926150",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Namco Game Music Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4267530",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 5",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4267520",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack Vol. 2",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4267510",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Pack de HATSUNE MIKU Vol. 6",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3976040",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 2000 Series Pack Vol. 1",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3976030",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 2020s Pops Pack Vol. 2",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3976020",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 6",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3837600",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 4",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3891210",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Tamagotchi Collab Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3837590",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Classical Pack",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3837580",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - KAWAII Pop Idol Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3622750",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - 2020s Pops Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3622740",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - KAGAMINE RIN, KAGAMINE LEN Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3638760",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Timeless Hits Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3416770",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 2",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3416760",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - KASANE TETO Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3416750",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 5",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3222470",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Crayon Shin-chan Theme Songs Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3222460",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Touhou Project Arrangements Pack Vol. 1",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3222450",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Kids' Pack Vol. 3",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3222440",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 4",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2885000",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2885010",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2885020",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 3",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2885030",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival STUDIO GHIBLI Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2885040",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - STUDIO GHIBLI Pack Vol. 2",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2885050",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival DRAGON BALL Anime Songs Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3068560",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - Pack de colaboración del 25 aniversario del anime One Piece",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2885070",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival ONE PIECE Anime Songs Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2885080",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 1",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2885090",
+      "nombre": "Taiko no Tatsujin: Rhythm Festival - HATSUNE MIKU Pack Vol. 2",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Taiko no Tatsujin: Rhythm Festival es un juego de ritmo con tambor que incluye canciones de géneros como el anime o VOCALOID™ y cuenta con varios modos de juego. ¡Diviértete jugando en solitario o en línea!",
+  "generos": [
+    "Casual"
+  ],
+  "lanzamientoTexto": "6 NOV 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Taiko no Tatsujin: Rhythm Festival",
+  "acerca": [
+    [
+      "p",
+      "Te damos la bienvenida a la Ciudad Omiko, ¡donde se unen los elementos más queridos de Taiko! Junto a Don-chan, entabla amistad con Kumo-kyun y conviértete en un maestro del taiko."
+    ],
+    [
+      "h",
+      "Modo Taiko"
+    ],
+    [
+      "p",
+      "¡Sigue el ritmo de tus canciones favoritas de principio a fin! Elige entre 4 niveles de dificultad."
+    ],
+    [
+      "p",
+      "Un total de 76 canciones de varios géneros como anime, VOCALOID™, videojuegos y pop estarán disponibles en el juego. ¡Entre ellas encontrarás Gurenge, el tema musical final de \"Mi vecino Totoro\", Charles, MEGALOVANIA, Into The Night, Feel Special y muchas más! Diviértete jugando sin presiones con un amigo o compite por la mejor puntuación. ¡Podrás usar la Ayuda para mejorar si quieres destacar con el tambor!"
+    ],
+    [
+      "h",
+      "Tres tipos de juegos para entre 1 y 4 jugadores."
+    ],
+    [
+      "p",
+      "- Gran guerra de tamborines"
+    ],
+    [
+      "p",
+      "Interpreta canciones y libera juguetes que contrarresten los de tu rival para hacerte con la victoria."
+    ],
+    [
+      "p",
+      "- Banda de Don-chan"
+    ],
+    [
+      "p",
+      "¡Tocad en conciertos como una banda de cuatro!"
+    ],
+    [
+      "p",
+      "- Dojo ninja ¡Corre!"
+    ],
+    [
+      "p",
+      "Conviértete en un ninja y compite contra otros 4 jugadores. ¡Supera los obstáculos para hacerte con el primer puesto!"
+    ],
+    [
+      "h",
+      "Partidas en línea"
+    ],
+    [
+      "p",
+      "- Partidas igualadas en línea"
+    ],
+    [
+      "p",
+      "¡Desafía a jugadores de todo el mundo y sube a los primeros puestos de la clasificación!"
+    ],
+    [
+      "p",
+      "- Partidas de sala"
+    ],
+    [
+      "p",
+      "¡Juega sin presiones con amigos y gente de todo el mundo en el modo Taiko y Gran guerra de tamborines!"
+    ],
+    [
+      "p",
+      "¡Disfruta de Taiko en solitario o con amigos!"
+    ],
+    [
+      "h",
+      "Taiko Music Pass"
+    ],
+    [
+      "p",
+      "- Únete al Taiko Music Pass para acceder a más de 700 canciones adicionales."
+    ],
+    [
+      "p",
+      "¡Se añaden temas cada mes!"
+    ],
+    [
+      "p",
+      "- Algunas canciones también se venden por separado."
+    ],
+    [
+      "p",
+      "*Hay otra edición del producto disponible. Ten cuidado con el contenido que ya tengas."
+    ],
+    [
+      "p",
+      "*Hasta 2 personas pueden jugar al modo Taiko y a la Gran guerra de tamborines. La Banda de Don-chan y Dojo ninja ¡Corre! admiten hasta 4 personas. Cada jugador necesitará un mando."
+    ],
+    [
+      "p",
+      "*El juego es compatible con el mando tambor de Taiko no Tatsujin para Xbox Series X|S y Windows® PC."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit / Windows 11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-750, 2.67 GHz / AMD A12-9800, 3.80 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti, 2 GB / AMD Radeon HD 7770, 2 GB / Intel Iris Plus"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"Low\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit / Windows 11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300, 2.80 GHz / AMD Ryzen 3 1200, 3.10 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 760 / AMD Radeon R9 270X / Intel Arc A380"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Estimated performance: 1080p/60fps with graphics settings at \"High\". Framerate might drop in graphics-intensive scenes. - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_239db8182d082194a71619da2edb622f89bd1794.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_239db8182d082194a71619da2edb622f89bd1794.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_ab4de84414ffcb3cce90a75f16a59bc77e1ac9bb.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_ab4de84414ffcb3cce90a75f16a59bc77e1ac9bb.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_ca6f5b73085048ea78a5d05420f871f1a7cd9476.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_ca6f5b73085048ea78a5d05420f871f1a7cd9476.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_7e9c3bcf5f22d0be0fbcc01edceebefce23a9cf9.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_7e9c3bcf5f22d0be0fbcc01edceebefce23a9cf9.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_d93c6a90858b6afd8f9d1ab4df593b24e8612ea9.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_d93c6a90858b6afd8f9d1ab4df593b24e8612ea9.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_0af0c99db01b1f167974520efb6ecc8336979c20.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_0af0c99db01b1f167974520efb6ecc8336979c20.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_f2220aa4c3900f37164e3185b59e39effe56a03d.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_f2220aa4c3900f37164e3185b59e39effe56a03d.1920x1080.jpg?t=1795083543"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_d0bad133e3ee815bbbff7f29edef3320353b2681.600x338.jpg?t=1795083543",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288630/ss_d0bad133e3ee815bbbff7f29edef3320353b2681.1920x1080.jpg?t=1795083543"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 191409,
+  "youtube": [
+    {
+      "id": "mrljCoC5qj4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "anLT30MuMLY",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "GQ6cQ-IpJrs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mbs_-LkR7R0",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:43:44.095Z"
+}

@@ -1,0 +1,312 @@
+{
+  "clave": "ova magica",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-464d-7332-84d4-32ad0507c32b",
+  "appid": "1299170",
+  "lanzamiento": "2023-12-31",
+  "desarrolladores": [
+    "ClaudiaTheDev",
+    "Skinny Frog"
+  ],
+  "editores": [
+    "Top Hat Studios, Inc."
+  ],
+  "etiquetas": [
+    "Farming Sim",
+    "JRPG",
+    "Life Sim",
+    "Creature Collector",
+    "Story Rich"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 584,
+      "url": "https://store.steampowered.com/app/1299170/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "453187",
+      "nombre": "Ova Magica",
+      "apps": [
+        {
+          "appid": "1299170",
+          "nombre": "Ova Magica"
+        }
+      ],
+      "usd": 14.49,
+      "antes": 14.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1299170": {
+      "usd": 14.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4349260",
+      "nombre": "Ova Magica Outfit Bundle",
+      "gratis": false,
+      "usd": 3.9,
+      "descuento": 15
+    }
+  ],
+  "descripcion": "Escapa del estrés diario y empieza una nueva vida en Pueblo Trébol. Cultiva, haz amigos y explora junto a adorables blobs. ¿Encontrarás el amor o te convertirás en el mejor entrenador de blobs? ¡Tu historia la decides tú!",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Rol",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "28 MAY 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Ova Magica",
+  "acerca": [
+    [
+      "p",
+      "Comienza una nueva vida en una granja abandonada en el rural y tranquilo Pueblo Trébol."
+    ],
+    [
+      "p",
+      "No estarás solo está vez: cría adorables blobs que te ayudarán a cultivar, explorar y hacer nuevos amigos."
+    ],
+    [
+      "p",
+      "Ova Magica combina simulación de vida en la granja con mecánicas JRPG de entrenamiento y crianza de blobs para ofrecer una experiencia acogedora y llena de aventuras."
+    ],
+    [
+      "h",
+      "Blobs"
+    ],
+    [
+      "p",
+      "En Pueblo Trébol, los blobs forman parte de la vida cotidiana, pero sobre todo, son amigos."
+    ],
+    [
+      "p",
+      "Críalos y crece junto a ellos mientras entrenas para la Copa Trébol, explora en busca de tesoros, cría blobs únicos o simplemente disfrutas de la vida en la granja."
+    ],
+    [
+      "p",
+      "Los Blobs también te ayudarán con tareas diarias como regar cultivos o conseguir productos como leche."
+    ],
+    [
+      "h",
+      "Relaciones"
+    ],
+    [
+      "p",
+      "A lo largo de tu aventura conocerás a muchos personajes diferentes, cada uno con sus propias historias y dificultades."
+    ],
+    [
+      "p",
+      "No serán simples encuentros pasajeros: gracias a tu ayuda, formarás parte de sus vidas mientras crecen y cambian."
+    ],
+    [
+      "p",
+      "Y quién sabe… quizá incluso encuentres el amor por el camino."
+    ],
+    [
+      "h",
+      "Vida en Pueblo Trébol"
+    ],
+    [
+      "p",
+      "En Pueblo Trébol, las estaciones marcan el ritmo de la vida. Con cada estación, el pueblo se llena de nuevas tradiciones, celebraciones y momentos para compartir con los demás. A lo largo del año, los festivales de temporada reúnen a todos los habitantes con actividades especiales, momentos emotivos y recompensas únicas."
+    ],
+    [
+      "h",
+      "Expediciones"
+    ],
+    [
+      "p",
+      "Si la tranquila vida en la granja no es suficiente para ti, el Club de Aventureros te está esperando."
+    ],
+    [
+      "p",
+      "Explora mundos desconocidos llenos de blobs salvajes, tesoros ocultos y valiosas recompensas. Junto a tus blobs y amigos, vivirás emocionantes expediciones."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit or higher"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 660 / AMD Radeon R9 270 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i5-7300 / AMD Ryzen 3 3300U or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 900 Series / Equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/4201452726a75731ad3359649415942149a49dd3/ss_4201452726a75731ad3359649415942149a49dd3.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/4201452726a75731ad3359649415942149a49dd3/ss_4201452726a75731ad3359649415942149a49dd3.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/f61a49cc9383cd716f0e5679e345619b2303aadb/ss_f61a49cc9383cd716f0e5679e345619b2303aadb.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/f61a49cc9383cd716f0e5679e345619b2303aadb/ss_f61a49cc9383cd716f0e5679e345619b2303aadb.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/e4948baddd6f7447b179c98c0343252698b00252/ss_e4948baddd6f7447b179c98c0343252698b00252.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/e4948baddd6f7447b179c98c0343252698b00252/ss_e4948baddd6f7447b179c98c0343252698b00252.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/08d1324d904b781f3014ad6608a1078254ea2995/ss_08d1324d904b781f3014ad6608a1078254ea2995.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/08d1324d904b781f3014ad6608a1078254ea2995/ss_08d1324d904b781f3014ad6608a1078254ea2995.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/937c0bc7f22223015704a346529810e1da989270/ss_937c0bc7f22223015704a346529810e1da989270.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/937c0bc7f22223015704a346529810e1da989270/ss_937c0bc7f22223015704a346529810e1da989270.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/424e2ad1c164c3cc63714220b5c1beb885d95273/ss_424e2ad1c164c3cc63714220b5c1beb885d95273.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/424e2ad1c164c3cc63714220b5c1beb885d95273/ss_424e2ad1c164c3cc63714220b5c1beb885d95273.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/939e823a15c0db5103e033fd506daff795f4eb3b/ss_939e823a15c0db5103e033fd506daff795f4eb3b.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/939e823a15c0db5103e033fd506daff795f4eb3b/ss_939e823a15c0db5103e033fd506daff795f4eb3b.1920x1080.jpg?t=1794319473"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/0a3d5de5e71053905c19ca1f414d722466fe93b6/ss_0a3d5de5e71053905c19ca1f414d722466fe93b6.600x338.jpg?t=1794319473",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299170/0a3d5de5e71053905c19ca1f414d722466fe93b6/ss_0a3d5de5e71053905c19ca1f414d722466fe93b6.1920x1080.jpg?t=1794319473"
+    }
+  ],
+  "web": "https://drive.google.com/drive/folders/1LcayTA7JqTPRGLUKBgrf_Sy4ui60i333?usp=drive_link",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.8,
+    "cantidad": 21,
+    "escala": 5
+  },
+  "xbox": "9MZRQ6QMC8PT",
+  "igdbIntentado": true,
+  "igdb": 138211,
+  "youtube": [
+    {
+      "id": "nPSI0okfs5E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "17GMK2SUftM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "k68DR2EIOvw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "JKPglyIOUnA",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T03:38:47.332Z"
+}
