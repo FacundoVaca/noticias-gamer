@@ -1,9 +1,9 @@
 {
   "clave": "danganronpa 2 goodbye despair",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1ea1-732d-ab65-d3fc078354b3",
   "appid": "413420",
@@ -42,6 +42,28 @@
       "url": "https://metacritic.com/game/danganronpa-2-goodbye-despair/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "82836",
+      "nombre": "Danganronpa 2: Goodbye Despair",
+      "apps": [
+        {
+          "appid": "413420",
+          "nombre": "Danganronpa 2: Goodbye Despair"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 10.49,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "413420": {
+      "usd": 4.19,
+      "gratis": false
+    }
+  },
   "descripcion": "Isla Jabberwock: tus compañeros y tú estabais listos para divertiros bajo el sol hasta que Monokuma regresó para reiniciar su juego asesino. Atrapado en una situación de vida o muerte, tu única esperanza está en resolver los misterios de la isla.",
   "generos": [
     "Aventura"
@@ -51,6 +73,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/danganronpa-2-goodbye-despair?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Danganronpa 2: Goodbye Despair",
   "acerca": [
     [
@@ -92,15 +115,18 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -199,5 +225,24 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413420/ss_572c6c3a58a4347c7d8467707befca5c2e6e6345.1920x1080.jpg?t=1781085654"
     }
   ],
-  "consultado": "2026-11-22T22:12:57.275Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 9694,
+  "youtube": [
+    {
+      "id": "vFJLjxvB8P8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tKSfHbs6SB8",
+      "nombre": "Game intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:17.206Z"
 }

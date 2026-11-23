@@ -1,9 +1,9 @@
 {
   "clave": "nier replicant ver 1 22474487139",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-47c7-730f-9ef2-8025ade99100",
   "appid": "1113560",
@@ -36,6 +36,94 @@
       "url": "https://opencritic.com/game/11154/nier-replicant-ver-1-22474487139"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "502733",
+      "nombre": "NieR Replicant ver.1.22474487139",
+      "apps": [
+        {
+          "appid": "1113560",
+          "nombre": "NieR Replicant™ ver.1.22474487139..."
+        }
+      ],
+      "usd": 17.99,
+      "antes": 44.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1113560": {
+      "usd": 17.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "3514150",
+      "nombre": "NieR Replicant ver.1.22474487139... Original Soundtrack",
+      "gratis": false,
+      "usd": 8.36,
+      "descuento": 10
+    },
+    {
+      "appid": "1408390",
+      "nombre": "NieR Replicant 4 YoRHa",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3514250",
+      "nombre": "NieR Replicant ver.1.22474487139... Choir Arrangement Album",
+      "gratis": false,
+      "usd": 6.51,
+      "descuento": 10
+    },
+    {
+      "appid": "3514190",
+      "nombre": "NieR Gestalt & Replicant Original Soundtrack",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    },
+    {
+      "appid": "3514160",
+      "nombre": "NieR Gestalt & Replicant 15 Nightmares & Arrange Tracks",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "3514180",
+      "nombre": "NieR Gestalt & Replicant Orchestral Arrangement Album",
+      "gratis": false,
+      "usd": 6.81,
+      "descuento": 10
+    },
+    {
+      "appid": "3514290",
+      "nombre": "Piano Collections NieR Gestalt & Replicant",
+      "gratis": false,
+      "usd": 5.61,
+      "descuento": 10
+    },
+    {
+      "appid": "3514260",
+      "nombre": "NieR Tribute Album -echo-",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "3516770",
+      "nombre": "NieR Replicant -10+1 Years-",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 10
+    }
+  ],
   "descripcion": "La precuela mejorada de NieR:Automata. Un bondadoso joven parte en compañía de Grimoire Weiss, un extraño libro parlante, en busca de los Versos sellados para salvar a su hermana Yonah, enferma de necrosis rúnica.",
   "generos": [
     "Acción",
@@ -44,6 +132,7 @@
   ],
   "lanzamientoTexto": "23 ABR 2021",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "NieR Replicant™ ver.1.22474487139...",
   "acerca": [
     [
@@ -119,39 +208,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,5 +365,31 @@
     }
   ],
   "web": "https://nier.square-enix-games.com/",
-  "consultado": "2026-11-22T22:10:11.936Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "NieR Replicant ver.1.22474487139… contains adult scenes and theme, strong language in certain areas of the game, including blood, violence, criminal acts and killing.",
+  "igdbIntentado": true,
+  "igdb": 131999,
+  "youtube": [
+    {
+      "id": "FfG_6qKBPsQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "w5ZHBApRzLM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "02PJzAAR8M0",
+      "nombre": "Extra Content Trailer"
+    },
+    {
+      "id": "EL-kVmzo8KE",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:45.628Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "hell is us",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5f0f-72e7-8396-d941e2fbbca3",
   "appid": "1620730",
@@ -49,6 +49,126 @@
       "url": "https://opencritic.com/game/18115/hell-is-us"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "575230",
+      "nombre": "Hell is Us",
+      "apps": [
+        {
+          "appid": "1620730",
+          "nombre": "Hell is Us"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 29.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1237358",
+      "nombre": "Hell is Us – Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1620730",
+          "nombre": "Hell is Us"
+        },
+        {
+          "appid": "3494390",
+          "nombre": "Hell is Us - Artbook"
+        },
+        {
+          "appid": "3494340",
+          "nombre": "Hell is Us - Hollow Walker Pack"
+        },
+        {
+          "appid": "2912150",
+          "nombre": "Hell is Us - Phol Guard Pack"
+        },
+        {
+          "appid": "3494350",
+          "nombre": "Hell is Us - Secret Code"
+        },
+        {
+          "appid": "3494380",
+          "nombre": "Hell is Us - Soundtrack"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 44.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1620730": {
+      "usd": 8.99,
+      "gratis": false
+    },
+    "2912150": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3494340": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3494350": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "3494380": {
+      "usd": 3.81,
+      "gratis": false
+    },
+    "3494390": {
+      "usd": 2.54,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "3494380",
+      "nombre": "Hell is Us - Soundtrack",
+      "gratis": false,
+      "usd": 3.81,
+      "descuento": 15
+    },
+    {
+      "appid": "3494390",
+      "nombre": "Hell is Us - Artbook",
+      "gratis": false,
+      "usd": 2.54,
+      "descuento": 15
+    },
+    {
+      "appid": "3494370",
+      "nombre": "Hell is Us - Military Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3494340",
+      "nombre": "Hell is Us - Hollow Walker Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2912150",
+      "nombre": "Hell is Us - Phol Guard Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3494350",
+      "nombre": "Hell is Us - Secret Code",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "La guerra es lo más cercano al infierno en la Tierra, porque esta alberga al peor demonio: la humanidad. En un país aislado y arrasado por luchas internas, descubre los secretos de tu pasado y afronta las repercusiones de una misteriosa calamidad.",
   "generos": [
     "Acción",
@@ -56,6 +176,7 @@
   ],
   "lanzamientoTexto": "4 SEP 2025",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Hell is Us",
   "acerca": [
     [
@@ -110,51 +231,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -270,5 +403,32 @@
     }
   ],
   "web": "https://hell-is-us.com/",
-  "consultado": "2026-11-22T22:06:27.742Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Este juego muestra violencia intensa, sangre, lenguaje malsonante y temas sugestivos.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 196954,
+  "youtube": [
+    {
+      "id": "Q69e1A3ovxI",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "jDbkWYYJ0FI",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "8iZbNIAM8eQ",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "ynk7LyKGNHM",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:50.802Z"
 }

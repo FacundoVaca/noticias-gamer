@@ -1,9 +1,9 @@
 {
   "clave": "rematch",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7037-7047-b363-1bc9929fd199",
   "appid": "2138720",
@@ -50,6 +50,78 @@
       "url": "https://opencritic.com/game/18755/rematch"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1271536",
+      "nombre": "REMATCH - Pro Edition",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 19.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "764998",
+      "nombre": "REMATCH",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1271537",
+      "nombre": "REMATCH - Elite Edition",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2138720": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4768770",
+      "nombre": "REMATCH - NV Infrared Bundle",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3743390",
+      "nombre": "REMATCH - Elite Edition Upgrade Pack",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3743380",
+      "nombre": "REMATCH - Pro Edition Upgrade Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Controla a un jugador en trepidantes partidos de fútbol online desde una perspectiva inmersiva en tercera persona. Forma equipo con tus amigos en grupos de 3, 4 o 5 jugadores, demuestra tu habilidad y haz que cada jugada cuente.",
   "generos": [
     "Acción",
@@ -58,6 +130,7 @@
   ],
   "lanzamientoTexto": "19 JUN 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "REMATCH",
   "caracteristicas": [
     "Multijugador",
@@ -77,59 +150,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -237,5 +324,30 @@
     }
   ],
   "web": "https://www.playrematch.com/beta-environment?utm_source=Steam&amp;utm_medium=Beta+link&amp;utm_campaign=Game_Reveal&amp;utm_id=Game+reveal",
-  "consultado": "2026-11-22T22:09:36.688Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 325588,
+  "youtube": [
+    {
+      "id": "mo_RL_K891U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RsItvQSNjLI",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "RZ7UxYqzg0s",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "FxpFiokmI2c",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:42.426Z"
 }

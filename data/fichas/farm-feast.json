@@ -1,9 +1,9 @@
 {
   "clave": "farm feast",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019d2514-f161-706a-b7ed-9894e36884b1",
   "appid": "4521650",
@@ -30,6 +30,38 @@
       "url": "https://store.steampowered.com/app/4521650/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1577095",
+      "nombre": "Farm & Feast",
+      "apps": [
+        {
+          "appid": "4521650",
+          "nombre": "Farm & Feast"
+        }
+      ],
+      "usd": 6.39,
+      "antes": 7.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4521650": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5496530",
+      "nombre": "Farm & Feast Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Cultiva ingredientes frescos y lleva tu propio pequeño restaurante. Disfruta de un día tranquilo que va del campo a la mesa. Planifica un menú fresco para un día estupendo, mantén tu despensa bien surtida y haz felices a tus clientes. Gana tu propio dinero y construye tu pequeño mundo paso a paso.",
   "generos": [
     "Casual",
@@ -39,6 +71,7 @@
   ],
   "lanzamientoTexto": "11 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Farm & Feast",
   "acerca": [
     [
@@ -139,59 +172,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -282,5 +329,14 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521650/29b57f4958e9c65081604d55a073e8b62aac1914/ss_29b57f4958e9c65081604d55a073e8b62aac1914.1920x1080.jpg?t=1794818088"
     }
   ],
-  "consultado": "2026-11-22T22:09:30.278Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 414305,
+  "v": 7,
+  "consultado": "2026-11-23T09:50:13.298Z"
 }

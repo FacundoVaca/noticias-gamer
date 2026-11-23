@@ -1,9 +1,9 @@
 {
   "clave": "dirt rally 2 0",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f499-733f-998b-faa08c2e610f",
   "appid": "690790",
@@ -48,6 +48,240 @@
       "url": "https://opencritic.com/game/7087/dirt-rally-2-0"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "341902",
+      "nombre": "DiRT Rally 2.0",
+      "apps": [
+        {
+          "appid": "690790",
+          "nombre": "DiRT Rally 2.0"
+        }
+      ],
+      "usd": 13.99,
+      "antes": 19.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "388523",
+      "nombre": "DiRT Rally 2.0 Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "690790",
+          "nombre": "DiRT Rally 2.0"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "690790": {
+      "usd": 13.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 28,
+  "dlcLista": [
+    {
+      "appid": "977660",
+      "nombre": "DiRT Rally 2.0 - Porsche 911 RGT Rally Spec",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "988662",
+      "nombre": "DiRT Rally 2.0 - H2 RWD Double Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "988670",
+      "nombre": "DiRT Rally 2.0 - Opel Kadett  C GT/E",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004890",
+      "nombre": "DiRT Rally 2.0 - Monte Carlo (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004891",
+      "nombre": "DiRT Rally 2.0 - Sweden (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004892",
+      "nombre": "DiRT Rally 2.0 - Germany (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004920",
+      "nombre": "DiRT Rally 2.0 - ŠKODA Fabia Rally",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004921",
+      "nombre": "DiRT Rally 2.0 - Citroën C4 Rally",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004940",
+      "nombre": "DiRT Rally 2.0 - Subaru Impreza",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004950",
+      "nombre": "DiRT Rally 2.0 - BMW M1 Procar Rally",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004960",
+      "nombre": "DiRT Rally 2.0 - Opel Manta 400",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004980",
+      "nombre": "DiRT Rally 2.0 - Ford RS200 Evolution",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004990",
+      "nombre": "DiRT Rally 2.0 - Porsche 911 SC RS",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1005010",
+      "nombre": "DiRT Rally 2.0 - Lancia 037 Evo 2",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004930",
+      "nombre": "DiRT Rally 2.0 - Ford Focus RS Rally 2007",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118263",
+      "nombre": "DiRT Rally 2.0 - Season 4 Stage 1 Liveries",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1118270",
+      "nombre": "DiRT Rally 2.0 - SUBARU Impreza (2001)",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118271",
+      "nombre": "DiRT Rally 2.0 - Ford Focus RS Rally 2001",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118272",
+      "nombre": "DiRT Rally 2.0 - Peugeot 306 Maxi",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118273",
+      "nombre": "DiRT Rally 2.0 - Seat Ibiza Kit Car",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118274",
+      "nombre": "DiRT Rally 2.0 - Peugeot 206 Rally",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118275",
+      "nombre": "DiRT Rally 2.0 - Volkswagen Golf Kitcar",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118284",
+      "nombre": "DiRT Rally 2.0 - Ford Fiesta RXS Evo 5",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118290",
+      "nombre": "DiRT Rally 2.0 - Greece (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1118292",
+      "nombre": "DiRT Rally 2.0 - Finland (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1004894",
+      "nombre": "DiRT Rally 2.0 - Wales (Rally Location)",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1142800",
+      "nombre": "DiRT Rally 2.0 Deluxe 2.0 (Season3+4)",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1211480",
+      "nombre": "DiRT Rally 2.0 - Colin McRae: FLAT OUT Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "DiRT Rally 2.0 te empuja a abrirte paso por una selección de ubicaciones de rally icónicas de todo el mundo con los vehículos todoterreno más potentes hasta la fecha, sabiendo que un pequeño error podría acabar con la etapa.",
   "generos": [
     "Carreras",
@@ -59,6 +293,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/dirt-rally-20?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "DiRT Rally 2.0",
   "acerca": [
     [
@@ -117,35 +352,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -265,5 +508,22 @@
     }
   ],
   "web": "http://www.dirtrally2.com",
-  "consultado": "2026-11-22T22:14:06.583Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 110411,
+  "youtube": [
+    {
+      "id": "iEcf6Arn77k",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QW0mGB7aDpY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:07.648Z"
 }

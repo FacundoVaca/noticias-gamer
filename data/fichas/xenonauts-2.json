@@ -1,9 +1,9 @@
 {
   "clave": "xenonauts 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-309b-7383-bdfd-4f95a8566683",
   "appid": "538030",
@@ -48,6 +48,28 @@
       "url": "https://opencritic.com/game/15212/xenonauts-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "131447",
+      "nombre": "Xenonauts 2",
+      "apps": [
+        {
+          "appid": "538030",
+          "nombre": "Xenonauts 2"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 19.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "538030": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Libra una guerra asimétrica a gran escala contra un enemigo alienígena tecnológicamente superior, enfréntate en batallas tácticas por turnos, crea una red de bases secretas, toma el control de tus alas de cazas y usa la estrategia para alzarte con la victoria.",
   "generos": [
     "Rol",
@@ -59,6 +81,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/xenonauts-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Xenonauts 2",
   "acerca": [
     [
@@ -112,47 +135,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -260,5 +294,21 @@
     }
   ],
   "web": "http://www.goldhawkinteractive.com",
-  "consultado": "2026-11-22T22:08:29.854Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 19408,
+  "youtube": [
+    {
+      "id": "hXNYuMCjx4c",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "EDYCdNppmJw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:08.255Z"
 }

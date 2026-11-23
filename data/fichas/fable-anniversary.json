@@ -1,9 +1,9 @@
 {
   "clave": "fable anniversary",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0c8a-7023-9e85-caef8d0f1ff8",
   "appid": "288470",
@@ -36,12 +36,59 @@
       "url": "https://metacritic.com/game/fable-anniversary/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "40245",
+      "nombre": "Fable Anniversary",
+      "apps": [
+        {
+          "appid": "288470",
+          "nombre": "Fable Anniversary"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 34.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "288470": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "315150",
+      "nombre": "Fable Anniversary - Scythe Content Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 70
+    },
+    {
+      "appid": "315151",
+      "nombre": "Fable Anniversary - Heroes and Villains Content Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 70
+    },
+    {
+      "appid": "319120",
+      "nombre": "Fable Anniversary - Modding DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "FOR EVERY CHOICE, A CONSEQUENCE.Fully re-mastered with HD visuals and audio, Fable Anniversary is a stunning rendition of the original game that will delight faithful fans and new players alike! The all new Heroic difficulty setting will test the mettle of even the most hardcore Fable fan.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "12 SEP 2014",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Fable Anniversary",
   "acerca": [
     [
@@ -88,43 +135,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -212,5 +269,18 @@
     }
   ],
   "web": "http://www.lionhead.com/games/fable-anniversary/",
-  "consultado": "2026-11-22T22:10:08.827Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7658,
+  "youtube": [
+    {
+      "id": "Awaa0OhDNj4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:09.993Z"
 }

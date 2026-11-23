@@ -1,9 +1,9 @@
 {
   "clave": "the mound omen of cthulhu",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01956cab-77db-727b-bdd8-28e6a551662c",
   "appid": "2569760",
@@ -49,6 +49,103 @@
       "url": "https://opencritic.com/game/20982/the-mound-omen-of-cthulhu"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "922881",
+      "nombre": "The Mound: Omen of Cthulhu",
+      "apps": [
+        {
+          "appid": "2569760",
+          "nombre": "The Mound: Omen of Cthulhu"
+        }
+      ],
+      "usd": 12.34,
+      "antes": 18.99,
+      "descuento": 35
+    },
+    {
+      "packageid": "1678971",
+      "nombre": "The Mound: Omen of Cthulhu - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2569760",
+          "nombre": "The Mound: Omen of Cthulhu"
+        },
+        {
+          "appid": "4630460",
+          "nombre": "The Mound: Omen of Cthulhu - Characters & Items Pack"
+        },
+        {
+          "appid": "4630440",
+          "nombre": "The Mound: Omen of Cthulhu - Original Soundtrack "
+        },
+        {
+          "appid": "4925780",
+          "nombre": "The Mound: Omen of Cthulhu - Temple of Yig Exclusive Mission"
+        }
+      ],
+      "usd": 22.99,
+      "antes": 22.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2569760": {
+      "usd": 12.34,
+      "gratis": false
+    },
+    "4630440": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "4630460": {
+      "usd": 2.96,
+      "gratis": false
+    },
+    "4925780": {
+      "usd": null,
+      "gratis": true
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "5346050",
+      "nombre": "The Mound: Omen of Cthulhu - Tsathoggua Cultist Skin Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4630450",
+      "nombre": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
+      "gratis": false,
+      "usd": 2.96,
+      "descuento": 10
+    },
+    {
+      "appid": "4630440",
+      "nombre": "The Mound: Omen of Cthulhu - Original Soundtrack ",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "4630460",
+      "nombre": "The Mound: Omen of Cthulhu - Characters & Items Pack",
+      "gratis": false,
+      "usd": 2.96,
+      "descuento": 10
+    },
+    {
+      "appid": "4925780",
+      "nombre": "The Mound: Omen of Cthulhu - Temple of Yig Exclusive Mission",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Forma un equipo de hasta 4 jugadores y domina la selva antes de que te devore…",
   "generos": [
     "Acción",
@@ -56,6 +153,7 @@
   ],
   "lanzamientoTexto": "15 JUL 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "The Mound: Omen of Cthulhu",
   "acerca": [
     [
@@ -126,47 +224,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,5 +362,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/c5969e5dbb6c052545140038d3eebd77cf00418a/ss_c5969e5dbb6c052545140038d3eebd77cf00418a.1920x1080.jpg?t=1793282534"
     }
   ],
-  "consultado": "2026-11-22T22:08:39.336Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game features intense violence, blood and gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 334673,
+  "youtube": [
+    {
+      "id": "YR4pOLn0ydg",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "2hXCNX34lNg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "sRDCm5f1zxc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "XdGPr08PIIE",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:54.336Z"
 }

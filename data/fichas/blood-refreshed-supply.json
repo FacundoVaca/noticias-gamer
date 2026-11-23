@@ -1,9 +1,9 @@
 {
   "clave": "blood refreshed supply",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0199910d-c931-7108-a513-9d18b6312f81",
   "appid": "3884520",
@@ -52,6 +52,28 @@
       "url": "https://opencritic.com/game/19415/blood-refreshed-supply"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1365512",
+      "nombre": "Blood: Refreshed Supply",
+      "apps": [
+        {
+          "appid": "3884520",
+          "nombre": "Blood: Refreshed Supply™"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3884520": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Es hora de que corra la sangre! Revienta 42 niveles de lo más frenéticos mientras te adentras en este mundo lovecraftiano y te enfrentas a ejércitos de acólitos, zombis, gárgolas, sabuesos infernales y otros horrores insaciables. Con una sola cosa en mente: destruir a Tchernobog.",
   "generos": [
     "Acción"
@@ -61,6 +83,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/blood-refreshed-supply?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Blood: Refreshed Supply™",
   "acerca": [
     [
@@ -155,23 +178,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -275,5 +303,28 @@
     }
   ],
   "web": "https://nightdivestudios.com/",
-  "consultado": "2026-11-22T22:14:41.416Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "Very Frequent Violence and Gore, content may not appropriate for all ages. The game also contains depiction of alcohol consumption. Nudity can be seen in game.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 370701,
+  "youtube": [
+    {
+      "id": "PCP0yZtq2OQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "sFjJU5lf2K0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "arLKfxEBVg0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:01.053Z"
 }

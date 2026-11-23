@@ -1,9 +1,9 @@
 {
   "clave": "dragon quest xi s ecos de un pasado perdido edicion definitiva",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1e5e-7047-be31-e7cedc85cdf4",
   "appid": "1295510",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/1295510/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "451932",
+      "nombre": "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition",
+      "apps": [
+        {
+          "appid": "1295510",
+          "nombre": "DRAGON QUEST XI S: Ecos de un pasado perdido – Edición definitiva"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 31.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1295510": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "descripcion": "La edición definitiva incluye el aclamadísimo DRAGON QUEST XI, además de escenarios adicionales, una banda sonora orquestal, el modo 2D y más cosas. Ya seas fan de toda la vida o un aventurero recién llegado, esta es la experiencia DQXI definitiva.",
   "generos": [
     "Aventura",
@@ -37,6 +59,7 @@
   ],
   "lanzamientoTexto": "4 DIC 2020",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "DRAGON QUEST XI S: Ecos de un pasado perdido – Edición definitiva",
   "acerca": [
     [
@@ -139,35 +162,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -283,5 +314,31 @@
     }
   ],
   "web": "https://www.DQ11.com",
-  "consultado": "2026-11-22T22:13:47.040Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violencia de caricatura ligera",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 110069,
+  "youtube": [
+    {
+      "id": "PgfOu4dEIDw",
+      "nombre": "Overview Trailer"
+    },
+    {
+      "id": "h6dsxCfdZlk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8vKeVJEugM0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Op9YgXhjgNM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:56.849Z"
 }

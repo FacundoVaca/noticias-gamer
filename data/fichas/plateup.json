@@ -1,9 +1,9 @@
 {
   "clave": "plateup",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-500f-706a-9e9d-32a6ed2b9032",
   "appid": "1599600",
@@ -45,6 +45,28 @@
       "url": "https://opencritic.com/game/13554/plateup-"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "566472",
+      "nombre": "PlateUp!",
+      "apps": [
+        {
+          "appid": "1599600",
+          "nombre": "PlateUp!"
+        }
+      ],
+      "usd": 2.62,
+      "antes": 10.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1599600": {
+      "usd": 2.62,
+      "gratis": false
+    }
+  },
   "descripcion": "Cocina y sirve tus platos, diseña y decora tus restaurantes y expande tu reino culinario con nuevos desbloqueos, habilidades y deliciosas comidas en diferentes ubicaciones que van apareciendo. Acción de cocina clásica con un progreso roguelite permanente.",
   "generos": [
     "Acción",
@@ -54,6 +76,7 @@
   ],
   "lanzamientoTexto": "4 AGO 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "PlateUp!",
   "acerca": [
     [
@@ -151,51 +174,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -271,5 +306,22 @@
     }
   ],
   "web": "https://www.plateupgame.com",
-  "consultado": "2026-11-22T22:14:21.911Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 151353,
+  "youtube": [
+    {
+      "id": "0LbK7MHm8g4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "I0kmWq-Sz-w",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:25.363Z"
 }

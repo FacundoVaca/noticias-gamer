@@ -1,9 +1,9 @@
 {
   "clave": "battlefield 3",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-03b7-718c-afcc-9fccfea4af66",
   "appid": "1238820",
@@ -35,6 +35,52 @@
       "url": "https://metacritic.com/game/battlefield-3-premium-edition/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432908",
+      "nombre": "Battlefield 3™ Premium Edition",
+      "apps": [
+        {
+          "appid": "1238820",
+          "nombre": "Battlefield 3™"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 39.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238820": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "1238831",
+      "nombre": "Lote de atajos definitivo de Battlefield 3™",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 75
+    },
+    {
+      "appid": "1278133",
+      "nombre": "Battlefield 3™ Promotional Items",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1278134",
+      "nombre": "Lote de Kit SPECACT y chapas de identificación de Battlefield 3™",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Disfruta de libertad plena para luchar como quieras. Explora 29 gigantescos mapas multijugador y haz uso de múltiples vehículos, armas y dispositivos para ponerte por delante. Cada segundo te dejará más cerca de desbloquear un montón de extras y subir de grado. Ponte en acción.",
   "generos": [
     "Acción"
@@ -44,6 +90,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/battlefield-3?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Battlefield 3™",
   "acerca": [
     [
@@ -103,51 +150,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -242,5 +301,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/ss_9d0429372a9b13bc3131a8f46d7a6cbf942bfbb9.1920x1080.jpg?t=1777326004"
     }
   ],
-  "consultado": "2026-11-22T22:13:38.396Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Strong Language Violence",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 343,
+  "youtube": [
+    {
+      "id": "m8S_eEv_A5k",
+      "nombre": "Caspian Border Gameplay "
+    },
+    {
+      "id": "fw3Oc1QS0iI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "wi2tae2PmmU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "aPu7-LtLKmU",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:59.922Z"
 }

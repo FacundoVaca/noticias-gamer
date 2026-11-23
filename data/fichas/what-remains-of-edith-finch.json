@@ -1,9 +1,9 @@
 {
   "clave": "what remains of edith finch",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-00e8-729d-a917-e2f1d5bcc95d",
   "appid": "501300",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/4132/what-remains-of-edith-finch"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "115094",
+      "nombre": "What Remains of Edith Finch",
+      "apps": [
+        {
+          "appid": "501300",
+          "nombre": "What Remains of Edith Finch"
+        }
+      ],
+      "usd": 2.64,
+      "antes": 10.59,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "501300": {
+      "usd": 2.64,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "629930",
+      "nombre": "What Remains of Edith Finch - Original Soundtrack",
+      "gratis": false,
+      "usd": 0.95,
+      "descuento": 70
+    }
+  ],
   "descripcion": "What Remains of Edith Finch es una colección de historias extrañas acerca de una familia en el estado de Washington. Adéntrate en la piel de Edith y explora la gigantesca casa Finch en busca de historias, mientras ella ahonda en la historia familiar y trata de averiguar por qué es el último integrante de la familia que sigue con vida.",
   "generos": [
     "Aventura",
@@ -58,6 +90,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/what-remains-of-edith-finch?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "What Remains of Edith Finch",
   "acerca": [
     [
@@ -93,47 +126,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -193,5 +237,30 @@
     }
   ],
   "web": "https://annapurnainteractive.com/en/games/what-remains-of-edith-finch",
-  "consultado": "2026-11-22T22:13:06.032Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11233,
+  "youtube": [
+    {
+      "id": "Dc_2NOLQNIg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "u8kfrX8I2zk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "oKpcpwM5onA",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "DhH5bfoZJFo",
+      "nombre": "PSX 2016 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:52.534Z"
 }

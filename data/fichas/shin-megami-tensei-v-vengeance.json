@@ -1,9 +1,9 @@
 {
   "clave": "shin megami tensei v vengeance",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018deb4b-fc79-712e-a822-7612a09aaf89",
   "appid": "1875830",
@@ -49,6 +49,135 @@
       "url": "https://opencritic.com/game/16834/shin-megami-tensei-v-vengeance"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "675362",
+      "nombre": "Shin Megami Tensei V: Vengeance",
+      "apps": [
+        {
+          "appid": "1875830",
+          "nombre": "Shin Megami Tensei V: Vengeance"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1003146",
+      "nombre": "Shin Megami Tensei V: Vengeance Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1875830",
+          "nombre": "Shin Megami Tensei V: Vengeance"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 69.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1003173",
+      "nombre": "Shin Megami Tensei V: Vengeance - DLC All-in-One",
+      "apps": [
+        {
+          "appid": "2107722",
+          "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de EXP"
+        },
+        {
+          "appid": "2107721",
+          "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de milagros"
+        },
+        {
+          "appid": "2107723",
+          "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de riqueza"
+        },
+        {
+          "appid": "2107720",
+          "nombre": "Shin Megami Tensei V: Vengeance - Sakura-Asche des Ostens"
+        },
+        {
+          "appid": "2106500",
+          "nombre": "Shin Megami Tensei V: Vengeance - Voluntad divina y disidencia profana"
+        }
+      ],
+      "usd": 9.74,
+      "antes": 14.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "1875830": {
+      "usd": 17.99,
+      "gratis": false
+    },
+    "2106500": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2107720": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2107721": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "2107722": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "2107723": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "2107720",
+      "nombre": "Shin Megami Tensei V: Vengeance - Sakura-Asche des Ostens",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2106500",
+      "nombre": "Shin Megami Tensei V: Vengeance - Voluntad divina y disidencia profana",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2107724",
+      "nombre": "Shin Megami Tensei V: Vengeance - Dificultad segura",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2107723",
+      "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de riqueza",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2107722",
+      "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de EXP",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2107721",
+      "nombre": "Shin Megami Tensei V: Vengeance - Danza mitama de milagros",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Conviértete en un poderoso semidiós y lucha a través de un Tokio devastado en una guerra entre ángeles y demonios. Haz aliados nuevos en tu viaje, participa en intensos combates tácticos por turnos, recluta a cientos de demonios y forja tu propio camino para dictar el destino de la existencia.",
   "generos": [
     "Aventura",
@@ -59,6 +188,7 @@
     "puntaje": 90,
     "url": "https://www.metacritic.com/game/pc/shin-megami-tensei-v-vengeance?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Shin Megami Tensei V: Vengeance",
   "acerca": [
     [
@@ -144,55 +274,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -300,5 +443,28 @@
     }
   ],
   "web": "https://atlus.com/",
-  "consultado": "2026-11-22T22:09:56.073Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Yes, this product has content typically considered mature. This includes games with content such as graphic violence, frequent nudity, sexual content, and other mature topics.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 287850,
+  "youtube": [
+    {
+      "id": "KDiRwSeXbZM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "esJS9uV4qYM",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "K3pLA-4o6RM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:11.886Z"
 }

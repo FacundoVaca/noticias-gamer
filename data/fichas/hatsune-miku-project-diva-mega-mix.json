@@ -1,9 +1,9 @@
 {
   "clave": "hatsune miku project diva mega mix",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-60cb-70c0-8661-e7f427db25f3",
   "appid": "1761390",
@@ -31,12 +31,81 @@
       "url": "https://store.steampowered.com/app/1761390/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "631804",
+      "nombre": "Hatsune Miku: Project DIVA Mega Mix+",
+      "apps": [
+        {
+          "appid": "1761390",
+          "nombre": "Hatsune Miku: Project DIVA Mega Mix+"
+        }
+      ],
+      "usd": 15.75,
+      "antes": 39.39,
+      "descuento": 60
+    },
+    {
+      "packageid": "710689",
+      "nombre": "Lote VIP de Hatsune Miku: Project DIVA Mega Mix+",
+      "apps": [
+        {
+          "appid": "1905750",
+          "nombre": " Hatsune Miku: Project DIVA Mega Mix+ Clave de Desbloqueo de Objetos"
+        },
+        {
+          "appid": "1761390",
+          "nombre": "Hatsune Miku: Project DIVA Mega Mix+"
+        },
+        {
+          "appid": "1887030",
+          "nombre": "Hatsune Miku: Project DIVA Mega Mix+ Paquete de Canciones Adicionales"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 59.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1761390": {
+      "usd": 15.75,
+      "gratis": false
+    },
+    "1887030": {
+      "usd": 17.49,
+      "gratis": false
+    },
+    "1905750": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1905750",
+      "nombre": " Hatsune Miku: Project DIVA Mega Mix+ Clave de Desbloqueo de Objetos",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1887030",
+      "nombre": "Hatsune Miku: Project DIVA Mega Mix+ Paquete de Canciones Adicionales",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "¡Súbete al escenario del primer juego rítmico de Hatsune Miku protagonizado por la estrella pop virtual más famosa del mundo! Disfruta de la gira definitiva de Hatsune Miku. ¡Solo faltas tú!",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "26 MAY 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Hatsune Miku: Project DIVA Mega Mix+",
   "acerca": [
     [
@@ -101,39 +170,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -237,5 +315,18 @@
     }
   ],
   "web": "https://miku.sega.com/megamixplus/",
-  "consultado": "2026-11-22T22:13:49.301Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 202864,
+  "youtube": [
+    {
+      "id": "7IqkUsbXdGA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:03.438Z"
 }

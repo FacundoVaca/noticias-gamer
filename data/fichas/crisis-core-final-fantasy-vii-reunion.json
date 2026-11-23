@@ -2,7 +2,8 @@
   "clave": "crisis core final fantasy vii reunion",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-64be-71f1-9143-aa284c437208",
   "appid": "1608070",
@@ -48,6 +49,51 @@
       "url": "https://opencritic.com/game/14063/crisis-core-final-fantasy-vii-reunion"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "768371",
+      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+      "apps": [
+        {
+          "appid": "1608070",
+          "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION"
+        }
+      ],
+      "usd": 13.99,
+      "antes": 39.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "768372",
+      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION -DIGITAL DELUXE EDITION",
+      "apps": [
+        {
+          "appid": "1608070",
+          "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION"
+        }
+      ],
+      "usd": 19.24,
+      "antes": 54.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "1608070": {
+      "usd": 13.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2131710",
+      "nombre": "CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "CRISIS CORE –FINAL FANTASY VII– REUNION es una versión remasterizada de CRISIS CORE con los gráficos, la banda sonora y el sistema de combate actualizados. Sigue al Soldado Zack Fair mientras descubre la cara oculta de los turbios experimentos de Shinra.",
   "generos": [
     "Acción",
@@ -55,6 +101,234 @@
   ],
   "lanzamientoTexto": "13 DIC 2022",
   "metacritic": null,
-  "recomendaciones": 7127,
-  "consultado": "2026-11-22T21:45:58.759Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+  "acerca": [
+    [
+      "p",
+      "CRISIS CORE –FINAL FANTASY VII– REUNION es la versión remasterizada del gran éxito que sirve de precuela a FINAL FANTASY VII."
+    ],
+    [
+      "p",
+      "Para la ocasión los gráficos se muestran en alta definición y se ha puesto especial hincapie en el remodelado de los protagonistas. Voces en japonés e inglés y nuevas melodías reorquestadas dan nueva vida a una historia repleta de emociones fuertes."
+    ],
+    [
+      "p",
+      "Zack Fair es el alma de CRISIS CORE –FINAL FANTASY VII– REUNION. El espejo en el que se miraba el joven que acabó salvando el mundo. El compañero respetado de héroes de leyenda. El amor de la chica que tenía en sus manos el destino del planeta. La épica historia en la que cedió sus sueños de honor y gloria a Cloud se narra ahora de forma completa en una obra que va más allá de una puesta al día gráfica."
+    ],
+    [
+      "h",
+      "Novedades"
+    ],
+    [
+      "p",
+      "- Gráficos completamente remasterizados en HD"
+    ],
+    [
+      "p",
+      "- Modelados de fondos y personajes renovados"
+    ],
+    [
+      "p",
+      "- Mejora sustancial del sistema de combate para suavizar la experiencia jugable"
+    ],
+    [
+      "p",
+      "- Voces de todas las frases de guion en japonés e inglés"
+    ],
+    [
+      "p",
+      "- Nuevos arreglos de temas musicales del legendario compositor Takeharu Ishimoto"
+    ],
+    [
+      "p",
+      "- La versión para Steam puede alcanzar hasta 120 FPS."
+    ],
+    [
+      "p",
+      "*Los requisitos de sistema recomendados son para una resolución de 1920x1080 y 60 FPS. Para jugar con una mayor resolución o tasa de fotogramas es necesario tener un monitor y un PC capaces de ejecutarlas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 / Windows® 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD A8-7600 / Intel® Core™ i3-3210"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 460 / Intel® Arc™ A380 / NVIDIA® GeForce® GTX 750 Ti"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible Sound Card"
+      ],
+      [
+        "Notas adicionales",
+        "30 FPS @ 1280x720"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 / Windows® 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 3 1200 / Intel® Core™ i5-6500"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 5500 XT / Intel® Arc™ A750 / NVIDIA® GeForce® GTX 1060 (VRAM 3GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible Sound Card"
+      ],
+      [
+        "Notas adicionales",
+        "60 FPS @ 1920x1080"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_caa17bc876c731e1a19a7fdf10706ec366114185.600x338.jpg?t=1793266915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_caa17bc876c731e1a19a7fdf10706ec366114185.1920x1080.jpg?t=1793266915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_c759930106ea03cbe9c2708ca08fb634aaefb375.600x338.jpg?t=1793266915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_c759930106ea03cbe9c2708ca08fb634aaefb375.1920x1080.jpg?t=1793266915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_2ef6bdcd36bc808afd229d6b81653a5014a45a53.600x338.jpg?t=1793266915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_2ef6bdcd36bc808afd229d6b81653a5014a45a53.1920x1080.jpg?t=1793266915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_42e6963a96835a2ca9a83afe7272d6032405bba3.600x338.jpg?t=1793266915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_42e6963a96835a2ca9a83afe7272d6032405bba3.1920x1080.jpg?t=1793266915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_fe125367e6994f7ec8170df375f4889040e09493.600x338.jpg?t=1793266915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608070/ss_fe125367e6994f7ec8170df375f4889040e09493.1920x1080.jpg?t=1793266915"
+    }
+  ],
+  "web": "https://CrisisCoreFF7R.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 205201,
+  "youtube": [
+    {
+      "id": "RjXBCaZexK4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "AiL7huRoyxM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "52XI7iyjYJk",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:24.431Z"
 }

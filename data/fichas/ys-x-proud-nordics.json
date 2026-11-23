@@ -1,9 +1,9 @@
 {
   "clave": "ys x proud nordics",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01981661-4834-70f4-a33b-5c22848273ef",
   "appid": "3949290",
@@ -47,6 +47,87 @@
       "url": "https://opencritic.com/game/20046/ys-x-proud-nordics"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1523962",
+      "nombre": "Ys X: Proud Nordics",
+      "apps": [
+        {
+          "appid": "3949290",
+          "nombre": "Ys X: Proud Nordics"
+        }
+      ],
+      "usd": 26.24,
+      "antes": 34.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "3949290": {
+      "usd": 26.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "4360500",
+      "nombre": "Ys X: Proud Nordics - Isle of Seiren Mascot Set",
+      "gratis": false,
+      "usd": 1.11,
+      "descuento": 26
+    },
+    {
+      "appid": "4360510",
+      "nombre": "Ys X: Proud Nordics - Balduq Mascot Set",
+      "gratis": false,
+      "usd": 1.11,
+      "descuento": 26
+    },
+    {
+      "appid": "4360520",
+      "nombre": "Ys X: Proud Nordics - Freebie Set",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4360530",
+      "nombre": "Ys X: Proud Nordics - Costume Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4360540",
+      "nombre": "Ys X: Proud Nordics - Sandras Pack",
+      "gratis": false,
+      "usd": 4.34,
+      "descuento": 25
+    },
+    {
+      "appid": "4360550",
+      "nombre": "Ys X: Proud Nordics - Starter Pack",
+      "gratis": false,
+      "usd": 7.86,
+      "descuento": 25
+    },
+    {
+      "appid": "4360560",
+      "nombre": "Ys X: Proud Nordics - Intermediate Pack",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4360570",
+      "nombre": "Ys X: Proud Nordics - Advanced Pack",
+      "gratis": false,
+      "usd": 16.86,
+      "descuento": 25
+    }
+  ],
   "descripcion": "Vive la edición definitiva de la inolvidable travesía de Adol y Karja a través del Obelia Gulf en Ys X: Proud Nordics!",
   "generos": [
     "Acción",
@@ -55,6 +136,7 @@
   ],
   "lanzamientoTexto": "20 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Ys X: Proud Nordics",
   "acerca": [
     [
@@ -109,23 +191,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -224,5 +311,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949290/e6aefbdbf82999c7603b99b9a9f1a0914e8265fe/ss_e6aefbdbf82999c7603b99b9a9f1a0914e8265fe.1920x1080.jpg?t=1788246310"
     }
   ],
-  "consultado": "2026-11-22T22:13:36.268Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 326507,
+  "youtube": [
+    {
+      "id": "qR6H3YX4TcY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TjgJnBtV-j4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "22hVG49Ofps",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "tB9S4XAj8pM",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:53.575Z"
 }

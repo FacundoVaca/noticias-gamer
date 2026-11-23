@@ -1,9 +1,9 @@
 {
   "clave": "pentiment",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6153-7102-bbac-6fc89eb46df6",
   "appid": "1205520",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/13960/pentiment"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "416316",
+      "nombre": "Pentiment",
+      "apps": [
+        {
+          "appid": "1205520",
+          "nombre": "Pentiment"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 19.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1205520": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2207830",
+      "nombre": "Pentiment Soundtrack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    }
+  ],
   "descripcion": "El arte imita a la muerte",
   "generos": [
     "Aventura",
@@ -58,6 +90,7 @@
     "puntaje": 88,
     "url": "https://www.metacritic.com/game/pc/pentiment?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Pentiment",
   "acerca": [
     [
@@ -106,47 +139,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -218,5 +262,24 @@
     }
   ],
   "web": "https://obsidian.net/",
-  "consultado": "2026-11-22T22:09:14.099Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Pentiment contains public executions, stylized gore, suicide, references to abortion, frequent strong language, references to sexual assault, and references to sexual activities. Small parts of the game also reference notable alcohol consumption and incidental ergot-induced hallucinations.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 204623,
+  "youtube": [
+    {
+      "id": "vXq20gant-4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "me5zkmtLs3o",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:29.251Z"
 }

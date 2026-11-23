@@ -2,7 +2,8 @@
   "clave": "final fantasy x x 2 hd remaster",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3812-738e-8b05-863b60789146",
   "appid": "359870",
@@ -47,12 +48,243 @@
       "url": "https://opencritic.com/game/21/final-fantasy-x-x-2-hd-remaster"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "64178",
+      "nombre": "FINAL FANTASY X/X-2 HD Remaster",
+      "apps": [
+        {
+          "appid": "359870",
+          "nombre": "FINAL FANTASY X/X-2 HD Remaster"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 23.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "359870": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3372120",
+      "nombre": "FINAL FANTASY X Original Soundtrack",
+      "gratis": false,
+      "usd": 10.8,
+      "descuento": 10
+    },
+    {
+      "appid": "4425290",
+      "nombre": "Piano Collections FINAL FANTASY X",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    }
+  ],
   "descripcion": "FINAL FANTASY X/X-2 HD Remaster es un homenaje a dos de los títulos mejor valorados de la mundialmente famosa serie de juegos, ¡ahora totalmente remasterizados en alta definición y disponibles para Windows PC!",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "12 MAY 2016",
   "metacritic": null,
-  "recomendaciones": 20158,
-  "consultado": "2026-11-22T21:45:43.594Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "FINAL FANTASY X/X-2 HD Remaster",
+  "acerca": [
+    [
+      "p",
+      "FINAL FANTASY X narra la historia de Tidus, una estrella del blitzbol que se embarca junto a la hermosa invocadora Yuna en una misión para poner fin a la espiral de destrucción que una terrible amenaza conocida como \"Sinh\" ha provocado en el mundo de Spira."
+    ],
+    [
+      "p",
+      "FINAL FANTASY X-2 nos lleva de vuelta al mundo de Spira dos años después del comienzo de la Calma Eterna. Tras ver una imagen extrañamente conocida en una esfera, Yuna se convierte en cazaesferas y, en compañía de Rikku y Paine, parte en un viaje en busca de respuestas."
+    ],
+    [
+      "p",
+      "Basado en las versiones internacionales de los juegos que previamente se publicaron en exclusiva en Japón y Europa, FINAL FANTASY X/X-2 HD Remaster lleva estos clásicos atemporales a la actual generación de fans, ya sean nuevos o de toda la vida."
+    ],
+    [
+      "p",
+      "Características principales:"
+    ],
+    [
+      "li",
+      "Se han perfeccionado los personajes, monstruos y entornos, dando lugar a una experiencia visual más envolvente de FINAL FANTASY."
+    ],
+    [
+      "li",
+      "La versión para PC incluye música retocada y remasterizada, contenidos de la versión internacional, guardado automático y 5 funciones adicionales para el juego, entre ellas un modo para aumentar la velocidad y otro para evitar los encuentros con enemigos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows Vista or later"
+      ],
+      [
+        "Procesador",
+        "2GHz Dual Core CPU"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA Geforce 9600GT VRAM 512MB or later / ATI Radeon HD 2600XT VRAM 512MB or later"
+      ],
+      [
+        "Almacenamiento",
+        "37 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible Sound Card"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows Vista or later"
+      ],
+      [
+        "Procesador",
+        "2.4GHz quad-core CPU"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA Geforce GTX 450 / AMD Radeon HD 5750 with 512MB"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible Sound Card"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_386c39d62e5749e49a57dcddce895b1d6012e7d9.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_386c39d62e5749e49a57dcddce895b1d6012e7d9.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_8e9aa2627c49c4b4547d7f90eca08fa715d3134f.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_8e9aa2627c49c4b4547d7f90eca08fa715d3134f.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6c7ece776d88f1a7252a08321dbdf1c9ee0e48e9.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6c7ece776d88f1a7252a08321dbdf1c9ee0e48e9.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_8fc00bc1b853f17adb5378ad012ef127098affad.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_8fc00bc1b853f17adb5378ad012ef127098affad.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6aedf462ca6c814fc0bfcfb223c8dd94c0188542.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6aedf462ca6c814fc0bfcfb223c8dd94c0188542.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_3d49e5bb0e2de8e2458c77744abf476115ff85bb.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_3d49e5bb0e2de8e2458c77744abf476115ff85bb.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6f022eb81a5591171831e8245980dda1a0e7ecf3.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_6f022eb81a5591171831e8245980dda1a0e7ecf3.1920x1080.jpg?t=1777343443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_7002bec464e9f9cb71eb80c2c488076b41ec2066.600x338.jpg?t=1777343443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359870/ss_7002bec464e9f9cb71eb80c2c488076b41ec2066.1920x1080.jpg?t=1777343443"
+    }
+  ],
+  "web": "http://www.finalfantasyxhd.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "igdbIntentado": true,
+  "igdb": 14144,
+  "youtube": [
+    {
+      "id": "3oMm4kldpFc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Dc1A8hzXOMQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "jsdxLwqUH6g",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:01.646Z"
 }

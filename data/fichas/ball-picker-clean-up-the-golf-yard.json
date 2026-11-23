@@ -1,9 +1,9 @@
 {
   "clave": "ball picker clean up the golf yard",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019fd668-d618-719a-a63b-3b790cb1e804",
   "appid": "5035380",
@@ -27,6 +27,38 @@
       "puntaje": 80,
       "cantidad": 62,
       "url": "https://store.steampowered.com/app/5035380/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1746001",
+      "nombre": "BALL PICKER - Clean Up the Golf Yard",
+      "apps": [
+        {
+          "appid": "5035380",
+          "nombre": "BALL PICKER - Clean Up the Golf Yard"
+        }
+      ],
+      "usd": 3.19,
+      "antes": 3.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "5035380": {
+      "usd": 3.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5232070",
+      "nombre": "BALL PICKER - Clean Up the Golf Yard Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "Recoge cientos de miles de pelotas de golf, gana dinero, compra herramientas nuevas y deja el campo impecable. BALL PICKER es un juego incremental activo que gira en torno a ordenar y relajarse.",
@@ -95,47 +127,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -226,5 +269,20 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5035380/f5456665101aef26b2fa11a31fca3b61cb769423/ss_f5456665101aef26b2fa11a31fca3b61cb769423.1920x1080.jpg?t=1795088005"
     }
   ],
-  "consultado": "2026-11-22T22:12:59.476Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 412590,
+  "youtube": [
+    {
+      "id": "dTkj9opcm5Q",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:40.737Z"
 }

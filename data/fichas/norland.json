@@ -1,9 +1,9 @@
 {
   "clave": "norland",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee4-73f5-858c-2fde32b1d444",
   "appid": "1857090",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/1857090/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "668235",
+      "nombre": "Norland",
+      "apps": [
+        {
+          "appid": "1857090",
+          "nombre": "Norland"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1857090": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Conflictos entre clases, rencillas religiosas y traiciones políticas son algunos problemas que tú y tu familia noble encontrarán en este simulador medieval. Atiende las necesidades de tu pueblo, descubre los secretos de un imperio caído y conspira contra tus enemigos.",
   "generos": [
     "Rol",
@@ -39,6 +61,7 @@
   ],
   "lanzamientoTexto": "18 JUL 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Norland",
   "acerca": [
     [
@@ -95,67 +118,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -255,5 +294,25 @@
     }
   ],
   "web": "https://www.norlandgame.com",
-  "consultado": "2026-11-22T22:08:17.068Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 204646,
+  "youtube": [
+    {
+      "id": "rUvyOVP0HTo",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "TstBeVUbwZo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "rQdHM7__r5g",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:56.228Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "rivage",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019aeb0f-27a4-71ce-93cd-469d64e404d2",
   "appid": "4094660",
@@ -48,6 +48,28 @@
       "url": "https://opencritic.com/game/21359/rivage"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1435111",
+      "nombre": "Rivage",
+      "apps": [
+        {
+          "appid": "4094660",
+          "nombre": "Rivage"
+        }
+      ],
+      "usd": 8.11,
+      "antes": 12.49,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "4094660": {
+      "usd": 8.11,
+      "gratis": false
+    }
+  },
   "descripcion": "Rivage es un juego de aventuras y puzles que transcurre en ARES, una estación espacial atrapada en un extraño fenómeno. Cuando Miranda despierta y se da cuenta de que su tripulación ha desaparecido, trata de averiguar su paradero explorando los alrededores y resolviendo intrincados puzles.",
   "generos": [
     "Aventura",
@@ -55,6 +77,7 @@
   ],
   "lanzamientoTexto": "22 SEP 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Rivage",
   "acerca": [
     [
@@ -96,39 +119,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -220,5 +252,30 @@
     }
   ],
   "web": "https://www.rivagethegame.com/",
-  "consultado": "2026-11-22T22:08:01.057Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 380416,
+  "youtube": [
+    {
+      "id": "5BvA7ZJBhcU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RcFcHAMdIng",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "eLNwBRHVQxM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Eyt_cUF0Ku0",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:07.172Z"
 }

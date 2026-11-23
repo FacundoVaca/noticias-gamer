@@ -1,9 +1,9 @@
 {
   "clave": "call of duty modern warfare 3 2011",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7813-727f-929e-9ca820d9e335",
   "appid": "42680",
@@ -25,12 +25,141 @@
     "First-Person"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "12205",
+      "nombre": "Call of Duty®: Modern Warfare® 3 (2011)",
+      "apps": [
+        {
+          "appid": "42680",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011)"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "49978",
+      "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Bundle",
+      "apps": [
+        {
+          "appid": "42680",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011)"
+        },
+        {
+          "appid": "42695",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 1"
+        },
+        {
+          "appid": "42696",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 2"
+        },
+        {
+          "appid": "42697",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 3: Chaos Pack"
+        },
+        {
+          "appid": "42698",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 4: Final Assault"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 89.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "49981",
+      "nombre": "Call of Duty: Modern Warfare Franchise Bundle (ROW)",
+      "apps": [
+        {
+          "appid": "7940",
+          "nombre": "Call of Duty® 4: Modern Warfare® (2007)"
+        },
+        {
+          "appid": "10180",
+          "nombre": "Call of Duty®: Modern Warfare® 2 (2009)"
+        },
+        {
+          "appid": "10196",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Resurgence Pack"
+        },
+        {
+          "appid": "10195",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Stimulus Package"
+        },
+        {
+          "appid": "42680",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011)"
+        },
+        {
+          "appid": "42695",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 1"
+        },
+        {
+          "appid": "42696",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 2"
+        },
+        {
+          "appid": "42697",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 3: Chaos Pack"
+        },
+        {
+          "appid": "42698",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 4: Final Assault"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 139.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "7940": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "10180": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "10195": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "10196": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42680": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "42695": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42696": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42697": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42698": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
   "descripcion": "La saga de acción en primera persona más vendida regresa con una épica secuela del múltiples veces ganador del premio \"Juego del Año\" Call of Duty®: Modern Warfare® 2",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "8 NOV 2011",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty®: Modern Warfare® 3 (2011)",
   "acerca": [
     [
@@ -49,23 +178,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -140,5 +274,27 @@
     }
   ],
   "web": "http://www.callofduty.com",
-  "consultado": "2026-11-22T22:07:35.300Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "Blood and Gore, Intense Violence, Strong Language, and Use of Drugs",
+  "igdbIntentado": true,
+  "igdb": 979,
+  "youtube": [
+    {
+      "id": "dNToodVM21M",
+      "nombre": "Gameplay Online Multiplayer"
+    },
+    {
+      "id": "1xjCdN_rWCE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "hx6Cr1GAkLI",
+      "nombre": "The Vet & The n00b Official Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:27.993Z"
 }

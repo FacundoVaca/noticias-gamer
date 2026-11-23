@@ -1,0 +1,628 @@
+{
+  "clave": "predator hunting grounds",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3c6b-70b3-9a7f-30e84461eedb",
+  "appid": "1556200",
+  "lanzamiento": "2020-04-24",
+  "desarrolladores": [
+    "IllFonic",
+    "IllFonic Inc"
+  ],
+  "editores": [
+    "PlayStation PC LLC",
+    "PlayStation Mobile Inc.",
+    "PlayStation Publishing LLC",
+    "PlayStation Publishing",
+    "IllFonic Publishing",
+    "IllFonic",
+    "IllFonic Inc",
+    "Balor Games",
+    "Good Games Group"
+  ],
+  "etiquetas": [
+    "Multiplayer",
+    "PvP",
+    "FPS",
+    "Shooter",
+    "Character Customization"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 4653,
+      "url": "https://store.steampowered.com/app/1556200/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 62,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/predator-hunting-grounds/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 57,
+      "cantidad": 302,
+      "url": "https://metacritic.com/game/predator-hunting-grounds/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 58,
+      "cantidad": 84,
+      "url": "https://opencritic.com/game/9363/predator-hunting-grounds"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "549638",
+      "nombre": "Predator: Hunting Grounds",
+      "apps": [
+        {
+          "appid": "1556200",
+          "nombre": "Predator: Hunting Grounds"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "570103",
+      "nombre": "Predator: Hunting Grounds - Jungle Edition",
+      "apps": [
+        {
+          "appid": "1556200",
+          "nombre": "Predator: Hunting Grounds"
+        },
+        {
+          "appid": "1599484",
+          "nombre": "Predator: Hunting Grounds - City Hunter Predator"
+        },
+        {
+          "appid": "1599483",
+          "nombre": "Predator: Hunting Grounds - Samurai Predator"
+        },
+        {
+          "appid": "1599486",
+          "nombre": "Predator: Hunting Grounds - Valkyrie Predator"
+        },
+        {
+          "appid": "1599485",
+          "nombre": "Predator: Hunting Grounds - Viking Predator"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 17.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1151192",
+      "nombre": "Predator: Hunting Grounds Yautja Edition",
+      "apps": [
+        {
+          "appid": "1556200",
+          "nombre": "Predator: Hunting Grounds"
+        },
+        {
+          "appid": "1996830",
+          "nombre": "Predator: Hunting Grounds - Bionic Predator"
+        },
+        {
+          "appid": "1599484",
+          "nombre": "Predator: Hunting Grounds - City Hunter Predator"
+        },
+        {
+          "appid": "1696000",
+          "nombre": "Predator: Hunting Grounds - Cleopatra Predator"
+        },
+        {
+          "appid": "1919280",
+          "nombre": "Predator: Hunting Grounds - Emissary Predator"
+        },
+        {
+          "appid": "1756590",
+          "nombre": "Predator: Hunting Grounds - Exiled Predator"
+        },
+        {
+          "appid": "1847080",
+          "nombre": "Predator: Hunting Grounds - Hunting Party Bundle"
+        },
+        {
+          "appid": "2198530",
+          "nombre": "Predator: Hunting Grounds - Hunting Party Bundle 2"
+        },
+        {
+          "appid": "2225270",
+          "nombre": "Predator: Hunting Grounds - Hunting Party Bundle 3"
+        },
+        {
+          "appid": "1599483",
+          "nombre": "Predator: Hunting Grounds - Samurai Predator"
+        },
+        {
+          "appid": "1599486",
+          "nombre": "Predator: Hunting Grounds - Valkyrie Predator"
+        },
+        {
+          "appid": "1599485",
+          "nombre": "Predator: Hunting Grounds - Viking Predator"
+        },
+        {
+          "appid": "1870540",
+          "nombre": "Predator: Hunting Grounds - Wolf Predator"
+        }
+      ],
+      "usd": 32.99,
+      "antes": 32.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "570104",
+      "nombre": "Predator: Hunting Grounds - Predator DLC Bundle",
+      "apps": [
+        {
+          "appid": "1599484",
+          "nombre": "Predator: Hunting Grounds - City Hunter Predator"
+        },
+        {
+          "appid": "1599483",
+          "nombre": "Predator: Hunting Grounds - Samurai Predator"
+        },
+        {
+          "appid": "1599486",
+          "nombre": "Predator: Hunting Grounds - Valkyrie Predator"
+        },
+        {
+          "appid": "1599485",
+          "nombre": "Predator: Hunting Grounds - Viking Predator"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1556200": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "1599483": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1599484": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1599485": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1599486": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1696000": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1756590": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1847080": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "1870540": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1919280": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1996830": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2198530": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "2225270": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 20,
+  "dlcLista": [
+    {
+      "appid": "4043800",
+      "nombre": "Predator: Hunting Grounds - Father Predator",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4146790",
+      "nombre": "Predator: Hunting Grounds - Depredador jotun",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3873870",
+      "nombre": "Predator: Hunting Grounds - Depredador Oni",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3228990",
+      "nombre": "Predator: Hunting Grounds - Depredadora bruja",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3228980",
+      "nombre": "Predator: Hunting Grounds - Depredadora glorificada",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3228970",
+      "nombre": "Predator: Hunting Grounds - Depredador Anubis",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3228960",
+      "nombre": "Predator: Hunting Grounds - Gladiator Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3189160",
+      "nombre": "Predator: Hunting Grounds - Depredador feral",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1599483",
+      "nombre": "Predator: Hunting Grounds - Samurai Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1599484",
+      "nombre": "Predator: Hunting Grounds - City Hunter Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1599485",
+      "nombre": "Predator: Hunting Grounds - Viking Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1599486",
+      "nombre": "Predator: Hunting Grounds - Valkyrie Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1696000",
+      "nombre": "Predator: Hunting Grounds - Cleopatra Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1756590",
+      "nombre": "Predator: Hunting Grounds - Exiled Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1847080",
+      "nombre": "Predator: Hunting Grounds - Hunting Party Bundle",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1870540",
+      "nombre": "Predator: Hunting Grounds - Wolf Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1919280",
+      "nombre": "Predator: Hunting Grounds - Emissary Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1996830",
+      "nombre": "Predator: Hunting Grounds - Bionic Predator",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2198530",
+      "nombre": "Predator: Hunting Grounds - Hunting Party Bundle 2",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2225270",
+      "nombre": "Predator: Hunting Grounds - Hunting Party Bundle 3",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Únete a la caza en este juego de tiros multijugador asimétrico que enfrenta a humanos contra depredador. Únete a una escuadra militar y completa las misiones antes de que el depredador te encuentre o métete en la piel del depredador y da caza a tus presas.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "29 ABR 2021",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Predator: Hunting Grounds",
+  "acerca": [
+    [
+      "p",
+      "Únete a la caza en este juego de tiros multijugador asimétrico que enfrenta a humanos contra depredador. Únete a una escuadra militar y completa las misiones antes de que el depredador te encuentre o métete en la piel del depredador y da caza a tus presas."
+    ],
+    [
+      "li",
+      "Conviértete en el depredador: da caza a la escuadra militar enemiga mientras los acechas con tu arsenal alienígena."
+    ],
+    [
+      "li",
+      "Llega hasta el helicóptero: completa las desafiantes misiones como miembro de una escuadra militar y escapa."
+    ],
+    [
+      "li",
+      "Usa los arsenales humanos y alienígenas: utiliza un arsenal de vanguardia con la escuadra militar o una tecnología letal, como el cañón de plasma de hombro, el Combistick y más, con el depredador."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-Bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6400 or AMD FX-8320"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 960 or AMD R9 280x"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-Bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-5930K or AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1660 or AMD R9 Fury X"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_89e8d3030217618c97ef1301cb67aa32fc629d44.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_89e8d3030217618c97ef1301cb67aa32fc629d44.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_dee96ccaf6ad76e696751281093a067cd9a208a6.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_dee96ccaf6ad76e696751281093a067cd9a208a6.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_ec25f0b0c97a81e78c472b2a18ff6f8e10593370.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_ec25f0b0c97a81e78c472b2a18ff6f8e10593370.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_445bfb0258c160db410d4b031988c5ef196b215b.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_445bfb0258c160db410d4b031988c5ef196b215b.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_b988bfe237a514b259f898cc79ab47b85ba025c8.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_b988bfe237a514b259f898cc79ab47b85ba025c8.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_b22c7e7912953cfd6a93efc445eb756dcf9c9a88.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_b22c7e7912953cfd6a93efc445eb756dcf9c9a88.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_669cc0237f3b49d7f12052fa6caddc6b0e5e875a.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_669cc0237f3b49d7f12052fa6caddc6b0e5e875a.1920x1080.jpg?t=1788366223"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_e5fde5b3077d4a20f88cb0d0eba3d4398565c4d2.600x338.jpg?t=1788366223",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/ss_e5fde5b3077d4a20f88cb0d0eba3d4398565c4d2.1920x1080.jpg?t=1788366223"
+    }
+  ],
+  "web": "https://predator.illfonic.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Predator: Hunting Grounds is a first/third-person hunter-shooter where players take the role of a human mercenary or the Predator. The frenzied combat features instances of intense violence highlighted by frequent gunfire, explosions, screams of pain, blood and gore, and instances of dismemberment and mutilation. Some maps show skinned corpses with partial nudity. One mission chain sees the mercenaries locate and destroy packages of drugs in a cartel compound. Dialogue includes examples of Strong Language.",
+  "igdbIntentado": true,
+  "igdb": 118272,
+  "youtube": [
+    {
+      "id": "YikMEDe35Qs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "b4Sun1EK7Dc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wiSmINxtLC8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "eBQuiHSEDWM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:22.821Z"
+}

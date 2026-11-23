@@ -1,9 +1,9 @@
 {
   "clave": "shadow gambit the cursed crew",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee2-70f6-940c-6212aabc5d16",
   "appid": "1545560",
@@ -50,6 +50,59 @@
       "url": "https://opencritic.com/game/15345/shadow-gambit-the-cursed-crew"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "545820",
+      "nombre": "Shadow Gambit: The Cursed Crew",
+      "apps": [
+        {
+          "appid": "1545560",
+          "nombre": "Shadow Gambit: The Cursed Crew"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 19.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1545560": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "2304810",
+      "nombre": "Shadow Gambit: Yuki's Wish",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2576620",
+      "nombre": "Shadow Gambit: Zagan's Ritual",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2504700",
+      "nombre": "Shadow Gambit: The Cursed Crew - Soundtrack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2505850",
+      "nombre": "Shadow Gambit: The Cursed Crew - Artbook & Strategy Guide",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Reúne a tu tripulación y zarpa en un infame barco fantasma: ¡huye, apuñala y lanza hechizos a la Inquisición en este juego de estrategia y sigilo no lineal! Traza un rumbo, desarrolla habilidades y usa tácticas insólitas mientras buscas un poderoso artefacto pirata.",
   "generos": [
     "Rol",
@@ -60,6 +113,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/shadow-gambit-the-cursed-crew?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Shadow Gambit: The Cursed Crew",
   "acerca": [
     [
@@ -118,55 +172,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -266,5 +333,30 @@
     }
   ],
   "web": "https://shadowgambit.com",
-  "consultado": "2026-11-22T22:13:29.746Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 233307,
+  "youtube": [
+    {
+      "id": "BykuAlQlSIw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "3bElxNMHgoo",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "g68R51lemZ8",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "Nu8WlgBnJ8s",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:39.412Z"
 }

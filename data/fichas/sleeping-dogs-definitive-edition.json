@@ -1,9 +1,9 @@
 {
   "clave": "sleeping dogs definitive edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-fd10-71e8-b295-945b5de8e4c2",
   "appid": "307690",
@@ -44,6 +44,28 @@
       "url": "https://opencritic.com/game/189/sleeping-dogs-definitive-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "51329",
+      "nombre": "Sleeping Dogs: Definitive Edition",
+      "apps": [
+        {
+          "appid": "307690",
+          "nombre": "Sleeping Dogs: Definitive Edition"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 15.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "307690": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
   "descripcion": "La Definitive Edition del juego de acción que ha conseguido varios premios y excelentes críticas, rediseñado y remasterizado para la nueva generación. Se incluyen todos los contenidos descargables anteriores y numerosas mejores visuales y técnicas. Hong Kong nunca te habrá parecido tan lleno de vida.",
   "generos": [
     "Acción",
@@ -52,6 +74,7 @@
   ],
   "lanzamientoTexto": "8 OCT 2014",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Sleeping Dogs: Definitive Edition",
   "acerca": [
     [
@@ -120,31 +143,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -244,5 +274,20 @@
     }
   ],
   "web": "http://www.sleepingdogs.net/",
-  "consultado": "2026-11-22T22:14:02.206Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 20228,
+  "youtube": [
+    {
+      "id": "XvESN76BUe4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:57.856Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "super fantasy kingdom",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee2-70f6-940c-6212a7704688",
   "appid": "2289750",
@@ -31,6 +31,28 @@
       "url": "https://store.steampowered.com/app/2289750/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "821455",
+      "nombre": "Super Fantasy Kingdom",
+      "apps": [
+        {
+          "appid": "2289750",
+          "nombre": "Super Fantasy Kingdom"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 9.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2289750": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Reconstruye tu reino y explora un mundo fantástico en este roguelite de construcción de ciudades. Derrota oleadas de monstruos gracias a un elenco de defensores único mientras te expandes, cosechas y minas. ¡Defiéndete con valor o prepárate para ver al enemigo arrasar con todo!",
   "generos": [
     "Rol",
@@ -40,6 +62,7 @@
   ],
   "lanzamientoTexto": "24 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Super Fantasy Kingdom",
   "acerca": [
     [
@@ -104,75 +127,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -272,5 +313,30 @@
     }
   ],
   "web": "https://hoodedhorse.com/games/super-fantasy-kingdom",
-  "consultado": "2026-11-22T22:14:39.283Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 235823,
+  "youtube": [
+    {
+      "id": "c2_8dd-UvHE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "1c9zpE38pXc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "0CKsTRDU3oE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "gFD8YbHPkCQ",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:27.663Z"
 }

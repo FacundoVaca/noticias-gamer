@@ -1,9 +1,9 @@
 {
   "clave": "total war rome ii emperor edition",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-33dd-71dd-a94b-7f4749cbd25b",
   "appid": "214950",
@@ -38,6 +38,129 @@
       "url": "https://metacritic.com/game/total-war-rome-ii-emperor-edition/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "31282",
+      "nombre": "Total War: ROME II - Emperor Edition",
+      "apps": [
+        {
+          "appid": "214950",
+          "nombre": "Total War: ROME II - Emperor Edition"
+        }
+      ],
+      "usd": 4.74,
+      "antes": 18.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "214950": {
+      "usd": 4.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 14,
+  "dlcLista": [
+    {
+      "appid": "850010",
+      "nombre": "Total War: ROME II - Rise of the Republic Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "792520",
+      "nombre": "Total War: ROME II - Desert Kingdoms Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "694880",
+      "nombre": "Total War: ROME II - Empire Divided Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "327280",
+      "nombre": "Total War: ROME II - Wrath of Sparta Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "297831",
+      "nombre": "Total War: ROME II -  Black Sea Colonies Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "297830",
+      "nombre": "Total War: ROME II - Daughters of Mars Unit Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "311380",
+      "nombre": "Total War: ROME II - Imperator Augustus Campaign Pack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "267630",
+      "nombre": "Total War: ROME II - Beasts of War Unit Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "273381",
+      "nombre": "Total War: ROME II - Pirates and Raiders Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "261050",
+      "nombre": "Total War: ROME II - Caesar in Gaul Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "273380",
+      "nombre": "Total War: ROME II - Hannibal at the Gates Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "212301",
+      "nombre": "Total War: ROME II - Greek States Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "258270",
+      "nombre": "Total War: ROME II - Nomadic Tribes Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "259800",
+      "nombre": "Total War: ROME II - Blood & Gore",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Acerca de Total War: ROME II - Emperor EditionEmperor Edition es la edición definitiva de ROME II, y contiene un sistema político mejorado, cadenas de construcción renovadas, batallas reequilibradas y mejores gráficos tanto en campaña como en batalla.",
   "generos": [
     "Estrategia"
@@ -47,6 +170,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/total-war-rome-ii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Total War: ROME II - Emperor Edition",
   "acerca": [
     [
@@ -197,39 +321,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -329,5 +462,19 @@
     }
   ],
   "web": "http://www.totalwar.com/rome2",
-  "consultado": "2026-11-22T22:07:28.538Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "There are frequent depictions of realistic looking violence towards human characters and sometimes animal characters. The player can command and attack many different types of military units against A.I. controlled characters. The player issues orders that influence the actions that these units carry out. When the player plays a real-time battle they will witness combat animations with swords, axes, spears, arrows and some missile units.",
+  "igdbIntentado": true,
+  "igdb": 29770,
+  "youtube": [
+    {
+      "id": "z9EDgYqjsD8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:49.578Z"
 }

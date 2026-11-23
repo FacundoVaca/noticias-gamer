@@ -1,13 +1,13 @@
 {
   "clave": "age of empires iii definitive edition",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01991c57-eac7-7192-9f57-d0b103949a5a",
   "appid": "933110",
-  "lanzamiento": null,
+  "lanzamiento": "2020-10-15",
   "desarrolladores": [
     "Forgotten Empires",
     "Tantalus Media",
@@ -31,6 +31,149 @@
       "url": "https://store.steampowered.com/app/933110/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1672149",
+      "nombre": "Age of Empires III: Definitive Edition",
+      "apps": [
+        {
+          "appid": "933110",
+          "nombre": "Age of Empires III: Definitive Edition"
+        },
+        {
+          "appid": "2477660",
+          "nombre": "Age of Empires III: Definitive Edition (juego completo)"
+        },
+        {
+          "appid": "1817370",
+          "nombre": "Age of Empires III: Definitive Edition - Mexico Civilization"
+        },
+        {
+          "appid": "1581450",
+          "nombre": "Age of Empires III: Definitive Edition - United States Civilization"
+        },
+        {
+          "appid": "2154361",
+          "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Kunoichi"
+        },
+        {
+          "appid": "2154360",
+          "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Lizzie"
+        },
+        {
+          "appid": "2154362",
+          "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Vol. 1"
+        }
+      ],
+      "usd": 14.39,
+      "antes": 17.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "933110": {
+      "usd": 14.39,
+      "gratis": false
+    },
+    "1581450": {
+      "usd": 14.39,
+      "gratis": false
+    },
+    "1817370": {
+      "usd": 14.39,
+      "gratis": false
+    },
+    "2154360": {
+      "usd": null,
+      "gratis": true
+    },
+    "2154361": {
+      "usd": 14.39,
+      "gratis": false
+    },
+    "2154362": {
+      "usd": 14.39,
+      "gratis": false
+    },
+    "2477660": {
+      "usd": 14.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "4308600",
+      "nombre": "Age of Empires III: Definitive Edition - The Baltic Powers",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1581451",
+      "nombre": "Age of Empires III: Definitive Edition - The African Royals",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "1817361",
+      "nombre": "Age of Empires III: Definitive Edition - Knights of the Mediterranean",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "1446360",
+      "nombre": "Age of Empires III: Definitive Edition Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2477660",
+      "nombre": "Age of Empires III: Definitive Edition (juego completo)",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1581450",
+      "nombre": "Age of Empires III: Definitive Edition - United States Civilization",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1817370",
+      "nombre": "Age of Empires III: Definitive Edition - Mexico Civilization",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2154360",
+      "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Lizzie",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2154361",
+      "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Kunoichi",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2154362",
+      "nombre": "Age of Empires III: Definitive Edition – Paquete cosmético de héroe – Vol. 1",
+      "gratis": false,
+      "usd": 14.39,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Lidera poderosas civilizaciones de todo el mundo, domina estrategias y tácticas y revive la historia en batallas cooperativas. ¡Ahora remasterizadas con gráficos 4K y mecánicas de juego actualizadas",
   "generos": [
     "Estrategia"
@@ -40,6 +183,7 @@
     "puntaje": 75,
     "url": "https://www.metacritic.com/game/pc/age-of-empires-iii-definitive-edition?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Age of Empires III: Definitive Edition",
   "acerca": [
     [
@@ -114,55 +258,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Malayo",
@@ -282,5 +439,21 @@
     }
   ],
   "web": "https://www.ageofempires.com/games/aoeiiide/",
-  "consultado": "2026-11-22T22:10:18.252Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 55057,
+  "youtube": [
+    {
+      "id": "OqLxZbprVGo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MbiUgJG6BYU",
+      "nombre": "Gamescom 2020 Gameplay Interview"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:29.875Z"
 }

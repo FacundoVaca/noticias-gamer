@@ -1,9 +1,9 @@
 {
   "clave": "starrupture",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d9759-f7ab-72bc-ad80-fb6a6f09508a",
   "appid": "1631270",
@@ -30,6 +30,45 @@
       "url": "https://store.steampowered.com/app/1631270/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "579237",
+      "nombre": "StarRupture",
+      "apps": [
+        {
+          "appid": "1631270",
+          "nombre": "StarRupture"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1631270": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4167250",
+      "nombre": "StarRupture - Pack de patrocinador",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3795340",
+      "nombre": "StarRupture - Banda sonora original",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Explora un misterioso planeta en constante cambio asolado por cataclismos frecuentes, construye un complejo sistema industrial para extraer recursos, producir bienes y expandir tu base, enfréntate a hordas de monstruos alienígenas para defenderla y sobrevive, ya sea en solitario o con amigos.",
   "generos": [
     "Acción",
@@ -40,6 +79,7 @@
   ],
   "lanzamientoTexto": "6 ENE 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "StarRupture",
   "acerca": [
     [
@@ -94,51 +134,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -246,5 +298,29 @@
     }
   ],
   "web": "https://starrupture-game.com/",
-  "consultado": "2026-11-22T22:08:55.079Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 282355,
+  "youtube": [
+    {
+      "id": "8AeQeigwU8Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "nCfCB8ZIwK8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "25KyPKN-FD4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "RpzbZqdPth8",
+      "nombre": "Devlog"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:56.420Z"
 }

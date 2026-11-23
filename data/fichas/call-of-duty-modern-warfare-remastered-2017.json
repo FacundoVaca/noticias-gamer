@@ -1,9 +1,9 @@
 {
   "clave": "call of duty modern warfare remastered 2017",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7669-7036-959f-e2e98dac559d",
   "appid": "393080",
@@ -31,12 +31,91 @@
       "url": "https://store.steampowered.com/app/393080/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "193270",
+      "nombre": "Call of Duty: Modern Warfare Remastered",
+      "apps": [
+        {
+          "appid": "393080",
+          "nombre": "Call of Duty®: Modern Warfare® Remastered (2017)"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "137607",
+      "nombre": "Call of Duty: Infinite Warfare Digital Legacy Edition",
+      "apps": [
+        {
+          "appid": "292730",
+          "nombre": "Call of Duty®: Infinite Warfare"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 79.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "137608",
+      "nombre": "Call of Duty: Infinite Warfare Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "292730",
+          "nombre": "Call of Duty®: Infinite Warfare"
+        },
+        {
+          "appid": "517831",
+          "nombre": "Call of Duty®: Infinite Warfare - Digital Deluxe Edition"
+        },
+        {
+          "appid": "420490",
+          "nombre": "Call of Duty®: Infinite Warfare - Season Pass"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 99.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "292730": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "393080": {
+      "usd": 15.99,
+      "gratis": false
+    },
+    "420490": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "517831": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "594970",
+      "nombre": "Call of Duty®: MWR Variety Map Pack",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 25
+    }
+  ],
   "descripcion": "Vuelve Call of Duty: Modern Warfare, uno de los juegos mejor valorados por la crítica de la historia, remasterizado en alta definición con texturas mejoradas, un renderizado basado en físicas, iluminación de alto rango dinámico y mucho más.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "27 JUL 2017",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: Modern Warfare® Remastered (2017)",
   "acerca": [
     [
@@ -65,51 +144,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -177,5 +268,22 @@
     }
   ],
   "web": "https://www.callofduty.com/modern-warfare-remastered",
-  "consultado": "2026-11-22T22:08:36.187Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 24920,
+  "youtube": [
+    {
+      "id": "l-eMi1xJ2dM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "frcic8ApwJ0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:53:09.872Z"
 }

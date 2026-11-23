@@ -1,6 +1,5 @@
 {
   "clave": "2 re2 i rise alone",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -27,10 +26,32 @@
     {
       "fuente": "Steam",
       "puntaje": 95,
-      "cantidad": 2165,
+      "cantidad": 2201,
       "url": "https://store.steampowered.com/app/3816120/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1342300",
+      "nombre": "重生2我独自逆袭",
+      "apps": [
+        {
+          "appid": "3816120",
+          "nombre": "重生2我独自逆袭 Re2 I Rise Alone"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 8.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3816120": {
+      "usd": 7.19,
+      "gratis": false
+    }
+  },
   "descripcion": "Interactive movie‑game blending SLG gameplay and real‑life romance simulation: Step into the shoes of an underdog and live out a power‑fantasy rags‑to‑riches story. Combat, character progression, drinking and romance — all in one! 100‑GB content volume- redefines your power‑fantasy experience!",
   "generos": [
     "Casual",
@@ -121,11 +142,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -184,37 +207,43 @@
   },
   "capturas": [
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/076865524fe416d7c872071f0765b4d77da33c27/ss_076865524fe416d7c872071f0765b4d77da33c27.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/076865524fe416d7c872071f0765b4d77da33c27/ss_076865524fe416d7c872071f0765b4d77da33c27.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/076865524fe416d7c872071f0765b4d77da33c27/ss_076865524fe416d7c872071f0765b4d77da33c27.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/076865524fe416d7c872071f0765b4d77da33c27/ss_076865524fe416d7c872071f0765b4d77da33c27.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/20efa9a67fa5cf579df762667cdab19d1a115586/ss_20efa9a67fa5cf579df762667cdab19d1a115586.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/20efa9a67fa5cf579df762667cdab19d1a115586/ss_20efa9a67fa5cf579df762667cdab19d1a115586.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/20efa9a67fa5cf579df762667cdab19d1a115586/ss_20efa9a67fa5cf579df762667cdab19d1a115586.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/20efa9a67fa5cf579df762667cdab19d1a115586/ss_20efa9a67fa5cf579df762667cdab19d1a115586.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd/ss_3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd/ss_3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd/ss_3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd/ss_3f80f021537fa6cbbe59c22d1737f0bb36fc2cfd.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/626c989212b0cad6f2433874cd0765545d3888b2/ss_626c989212b0cad6f2433874cd0765545d3888b2.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/626c989212b0cad6f2433874cd0765545d3888b2/ss_626c989212b0cad6f2433874cd0765545d3888b2.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/626c989212b0cad6f2433874cd0765545d3888b2/ss_626c989212b0cad6f2433874cd0765545d3888b2.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/626c989212b0cad6f2433874cd0765545d3888b2/ss_626c989212b0cad6f2433874cd0765545d3888b2.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/e226c5cf7fba53d55e832a3963f8826837d97e37/ss_e226c5cf7fba53d55e832a3963f8826837d97e37.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/e226c5cf7fba53d55e832a3963f8826837d97e37/ss_e226c5cf7fba53d55e832a3963f8826837d97e37.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/e226c5cf7fba53d55e832a3963f8826837d97e37/ss_e226c5cf7fba53d55e832a3963f8826837d97e37.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/e226c5cf7fba53d55e832a3963f8826837d97e37/ss_e226c5cf7fba53d55e832a3963f8826837d97e37.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/621ce88d5a5b128314c55a406ed8a7add95a70e0/ss_621ce88d5a5b128314c55a406ed8a7add95a70e0.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/621ce88d5a5b128314c55a406ed8a7add95a70e0/ss_621ce88d5a5b128314c55a406ed8a7add95a70e0.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/621ce88d5a5b128314c55a406ed8a7add95a70e0/ss_621ce88d5a5b128314c55a406ed8a7add95a70e0.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/621ce88d5a5b128314c55a406ed8a7add95a70e0/ss_621ce88d5a5b128314c55a406ed8a7add95a70e0.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/26d5f6a3cbaea5f72fc14994024d569efb0a3efa/ss_26d5f6a3cbaea5f72fc14994024d569efb0a3efa.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/26d5f6a3cbaea5f72fc14994024d569efb0a3efa/ss_26d5f6a3cbaea5f72fc14994024d569efb0a3efa.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/26d5f6a3cbaea5f72fc14994024d569efb0a3efa/ss_26d5f6a3cbaea5f72fc14994024d569efb0a3efa.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/26d5f6a3cbaea5f72fc14994024d569efb0a3efa/ss_26d5f6a3cbaea5f72fc14994024d569efb0a3efa.1920x1080.jpg?t=1795402037"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/638b0e3478a8bb7f7f847ce83a208ac96e2384c1/ss_638b0e3478a8bb7f7f847ce83a208ac96e2384c1.600x338.jpg?t=1795339375",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/638b0e3478a8bb7f7f847ce83a208ac96e2384c1/ss_638b0e3478a8bb7f7f847ce83a208ac96e2384c1.1920x1080.jpg?t=1795339375"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/638b0e3478a8bb7f7f847ce83a208ac96e2384c1/ss_638b0e3478a8bb7f7f847ce83a208ac96e2384c1.600x338.jpg?t=1795402037",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816120/638b0e3478a8bb7f7f847ce83a208ac96e2384c1/ss_638b0e3478a8bb7f7f847ce83a208ac96e2384c1.1920x1080.jpg?t=1795402037"
     }
   ],
-  "consultado": "2026-11-22T22:15:14.479Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Some video content and dialogue in the game may contain 'revealing clothing', 'sexual suggestion', 'alcohol abuse', 'adult venues', and 'fighting without gore' (e.g., love hotels), which may not be suitable for all ages.",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T09:53:43.158Z"
 }

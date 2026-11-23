@@ -1,9 +1,9 @@
 {
   "clave": "sol one",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019e8fc5-0c89-719a-9f37-f3f346b85b79",
   "appid": "4528040",
@@ -29,6 +29,28 @@
       "url": "https://store.steampowered.com/app/4528040/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1579164",
+      "nombre": "Sol One",
+      "apps": [
+        {
+          "appid": "4528040",
+          "nombre": "Sol One"
+        }
+      ],
+      "usd": 5.94,
+      "antes": 6.99,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4528040": {
+      "usd": 5.94,
+      "gratis": false
+    }
+  },
   "descripcion": "A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.",
   "generos": [
     "Acción",
@@ -39,6 +61,7 @@
   ],
   "lanzamientoTexto": "16 NOV 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Sol One",
   "acerca": [
     [
@@ -137,7 +160,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -236,5 +260,11 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528040/ae573637ced768ec43c5b609f9c61cd3c81c4478/ss_ae573637ced768ec43c5b609f9c61cd3c81c4478.1920x1080.jpg?t=1794861913"
     }
   ],
-  "consultado": "2026-11-22T22:09:23.686Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 406523,
+  "v": 7,
+  "consultado": "2026-11-23T09:54:45.267Z"
 }

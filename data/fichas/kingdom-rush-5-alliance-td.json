@@ -1,9 +1,9 @@
 {
   "clave": "kingdom rush 5 alliance td",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01967891-b62f-7255-a495-c1c07e436e3d",
   "appid": "2849080",
@@ -35,6 +35,52 @@
       "url": "https://metacritic.com/game/kingdom-rush-5-alliance/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1016409",
+      "nombre": "Kingdom Rush Alliance",
+      "apps": [
+        {
+          "appid": "2849080",
+          "nombre": "Kingdom Rush 5: Alliance TD"
+        }
+      ],
+      "usd": 5.76,
+      "antes": 10.49,
+      "descuento": 45
+    }
+  ],
+  "sueltos": {
+    "2849080": {
+      "usd": 5.76,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4260510",
+      "nombre": "Kingdom Rush 5: Alliance TD - Dragon Wars Campaign",
+      "gratis": false,
+      "usd": 2.54,
+      "descuento": 15
+    },
+    {
+      "appid": "3732970",
+      "nombre": "Kingdom Rush 5: Alliance TD - Wukong's Journey Campaign",
+      "gratis": false,
+      "usd": 2.54,
+      "descuento": 15
+    },
+    {
+      "appid": "3368630",
+      "nombre": "Kingdom Rush 5: Alliance TD - Colossal Dwarfare Campaign",
+      "gratis": false,
+      "usd": 2.54,
+      "descuento": 15
+    }
+  ],
   "descripcion": "Mientras emerge un mal formidable, ¡se está formando una alianza inesperada! Se necesitarán a los mejores guerreros de Linirea y al implacable Ejército Oscuro para detenerlo. ¡Cuidado! Aunque puedan viajar juntos, los vientos cambiantes del destino podrían alterar rápidamente su rumbo.",
   "generos": [
     "Indie",
@@ -42,6 +88,7 @@
   ],
   "lanzamientoTexto": "25 JUL 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Kingdom Rush 5: Alliance TD",
   "acerca": [
     [
@@ -119,43 +166,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -227,5 +284,22 @@
     }
   ],
   "web": "https://www.kingdomrushalliance.com/",
-  "consultado": "2026-11-22T22:15:05.895Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 296924,
+  "youtube": [
+    {
+      "id": "I3NAMvB6CFc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "v_X-_yHwHqk",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:18.796Z"
 }

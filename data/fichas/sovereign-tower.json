@@ -1,9 +1,9 @@
 {
   "clave": "sovereign tower",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019bc1d9-c378-72d8-b32f-78c6069add27",
   "appid": "4113940",
@@ -48,6 +48,45 @@
       "url": "https://opencritic.com/game/21096/sovereign-tower"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1441498",
+      "nombre": "Sovereign Tower",
+      "apps": [
+        {
+          "appid": "4113940",
+          "nombre": "Sovereign Tower"
+        }
+      ],
+      "usd": 8.79,
+      "antes": 10.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4113940": {
+      "usd": 8.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4870280",
+      "nombre": "Sovereign Tower Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4911710",
+      "nombre": "Sovereign Tower: Artbook",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    }
+  ],
   "descripcion": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny doesn’t go your way, keep turning back time, uncover secrets and rewrite fate again and again.",
   "generos": [
     "Indie",
@@ -58,6 +97,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/sovereign-tower?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Sovereign Tower",
   "acerca": [
     [
@@ -163,27 +203,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -274,5 +320,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113940/284600fd171327f0206364b3ac32fe4d51acc069/ss_284600fd171327f0206364b3ac32fe4d51acc069.1920x1080.jpg?t=1794850605"
     }
   ],
-  "consultado": "2026-11-22T22:08:33.034Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 384977,
+  "youtube": [
+    {
+      "id": "7sWmD0I2N44",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "eRFpglZki4g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "IYXe8T7BUQY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WeD9q33F_Hk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:02.722Z"
 }

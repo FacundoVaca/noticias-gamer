@@ -1,9 +1,9 @@
 {
   "clave": "lord of undead",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c4ca0-c2f5-72cb-b303-fb03404de857",
   "appid": "4018330",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/4018330/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1409839",
+      "nombre": "Lord of Undead",
+      "apps": [
+        {
+          "appid": "4018330",
+          "nombre": "Lord of Undead"
+        }
+      ],
+      "usd": 7.34,
+      "antes": 10.49,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "4018330": {
+      "usd": 7.34,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5587740",
+      "nombre": "Lord of Undead - Supporter Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Destruye el castillo en la colina en este lúgubre RPG donde juegas como el Señor Oscuro. Recolecta almas, invoca un ejército de no muertos, domina habilidades oscuras, construye tu base y profana las tierras de un vasto mundo abierto.",
   "generos": [
     "Acción",
@@ -39,6 +71,7 @@
   ],
   "lanzamientoTexto": "18 NOV 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Lord of Undead",
   "acerca": [
     [
@@ -320,5 +353,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018330/553dd39b034cb56713ff47a37656eeed775b36be/ss_553dd39b034cb56713ff47a37656eeed775b36be.1920x1080.jpg?t=1795106627"
     }
   ],
-  "consultado": "2026-11-22T22:07:12.513Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "You have a sword, your enemies have a body and soul. Kill the body, take their souls.",
+  "igdbIntentado": true,
+  "igdb": 389330,
+  "youtube": [
+    {
+      "id": "NhSdgxcog4E",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:01.953Z"
 }

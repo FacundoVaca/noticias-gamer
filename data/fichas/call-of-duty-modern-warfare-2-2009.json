@@ -1,9 +1,9 @@
 {
   "clave": "call of duty modern warfare 2 2009",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-62ef-71e8-990a-e31f12db98ef",
   "appid": "10180",
@@ -31,6 +31,143 @@
       "url": "https://store.steampowered.com/app/10180/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "2319",
+      "nombre": "Call of Duty®: Modern Warfare® 2",
+      "apps": [
+        {
+          "appid": "10180",
+          "nombre": "Call of Duty®: Modern Warfare® 2 (2009)"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 19.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "49979",
+      "nombre": "Call of Duty: Modern Warfare 2 Bundle",
+      "apps": [
+        {
+          "appid": "10180",
+          "nombre": "Call of Duty®: Modern Warfare® 2 (2009)"
+        },
+        {
+          "appid": "10196",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Resurgence Pack"
+        },
+        {
+          "appid": "10195",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Stimulus Package"
+        }
+      ],
+      "usd": 22.49,
+      "antes": 44.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "49981",
+      "nombre": "Call of Duty: Modern Warfare Franchise Bundle (ROW)",
+      "apps": [
+        {
+          "appid": "7940",
+          "nombre": "Call of Duty® 4: Modern Warfare® (2007)"
+        },
+        {
+          "appid": "10180",
+          "nombre": "Call of Duty®: Modern Warfare® 2 (2009)"
+        },
+        {
+          "appid": "10196",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Resurgence Pack"
+        },
+        {
+          "appid": "10195",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Stimulus Package"
+        },
+        {
+          "appid": "42680",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011)"
+        },
+        {
+          "appid": "42695",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 1"
+        },
+        {
+          "appid": "42696",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 2"
+        },
+        {
+          "appid": "42697",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 3: Chaos Pack"
+        },
+        {
+          "appid": "42698",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 4: Final Assault"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 139.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "7940": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "10180": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "10195": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "10196": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42680": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "42695": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42696": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42697": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42698": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "10195",
+      "nombre": "Call of Duty®: Modern Warfare® 2 Stimulus Package",
+      "gratis": false,
+      "usd": 9.74,
+      "descuento": 35
+    },
+    {
+      "appid": "10196",
+      "nombre": "Call of Duty®: Modern Warfare® 2 Resurgence Pack",
+      "gratis": false,
+      "usd": 9.74,
+      "descuento": 35
+    }
+  ],
   "descripcion": "El juego más esperado del año y la secuela del juego de acción en primera persona número uno en ventas de todos los tiempos, Modern Warfare 2 continúa con la tensión y la acción trepidante enfrentando a los jugadores con una nueva amenaza decidida a situar al mundo al borde del colapso.",
   "generos": [
     "Acción"
@@ -40,6 +177,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-modern-warfare-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: Modern Warfare® 2 (2009)",
   "acerca": [
     [
@@ -131,23 +269,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -226,5 +369,22 @@
     }
   ],
   "web": "https://www.callofduty.com/",
-  "consultado": "2026-11-22T22:13:12.483Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 559,
+  "youtube": [
+    {
+      "id": "TiFSSpYdPuc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QE7Iiq3tQkM",
+      "nombre": "Game intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:13.357Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "borderlands 2",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f48c-7289-8516-c7c5b2e12eba",
   "appid": "49520",
@@ -59,6 +59,137 @@
       "url": "https://opencritic.com/game/9755/borderlands-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "32848",
+      "nombre": "Borderlands 2 Game of the Year",
+      "apps": [
+        {
+          "appid": "49520",
+          "nombre": "Borderlands 2"
+        },
+        {
+          "appid": "207870",
+          "nombre": "Borderlands 2 - Captain Scarlett and her Pirate's Booty"
+        },
+        {
+          "appid": "230090",
+          "nombre": "Borderlands 2 - Psycho Pack"
+        },
+        {
+          "appid": "213780",
+          "nombre": "Borderlands 2: Collector's Edition Pack"
+        },
+        {
+          "appid": "208690",
+          "nombre": "Borderlands 2: Creature Slaughterdome"
+        },
+        {
+          "appid": "213230",
+          "nombre": "Borderlands 2: Mechromancer Pack"
+        },
+        {
+          "appid": "213210",
+          "nombre": "Borderlands 2: Mr. Torgue’s Campaign of Carnage"
+        },
+        {
+          "appid": "213250",
+          "nombre": "Borderlands 2: Sir Hammerlock’s Big Game Hunt"
+        },
+        {
+          "appid": "218550",
+          "nombre": "Borderlands 2: Tiny Tina's Assault on Dragon Keep"
+        },
+        {
+          "appid": "224200",
+          "nombre": "Borderlands 2: Ultimate Vault Hunters Upgrade Pack"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 39.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "16724",
+      "nombre": "Borderlands 2",
+      "apps": [
+        {
+          "appid": "49520",
+          "nombre": "Borderlands 2"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "49520": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "207870": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "208690": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "213210": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "213230": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "213250": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "213780": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "218550": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "224200": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "230090": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "872280",
+      "nombre": "Borderlands 2: Commander Lilith & the Fight for Sanctuary",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "218560",
+      "nombre": "Borderlands 2 Season Pass",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "224180",
+      "nombre": "Borderlands 2: Ultimate Vault Hunter Upgrade Pack 2",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
   "generos": [
     "Acción",
@@ -69,6 +200,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/borderlands-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Borderlands 2",
   "acerca": [
     [
@@ -124,35 +256,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -260,5 +400,33 @@
     }
   ],
   "web": "https://www.2k.com/en-US/game/borderlands-2/",
-  "consultado": "2026-11-22T22:13:40.555Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 1011,
+  "youtube": [
+    {
+      "id": "ERe3wZdIAtc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qgcAq34Sifw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MCWJUSulnro",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8rmOUoBmChA",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:22.196Z"
 }

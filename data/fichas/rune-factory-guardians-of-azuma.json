@@ -1,9 +1,9 @@
 {
   "clave": "rune factory guardians of azuma",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0191944e-da9c-721a-aa4d-5cda7f600bf8",
   "appid": "2864560",
@@ -51,6 +51,108 @@
       "url": "https://opencritic.com/game/18636/rune-factory-guardians-of-azuma"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1021650",
+      "nombre": "Rune Factory: Guardians of Azuma",
+      "apps": [
+        {
+          "appid": "2864560",
+          "nombre": "Rune Factory: Guardians of Azuma"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1317058",
+      "nombre": "Rune Factory: Guardians of Azuma Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2864560",
+          "nombre": "Rune Factory: Guardians of Azuma"
+        },
+        {
+          "appid": "3717920",
+          "nombre": "Rune Factory: Guardians of Azuma - Paquete de contenido descargable de la edición Digital Deluxe"
+        }
+      ],
+      "usd": 22.99,
+      "antes": 45.98,
+      "descuento": 50
+    },
+    {
+      "packageid": "1317059",
+      "nombre": "Rune Factory: Guardians of Azuma Super Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2864560",
+          "nombre": "Rune Factory: Guardians of Azuma"
+        },
+        {
+          "appid": "3717930",
+          "nombre": "Rune Factory: Guardians of Azuma - Paquete de contenido descargable de la edición Super Digital Deluxe"
+        }
+      ],
+      "usd": 26.99,
+      "antes": 53.98,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2864560": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "3717920": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "3717930": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "3966040",
+      "nombre": "Rune Factory: Guardians of Azuma - STORY OF SEASONS Bundle",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3139970",
+      "nombre": "Rune Factory: Guardians of Azuma - DLC de Sakuna",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3717940",
+      "nombre": "Rune Factory: Guardians of Azuma - Paquete de atuendos de soltera de Rune Factory 4",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 50
+    },
+    {
+      "appid": "3717920",
+      "nombre": "Rune Factory: Guardians of Azuma - Paquete de contenido descargable de la edición Digital Deluxe",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3717930",
+      "nombre": "Rune Factory: Guardians of Azuma - Paquete de contenido descargable de la edición Super Digital Deluxe",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "¡Bienvenido a Azuma! Usa tus poderes de danzaterra para salvar el mundo y ayudar a la gente y los dioses. Lucha con monstruos corrompidos, reconstruye las granjas y aldeas con temática de las estaciones y crea vínculos con los lugareños variopintos que encuentres.",
   "generos": [
     "Acción",
@@ -62,6 +164,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/rune-factory-guardians-of-azuma?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Rune Factory: Guardians of Azuma",
   "acerca": [
     [
@@ -136,35 +239,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -248,5 +359,30 @@
     }
   ],
   "web": "https://na.runefactory.com/azuma/",
-  "consultado": "2026-11-22T22:15:58.131Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 250922,
+  "youtube": [
+    {
+      "id": "KaFkZQ-IWi0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "L_Jjh6CpQF0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2wk-JZ3rG1I",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "vYVMUPPOPAU",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:46.636Z"
 }

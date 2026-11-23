@@ -1,0 +1,300 @@
+{
+  "clave": "terminator resistance",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3877-70f6-874e-b89cb8c1cb02",
+  "appid": "954740",
+  "lanzamiento": "2019-11-14",
+  "desarrolladores": [
+    "Teyon"
+  ],
+  "editores": [
+    "Reef Entertainment"
+  ],
+  "etiquetas": [
+    "FPS",
+    "Post-apocalyptic",
+    "Choices Matter",
+    "Sci-fi",
+    "First-Person"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 16760,
+      "url": "https://store.steampowered.com/app/954740/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 60,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/terminator-resistance/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 262,
+      "url": "https://metacritic.com/game/terminator-resistance/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 58,
+      "cantidad": 49,
+      "url": "https://opencritic.com/game/8595/terminator-resistance"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "311417",
+      "nombre": "Terminator: Resistance",
+      "apps": [
+        {
+          "appid": "954740",
+          "nombre": "Terminator: Resistance"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "954740": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1451140",
+      "nombre": "Terminator: Resistance - Zero Day Exploit Comic",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1755190",
+      "nombre": "Terminator: Resistance Annihilation Line",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Terminator: Resistance es un shooter en primera persona basado en la época de \"Future War\", sobre la cual pudimos descubrir algunos detalles gracias a las legendarias películas \"TERMINATOR\" y \"T2: Judgment Day\". Las máquinas están destinadas a la derrota, ¿pero a qué precio?",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "14 NOV 2019",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Terminator: Resistance",
+  "acerca": [
+    [
+      "p",
+      "Revive los sucesos previos a la batalla final que decidirá el destino de la humanidad en su lucha contra las máquinas. Terminator: Resistance es un shooter en primera persona basado en la época de \"Future War\", sobre la cual pudimos descubrir algunos detalles gracias a las legendarias películas \"TERMINATOR\" y \"T2: Judgment Day\". Las máquinas están destinadas a la derrota, ¿pero a qué precio?"
+    ],
+    [
+      "li",
+      "¡Corre, dispara, infíltrate y piratea las defensas de Skynet!"
+    ],
+    [
+      "li",
+      "¡Sube tus habilidades de nivel y busca metales con los que intercambiar y fabricar objetos!"
+    ],
+    [
+      "li",
+      "¡Interactúa con un grupo diverso de supervivientes y cambia sus destinos!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8/10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 4160 @ 3.6GHz/AMD FX 8350 @ 4.0GHz or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1050/AMD RX 560 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ],
+      [
+        "Notas adicionales",
+        "For 1080p 60FPS at medium settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 8400 @ 2.8GHz/AMD Ryzen 5 2600 @ 3.4GHz or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1070/AMD RX 590 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible soundcard or onboard chipset"
+      ],
+      [
+        "Notas adicionales",
+        "For 1440p and higher, 60FPS with high or epic settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_44061d936f85125094fd6285a79b893d7479b5ff.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_44061d936f85125094fd6285a79b893d7479b5ff.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_55e615613a7d60799c94bd32e87f3dccbb4006f9.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_55e615613a7d60799c94bd32e87f3dccbb4006f9.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_cb1abc5d22ba62f41861590099225d937b2977f0.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_cb1abc5d22ba62f41861590099225d937b2977f0.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_238e1af1f1b9f2e9499c3d2aee39bebde139912a.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_238e1af1f1b9f2e9499c3d2aee39bebde139912a.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_7ea900ac8aa76eaa978b2879f773a3c5f8a7063f.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_7ea900ac8aa76eaa978b2879f773a3c5f8a7063f.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_9c5c7d8fc1d72c8c3a29273ff7a63a9e458a376b.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_9c5c7d8fc1d72c8c3a29273ff7a63a9e458a376b.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_9df9b69979d861ac4982cd0bea74c2c7dbe016d8.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_9df9b69979d861ac4982cd0bea74c2c7dbe016d8.1920x1080.jpg?t=1701952741"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_25819d7ab6622910ba89376525179505cfd93345.600x338.jpg?t=1701952741",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954740/ss_25819d7ab6622910ba89376525179505cfd93345.1920x1080.jpg?t=1701952741"
+    }
+  ],
+  "web": "https://www.terminatorvideogame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This product features frequent violence and bad language. There are some instances of sexual content and gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 122611,
+  "youtube": [
+    {
+      "id": "vUFRr0pPYtY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:03.300Z"
+}

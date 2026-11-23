@@ -1,6 +1,5 @@
 {
   "clave": "gold miner party rush",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -27,6 +26,45 @@
       "puntaje": 100,
       "cantidad": 10,
       "url": "https://store.steampowered.com/app/4815320/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1673282",
+      "nombre": "Gold Miner: Party Rush",
+      "apps": [
+        {
+          "appid": "4815320",
+          "nombre": "Gold Miner: Party Rush"
+        }
+      ],
+      "usd": 5.12,
+      "antes": 5.69,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4815320": {
+      "usd": 5.12,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5219710",
+      "nombre": "Gold Miner: Party Rush - Supporter Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    },
+    {
+      "appid": "5049450",
+      "nombre": "Gold Miner: Party Rush Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "Gold Miner: Party Rush es un juego de fiesta multijugador para 2–6 jugadores donde la clásica grúa de Gold Miner compite cara a cara. Partida online y Partidas competitivas, Infinito cooperativo, misma pantalla en el sofá, o juega en solitario.",
@@ -176,55 +214,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -344,5 +395,11 @@
     }
   ],
   "web": "https://margariteentertainment.freshdesk.com/support/tickets/new",
-  "consultado": "2026-11-22T22:13:57.958Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T09:50:51.613Z"
 }

@@ -2,7 +2,8 @@
   "clave": "life is strange reunion",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019bdc9e-9e6f-70a3-9576-790110e103ff",
   "appid": "2624870",
@@ -48,6 +49,81 @@
       "url": "https://opencritic.com/game/19982/life-is-strange-reunion"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "941500",
+      "nombre": "Life is Strange: Reunion",
+      "apps": [
+        {
+          "appid": "2624870",
+          "nombre": "Life is Strange: Reunion"
+        }
+      ],
+      "usd": 19.49,
+      "antes": 29.99,
+      "descuento": 35
+    },
+    {
+      "packageid": "1481380",
+      "nombre": "Life is Strange: Reunion- Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2624870",
+          "nombre": "Life is Strange: Reunion"
+        },
+        {
+          "appid": "3977740",
+          "nombre": "Life is Strange: Reunion - Behind the Scenes Documentary Video"
+        },
+        {
+          "appid": "4340990",
+          "nombre": "Life is Strange: Reunion Digital Deluxe upgrade"
+        }
+      ],
+      "usd": 25.99,
+      "antes": 39.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2624870": {
+      "usd": 19.49,
+      "gratis": false
+    },
+    "3977740": {
+      "usd": 25.99,
+      "gratis": false
+    },
+    "4340990": {
+      "usd": 6.5,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4340990",
+      "nombre": "Life is Strange: Reunion Digital Deluxe upgrade",
+      "gratis": false,
+      "usd": 6.5,
+      "descuento": 35
+    },
+    {
+      "appid": "3977730",
+      "nombre": "Life is Strange: Reunion - Classic Outfit Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3977740",
+      "nombre": "Life is Strange: Reunion - Behind the Scenes Documentary Video",
+      "gratis": false,
+      "usd": 25.99,
+      "descuento": 35
+    }
+  ],
   "descripcion": "La saga de Max y Chloe, y el destino de Caledon, ¡dependen de ti! Juega como Max y como Chloe en una historia inédita que concluye de forma épica. El incendio obligará a Max y a Chloe a tomar decisiones devastadoras. ¿Serán capaces de encontrar un futuro juntas... antes de que todo arda?",
   "generos": [
     "Acción",
@@ -55,6 +131,271 @@
   ],
   "lanzamientoTexto": "26 MAR 2026",
   "metacritic": null,
-  "recomendaciones": 4782,
-  "consultado": "2026-11-22T21:45:24.045Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Life is Strange: Reunion",
+  "acerca": [
+    [
+      "p",
+      "Chloe Price era la compañera en el tiempo de Max Caulfield, y perderla es de lo que Max más se arrepiente."
+    ],
+    [
+      "p",
+      "Ahora Chloe ha venido a la Universidad de Caledon. Atormentada por las pesadillas y los recuerdos imposibles, Chloe necesita la ayuda de Max."
+    ],
+    [
+      "p",
+      "Pero Max ya está lidiando con otra crisis: dentro de tres días, un brutal incendio arrasará el campus."
+    ],
+    [
+      "p",
+      "El poder de Max para rebobinar le ha hecho ganar tiempo, pero no puede prevenir el fuego sola."
+    ],
+    [
+      "p",
+      "El incendio obligará a Max y a Chloe a tomar decisiones devastadoras. ¿Serán capaces de encontrar un futuro juntas... antes de que todo arda?"
+    ],
+    [
+      "p",
+      "UN FINAL ÉPICO"
+    ],
+    [
+      "p",
+      "La saga de Max y Chloe, y el destino de Caledon, ¡dependen de ti! Juega como Max y como Chloe en una historia inédita que concluye de forma épica."
+    ],
+    [
+      "p",
+      "REBOBINAR OTRA VEZ"
+    ],
+    [
+      "p",
+      "¡Vuelve el poder por antonomasia de Max! Deshaz cada decisión y vuelve a tomarla, cambia el rumbo de las conversaciones y manipula el entorno para resolver puzles en cuatro dimensiones."
+    ],
+    [
+      "p",
+      "PODER PUNKARRA"
+    ],
+    [
+      "p",
+      "En el papel de Chloe, reina de las insolencias, tirarás de ingenio, astucia y borderías para esclarecer cuanto antes el significado de las pesadillas y dobles recuerdos que tiene."
+    ],
+    [
+      "p",
+      "VIDA, MUERTE Y CONSECUENCIAS"
+    ],
+    [
+      "p",
+      "Nadie está a salvo del futuro incendio. Identifica a los culpables antes de que tus amigos de Caledon perezcan en las llamas. ¿Quién sobrevivirá? Eso depende de ti."
+    ],
+    [
+      "p",
+      "UNA BANDA SONORA EXCLUSIVA"
+    ],
+    [
+      "p",
+      "Una cuidada banda sonora original, además de temas con licencia nuevos y nostálgicos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1400 / Intel Core i5-4670K"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 480, 8 GB / NVIDIA GeForce GTX 1660, 6 GB / Intel Arc A750, 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended, Low preset, 65% Resolution Scale, 80% Secondary Scale"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 3600 / Intel Core i5-10600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6650 XT, 8 GB / NVIDIA GeForce RTX 3060 Ti, 8 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended, High preset, 70% Resolution Scale, 90% Secondary Scale"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/199b89bfa0ad61293e0a059c4a1e8259c5d23438/ss_199b89bfa0ad61293e0a059c4a1e8259c5d23438.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/199b89bfa0ad61293e0a059c4a1e8259c5d23438/ss_199b89bfa0ad61293e0a059c4a1e8259c5d23438.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/e2703ae262dac46f703a5d2bcafe0aa0d0a90736/ss_e2703ae262dac46f703a5d2bcafe0aa0d0a90736.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/e2703ae262dac46f703a5d2bcafe0aa0d0a90736/ss_e2703ae262dac46f703a5d2bcafe0aa0d0a90736.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/2802cb7dd327b136709742f164d8a82d31be68f5/ss_2802cb7dd327b136709742f164d8a82d31be68f5.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/2802cb7dd327b136709742f164d8a82d31be68f5/ss_2802cb7dd327b136709742f164d8a82d31be68f5.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/6fec103b62b70e6ef028c9f7fcefcbba8289b685/ss_6fec103b62b70e6ef028c9f7fcefcbba8289b685.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/6fec103b62b70e6ef028c9f7fcefcbba8289b685/ss_6fec103b62b70e6ef028c9f7fcefcbba8289b685.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/12f1db18817cfeea196f62f9b1ffef81a58321cb/ss_12f1db18817cfeea196f62f9b1ffef81a58321cb.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/12f1db18817cfeea196f62f9b1ffef81a58321cb/ss_12f1db18817cfeea196f62f9b1ffef81a58321cb.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/5b9d410d05c050c3ad466f22a590919d42c778e3/ss_5b9d410d05c050c3ad466f22a590919d42c778e3.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/5b9d410d05c050c3ad466f22a590919d42c778e3/ss_5b9d410d05c050c3ad466f22a590919d42c778e3.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/4a44a2dce89e2d5194f939bd221a79d869169bdf/ss_4a44a2dce89e2d5194f939bd221a79d869169bdf.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/4a44a2dce89e2d5194f939bd221a79d869169bdf/ss_4a44a2dce89e2d5194f939bd221a79d869169bdf.1920x1080.jpg?t=1777999087"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/a186bb55413997cd14cbe3b8471d3ec6bf1a072c/ss_a186bb55413997cd14cbe3b8471d3ec6bf1a072c.600x338.jpg?t=1777999087",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624870/a186bb55413997cd14cbe3b8471d3ec6bf1a072c/ss_a186bb55413997cd14cbe3b8471d3ec6bf1a072c.1920x1080.jpg?t=1777999087"
+    }
+  ],
+  "web": "https://www.lifeisstrange.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 16,
+  "avisoContenido": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content. This game contains depictions of fire, mild violence, suggestive themes, strong language, drugs and multiple scenes take place in the Snapping Turtle, the local college bar.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 386431,
+  "youtube": [
+    {
+      "id": "ilDm1_jlWbM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "IGesY6qKQys",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:23.877Z"
 }

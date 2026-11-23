@@ -1,13 +1,13 @@
 {
   "clave": "life is strange remastered",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4d0a-714f-8dc6-7564e61ba08f",
   "appid": "1265920",
-  "lanzamiento": null,
+  "lanzamiento": "2022-02-01",
   "desarrolladores": [
     "DECK NINE"
   ],
@@ -35,6 +35,46 @@
       "url": "https://metacritic.com/game/life-is-strange-remastered/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "440247",
+      "nombre": "Life is Strange Remastered Collection",
+      "apps": [
+        {
+          "appid": "1265920",
+          "nombre": "Life is Strange Remastered"
+        },
+        {
+          "appid": "1265930",
+          "nombre": "Life is Strange: Before the Storm Remastered"
+        }
+      ],
+      "usd": 6.39,
+      "antes": 31.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1265920": {
+      "usd": 6.39,
+      "gratis": false
+    },
+    "1265930": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1537870",
+      "nombre": "Life is Strange Remastered Collection 'Zombie Crypt' Outfit",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Disfruta la historia de Life is Strange, ganadora de un premio BAFTA, ahora remasterizada con gráficos impresionantes y una animación mejorada gracias a la captura de movimientos.",
   "generos": [
     "Acción",
@@ -42,6 +82,7 @@
   ],
   "lanzamientoTexto": "1 FEB 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Life is Strange Remastered",
   "acerca": [
     [
@@ -75,43 +116,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -219,5 +270,24 @@
     }
   ],
   "web": "https://www.lifeisstrange.com",
-  "consultado": "2026-11-22T22:13:23.234Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The protagonist of Life is Strange Remastered, Max Caulfield, can rewind time at will. But her ability to prevent the futures she sees does not stop her from experiencing them, nor does it shield her from the emotional fallout of those events. This Game deals honestly with complex emotions, difficult themes, and rare but shocking acts of violence. As such, it may contain content not appropriate for all ages, and may not be appropriate for viewing at work, with cautions suggested for Intense Violence, Blood, Sexual Themes, Strong Language, and Use of Drugs and Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 144775,
+  "youtube": [
+    {
+      "id": "uRHWRmD58U8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "utdFLn82QSU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:39.360Z"
 }

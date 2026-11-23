@@ -1,9 +1,9 @@
 {
   "clave": "call of duty vanguard",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-550b-720a-b6c9-4adf4f1584c8",
   "appid": "1985820",
@@ -55,12 +55,108 @@
       "url": "https://opencritic.com/game/12073/call-of-duty-vanguard"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "717017",
+      "nombre": "Call of Duty®: Vanguard - Edición Estándar",
+      "apps": [
+        {
+          "appid": "1985820",
+          "nombre": "Call of Duty®: Vanguard"
+        }
+      ],
+      "usd": 19.79,
+      "antes": 59.99,
+      "descuento": 67
+    }
+  ],
+  "sueltos": {
+    "1985820": {
+      "usd": 19.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "2289410",
+      "nombre": "Call of Duty Endowment (C.O.D.E.) - Paquete Atemporal",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289411",
+      "nombre": "Call of Duty Endowment (C.O.D.E.) - Lote Tributo de Honor",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289412",
+      "nombre": "Call of Duty®: Vanguard - Paquete Profesional: Coleccionista de Calaveras",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289413",
+      "nombre": "Call of Duty®: Vanguard - Paquete Profesional Mordedura Mortal",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289414",
+      "nombre": "Call of Duty®: Vanguard - Paquete Profesional Expedición a la Isla",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289415",
+      "nombre": "Call of Duty®: Vanguard - Paquete de Pericia Hellhounds",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289416",
+      "nombre": "Call of Duty®: Vanguard - Paquete Profesional Paquete de Trazadoras: Sigilo Violeta",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289417",
+      "nombre": "Call of Duty®: Vanguard - Paquete Profesional Paquete de Trazadoras: Asesino de Operaciones Psicológicas",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2289418",
+      "nombre": "Call of Duty®: Vanguard - Paquete Pro. Amenaza Elegante",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2296290",
+      "nombre": "Call of Duty®: Vanguard Points",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Call of Duty®: Vanguard incluye una emocionante campaña de un jugador, una gran oferta de más de 20 mapas Multijugador el día del lanzamiento, con 16 diseñados para el Multijugador principal, y una nueva y trepidante experiencia de Zombis desarrollada por Treyarch.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "8 MAR 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty®: Vanguard",
   "acerca": [
     [
@@ -102,55 +198,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -258,5 +367,27 @@
     }
   ],
   "web": "https://www.callofduty.com/vanguard",
-  "consultado": "2026-11-22T22:13:31.888Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 165067,
+  "youtube": [
+    {
+      "id": "OQ1CwPhE8KQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "rRMSlBKYc6A",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "GYeaKjAahjA",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:32.938Z"
 }

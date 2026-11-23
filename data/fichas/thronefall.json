@@ -1,9 +1,9 @@
 {
   "clave": "thronefall",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6f8a-71c7-ab02-6e3b9d9dd7b6",
   "appid": "2239150",
@@ -53,6 +53,45 @@
       "url": "https://opencritic.com/game/15319/thronefall"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "802816",
+      "nombre": "Thronefall",
+      "apps": [
+        {
+          "appid": "2239150",
+          "nombre": "Thronefall"
+        }
+      ],
+      "usd": 3.64,
+      "antes": 7.29,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2239150": {
+      "usd": 3.64,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4822240",
+      "nombre": "Thronefall - Craaghelm",
+      "gratis": false,
+      "usd": 5.39,
+      "descuento": 10
+    },
+    {
+      "appid": "5418900",
+      "nombre": "Thronefall Soundtrack",
+      "gratis": false,
+      "usd": 2.69,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Un juego minimalista sobre construir y defender tu pequeño reino.",
   "generos": [
     "Acción",
@@ -61,6 +100,7 @@
   ],
   "lanzamientoTexto": "11 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Thronefall",
   "acerca": [
     [
@@ -142,59 +182,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -269,5 +323,23 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_d324f236bcba0481d2e038834d9a2e7856e5c85b.1920x1080.jpg?t=1794930251"
     }
   ],
-  "consultado": "2026-11-22T22:13:01.658Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 236547,
+  "youtube": [
+    {
+      "id": "6-fd13vxfIc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "x3ubzuiF0hQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:24.443Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "unpacking",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2b2c-7038-bc3a-62a9f2754a4d",
   "appid": "1135690",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/12257/unpacking"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "386202",
+      "nombre": "Unpacking",
+      "apps": [
+        {
+          "appid": "1135690",
+          "nombre": "Unpacking"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 9.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1135690": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1790460",
+      "nombre": "Unpacking (Original Soundtrack)",
+      "gratis": false,
+      "usd": 6.59,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Unpacking es un juego relajante de lógica acerca de la sensación familiar de sacar pertenencias de cajas para colocarlas en un nuevo hogar. Mitad juego de bloques, mitad juego de decoración, podrás crear habitaciones agradables mientras descubres pistas de la vida que estás desempacando.",
   "generos": [
     "Casual",
@@ -59,6 +91,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/unpacking?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Unpacking",
   "acerca": [
     [
@@ -229,5 +262,32 @@
     }
   ],
   "web": "https://www.unpackinggame.com/",
-  "consultado": "2026-11-22T22:13:21.064Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 115843,
+  "youtube": [
+    {
+      "id": "SSZTPO8eYss",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "_BG98e_w6d0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "vPcoMltTVXE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bq3kA1DE-1k",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:33.235Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "gears 5",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1b7d-7140-87d3-8b830ed96b1d",
   "appid": "1097840",
@@ -47,6 +47,65 @@
       "url": "https://opencritic.com/game/7402/gears-5"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "386493",
+      "nombre": "Gears 5",
+      "apps": [
+        {
+          "appid": "1097840",
+          "nombre": "Gears 5"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 29.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "522102",
+      "nombre": "Gears 5 Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "1097840",
+          "nombre": "Gears 5"
+        }
+      ],
+      "usd": 11.24,
+      "antes": 44.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1097840": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "1117250",
+      "nombre": "Gears 5 - Ultra-HD Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1105950",
+      "nombre": "Gears 5 - Ultimate Edition DLC Content",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1415070",
+      "nombre": "Gears 5 - Hivebusters",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 75
+    }
+  ],
   "descripcion": "Llega la nueva entrega de Gears, una de las sagas más aclamadas de la industria, y lo hace a lo grande. En medio de una guerra sin cuartel, Kait Diaz se marcha para desentrañar su conexión con el enemigo y descubrir la auténtica amenaza para Sera: ella misma.",
   "generos": [
     "Acción",
@@ -57,6 +116,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/gears-5?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Gears 5",
   "acerca": [
     [
@@ -107,63 +167,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -279,5 +354,31 @@
     }
   ],
   "web": "https://gears5.com",
-  "consultado": "2026-11-22T22:13:16.779Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "igdbIntentado": true,
+  "igdb": 103292,
+  "youtube": [
+    {
+      "id": "SEpWlFfpEkU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "APqBWniRQbQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "jjFaiJwM2EQ",
+      "nombre": "Bound by Blood Character Trailer"
+    },
+    {
+      "id": "n3ceoeubxxQ",
+      "nombre": "Escape Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:33.830Z"
 }

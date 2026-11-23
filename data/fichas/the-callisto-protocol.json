@@ -1,9 +1,9 @@
 {
   "clave": "the callisto protocol",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-611a-7297-8ff8-57b259f2ef15",
   "appid": "1544020",
@@ -47,6 +47,100 @@
       "url": "https://opencritic.com/game/13372/the-callisto-protocol"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "803436",
+      "nombre": "The Callisto Protocol",
+      "apps": [
+        {
+          "appid": "1544020",
+          "nombre": "The Callisto Protocol™"
+        }
+      ],
+      "usd": 4.04,
+      "antes": 26.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "729994",
+      "nombre": "The Callisto Protocol™ - Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1544020",
+          "nombre": "The Callisto Protocol™"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1544020": {
+      "usd": 4.04,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "2005972",
+      "nombre": "The Callisto Protocol™ - The Outer Way Skin Collection",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2005984",
+      "nombre": "The Callisto Protocol™ - Riot Bundle",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2005983",
+      "nombre": "The Callisto Protocol™ - Final Transmission",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2015680",
+      "nombre": "The Callisto Protocol™ - Season Pass",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2341550",
+      "nombre": "The Callisto Protocol™ - Contagion Bundle",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2518830",
+      "nombre": "The Callisto Protocol - Biophage Skin",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2518840",
+      "nombre": "The Callisto Protocol - Gore Skin",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2518850",
+      "nombre": "The Callisto Protocol - Snake Skin",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Sobrevive y escapa de los horrores de Calisto. Descubre los oscuros secretos de la Luna Muerta de Júpiter.",
   "generos": [
     "Acción",
@@ -54,6 +148,7 @@
   ],
   "lanzamientoTexto": "1 DIC 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Callisto Protocol™",
   "acerca": [
     [
@@ -107,51 +202,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -255,5 +362,32 @@
     }
   ],
   "web": "https://callisto.sds.com",
-  "consultado": "2026-11-22T22:14:13.059Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 141538,
+  "youtube": [
+    {
+      "id": "WnVhgyLbC8A",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ysFqUiXBAd0",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "tXt7qWaN6KI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "gghRJv_tdb0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:39.968Z"
 }

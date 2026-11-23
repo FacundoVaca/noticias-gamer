@@ -1,9 +1,9 @@
 {
   "clave": "stupid never dies",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b1012-e32f-724c-9eff-448e437bc57c",
   "appid": "3486530",
@@ -48,6 +48,51 @@
       "url": "https://opencritic.com/game/21095/stupid-never-dies"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1783610",
+      "nombre": "Stupid Never Dies",
+      "apps": [
+        {
+          "appid": "3486530",
+          "nombre": "Stupid Never Dies"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 39.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1783612",
+      "nombre": "Stupid Never Dies: Glorious Idiot Edition",
+      "apps": [
+        {
+          "appid": "3486530",
+          "nombre": "Stupid Never Dies"
+        }
+      ],
+      "usd": 35.99,
+      "antes": 47.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "3486530": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4228930",
+      "nombre": "Stupid Never Dies: \"TickTock Teddies: Nonsense Overload Pack\"",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Convierte al torpe zombi Davy en una bestia imparable en este RPG de acción de evolución frenética. Devora enemigos, roba sus poderes y salva a la congelada Julia.",
   "generos": [
     "Acción",
@@ -56,6 +101,7 @@
   ],
   "lanzamientoTexto": "21 OCT 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Stupid Never Dies",
   "acerca": [
     [
@@ -134,55 +180,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -274,5 +333,30 @@
     }
   ],
   "web": "https://stupidneverdies.sega.com",
-  "consultado": "2026-11-22T22:14:34.978Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 381212,
+  "youtube": [
+    {
+      "id": "HsRzJnuHtqQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "X79qvE2i2vQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "DFshrV9nHqc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "9JE7ETLFizc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:20.018Z"
 }

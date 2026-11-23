@@ -1,9 +1,9 @@
 {
   "clave": "bravely default flying fairy hd remaster",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01969065-9274-702b-833e-8c4650f8b673",
   "appid": "2833580",
@@ -38,12 +38,35 @@
       "url": "https://metacritic.com/game/bravely-default-flying-fairy-hd-remaster/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1011295",
+      "nombre": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
+      "apps": [
+        {
+          "appid": "2833580",
+          "nombre": "BRAVELY DEFAULT FLYING FAIRY HD Remaster"
+        }
+      ],
+      "usd": 22.39,
+      "antes": 31.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "2833580": {
+      "usd": 22.39,
+      "gratis": false
+    }
+  },
   "descripcion": "¡BRAVELY DEFAULT regresa en alta definición! Revive la historia de los guerreros de la luz. Disfruta de combates estratégicos y de más de 20 trabajos distintos, además de mejoras modernas de jugabilidad y minijuegos totalmente nuevos. La historia de la luz y la oscuridad perenne vuelve a nacer.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "12 MAR 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
   "acerca": [
     [
@@ -106,39 +129,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -206,5 +238,23 @@
     }
   ],
   "web": "https://www.square-enix-games.com/en_US/games/bravely-default-flying-fairy-hd-remaster",
-  "consultado": "2026-11-22T22:15:44.986Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Este juego contiene representaciones de violencia y emplea un lenguaje que quizá no sea apropiado para todas las edades.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 338083,
+  "youtube": [
+    {
+      "id": "HLM1750OAjc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "s8kBXtwzCp0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:08.790Z"
 }

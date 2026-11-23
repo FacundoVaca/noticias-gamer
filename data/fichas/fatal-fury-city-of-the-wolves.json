@@ -1,9 +1,9 @@
 {
   "clave": "fatal fury city of the wolves",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019be4bd-fc50-71ed-9f2f-b86d93a235bb",
   "appid": "2492040",
@@ -29,6 +29,162 @@
       "url": "https://store.steampowered.com/app/2492040/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1486174",
+      "nombre": "FATAL FURY: City of the Wolves - Legend Edition",
+      "apps": [
+        {
+          "appid": "2492040",
+          "nombre": "FATAL FURY: City of the Wolves"
+        }
+      ],
+      "usd": 7.59,
+      "antes": 30.39,
+      "descuento": 75
+    },
+    {
+      "packageid": "1610411",
+      "nombre": "FATAL FURY: City of the Wolves -  Standard Edition",
+      "apps": [
+        {
+          "appid": "2492040",
+          "nombre": "FATAL FURY: City of the Wolves"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1724845",
+      "nombre": "FATAL FURY: City of the Wolves - Revenge Edition",
+      "apps": [
+        {
+          "appid": "2492040",
+          "nombre": "FATAL FURY: City of the Wolves"
+        }
+      ],
+      "usd": 37.99,
+      "antes": 37.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2492040": {
+      "usd": 7.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 15,
+  "dlcLista": [
+    {
+      "appid": "4071070",
+      "nombre": "FATAL FURY: CotW - Season Pass 3",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4070950",
+      "nombre": "FATAL FURY: CotW - Season Pass 2",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3141980",
+      "nombre": "FATAL FURY: CotW - Season Pass 1",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4741370",
+      "nombre": "FATAL FURY CotW - DLC Character \"Mr. Karate\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741360",
+      "nombre": "FATAL FURY CotW - DLC Character \"Wolfgang Krauser\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741350",
+      "nombre": "FATAL FURY CotW - DLC Character \"Blue Mary\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741340",
+      "nombre": "FATAL FURY CotW - DLC Character \"Nightmare Geese\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741330",
+      "nombre": "FATAL FURY CotW - DLC Character \"Kim Jae Hoon\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741320",
+      "nombre": "FATAL FURY CotW - DLC Character \"Mr. Big\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741310",
+      "nombre": "FATAL FURY CotW - DLC Character \"Chun-Li\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741300",
+      "nombre": "FATAL FURY CotW - DLC Character \"Joe Higashi\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741290",
+      "nombre": "FATAL FURY CotW - DLC Character \"Ken\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4741280",
+      "nombre": "FATAL FURY CotW - DLC Character \"Andy Bogard\"",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 0
+    },
+    {
+      "appid": "4868040",
+      "nombre": "FATAL FURY CotW - DLC Costume ”Classic Mai Shiranui\"",
+      "gratis": false,
+      "usd": 2.25,
+      "descuento": 0
+    },
+    {
+      "appid": "3141970",
+      "nombre": "FATAL FURY CotW - DLC Costume \"FATAL FURY 2: TERRY\"",
+      "gratis": false,
+      "usd": 2.25,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Tras 26 años, la icónica serie Fatal Fury regresa con una nueva entrega: FATAL FURY: City of the Wolves. Sumérgete en un impresionante estilo artístico que estimulará tus sentidos y experimenta la innovación del sistema REV, diseñado para revolucionar la emoción del combate.",
   "generos": [
     "Acción"
@@ -38,6 +194,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/fatal-fury-city-of-the-wolves?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "FATAL FURY: City of the Wolves",
   "acerca": [
     [
@@ -90,59 +247,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -242,5 +413,30 @@
     }
   ],
   "web": "https://www.snk-corp.co.jp/official/fatalfury-cotw/",
-  "consultado": "2026-11-22T22:08:45.624Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 260321,
+  "youtube": [
+    {
+      "id": "JJg7MhV2znQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "lHjjlpCoBOQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cNes200gOAY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "53qyNPNrksE",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:46.512Z"
 }

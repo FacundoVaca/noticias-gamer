@@ -1,9 +1,9 @@
 {
   "clave": "high on life",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6449-7233-bfbc-a2e0c6d21bba",
   "appid": "1583230",
@@ -53,6 +53,38 @@
       "url": "https://opencritic.com/game/13964/high-on-life"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "560221",
+      "nombre": "High On Life",
+      "apps": [
+        {
+          "appid": "1583230",
+          "nombre": "High On Life"
+        }
+      ],
+      "usd": 4.62,
+      "antes": 18.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1583230": {
+      "usd": 4.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2447000",
+      "nombre": "High On Life: High On Knife",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "La humanidad está siendo amenazada por un cártel alienígena que quiere utilizarla como droga. Depende de ti rescatar y asociarte con las carismáticas armas parlantes, acabar con Garmantuous y su banda, ¡y salvar el mundo!",
   "generos": [
     "Acción",
@@ -60,6 +92,7 @@
   ],
   "lanzamientoTexto": "13 DIC 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "High On Life",
   "acerca": [
     [
@@ -99,23 +132,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -207,5 +245,32 @@
     }
   ],
   "web": "https://squanchgames.com/high-on-life/",
-  "consultado": "2026-11-22T22:07:15.630Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "Blood and Gore Crude Humor Sexual Themes Strong Language Use of Drugs Violence",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 204618,
+  "youtube": [
+    {
+      "id": "7SUUeakHKTk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TuvwHBLkVMY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Trd_kGxEoY8",
+      "nombre": "Dev Diary"
+    },
+    {
+      "id": "zqVMUyQmRyU",
+      "nombre": "Presentation"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:34.658Z"
 }

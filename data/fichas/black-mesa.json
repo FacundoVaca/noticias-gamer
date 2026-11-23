@@ -1,9 +1,9 @@
 {
   "clave": "black mesa",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-20eb-70ae-bb67-f6d04b00780d",
   "appid": "362890",
@@ -47,6 +47,28 @@
       "url": "https://opencritic.com/game/9106/black-mesa"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "65168",
+      "nombre": "Black Mesa",
+      "apps": [
+        {
+          "appid": "362890",
+          "nombre": "Black Mesa"
+        }
+      ],
+      "usd": 2.62,
+      "antes": 10.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "362890": {
+      "usd": 2.62,
+      "gratis": false
+    }
+  },
   "descripcion": "Revive Half-Life.",
   "generos": [
     "Acción",
@@ -58,6 +80,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/black-mesa?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Black Mesa",
   "acerca": [
     [
@@ -400,5 +423,27 @@
     }
   ],
   "web": "http://www.blackmesagame.com",
-  "consultado": "2026-11-22T22:14:43.600Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "avisoContenido": "Violence and death due to falls, blunt force, gunshots, and explosions. Over the top dismemberment of NPCs (gibing) that some may see as realistic.",
+  "igdbIntentado": true,
+  "igdb": 6739,
+  "youtube": [
+    {
+      "id": "YkBrNGeFwoU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "G32_q_3es8E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "v2OH2OtjnhI",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:27.145Z"
 }

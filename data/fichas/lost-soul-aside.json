@@ -1,9 +1,9 @@
 {
   "clave": "lost soul aside",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193d95f-659c-71e6-8f46-381a8cbeba39",
   "appid": "3378960",
@@ -50,6 +50,58 @@
       "url": "https://opencritic.com/game/18117/lost-soul-aside"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1195624",
+      "nombre": "Lost Soul Aside™",
+      "apps": [
+        {
+          "appid": "3378960",
+          "nombre": "Lost Soul Aside™"
+        }
+      ],
+      "usd": 19.79,
+      "antes": 59.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "1235003",
+      "nombre": "Lost Soul Aside™ Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3378960",
+          "nombre": "Lost Soul Aside™"
+        }
+      ],
+      "usd": 23.09,
+      "antes": 69.99,
+      "descuento": 67
+    }
+  ],
+  "sueltos": {
+    "3378960": {
+      "usd": 19.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3484230",
+      "nombre": "Lost Soul Aside™- Upgrade to Digital Deluxe Edition",
+      "gratis": false,
+      "usd": 3.3,
+      "descuento": 67
+    },
+    {
+      "appid": "3484250",
+      "nombre": "Lost Soul Aside™: Digital Deluxe Edition - Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Embárcate en una odisea épica para salvar a tu hermana pequeña –y a la humanidad– de los misteriosos invasores dimensionales de más allá del cielo estrellado en Lost Soul Aside™.",
   "generos": [
     "Acción",
@@ -58,6 +110,7 @@
   ],
   "lanzamientoTexto": "28 AGO 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Lost Soul Aside™",
   "acerca": [
     [
@@ -292,59 +345,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -436,5 +503,29 @@
     }
   ],
   "web": "https://www.playstation.com/games/lost-soul-aside/lost-soul-aside-pc/",
-  "consultado": "2026-11-22T22:08:42.483Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 21962,
+  "youtube": [
+    {
+      "id": "eFwfl95gv8I",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9gcyZkdyMOU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "o0Cx7iIQBiI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BCavrr-9VYs",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:27.375Z"
 }

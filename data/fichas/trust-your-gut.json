@@ -1,9 +1,9 @@
 {
   "clave": "trust your gut",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019db1f3-880a-7320-a539-dd63a365daf7",
   "appid": "4066520",
@@ -27,6 +27,38 @@
       "puntaje": 94,
       "cantidad": 53,
       "url": "https://store.steampowered.com/app/4066520/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1425937",
+      "nombre": "Trust Your Gut",
+      "apps": [
+        {
+          "appid": "4066520",
+          "nombre": "Trust Your Gut"
+        }
+      ],
+      "usd": 4.39,
+      "antes": 5.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4066520": {
+      "usd": 4.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5641540",
+      "nombre": "Trust Your Gut - Supporter Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
     }
   ],
   "descripcion": "Roguelite de ruleta multibola. Lanza varias bolas a la vez y reinventa la rueda: añade colores, cambia números, ajusta pagos y acumula multiplicadores con 100+ recuerdos y 50 bolas trucadas. Sales en directo y el Presentador marioneta sonríe: cumple sus metas o este retorcido concurso acaba contigo.",
@@ -103,63 +135,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Rumano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -266,5 +313,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4066520/eeefa676fc65e0e1435f015905ab21304c4f5ba4/ss_eeefa676fc65e0e1435f015905ab21304c4f5ba4.1920x1080.jpg?t=1795120742"
     }
   ],
-  "consultado": "2026-11-22T22:09:39.809Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 402214,
+  "youtube": [
+    {
+      "id": "qGThPmEAQkc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:53:22.280Z"
 }

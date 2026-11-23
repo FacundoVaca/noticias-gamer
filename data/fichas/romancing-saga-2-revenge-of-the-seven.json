@@ -1,9 +1,9 @@
 {
   "clave": "romancing saga 2 revenge of the seven",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01900d2e-2d1d-709e-b15a-dfb684e973ed",
   "appid": "2455640",
@@ -49,6 +49,38 @@
       "url": "https://opencritic.com/game/17509/romancing-saga-2-revenge-of-the-seven"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1080647",
+      "nombre": "Romancing SaGa 2: Revenge of the Seven",
+      "apps": [
+        {
+          "appid": "2455640",
+          "nombre": "Romancing SaGa 2: Revenge of the Seven"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2455640": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4612010",
+      "nombre": "Romancing SaGa 2: Revenge of the Seven Original Soundtrack",
+      "gratis": false,
+      "usd": 8.94,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Gobierna y expande el Imperio de Varennes a lo largo de varias generaciones, enfrenta a los Seven Heroes en una batalla de milenios de duración y toma decisiones que modificarán radicalmente el curso de tu aventura en este RPG no lineal.",
   "generos": [
     "Rol"
@@ -58,6 +90,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/romancing-saga-2-revenge-of-the-seven?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Romancing SaGa 2: Revenge of the Seven",
   "acerca": [
     [
@@ -168,35 +201,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -304,5 +345,22 @@
     }
   ],
   "web": "https://romancingsaga2.com",
-  "consultado": "2026-11-22T22:14:30.559Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 306154,
+  "youtube": [
+    {
+      "id": "SaNbHju85Ts",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "gB4JA-KuFVA",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:40.958Z"
 }

@@ -1,13 +1,13 @@
 {
   "clave": "star wars battlefront ii",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1b60-7380-8a75-fd184ab29229",
   "appid": "1237950",
-  "lanzamiento": null,
+  "lanzamiento": "2017-11-17",
   "desarrolladores": [
     "DICE"
   ],
@@ -42,6 +42,28 @@
       "url": "https://metacritic.com/game/star-wars-battlefront-ii/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "436045",
+      "nombre": "STAR WARS™ Battlefront™ II: Celebration Edition",
+      "apps": [
+        {
+          "appid": "1237950",
+          "nombre": "STAR WARS™ Battlefront™ II"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1237950": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Saca tu lado heroico en la aventura definitiva de STAR WARS™ con STAR WARS™ Battlefront™ II: Celebration Edition!",
   "generos": [
     "Acción",
@@ -49,6 +71,7 @@
   ],
   "lanzamientoTexto": "11 JUN 2020",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "STAR WARS™ Battlefront™ II",
   "acerca": [
     [
@@ -95,47 +118,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -243,5 +277,30 @@
     }
   ],
   "web": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
-  "consultado": "2026-11-22T22:07:09.053Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "igdbIntentado": true,
+  "igdb": 26401,
+  "youtube": [
+    {
+      "id": "9zjeOjWtKqs",
+      "nombre": "Heroes Trailer"
+    },
+    {
+      "id": "8tnGE9R-ZQg",
+      "nombre": "Community Update Trailer"
+    },
+    {
+      "id": "_q51LZ2HpbE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Kae-JjbLsgA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:17.792Z"
 }

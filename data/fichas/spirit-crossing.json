@@ -1,9 +1,9 @@
 {
   "clave": "spirit crossing",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b0497-ecd1-70c1-8e65-57b284574274",
   "appid": "2321960",
@@ -31,6 +31,28 @@
       "url": "https://store.steampowered.com/app/2321960/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "833958",
+      "nombre": "Spirit Crossing",
+      "apps": [
+        {
+          "appid": "2321960",
+          "nombre": "Spirit Crossing"
+        }
+      ],
+      "usd": 13.04,
+      "antes": 14.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "2321960": {
+      "usd": 13.04,
+      "gratis": false
+    }
+  },
   "descripcion": "Adéntrate en la Encrucijada, entre el mundo humano y el Reino Espiritual, y descubre una comunidad amable y creativa que siempre te dará la bienvenida. En este juego de simulación multijugador de los creadores de Cozy Grove hay amistades, travesuras y un sinfín de oportunidades para expresarte.",
   "generos": [
     "Aventura",
@@ -42,6 +64,7 @@
   ],
   "lanzamientoTexto": "16 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Spirit Crossing",
   "acerca": [
     [
@@ -158,55 +181,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -314,5 +350,29 @@
     }
   ],
   "web": "https://playspiritcrossing.com/",
-  "consultado": "2026-11-22T22:09:10.964Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 336502,
+  "youtube": [
+    {
+      "id": "RNGs3tLPaF0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "1ztQ2R6jxcw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Xr0lAIZ8fUU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8PJE7G4oDgY",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:51.455Z"
 }

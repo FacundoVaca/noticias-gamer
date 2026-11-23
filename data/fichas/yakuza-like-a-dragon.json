@@ -1,9 +1,9 @@
 {
   "clave": "yakuza like a dragon",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4263-733b-b061-5d1945668bdd",
   "appid": "1235140",
@@ -49,6 +49,99 @@
       "url": "https://opencritic.com/game/8628/yakuza-like-a-dragon"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "561449",
+      "nombre": "Yakuza: Like a Dragon",
+      "apps": [
+        {
+          "appid": "1235140",
+          "nombre": "Yakuza: Like a Dragon"
+        }
+      ],
+      "usd": 5.94,
+      "antes": 16.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "561450",
+      "nombre": "Yakuza: Like a Dragon Hero Edition",
+      "apps": [
+        {
+          "appid": "1235140",
+          "nombre": "Yakuza: Like a Dragon"
+        }
+      ],
+      "usd": 7.34,
+      "antes": 20.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "561451",
+      "nombre": "Yakuza: Like a Dragon Legendary Hero Edition",
+      "apps": [
+        {
+          "appid": "1235140",
+          "nombre": "Yakuza: Like a Dragon"
+        }
+      ],
+      "usd": 9.09,
+      "antes": 25.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "1235140": {
+      "usd": 5.94,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "1289211",
+      "nombre": "Yakuza: Like a Dragon Legends Costume Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 40
+    },
+    {
+      "appid": "1289191",
+      "nombre": "Yakuza: Like a Dragon Ultimate Costume Set",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1289190",
+      "nombre": "Yakuza: Like a Dragon Management Mode Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 40
+    },
+    {
+      "appid": "1289234",
+      "nombre": "Yakuza: Like a Dragon Karaoke Set",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1253350",
+      "nombre": "Yakuza: Like a Dragon Job Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 40
+    },
+    {
+      "appid": "1261270",
+      "nombre": "Yakuza: Like a Dragon Pachislot Machines",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Conviértete en Ichiban Kasuga, un yakuza de bajo rango al que el hombre en el que más confiaba dejó al borde de la muerte. Agarra tu bate legendario y prepárate para reventar cráneos de los bajos fondos en un dinámico combate RPG ambientado en el Japón actual.",
   "generos": [
     "Acción",
@@ -60,6 +153,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/yakuza-like-a-dragon?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Yakuza: Like a Dragon",
   "acerca": [
     [
@@ -109,47 +203,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -249,5 +354,32 @@
     }
   ],
   "web": "https://likeadragon.sega.com/",
-  "consultado": "2026-11-22T22:14:28.412Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence, Partial Nudity, Sexual Themes, Strong Language, and Use of Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 36550,
+  "youtube": [
+    {
+      "id": "FeZ_Z1diuig",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "79sDRvm8yk8",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "7s5C-BG9glU",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "eFyLdQpnDvI",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:47.937Z"
 }

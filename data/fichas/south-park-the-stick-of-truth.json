@@ -1,9 +1,9 @@
 {
   "clave": "south park the stick of truth",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea28-7385-82ae-194da55d7217",
   "appid": "213670",
@@ -47,6 +47,45 @@
       "url": "https://opencritic.com/game/537/south-park-the-stick-of-truth"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "38087",
+      "nombre": "South Park™: The Stick of Truth™",
+      "apps": [
+        {
+          "appid": "213670",
+          "nombre": "South Park™: The Stick of Truth™"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 23.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "213670": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "257370",
+      "nombre": "South Park™: The Stick of Truth™ - Ultimate Fellowship Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "257371",
+      "nombre": "South Park™: The Stick of Truth™ - Super Samurai Spaceman Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    }
+  ],
   "descripcion": "De entre los mortíferos campos de batalla del patio de recreo de cuarto curso, un joven héroe se alzará, destinado a ser el salvador de South Park. De los creadores de South Park, Trey Parker y Matt Stone, llega una épica aventura para llegar a ser... guay. Presentamos: South Park™: The Stick of Truth™.",
   "generos": [
     "Acción",
@@ -55,6 +94,7 @@
   ],
   "lanzamientoTexto": "3 MAR 2014",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "South Park™: The Stick of Truth™",
   "acerca": [
     [
@@ -126,35 +166,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -254,5 +302,30 @@
     }
   ],
   "web": "http://southpark.ubi.com/stickoftruth/en-us/home/index.aspx",
-  "consultado": "2026-11-22T22:07:25.376Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 1262,
+  "youtube": [
+    {
+      "id": "IaaV29_Gq-g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bkZHv-9e2ro",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "5tLmOcBjYFg",
+      "nombre": "E3 2013 Trailer"
+    },
+    {
+      "id": "vSbrSENOvMQ",
+      "nombre": "VGX 2013 Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:12.323Z"
 }

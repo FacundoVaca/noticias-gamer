@@ -1,9 +1,9 @@
 {
   "clave": "danganronpa trigger happy havoc",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1f46-7086-bcd3-cd18f962376b",
   "appid": "413410",
@@ -42,6 +42,28 @@
       "url": "https://metacritic.com/game/dangan-ronpa/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "82833",
+      "nombre": "Danganronpa: Trigger Happy Havoc",
+      "apps": [
+        {
+          "appid": "413410",
+          "nombre": "Danganronpa: Trigger Happy Havoc"
+        }
+      ],
+      "usd": 1.04,
+      "antes": 10.49,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "413410": {
+      "usd": 1.04,
+      "gratis": false
+    }
+  },
   "descripcion": "Investiga asesinatos, busca pistas y habla con tus compañeros de clase. Tendrás que implicarte en juegos de palabras mortales y hablar con los sospechosos. ¡Disecciona sus declaraciones y contradice sus palabras para exponer sus mentiras! Solo hay una forma de sobrevivir: apretar el gatillo.",
   "generos": [
     "Aventura"
@@ -51,6 +73,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/danganronpa-trigger-happy-havoc?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Danganronpa: Trigger Happy Havoc",
   "acerca": [
     [
@@ -96,15 +119,18 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -195,5 +221,28 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413410/ss_1a54ebbd0bedfd7b434e0450fe1aa34a2a94c125.1920x1080.jpg?t=1781085607"
     }
   ],
-  "consultado": "2026-11-22T22:16:08.974Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7842,
+  "youtube": [
+    {
+      "id": "9vI_sxaRqyE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TLWM6m37lfU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "66smDyUL5Mk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:44.821Z"
 }

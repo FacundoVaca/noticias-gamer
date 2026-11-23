@@ -1,9 +1,9 @@
 {
   "clave": "sea power naval combat in the missile age",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4257-70c8-bd0e-87bba3f474d9",
   "appid": "1286220",
@@ -30,6 +30,38 @@
       "url": "https://store.steampowered.com/app/1286220/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "448359",
+      "nombre": "Sea Power",
+      "apps": [
+        {
+          "appid": "1286220",
+          "nombre": "Sea Power : Naval Combat in the Missile Age"
+        }
+      ],
+      "usd": 18.39,
+      "antes": 22.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1286220": {
+      "usd": 18.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3294530",
+      "nombre": "Sea Power Soundtrack",
+      "gratis": false,
+      "usd": 4.63,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Del diseñador jefe de Cold Waters, Sea Power te permite controlar las fuerzas de la OTAN y del Pacto de Varsovia empleando sus avanzados sistemas y armas, respetando las Reglas de Enfrentamiento para poder así derrotar al enemigo en medio de una tensa batalla por la supremacía aeronaval.",
   "generos": [
     "Acción",
@@ -39,6 +71,7 @@
   ],
   "lanzamientoTexto": "12 NOV 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Sea Power : Naval Combat in the Missile Age",
   "acerca": [
     [
@@ -140,35 +173,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -268,5 +309,17 @@
     }
   ],
   "web": "https://www.triassicgames.com",
-  "consultado": "2026-11-22T22:07:05.644Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 217518,
+  "youtube": [
+    {
+      "id": "kZFrX3ePvRM",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:00.150Z"
 }

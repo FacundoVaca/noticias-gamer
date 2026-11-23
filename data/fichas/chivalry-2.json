@@ -1,9 +1,9 @@
 {
   "clave": "chivalry 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3a69-719a-a766-acba4a891b96",
   "appid": "1824220",
@@ -51,6 +51,58 @@
       "url": "https://opencritic.com/game/11293/chivalry-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "655992",
+      "nombre": "Chivalry 2",
+      "apps": [
+        {
+          "appid": "1824220",
+          "nombre": "Chivalry 2"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1326094",
+      "nombre": "Chivalry 2",
+      "apps": [
+        {
+          "appid": "1824220",
+          "nombre": "Chivalry 2"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1824220": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1998240",
+      "nombre": "Chivalry 2 - Special Edition Content",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 80
+    },
+    {
+      "appid": "2140440",
+      "nombre": "Chivalry 2 - King's Edition Content",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 80
+    }
+  ],
   "descripcion": "Vuelve al campo de batalla medieval definitivo. Chivalry 2 es un juego multijugador de batallas en primera persona inspiradas en las películas de estilo medieval.",
   "generos": [
     "Acción",
@@ -61,6 +113,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/chivalry-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Chivalry 2",
   "acerca": [
     [
@@ -105,51 +158,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -241,5 +306,31 @@
     }
   ],
   "web": "https://chivalry2.com/",
-  "consultado": "2026-11-22T22:07:31.852Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Intense Violence, Blood and Gore, Mild Sexual Themes, Language, Use of Alcohol",
+  "igdbIntentado": true,
+  "igdb": 119342,
+  "youtube": [
+    {
+      "id": "mN2n02ckVSA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ESPXnkkx1rA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "oZUGJOtSyhA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "bC5p_ZKNrU8",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:20.188Z"
 }

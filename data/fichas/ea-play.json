@@ -1,6 +1,5 @@
 {
   "clave": "ea play",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -29,6 +28,7 @@
       "url": "https://store.steampowered.com/app/1289670/"
     }
   ],
+  "tipo": "juego",
   "descripcion": "Desbloquea un mundo de emociones. Obtén acceso ilimitado a una colección de los mejores títulos de EA, pruebas de una selección de títulos nuevos, y descuentos y recompensas para miembros*.",
   "generos": [
     "Acción",
@@ -86,7 +86,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -190,5 +191,11 @@
     }
   ],
   "web": "https://www.ea.com/ea-play",
-  "consultado": "2026-11-22T22:14:24.042Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T09:48:39.177Z"
 }

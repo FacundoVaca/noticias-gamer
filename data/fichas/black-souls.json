@@ -1,9 +1,9 @@
 {
   "clave": "black souls",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01975d7a-6241-73e3-8b9c-714cbbdd0e51",
   "appid": "3755860",
@@ -36,6 +36,28 @@
       "url": "https://metacritic.com/game/black-souls/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1321743",
+      "nombre": "BLACK SOULS",
+      "apps": [
+        {
+          "appid": "3755860",
+          "nombre": "BLACK SOULS"
+        }
+      ],
+      "usd": 6.23,
+      "antes": 7.79,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3755860": {
+      "usd": 6.23,
+      "gratis": false
+    }
+  },
   "descripcion": "Long, long ago, there existed a kingdom shrouded in dense mist: the Lost Empire. This mist twisted humans into terrifying beasts, plunging the world into despair. War raged endlessly. Heroes rose, seeking fame and glory. It is in this place you awaken—a nameless undead.",
   "generos": [
     "Aventura",
@@ -44,6 +66,7 @@
   ],
   "lanzamientoTexto": "15 AGO 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "BLACK SOULS",
   "acerca": [
     [
@@ -128,23 +151,28 @@
   "idiomas": [
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -224,5 +252,18 @@
     }
   ],
   "web": "https://otaku-plan.net/",
-  "consultado": "2026-11-22T22:15:42.848Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game contains depictions of extreme violence. The topics of the game's story include drug and alcohol abuse, and self-harm. Please consider playing or not.",
+  "igdbIntentado": true,
+  "igdb": 349235,
+  "youtube": [
+    {
+      "id": "xdEX_VZ8sVw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:29.755Z"
 }

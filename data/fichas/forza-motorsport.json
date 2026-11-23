@@ -1,9 +1,9 @@
 {
   "clave": "forza motorsport",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ef3-7304-b90f-6271e4c79585",
   "appid": "2440510",
@@ -49,12 +49,323 @@
       "url": "https://opencritic.com/game/15504/forza-motorsport"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "878254",
+      "nombre": "Forza Motorsport Standard Edition",
+      "apps": [
+        {
+          "appid": "2440510",
+          "nombre": "Forza Motorsport"
+        }
+      ],
+      "usd": 14.09,
+      "antes": 35.23,
+      "descuento": 60
+    },
+    {
+      "packageid": "919027",
+      "nombre": "Forza Motorsport Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2440510",
+          "nombre": "Forza Motorsport"
+        }
+      ],
+      "usd": 16.45,
+      "antes": 41.14,
+      "descuento": 60
+    },
+    {
+      "packageid": "919028",
+      "nombre": "Forza Motorsport Premium Edition",
+      "apps": [
+        {
+          "appid": "2440510",
+          "nombre": "Forza Motorsport"
+        }
+      ],
+      "usd": 18.82,
+      "antes": 47.05,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2440510": {
+      "usd": 14.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 37,
+  "dlcLista": [
+    {
+      "appid": "3472460",
+      "nombre": "Forza Motorsport: Racing Heroes Car Pack",
+      "gratis": false,
+      "usd": 1.34,
+      "descuento": 60
+    },
+    {
+      "appid": "2557390",
+      "nombre": "Forza Motorsport Car Pass",
+      "gratis": false,
+      "usd": 4.87,
+      "descuento": 60
+    },
+    {
+      "appid": "2557400",
+      "nombre": "Forza Motorsport VIP",
+      "gratis": false,
+      "usd": 3.78,
+      "descuento": 60
+    },
+    {
+      "appid": "2557410",
+      "nombre": "Forza Motorsport Race Day Car Pack",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 60
+    },
+    {
+      "appid": "2557420",
+      "nombre": "Forza Motorsport Welcome Pack",
+      "gratis": false,
+      "usd": 0.9,
+      "descuento": 60
+    },
+    {
+      "appid": "2921330",
+      "nombre": "Forza Motorsport Porsche 963 Combo",
+      "gratis": false,
+      "usd": 0.9,
+      "descuento": 60
+    },
+    {
+      "appid": "2573690",
+      "nombre": "Forza Motorsport 2018 Volkswagen #22 Experion Racing Golf GTI",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2573700",
+      "nombre": "Forza Motorsport 2019 Dodge #9 American V8 Road Racing TA Challenger",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2573710",
+      "nombre": "Forza Motorsport 1999 Nissan #23 NISMO Clarion R391",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2573720",
+      "nombre": "Forza Motorsport 2020 BMW M2 Competition Coupe",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2573730",
+      "nombre": "Forza Motorsport 2017 Oreca #38 Jackie Chan DC Racing Oreca 07",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2573740",
+      "nombre": "Forza Motorsport 1991 Ford #15 Roush Racing Whistler Mustang",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612060",
+      "nombre": "Forza Motorsport 1965 Lotus #1 Team Lotus Type 40",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612070",
+      "nombre": "Forza Motorsport 2019 McLaren #03 720S GT3",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612080",
+      "nombre": "Forza Motorsport 2018 Mercedes-AMG\tGT3",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612090",
+      "nombre": "Forza Motorsport 2018 Peugeot #7 DG Sport Compétition 308",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612100",
+      "nombre": "Forza Motorsport 2018 Chevrolet #23 Ruman Racing TA Corvette",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612110",
+      "nombre": "Forza Motorsport 1985 Buick #6 Performance Motorsports Somerset Regal Trans-Am",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612120",
+      "nombre": "Forza Motorsport 2021 Cadillac #31 Whelen Racing DPi-V.R",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612130",
+      "nombre": "Forza Motorsport 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612140",
+      "nombre": "Forza Motorsport 1983 Porsche #11 John Fitzpatrick Racing 956",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2612150",
+      "nombre": "Forza Motorsport 2019 McLaren Senna GTR",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662850",
+      "nombre": "Forza Motorsport 2019 Ferrari #62 Risi Competizione 488 GTE",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662860",
+      "nombre": "Forza Motorsport 2022 Aston Martin Valkyrie AMR Pro",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662880",
+      "nombre": "Forza Motorsport 1966 Lotus type 35",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662890",
+      "nombre": "Forza Motorsport 2015 Cadillac #3 Cadillac Racing ATS-V.R",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662900",
+      "nombre": "Forza Motorsport 2018 Ford #98 Breathless Pro Racing TA Mustang",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662910",
+      "nombre": "Forza Motorsport 2020 Audi TT RS Coupe",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662930",
+      "nombre": "Forza Motorsport 2019 Toyota 86 TRD SE",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662940",
+      "nombre": "Forza Motorsport 2020 Lexus #14 VASSER SULLIVAN RC F GT3",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2662950",
+      "nombre": "Forza Motorsport 1986 Lotus #12 Team Lotus 98T",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2673230",
+      "nombre": "Forza Motorsport 2018 Cadillac #57 TA CTS-V",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2833110",
+      "nombre": "Forza Motorsport 1983 Nissan #23 Nissan Motorsports Silvia Super Silhouette",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2833220",
+      "nombre": "Forza Motorsport 1970 Matra-Simca #146 Equipe Matra-Simca MS650 Tour de France",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2833230",
+      "nombre": "Forza Motorsport 2016 Ligier #11 Eurointernational JS P3",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "2862340",
+      "nombre": "Forza Motorsport 2019 Ginetta G55 GT4",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    },
+    {
+      "appid": "3118460",
+      "nombre": "Forza Motorsport 2024 Ford Mustang Dark Horse",
+      "gratis": false,
+      "usd": 1.3,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Supera a tus rivales en el modo Carrera. Compite por el mundo en el multijugador. Compite con más de 500 coches en 27 circuitos famosos. ¡Ahora, con el emocionante Nürburgring Nordschleife!",
   "generos": [
     "Carreras"
   ],
   "lanzamientoTexto": "9 OCT 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Forza Motorsport",
   "acerca": [
     [
@@ -100,87 +411,108 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -288,5 +620,30 @@
     }
   ],
   "web": "http://www.forzamotorsport.net",
-  "consultado": "2026-11-22T22:08:58.300Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 78511,
+  "youtube": [
+    {
+      "id": "JvNrcg1gWb0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "aL4h5cMONIs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7hrsYu8Vy04",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "em4gv1Ietko",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:53:50.762Z"
 }

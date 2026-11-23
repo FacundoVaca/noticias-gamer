@@ -1,9 +1,9 @@
 {
   "clave": "it thinks build your own gpu",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a06836-db67-7263-9b9f-e34b58b497ce",
   "appid": "5196330",
@@ -27,6 +27,38 @@
       "puntaje": 78,
       "cantidad": 14,
       "url": "https://store.steampowered.com/app/5196330/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1798110",
+      "nombre": "chipwright",
+      "apps": [
+        {
+          "appid": "5196330",
+          "nombre": "IT THINKS! - Build Your Own GPU"
+        }
+      ],
+      "usd": 6.47,
+      "antes": 8.09,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "5196330": {
+      "usd": 6.47,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5198250",
+      "nombre": "IT THINKS! - Build Your Own GPU Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "Diseña el chip que impulsa la IA. Empieza con una sola puerta lógica y construye un ordenador: conecta circuitos, convierte tus diseños en chips reutilizables, programa pequeños kernels y amplía tu arquitectura hasta crear una GPU funcional.",
@@ -297,5 +329,20 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/522232f447c4b2c52e102e733514a015bb95b201/ss_522232f447c4b2c52e102e733514a015bb95b201.1920x1080.jpg?t=1795166083"
     }
   ],
-  "consultado": "2026-11-22T22:13:51.509Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 417229,
+  "youtube": [
+    {
+      "id": "9z7x3kFg08U",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:52.313Z"
 }

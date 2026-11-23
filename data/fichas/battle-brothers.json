@@ -1,9 +1,9 @@
 {
   "clave": "battle brothers",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2054-717c-a9c2-a4be89c032e7",
   "appid": "365360",
@@ -50,6 +50,94 @@
       "url": "https://opencritic.com/game/4157/battle-brothers"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "65906",
+      "nombre": "Battle Brothers",
+      "apps": [
+        {
+          "appid": "365360",
+          "nombre": "Battle Brothers"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 14.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "365360": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "1910050",
+      "nombre": "Battle Brothers - Of Flesh and Faith",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1361280",
+      "nombre": "Battle Brothers - Blazing Deserts",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1067690",
+      "nombre": "Battle Brothers - Warriors of the North",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "961930",
+      "nombre": "Battle Brothers - Beasts & Exploration",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "732460",
+      "nombre": "Battle Brothers - Lindwurm",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "365380",
+      "nombre": "Battle Brothers - Soundtrack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1362330",
+      "nombre": "Battle Brothers - Support the Developers & Southern Banner",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "1067750",
+      "nombre": "Battle Brothers - Support the Developers & Nordic Banner",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "986090",
+      "nombre": "Battle Brothers - Support the Developers & Kraken Banner",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Lidera una compañía de mercenarios en este RPG táctico de fantasía medieval. Busca fama y fortuna mientras decides qué camino tomar, a quién reclutar y qué encargos aceptar. Entrena y equipa a tus hombres en una campaña de mundo abierto generada por procedimientos.",
   "generos": [
     "Rol",
@@ -61,6 +149,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/battle-brothers?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Battle Brothers",
   "acerca": [
     [
@@ -107,7 +196,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -199,5 +289,29 @@
     }
   ],
   "web": "http://battlebrothersgame.com/",
-  "consultado": "2026-11-22T22:08:13.901Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 14394,
+  "youtube": [
+    {
+      "id": "9leAps8dh5E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "C5_eSS-NTeU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "z5h0RhOdKdY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6-mtBvBho9U",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:53.373Z"
 }

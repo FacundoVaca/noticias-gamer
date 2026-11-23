@@ -1,9 +1,9 @@
 {
   "clave": "hi fi rush",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6990-73cf-b4c2-abef94962c8a",
   "appid": "1817230",
@@ -49,6 +49,94 @@
       "url": "https://opencritic.com/game/14227/hi-fi-rush"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "653464",
+      "nombre": "Hi-Fi RUSH",
+      "apps": [
+        {
+          "appid": "1817230",
+          "nombre": "Hi-Fi RUSH"
+        }
+      ],
+      "usd": 8.09,
+      "antes": 17.99,
+      "descuento": 55
+    },
+    {
+      "packageid": "809227",
+      "nombre": "Hi-Fi RUSH Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1817230",
+          "nombre": "Hi-Fi RUSH"
+        },
+        {
+          "appid": "2076280",
+          "nombre": "Paquete de mejoras, edición Deluxe de Hi-Fi RUSH"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1817230": {
+      "usd": 8.09,
+      "gratis": false
+    },
+    "2076280": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "2076280",
+      "nombre": "Paquete de mejoras, edición Deluxe de Hi-Fi RUSH",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2341310",
+      "nombre": "Banda sonora original de Hi-Fi RUSH",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2314670",
+      "nombre": "Hi-Fi RUSH: paquete de trajes Jefazosplay",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2314700",
+      "nombre": "Hi-Fi RUSH: Paquete de trajes de equipo",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2365950",
+      "nombre": "Hi-Fi RUSH: Paquete de trajes tradicionales",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2627290",
+      "nombre": "Las caras B de Hi-Fi RUSH",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Pon a prueba tu destreza en dos nuevos modos de juego, descubre nuevas recompensas y secretos en la actualización «Reto arcade». Siente el ritmo y acompaña a Chai y a su grupo en su lucha contra una malvada empresa en un mundo sincronizado con la música.",
   "generos": [
     "Acción"
@@ -58,6 +146,7 @@
     "puntaje": 90,
     "url": "https://www.metacritic.com/game/pc/hi-fi-rush?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Hi-Fi RUSH",
   "acerca": [
     [
@@ -104,59 +193,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -248,5 +351,18 @@
     }
   ],
   "web": "https://hifirush.com",
-  "consultado": "2026-11-22T22:09:33.455Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 233585,
+  "youtube": [
+    {
+      "id": "Y-2TR7_k8mE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:53:16.607Z"
 }

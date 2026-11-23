@@ -1,0 +1,460 @@
+{
+  "clave": "raidou remastered the mystery of the soulless army",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0195d81e-78c9-708b-97f8-15bd2755367f",
+  "appid": "2288350",
+  "lanzamiento": "2025-06-19",
+  "desarrolladores": [
+    "ATLUS",
+    "ATLUS Games"
+  ],
+  "editores": [
+    "SEGA",
+    "ATLUS"
+  ],
+  "etiquetas": [
+    "Action",
+    "Action-Adventure",
+    "Adventure",
+    "JRPG",
+    "Third Person"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 1072,
+      "url": "https://store.steampowered.com/app/2288350/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/raidou-remastered-the-mystery-of-the-soulless-army/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 76,
+      "url": "https://metacritic.com/game/raidou-remastered-the-mystery-of-the-soulless-army/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 82,
+      "url": "https://opencritic.com/game/18317/raidou-remastered-the-mystery-of-the-soulless-army"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "820892",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army",
+      "apps": [
+        {
+          "appid": "2288350",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1195689",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army  - Edición digital Deluxe",
+      "apps": [
+        {
+          "appid": "2288350",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army"
+        },
+        {
+          "appid": "2486841",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Demonios de la grieta zakuro"
+        },
+        {
+          "appid": "2486840",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Entrenamientos en la aldea Kuzunoha"
+        },
+        {
+          "appid": "2486842",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de demonios invitados"
+        },
+        {
+          "appid": "2486846",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de libros de habilidad"
+        },
+        {
+          "appid": "2486847",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de supervivencia"
+        }
+      ],
+      "usd": 25.99,
+      "antes": 51.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1195796",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Lote definitivo Devil Summoner",
+      "apps": [
+        {
+          "appid": "2486841",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Demonios de la grieta zakuro"
+        },
+        {
+          "appid": "2486840",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Entrenamientos en la aldea Kuzunoha"
+        },
+        {
+          "appid": "2486842",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de demonios invitados"
+        },
+        {
+          "appid": "2486846",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de libros de habilidad"
+        },
+        {
+          "appid": "2486847",
+          "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de supervivencia"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2288350": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "2486840": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "2486841": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2486842": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "2486846": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "2486847": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "2486842",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de demonios invitados",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2486841",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Demonios de la grieta zakuro",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2486846",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de libros de habilidad",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "2486840",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Entrenamientos en la aldea Kuzunoha",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2486847",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de supervivencia",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2486843",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Denominaciones demoníacas: Títulos de invocador",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2486844",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Un informe peculiar",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2486848",
+      "nombre": "RAIDOU Remastered: The Mystery of the Soulless Army - Paquete de equipamiento ligero de supervivencia",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡La historia del extraordinario Raidou Kuzunoha XIV, aprendiz de detective e invocador de demonios, vuelve en este clásico remasterizado! Invoca demonios para resolver misterios sobrenaturales y acaba con tus enemigos.",
+  "generos": [
+    "Acción",
+    "Rol"
+  ],
+  "lanzamientoTexto": "18 JUN 2025",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/raidou-remastered-the-mystery-of-the-soulless-army?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "RAIDOU Remastered: The Mystery of the Soulless Army",
+  "acerca": [
+    [
+      "p",
+      "Encárgate del caso del siglo en este clásico imprescindible de ATLUS. El estudio responsable de Shin Megami Tensei presenta una remasterización de \"Devil Summoner: Raidou Kuzunoha vs. The Soulless Army\" con gráficos renovados, mejoras generales, nuevo doblaje y un sistema de combate completamente actualizado."
+    ],
+    [
+      "p",
+      "Capital, año 20 de la era Taisho."
+    ],
+    [
+      "p",
+      "Una heredera de noble cuna visita la agencia de detectives Narumi con una extraña petición: quiere que la maten. Sin más explicaciones, la joven es secuestrada. El aprendiz de detective Raidou Kuzunoha XIV, que ejerce en secreto como invocador de demonios para proteger la capital, se ocupa del caso. Las pesquisas de Raidou lo llevan por toda la ciudad y hasta el antimundo, una temible encrucijada entre el mundo terrenal y el inframundo donde los demonios campan a sus anchas."
+    ],
+    [
+      "p",
+      "Métete en la piel de Raidou Kuzunoha y trabaja con tus demonios aliados para desentrañar los misterios que obstaculizan tu camino. Lo que comenzó como una mera desaparición pronto se convierte en una conspiración que sacudirá no solo la capital, sino a toda la nación."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS PRINCIPALES"
+    ],
+    [
+      "p",
+      "Una remasterización mejorada y fiel:"
+    ],
+    [
+      "p",
+      "El mítico RPG de acción sobrenatural regresa adaptado con mejoras visuales, sonoras y de combate para las consolas actuales sin perder la esencia del juego original. La nueva interfaz, el doblaje integral, los entornos tridimensionales mejorados y otras novedades brindan tanto a veteranos como a recién llegados una experiencia de juego nostálgica y vibrante."
+    ],
+    [
+      "p",
+      "Una aventura detectivesca sobrenatural:"
+    ],
+    [
+      "p",
+      "Saca al detective que llevas dentro en una envolvente aventura sobrenatural repleta de carismáticos y misteriosos personajes. Desvela las intrigas que sacuden la capital en una aventura repleta de giros y sorpresas. Emplea la astucia y el poder de tus demonios para no dejar cabos sueltos."
+    ],
+    [
+      "p",
+      "Un misterio de fantasía en la era Taisho:"
+    ],
+    [
+      "p",
+      "Recorre las históricas calles de un Tokio mágico ambientado en los años treinta o adéntrate en el inquietante antimundo, donde acechan los demonios. Con más de 120 demonios que invocar, elige con astucia a tus aliados para impedir que las tinieblas devoren a la humanidad."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Opción solo teclado",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Compatible con Steam Input"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2550K or AMD FX-4350"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTS 450, 1GB or AMD Radeon R7 250, 1GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low 720p @ 60 FPS. Microsoft no longer supports Windows 10 or older versions"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 or AMD Ryzen 3 2300X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 760, 4 GB or AMD Radeon RX 560, 4 GB or Intel Arc A310, 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p @ 60 FPS. Microsoft no longer supports Windows 10 or older versions"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_e40336ee0c347123a7328d149b21023c81479ab0.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_e40336ee0c347123a7328d149b21023c81479ab0.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_961772b4ddc288277d51d8aea03ec5f54a47c68d.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_961772b4ddc288277d51d8aea03ec5f54a47c68d.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_8a03eccfcee121fe4e16485cdbbce61f6903c61a.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_8a03eccfcee121fe4e16485cdbbce61f6903c61a.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_2dcd6f4aec58c932e1e5fce6fc3021e42d8b1a7e.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_2dcd6f4aec58c932e1e5fce6fc3021e42d8b1a7e.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_e0c493aa56a2378f8d9841d45e6ac8f90457331d.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_e0c493aa56a2378f8d9841d45e6ac8f90457331d.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_a86e9eb2cae645b854d3b514580e8fcb7ebf942d.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_a86e9eb2cae645b854d3b514580e8fcb7ebf942d.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_3b8c77e80ce27fe18f05767eb67e34927ed2bcef.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_3b8c77e80ce27fe18f05767eb67e34927ed2bcef.1920x1080.jpg?t=1762275663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_110edad2ed7275a55def9852334485b0844da868.600x338.jpg?t=1762275663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/ss_110edad2ed7275a55def9852334485b0844da868.1920x1080.jpg?t=1762275663"
+    }
+  ],
+  "web": "https://www.sega.com/raidou/raidou-remastered-the-mystery-of-the-soulless-army",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Game contains violence, blood & gore, partial nudity, and suggestive themes.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 337024,
+  "youtube": [
+    {
+      "id": "wrbHRMm0txM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "uUEWLLvgUTE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LEP_7CLiV8c",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:47:52.242Z"
+}

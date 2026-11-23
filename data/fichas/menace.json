@@ -1,9 +1,9 @@
 {
   "clave": "menace",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-745d-7177-bd14-763e5c014e70",
   "appid": "2432860",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/2432860/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "875528",
+      "nombre": "MENACE",
+      "apps": [
+        {
+          "appid": "2432860",
+          "nombre": "MENACE"
+        }
+      ],
+      "usd": 14.79,
+      "antes": 19.99,
+      "descuento": 26
+    }
+  ],
+  "sueltos": {
+    "2432860": {
+      "usd": 14.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Lucha contra la amenaza alienígena en un juego de rol táctico de los creadores de Battle Brothers. Multitud de planetas piden auxilio: prepara tu infantería, tus tanques y tus mechas, planifica tus misiones y ponlas en marcha en batallas por turnos llenas de detalle.",
   "generos": [
     "Rol",
@@ -39,6 +61,7 @@
   ],
   "lanzamientoTexto": "5 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "MENACE",
   "acerca": [
     [
@@ -88,55 +111,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -240,5 +276,29 @@
     }
   ],
   "web": "http://overhypestudios.com",
-  "consultado": "2026-11-22T22:07:18.992Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 262664,
+  "youtube": [
+    {
+      "id": "bObrLMisJ-E",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "9--c-wtB5jE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "430SRjZUbNo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Jdwm4F-I_tI",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:40.140Z"
 }

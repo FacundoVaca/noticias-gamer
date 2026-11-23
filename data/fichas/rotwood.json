@@ -1,9 +1,9 @@
 {
   "clave": "rotwood",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee4-73f5-858c-2fde3749d3b9",
   "appid": "2015270",
@@ -35,6 +35,38 @@
       "url": "https://metacritic.com/game/rotwood/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "727587",
+      "nombre": "Rotwood",
+      "apps": [
+        {
+          "appid": "2015270",
+          "nombre": "Rotwood"
+        }
+      ],
+      "usd": 4.34,
+      "antes": 6.59,
+      "descuento": 34
+    }
+  ],
+  "sueltos": {
+    "2015270": {
+      "usd": 4.34,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5067220",
+      "nombre": "Rotwood: Drakin Armoury Pack",
+      "gratis": false,
+      "usd": 1.09,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The world has been thrown into chaos, and it's up to you and your friends to battle the corrupted beasts of the Rotwood. Upgrade your gear, choose your preferred weapon, and hone your skills to defend your safe haven.",
   "generos": [
     "Acción",
@@ -43,6 +75,7 @@
   ],
   "lanzamientoTexto": "3 MAR 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Rotwood",
   "acerca": [
     [
@@ -125,47 +158,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -273,5 +317,30 @@
     }
   ],
   "web": "https://store.steampowered.com/app/2015270?utm_source=generic&amp;utm_medium=general&amp;utm_content=trailer&amp;utm_campaign=launch_trailer",
-  "consultado": "2026-11-22T22:14:50.230Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 204633,
+  "youtube": [
+    {
+      "id": "BEzghWgk2Q8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "r-dkr5CRFIk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "icinztdvdlk",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "SoTNhVPzmC8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:13.284Z"
 }

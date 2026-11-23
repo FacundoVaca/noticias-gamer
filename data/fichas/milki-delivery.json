@@ -1,9 +1,9 @@
 {
   "clave": "milki delivery",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019bbd15-d372-70df-a41d-db9f46a58397",
   "appid": "4259360",
@@ -43,6 +43,38 @@
       "url": "https://opencritic.com/game/21358/milki-delivery"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1490669",
+      "nombre": "Milki Delivery",
+      "apps": [
+        {
+          "appid": "4259360",
+          "nombre": "Milki Delivery"
+        }
+      ],
+      "usd": 3.19,
+      "antes": 3.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4259360": {
+      "usd": 3.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5433500",
+      "nombre": "Milki Delivery Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Devuélvele la vida a la comunidad con tu bicicleta y Milki, tu vaca, en esta pequeña aventura de reparto. Reúne recursos, mejora el establo y pedalea por los caminos de tierra, las praderas y la costa para llevar leche fresca a una zona rural casi abandonada.",
   "generos": [
     "Aventura",
@@ -52,6 +84,7 @@
   ],
   "lanzamientoTexto": "17 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Milki Delivery",
   "acerca": [
     [
@@ -157,7 +190,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -224,5 +258,23 @@
     }
   ],
   "web": "https://milkidelivery.carrd.co/",
-  "consultado": "2026-11-22T22:14:19.642Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 385308,
+  "youtube": [
+    {
+      "id": "gzkUyE4z1xI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "B2NUM2wJmRs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:30.930Z"
 }

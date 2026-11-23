@@ -1,9 +1,9 @@
 {
   "clave": "ultimate chicken horse",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-fda7-7357-babc-1dc4486fc980",
   "appid": "386940",
@@ -41,6 +41,51 @@
       "url": "https://opencritic.com/game/2422/ultimate-chicken-horse"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "73106",
+      "nombre": "Ultimate Chicken Horse",
+      "apps": [
+        {
+          "appid": "386940",
+          "nombre": "Ultimate Chicken Horse"
+        }
+      ],
+      "usd": 3.14,
+      "antes": 6.99,
+      "descuento": 55
+    },
+    {
+      "packageid": "340444",
+      "nombre": "Ultimate Chicken Horse - Commercial License",
+      "apps": [
+        {
+          "appid": "386940",
+          "nombre": "Ultimate Chicken Horse"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "386940": {
+      "usd": 3.14,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "493070",
+      "nombre": "Ultimate Chicken Horse Soundtrack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Ultimate Chicken Horse es un juego festivo de plataformas en el tú construyes el nivel mientras juegas, colocando trampas y obstáculos para fastidiar a tus amigos pero intentando no fastidiarte a ti mismo.",
   "generos": [
     "Acción",
@@ -49,6 +94,7 @@
   ],
   "lanzamientoTexto": "4 MAR 2016",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Ultimate Chicken Horse",
   "acerca": [
     [
@@ -135,63 +181,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -291,5 +352,32 @@
     }
   ],
   "web": "http://www.ultimatechickenhorse.com",
-  "consultado": "2026-11-22T22:13:34.025Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 18158,
+  "youtube": [
+    {
+      "id": "vnn2GmwFUpE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4KBUHwBx5i4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "-Zq_UJHryDI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Z3P6wulA9QI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:47.517Z"
 }

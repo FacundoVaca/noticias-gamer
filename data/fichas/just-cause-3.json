@@ -1,9 +1,9 @@
 {
   "clave": "just cause 3",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-17f6-721f-8f97-9ca83bdd15a4",
   "appid": "225540",
@@ -49,6 +49,173 @@
       "url": "https://opencritic.com/game/1528/just-cause-3"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "83242",
+      "nombre": "Just Cause 3",
+      "apps": [
+        {
+          "appid": "225540",
+          "nombre": "Just Cause™ 3"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 15.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "83239",
+      "nombre": "Just Cause 3 - Weaponized Vehicle Pack",
+      "apps": [
+        {
+          "appid": "388290",
+          "nombre": "Just Cause™ 3 - Combat Buggy"
+        },
+        {
+          "appid": "388291",
+          "nombre": "Just Cause™ 3 - Mini-Gun Racing Boat"
+        },
+        {
+          "appid": "388292",
+          "nombre": "Just Cause™ 3 - Rocket Launcher Sports Car"
+        }
+      ],
+      "usd": 1.19,
+      "antes": 3.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "83241",
+      "nombre": "Just Cause 3 - Explosive Weapon Pack",
+      "apps": [
+        {
+          "appid": "388294",
+          "nombre": "Just Cause™ 3 - Capstone Bloodhound RPG"
+        },
+        {
+          "appid": "388293",
+          "nombre": "Just Cause™ 3 - Final Argument Sniper Rifle"
+        }
+      ],
+      "usd": 1.19,
+      "antes": 3.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "225540": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "388290": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "388291": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "388292": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "388293": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "388294": {
+      "usd": 1.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "619910",
+      "nombre": "Just Cause™ 3: Multiplayer Mod",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "401850",
+      "nombre": "Just Cause™ 3 DLC: Air, Land & Sea Expansion Pass",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 75
+    },
+    {
+      "appid": "442051",
+      "nombre": "Just Cause™ 3 DLC: Bavarium Sea Heist Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "442052",
+      "nombre": "Just Cause™ 3 DLC: Reaper Missile Mech",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "400551",
+      "nombre": "Just Cause™ 3 DLC: Sky Fortress Pack",
+      "gratis": false,
+      "usd": 2.84,
+      "descuento": 70
+    },
+    {
+      "appid": "400490",
+      "nombre": "Just Cause™ 3 DLC: Mech Land Assault",
+      "gratis": false,
+      "usd": 2.84,
+      "descuento": 70
+    },
+    {
+      "appid": "388290",
+      "nombre": "Just Cause™ 3 - Combat Buggy",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "388291",
+      "nombre": "Just Cause™ 3 - Mini-Gun Racing Boat",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "388292",
+      "nombre": "Just Cause™ 3 - Rocket Launcher Sports Car",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "388293",
+      "nombre": "Just Cause™ 3 - Final Argument Sniper Rifle",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "388294",
+      "nombre": "Just Cause™ 3 - Capstone Bloodhound RPG",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "442050",
+      "nombre": "Just Cause™ 3 DLC: Kousavá Rifle",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Con más de 1000 km² de total libertad desde el fondo del mar hasta el cielo, prepárate para desatar el caos de la manera más explosiva y original que puedas imaginar.",
   "generos": [
     "Acción",
@@ -59,6 +226,7 @@
     "puntaje": 74,
     "url": "https://www.metacritic.com/game/pc/just-cause-3?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Just Cause™ 3",
   "acerca": [
     [
@@ -117,43 +285,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -237,5 +415,31 @@
     }
   ],
   "web": "https://justcause.com/",
-  "consultado": "2026-11-22T22:13:53.675Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 8187,
+  "youtube": [
+    {
+      "id": "ZlM91wtYkF0",
+      "nombre": "E3 Trailer"
+    },
+    {
+      "id": "Og_PbnkvNrA",
+      "nombre": "Mech Land Assault Launch Trailer"
+    },
+    {
+      "id": "Zg878eE0ppU",
+      "nombre": "Kasabian Trailer"
+    },
+    {
+      "id": "Vsu0dyahnTY",
+      "nombre": "On a mission Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:47.070Z"
 }

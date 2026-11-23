@@ -1,9 +1,9 @@
 {
   "clave": "need for speed most wanted",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f521-7381-80d7-e4aeb216f1e0",
   "appid": "1262560",
@@ -42,6 +42,66 @@
       "url": "https://metacritic.com/game/need-for-speed-most-wanted/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "438992",
+      "nombre": "Need for Speed™ Most Wanted",
+      "apps": [
+        {
+          "appid": "1262560",
+          "nombre": "Need for Speed™ Most Wanted"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 19.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1262560": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "1262570",
+      "nombre": "Need for Speed™ Most Wanted Premium Modification Unlock",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1262571",
+      "nombre": "Need for Speed™ Most Wanted Premium Timesavers Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1262572",
+      "nombre": "Paquete completo de DLC para Need for Speed™ Most Wanted ",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1262573",
+      "nombre": "Need for Speed™ Most Wanted Multiplayer Booster Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1271371",
+      "nombre": "Need for Speed™ Most Wanted Terminal Velocity Pack",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Ponte el cinturón, pisa a fondo y sal a liarla.",
   "generos": [
     "Acción",
@@ -53,6 +113,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-most-wanted---a-criterion-game?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Need for Speed™ Most Wanted",
   "acerca": [
     [
@@ -90,47 +151,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -210,5 +282,21 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2012",
-  "consultado": "2026-11-22T22:10:05.685Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 3193,
+  "youtube": [
+    {
+      "id": "IpGS1K9mLPQ",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "0-Imb_hTVmw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:55:35.341Z"
 }

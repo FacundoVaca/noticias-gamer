@@ -1,13 +1,13 @@
 {
   "clave": "call of duty ghosts",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-192f-72c0-a5dc-81dce349ed7b",
   "appid": "209160",
-  "lanzamiento": null,
+  "lanzamiento": "2013-11-05",
   "desarrolladores": [
     "Infinity Ward"
   ],
@@ -48,6 +48,750 @@
       "url": "https://opencritic.com/game/304/call-of-duty-ghosts"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "40443",
+      "nombre": "Call of Duty: Ghosts - Gold Edition",
+      "apps": [
+        {
+          "appid": "209160",
+          "nombre": "Call of Duty®: Ghosts"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "49997",
+      "nombre": "Call of Duty: Ghosts Complete Bundle",
+      "apps": [
+        {
+          "appid": "209160",
+          "nombre": "Call of Duty®: Ghosts"
+        },
+        {
+          "appid": "281344",
+          "nombre": "Call of Duty®: Ghosts - 1987 Pack"
+        },
+        {
+          "appid": "295440",
+          "nombre": "Call of Duty®: Ghosts - Abstract Pack"
+        },
+        {
+          "appid": "295437",
+          "nombre": "Call of Duty®: Ghosts - Astronaut Special Character"
+        },
+        {
+          "appid": "309872",
+          "nombre": "Call of Duty®: Ghosts - Bling Character Pack"
+        },
+        {
+          "appid": "295430",
+          "nombre": "Call of Duty®: Ghosts - Bling Pack"
+        },
+        {
+          "appid": "309870",
+          "nombre": "Call of Duty®: Ghosts - Blunt Force Character Pack"
+        },
+        {
+          "appid": "281346",
+          "nombre": "Call of Duty®: Ghosts - Blunt Force Pack"
+        },
+        {
+          "appid": "277677",
+          "nombre": "Call of Duty®: Ghosts - Circuit Pack"
+        },
+        {
+          "appid": "259251",
+          "nombre": "Call of Duty®: Ghosts - Devastation"
+        },
+        {
+          "appid": "286635",
+          "nombre": "Call of Duty®: Ghosts - Drill Instructor VO Pack"
+        },
+        {
+          "appid": "277676",
+          "nombre": "Call of Duty®: Ghosts - Ducky Pack"
+        },
+        {
+          "appid": "277671",
+          "nombre": "Call of Duty®: Ghosts - Elias Special Character"
+        },
+        {
+          "appid": "295431",
+          "nombre": "Call of Duty®: Ghosts - Extinction Pack"
+        },
+        {
+          "appid": "277670",
+          "nombre": "Call of Duty®: Ghosts - Extra Slots Pack"
+        },
+        {
+          "appid": "281345",
+          "nombre": "Call of Duty®: Ghosts - Eyeballs Pack"
+        },
+        {
+          "appid": "295432",
+          "nombre": "Call of Duty®: Ghosts - Fitness Pack"
+        },
+        {
+          "appid": "281343",
+          "nombre": "Call of Duty®: Ghosts - Hazmat Special Character"
+        },
+        {
+          "appid": "286630",
+          "nombre": "Call of Duty®: Ghosts - Heartlands Pack"
+        },
+        {
+          "appid": "295434",
+          "nombre": "Call of Duty®: Ghosts - Heavy Metal Pack"
+        },
+        {
+          "appid": "277672",
+          "nombre": "Call of Duty®: Ghosts - Hesh Special Character"
+        },
+        {
+          "appid": "281347",
+          "nombre": "Call of Duty®: Ghosts - Hex Pack"
+        },
+        {
+          "appid": "301111",
+          "nombre": "Call of Duty®: Ghosts - Hydra Pack"
+        },
+        {
+          "appid": "309871",
+          "nombre": "Call of Duty®: Ghosts - Inferno Character Pack"
+        },
+        {
+          "appid": "277678",
+          "nombre": "Call of Duty®: Ghosts - Inferno Pack"
+        },
+        {
+          "appid": "259252",
+          "nombre": "Call of Duty®: Ghosts - Invasion"
+        },
+        {
+          "appid": "277674",
+          "nombre": "Call of Duty®: Ghosts - Keegan Special Character"
+        },
+        {
+          "appid": "295433",
+          "nombre": "Call of Duty®: Ghosts - Koi Pack"
+        },
+        {
+          "appid": "277675",
+          "nombre": "Call of Duty®: Ghosts - Legend Pack - CPT Price"
+        },
+        {
+          "appid": "281340",
+          "nombre": "Call of Duty®: Ghosts - Legend Pack - Makarov"
+        },
+        {
+          "appid": "286632",
+          "nombre": "Call of Duty®: Ghosts - Legend Pack - Soap"
+        },
+        {
+          "appid": "295439",
+          "nombre": "Call of Duty®: Ghosts - Leopard Pack"
+        },
+        {
+          "appid": "277673",
+          "nombre": "Call of Duty®: Ghosts - Merrick Special Character"
+        },
+        {
+          "appid": "286631",
+          "nombre": "Call of Duty®: Ghosts - Molten Pack"
+        },
+        {
+          "appid": "301114",
+          "nombre": "Call of Duty®: Ghosts - Nebula Pack"
+        },
+        {
+          "appid": "259253",
+          "nombre": "Call of Duty®: Ghosts - Nemesis"
+        },
+        {
+          "appid": "259250",
+          "nombre": "Call of Duty®: Ghosts - Onslaught"
+        },
+        {
+          "appid": "281342",
+          "nombre": "Call of Duty®: Ghosts - Rorke Special Character"
+        },
+        {
+          "appid": "301112",
+          "nombre": "Call of Duty®: Ghosts - Skulls Pack"
+        },
+        {
+          "appid": "286636",
+          "nombre": "Call of Duty®: Ghosts - Snoop Dogg VO Pack"
+        },
+        {
+          "appid": "277679",
+          "nombre": "Call of Duty®: Ghosts - Space Cats Pack"
+        },
+        {
+          "appid": "295436",
+          "nombre": "Call of Duty®: Ghosts - Spectrum Pack"
+        },
+        {
+          "appid": "286633",
+          "nombre": "Call of Duty®: Ghosts - Squad Pack - Extinction"
+        },
+        {
+          "appid": "295438",
+          "nombre": "Call of Duty®: Ghosts - Squad Pack - Resistance"
+        },
+        {
+          "appid": "301113",
+          "nombre": "Call of Duty®: Ghosts - Tattoo Pack"
+        },
+        {
+          "appid": "295435",
+          "nombre": "Call of Duty®: Ghosts - Unicorn Pack"
+        },
+        {
+          "appid": "301116",
+          "nombre": "Call of Duty®: Ghosts - Weapon - The Maverick"
+        },
+        {
+          "appid": "301115",
+          "nombre": "Call of Duty®: Ghosts - Weapon - The Ripper"
+        },
+        {
+          "appid": "268101",
+          "nombre": "Call of Duty®: Ghosts - Wolf Skin"
+        },
+        {
+          "appid": "281341",
+          "nombre": "Call of Duty®: Ghosts - Zakhaev Special Character"
+        }
+      ],
+      "usd": 179.99,
+      "antes": 179.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "31497",
+      "nombre": "Call of Duty: Ghosts - Season Pass",
+      "apps": [
+        {
+          "appid": "255160",
+          "nombre": "Call of Duty: Ghosts - Season Pass"
+        }
+      ],
+      "usd": 19.49,
+      "antes": 29.99,
+      "descuento": 35
+    },
+    {
+      "packageid": "34047",
+      "nombre": "Call of Duty: Ghosts Digital Hardened Edition",
+      "apps": [
+        {
+          "appid": "255163",
+          "nombre": "Call of Duty®: Ghosts - Digital Hardened Edition"
+        }
+      ],
+      "usd": 35.99,
+      "antes": 79.99,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "209160": {
+      "usd": 15.99,
+      "gratis": false
+    },
+    "255160": {
+      "usd": 19.49,
+      "gratis": false
+    },
+    "255163": {
+      "usd": 35.99,
+      "gratis": false
+    },
+    "259250": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "259251": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "259252": {
+      "usd": 7.49,
+      "gratis": false
+    },
+    "259253": {
+      "usd": 7.49,
+      "gratis": false
+    },
+    "268101": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277670": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277671": {
+      "usd": 1.31,
+      "gratis": false
+    },
+    "277672": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277673": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277674": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277675": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "277676": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277677": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "277678": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "277679": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "281340": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "281341": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "281342": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "281343": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "281344": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "281345": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "281346": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "281347": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "286630": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "286631": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "286632": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "286633": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "286635": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "286636": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "295430": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "295431": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295432": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "295433": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295434": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295435": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295436": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295437": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295438": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "295439": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "295440": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "301111": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "301112": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "301113": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "301114": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "301115": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "301116": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "309870": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "309871": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "309872": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 51,
+  "dlcLista": [
+    {
+      "appid": "259253",
+      "nombre": "Call of Duty®: Ghosts - Nemesis",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "259252",
+      "nombre": "Call of Duty®: Ghosts - Invasion",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "259251",
+      "nombre": "Call of Duty®: Ghosts - Devastation",
+      "gratis": false,
+      "usd": 9.74,
+      "descuento": 35
+    },
+    {
+      "appid": "259250",
+      "nombre": "Call of Duty®: Ghosts - Onslaught",
+      "gratis": false,
+      "usd": 9.74,
+      "descuento": 35
+    },
+    {
+      "appid": "295437",
+      "nombre": "Call of Duty®: Ghosts - Astronaut Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277675",
+      "nombre": "Call of Duty®: Ghosts - Legend Pack - CPT Price",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281340",
+      "nombre": "Call of Duty®: Ghosts - Legend Pack - Makarov",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "286632",
+      "nombre": "Call of Duty®: Ghosts - Legend Pack - Soap",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "301116",
+      "nombre": "Call of Duty®: Ghosts - Weapon - The Maverick",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "301115",
+      "nombre": "Call of Duty®: Ghosts - Weapon - The Ripper",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "286633",
+      "nombre": "Call of Duty®: Ghosts - Squad Pack - Extinction",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "295438",
+      "nombre": "Call of Duty®: Ghosts - Squad Pack - Resistance",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "286635",
+      "nombre": "Call of Duty®: Ghosts - Drill Instructor VO Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "286636",
+      "nombre": "Call of Duty®: Ghosts - Snoop Dogg VO Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277670",
+      "nombre": "Call of Duty®: Ghosts - Extra Slots Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277671",
+      "nombre": "Call of Duty®: Ghosts - Elias Special Character",
+      "gratis": false,
+      "usd": 1.31,
+      "descuento": 34
+    },
+    {
+      "appid": "281343",
+      "nombre": "Call of Duty®: Ghosts - Hazmat Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277672",
+      "nombre": "Call of Duty®: Ghosts - Hesh Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277674",
+      "nombre": "Call of Duty®: Ghosts - Keegan Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "277673",
+      "nombre": "Call of Duty®: Ghosts - Merrick Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281342",
+      "nombre": "Call of Duty®: Ghosts - Rorke Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281341",
+      "nombre": "Call of Duty®: Ghosts - Zakhaev Special Character",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "309872",
+      "nombre": "Call of Duty®: Ghosts - Bling Character Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "309870",
+      "nombre": "Call of Duty®: Ghosts - Blunt Force Character Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "309871",
+      "nombre": "Call of Duty®: Ghosts - Inferno Character Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281344",
+      "nombre": "Call of Duty®: Ghosts - 1987 Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "295440",
+      "nombre": "Call of Duty®: Ghosts - Abstract Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "295430",
+      "nombre": "Call of Duty®: Ghosts - Bling Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "281346",
+      "nombre": "Call of Duty®: Ghosts - Blunt Force Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "277677",
+      "nombre": "Call of Duty®: Ghosts - Circuit Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "286634",
+      "nombre": "Call of Duty®: Ghosts - Classic Ghost Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "277676",
+      "nombre": "Call of Duty®: Ghosts - Ducky Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "295431",
+      "nombre": "Call of Duty®: Ghosts - Extinction Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281345",
+      "nombre": "Call of Duty®: Ghosts - Eyeballs Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "295432",
+      "nombre": "Call of Duty®: Ghosts - Fitness Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "301110",
+      "nombre": "Call of Duty®: Ghosts -  Flags of the World Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "286630",
+      "nombre": "Call of Duty®: Ghosts - Heartlands Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "295434",
+      "nombre": "Call of Duty®: Ghosts - Heavy Metal Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "281347",
+      "nombre": "Call of Duty®: Ghosts - Hex Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "301111",
+      "nombre": "Call of Duty®: Ghosts - Hydra Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Superados en número y en armamento. Pero nunca vencidos.Call of Duty®: Ghosts es un extraordinario paso adelante en una de las mayores sagas de todos los tiempos en el sector del entretenimiento. Este nuevo capítulo de Call of Duty® cuenta con una nueva dinámica en la que el jugador forma parte de una nación destrozada que no lucha por...",
   "generos": [
     "Acción"
@@ -57,6 +801,7 @@
     "puntaje": 68,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-ghosts?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: Ghosts",
   "acerca": [
     [
@@ -130,23 +875,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -190,5 +940,23 @@
     }
   ],
   "web": "http://www.callofduty.com",
-  "consultado": "2026-11-22T22:08:26.706Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2033,
+  "youtube": [
+    {
+      "id": "Zxnx3W-HA18",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "SumIZb6qMJw",
+      "nombre": "Single Player Campaign Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:11.789Z"
 }

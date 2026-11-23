@@ -1,9 +1,9 @@
 {
   "clave": "we march as one",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a087c1-e9ba-7279-949f-17ebd4c0fc7d",
   "appid": "5189160",
@@ -22,6 +22,28 @@
     "War"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1795795",
+      "nombre": "We March as One",
+      "apps": [
+        {
+          "appid": "5189160",
+          "nombre": "We March as One"
+        }
+      ],
+      "usd": 4.55,
+      "antes": 5.69,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "5189160": {
+      "usd": 4.55,
+      "gratis": false
+    }
+  },
   "descripcion": "Start with a few shapes and build an army tens of thousands strong. Paint your troops onto the battlefield and send them to war against enormous hordes in this incremental auto battler where every unit is individually simulated.",
   "generos": [
     "Indie",
@@ -139,7 +161,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -205,5 +228,11 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/1f0f3157b9bda1ec2386953048f90f57496feb05/ss_1f0f3157b9bda1ec2386953048f90f57496feb05.1920x1080.jpg?t=1794596550"
     }
   ],
-  "consultado": "2026-11-22T22:08:04.318Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 425754,
+  "v": 7,
+  "consultado": "2026-11-23T09:51:34.654Z"
 }

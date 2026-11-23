@@ -1,9 +1,9 @@
 {
   "clave": "dead space 3",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-efdc-72f3-8ab3-2dabf5d45062",
   "appid": "1238060",
@@ -41,6 +41,115 @@
       "url": "https://metacritic.com/game/dead-space-3/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "429458",
+      "nombre": "Dead Space™ 3",
+      "apps": [
+        {
+          "appid": "1238060",
+          "nombre": "Dead Space™ 3"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 19.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1238060": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "1238070",
+      "nombre": "Dead Space™ 3 Awakened",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1303191",
+      "nombre": "Dead Space™ 3 - Paquete de testigo de la verdad",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303192",
+      "nombre": "Dead Space™ 3 - Paquete de tundra",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303193",
+      "nombre": "Dead Space™ 3 Paquete de supervivencia de Tau Volantis",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303194",
+      "nombre": "Dead Space™ 3 - Paquete de tirador",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303195",
+      "nombre": "Dead Space™ 3 - Paquete de merodeador",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303196",
+      "nombre": "Dead Space™ 3 - Paquete de primer contacto",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303197",
+      "nombre": "Dead Space™ 3 Enervador",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303198",
+      "nombre": "Dead Space™ 3 Subfusil EG-900",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303199",
+      "nombre": "Dead Space™ 3 Paquete de personalidad de robot",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303200",
+      "nombre": "Dead Space™ 3 Mejora de capacidad de robot",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303201",
+      "nombre": "Dead Space™ 3 Acelerador de robot",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Terminad con el terror juntos",
   "generos": [
     "Acción"
@@ -50,6 +159,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/dead-space-3?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Dead Space™ 3",
   "acerca": [
     [
@@ -88,27 +198,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -171,5 +287,17 @@
     }
   ],
   "web": "https://www.ea.com/games/dead-space/dead-space-3",
-  "consultado": "2026-11-22T22:14:48.011Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 1216,
+  "youtube": [
+    {
+      "id": "71MZlPqChX4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:55.749Z"
 }

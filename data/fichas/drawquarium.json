@@ -1,9 +1,9 @@
 {
   "clave": "drawquarium",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0199eee0-c261-715a-9df4-246d100132f9",
   "appid": "4045480",
@@ -30,12 +30,35 @@
       "url": "https://store.steampowered.com/app/4045480/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1418928",
+      "nombre": "Drawquarium",
+      "apps": [
+        {
+          "appid": "4045480",
+          "nombre": "Drawquarium"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 6.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4045480": {
+      "usd": 5.59,
+      "gratis": false
+    }
+  },
   "descripcion": "Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind.",
   "generos": [
     "Simuladores"
   ],
   "lanzamientoTexto": "13 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Drawquarium",
   "acerca": [
     [
@@ -123,35 +146,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -259,5 +290,21 @@
     }
   ],
   "web": "https://www.rokaplay.com/",
-  "consultado": "2026-11-22T22:13:10.323Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 374055,
+  "youtube": [
+    {
+      "id": "CS9f8e8920Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WcJP2EP4iEU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:24.276Z"
 }

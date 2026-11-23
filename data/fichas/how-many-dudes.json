@@ -1,9 +1,9 @@
 {
   "clave": "how many dudes",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01988776-447f-7299-993f-1bd9cd5fe502",
   "appid": "3934270",
@@ -35,6 +35,45 @@
       "url": "https://metacritic.com/game/how-many-dudes/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1382176",
+      "nombre": "How Many Dudes?",
+      "apps": [
+        {
+          "appid": "3934270",
+          "nombre": "How Many Dudes?"
+        }
+      ],
+      "usd": 5.55,
+      "antes": 8.55,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "3934270": {
+      "usd": 5.55,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4815310",
+      "nombre": "How Many Dudes? - Paquete de fan",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4769790",
+      "nombre": "How Many Dudes? Soundtrack",
+      "gratis": false,
+      "usd": 3.34,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¿Cuántos colegas hacen falta para darle una paliza a un gorila? ¿Y a mil bebés? ¿Y a un pato colosal? ¡¿Y A UN DIOS?! Date una vuelta por el rancho y descúbrelo en este roguelike donde reclutarás a un ejército de colegas para que se zurren en las batallas más absurdas.",
   "generos": [
     "Casual",
@@ -43,6 +82,7 @@
   ],
   "lanzamientoTexto": "30 JUL 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "How Many Dudes?",
   "acerca": [
     [
@@ -280,5 +320,25 @@
     }
   ],
   "web": "https://howmanydudes.com",
-  "consultado": "2026-11-22T22:09:43.138Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 369765,
+  "youtube": [
+    {
+      "id": "BXu08va0fuI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "IgQM1SceEpI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qpKsnKF1CdA",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:53:38.119Z"
 }

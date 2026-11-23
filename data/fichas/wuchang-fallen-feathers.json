@@ -1,9 +1,9 @@
 {
   "clave": "wuchang fallen feathers",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ffe84-b793-726b-b5ec-89bae1b0a5a5",
   "appid": "2277560",
@@ -48,6 +48,72 @@
       "url": "https://opencritic.com/game/18943/wuchang-fallen-feathers"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1287941",
+      "nombre": "Wuchang: Fallen Feathers",
+      "apps": [
+        {
+          "appid": "2277560",
+          "nombre": "WUCHANG: Fallen Feathers"
+        }
+      ],
+      "usd": 25.89,
+      "antes": 36.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1287933",
+      "nombre": "Wuchang: Fallen Feathers Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2277560",
+          "nombre": "WUCHANG: Fallen Feathers"
+        }
+      ],
+      "usd": 43.99,
+      "antes": 43.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2277560": {
+      "usd": 25.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "3653760",
+      "nombre": "WUCHANG: Fallen Feathers - Full-Grown Red Mercury",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3653770",
+      "nombre": "WUCHANG: Fallen Feathers - Glistening Red Mercury",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3653790",
+      "nombre": "WUCHANG: Fallen Feathers Deluxe Upgrade Pack",
+      "gratis": false,
+      "usd": 4.89,
+      "descuento": 30
+    },
+    {
+      "appid": "3758190",
+      "nombre": "WUCHANG: Fallen Feathers Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "WUCHANG: Fallen Feathers es un RPG de acción estilo Souls ambientado en la tierra de Shu durante la oscura y tumultuosa dinastía Ming, repleta de facciones en guerra y asolada por una misteriosa enfermedad que engendra monstruos.",
   "generos": [
     "Acción",
@@ -59,6 +125,7 @@
     "puntaje": 77,
     "url": "https://www.metacritic.com/game/pc/wuchang-fallen-feathers?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "WUCHANG: Fallen Feathers",
   "acerca": [
     [
@@ -92,47 +159,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -232,5 +310,31 @@
     }
   ],
   "web": "https://www.wuchanggame.com/",
-  "consultado": "2026-11-22T22:13:55.803Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "WUCHANG: Fallen Feathers includes blood, violence and killing through weapon-based combat. This includes depictions of violence of various weapons slashing, impaling or slicing enemies, visualized with blood.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 171225,
+  "youtube": [
+    {
+      "id": "XPo73-CTqsU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SDLuntnvl8E",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "HPqHQ4ZNI_Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "u7CGFPbfSCY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:04.490Z"
 }

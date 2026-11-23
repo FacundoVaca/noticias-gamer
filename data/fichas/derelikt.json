@@ -1,9 +1,9 @@
 {
   "clave": "derelikt",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01978238-e4b3-7313-bb12-85ce7794cda7",
   "appid": "3810510",
@@ -41,6 +41,45 @@
       "url": "https://metacritic.com/game/derelikt/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1340211",
+      "nombre": "DERELIKT",
+      "apps": [
+        {
+          "appid": "3810510",
+          "nombre": "DERELIKT"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 4.99,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "3810510": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5242870",
+      "nombre": "DERELIKT Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "5242900",
+      "nombre": "DERELIKT Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "DERELIKT es un FPS retro narrativo de terror y ciencia ficción al estilo PS1.",
   "generos": [
     "Acción",
@@ -52,6 +91,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/derelikt?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "DERELIKT",
   "caracteristicas": [
     "Un jugador",
@@ -66,39 +106,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -161,5 +210,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810510/9edb1992699efb5dad0ecd1d9e95d1ff6df155c7/ss_9edb1992699efb5dad0ecd1d9e95d1ff6df155c7.1920x1080.jpg?t=1794855109"
     }
   ],
-  "consultado": "2026-11-22T22:14:17.480Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 206842,
+  "youtube": [
+    {
+      "id": "u3a_3vzvQqY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Uka-QK4NJcc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Y8ctE3EcTdo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "TTugbawfiN8",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:58:15.385Z"
 }

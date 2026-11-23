@@ -1,9 +1,9 @@
 {
   "clave": "yakuza kiwami 3 dark ties",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019979e9-bfbd-72a4-aeaa-7dc66e1672fb",
   "appid": "3937550",
@@ -49,6 +49,135 @@
       "url": "https://opencritic.com/game/19366/yakuza-kiwami-3-dark-ties"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1383237",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties",
+      "apps": [
+        {
+          "appid": "3937550",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties"
+        }
+      ],
+      "usd": 21.99,
+      "antes": 54.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1401523",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3937550",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 69.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1496880",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Actualización a Deluxe",
+      "apps": [
+        {
+          "appid": "3948230",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de atuendos legendarios"
+        },
+        {
+          "appid": "3948270",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de CD de música legendaria"
+        },
+        {
+          "appid": "3948240",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personajes legendarios"
+        },
+        {
+          "appid": "3948260",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personalización de móvil"
+        },
+        {
+          "appid": "3948250",
+          "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personalización de Reinas del Gas y la Goma"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 17.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3937550": {
+      "usd": 21.99,
+      "gratis": false
+    },
+    "3948230": {
+      "usd": 3.69,
+      "gratis": false
+    },
+    "3948240": {
+      "usd": 8.99,
+      "gratis": false
+    },
+    "3948250": {
+      "usd": 3.69,
+      "gratis": false
+    },
+    "3948260": {
+      "usd": 3.69,
+      "gratis": false
+    },
+    "3948270": {
+      "usd": 3.69,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "3948240",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personajes legendarios",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3948230",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de atuendos legendarios",
+      "gratis": false,
+      "usd": 3.69,
+      "descuento": 0
+    },
+    {
+      "appid": "3948270",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de CD de música legendaria",
+      "gratis": false,
+      "usd": 3.69,
+      "descuento": 0
+    },
+    {
+      "appid": "3948250",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personalización de Reinas del Gas y la Goma",
+      "gratis": false,
+      "usd": 3.69,
+      "descuento": 0
+    },
+    {
+      "appid": "3948260",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de personalización de móvil",
+      "gratis": false,
+      "usd": 3.69,
+      "descuento": 0
+    },
+    {
+      "appid": "3957290",
+      "nombre": "Yakuza Kiwami 3 & Dark Ties: Pack de atuendos legendarios de Ichiban Kasuga",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "YAKUZA KIWAMI 3 es un remake de Yakuza 3, la aventura de acción en la que Kazuma Kiryu lucha para proteger a sus seres queridos. DARK TIES es un nuevo juego protagonizado por Yoshitaka Mine, de Yakuza 3, incluido como una experiencia independiente repleta de acción.",
   "generos": [
     "Acción",
@@ -57,6 +186,7 @@
   ],
   "lanzamientoTexto": "11 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Yakuza Kiwami 3 & Dark Ties",
   "acerca": [
     [
@@ -107,51 +237,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,5 +409,31 @@
     }
   ],
   "web": "https://sega.com/like-a-dragon-yakuza/yakuza-kiwami-3-dark-ties",
-  "consultado": "2026-11-22T22:14:15.292Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 369852,
+  "youtube": [
+    {
+      "id": "za9rjoTdG_M",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "loziRUFY6YU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WEg1taCJeBU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "XWzP-XXEwjc",
+      "nombre": "Accolades Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:57:27.158Z"
 }

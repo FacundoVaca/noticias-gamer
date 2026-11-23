@@ -1,9 +1,9 @@
 {
   "clave": "kingdom rush 6 genesis td",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c99fb-7d87-7210-8817-a070e149ca82",
   "appid": "4259190",
@@ -29,6 +29,28 @@
       "url": "https://store.steampowered.com/app/4259190/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1490615",
+      "nombre": "Kingdom Rush 6: Genesis TD",
+      "apps": [
+        {
+          "appid": "4259190",
+          "nombre": "Kingdom Rush 6: Genesis TD"
+        }
+      ],
+      "usd": 8.79,
+      "antes": 10.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4259190": {
+      "usd": 8.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Kingdom Rush 6: Genesis is a fantasy tower defense strategy game that takes you back in time to the early days of the Kingdom with bold new twists. Build towers, command heroes, and stop Vez’nan’s corruption before it tears the kingdom apart!",
   "generos": [
     "Acción",
@@ -37,6 +59,7 @@
   ],
   "lanzamientoTexto": "24 SEP 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Kingdom Rush 6: Genesis TD",
   "acerca": [
     [
@@ -158,43 +181,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -266,5 +299,22 @@
     }
   ],
   "web": "https://www.kingdomrushgenesis.com",
-  "consultado": "2026-11-22T22:09:20.549Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 394375,
+  "youtube": [
+    {
+      "id": "fv2FWg3kJhs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Mf4qL-Hix_s",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:35.172Z"
 }

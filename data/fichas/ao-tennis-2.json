@@ -1,0 +1,307 @@
+{
+  "clave": "ao tennis 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3ace-71f0-a4a8-f7f22b6309d2",
+  "appid": "1072500",
+  "lanzamiento": "2020-01-09",
+  "desarrolladores": [
+    "Big Ant Studios"
+  ],
+  "editores": [
+    "Nacon",
+    "Bigben Interactive",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Sports",
+    "Tennis",
+    "Multiplayer",
+    "Character Customization",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 70,
+      "cantidad": 1242,
+      "url": "https://store.steampowered.com/app/1072500/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 65,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/ao-tennis-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 61,
+      "cantidad": 60,
+      "url": "https://metacritic.com/game/ao-tennis-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 69,
+      "cantidad": 51,
+      "url": "https://opencritic.com/game/8823/ao-tennis-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "359576",
+      "nombre": "AO Tennis 2",
+      "apps": [
+        {
+          "appid": "1072500",
+          "nombre": "AO Tennis 2"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1072500": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "AO Tennis 2 es la única experiencia de tenis diseñada por y para su comunidad. Crea tus propios tenistas, estadios y partidos legendarios. Entra en la competición para alcanzar la cima del tenis mundial en el modo carrera.",
+  "generos": [
+    "Deportes"
+  ],
+  "lanzamientoTexto": "9 ENE 2020",
+  "metacritic": {
+    "puntaje": 65,
+    "url": "https://www.metacritic.com/game/pc/ao-tennis-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "AO Tennis 2",
+  "acerca": [
+    [
+      "p",
+      "UN CAMPO DE JUEGO HECHO POR Y PARA TI"
+    ],
+    [
+      "p",
+      "Usa el completo paquete de edición de la Academia para crear un tenista igual que TÚ, además de tus propias pistas, o puedes descargar miles de creaciones de la comunidad."
+    ],
+    [
+      "p",
+      "LOS MEJORES TENISTAS DEL MUNDO"
+    ],
+    [
+      "p",
+      "Compara tus resultados con los grandes nombres de los circuitos ATP y WTA, como Rafael Nadal, Ash Barty, Angelique Kerber y muchos más."
+    ],
+    [
+      "p",
+      "UN MODO CARRERA TOTALMENTE REDISEÑADO"
+    ],
+    [
+      "p",
+      "Intenta conquistar las clasificaciones mundiales en una carrera individual o de dobles con un amigo. Gestiona tu reputación, tus patrocinadores y tu rendimiento para llegar a la cima."
+    ],
+    [
+      "p",
+      "NUEVOS MODOS DE JUEGO"
+    ],
+    [
+      "p",
+      "Revive partidos legendarios o crea nuevos desafíos usando el editor de escenarios."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play Together"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-3210 / AMD Athlon II X4 555"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon HD 6670 or NVIDIA Geforce GT710 with Min 2GB Memory"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4200 / AMD Phenom II X4 970"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon R9 390X or NVIDIA GeForce GTX 970 with minimum 4GB Memory"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_293bbc0c9751a444dcdfda6c9772b6b2a4b69e09.600x338.jpg?t=1725351525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_293bbc0c9751a444dcdfda6c9772b6b2a4b69e09.1920x1080.jpg?t=1725351525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_033f06c6ff05f1a32e123849bd8f27bd862ae927.600x338.jpg?t=1725351525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_033f06c6ff05f1a32e123849bd8f27bd862ae927.1920x1080.jpg?t=1725351525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_475c96b3c7bfc0190dba5f7a1a005b06d64d1445.600x338.jpg?t=1725351525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_475c96b3c7bfc0190dba5f7a1a005b06d64d1445.1920x1080.jpg?t=1725351525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_adac6b9d05fa65bf6519ace67c1900c59fe5bf9b.600x338.jpg?t=1725351525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_adac6b9d05fa65bf6519ace67c1900c59fe5bf9b.1920x1080.jpg?t=1725351525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_d08093af95de68eff7ef843021f3680c0ac00bff.600x338.jpg?t=1725351525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/ss_d08093af95de68eff7ef843021f3680c0ac00bff.1920x1080.jpg?t=1725351525"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 125479,
+  "youtube": [
+    {
+      "id": "_cqkWF3gbS0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "zQsVFXsf2n0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:09.505Z"
+}

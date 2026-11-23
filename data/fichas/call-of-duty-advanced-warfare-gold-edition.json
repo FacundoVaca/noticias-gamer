@@ -1,9 +1,9 @@
 {
   "clave": "call of duty advanced warfare gold edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3336-7249-be14-9c71dacce5db",
   "appid": "209650",
@@ -30,6 +30,345 @@
       "url": "https://store.steampowered.com/app/209650/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "392150",
+      "nombre": "Call of Duty: Advanced Warfare - Gold Edition",
+      "apps": [
+        {
+          "appid": "209650",
+          "nombre": "Call of Duty®: Advanced Warfare - Gold Edition"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "48873",
+      "nombre": "Call of Duty: Advanced Warfare Digital Pro Edition",
+      "apps": [
+        {
+          "appid": "209650",
+          "nombre": "Call of Duty®: Advanced Warfare - Gold Edition"
+        },
+        {
+          "appid": "317660",
+          "nombre": "Call of Duty®: Advanced Warfare - Season Pass"
+        }
+      ],
+      "usd": 35.99,
+      "antes": 79.99,
+      "descuento": 55
+    },
+    {
+      "packageid": "48871",
+      "nombre": "Call of Duty: Advanced Warfare - Season Pass",
+      "apps": [
+        {
+          "appid": "317660",
+          "nombre": "Call of Duty®: Advanced Warfare - Season Pass"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 29.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "209650": {
+      "usd": 15.99,
+      "gratis": false
+    },
+    "317660": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 43,
+  "dlcLista": [
+    {
+      "appid": "317660",
+      "nombre": "Call of Duty®: Advanced Warfare - Season Pass",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 50
+    },
+    {
+      "appid": "318794",
+      "nombre": "Call of Duty®: Advanced Warfare - Reckoning",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "318793",
+      "nombre": "Call of Duty®: Advanced Warfare - Supremacy",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "318792",
+      "nombre": "Call of Duty®: Advanced Warfare - Ascendance",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "318791",
+      "nombre": "Call of Duty®: Advanced Warfare - Havoc",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 50
+    },
+    {
+      "appid": "343595",
+      "nombre": "Call of Duty®: Advanced Warfare - Ohm Weapon Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343600",
+      "nombre": "Call of Duty®: Advanced Warfare - Championship Premium Personalization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331066",
+      "nombre": "Call of Duty®: Advanced Warfare - Creature Premium Personalization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331065",
+      "nombre": "Call of Duty®: Advanced Warfare - Lightning Premium Personalization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331064",
+      "nombre": "Call of Duty®: Advanced Warfare - Magma Premium Personalization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331067",
+      "nombre": "Call of Duty®: Advanced Warfare - Nanotech Premium Personalization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331070",
+      "nombre": "Call of Duty®: Advanced Warfare - Barong Exoskeleton Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331071",
+      "nombre": "Call of Duty®: Advanced Warfare - Hot Rod Exoskeleton Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331069",
+      "nombre": "Call of Duty®: Advanced Warfare - Panda Exoskeleton Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331068",
+      "nombre": "Call of Duty®: Advanced Warfare - Steampunk Exoskeleton Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343610",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Create A Class Slots",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343611",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Armory Slots 1",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343612",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Armory Slots 2",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343613",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Armory Slots 3",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343614",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Armory Slots 4",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343615",
+      "nombre": "Call of Duty®: Advanced Warfare - Extra Armory Slots 5",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343598",
+      "nombre": "Call of Duty®: Advanced Warfare - Aces Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343592",
+      "nombre": "Call of Duty®: Advanced Warfare - Backdraft Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331062",
+      "nombre": "Call of Duty®: Advanced Warfare - Creature Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343597",
+      "nombre": "Call of Duty®: Advanced Warfare - Disco Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343599",
+      "nombre": "Call of Duty®: Advanced Warfare - Jackpot Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343593",
+      "nombre": "Call of Duty®: Advanced Warfare - Lagoon Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331061",
+      "nombre": "Call of Duty®: Advanced Warfare - Lightning Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331060",
+      "nombre": "Call of Duty®: Advanced Warfare - Magma Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "331063",
+      "nombre": "Call of Duty®: Advanced Warfare - Nanotech Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343594",
+      "nombre": "Call of Duty®: Advanced Warfare - Psychedelic Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343591",
+      "nombre": "Call of Duty®: Advanced Warfare - Tiki Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343596",
+      "nombre": "Call of Duty®: Advanced Warfare - X-Ray Personalization Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "333084",
+      "nombre": "Call of Duty®: Advanced Warfare - Australia Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "333081",
+      "nombre": "Call of Duty®: Advanced Warfare - Canada Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "333082",
+      "nombre": "Call of Duty®: Advanced Warfare - France Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "333083",
+      "nombre": "Call of Duty®: Advanced Warfare - Germany Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "333087",
+      "nombre": "Call of Duty®: Advanced Warfare - Italy Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "334221",
+      "nombre": "Call of Duty®: Advanced Warfare - Japan Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "334220",
+      "nombre": "Call of Duty®: Advanced Warfare - Netherlands Exoskeleton Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Call of Duty®: Advanced Warfare imagina los poderosos campos de batalla del futuro, donde la tecnología y la estrategia han evolucionado hasta dar paso a una nueva era de combate en la franquicia.El poder lo cambia todo.",
   "generos": [
     "Acción"
@@ -39,6 +378,7 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-advanced-warfare?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Call of Duty®: Advanced Warfare - Gold Edition",
   "acerca": [
     [
@@ -112,27 +452,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -248,5 +594,27 @@
     }
   ],
   "web": "http://www.callofduty.com/advancedwarfare",
-  "consultado": "2026-11-22T22:14:32.809Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 6632,
+  "youtube": [
+    {
+      "id": "sFu5qXMuaJU",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "QQgaqt4E3vo",
+      "nombre": "Multiplayer Trailer"
+    },
+    {
+      "id": "1sRUZ9p4oYQ",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:38.729Z"
 }

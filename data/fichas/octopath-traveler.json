@@ -1,9 +1,9 @@
 {
   "clave": "octopath traveler",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-07e9-7041-8d73-511c3bb2c94f",
   "appid": "921570",
@@ -51,6 +51,28 @@
       "url": "https://opencritic.com/game/6231/octopath-traveler"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "366869",
+      "nombre": "OCTOPATH TRAVELER",
+      "apps": [
+        {
+          "appid": "921570",
+          "nombre": "OCTOPATH TRAVELER™"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "921570": {
+      "usd": 17.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Ocho viajeros. Ocho aventuras. Ocho roles. Embárcate en un viaje épico a través del vasto y asombroso mundo de Orsterra y descubre las fascinantes historias de cada uno de los ocho viajeros.",
   "generos": [
     "Rol"
@@ -60,6 +82,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/octopath-traveler?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "OCTOPATH TRAVELER™",
   "acerca": [
     [
@@ -114,39 +137,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -261,5 +293,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921570/ss_fe9f05cf35e6b4d561c5be76a8b93726ab6be517.1920x1080.jpg?t=1785812096"
     }
   ],
-  "consultado": "2026-11-22T22:09:52.862Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 26765,
+  "youtube": [
+    {
+      "id": "4J1eO7VPbSU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "jCaXSxYrrWM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "97vYf9t3GU8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VyAEqKbB-Pw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:51:47.799Z"
 }

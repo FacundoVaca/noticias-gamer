@@ -1,9 +1,9 @@
 {
   "clave": "terra invicta",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-47a2-7353-9fbe-ec25ec289062",
   "appid": "1176470",
@@ -48,6 +48,45 @@
       "url": "https://opencritic.com/game/13736/terra-invicta"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "403468",
+      "nombre": "Terra Invicta",
+      "apps": [
+        {
+          "appid": "1176470",
+          "nombre": "Terra Invicta"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1176470": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4713340",
+      "nombre": "Terra Invicta - Dark Skies",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "2939040",
+      "nombre": "Terra Invicta - Supporter Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Una invasión alienígena ha dividido a la humanidad en siete facciones ideológicas, cada una con su propio modo de ver el futuro. Elige una y lidérala para apoderarte de las naciones de la Tierra, expandirte por el sistema solar y enfrentarte a flotas enemigas en combate táctico.",
   "generos": [
     "Simuladores",
@@ -58,6 +97,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/terra-invicta?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Terra Invicta",
   "acerca": [
     [
@@ -147,59 +187,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -299,5 +353,29 @@
     }
   ],
   "web": "https://www.pavonisinteractive.com/",
-  "consultado": "2026-11-22T22:13:03.856Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 124042,
+  "youtube": [
+    {
+      "id": "W2rv1NvINMU",
+      "nombre": "Pre-alpha Trailer"
+    },
+    {
+      "id": "yng8rR6t_IA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "YyI723sDBRc",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "bLodHPDnEXI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:21.760Z"
 }

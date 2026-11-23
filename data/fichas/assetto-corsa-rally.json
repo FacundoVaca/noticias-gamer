@@ -1,9 +1,9 @@
 {
   "clave": "assetto corsa rally",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0199f12f-47b6-73c2-92fc-1c6e5e7ce03b",
   "appid": "3917090",
@@ -31,6 +31,28 @@
       "url": "https://store.steampowered.com/app/3917090/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1376473",
+      "nombre": "Assetto Corsa Rally",
+      "apps": [
+        {
+          "appid": "3917090",
+          "nombre": "Assetto Corsa Rally"
+        }
+      ],
+      "usd": 14.39,
+      "antes": 17.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3917090": {
+      "usd": 14.39,
+      "gratis": false
+    }
+  },
   "descripcion": "Assetto Corsa Rally es un simulador de rally realista centrado en la precisión y el desafío. Con tramos y vehículos escaneados con láser en 3D, asistencia profesional de copiloto y condiciones variables, ofrece una experiencia exigente e inmersiva en la que cada segundo al volante cuenta.",
   "generos": [
     "Carreras",
@@ -38,6 +60,7 @@
   ],
   "lanzamientoTexto": "13 NOV 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Assetto Corsa Rally",
   "acerca": [
     [
@@ -216,27 +239,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -368,5 +397,22 @@
     }
   ],
   "web": "https://www.assettocorsa.gg/assetto-corsa-rally",
-  "consultado": "2026-11-22T22:07:51.502Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 374104,
+  "youtube": [
+    {
+      "id": "U1_7q_gHrTo",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "88GyXeszrl8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:29.831Z"
 }

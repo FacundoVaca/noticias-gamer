@@ -1,9 +1,9 @@
 {
   "clave": "helldivers dive harder edition",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3a49-7176-a573-3ec12f775cd5",
   "appid": "394510",
@@ -32,6 +32,332 @@
       "url": "https://store.steampowered.com/app/394510/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "75704",
+      "nombre": "HELLDIVERS™ Dive Harder Edition",
+      "apps": [
+        {
+          "appid": "394510",
+          "nombre": "HELLDIVERS™ Dive Harder Edition"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 19.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "81591",
+      "nombre": "HELLDIVERS™ Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "395231",
+          "nombre": "HELLDIVERS™ - Commando Pack"
+        },
+        {
+          "appid": "395232",
+          "nombre": "HELLDIVERS™ - Defenders Pack"
+        },
+        {
+          "appid": "395235",
+          "nombre": "HELLDIVERS™ - Demolitionist Pack"
+        },
+        {
+          "appid": "396170",
+          "nombre": "HELLDIVERS™ - Entrenched Pack"
+        },
+        {
+          "appid": "395236",
+          "nombre": "HELLDIVERS™ - Hazard Ops Pack"
+        },
+        {
+          "appid": "395234",
+          "nombre": "HELLDIVERS™ - Pilot Pack"
+        },
+        {
+          "appid": "396171",
+          "nombre": "HELLDIVERS™ - Pistols Perk Pack"
+        },
+        {
+          "appid": "396173",
+          "nombre": "HELLDIVERS™ - Precision Expert Pack"
+        },
+        {
+          "appid": "395230",
+          "nombre": "HELLDIVERS™ - Ranger Pack"
+        },
+        {
+          "appid": "395237",
+          "nombre": "HELLDIVERS™ - Specialist Pack"
+        },
+        {
+          "appid": "395233",
+          "nombre": "HELLDIVERS™ - Support Pack"
+        },
+        {
+          "appid": "396172",
+          "nombre": "HELLDIVERS™ - Terrain Specialist Pack"
+        },
+        {
+          "appid": "395239",
+          "nombre": "HELLDIVERS™ - Vehicles Pack"
+        },
+        {
+          "appid": "395238",
+          "nombre": "HELLDIVERS™ - Weapons Pack"
+        },
+        {
+          "appid": "394510",
+          "nombre": "HELLDIVERS™ Dive Harder Edition"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "664482",
+      "nombre": "HELLDIVERS™ - Commercial License",
+      "apps": [
+        {
+          "appid": "394510",
+          "nombre": "HELLDIVERS™ Dive Harder Edition"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "81596",
+      "nombre": "HELLDIVERS™ Reinforcements Mega Bundle",
+      "apps": [
+        {
+          "appid": "395231",
+          "nombre": "HELLDIVERS™ - Commando Pack"
+        },
+        {
+          "appid": "395232",
+          "nombre": "HELLDIVERS™ - Defenders Pack"
+        },
+        {
+          "appid": "395235",
+          "nombre": "HELLDIVERS™ - Demolitionist Pack"
+        },
+        {
+          "appid": "396170",
+          "nombre": "HELLDIVERS™ - Entrenched Pack"
+        },
+        {
+          "appid": "395236",
+          "nombre": "HELLDIVERS™ - Hazard Ops Pack"
+        },
+        {
+          "appid": "395234",
+          "nombre": "HELLDIVERS™ - Pilot Pack"
+        },
+        {
+          "appid": "396171",
+          "nombre": "HELLDIVERS™ - Pistols Perk Pack"
+        },
+        {
+          "appid": "396173",
+          "nombre": "HELLDIVERS™ - Precision Expert Pack"
+        },
+        {
+          "appid": "395230",
+          "nombre": "HELLDIVERS™ - Ranger Pack"
+        },
+        {
+          "appid": "395237",
+          "nombre": "HELLDIVERS™ - Specialist Pack"
+        },
+        {
+          "appid": "395233",
+          "nombre": "HELLDIVERS™ - Support Pack"
+        },
+        {
+          "appid": "396172",
+          "nombre": "HELLDIVERS™ - Terrain Specialist Pack"
+        },
+        {
+          "appid": "395239",
+          "nombre": "HELLDIVERS™ - Vehicles Pack"
+        },
+        {
+          "appid": "395238",
+          "nombre": "HELLDIVERS™ - Weapons Pack"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 24.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "394510": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "395230": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395231": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395232": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395233": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395234": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395235": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395236": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395237": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395238": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "395239": {
+      "usd": 0.79,
+      "gratis": false
+    },
+    "396170": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "396171": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "396172": {
+      "usd": 0.8,
+      "gratis": false
+    },
+    "396173": {
+      "usd": 0.8,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 14,
+  "dlcLista": [
+    {
+      "appid": "395230",
+      "nombre": "HELLDIVERS™ - Ranger Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395231",
+      "nombre": "HELLDIVERS™ - Commando Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395232",
+      "nombre": "HELLDIVERS™ - Defenders Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395233",
+      "nombre": "HELLDIVERS™ - Support Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395234",
+      "nombre": "HELLDIVERS™ - Pilot Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395235",
+      "nombre": "HELLDIVERS™ - Demolitionist Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395236",
+      "nombre": "HELLDIVERS™ - Hazard Ops Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395237",
+      "nombre": "HELLDIVERS™ - Specialist Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395238",
+      "nombre": "HELLDIVERS™ - Weapons Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "395239",
+      "nombre": "HELLDIVERS™ - Vehicles Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 80
+    },
+    {
+      "appid": "396170",
+      "nombre": "HELLDIVERS™ - Entrenched Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "396171",
+      "nombre": "HELLDIVERS™ - Pistols Perk Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "396172",
+      "nombre": "HELLDIVERS™ - Terrain Specialist Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    },
+    {
+      "appid": "396173",
+      "nombre": "HELLDIVERS™ - Precision Expert Pack",
+      "gratis": false,
+      "usd": 0.8,
+      "descuento": 73
+    }
+  ],
   "descripcion": "HELLDIVERS™ es un shooter de doble stick, cooperativo y para jugadores expertos. Como parte de la unidad de élite denominada HELLDIVERS, los jugadores deben cooperar para proteger Supertierra y derrotar a los enemigos de la humanidad en una intensa guerra intergaláctica.",
   "generos": [
     "Acción"
@@ -41,6 +367,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/helldivers?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "HELLDIVERS™ Dive Harder Edition",
   "acerca": [
     [
@@ -107,79 +434,98 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -275,5 +621,22 @@
     }
   ],
   "web": "http://arrowheadgamestudios.com/games/helldivers/",
-  "consultado": "2026-11-22T22:07:38.508Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 12,
+  "igdbIntentado": true,
+  "igdb": 14523,
+  "youtube": [
+    {
+      "id": "Y6C_gxlDpPE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5SUdC4r82WM",
+      "nombre": "Gameplay video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:49:44.031Z"
 }

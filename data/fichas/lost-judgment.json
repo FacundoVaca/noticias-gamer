@@ -1,9 +1,9 @@
 {
   "clave": "lost judgment",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-64bc-703c-b03b-0fd85d20f1bc",
   "appid": "2058190",
@@ -49,6 +49,38 @@
       "url": "https://opencritic.com/game/11984/lost-judgment"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "735326",
+      "nombre": "Lost Judgment",
+      "apps": [
+        {
+          "appid": "2058190",
+          "nombre": "Lost Judgment"
+        }
+      ],
+      "usd": 6.39,
+      "antes": 31.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2058190": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2060280",
+      "nombre": "Lost Judgment - Episodio El expediente de Kaito",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 75
+    }
+  ],
   "descripcion": "En este thriller de acción y aventuras, el detective Takayuki Yagami debe investigar una serie de crímenes retorcidos en un instituto de Yokohama, en Japón. Libra combates brutales utilizando tres estilos de lucha únicos y un arsenal de trucos de detective privado para resolver el caso.",
   "generos": [
     "Acción",
@@ -60,6 +92,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/lost-judgment?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Lost Judgment",
   "acerca": [
     [
@@ -118,39 +151,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -246,5 +288,28 @@
     }
   ],
   "web": "https://yakuza.sega.com/lostjudgment/",
-  "consultado": "2026-11-22T22:08:51.960Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence, Partial Nudity, Sexual Themes, Strong Language, and Use of Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 146851,
+  "youtube": [
+    {
+      "id": "VDgaA9RcGLE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "3wZZmmITJsk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "TmoPKbtEviM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:38.786Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "mechabellum",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6e56-73da-8af4-5c76f0131ad5",
   "appid": "669330",
@@ -37,6 +37,101 @@
       "url": "https://metacritic.com/game/mechabellum/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1139253",
+      "nombre": "Mechabellum",
+      "apps": [
+        {
+          "appid": "669330",
+          "nombre": "Mechabellum"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 7.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "669330": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "5484130",
+      "nombre": "Contrato de batalla de élite Dieselpunk - Fortaleza",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5052490",
+      "nombre": "Contrato de batalla de élite Dieselpunk - Supremo",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5484140",
+      "nombre": "Contrato de batalla de élite Real - Raiden",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5484120",
+      "nombre": "Contrato de batalla de élite Dieselpunk - Escorpión",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5052470",
+      "nombre": "Contrato de batalla de élite Dieselpunk - Bola de acero",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5052510",
+      "nombre": "Contrato de batalla de élite Real - Dientes de sable",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "5052500",
+      "nombre": "Contrato de batalla de élite Real - Fénix",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 10
+    },
+    {
+      "appid": "3241610",
+      "nombre": "Paquete de aspectos de acero",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3241620",
+      "nombre": "Paquete de aspectos de gusano dorado",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3241600",
+      "nombre": "Paquete de aspectos de fuerzas móviles",
+      "gratis": false,
+      "usd": 4.63,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Comanda a enormes ejércitos en este épico juego de batallas automáticas de mechas. Recluta a tus tropas, personaliza las unidades, domina las formaciones y aplasta a los enemigos en batallas 3D sumamente detalladas. La estrategia es lo que importa, nada de clics excesivos.",
   "generos": [
     "Indie",
@@ -44,6 +139,7 @@
   ],
   "lanzamientoTexto": "26 SEP 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Mechabellum",
   "acerca": [
     [
@@ -77,47 +173,58 @@
   "idiomas": [
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -221,5 +328,30 @@
     }
   ],
   "web": "https://playmechabellum.com/",
-  "consultado": "2026-11-22T22:14:56.822Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 240897,
+  "youtube": [
+    {
+      "id": "JGbykCmNGho",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "fAi-Q606vRc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Y8P-wC4Xc_Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "nFYa6RWp0C8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:50.250Z"
 }

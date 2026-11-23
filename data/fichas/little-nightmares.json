@@ -1,9 +1,9 @@
 {
   "clave": "little nightmares",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0c86-70e9-9298-ddf197875e33",
   "appid": "424840",
@@ -51,6 +51,107 @@
       "url": "https://opencritic.com/game/4206/little-nightmares"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "87193",
+      "nombre": "Little Nightmares",
+      "apps": [
+        {
+          "appid": "424840",
+          "nombre": "Little Nightmares"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 15.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "182771",
+      "nombre": "Little Nightmares Complete Edition",
+      "apps": [
+        {
+          "appid": "424840",
+          "nombre": "Little Nightmares"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "424840": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "640920",
+      "nombre": "Little Nightmares - Secrets of The Maw Expansion Pass",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 75
+    },
+    {
+      "appid": "584095",
+      "nombre": "Little Nightmares The Depths DLC",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 75
+    },
+    {
+      "appid": "584096",
+      "nombre": "Little Nightmares The Hideaway DLC",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 75
+    },
+    {
+      "appid": "584097",
+      "nombre": "Little Nightmares The Residence DLC",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 75
+    },
+    {
+      "appid": "584090",
+      "nombre": "Little Nightmares - Scarecrow Sack",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 51
+    },
+    {
+      "appid": "584091",
+      "nombre": "Little Nightmares - Upside-down Teapot",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 51
+    },
+    {
+      "appid": "584092",
+      "nombre": "Little Nightmares - Tengu Mask",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 51
+    },
+    {
+      "appid": "584094",
+      "nombre": "Little Nightmares - Fox Mask",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 51
+    },
+    {
+      "appid": "601710",
+      "nombre": "Little Nightmares – Original Soundtrack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 75
+    }
+  ],
   "descripcion": "¡Sumérgete en la enigmática atmósfera de Little Nightmares y enfréntate a los miedos de tu infancia! Ayuda a Seis a escapar de Las Fauces, un misterioso navío donde moran ánimas corrompidas en busca de su próxima comida...",
   "generos": [
     "Aventura"
@@ -60,6 +161,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/little-nightmares?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Little Nightmares",
   "acerca": [
     [
@@ -120,55 +222,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -284,5 +399,31 @@
     }
   ],
   "web": "http://www.little-nightmares.com",
-  "consultado": "2026-11-22T22:14:00.083Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages: Unrealistic Violence, Fear, Depiction of Suicide",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 9174,
+  "youtube": [
+    {
+      "id": "21RG3wXkR8U",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "-b9IuHlvNLk",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "4iCCrxebsyY",
+      "nombre": "Nine Deaths of Six Trailer"
+    },
+    {
+      "id": "mNa3HMQ9rt8",
+      "nombre": "Deep Below The Waves Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:59:33.832Z"
 }

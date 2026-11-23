@@ -1,9 +1,9 @@
 {
   "clave": "total war three kingdoms",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea1c-71e7-9b12-dd4a7c394475",
   "appid": "779340",
@@ -53,6 +53,115 @@
       "url": "https://opencritic.com/game/7088/total-war-three-kingdoms"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "300010",
+      "nombre": "Total War: THREE KINGDOMS",
+      "apps": [
+        {
+          "appid": "779340",
+          "nombre": "Total War: THREE KINGDOMS"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 29.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "779340": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "1970200",
+      "nombre": "Total War: THREE KINGDOMS - Original Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1637330",
+      "nombre": "Total War: THREE KINGDOMS – The Furious Wild Original Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1493250",
+      "nombre": "Total War: THREE KINGDOMS - Fates Divided",
+      "gratis": false,
+      "usd": 2.71,
+      "descuento": 66
+    },
+    {
+      "appid": "1299591",
+      "nombre": "Total War: THREE KINGDOMS - The Furious Wild",
+      "gratis": false,
+      "usd": 5.43,
+      "descuento": 66
+    },
+    {
+      "appid": "1299590",
+      "nombre": "Total War: THREE KINGDOMS - Shi Xie",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1209110",
+      "nombre": "Total War: THREE KINGDOMS - A World Betrayed",
+      "gratis": false,
+      "usd": 2.71,
+      "descuento": 66
+    },
+    {
+      "appid": "1244640",
+      "nombre": "Total War: THREE KINGDOMS - White Tiger Yan",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1154760",
+      "nombre": "Total War: THREE KINGDOMS - Mandate of Heaven",
+      "gratis": false,
+      "usd": 2.71,
+      "descuento": 66
+    },
+    {
+      "appid": "874310",
+      "nombre": "Total War: THREE KINGDOMS - Reign of Blood",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "1180600",
+      "nombre": "Total War: THREE KINGDOMS - Tao Qian",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1102310",
+      "nombre": "Total War: THREE KINGDOMS - Eight Princes",
+      "gratis": false,
+      "usd": 2.37,
+      "descuento": 66
+    },
+    {
+      "appid": "853360",
+      "nombre": "Total War: THREE KINGDOMS - Yellow Turban Rebellion",
+      "gratis": false,
+      "usd": 2.37,
+      "descuento": 66
+    }
+  ],
   "descripcion": "Unifica la antigua China bajo tu mando con una emocionante combinación de creación de imperio por turnos y batallas en tiempo real. Usa el guanxi y la diplomacia para forjar alianzas y crear poderosos ejércitos compuestos de cientos de unidades únicas de infantería, caballería y máquinas de guerra.",
   "generos": [
     "Acción",
@@ -63,6 +172,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/total-war-three-kingdoms?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Total War: THREE KINGDOMS",
   "acerca": [
     [
@@ -153,55 +263,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -309,5 +432,32 @@
     }
   ],
   "web": "https://www.totalwar.com/",
-  "consultado": "2026-11-22T22:09:01.473Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "Gameplay consists of graphic and realistic-looking depictions of physical conflict, weapons and depictions of human injury and death.",
+  "igdbIntentado": true,
+  "igdb": 80961,
+  "youtube": [
+    {
+      "id": "rCuDyoo2ADE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Jemc5Nc8KMM",
+      "nombre": "Cao Cao Trailer"
+    },
+    {
+      "id": "i0QydMRocjg",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "PpjifFxOx6k",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:54.571Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "blazblue entropy effect",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ef0-711f-89fb-8d7483407588",
   "appid": "2273430",
@@ -52,6 +52,94 @@
       "url": "https://opencritic.com/game/16205/blazblue-entropy-effect"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1004721",
+      "nombre": "BlazBlue Entropy Effect",
+      "apps": [
+        {
+          "appid": "2273430",
+          "nombre": "BlazBlue Entropy Effect"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 10.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2273430": {
+      "usd": 6.29,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "4212180",
+      "nombre": "BlazBlue Entropy Effect: Paquete de personaje de Naoto",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3681910",
+      "nombre": "BlazBlue Entropy Effect: Paquete de personaje de Bullet",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3422870",
+      "nombre": "BlazBlue Entropy Effect: Paquete de personaje de Hazama",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3085820",
+      "nombre": "BlazBlue Entropy Effect: Paquete de personaje de Rachel",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2771130",
+      "nombre": "BlazBlue Entropy Effect - Launch Exclusive Content",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2771140",
+      "nombre": "苍翼：混沌效应 原声音乐集",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2872920",
+      "nombre": "苍翼：混沌效应 原声音乐集 B",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4372020",
+      "nombre": "苍翼：混沌效应 原声音乐集 C",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4372140",
+      "nombre": "苍翼：混沌效应 X档案 角色换色包",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 50
+    }
+  ],
   "descripcion": "¡Disfruta de un combate espectacular repleto de acción con sus combos supergratificantes y controles interactivos! Cada personaje tiene un estilo de juego único y un montón de movimientos y mejoras por desbloquear. Este roguelike deja alto el listón por su acción fluida y trepidante.",
   "generos": [
     "Acción",
@@ -63,6 +151,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/blazblue-entropy-effect?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "BlazBlue Entropy Effect",
   "acerca": [
     [
@@ -145,43 +234,53 @@
   "idiomas": [
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -288,5 +387,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/5275fed879f1310e7f6cdf42fa1b71349933cd66/ss_5275fed879f1310e7f6cdf42fa1b71349933cd66.1920x1080.jpg?t=1793089517"
     }
   ],
-  "consultado": "2026-11-22T22:09:46.473Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 261269,
+  "youtube": [
+    {
+      "id": "_F9RGPe_sJo",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "QaDFah2eSTs",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "LH2gxclYBoQ",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "hRzQ6d8Vd-o",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:50:57.095Z"
 }

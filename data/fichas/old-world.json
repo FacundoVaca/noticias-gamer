@@ -1,9 +1,9 @@
 {
   "clave": "old world",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4091-72d8-93db-d75649d6b7d3",
   "appid": "597180",
@@ -48,6 +48,80 @@
       "url": "https://opencritic.com/game/11628/old-world"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "730494",
+      "nombre": "Old World",
+      "apps": [
+        {
+          "appid": "597180",
+          "nombre": "Old World"
+        }
+      ],
+      "usd": 1.79,
+      "antes": 19.99,
+      "descuento": 91
+    }
+  ],
+  "sueltos": {
+    "597180": {
+      "usd": 1.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "4129630",
+      "nombre": "Old World - Empires of the Indus",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 10
+    },
+    {
+      "appid": "3406150",
+      "nombre": "Old World - Wrath of Gods",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "2587420",
+      "nombre": "Old World - Behind the Throne",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "2587430",
+      "nombre": "Old World - Wonders and Dynasties",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 25
+    },
+    {
+      "appid": "2587410",
+      "nombre": "Old World - Pharaohs of the Nile",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 25
+    },
+    {
+      "appid": "2261870",
+      "nombre": "Old World - The Sacred and The Profane",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 25
+    },
+    {
+      "appid": "1952840",
+      "nombre": "Old World - Heroes of the Aegean",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 80
+    }
+  ],
   "descripcion": "Old World es un juego de estrategia histórica revolucionario. Lidera tu dinastía durante generaciones y enfréntate a regentes rivales. Libra guerras a gran escala, encárgate de tu corte y crea tu dinastía... O contempla cómo tu imperio se reduce a cenizas. ¿Cuál será tu legado?",
   "generos": [
     "Rol",
@@ -59,6 +133,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/old-world?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Old World",
   "acerca": [
     [
@@ -173,43 +248,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -309,5 +394,31 @@
     }
   ],
   "web": "https://mohawkgames.com/oldworld",
-  "consultado": "2026-11-22T22:08:10.795Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 133674,
+  "youtube": [
+    {
+      "id": "1nDp0sc9Pf0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "1XV_V-bS3kc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6GdvO_RMkis",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "QdtfphZTNgM",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:54:20.644Z"
 }

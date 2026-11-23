@@ -1,9 +1,9 @@
 {
   "clave": "los sims 4 vida en el pueblo pack de expansion",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-50e0-71a6-93ba-02adfab764bb",
   "appid": "1458150",
@@ -53,6 +53,27 @@
     "appid": "1222670",
     "nombre": "The Sims™ 4"
   },
+  "ediciones": [
+    {
+      "packageid": "513393",
+      "nombre": "Los Sims™ 4 Vida en el Pueblo - Pack de Expansión",
+      "apps": [
+        {
+          "appid": "1458150",
+          "nombre": "Los Sims™ 4 Vida en el Pueblo - Pack de Expansión"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1458150": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Disfruta del pintoresco encanto de Los Sims™ 4 Vida en el Pueblo - Pack de Expansión con amistades animales, comidas de la huerta y una comunidad muy unida.",
   "generos": [
     "Casual",
@@ -92,75 +113,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -256,5 +295,21 @@
     }
   ],
   "web": "https://www.ea.com/games/the-sims/the-sims-4",
-  "consultado": "2026-11-22T22:21:43.460Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 152316,
+  "youtube": [
+    {
+      "id": "xlYojESNBIg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "7rSNOU_T7mg",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:48:44.012Z"
 }

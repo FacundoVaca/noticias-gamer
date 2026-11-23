@@ -2,7 +2,8 @@
   "clave": "persona 4 golden",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4382-707a-85b5-cdf1984ea8a8",
   "appid": "1113000",
@@ -48,6 +49,41 @@
       "url": "https://opencritic.com/game/9636/persona-4-golden"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "447601",
+      "nombre": "Persona 4 Golden",
+      "apps": [
+        {
+          "appid": "1113000",
+          "nombre": "Persona 4 Golden"
+        }
+      ],
+      "usd": 8.49,
+      "antes": 16.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "376686",
+      "nombre": "Persona 4 Golden - Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1113000",
+          "nombre": "Persona 4 Golden"
+        }
+      ],
+      "usd": 10.74,
+      "antes": 21.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1113000": {
+      "usd": 8.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Una historia de juventud en la que el protagonista y sus amigos se embarcan en una aventura a raíz de una serie de asesinatos.",
   "generos": [
     "Rol"
@@ -57,6 +93,231 @@
     "puntaje": 87,
     "url": "https://www.metacritic.com/game/pc/persona-4-golden?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 72039,
-  "consultado": "2026-11-22T21:45:54.469Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Persona 4 Golden",
+  "acerca": [
+    [
+      "p",
+      "Inaba, un apacible pueblo del Japón rural, es el escenario del fin de la adolescencia en Persona 4 Golden."
+    ],
+    [
+      "p",
+      "Una historia de juventud en la que el protagonista y sus amigos se embarcan en una aventura a raíz de una serie de asesinatos. Explora y conoce a almas afines que buscan su lugar en el mundo y enfréntate al lado más oscuro de uno mismo."
+    ],
+    [
+      "p",
+      "Persona 4 Golden promete lazos inquebrantables y experiencias compartidas con grandes amigos."
+    ],
+    [
+      "p",
+      "Con una puntuación media de 93 en Metacritic y numerosos premios en su haber, Persona 4 Golden es uno de los mejores RPG jamás creados. En él se combinan una historia apasionante y la jugabilidad típica de la saga Persona."
+    ],
+    [
+      "p",
+      "La experiencia de Persona 4 Golden en Steam mejora con un mando."
+    ],
+    [
+      "h",
+      "Las características incluyen:"
+    ],
+    [
+      "p",
+      "Disfruta del juego con una velocidad de fotogramas variable (*las cinemáticas se ven a 60 FPS)."
+    ],
+    [
+      "p",
+      "Adéntrate en el mundo de Persona en tu ordenador en calidad HD."
+    ],
+    [
+      "p",
+      "Logros de Steam y cromos."
+    ],
+    [
+      "p",
+      "Con voces disponibles en japonés e inglés."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo E8400 | AMD Phenom II X2 550"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTS 450 | AMD Radeon HD 5770"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-650 | AMD Phenom X4 940"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 460 | AMD Radeon HD 6870"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_eaa97afeaed3e89d3032e8bb60cb8d6f331f241d.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_eaa97afeaed3e89d3032e8bb60cb8d6f331f241d.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_c92cef1e572183055dab3d8bcdcbc5fe55deb0cc.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_c92cef1e572183055dab3d8bcdcbc5fe55deb0cc.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_949196116c67aa963863a94def5a810a6d12979c.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_949196116c67aa963863a94def5a810a6d12979c.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_e772d1ad98a07b52e4434ef0fe1e8251e5908629.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_e772d1ad98a07b52e4434ef0fe1e8251e5908629.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_b5e00d6660011d7f729b3c3a8467ac1d6821a032.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_b5e00d6660011d7f729b3c3a8467ac1d6821a032.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_8210790281b6a8048bfca7d80c1940e42220de0b.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_8210790281b6a8048bfca7d80c1940e42220de0b.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_cdce2c78607ed827eb1a65f7d141c440584e9616.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_cdce2c78607ed827eb1a65f7d141c440584e9616.1920x1080.jpg?t=1763530422"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_3dba5ab7bf955a8369c37402d59b54e92d88024d.600x338.jpg?t=1763530422",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/ss_3dba5ab7bf955a8369c37402d59b54e92d88024d.1920x1080.jpg?t=1763530422"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Alcohol Reference Animated Blood Language Partial Nudity Sexual Themes Violence",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 234702,
+  "youtube": [
+    {
+      "id": "i3fUvWwZLyo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "t2ZEj8JK2tY",
+      "nombre": "Game Intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:18.250Z"
 }

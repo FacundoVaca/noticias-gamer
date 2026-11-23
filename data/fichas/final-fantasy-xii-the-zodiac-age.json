@@ -1,9 +1,9 @@
 {
   "clave": "final fantasy xii the zodiac age",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0c79-7287-a46c-67c271e0c562",
   "appid": "595520",
@@ -42,12 +42,52 @@
       "url": "https://metacritic.com/game/final-fantasy-xii-the-zodiac-age/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "230003",
+      "nombre": "FINAL FANTASY XII THE ZODIAC AGE",
+      "apps": [
+        {
+          "appid": "595520",
+          "nombre": "FINAL FANTASY XII THE ZODIAC AGE"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 39.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "595520": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3372130",
+      "nombre": "FINAL FANTASY XII THE ZODIAC AGE ORIGINAL SOUNDTRACK",
+      "gratis": false,
+      "usd": 9.44,
+      "descuento": 10
+    },
+    {
+      "appid": "4425310",
+      "nombre": "Piano Collections FINAL FANTASY XII",
+      "gratis": false,
+      "usd": 8.9,
+      "descuento": 10
+    }
+  ],
   "descripcion": "FINAL FANTASY XII THE ZODIAC AGE - Este venerado clásico regresa ahora completamente remasterizado por primera vez para PC con aspectos de la jugabilidad nuevos y mejorados.",
   "generos": [
     "Rol"
   ],
   "lanzamientoTexto": "1 FEB 2018",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "FINAL FANTASY XII THE ZODIAC AGE",
   "acerca": [
     [
@@ -133,39 +173,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -277,5 +326,30 @@
     }
   ],
   "web": "http://www.finalfantasyxii.com/home/",
-  "consultado": "2026-11-22T22:16:11.101Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19455,
+  "youtube": [
+    {
+      "id": "ZQw36oMNXRk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "uU6hkQSE38Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "IoHgR76JWmA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "D2-bWotLKqo",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T10:00:57.898Z"
 }

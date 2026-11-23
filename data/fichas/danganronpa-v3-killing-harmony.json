@@ -1,9 +1,9 @@
 {
   "clave": "danganronpa v3 killing harmony",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-154b-7373-8776-11dbffb814ff",
   "appid": "567640",
@@ -41,6 +41,28 @@
       "url": "https://metacritic.com/game/danganronpa-v3-killing-harmony/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "207584",
+      "nombre": "Danganronpa V3: Killing Harmony",
+      "apps": [
+        {
+          "appid": "567640",
+          "nombre": "Danganronpa V3: Killing Harmony"
+        }
+      ],
+      "usd": 3.79,
+      "antes": 18.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "567640": {
+      "usd": 3.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Un elenco de 16 personajes está secuestrado y encarcelado en una escuela. En el interior, algunos matarán, algunos morirán y algunos serán castigados. Reimagina lo que creías que era una investigación frenética a vida o muerte mientras investigas asesinatos y condenas a muerte a tus nuevos amigos.",
   "generos": [
     "Aventura"
@@ -50,6 +72,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/danganronpa-v3-killing-harmony?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Danganronpa V3: Killing Harmony",
   "acerca": [
     [
@@ -92,23 +115,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -216,5 +244,26 @@
     }
   ],
   "web": "http://www.spike-chunsoft.co.jp/",
-  "consultado": "2026-11-22T22:13:08.187Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 12579,
+  "youtube": [
+    {
+      "id": "7c7O-bRYsY8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5Ie97f8CQ5s",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "j0hzjKoI0kk",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:52:29.189Z"
 }

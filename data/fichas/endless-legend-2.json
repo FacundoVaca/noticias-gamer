@@ -1,9 +1,9 @@
 {
   "clave": "endless legend 2",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0194948b-e90a-7157-b378-b4e823f60b32",
   "appid": "3407390",
@@ -50,6 +50,28 @@
       "url": "https://opencritic.com/game/21364/endless-legend-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1205299",
+      "nombre": "ENDLESS Legend™ 2",
+      "apps": [
+        {
+          "appid": "3407390",
+          "nombre": "ENDLESS Legend™ 2"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 24.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3407390": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Lleva a tu gente a la victoria en un mundo cambiante en este juego estratégico con facciones asimétricas lideradas por grandes héroes. Erige tu imperio, ejerce influencia política y reúne ejércitos de guerreros para descubrir los oscuros secretos que alberga el planeta.",
   "generos": [
     "Rol",
@@ -61,6 +83,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/endless-legend-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "ENDLESS Legend™ 2",
   "acerca": [
     [
@@ -111,67 +134,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -275,5 +314,30 @@
     }
   ],
   "web": "https://store.steampowered.com/publisher/AmplitudeStudios/sale/EndlessLegend2",
-  "consultado": "2026-11-22T22:08:20.245Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 329138,
+  "youtube": [
+    {
+      "id": "EzXjjWHwSRM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "fdmul_x0HBg",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "d6CrUefP7UE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Rnqd0-yrPeA",
+      "nombre": "Accolades Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T09:56:46.121Z"
 }
