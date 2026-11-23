@@ -32,7 +32,7 @@ jobs:
           MANUAL: ${{ inputs.tiendas }}
           CRON: ${{ github.event.schedule }}
         run: |
-          if [ -n "$MANUAL" ]; then T="$MANUAL"; elif [ "$CRON" = "41 9,21 * * *" ]; then T="steam,epic,xbox,playstation"; else T="steam,epic,xbox"; fi
+          if [ -n "$MANUAL" ]; then T="$MANUAL"; elif [ "$CRON" = "43 9,21 * * *" ]; then T="steam,epic,xbox,playstation"; else T="steam,epic,xbox"; fi
           echo "tiendas=$T" >> "$GITHUB_OUTPUT"
       - run: npm install --no-audit --no-fund
       - name: Instalar navegador para PlayStation

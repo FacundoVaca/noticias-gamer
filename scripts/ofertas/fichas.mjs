@@ -10,7 +10,7 @@ import { leerJSON, guardarJSON, ruta, log, decodificar } from "../lib/util.mjs";
 
 const CARPETA = ruta("data", "fichas");
 const VIEJO = ruta("data", "fichas.json"); // formato anterior: un solo archivo
-const VERSION = 6; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
+const VERSION = 7; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
 const VIGENCIA_MS = 30 * 864e5;
 const REINTENTO_MS = 3 * 864e5; // si no se encontró nada, se vuelve a probar a los 3 días
 const MAX_POR_CORRIDA = 150;
@@ -76,6 +76,42 @@ export const idiomas = (html) => {
   return out.length ? out : null;
 };
 
+// Idiomas de Steam (enum ELanguage) con el nombre que usa la tienda en español. Sirve para saber, idioma por
+// idioma, si tiene textos, voces y subtítulos (appdetails solo dice textos y voces).
+const STEAM_IDIOMAS = ["Inglés", "Alemán", "Francés", "Italiano", "Coreano", "Español de España", "Chino simplificado", "Chino tradicional",
+  "Ruso", "Tailandés", "Japonés", "Portugués de Portugal", "Polaco", "Danés", "Holandés", "Finés", "Noruego", "Sueco", "Húngaro", "Checo",
+  "Rumano", "Turco", "Portugués de Brasil", "Búlgaro", "Griego", "Árabe", "Ucraniano", "Español de Hispanoamérica", "Vietnamita", "Indonesio"];
+const ALIAS = { portugues: "portuguesdeportugal", finlandes: "fines", neerlandes: "holandes", espanolespana: "espanoldeespana",
+  espanollatinoamerica: "espanoldehispanoamerica", espanoldelatinoamerica: "espanoldehispanoamerica" };
+const normIdioma = (x) => { const n = String(x || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z]/g, ""); return ALIAS[n] || n; };
+// Cruza los idiomas detallados de Steam con la lista de appdetails: solo se usa si coinciden uno a uno
+// (si Steam cambia algo y no coinciden, la ficha se queda con textos y voces, sin inventar subtítulos)
+export function idiomasDetalle(base, detalle) {
+  if (!base?.length || !Array.isArray(detalle) || !detalle.length) return base;
+  const porNombre = new Map();
+  for (const d of detalle) {
+    const n = STEAM_IDIOMAS[d.elanguage];
+    if (!n || !d.supported) continue;
+    porNombre.set(normIdioma(n), d);
+  }
+  const conocidos = new Set(STEAM_IDIOMAS.map(normIdioma));
+  const enBase = base.filter((b) => conocidos.has(normIdioma(b.nombre)));
+  if (porNombre.size !== enBase.length || !enBase.every((b) => porNombre.has(normIdioma(b.nombre)))) return base;
+  // Los idiomas que no están en la tabla quedan sin dato de subtítulos (no se adivina)
+  const out = base.map((b) => { const d = porNombre.get(normIdioma(b.nombre)); return d ? { ...b, voces: !!d.full_audio, subtitulos: !!d.subtitles } : b; });
+  // Control: las voces de las dos fuentes tienen que coincidir
+  return out.every((x, i) => x.voces === base[i].voces) ? out : base;
+}
+const DECK = { 1: "No compatible", 2: "Jugable", 3: "Verificado" };
+
+async function steamExtra(appid) {
+  const input = { ids: [{ appid: +appid }], context: { language: "spanish", country_code: "AR", steam_realm: 1 }, data_request: { include_supported_languages: true, include_platforms: true } };
+  const r = await pedir(`https://api.steampowered.com/IStoreBrowseService/GetItems/v1/?input_json=${encodeURIComponent(JSON.stringify(input))}`);
+  const x = r?.response?.store_items?.[0];
+  if (!x || x.success !== 1) return null;
+  return { idiomas: x.supported_languages || null, deck: DECK[x.platforms?.steam_deck_compat_category] || null };
+}
+
 async function steamDetalle(appid) {
   const d = await pedir(`https://store.steampowered.com/api/appdetails?appids=${appid}&l=spanish&cc=ar`);
   const x = d?.[appid];
@@ -92,6 +128,10 @@ async function steamDetalle(appid) {
     caracteristicas: (a.categories || []).map((c) => c.description).filter(Boolean).slice(0, 14),
     idiomas: idiomas(a.supported_languages),
     requisitos: req && (req.minimo || req.recomendado) ? req : null,
+    sistemas: a.platforms ? [a.platforms.windows && "Windows", a.platforms.mac && "macOS", a.platforms.linux && "Linux"].filter(Boolean) : null,
+    edad: a.required_age && +a.required_age > 0 ? +a.required_age : null,
+    avisoContenido: sinHtml(a.content_descriptors?.notes) || null,
+    controles: a.controller_support === "full" ? "Compatibilidad total con mando" : a.controller_support === "partial" ? "Compatibilidad parcial con mando" : null,
     capturas: (a.screenshots || []).slice(0, 8).map((c) => ({ chica: c.path_thumbnail, grande: c.path_full })).filter((c) => c.chica && c.grande),
     desarrolladores: a.developers || [],
     editores: a.publishers || [],
@@ -148,7 +188,7 @@ async function steamEdiciones(paquetes) {
     catch (err) { log(`Paquete Steam ${p.packageid}: ${err.message}`); }
     await pausa(1000);
   }
-  if (ediciones.length < 2 && !(ediciones[0]?.apps.length > 1)) return null; // una sola opción de compra: no hay nada que comparar
+  if (!ediciones.length) return null; // con una sola opción de compra igual se muestra qué incluye
   const ids = [...new Set(ediciones.flatMap((e) => e.apps.map((a) => a.appid)))].slice(0, 60);
   const sueltos = {};
   try { for (const it of await steamItems(ids)) sueltos[it.appid] = { usd: it.usd, gratis: it.gratis }; }
@@ -304,7 +344,11 @@ async function consultar(grupo, key) {
         if (!f.editores?.length) f.editores = s.editores;
         f.lanzamientoTexto = s.lanzamientoTexto;
         f.metacritic = s.metacritic;
-        for (const k of ["nombreSteam", "acerca", "caracteristicas", "idiomas", "requisitos", "capturas", "web", "trailers"]) if (s[k] && (!Array.isArray(s[k]) || s[k].length)) f[k] = s[k];
+        try {
+          const x = await steamExtra(appid);
+          if (x) { s.idiomas = idiomasDetalle(s.idiomas, x.idiomas); if (x.deck) f.steamDeck = x.deck; }
+        } catch (err) { log(`Idiomas Steam ${appid}: ${err.message}`); }
+        for (const k of ["nombreSteam", "acerca", "caracteristicas", "idiomas", "requisitos", "capturas", "web", "trailers", "sistemas", "edad", "avisoContenido", "controles"]) if (s[k] && (!Array.isArray(s[k]) || s[k].length)) f[k] = s[k];
         f.fuentes.push("Steam");
       }
     } catch (err) { log(`Ficha Steam ${appid}: ${err.message}`); }
@@ -383,11 +427,16 @@ export async function actualizarFichas(juegos) {
   }
   const ahora = Date.now();
   const conIgdb = !!(process.env.IGDB_CLIENT_ID && process.env.IGDB_CLIENT_SECRET);
-  // Versión 6 suma Xbox e IGDB: solo hace falta volver a consultar las fichas que no tienen datos de Steam
-  const vencida = (f) => !f || (f.v || 1) < 5 || ((f.v || 1) < VERSION && !f.fuentes?.includes("Steam")) || (conIgdb && !f.igdbIntentado) || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
-  // Primero los que tienen oferta en Steam (traen más datos) y los que nunca se consultaron
+  // Versión 7 suma subtítulos, sistemas operativos y Steam Deck: se vuelven a consultar las fichas con datos de Steam
+  const vencida = (f) => !f || (f.v || 1) < 5 || ((f.v || 1) < 6 && !f.fuentes?.includes("Steam")) || ((f.v || 1) < VERSION && f.appid) || (conIgdb && !f.igdbIntentado) || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
+  // Orden: primero las que nunca se consultaron o les falta lo básico (descripción, capturas, idiomas), y dentro
+  // de cada grupo los juegos más populares (las tiendas listan sus ofertas de más a menos vendidas)
+  const nivel = (f) => !f ? 0 : (f.v || 1) < 5 ? 1 : 2;
+  const pos = new Map();
+  const cuenta = {};
+  for (const g of juegos) { const k = claveJuego(g.titulo), r = cuenta[g.tienda] = (cuenta[g.tienda] ?? -1) + 1; if (!pos.has(k) || r < pos.get(k)) pos.set(k, r); }
   const pendientes = [...grupos.values()].filter((gr) => vencida(cache[gr.clave]))
-    .sort((a, b) => (!!cache[a.clave] - !!cache[b.clave]) || (b.some((g) => g.tienda === "steam") - a.some((g) => g.tienda === "steam")))
+    .sort((a, b) => (nivel(cache[a.clave]) - nivel(cache[b.clave])) || (pos.get(a.clave) - pos.get(b.clave)) || (b.some((g) => g.tienda === "steam") - a.some((g) => g.tienda === "steam")))
     .slice(0, MAX_POR_CORRIDA);
   if (!key && !pendientes.some((gr) => gr.some((g) => g.tienda === "steam"))) return log("Fichas: sin ITAD_API_KEY y sin juegos de Steam pendientes.");
   let ok = 0;
