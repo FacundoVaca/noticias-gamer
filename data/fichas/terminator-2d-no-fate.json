@@ -48,12 +48,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "615357",
+      "nombre": "Terminator 2D: NO FATE",
+      "apps": [
+        {
+          "appid": "1718460",
+          "nombre": "Terminator 2D: NO FATE"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1718460": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Siente la emoción de Terminator 2: el juicio final, juego de acción arcade y gráficos impecables! Una historia única que combina las propias escenas icónicas de la película con nuevos escenarios y múltiples finales. El destino de la humanidad está en tus manos.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "12 DIC 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Terminator 2D: NO FATE",
   "acerca": [
     [
@@ -108,59 +130,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -231,6 +267,14 @@
     }
   ],
   "web": "https://terminator2d.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 17,
+  "avisoContenido": "Violence, Blood, Bad Language, Nudity",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 327500,
   "youtube": [
@@ -251,6 +295,6 @@
       "nombre": "Dev Diary"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:47:38.032Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:09:49.257Z"
 }

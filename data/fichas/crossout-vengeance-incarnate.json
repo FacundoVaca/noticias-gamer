@@ -26,6 +26,27 @@
     "appid": "386180",
     "nombre": "Crossout Remastered"
   },
+  "ediciones": [
+    {
+      "packageid": "1681336",
+      "nombre": "Crossout — Vengeance incarnate",
+      "apps": [
+        {
+          "appid": "4839760",
+          "nombre": "Crossout — Vengeance incarnate"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4839760": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Nuevo fortificador de estructuras “SF-4 Granite”;Cabina: “Bastion”;Armas: “Raijin”;Piezas de movimiento: “Atom” (4 uds.);Equipamiento adicional: “Colossus”, “Bootstrap”, \"KA-2 Flywheel\", “Suministro de munición”;Retrato: “Sargento Waltz”;1500 coins.",
   "generos": [
     "Acción",
@@ -137,39 +158,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -205,7 +235,11 @@
     }
   ],
   "web": "http://crossout.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:51:41.122Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:56.730Z"
 }

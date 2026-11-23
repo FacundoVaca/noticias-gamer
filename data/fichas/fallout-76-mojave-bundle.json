@@ -34,6 +34,27 @@
     "appid": "1151340",
     "nombre": "Fallout 76"
   },
+  "ediciones": [
+    {
+      "packageid": "1487841",
+      "nombre": "Fallout 76: Mojave Bundle",
+      "apps": [
+        {
+          "appid": "4250650",
+          "nombre": "Fallout 76: Mojave Bundle"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 20.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4250650": {
+      "usd": 20.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Patrulla Burning Springs con tu servoarmadura de la RNC y el lote del Mojave. Se necesita el juego base de Fallout 76 (se vende por separado).",
   "generos": [
     "Rol"
@@ -94,55 +115,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -174,7 +208,12 @@
     }
   ],
   "web": "https://fallout.bethesda.net/en/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Drug Reference Intense Violence Strong Language Suggestive Themes Use of Alcohol",
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:51:45.081Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:00.945Z"
 }

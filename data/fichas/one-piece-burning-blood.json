@@ -111,6 +111,7 @@
   ],
   "lanzamientoTexto": "1 SEP 2016",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "One Piece Burning Blood",
   "acerca": [
     [
@@ -154,51 +155,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -306,6 +319,11 @@
     }
   ],
   "web": "http://www.onepiece-game.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game contains Blood, Suggestive Themes, Use of Tobacco, and Violence.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 18443,
   "youtube": [
@@ -314,6 +332,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:51:18.977Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:42.830Z"
 }

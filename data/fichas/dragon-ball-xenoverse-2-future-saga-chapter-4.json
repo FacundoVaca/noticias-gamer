@@ -36,6 +36,27 @@
     "appid": "454650",
     "nombre": "DRAGON BALL XENOVERSE 2"
   },
+  "ediciones": [
+    {
+      "packageid": "1372524",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4",
+      "apps": [
+        {
+          "appid": "3905260",
+          "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 9.59,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3905260": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
   "descripcion": "¡El cuarto capítulo de la serie FUTURE SAGA describe una alteración de la historia sin precedentes! ¡Incluye nuevos personajes jugables, una nueva misión adicional, nuevas misiones secundarias, movimientos adicionales, trajes y más!",
   "generos": [
     "Acción",
@@ -127,55 +148,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -227,8 +261,12 @@
     }
   ],
   "web": "http://www.dragonballxenoverse2.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 376250,
-  "v": 6,
-  "consultado": "2026-11-22T22:51:10.709Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:32.620Z"
 }

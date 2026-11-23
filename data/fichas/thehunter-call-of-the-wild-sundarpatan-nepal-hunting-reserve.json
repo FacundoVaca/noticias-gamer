@@ -35,6 +35,27 @@
     "appid": "518790",
     "nombre": "theHunter: Call of the Wild™"
   },
+  "ediciones": [
+    {
+      "packageid": "1023435",
+      "nombre": "theHunter: Call of the Wild™ - Sundarpatan Hunting Reserve",
+      "apps": [
+        {
+          "appid": "2869680",
+          "nombre": "theHunter: Call of the Wild™ - Sundarpatan Nepal Hunting Reserve"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 6.59,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2869680": {
+      "usd": 6.59,
+      "gratis": false
+    }
+  },
   "descripcion": "Enfréntate a la implacable belleza de la reserva de caza de Sundarpatan, en Nepal. Adéntrate en las tres regiones de climas diferenciados y caza las 10 especies nuevas.",
   "generos": [
     "Aventura",
@@ -101,43 +122,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -225,8 +256,12 @@
     }
   ],
   "web": "http://callofthewild.thehunter.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 305517,
-  "v": 6,
-  "consultado": "2026-11-22T22:48:26.961Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:42.718Z"
 }

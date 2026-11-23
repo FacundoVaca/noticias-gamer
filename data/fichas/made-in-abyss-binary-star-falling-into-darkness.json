@@ -43,17 +43,39 @@
     {
       "fuente": "OpenCritic",
       "puntaje": 57,
-      "cantidad": 38,
+      "cantidad": 39,
       "url": "https://opencritic.com/game/13627/made-in-abyss-binary-star-falling-into-darkness"
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "462435",
+      "nombre": "Made in Abyss: Binary Star Falling into Darkness",
+      "apps": [
+        {
+          "appid": "1324340",
+          "nombre": "Made in Abyss: Binary Star Falling into Darkness"
+        }
+      ],
+      "usd": 4.04,
+      "antes": 26.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1324340": {
+      "usd": 4.04,
+      "gratis": false
+    }
+  },
   "descripcion": "Experience the awesome power of the Curse of the Abyss, as well as the astonishing, legendary entities known as primeval creatures. Prepare to glimpse the world of Riko and her friends.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "2 SEP 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Made in Abyss: Binary Star Falling into Darkness",
   "acerca": [
     [
@@ -101,19 +123,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -208,6 +234,9 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324340/ss_a05c9e91266a7924d78d80a0846bdd1309369399.1920x1080.jpg?t=1715700940"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 146711,
   "youtube": [
@@ -216,6 +245,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:29.619Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:01.207Z"
 }

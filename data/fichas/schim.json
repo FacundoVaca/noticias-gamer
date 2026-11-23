@@ -51,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "535681",
+      "nombre": "SCHiM",
+      "apps": [
+        {
+          "appid": "1519710",
+          "nombre": "SCHiM"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1519710": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
   "descripcion": "En SCHiM, tendrás que saltar de sombra en sombra en un entorno alegre y relajante. Este juego de plataformas 3D utiliza las luces y las sombras animadas para crear una experiencia única que solo encontrarás en SCHiM.",
   "generos": [
     "Aventura",
@@ -59,6 +80,7 @@
   ],
   "lanzamientoTexto": "18 JUL 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "SCHiM",
   "acerca": [
     [
@@ -313,6 +335,12 @@
     }
   ],
   "web": "https://schimgame.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 140799,
   "youtube": [
@@ -333,6 +361,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:52:00.353Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:17.024Z"
 }

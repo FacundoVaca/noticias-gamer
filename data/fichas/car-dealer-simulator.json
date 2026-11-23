@@ -31,6 +31,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "865372",
+      "nombre": "Car Dealer Simulator",
+      "apps": [
+        {
+          "appid": "2404880",
+          "nombre": "Car Dealer Simulator"
+        }
+      ],
+      "usd": 5.73,
+      "antes": 5.73,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2404880": {
+      "usd": 5.73,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -49,6 +70,7 @@
   ],
   "lanzamientoTexto": "29 MAY 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Car Dealer Simulator",
   "acerca": [
     [
@@ -90,75 +112,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -269,6 +309,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2404880/cb29bd8d3e5d31b817fb7a0b1691ec143fae9841/ss_cb29bd8d3e5d31b817fb7a0b1691ec143fae9841.1920x1080.jpg?t=1795262053"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 248933,
   "youtube": [
@@ -281,6 +325,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:58.370Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:04.793Z"
 }

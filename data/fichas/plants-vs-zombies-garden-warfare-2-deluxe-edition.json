@@ -1,9 +1,9 @@
 {
   "clave": "plants vs zombies garden warfare 2 deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-17cf-70b3-a63b-970e1ffd1c31",
   "appid": "1922560",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "692601",
+      "nombre": "Plants vs. Zombies™ Garden Warfare 2: Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1922560",
+          "nombre": "Plants vs. Zombies™ Garden Warfare 2: Edición Deluxe"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 29.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1922560": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Ten listos los Lanzaguisantes y prepárate para el shooter más alocado y divertido del universo: Plants vs. Zombies Garden Warfare 2.",
   "generos": [
     "Acción",
@@ -41,6 +62,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/plants-vs-zombies-garden-warfare-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Plants vs. Zombies™ Garden Warfare 2: Edición Deluxe",
   "acerca": [
     [
@@ -117,35 +139,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -249,5 +279,11 @@
     }
   ],
   "web": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-garden-warfare-2",
-  "consultado": "2026-11-22T22:32:56.788Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 81997,
+  "v": 7,
+  "consultado": "2026-11-23T13:09:14.470Z"
 }

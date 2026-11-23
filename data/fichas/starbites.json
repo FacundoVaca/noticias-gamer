@@ -44,6 +44,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "787495",
+      "nombre": "STARBITES",
+      "apps": [
+        {
+          "appid": "2199080",
+          "nombre": "STARBITES"
+        }
+      ],
+      "usd": 18.74,
+      "antes": 24.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "2199080": {
+      "usd": 18.74,
+      "gratis": false
+    }
+  },
   "dlcTotal": 4,
   "dlcLista": [
     {
@@ -84,6 +105,7 @@
   ],
   "lanzamientoTexto": "21 MAY 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "STARBITES",
   "acerca": [
     [
@@ -182,19 +204,23 @@
   "idiomas": [
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -294,6 +320,11 @@
     }
   ],
   "web": "https://www.ikinagames.com/starbites",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 235475,
   "youtube": [
@@ -314,6 +345,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:01.105Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:36.599Z"
 }

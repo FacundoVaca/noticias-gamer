@@ -41,6 +41,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "857299",
+      "nombre": "PATAPON 1+2 REPLAY",
+      "apps": [
+        {
+          "appid": "2383200",
+          "nombre": "PATAPON 1+2 REPLAY"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2383200": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
   "descripcion": "PATAPON es una aventura de acción en la que los jugadores usan el ritmo de 4 tambores místicos para dirigir a unas tiernas y misteriosas criaturitas con forma de ojos llamadas patapons. ¡Conviértete en el Ser Supremo de los patapons y dirígelos en este increíble viaje hasta el confín de la Tierra!",
   "generos": [
     "Acción",
@@ -49,6 +70,7 @@
   ],
   "lanzamientoTexto": "10 JUL 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "PATAPON 1+2 REPLAY",
   "acerca": [
     [
@@ -127,39 +149,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -266,6 +297,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383200/34e94252736d31c8adf3aa436f36139ecc895c1c/ss_34e94252736d31c8adf3aa436f36139ecc895c1c.1920x1080.jpg?t=1766123897"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 337025,
   "youtube": [
@@ -282,6 +317,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:51:55.537Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:11.917Z"
 }

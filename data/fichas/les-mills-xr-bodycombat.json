@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1230695",
+      "nombre": "LES MILLS BODYCOMBAT",
+      "apps": [
+        {
+          "appid": "3484680",
+          "nombre": "LES MILLS XR BODYCOMBAT"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3484680": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 5,
   "dlcLista": [
     {
@@ -74,6 +95,7 @@
   ],
   "lanzamientoTexto": "14 ABR 2025",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "LES MILLS XR BODYCOMBAT",
   "acerca": [
     [
@@ -131,35 +153,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -267,6 +297,9 @@
     }
   ],
   "web": "https://odderslab.com/bodycombat/",
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 204582,
   "youtube": [
@@ -275,6 +308,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:25.107Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:55.997Z"
 }

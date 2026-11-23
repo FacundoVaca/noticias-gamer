@@ -51,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "294067",
+      "nombre": "We Happy Few",
+      "apps": [
+        {
+          "appid": "320240",
+          "nombre": "We Happy Few"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "320240": {
+      "usd": 59.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 4,
   "dlcLista": [
     {
@@ -93,6 +114,7 @@
     "puntaje": 62,
     "url": "https://www.metacritic.com/game/pc/we-happy-few?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "We Happy Few",
   "acerca": [
     [
@@ -172,39 +194,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -292,6 +323,11 @@
     }
   ],
   "web": "https://compulsiongames.com/games/we-happy-few/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 9182,
   "youtube": [
@@ -312,6 +348,6 @@
       "nombre": "Maidenholm Update Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:13.983Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:41.900Z"
 }

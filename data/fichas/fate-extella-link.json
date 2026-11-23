@@ -376,6 +376,7 @@
     "puntaje": 79,
     "url": "https://www.metacritic.com/game/pc/fateextella-link?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Fate/EXTELLA LINK",
   "acerca": [
     [
@@ -438,23 +439,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -562,6 +568,10 @@
     }
   ],
   "web": "http://fateextellalink.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
   "igdbIntentado": true,
   "igdb": 55137,
   "youtube": [
@@ -582,6 +592,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:51:51.044Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:06.847Z"
 }

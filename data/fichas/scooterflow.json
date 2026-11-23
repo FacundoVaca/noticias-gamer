@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "585712",
+      "nombre": "ScooterFlow",
+      "apps": [
+        {
+          "appid": "1648390",
+          "nombre": "ScooterFlow"
+        }
+      ],
+      "usd": 10,
+      "antes": 10,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1648390": {
+      "usd": 10,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -49,6 +70,7 @@
   ],
   "lanzamientoTexto": "29 ABR 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "ScooterFlow",
   "acerca": [
     [
@@ -149,55 +171,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -296,6 +331,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1648390/42b9212d35f1efe2d1f60cbc496627a13f724b56/ss_42b9212d35f1efe2d1f60cbc496627a13f724b56.1920x1080.jpg?t=1787920586"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 152451,
   "youtube": [
@@ -308,6 +347,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:51:01.638Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:27.455Z"
 }

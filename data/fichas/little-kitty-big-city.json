@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "404584",
+      "nombre": "Little Kitty, Big City",
+      "apps": [
+        {
+          "appid": "1177980",
+          "nombre": "Little Kitty, Big City"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1177980": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -67,6 +88,7 @@
   ],
   "lanzamientoTexto": "9 MAY 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Little Kitty, Big City",
   "acerca": [
     [
@@ -121,55 +143,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -236,6 +271,10 @@
     }
   ],
   "web": "https://linktr.ee/littlekittybigcity",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 145937,
   "youtube": [
@@ -256,6 +295,6 @@
       "nombre": "Gameplay Video"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:52:11.375Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:26.881Z"
 }

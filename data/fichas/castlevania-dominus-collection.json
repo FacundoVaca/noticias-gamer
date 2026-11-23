@@ -51,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "851987",
+      "nombre": "Castlevania Dominus Collection",
+      "apps": [
+        {
+          "appid": "2369900",
+          "nombre": "Castlevania Dominus Collection"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2369900": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Tres increíbles juegos de aventura y acción de la saga Castlevania finalmente regresan, por primera vez! ¡Pero espera, que hay más! ¡Llega el debut de Haunted Castle Revisited, una versión rediseñada del primer juego para máquinas recreativas de Castlevania!",
   "generos": [
     "Acción",
@@ -58,6 +79,7 @@
   ],
   "lanzamientoTexto": "27 AGO 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Castlevania Dominus Collection",
   "acerca": [
     [
@@ -140,27 +162,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -251,6 +279,11 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369900/ss_81a661b6fcf24eed1daf8eaced70e2ebb74716e9.1920x1080.jpg?t=1745815495"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Mild nudity occurs through different enemy designs. Player may attack humanoid demons, zombies, etc. with whips and swords. It is pixel art, so no details are represented.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 314944,
   "youtube": [
@@ -259,6 +292,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:42.232Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:22.701Z"
 }

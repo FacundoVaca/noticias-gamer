@@ -98,6 +98,7 @@
   ],
   "lanzamientoTexto": "2 AGO 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "UBOAT",
   "acerca": [
     [
@@ -196,55 +197,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -343,6 +357,9 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/ss_175073d00dcabdcc37ee2ace39f34ea6547fb272.1920x1080.jpg?t=1794496195"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 32283,
   "youtube": [
@@ -359,6 +376,6 @@
       "nombre": "Gameplay video"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:47:54.808Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:08.765Z"
 }

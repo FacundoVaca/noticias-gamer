@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "191913",
+      "nombre": "Bugsnax",
+      "apps": [
+        {
+          "appid": "674140",
+          "nombre": "Bugsnax"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 12.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "674140": {
+      "usd": 6.24,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -67,6 +88,7 @@
   ],
   "lanzamientoTexto": "28 ABR 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Bugsnax",
   "acerca": [
     [
@@ -124,51 +146,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -272,6 +306,11 @@
     }
   ],
   "web": "https://bugsnax.com/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 134602,
   "youtube": [
@@ -292,6 +331,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:50:33.146Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:37.812Z"
 }

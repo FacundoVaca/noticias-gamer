@@ -164,7 +164,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -204,6 +205,12 @@
     }
   ],
   "web": "https://slayersclub.bethesda.net/en",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 16,
+  "avisoContenido": "Blood and Gore, Intense Violence",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 405075,
   "youtube": [
@@ -212,6 +219,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:53:11.125Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:39.287Z"
 }

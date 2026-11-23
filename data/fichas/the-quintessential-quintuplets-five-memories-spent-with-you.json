@@ -30,12 +30,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "901770",
+      "nombre": "The Quintessential Quintuplets - Five Memories Spent With You",
+      "apps": [
+        {
+          "appid": "2507620",
+          "nombre": "The Quintessential Quintuplets - Five Memories Spent With You"
+        }
+      ],
+      "usd": 11.8,
+      "antes": 20,
+      "descuento": 41
+    }
+  ],
+  "sueltos": {
+    "2507620": {
+      "usd": 11.8,
+      "gratis": false
+    }
+  },
   "descripcion": "I want to confess my feelings for you...",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "23 MAY 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "The Quintessential Quintuplets - Five Memories Spent With You",
   "acerca": [
     [
@@ -99,15 +121,18 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -174,6 +199,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507620/ss_5c3b4a2a6305d3ce0efc1f02e8ca5dbbc0ea12c4.1920x1080.jpg?t=1794555686"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 201044,
   "youtube": [
@@ -186,6 +215,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:53.813Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:33.184Z"
 }

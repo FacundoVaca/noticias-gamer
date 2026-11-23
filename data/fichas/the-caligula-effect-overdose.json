@@ -40,6 +40,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "283550",
+      "nombre": "The Caligula Effect: Overdose",
+      "apps": [
+        {
+          "appid": "889600",
+          "nombre": "The Caligula Effect: Overdose"
+        }
+      ],
+      "usd": 8.74,
+      "antes": 24.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "889600": {
+      "usd": 8.74,
+      "gratis": false
+    }
+  },
   "dlcTotal": 16,
   "dlcLista": [
     {
@@ -161,6 +182,7 @@
   ],
   "lanzamientoTexto": "12 MAR 2019",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "The Caligula Effect: Overdose",
   "acerca": [
     [
@@ -206,11 +228,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -310,6 +334,11 @@
     }
   ],
   "web": "http://nisamerica.com/games/caligula-effect/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The game contains some sexual material in the dialogue: “[T]hey think with their d*cks and not their heads...”; “...[Y]ou’re always staring at their boobs”; “I've encountered molesters and peeping Toms everywhere\"; “And what do you think happens when you try to watch sexual stuff behind your mom’s back?” Ultimately, mature content revolves around strong language that conveys both sexual and violent thematic elements. Some storylines involve suicide, and a few cutscenes depict characters jumping off rooftops.",
   "igdbIntentado": true,
   "igdb": 75990,
   "youtube": [
@@ -326,6 +355,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:49:49.150Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:27.921Z"
 }

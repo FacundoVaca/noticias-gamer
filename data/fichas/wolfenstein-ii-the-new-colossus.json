@@ -128,6 +128,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/wolfenstein-ii-the-new-colossus?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Wolfenstein II: The New Colossus",
   "acerca": [
     [
@@ -198,43 +199,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -318,6 +329,11 @@
     }
   ],
   "web": "https://wolfenstein.bethesda.net/?utm_source=Steam",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 36952,
   "youtube": [
@@ -338,6 +354,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:56.239Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:02.289Z"
 }

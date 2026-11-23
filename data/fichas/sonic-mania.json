@@ -54,6 +54,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "201008",
+      "nombre": "Sonic Mania",
+      "apps": [
+        {
+          "appid": "584400",
+          "nombre": "Sonic Mania"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 19.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "584400": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -75,6 +96,7 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/sonic-mania?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Sonic Mania",
   "acerca": [
     [
@@ -113,39 +135,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -208,6 +239,10 @@
     }
   ],
   "web": "http://www.sonicthehedgehog.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 21062,
   "youtube": [
@@ -228,6 +263,6 @@
       "nombre": "Interview"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:41.191Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:09:19.717Z"
 }

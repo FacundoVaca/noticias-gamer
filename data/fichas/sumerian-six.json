@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "502180",
+      "nombre": "Sumerian Six",
+      "apps": [
+        {
+          "appid": "1429850",
+          "nombre": "Sumerian Six"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1429850": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Lidera un comando de científicos tras las líneas enemigas para luchar contra nazis, descubrir misterios arcanos y usar tecnología experimental para cambiar el rumbo de la II Guerra Mundial en esta aventura táctica en tiempo real.",
   "generos": [
     "Acción",
@@ -58,6 +79,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/sumerian-six?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Sumerian Six",
   "acerca": [
     [
@@ -107,43 +129,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -250,6 +282,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429850/ss_8ca5a147b7ef7fd0b129c8979f6183fe8dde9d3b.1920x1080.jpg?t=1761064913"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 305175,
   "youtube": [
@@ -266,6 +302,6 @@
       "nombre": "Console Release Date Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:52:05.487Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:21.960Z"
 }

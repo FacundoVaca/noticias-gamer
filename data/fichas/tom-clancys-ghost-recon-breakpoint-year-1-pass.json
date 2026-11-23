@@ -33,6 +33,27 @@
     "appid": "2231380",
     "nombre": "Tom Clancy's Ghost Recon® Breakpoint"
   },
+  "ediciones": [
+    {
+      "packageid": "799894",
+      "nombre": "Ghost Recon Breakpoint Year 1 Pass",
+      "apps": [
+        {
+          "appid": "2231410",
+          "nombre": "Tom Clancy’s Ghost Recon® Breakpoint Year 1 Pass"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 31.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2231410": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Vive Ghost Recon Breakpoint al máximo con el Year 1 Pass. Incluye la misión \"Canto de sirena\", dos aventuras que siguen la historia (\"Estado profundo\" y \"Trascendencia\"), desbloqueo anticipado de 3 clases y el pack Fuerzas de Operaciones Especiales.",
   "generos": [
     "Acción",
@@ -86,67 +107,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,8 +290,11 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231410/ss_c84caabf495fc701de948e75d9d45e789d26dc89.1920x1080.jpg?t=1674496880"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 118678,
-  "v": 6,
-  "consultado": "2026-11-22T22:52:17.626Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:57.963Z"
 }

@@ -33,6 +33,27 @@
     "appid": "2183900",
     "nombre": "Warhammer 40,000: Space Marine 2"
   },
+  "ediciones": [
+    {
+      "packageid": "1360862",
+      "nombre": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack",
+      "apps": [
+        {
+          "appid": "3871390",
+          "nombre": "Warhammer 40,000: Space Marine 2 - Iron Hands Chapter Pack"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 5.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3871390": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Álzate sobre la carnalidad con el Iron Hands Chapter Pack, ¡pues la carne es débil! Este paquete contiene más de 25 cosméticos y heráldica para los 4 Capítulos sucesores de los Manos de Hierro. Este DLC forma parte del pase de temporada 2.",
   "generos": [
     "Acción",
@@ -179,71 +200,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -295,7 +333,13 @@
     }
   ],
   "web": "https://community.focus-entmt.com/focus-entertainment/space-marine-2?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Gameplay consists of frequent combat scenarios with characters using their weapons to slash/stab enemies. Strong Language is used in the dialogue.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:52:29.950Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:36.440Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "hell let loose vietnam",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -142,6 +141,7 @@
   ],
   "lanzamientoTexto": "13 AGO 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Hell Let Loose: Vietnam",
   "acerca": [
     [
@@ -267,51 +267,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -423,6 +435,10 @@
     }
   ],
   "web": "https://www.hellletloose.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game features mature content not appropriate for all ages, or may not be appropriate for viewing at work. Realistic depictions of War, Frequent Violence or Gore, General Mature Content.",
   "igdbIntentado": true,
   "igdb": 362063,
   "youtube": [
@@ -443,5 +459,6 @@
       "nombre": "Release Date Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:40:17.119Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:09:44.136Z"
 }

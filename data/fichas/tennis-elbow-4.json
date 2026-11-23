@@ -36,6 +36,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "224650",
+      "nombre": "Tennis Elbow 4",
+      "apps": [
+        {
+          "appid": "760640",
+          "nombre": "Tennis Elbow 4"
+        }
+      ],
+      "usd": 7.5,
+      "antes": 7.5,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "760640": {
+      "usd": 7.5,
+      "gratis": false
+    }
+  },
   "descripcion": "Created by and for tennis fans, Tennis Elbow 4 is a true tennis simulation built around anticipation, positioning and risk management. Easy to start, demanding to master, it delivers exceptional gameplay depth and long-term progression.",
   "generos": [
     "Indie",
@@ -44,6 +65,7 @@
   ],
   "lanzamientoTexto": "23 ENE 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Tennis Elbow 4",
   "acerca": [
     [
@@ -186,43 +208,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -326,8 +358,12 @@
     }
   ],
   "web": "https://www.managames.com/tennis",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
   "igdbIntentado": true,
   "igdb": 140780,
-  "v": 6,
-  "consultado": "2026-11-22T22:47:04.011Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:09:31.251Z"
 }

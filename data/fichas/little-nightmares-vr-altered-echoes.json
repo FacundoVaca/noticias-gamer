@@ -51,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "893592",
+      "nombre": "Little Nightmares VR: Altered Echoes",
+      "apps": [
+        {
+          "appid": "2482940",
+          "nombre": "Little Nightmares VR: Altered Echoes"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2482940": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Little Nightmares VR: Altered Echoes es un juego de atmósfera oscura, puzles y aventuras en el que encarnas a Dark Six, una figura misteriosa con forma de niña. Recorre un mundo inquietante, resuelve puzles complicados y escapa de enemigos aterradores en una búsqueda desesperada para recomponerte.",
   "generos": [
     "Acción",
@@ -58,6 +79,7 @@
   ],
   "lanzamientoTexto": "23 ABR 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Little Nightmares VR: Altered Echoes",
   "acerca": [
     [
@@ -121,59 +143,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -281,6 +317,10 @@
     }
   ],
   "web": "https://littlenightmaresvr.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages: Unrealistic Violence, Fear.",
   "igdbIntentado": true,
   "igdb": 350904,
   "youtube": [
@@ -293,6 +333,6 @@
       "nombre": "Release Date Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:31.921Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:19.836Z"
 }

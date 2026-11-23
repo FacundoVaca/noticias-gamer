@@ -32,6 +32,27 @@
     "appid": "1934680",
     "nombre": "Age of Mythology: Retold"
   },
+  "ediciones": [
+    {
+      "packageid": "1464278",
+      "nombre": "Age of Mythology: Retold - Expansion Pass",
+      "apps": [
+        {
+          "appid": "4180380",
+          "nombre": "Age of Mythology: Retold - Expansion Pass"
+        }
+      ],
+      "usd": 11.49,
+      "antes": 22.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "4180380": {
+      "usd": 11.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Hazte con los próximos cuatro lanzamientos míticos de Age of Mythology: Retold, que incluye el épico panteón azteca, además de un paquete de bonificación exclusivo, desbloqueos automáticos y descuentos dignos de los dioses.",
   "generos": [
     "Estrategia"
@@ -148,103 +169,128 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -282,7 +328,10 @@
     }
   ],
   "web": "https://www.ageofempires.com/games/aom/age-of-mythology-retold/",
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:49:05.223Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:06.153Z"
 }

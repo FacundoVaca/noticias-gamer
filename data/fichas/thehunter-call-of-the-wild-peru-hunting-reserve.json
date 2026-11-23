@@ -33,6 +33,27 @@
     "appid": "518790",
     "nombre": "theHunter: Call of the Wild™"
   },
+  "ediciones": [
+    {
+      "packageid": "1559500",
+      "nombre": "theHunter: Call of the Wild™ - Peru Hunting Reserve",
+      "apps": [
+        {
+          "appid": "4467980",
+          "nombre": "theHunter: Call of the Wild™ - Peru Hunting Reserve"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 6.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4467980": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "descripcion": "From Andean peaks to dense jungles, explore Peru’s extreme biodiversity. Hunt a massive roster from tarucas to caimans. Stay vigilant: the jungle is the jaguar’s kingdom.",
   "generos": [
     "Aventura",
@@ -87,43 +108,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -175,7 +206,11 @@
     }
   ],
   "web": "http://callofthewild.thehunter.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:48:50.262Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:10:31.581Z"
 }

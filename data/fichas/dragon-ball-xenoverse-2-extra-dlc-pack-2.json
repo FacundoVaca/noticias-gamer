@@ -34,6 +34,27 @@
     "appid": "454650",
     "nombre": "DRAGON BALL XENOVERSE 2"
   },
+  "ediciones": [
+    {
+      "packageid": "216327",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 2",
+      "apps": [
+        {
+          "appid": "739282",
+          "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 2"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "739282": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "El contenido del Extra Pack 2 es ideal para mejorar tu experiencia con un montón de elementos adicionales: • 4 poderosos personajes nuevos (incluidos Jiren, Fu y el androide Nº17) • Un escenario exclusivo • 5 nuevas misiones secundarias • 2 nuevos trajes • 8 nuevas habilidades • 8 nuevas Súper Almas",
   "generos": [
     "Acción",
@@ -92,51 +113,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -220,8 +253,12 @@
     }
   ],
   "web": "http://www.dragonballxenoverse2.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 168748,
-  "v": 6,
-  "consultado": "2026-11-22T22:53:25.575Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:13:47.665Z"
 }

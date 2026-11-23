@@ -35,6 +35,27 @@
     "appid": "2399830",
     "nombre": "ARK: Survival Ascended"
   },
+  "ediciones": [
+    {
+      "packageid": "1589315",
+      "nombre": "ARK Tides of Fortune",
+      "apps": [
+        {
+          "appid": "4558480",
+          "nombre": "ARK Tides of Fortune"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4558480": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Construye y personaliza tus barcos y zarpa hacia la aventura en alta mar con esta nueva expansión de ARK! Explora una frontera oceánica inexplorada en busca de tesoros enterrados, doma monstruosidades de las profundidades marinas y lucha contra despiadadas armadas piratas.",
   "generos": [
     "Acción",
@@ -147,67 +168,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -259,6 +296,10 @@
     }
   ],
   "web": "http://www.playark.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 428619,
   "youtube": [
@@ -267,6 +308,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:50:53.612Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:12:22.016Z"
 }

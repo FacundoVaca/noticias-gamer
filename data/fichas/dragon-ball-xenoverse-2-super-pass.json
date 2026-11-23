@@ -41,6 +41,27 @@
     "appid": "454650",
     "nombre": "DRAGON BALL XENOVERSE 2"
   },
+  "ediciones": [
+    {
+      "packageid": "117181",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pass",
+      "apps": [
+        {
+          "appid": "507510",
+          "nombre": "DRAGON BALL XENOVERSE 2 - Super Pass"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "507510": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Amplía tu experiencia con el Super Pass de DRAGON BALL XENOVERSE 2 y accede a los 4 paquetes de contenido.",
   "generos": [
     "Acción",
@@ -99,51 +120,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -239,8 +272,12 @@
     }
   ],
   "web": "http://www.dragonballxenoverse2.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 117656,
-  "v": 6,
-  "consultado": "2026-11-22T22:49:09.948Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:11:11.203Z"
 }
