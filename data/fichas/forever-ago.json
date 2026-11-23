@@ -1,0 +1,336 @@
+{
+  "clave": "forever ago",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-45cc-7300-994b-d377fcb9b772",
+  "appid": "1215940",
+  "lanzamiento": "2026-10-08",
+  "desarrolladores": [
+    "Third Shift"
+  ],
+  "editores": [
+    "Annapurna Interactive",
+    "Annapurna Games"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Indie",
+    "Story Rich",
+    "Atmospheric",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 96,
+      "cantidad": 491,
+      "url": "https://store.steampowered.com/app/1215940/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 76,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/forever-ago/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 39,
+      "url": "https://metacritic.com/game/forever-ago/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 58,
+      "url": "https://opencritic.com/game/21440/forever-ago"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "420825",
+      "nombre": "Forever Ago",
+      "apps": [
+        {
+          "appid": "1215940",
+          "nombre": "Forever Ago"
+        }
+      ],
+      "usd": 7.59,
+      "antes": 9.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1215940": {
+      "usd": 7.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5247710",
+      "nombre": "Forever Ago (Original Soundtrack)",
+      "gratis": false,
+      "usd": 2.96,
+      "descuento": 15
+    }
+  ],
+  "descripcion": "Tras un trágico revés del destino, Alfred se hace a la carretera rumbo al norte en busca de redención en este viaje de un solo jugador.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "8 OCT 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Forever Ago",
+  "acerca": [
+    [
+      "p",
+      "Tras un trágico revés del destino, Alfred se hace a la carretera rumbo al norte en busca de redención. Captura encantadores parajes con la cámara, crea nuevos recuerdos, conoce a gente interesante y haz nuevos amigos en este viaje de un solo jugador."
+    ],
+    [
+      "h",
+      "Historias desde el corazón"
+    ],
+    [
+      "p",
+      "Descubre una historia sobre sueños rotos, pérdida y arrepentimiento, pero también de valor, esperanza y amistad genuina. Asómate a las vidas, convicciones y dificultades de los personajes que irás conociendo por el camino, a los que dan vida actores de doblaje de renombre."
+    ],
+    [
+      "h",
+      "Embárcate en un viaje por carretera inolvidable"
+    ],
+    [
+      "p",
+      "Explora la belleza del entorno, ya sea en caminatas apacibles por el bosque o bajo el sol abrasador del desierto. Examina objetos e interactúa con ellos para aprender más sobre el lugar que te rodea y la gente que lo habita."
+    ],
+    [
+      "h",
+      "Captura recuerdos"
+    ],
+    [
+      "p",
+      "Saca fotos con la vieja cámara instantánea de Alfred para documentar tu viaje y resolver pequeños rompecabezas ambientales."
+    ],
+    [
+      "h",
+      "Revive el amor verdadero"
+    ],
+    [
+      "p",
+      "Acompaña a Alfred en una vida llena de cariño y aventuras junto a su querida Audrey y experimenta un amor que sobrevive al paso del tiempo. Con una banda sonora original compuesta por Clark Abound (Slay the Spire y Kind Words)."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Sonido envolvente",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300 or AMD Phenom II X4 965"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon HD 6950, 2 GB or Intel Arc A310, 4 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060, 3 GB or AMD Radeon RX 590, 8 GB or Intel Arc A580, 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/d3b6a8ba3fa8163acca5cb980fd304c1a7a5cf1e/ss_d3b6a8ba3fa8163acca5cb980fd304c1a7a5cf1e.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/d3b6a8ba3fa8163acca5cb980fd304c1a7a5cf1e/ss_d3b6a8ba3fa8163acca5cb980fd304c1a7a5cf1e.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/aff7bf62c47284177232e7b0a381b3f162ee2b12/ss_aff7bf62c47284177232e7b0a381b3f162ee2b12.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/aff7bf62c47284177232e7b0a381b3f162ee2b12/ss_aff7bf62c47284177232e7b0a381b3f162ee2b12.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/8d5206e117b7075248e4ed824629f946d43d24bd/ss_8d5206e117b7075248e4ed824629f946d43d24bd.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/8d5206e117b7075248e4ed824629f946d43d24bd/ss_8d5206e117b7075248e4ed824629f946d43d24bd.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/215e8d117a2fafa80d78a3d3c3996223e68f47df/ss_215e8d117a2fafa80d78a3d3c3996223e68f47df.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/215e8d117a2fafa80d78a3d3c3996223e68f47df/ss_215e8d117a2fafa80d78a3d3c3996223e68f47df.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/f252144f5d2c4d22e08fa7e889961246e8ddbd92/ss_f252144f5d2c4d22e08fa7e889961246e8ddbd92.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/f252144f5d2c4d22e08fa7e889961246e8ddbd92/ss_f252144f5d2c4d22e08fa7e889961246e8ddbd92.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/4a282717e29acc22255067e39f1ecd2a8a197591/ss_4a282717e29acc22255067e39f1ecd2a8a197591.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/4a282717e29acc22255067e39f1ecd2a8a197591/ss_4a282717e29acc22255067e39f1ecd2a8a197591.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/a523b7bb054c3803c1444532586dff26e2d7f2d8/ss_a523b7bb054c3803c1444532586dff26e2d7f2d8.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/a523b7bb054c3803c1444532586dff26e2d7f2d8/ss_a523b7bb054c3803c1444532586dff26e2d7f2d8.1920x1080.jpg?t=1795041098"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/e287bf61206b4a0d609f3f0038c8d576d6cdba4d/ss_e287bf61206b4a0d609f3f0038c8d576d6cdba4d.600x338.jpg?t=1795041098",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1215940/e287bf61206b4a0d609f3f0038c8d576d6cdba4d/ss_e287bf61206b4a0d609f3f0038c8d576d6cdba4d.1920x1080.jpg?t=1795041098"
+    }
+  ],
+  "web": "https://forever-ago.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 136299,
+  "youtube": [
+    {
+      "id": "U49-3_zprNQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "YMLqErUolhw",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Je5Ezf07k0A",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "FPlF-518dC4",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:40:02.921Z"
+}

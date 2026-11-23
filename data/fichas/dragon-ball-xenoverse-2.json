@@ -1,0 +1,620 @@
+{
+  "clave": "dragon ball xenoverse 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-20bb-7085-9537-d504f5c415ac",
+  "appid": "454650",
+  "lanzamiento": "2016-10-27",
+  "desarrolladores": [
+    "QLOC / DIMPS",
+    "QLOC",
+    "Dimps Corporation",
+    "DIMPS"
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "QLOC",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Anime",
+    "Fighting",
+    "Character Customization",
+    "Action",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 45628,
+      "url": "https://store.steampowered.com/app/454650/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/dragon-ball-xenoverse-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 566,
+      "url": "https://metacritic.com/game/dragon-ball-xenoverse-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 84,
+      "url": "https://opencritic.com/game/3170/dragon-ball-xenoverse-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "98252",
+      "nombre": "DRAGON BALL XENOVERSE 2",
+      "apps": [
+        {
+          "appid": "454650",
+          "nombre": "DRAGON BALL XENOVERSE 2"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "120598",
+      "nombre": "DRAGON BALL XENOVERSE 2 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "454650",
+          "nombre": "DRAGON BALL XENOVERSE 2"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "938716",
+      "nombre": "DRAGON BALL XENOVERSE 2 Special Edition",
+      "apps": [
+        {
+          "appid": "454650",
+          "nombre": "DRAGON BALL XENOVERSE 2"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "454650": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 31,
+  "dlcLista": [
+    {
+      "appid": "3905290",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Pack Set",
+      "gratis": false,
+      "usd": 31.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3905260",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3839310",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 3",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3387210",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Dragon Ball DAIMA Pack",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3581800",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Time Patrol Support Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3188680",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 2",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2814240",
+      "nombre": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 1",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2161560",
+      "nombre": "DRAGON BALL XENOVERSE 2 - HERO OF JUSTICE Pack Set",
+      "gratis": false,
+      "usd": 13.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2377310",
+      "nombre": "DRAGON BALL XENOVERSE 2 - HERO OF JUSTICE Pack 2",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2161540",
+      "nombre": "DRAGON BALL XENOVERSE 2 - HERO OF JUSTICE Pack 1",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1999190",
+      "nombre": "DRAGON BALL XENOVERSE 2 Conton City Vote Pack",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1544340",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Legendary Pack Set",
+      "gratis": false,
+      "usd": 13.59,
+      "descuento": 0
+    },
+    {
+      "appid": "1744080",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Legendary Pack 2",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1507380",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Legendary Pack 1",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "1108460",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Ultra Pack Set",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1108461",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Ultra Pack 2",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "740160",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Ultra Pack 1",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "740141",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra Pass",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "740143",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 4",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "740142",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 3",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "739282",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 2",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "739281",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Extra DLC Pack 1",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "507510",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pass",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 0
+    },
+    {
+      "appid": "508403",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pack 4",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "508402",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pack 3",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "508401",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pack 2",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "508400",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Super Pack 1",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2023140",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Legend Patrol Pack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "953020",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Anime Music Pack 2",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "740140",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Anime Music Pack 1",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "508405",
+      "nombre": "DRAGON BALL XENOVERSE 2 - Pre-Order Bonus",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "DRAGON BALL XENOVERSE 2 sucede al popular DRAGON BALL XENOVERSE y viene con gráficos mejorados que sumergirán al jugador en el mayor y más detallado mundo de Dragon Ball jamás desarrollado.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Multijugador masivo"
+  ],
+  "lanzamientoTexto": "27 OCT 2016",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/dragon-ball-xenoverse-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "DRAGON BALL XENOVERSE 2",
+  "acerca": [
+    [
+      "p",
+      "TU HISTORIA, TU AVATAR Y TU MUNDO DE DRAGON BALL"
+    ],
+    [
+      "p",
+      "Dragon Ball Xenoverse 2 es la experiencia de juego definitiva de Dragon Ball, llena de acción trepidante, batallas épicas y un sinfín de opciones de personalización. ¡Crea tu propio personaje, explora Conton City y entrena con personajes emblemáticos de la saga como maestros para poder enfrentarte a enemigos formidables y rescatar el flujo de la historia!"
+    ],
+    [
+      "p",
+      "A medida que avances en el juego, podrás personalizar el aspecto, las habilidades y el conjunto de movimientos de tu personaje para crear un guerrero realmente único y poderoso."
+    ],
+    [
+      "p",
+      "¡Pero la diversión no termina aquí! Dragon Ball Xenoverse 2 también dispone de modos multijugador online, en los que podrás medirte con jugadores de todo el mundo en enfrentamientos épicos o participar en combates de ataque contra enemigos fabulosos junto a otros jugadores."
+    ],
+    [
+      "p",
+      "¡Los siete años de paquetes de contenido descargable aseguran que siempre habrá algo nuevo que descubrir y experimentar en Conton City!"
+    ],
+    [
+      "h",
+      "EL GUERRERO QUE SIEMPRE HAS QUERIDO SER."
+    ],
+    [
+      "p",
+      "La gran variedad de opciones de personalización te permitirá crear un personaje que se adapte realmente a tu estilo y personalidad. Tienes el control absoluto de tu guerrero. ¡Elige desde su raza y aspecto, hasta sus habilidades y su conjunto de movimientos!"
+    ],
+    [
+      "h",
+      "UNA EXPERIENCIA ONLINE INFINITA."
+    ],
+    [
+      "p",
+      "¡Los múltiples eventos del juego y los modos multijugador online hacen que los combates nunca se detengan! Lucha contra jugadores de todo el mundo en enfrentamientos épicos o forma equipo con ellos para combatir amenazas fabulosas en los combates de ataque."
+    ],
+    [
+      "h",
+      "¡DEJA QUE TU ESPÍRITU DE LUCHA ARDA!"
+    ],
+    [
+      "p",
+      "Sumérgete en las batallas intensas y llenas de acción que caracterizan a Dragon Ball. ¡Siente la emoción de la lucha en enfrentamientos uno contra uno o en combates masivos contra múltiples enemigos!"
+    ],
+    [
+      "h",
+      "El UNIVERSO DE DRAGON BALL TE ESPERA."
+    ],
+    [
+      "p",
+      "¡Salta a diferentes ubicaciones y líneas temporales de Dragon Ball! Combate en lugares emblemáticos del universo Dragon Ball e interactúa con personajes famosos para proteger la historia."
+    ],
+    [
+      "h",
+      "TODO DRAGON BALL, AQUÍ."
+    ],
+    [
+      "p",
+      "Dragon Ball Xenoverse 2 incluye un montón de guiños para los seguidores, ¡con personajes, lugares y momentos emblemáticos de la saga que a los fans les encantará ver y experimentar en el juego!"
+    ],
+    [
+      "h",
+      "¡SIETE AÑOS DE EXPANSIONES!"
+    ],
+    [
+      "p",
+      "¡Dragon Ball Xenoverse 2 es más grande que nunca! Tras siete años de nuevos contenidos descargables periódicos, descubre más de 40 personajes, tramas y mucho más de Dragon Ball Z, Dragon Ball Super y las películas de Dragon Ball. ¡Y no te pierdas las actualizaciones gratuitas!"
+    ],
+    [
+      "p",
+      "*Aviso legal: Las imágenes animadas que se muestran en esta página son una combinación de contenidos, algunos de los cuales forman parte de DLC (contenidos descargables) que se venden por separado del juego principal."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3570 / AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1030 / AMD Radeon HD 7770"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 3100 / Intel Core i5-6400"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce 750 Ti / AMD Radeon HD 7850 / Intel Arc A380"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_d38e04f3f4278fb2bf0dd5be4587d1577f8e53a0.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_d38e04f3f4278fb2bf0dd5be4587d1577f8e53a0.1920x1080.jpg?t=1788407827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_412fe476f8d59c6d6c6b2b8da97f2ea4fd4b5356.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_412fe476f8d59c6d6c6b2b8da97f2ea4fd4b5356.1920x1080.jpg?t=1788407827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_1bc6848427f580686e56fc659c937ea108beef51.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_1bc6848427f580686e56fc659c937ea108beef51.1920x1080.jpg?t=1788407827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_e1cf234b04a51d0ce3167042393a8c31d39925bb.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_e1cf234b04a51d0ce3167042393a8c31d39925bb.1920x1080.jpg?t=1788407827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_3c46d9e3c3c853a2543c0fb54ba06bc3c6a9750d.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_3c46d9e3c3c853a2543c0fb54ba06bc3c6a9750d.1920x1080.jpg?t=1788407827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_2369b7e77769e9fc8a7312cb5a3167df67b2c869.600x338.jpg?t=1788407827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/ss_2369b7e77769e9fc8a7312cb5a3167df67b2c869.1920x1080.jpg?t=1788407827"
+    }
+  ],
+  "web": "http://www.dragonballxenoverse2.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.2,
+    "cantidad": 17007,
+    "escala": 5
+  },
+  "xbox": "BX03760D0QGN",
+  "igdbIntentado": true,
+  "igdb": 19449,
+  "youtube": [
+    {
+      "id": "BNYqqztGhKM",
+      "nombre": "Gamescom 2016 Trailer"
+    },
+    {
+      "id": "_CVdjnzVoSc",
+      "nombre": "Japan Expo Trailer"
+    },
+    {
+      "id": "ArPUlyb2fgA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "DGh53Ar4OcM",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:39:38.313Z"
+}

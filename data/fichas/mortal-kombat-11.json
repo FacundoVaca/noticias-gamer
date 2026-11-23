@@ -1,0 +1,594 @@
+{
+  "clave": "mortal kombat 11",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-132d-72f2-b1d6-ef9eaabb3203",
+  "appid": "976310",
+  "lanzamiento": "2019-04-22",
+  "desarrolladores": [
+    "NetherRealm Studios / Shiver",
+    "NetherRealm Studios",
+    "QLOC",
+    "Shiver",
+    "Shiver Entertainment"
+  ],
+  "editores": [
+    "Warner Bros. Interactive Entertainment",
+    "Warner Games Inc.",
+    "Warner Bros. Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "NetherRealm Studios",
+    "WB Games"
+  ],
+  "etiquetas": [
+    "Fighting",
+    "Gore",
+    "Multiplayer",
+    "Violent",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 87370,
+      "url": "https://store.steampowered.com/app/976310/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 12,
+      "url": "https://metacritic.com/game/mortal-kombat-11/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 44,
+      "cantidad": 2627,
+      "url": "https://metacritic.com/game/mortal-kombat-11/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 164,
+      "url": "https://opencritic.com/game/7092/mortal-kombat-11"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "320588",
+      "nombre": "Mortal Kombat 11",
+      "apps": [
+        {
+          "appid": "976310",
+          "nombre": "Mortal Kombat 11"
+        }
+      ],
+      "usd": 35,
+      "antes": 35,
+      "descuento": 0
+    },
+    {
+      "packageid": "518699",
+      "nombre": "Mortal Kombat 11 Ultimate",
+      "apps": [
+        {
+          "appid": "1054480",
+          "nombre": "Mortal Kombat 11 Kombat Pack 1"
+        },
+        {
+          "appid": "1449880",
+          "nombre": "Mortal Kombat 11 Kombat Pack 2"
+        },
+        {
+          "appid": "976310",
+          "nombre": "Mortal Kombat 11"
+        },
+        {
+          "appid": "1273971",
+          "nombre": "Mortal Kombat 11: Aftermath Expansion"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "557569",
+      "nombre": "Mortal Kombat 11 Ultimate + Injustice 2 Legendary Edition Bundle",
+      "apps": [
+        {
+          "appid": "627270",
+          "nombre": "Injustice™ 2"
+        },
+        {
+          "appid": "734281",
+          "nombre": "Injustice™ 2 - Fighter Pack 1"
+        },
+        {
+          "appid": "734282",
+          "nombre": "Injustice™ 2 - Fighter Pack 2"
+        },
+        {
+          "appid": "734283",
+          "nombre": "Injustice™ 2 - Fighter Pack 3"
+        },
+        {
+          "appid": "1054480",
+          "nombre": "Mortal Kombat 11 Kombat Pack 1"
+        },
+        {
+          "appid": "1449880",
+          "nombre": "Mortal Kombat 11 Kombat Pack 2"
+        },
+        {
+          "appid": "976310",
+          "nombre": "Mortal Kombat 11"
+        },
+        {
+          "appid": "1273971",
+          "nombre": "Mortal Kombat 11: Aftermath Expansion"
+        }
+      ],
+      "usd": 99.99,
+      "antes": 99.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "627270": {
+      "usd": 49.99,
+      "gratis": false
+    },
+    "734281": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "734282": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "734283": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "976310": {
+      "usd": 35,
+      "gratis": false
+    },
+    "1054480": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "1273971": {
+      "usd": 39.99,
+      "gratis": false
+    },
+    "1449880": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 27,
+  "dlcLista": [
+    {
+      "appid": "1471870",
+      "nombre": "Mortal Kombat 11 Ultimate Add-On Bundle",
+      "gratis": false,
+      "usd": 49.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1449880",
+      "nombre": "Mortal Kombat 11 Kombat Pack 2",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1054480",
+      "nombre": "Mortal Kombat 11 Kombat Pack 1",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1273971",
+      "nombre": "Mortal Kombat 11: Aftermath Expansion",
+      "gratis": false,
+      "usd": 39.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1480230",
+      "nombre": "Mortal Kombat 11 Klassic MK Movie Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1449881",
+      "nombre": "Mortal Kombat 11 Rain",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1449882",
+      "nombre": "Mortal Kombat 11 Mileena",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1449883",
+      "nombre": "Mortal Kombat 11 Rambo",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1461160",
+      "nombre": "Mortal Kombat 11 4K Cinematic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1160240",
+      "nombre": "Mortal Kombat 11 Terminator T-800",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1160241",
+      "nombre": "Mortal Kombat 11 Double Feature Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1051620",
+      "nombre": "Mortal Kombat 11 Shao Kahn",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1051621",
+      "nombre": "Mortal Kombat 11 Frost",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1095030",
+      "nombre": "Mortal Kombat 11 Shang Tsung",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1095031",
+      "nombre": "Mortal Kombat 11 Klassic Arcade Ninja Skin Pack 1",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1116620",
+      "nombre": "Mortal Kombat 11 Nightwolf",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1116621",
+      "nombre": "Mortal Kombat 11 Klassic Arcade Fighter Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1160243",
+      "nombre": "Mortal Kombat 11 Masquerade Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1180720",
+      "nombre": "Mortal Kombat 11 Sindel",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1180721",
+      "nombre": "Mortal Kombat 11 Gothic Horror Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1200550",
+      "nombre": "Mortal Kombat 11 The Joker",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1200552",
+      "nombre": "Mortal Kombat 11 DC Elseworlds Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1253300",
+      "nombre": "Mortal Kombat 11 Spawn",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1253302",
+      "nombre": "Mortal Kombat 11 Matinee Skin Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1316180",
+      "nombre": "Mortal Kombat 11 Fujin",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1316181",
+      "nombre": "Mortal Kombat 11 Sheeva",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1316182",
+      "nombre": "Mortal Kombat 11 Robocop",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Mortal Kombat ha regresado mejor que nunca en esta entrega de la icónica saga.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "23 ABR 2019",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/mortal-kombat-11?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Mortal Kombat 11",
+  "acerca": [
+    [
+      "p",
+      "MK ha regresado mejor que nunca en esta entrega de la icónica saga."
+    ],
+    [
+      "p",
+      "La Edición Estándar de Mortal Kombat 11 incluye:"
+    ],
+    [
+      "p",
+      "• Juego principal"
+    ],
+    [
+      "p",
+      "Las nuevas variantes de los personajes te ofrecen un control de tus kombatientes sin precedentes, ya que podrás personalizarlos como tú quieras. El motor gráfico, además de mostrar con gran detalle cada destrucción craneal y ocular, te acercará tanto al kombate que casi podrás sentirlo. Y eso no es todo: las cinemáticas del modo Historia te traen a los kombatientes klásicos y a nuevos personajes, que continuarán esta épica saga creada hace 25 años."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Menús narrados",
+    "Sonido estéreo",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "64-bit Windows 7 / Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "64-bit Windows 7 / Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300, 2.8 GHz / AMD FX-6300, 3.5GHz or AMD Ryzen™ 5 1400, 3.2 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_e5cd8debd74027dbfafd9729fc32986a63393333.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_e5cd8debd74027dbfafd9729fc32986a63393333.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4fa4fd2ea1b7ff6c6b699dc9eb717986f80845a4.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4fa4fd2ea1b7ff6c6b699dc9eb717986f80845a4.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_aa70f659fe14e3c07033474249096b60c17021b3.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_aa70f659fe14e3c07033474249096b60c17021b3.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_b0e8bcfcebf910a6606a7903d2e23ec589c0c45b.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_b0e8bcfcebf910a6606a7903d2e23ec589c0c45b.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_ecddafdaee86bfb66b0a7290dda445f43195b48d.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_ecddafdaee86bfb66b0a7290dda445f43195b48d.1920x1080.jpg?t=1780429525"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4a9c1909083a75dcf684d79806afd9d9b46e432a.600x338.jpg?t=1780429525",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976310/ss_4a9c1909083a75dcf684d79806afd9d9b46e432a.1920x1080.jpg?t=1780429525"
+    }
+  ],
+  "web": "http://mortalkombat.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.8,
+    "cantidad": 18655,
+    "escala": 5
+  },
+  "xbox": "BTC0L0BW6LWC",
+  "igdbIntentado": true,
+  "igdb": 112916,
+  "youtube": [
+    {
+      "id": "lQFZC6dzauM",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Ve9k3IiFu88",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "UoTams2yc0s",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jPeVbTD63aw",
+      "nombre": "Story Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:39:20.375Z"
+}

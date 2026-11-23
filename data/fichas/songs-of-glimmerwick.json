@@ -1,0 +1,312 @@
+{
+  "clave": "songs of glimmerwick",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6180-7026-aec7-ab8dcd13247e",
+  "appid": "1706510",
+  "lanzamiento": "2026-09-30",
+  "desarrolladores": [
+    "Eastshade Studios"
+  ],
+  "editores": [
+    "Eastshade Studios"
+  ],
+  "etiquetas": [
+    "Life Sim",
+    "Story Rich",
+    "Open World",
+    "Farming Sim",
+    "Character Customization"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 464,
+      "url": "https://store.steampowered.com/app/1706510/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/songs-of-glimmerwick/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 10,
+      "url": "https://opencritic.com/game/21449/songs-of-glimmerwick"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "610950",
+      "nombre": "Songs of Glimmerwick",
+      "apps": [
+        {
+          "appid": "1706510",
+          "nombre": "Songs of Glimmerwick"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 12.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1706510": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5213830",
+      "nombre": "Songs of Glimmerwick - Supporter Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "5214050",
+      "nombre": "Songs of Glimmerwick Original Soundtrack",
+      "gratis": false,
+      "usd": 5.66,
+      "descuento": 10
+    }
+  ],
+  "descripcion": "Sumérgete en una fantasía forestal musical en la que lanzar un hechizo es tan fácil como tocar una canción. Asiste a clase, cultiva el jardín del campus, traba amistad con compañeros y gente del pueblo y explora esta singular isla en este RPG centrado en una academia de brujería.",
+  "generos": [
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "30 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Songs of Glimmerwick",
+  "acerca": [
+    [
+      "p",
+      "La tierra de Glimmerwick destaca por su academia de magia, ¡y, por suerte para ti, ya te has matriculado! En este mundo de fantasía forestal, la música es la clave de la magia. Canciones ancestrales facilitan desde la jardinería hasta la exploración de los rincones más lejanos. Con tu fiel flauta y cancionero, asistirás a clase, participarás en clubes extraescolares, trabarás amistad con estudiantes y la gente del pueblo y descubrirás los muchos misterios y curiosidades de Glimmerwick, todo a la vez que disfrutas de un año de estaciones, festivales, maldiciones y brujería general en un tranquilo RPG centrado en la historia."
+    ],
+    [
+      "h",
+      "Características"
+    ],
+    [
+      "p",
+      "Misiones de estilo RPG"
+    ],
+    [
+      "p",
+      "La trama se desarrolla centrándose en personajes e historias singulares."
+    ],
+    [
+      "p",
+      "Cuida del jardín de la academia"
+    ],
+    [
+      "p",
+      "¡Siembra plantas mundanas! ¡Cultiva plantas arcanas! ¡Invoca nubes para regarlas con lluvia!"
+    ],
+    [
+      "p",
+      "Toda canción es mágica"
+    ],
+    [
+      "p",
+      "Usa el poder de la música para hablar con los árboles, encantar herramientas para que trabajen solas, elevar la tierra para atravesar desfiladeros, ¡y mucho más!"
+    ],
+    [
+      "p",
+      "Un mundo lleno de vida"
+    ],
+    [
+      "p",
+      "Asiste a clase, investiga rumores, involúcrate en el drama local y en festivales bulliciosos... Los estudiantes, el profesorado, la gente del pueblo y las criaturas de Glimmerwick tienen sus propias vidas e historias."
+    ],
+    [
+      "p",
+      "Doblaje completo al inglés"
+    ],
+    [
+      "p",
+      "El diálogo cobra vida con excelentes actuaciones para todos los personajes, tanto centrales como menores."
+    ],
+    [
+      "p",
+      "Progreso de personaje"
+    ],
+    [
+      "p",
+      "Conforme acumules experiencia en tus aventuras, aprenderás habilidades que te ayudarán a cultivar y comerciar, ¡y también habilidades especiales como hablar con ranas!"
+    ],
+    [
+      "p",
+      "Aspecto personalizable"
+    ],
+    [
+      "p",
+      "Elige tu aspecto."
+    ],
+    [
+      "p",
+      "Actividades extracurriculares"
+    ],
+    [
+      "p",
+      "En Glimmerwick no solo puedes asistir a clase. Explora la isla, únete a un grupo de música, vete a pescar, bucea para encontrar caracolas o acompaña a los duendes verdes en sus expediciones forestales."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Opciones de subtítulos",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64bit"
+      ],
+      [
+        "Procesador",
+        "Dual-core processor (Intel Dual Core 2.0 GHz or AMD Athlon X2 5200+ 2.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce 9600 GS, Radeon HD4000, Shader Model 3.0, 512 MB"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/8f81aa9749570b1101434d289e65923e8d0ad3ed/ss_8f81aa9749570b1101434d289e65923e8d0ad3ed.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/8f81aa9749570b1101434d289e65923e8d0ad3ed/ss_8f81aa9749570b1101434d289e65923e8d0ad3ed.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_694e8977429e866f98b221e02d313ac8c3e7ae78.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_694e8977429e866f98b221e02d313ac8c3e7ae78.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/d1679309c946e407de8e9a7f0caef1cf9710f3d9/ss_d1679309c946e407de8e9a7f0caef1cf9710f3d9.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/d1679309c946e407de8e9a7f0caef1cf9710f3d9/ss_d1679309c946e407de8e9a7f0caef1cf9710f3d9.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/4b132873db451efda6964f55044bfe8966f27d89/ss_4b132873db451efda6964f55044bfe8966f27d89.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/4b132873db451efda6964f55044bfe8966f27d89/ss_4b132873db451efda6964f55044bfe8966f27d89.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_78cc9dec9f20385c6dcc8e789c37fb738f2c674a.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_78cc9dec9f20385c6dcc8e789c37fb738f2c674a.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/16df3d43a568262f58afc072a60f514285c530d5/ss_16df3d43a568262f58afc072a60f514285c530d5.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/16df3d43a568262f58afc072a60f514285c530d5/ss_16df3d43a568262f58afc072a60f514285c530d5.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_95fec42318115decc133c66223268d5deaae08c2.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_95fec42318115decc133c66223268d5deaae08c2.1920x1080.jpg?t=1794853038"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_646d51d4a1ef2aa01b151a1fad35a958f522bb65.600x338.jpg?t=1794853038",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/ss_646d51d4a1ef2aa01b151a1fad35a958f522bb65.1920x1080.jpg?t=1794853038"
+    }
+  ],
+  "web": "https://eastshade.com/songs-of-glimmerwick/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 189014,
+  "youtube": [
+    {
+      "id": "y67ppQ6jH2Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "n_SLdf8nc6E",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:40:32.371Z"
+}

@@ -11,10 +11,10 @@
   var cajas = [].slice.call(panel.querySelectorAll("input[type=checkbox][data-f]"));
 
   var cumple = {
-    pl: function (c, v) { return c.dataset.pl.split("|").indexOf(v) >= 0; },
-    g: function (c, v) { return (c.dataset.g || "").split("|").indexOf(v) >= 0; },
-    m: function (c, v) { return (c.dataset.m || "").split("|").indexOf(v) >= 0; },
-    os: function (c, v) { return (c.dataset.os || "").split("|").indexOf(v) >= 0; },
+    pl: function (c, v) { return c.dataset.pl.split(";").indexOf(v) >= 0; },
+    g: function (c, v) { return (c.dataset.g || "").split(";").indexOf(v) >= 0; },
+    m: function (c, v) { return (c.dataset.m || "").split(";").indexOf(v) >= 0; },
+    os: function (c, v) { return (c.dataset.os || "").split(";").indexOf(v) >= 0; },
     es: function (c, v) { var x = c.dataset.es || ""; return v === "t" ? x === "t" || x === "tv" : x === "tv"; },
     k: function (c, v) { return c.dataset.k === v; },
     min: function (c) { return c.dataset.min === "1"; },

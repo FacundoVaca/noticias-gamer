@@ -1,0 +1,277 @@
+{
+  "clave": "internet cafe 98",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019f9556-e557-70df-9c71-e56a804308fd",
+  "appid": "4224490",
+  "lanzamiento": "2026-11-23",
+  "desarrolladores": [
+    "GrindWill Labs"
+  ],
+  "editores": [
+    "GrindWill Interactive",
+    "Stay2Busy"
+  ],
+  "etiquetas": [
+    "incremental",
+    "Idler",
+    "Capitalism",
+    "Economy",
+    "Management"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 100,
+      "cantidad": 2,
+      "url": "https://store.steampowered.com/app/4224490/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1479088",
+      "nombre": "Internet Cafe 98",
+      "apps": [
+        {
+          "appid": "4224490",
+          "nombre": "Internet Cafe 98"
+        }
+      ],
+      "usd": 4.22,
+      "antes": 4.69,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4224490": {
+      "usd": 4.22,
+      "gratis": false
+    }
+  },
+  "descripcion": "Empieza con un solo PC basura y monta un cibercafé concurrido en pleno 1998. Atiende a los clientes, mejora el hardware y la red e investiga nuevas tecnologías en este juego de gestión incremental de estilo retro.",
+  "generos": [
+    "Casual"
+  ],
+  "lanzamientoTexto": "23 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Internet Cafe 98",
+  "acerca": [
+    [
+      "p",
+      "Añade más PC, atiende a más clientes y mira cómo se llena el cibercafé a medida que avanzas."
+    ],
+    [
+      "p",
+      "Compara componentes, consulta su impacto de antemano y monta el equipo que necesita tu cibercafé."
+    ],
+    [
+      "p",
+      "Genera puntos de investigación, descifra bancos de datos y desbloquea nuevo hardware y sistemas."
+    ],
+    [
+      "p",
+      "Compra las licencias, instala los discos y juega tú mismo a diez juegos retro."
+    ],
+    [
+      "p",
+      "Desfragmenta cada unidad, recupera archivos perdidos y aumenta los ingresos de cada mesa."
+    ],
+    [
+      "p",
+      "Reabastece la máquina de café y consigue que tus clientes jueguen más tiempo."
+    ],
+    [
+      "p",
+      "Derriba la pared de la sala contigua y haz hueco para más mesas."
+    ],
+    [
+      "p",
+      "Abre cibercafés por todo el mundo y tiende cables entre continentes."
+    ],
+    [
+      "li",
+      "Gestión idle en un escritorio de Windows 98. Dirige todo el cibercafé desde ventanas, una barra de tareas y un CRT que zumba."
+    ],
+    [
+      "li",
+      "Monta cada PC pieza a pieza. Mejor hardware, internet más rápido, clientes más contentos y más dinero."
+    ],
+    [
+      "li",
+      "10 juegos retro jugables. Ofrece a tus clientes los éxitos del '98 y luego juégalos tú mismo."
+    ],
+    [
+      "li",
+      "De un viejo ordenador beige a una franquicia mundial. Investiga nueva tecnología, derriba paredes y abre cibercafés por todo el globo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Controles de volumen personalizados",
+    "Opción solo ratón",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2100 or AMD FX-4100"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD 4000 or AMD equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/d4cfc4aeac3f0dc78ce108d5835af5b9cc2bfafa/ss_d4cfc4aeac3f0dc78ce108d5835af5b9cc2bfafa.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/d4cfc4aeac3f0dc78ce108d5835af5b9cc2bfafa/ss_d4cfc4aeac3f0dc78ce108d5835af5b9cc2bfafa.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/a1d3035cd2869e57822bad7b629244ff37792d63/ss_a1d3035cd2869e57822bad7b629244ff37792d63.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/a1d3035cd2869e57822bad7b629244ff37792d63/ss_a1d3035cd2869e57822bad7b629244ff37792d63.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/2b058aef6764b3995b6084c46c4a3ffd23299fda/ss_2b058aef6764b3995b6084c46c4a3ffd23299fda.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/2b058aef6764b3995b6084c46c4a3ffd23299fda/ss_2b058aef6764b3995b6084c46c4a3ffd23299fda.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/94b38048ce1c786fa4957316483e5d0fe4c5b9a0/ss_94b38048ce1c786fa4957316483e5d0fe4c5b9a0.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/94b38048ce1c786fa4957316483e5d0fe4c5b9a0/ss_94b38048ce1c786fa4957316483e5d0fe4c5b9a0.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/a194022a7fea3e04d6f9e13834edb42a3a60d8a6/ss_a194022a7fea3e04d6f9e13834edb42a3a60d8a6.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/a194022a7fea3e04d6f9e13834edb42a3a60d8a6/ss_a194022a7fea3e04d6f9e13834edb42a3a60d8a6.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/fc62cc6b5b94b7a77daaf2bc85ef944565c92d70/ss_fc62cc6b5b94b7a77daaf2bc85ef944565c92d70.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/fc62cc6b5b94b7a77daaf2bc85ef944565c92d70/ss_fc62cc6b5b94b7a77daaf2bc85ef944565c92d70.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/8c5c9b78284371f57cd5fdf7914f2350b601cec3/ss_8c5c9b78284371f57cd5fdf7914f2350b601cec3.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/8c5c9b78284371f57cd5fdf7914f2350b601cec3/ss_8c5c9b78284371f57cd5fdf7914f2350b601cec3.1920x1080.jpg?t=1795448968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/c3420ad7d7c4576aaa1fa6de96bece09238e22d5/ss_c3420ad7d7c4576aaa1fa6de96bece09238e22d5.600x338.jpg?t=1795448968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/c3420ad7d7c4576aaa1fa6de96bece09238e22d5/ss_c3420ad7d7c4576aaa1fa6de96bece09238e22d5.1920x1080.jpg?t=1795448968"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 412441,
+  "youtube": [
+    {
+      "id": "UIgeN1a2KwA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:40:08.229Z"
+}

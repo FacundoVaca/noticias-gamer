@@ -1,9 +1,9 @@
 {
   "clave": "saints row",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0eb9-715b-8b35-5b756ce55095",
   "appid": "742420",
@@ -49,6 +49,165 @@
       "url": "https://opencritic.com/game/11879/saints-row"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "217520",
+      "nombre": "Saints Row",
+      "apps": [
+        {
+          "appid": "742420",
+          "nombre": "Saints Row"
+        }
+      ],
+      "usd": 3.44,
+      "antes": 22.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "894274",
+      "nombre": "Saints Row Gold Edition",
+      "apps": [
+        {
+          "appid": "742420",
+          "nombre": "Saints Row"
+        },
+        {
+          "appid": "2419623",
+          "nombre": "Saints Row - Expansion Pass"
+        },
+        {
+          "appid": "2419624",
+          "nombre": "Saints Row - Los Panteros American Muscle Bundle"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "742420": {
+      "usd": 3.44,
+      "gratis": false
+    },
+    "2419623": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "2419624": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 15,
+  "dlcLista": [
+    {
+      "appid": "2419623",
+      "nombre": "Saints Row - Expansion Pass",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 85
+    },
+    {
+      "appid": "2419622",
+      "nombre": "Saints Row - A Song of Ice and Dust",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2419621",
+      "nombre": "Saints Row - Doc Ketchums Murder Circus",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2419620",
+      "nombre": "Saints Row - The Heist and the Hazardous",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2419627",
+      "nombre": "Saints Row - Idols Anarchy Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2419626",
+      "nombre": "Saints Row - Saints Criminal Customs",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2419628",
+      "nombre": "Saints Row - Going Commando Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2419629",
+      "nombre": "Saints Row - Chicken Dinner Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2419625",
+      "nombre": "Saints Row - Merry Saintsmas Cosmetic Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2419624",
+      "nombre": "Saints Row - Los Panteros American Muscle Bundle",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2508390",
+      "nombre": "Saints Row - Dead Island 2 FREE Cosmetic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2508370",
+      "nombre": "Saints Row - Front to Back FREE Cosmetic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2508380",
+      "nombre": "Saints Row - Festive Felonies FREE Cosmetic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2391920",
+      "nombre": "Saints Row - SteelSeries© FREE Cosmetic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2512130",
+      "nombre": "Saints Row - Hexy Halloween FREE Cosmetic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Te damos la bienvenida a Santo Ileso, una dinámica ciudad ficticia en el suroeste estadounidense. En un mundo plagado de delincuencia, en el que facciones sin ley luchan por el poder, un grupo de jóvenes emprende su propio negocio criminal, en el camino a la cima de su propio éxito.",
   "generos": [
     "Acción",
@@ -56,6 +215,7 @@
   ],
   "lanzamientoTexto": "24 AGO 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Saints Row",
   "acerca": [
     [
@@ -117,59 +277,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -261,5 +435,28 @@
     }
   ],
   "web": "https://www.saintsrow.com",
-  "consultado": "2026-11-22T22:17:47.326Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Saints Row contatins frequent violence with blood effects and portrays the rise of a criminal gang in a realistic modern day America. Frequent cursing, crude humor and sexual innuendos are present throughout the dialogue. The character editor allows the player to be naked including censored genitalia and uncovered breasts.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 165346,
+  "youtube": [
+    {
+      "id": "YgjzDJA1o1E",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "f3J0bJ-YpQg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JR1w18sv4Rw",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:41:02.763Z"
 }

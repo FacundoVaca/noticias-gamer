@@ -1,9 +1,9 @@
 {
   "clave": "crash bandicoot n sane trilogy",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-00e6-73ef-a246-565a8852f91c",
   "appid": "731490",
@@ -49,12 +49,35 @@
       "url": "https://opencritic.com/game/4131/crash-bandicoot-n-sane-trilogy"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "213423",
+      "nombre": "Crash Bandicoot™ N. Sane Trilogy",
+      "apps": [
+        {
+          "appid": "731490",
+          "nombre": "Crash Bandicoot™ N. Sane Trilogy"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "731490": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Vuelve Crash Bandicoot™, tu marsupial favorito! Mejorado, embelesado y listo para bailar con la colección de juegos La trilogía. Revive tus momentos favoritos con Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back y Crash Bandicoot™ 3: Warped, ¡con gráficos remasterizados en toda su gloria!",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "29 JUN 2018",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Crash Bandicoot™ N. Sane Trilogy",
   "acerca": [
     [
@@ -91,23 +114,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -178,5 +206,25 @@
     }
   ],
   "web": "https://www.crashbandicoot.com",
-  "consultado": "2026-11-22T22:16:59.125Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 26196,
+  "youtube": [
+    {
+      "id": "AvK197_CP0Q",
+      "nombre": "E3 2017 Launch Trailer"
+    },
+    {
+      "id": "53L6P1XB_GU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "F7G91RjVmvk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:40:47.658Z"
 }

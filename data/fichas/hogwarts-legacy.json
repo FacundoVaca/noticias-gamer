@@ -1,0 +1,379 @@
+{
+  "clave": "hogwarts legacy",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-6144-7057-ad1c-0e99a3a71797",
+  "appid": "990080",
+  "lanzamiento": "2022-08-25",
+  "desarrolladores": [
+    "Avalanche Software"
+  ],
+  "editores": [
+    "Warner Games Inc.",
+    "Warner Bros. Games Inc.",
+    "Warner Bros. Games",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Interactive Entertainment",
+    "Microsoft",
+    "Xbox",
+    "Avalanche Software",
+    "Portkey Games"
+  ],
+  "etiquetas": [
+    "Magic",
+    "Open World",
+    "Fantasy",
+    "Singleplayer",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 277364,
+      "url": "https://store.steampowered.com/app/990080/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 22,
+      "url": "https://metacritic.com/game/hogwarts-legacy/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 7031,
+      "url": "https://metacritic.com/game/hogwarts-legacy/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 84,
+      "cantidad": 181,
+      "url": "https://opencritic.com/game/13898/hogwarts-legacy"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "822363",
+      "nombre": "Hogwarts Legacy",
+      "apps": [
+        {
+          "appid": "990080",
+          "nombre": "Hogwarts Legacy"
+        }
+      ],
+      "usd": 30,
+      "antes": 30,
+      "descuento": 0
+    },
+    {
+      "packageid": "822364",
+      "nombre": "Hogwarts Legacy: Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "1880837",
+          "nombre": " Hogwarts Legacy: Gorro de guarnición de las Artes Oscuras"
+        },
+        {
+          "appid": "990080",
+          "nombre": "Hogwarts Legacy"
+        },
+        {
+          "appid": "1880832",
+          "nombre": "Hogwarts Legacy: Pack de las Artes Oscuras"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "990080": {
+      "usd": 30,
+      "gratis": false
+    },
+    "1880832": {
+      "usd": 10,
+      "gratis": false
+    },
+    "1880837": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1880832",
+      "nombre": "Hogwarts Legacy: Pack de las Artes Oscuras",
+      "gratis": false,
+      "usd": 10,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "10 FEB 2023",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/hogwarts-legacy?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Hogwarts Legacy",
+  "acerca": [
+    [
+      "p",
+      "Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en un viaje que te llevará a lugares nuevos y ya conocidos, y en el que podrás descubrir animales fantásticos, personalizar a tu personaje, elaborar pociones, dominar hechizos, mejorar tus habilidades y convertirte en la bruja o el mago que quieras ser."
+    ],
+    [
+      "p",
+      "Disfruta de Hogwarts en el siglo XIX. Tu personaje es un estudiante que tiene la clave de un antiguo secreto que amenaza la estabilidad del mundo mágico. Consigue aliados, enfréntate a magos tenebrosos y decide el destino del mundo mágico. Tú defines tu legado. Escribe tu propia historia."
+    ],
+    [
+      "p",
+      "Incluye la misión de La tienda encantada de Hogsmeade, que otorga acceso a una mazmorra adicional, al conjunto cosmético de tendero y a una tienda en Hogsmeade."
+    ],
+    [
+      "p",
+      "Las nuevas funciones incluyen:"
+    ],
+    [
+      "p",
+      "- Modo Foto"
+    ],
+    [
+      "p",
+      "- Restablecer talentos"
+    ],
+    [
+      "p",
+      "Nuevos artículos cosméticos ahora disponibles para todos los jugadores: Las gafas que sobrevivieron, Uniforme y abrigo de prisionero de Azkaban, Montura de hipogrifo ónix, Receta de la poción Felix Felicis y 2 Escobas de mago tenebroso."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Menús narrados",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "85 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "85 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD, 1080p/60 fps, High Quality Settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.600x338.jpg?t=1790708992",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.1920x1080.jpg?t=1790708992"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.600x338.jpg?t=1790708992",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg?t=1790708992"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.600x338.jpg?t=1790708992",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_94058497bf0f8fabdde17ee8d59bece609a60663.1920x1080.jpg?t=1790708992"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.600x338.jpg?t=1790708992",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_8e08976236d29b1897769257ac3c64e9264792a5.1920x1080.jpg?t=1790708992"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.600x338.jpg?t=1790708992",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/ss_d4930d675af053dc1e61a876a34fc003e85e261f.1920x1080.jpg?t=1790708992"
+    }
+  ],
+  "web": "https://www.hogwartslegacy.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.5,
+    "cantidad": 18926,
+    "escala": 5
+  },
+  "xbox": "9MT5NJ5W7B8Z",
+  "igdbIntentado": true,
+  "igdb": 136625,
+  "youtube": [
+    {
+      "id": "BsC-Rl9GYy0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "2AZmuZNu5LA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "lutoaYeUVhw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TFp1vsPz2H4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:39:30.898Z"
+}

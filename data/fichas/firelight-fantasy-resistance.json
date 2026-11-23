@@ -1,0 +1,289 @@
+{
+  "clave": "firelight fantasy resistance",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4cca-70cc-a960-79019ea7c131",
+  "appid": "1558490",
+  "lanzamiento": "2021-07-10",
+  "desarrolladores": [
+    "Whale Rock Games",
+    "Quacky Games"
+  ],
+  "editores": [
+    "Whale Rock Games",
+    "871"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "3D Fighter",
+    "Procedural Generation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 77,
+      "cantidad": 166,
+      "url": "https://store.steampowered.com/app/1558490/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "550499",
+      "nombre": "Firelight Fantasy: Resistance",
+      "apps": [
+        {
+          "appid": "1558490",
+          "nombre": "Firelight Fantasy: Resistance"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 10.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1558490": {
+      "usd": 10.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Firelight Fantasy: Resistance es un espectacular juego de lucha con espadas en tercera persona.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Multijugador masivo",
+    "Rol"
+  ],
+  "lanzamientoTexto": "11 JUL 2021",
+  "metacritic": null,
+  "nombreSteam": "Firelight Fantasy: Resistance",
+  "acerca": [
+    [
+      "p",
+      "Firelight Fantasy: Resistance es un espectacular juego de lucha con espadas en tercera persona. Este juego es el comienzo de una historia asombrosa sobre el mundo de Isotopy. Sumérjase en una historia inusual que sucedió en algún momento del pasado ... y tal vez en el futuro. Sin embargo, esto no es tan importante."
+    ],
+    [
+      "h",
+      "ARTEFACTOS DE LUZ"
+    ],
+    [
+      "p",
+      "Las explosiones espaciales han generado fragmentos llamados Artefactos de Luz. No son muy grandes, pero tienen mucha energía. Este poder es suficiente para destruir varios planetas. Recoge todos los fragmentos y usa esta energía como quieras, en beneficio de las civilizaciones o como quieras. ¡tu decides!"
+    ],
+    [
+      "h",
+      "CONFRONTACIÓN ENTRE PASADO Y FUTURO"
+    ],
+    [
+      "p",
+      "La peculiaridad es que los fragmentos llegaron a la Tierra en diferentes intervalos de tiempo. Cuántos de esos fragmentos aún se desconocen, pero se supone que la mayoría de llegaron al planeta en un pasado distante. Diferentes generaciones están tratando de obtener estos \"regalos\" del espacio, sin embargo, nunca es fácil."
+    ],
+    [
+      "h",
+      "CON ESCUDO Y ESPADA"
+    ],
+    [
+      "p",
+      "¡Basta de hablar, es hora de ponerse manos a la obra y comenzar la búsqueda! Esta vez tendrás que atravesar bosques y campos cubiertos de nieve. Pero no basta con recorrer el camino, también hay que resistir a los mismos cazadores, como tú, que anhelan lo mismo."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS DEL JUEGO:"
+    ],
+    [
+      "li",
+      "10 niveles con una historia"
+    ],
+    [
+      "li",
+      "Batallas espectaculares"
+    ],
+    [
+      "li",
+      "Mundos generados por procedimientos"
+    ],
+    [
+      "li",
+      "Diferentes tipos de armas y tipos de ataques."
+    ],
+    [
+      "li",
+      "Souls-like sistema"
+    ],
+    [
+      "li",
+      "Impresionante banda sonora"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "7, 8, 10 (x64)"
+      ],
+      [
+        "Procesador",
+        "Intel core i3"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 660"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "7, 8, 10 (x64)"
+      ],
+      [
+        "Procesador",
+        "Intel core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/11ad704f8457e4c5e3b992fa54dbec73663e8c8e/ss_11ad704f8457e4c5e3b992fa54dbec73663e8c8e.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/11ad704f8457e4c5e3b992fa54dbec73663e8c8e/ss_11ad704f8457e4c5e3b992fa54dbec73663e8c8e.1920x1080.jpg?t=1791573475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/e296764ba13c1822af075c6cb98bf31c88481d31/ss_e296764ba13c1822af075c6cb98bf31c88481d31.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/e296764ba13c1822af075c6cb98bf31c88481d31/ss_e296764ba13c1822af075c6cb98bf31c88481d31.1920x1080.jpg?t=1791573475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_2e40593510f23cb3da4412c1573cb527ed9f433b.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_2e40593510f23cb3da4412c1573cb527ed9f433b.1920x1080.jpg?t=1791573475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_dcf6cd16757554850281926dc869bf951d115f44.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_dcf6cd16757554850281926dc869bf951d115f44.1920x1080.jpg?t=1791573475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/f3bb8e1e98b32128ad13eb257c748cf4203e3e03/ss_f3bb8e1e98b32128ad13eb257c748cf4203e3e03.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/f3bb8e1e98b32128ad13eb257c748cf4203e3e03/ss_f3bb8e1e98b32128ad13eb257c748cf4203e3e03.1920x1080.jpg?t=1791573475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_af6e0a06f03f9762896a6b458d05d6b708e313a5.600x338.jpg?t=1791573475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/ss_af6e0a06f03f9762896a6b458d05d6b708e313a5.1920x1080.jpg?t=1791573475"
+    }
+  ],
+  "web": "https://store.steampowered.com/app/1852830/SPACE_ACCIDENT/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 154880,
+  "v": 7,
+  "consultado": "2026-11-23T17:39:56.983Z"
+}

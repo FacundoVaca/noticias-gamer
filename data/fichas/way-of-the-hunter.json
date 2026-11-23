@@ -1,9 +1,9 @@
 {
   "clave": "way of the hunter",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5f4c-71d7-9c80-a14136004812",
   "appid": "1288320",
@@ -49,6 +49,185 @@
       "url": "https://opencritic.com/game/13541/way-of-the-hunter"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "449243",
+      "nombre": "Way of the Hunter",
+      "apps": [
+        {
+          "appid": "1288320",
+          "nombre": "Way of the Hunter"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "733497",
+      "nombre": "Way of the Hunter Elite Edition",
+      "apps": [
+        {
+          "appid": "1288320",
+          "nombre": "Way of the Hunter"
+        },
+        {
+          "appid": "2012180",
+          "nombre": "Way of the Hunter - Map Pack 1"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 20.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1288320": {
+      "usd": 3.74,
+      "gratis": false
+    },
+    "2012180": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 19,
+  "dlcLista": [
+    {
+      "appid": "4234310",
+      "nombre": "Way of the Hunter - Elkcrest Island",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4071730",
+      "nombre": "Way of the Hunter - Strasser Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4071720",
+      "nombre": "Way of the Hunter - Christensen Arms Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3325360",
+      "nombre": "Way of the Hunter Soundtrack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2793490",
+      "nombre": "Way of the Hunter - Map Pack 2",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2012180",
+      "nombre": "Way of the Hunter - Map Pack 1",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2922230",
+      "nombre": "Way of the Hunter - Hunter's Advantage Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3760210",
+      "nombre": "Way of the Hunter - Night Hunting Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3091580",
+      "nombre": "Way of the Hunter - Bear Archery Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2922210",
+      "nombre": "Way of the Hunter - Kawasaki UTV Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2922220",
+      "nombre": "Way of the Hunter - Remington Firearms Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2584760",
+      "nombre": "Way of the Hunter - Steyr Arms Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2211610",
+      "nombre": "Way of the Hunter - Free UTV",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3091570",
+      "nombre": "Way of the Hunter - Lintukoto Reserve",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2922200",
+      "nombre": "Way of the Hunter - Outfits Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2698430",
+      "nombre": "Way of the Hunter - Matariki Park",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2054471",
+      "nombre": "Way of the Hunter - Tikamoon Plains",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2054470",
+      "nombre": "Way of the Hunter - Aurora Shores",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2014490",
+      "nombre": "Way of the Hunter - Hunter's Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Conviértete en el nuevo propietario de una cabaña de caza rodeada de espectaculares hábitats y manadas de animales. Explora amplios entornos de mundo abierto y caza con armas de fuego selectas. Disfruta de la cacería perfecta por tu cuenta o con amigos en cooperativo.",
   "generos": [
     "Aventura",
@@ -57,6 +236,7 @@
   ],
   "lanzamientoTexto": "16 AGO 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Way of the Hunter",
   "acerca": [
     [
@@ -298,5 +478,27 @@
     }
   ],
   "web": "https://wayofthehunter.com",
-  "consultado": "2026-11-22T22:17:58.472Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "It is a realistic hunting game. Animals are shot and killed with rifles, blood splatters are displayed on the ground. Animal anatomy and the hit by the bullet are shown in the shot review. Animals are displayed as taxidermized trophies in the hunting lodge.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 198388,
+  "youtube": [
+    {
+      "id": "-UDoaPCTVr4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "vtzmfYEmGBE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "pzakA-w2YdU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:40:55.971Z"
 }
