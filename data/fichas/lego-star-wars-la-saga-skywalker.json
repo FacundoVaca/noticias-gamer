@@ -1,0 +1,549 @@
+{
+  "clave": "lego star wars la saga skywalker",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-043b-733c-b262-1cd8894e4787",
+  "appid": "920210",
+  "lanzamiento": "2022-04-04",
+  "desarrolladores": [
+    "TT Games"
+  ],
+  "editores": [
+    "Warner Bros. Games Inc.",
+    "Warner Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment",
+    "Warner Bros.",
+    "TT Games",
+    "WB Games"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Adventure",
+    "Multiplayer",
+    "Open World",
+    "Space"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 38514,
+      "url": "https://store.steampowered.com/app/920210/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/lego-star-wars-the-skywalker-saga/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 1004,
+      "url": "https://metacritic.com/game/lego-star-wars-the-skywalker-saga/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 172,
+      "url": "https://opencritic.com/game/9901/lego-star-wars-the-skywalker-saga"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "296489",
+      "nombre": "LEGO® Star Wars™: La Saga Skywalker",
+      "apps": [
+        {
+          "appid": "920210",
+          "nombre": "LEGO® Star Wars™: La Saga Skywalker"
+        }
+      ],
+      "usd": 2.5,
+      "antes": 25,
+      "descuento": 90
+    },
+    {
+      "packageid": "699932",
+      "nombre": "LEGO® Star Wars™: La Saga Skywalker Edición Deluxe",
+      "apps": [
+        {
+          "appid": "920210",
+          "nombre": "LEGO® Star Wars™: La Saga Skywalker"
+        },
+        {
+          "appid": "1353944",
+          "nombre": "LEGO® Star Wars™: Rogue One: A Star Wars Story Character Pack"
+        },
+        {
+          "appid": "1353945",
+          "nombre": "LEGO® Star Wars™: Solo: A Star Wars Story Character Pack"
+        },
+        {
+          "appid": "1414630",
+          "nombre": "LEGO® Star Wars™: The Bad Batch Character Pack"
+        },
+        {
+          "appid": "1353942",
+          "nombre": "LEGO® Star Wars™: The Mandalorian Season 1 Pack"
+        },
+        {
+          "appid": "1353943",
+          "nombre": "LEGO® Star Wars™: The Mandalorian Season 2 Character Pack"
+        },
+        {
+          "appid": "1941590",
+          "nombre": "LEGO® Star Wars™: The Skywalker Saga Character Collection 1"
+        },
+        {
+          "appid": "1353941",
+          "nombre": "LEGO® Star Wars™: The Skywalker Saga Classic Character Pack"
+        },
+        {
+          "appid": "1353946",
+          "nombre": "LEGO® Star Wars™: The Skywalker Saga Trooper Pack"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 49.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "785847",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Galactic Edition",
+      "apps": [
+        {
+          "appid": "920210",
+          "nombre": "LEGO® Star Wars™: La Saga Skywalker"
+        },
+        {
+          "appid": "2194991",
+          "nombre": "LEGO® Star Wars™: The Skywalker Saga Character Collection 1 & 2"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 59.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "920210": {
+      "usd": 2.5,
+      "gratis": false
+    },
+    "1353941": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1353942": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1353943": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1353944": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1353945": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1353946": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1414630": {
+      "usd": 2,
+      "gratis": false
+    },
+    "1941590": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "2194991": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 16,
+  "dlcLista": [
+    {
+      "appid": "2194991",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Character Collection 1 & 2",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 90
+    },
+    {
+      "appid": "1353941",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Classic Character Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1353942",
+      "nombre": "LEGO® Star Wars™: The Mandalorian Season 1 Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1353943",
+      "nombre": "LEGO® Star Wars™: The Mandalorian Season 2 Character Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1353944",
+      "nombre": "LEGO® Star Wars™: Rogue One: A Star Wars Story Character Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1353945",
+      "nombre": "LEGO® Star Wars™: Solo: A Star Wars Story Character Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1353946",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Trooper Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1414630",
+      "nombre": "LEGO® Star Wars™: The Bad Batch Character Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "1941590",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Character Collection 1",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 90
+    },
+    {
+      "appid": "2150630",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Summer Vacation Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2150631",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Rebels Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2150632",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Book of Boba Fett Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2150633",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Obi-Wan Kenobi Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2150634",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga The Clone Wars Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2150635",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Andor Pack",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 33
+    },
+    {
+      "appid": "2194990",
+      "nombre": "LEGO® Star Wars™: The Skywalker Saga Character Collection 2",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 90
+    }
+  ],
+  "descripcion": "Revive las nueve películas de la saga como nunca lo habías hecho antes con este videojuego nuevo que incluye más de 300 personajes jugables, más de 100 vehículos y 23 planetas. ¡Llega la diversión a la galaxia muy, muy lejana! *Incluye el personaje jugable Obi-Wan Kenobi clásico.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "5 ABR 2022",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/lego-star-wars-the-skywalker-saga?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "LEGO® Star Wars™: La Saga Skywalker",
+  "acerca": [
+    [
+      "p",
+      "La galaxia es tuya con LEGO® Star Wars™: La Saga Skywalker. Vive los momentos inolvidables y llenos de acción de las nueve películas de la saga a través del humor característico que ofrece LEGO"
+    ],
+    [
+      "p",
+      "La versión digital incluye el personaje jugable exclusivo Obi-Wan Kenobi clásico."
+    ],
+    [
+      "p",
+      "● Explora las trilogías en cualquier orden: los jugadores pueden revivir la historia épica de las nueve películas de la saga Skywalker y todo comienza con la selección de la trilogía preferida para empezar el viaje."
+    ],
+    [
+      "p",
+      "● Juega con héroes y villanos legendarios: disfruta de más de 300 personajes jugables de toda la galaxia."
+    ],
+    [
+      "p",
+      "● Descubre lugares míticos: los jugadores pueden visitar los lugares más conocidos de sus películas favoritas de la saga Skywalker. Viaja con total libertad y desbloquea 23 planetas mientras progresas en la historia de la saga o exploras y descubres emocionantes misiones."
+    ],
+    [
+      "p",
+      "● Pilota potentes vehículos: más de 100 vehículos procedentes de toda la galaxia están a tu disposición. Participa en batallas aéreas y derrota naves capitales tales como el superdestructor estelar, en el que además podrás subirte a bordo para explorar."
+    ],
+    [
+      "p",
+      "● Experiencia de juego inmersiva: encadena diferentes ataques para formar combos y defenderte de los enemigos. Nuevos controles y mecánica del bláster renovada que te permiten apuntar con precisión o utilizar las habilidades de los Jedi blandiendo la espada láser y utilizando el poder de la Fuerza."
+    ],
+    [
+      "p",
+      "● Mejora las habilidades de los personajes: explorar la galaxia te concede recompensas, puesto que descubrirás ladrillos de Kyber ocultos que desbloquean nuevas características y mejoran las habilidades de personajes de distintas clases, como Jedi, Héroe, Lado Oscuro, Villano, Chatarrero, Sinvergüenza, Cazarrecompensas, Droide astromecánico y Droide de protocolo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play Together",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2400 or AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 750 Ti or Radeon HD 7850"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 or AMD Ryzen 3 3100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 780 or Radeon R9 290"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_7b54bb64490ba1ad69881ae6779bf45cba01d31b.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_7b54bb64490ba1ad69881ae6779bf45cba01d31b.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_11724e6828790b387c50faca84ac7b1117a7077c.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_11724e6828790b387c50faca84ac7b1117a7077c.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_bfdacc6a1cd6092fa5510fd6120ccbdac5ecd461.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_bfdacc6a1cd6092fa5510fd6120ccbdac5ecd461.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_2196c501be46e59a8f574e23c86c26c9787b47d8.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_2196c501be46e59a8f574e23c86c26c9787b47d8.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_240e97d85ac3391a4a332190f1af40b290b2d623.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_240e97d85ac3391a4a332190f1af40b290b2d623.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_dae7d63d06bb47ab07c86d0f643d8195d5c4a6ac.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_dae7d63d06bb47ab07c86d0f643d8195d5c4a6ac.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_2b99c2ac40f518cc03f765f6b8fb6cb5e0569262.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_2b99c2ac40f518cc03f765f6b8fb6cb5e0569262.1920x1080.jpg?t=1793839537"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_50d90d68643b904fd8e94b03f5841fb4e4e92894.600x338.jpg?t=1793839537",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/920210/ss_50d90d68643b904fd8e94b03f5841fb4e4e92894.1920x1080.jpg?t=1793839537"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 119305,
+  "youtube": [
+    {
+      "id": "oz_v35svV40",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "HKYhNwzBA8w",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "3p1vilvb4Ck",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:48:42.522Z"
+}

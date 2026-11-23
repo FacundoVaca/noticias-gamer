@@ -1,0 +1,357 @@
+{
+  "clave": "far cry primal",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-fee0-7282-a941-79b83314440f",
+  "appid": "371660",
+  "lanzamiento": "2016-03-01",
+  "desarrolladores": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "editores": [
+    "Ubisoft",
+    "Ubisoft Entertainment"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Survival",
+    "Action",
+    "Hunting",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 39366,
+      "url": "https://store.steampowered.com/app/371660/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 18,
+      "url": "https://metacritic.com/game/far-cry-primal/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 1653,
+      "url": "https://metacritic.com/game/far-cry-primal/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 77,
+      "cantidad": 115,
+      "url": "https://opencritic.com/game/1944/far-cry-primal"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "95509",
+      "nombre": "Far Cry Primal Standard Edition",
+      "apps": [
+        {
+          "appid": "371660",
+          "nombre": "Far Cry® Primal"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 23.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "87322",
+      "nombre": "Far Cry Primal Apex Edition",
+      "apps": [
+        {
+          "appid": "371660",
+          "nombre": "Far Cry® Primal"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 27.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "371660": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "453360",
+      "nombre": "Far Cry® Primal - Wenja Pack",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 75
+    }
+  ],
+  "descripcion": "La aclamada serie Far Cry vuelve con su innovador mundo abierto, bestias enormes, entornos impactantes y encuentros salvajes impredecibles. Bienvenido a la Edad de Piedra, una época de peligros y aventuras, en la que los mamuts gigantes y los tigres dientes de sable dominaban la Tierra y la humanidad lucha por escalar en la cadena...",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "29 FEB 2016",
+  "metacritic": {
+    "puntaje": 74,
+    "url": "https://www.metacritic.com/game/pc/far-cry-primal?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Far Cry® Primal",
+  "acerca": [
+    [
+      "p",
+      "La aclamada serie Far Cry ha pasado por el trópico y el Himalaya y ahora entra en la era de la lucha por la supervivencia de la raza humana con su innovador mundo abierto, bestias enormes, entornos impactantes y encuentros salvajes impredecibles."
+    ],
+    [
+      "p",
+      "Bienvenido a la Edad de Piedra, una época de peligros extremos y aventuras sin límite. Cuando los mamuts gigantes y los tigres dientes de sable dominaban la Tierra y la humanidad estaba en la cola de la cadena alimentaria. Como último superviviente de tu grupo de caza, aprenderás a crear un arsenal mortífero, a repeler feroces depredadores y a superar en ingenio a las tribus enemigas para conquistar la tierra de Oros y convertirte en el superdepredador."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS"
+    ],
+    [
+      "li",
+      "LA EDAD DE PIEDRA DE FAR CRY: La exuberante ambientación de la Edad de Piedra es un lugar repleto de caos impredecible, peligros sobrecogedores e historias increíbles por los que es conocido Far Cry."
+    ],
+    [
+      "li",
+      "SOBREVIVE A LA EXTINCIÓN: Juega como Takkar, un cazador veterano y último miembro superviviente de tu grupo. Tienes un objetivo: sobrevivir en un mundo donde tú eres la presa."
+    ],
+    [
+      "li",
+      "UNA FAUNA FEROZ Y UN MUNDO MAJESTUOSO Y SALVAJE: Así es la Tierra antes de que el hombre se apropiara de ella, donde los letales tigres dientes de sable dominaban el mundo, los mamuts lanudos gigantes eran los reyes y las manadas de enormes alces corrían por las llanuras. Descubre estas y muchas otras criaturas gigantes en el salvaje mundo abierto de Oros, entre imponentes bosques de secuoyas, duras taigas, heladas montañas y húmedos pantanos."
+    ],
+    [
+      "p",
+      "Para mejorar la inmersión en el juego, todo el audio de los diálogos está en un idioma primitivo inspirado en el protoindoeuropeo, el idioma que hablaban nuestros ancestros hace 12 000 años, y subtitulado en español."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Cromos de Steam",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-550 | AMD Phenom II X4 955 or equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 460 (1GB VRAM) | AMD Radeon HD 5770 (1GB VRAM) or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows-compatible keyboard, mouse, headset, optional controller. Supported Video Cards at Time of Release: AMD Radeon™ HD 5770 (1 GB VRAM) or better, HD 7000 / 200 / 300 / Fury X series, NVIDIA® GeForce® GTX 460 (1 GB VRAM) or better, GTX 500 / 600 / 700 / 900 / TITAN series. Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at . HIGH SPEED INTERNET ACCESS AND A VALID UPLAY ACCOUNT REQUIRED TO ACTIVATE THE GAME AFTER INSTALLATION, TO AUTHENTICATE YOUR SYSTEM AND CONTINUE GAMEPLAY AFTER ANY RE-ACTIVATION, TO ACCESS ONLINE FEATURES AND TO UNLOCK EXCLUSIVE CONTENT. SUCH CONTENT MAY ONLY BE UNLOCKED ONE SINGLE TIME WITH A UNIQUE KEY. YOU MUST BE AT LEAST 13 TO CREATE A UPLAY ACCOUNT WITHOUT PARENTAL CONSENT. UBISOFT MAY CANCEL ACCESS TO ONE OR MORE SPECIFIC ONLINE FEATURES UPON 30-DAYS PRIOR NOTICE, PUBLISHED AT . Game contains Denuvo anti-tamper technology."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 (64-bit versions only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-2600K | AMD FX-8350 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 780 | AMD Radeon R9 280X or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows-compatible keyboard, mouse, headset, optional controller. Supported Video Cards at Time of Release: AMD Radeon™ HD 5770 (1 GB VRAM) or better, HD 7000 / 200 / 300 / Fury X series, NVIDIA® GeForce® GTX 460 (1 GB VRAM) or better, GTX 500 / 600 / 700 / 900 / TITAN series. Note: This product supports 64-bit operating systems only. Laptop versions of these cards may work, but are not officially supported. For the most up-to-date requirement listings, please visit the FAQ on our support website at . HIGH SPEED INTERNET ACCESS AND A VALID UPLAY ACCOUNT REQUIRED TO ACTIVATE THE GAME AFTER INSTALLATION, TO AUTHENTICATE YOUR SYSTEM AND CONTINUE GAMEPLAY AFTER ANY RE-ACTIVATION, TO ACCESS ONLINE FEATURES AND TO UNLOCK EXCLUSIVE CONTENT. SUCH CONTENT MAY ONLY BE UNLOCKED ONE SINGLE TIME WITH A UNIQUE KEY. YOU MUST BE AT LEAST 13 TO CREATE A UPLAY ACCOUNT WITHOUT PARENTAL CONSENT. UBISOFT MAY CANCEL ACCESS TO ONE OR MORE SPECIFIC ONLINE FEATURES UPON 30-DAYS PRIOR NOTICE, PUBLISHED AT . Game contains Denuvo anti-tamper technology."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_d820e20568ae777eda44fdebe23690e1e5c3d3a0.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_d820e20568ae777eda44fdebe23690e1e5c3d3a0.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_ba889584f1312c18efc11b8bbea916a9e118272a.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_ba889584f1312c18efc11b8bbea916a9e118272a.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_308b86502c1ca398a3f47995ab7a13ff8f0f2050.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_308b86502c1ca398a3f47995ab7a13ff8f0f2050.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_80e2245daaa7180e4c84f4399285af8a4e3a2137.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_80e2245daaa7180e4c84f4399285af8a4e3a2137.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_6fc6df0e439cf95e4252927f0d79aa473f2de81e.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_6fc6df0e439cf95e4252927f0d79aa473f2de81e.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_5c7cae46a6f8ab3fc576164ac5ff758201b555db.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_5c7cae46a6f8ab3fc576164ac5ff758201b555db.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_0680579ed4e4ce734c632a7994877e73679731b6.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_0680579ed4e4ce734c632a7994877e73679731b6.1920x1080.jpg?t=1772640435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_09519977390070d19cbf66981df5eb4f3a168101.600x338.jpg?t=1772640435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371660/ss_09519977390070d19cbf66981df5eb4f3a168101.1920x1080.jpg?t=1772640435"
+    }
+  ],
+  "web": "http://far-cry.ubisoft.com/primal/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action game in which players assume the role of Takkar, a nomadic hunter trying to reestablish his tribe. From a first-person perspective, players engage in missions that involve tracking/hunting animals, resource-gathering, and combat against rival tribes.",
+  "igdbIntentado": true,
+  "igdb": 13182,
+  "youtube": [
+    {
+      "id": "CQOiedRo-dc",
+      "nombre": "101 Trailer"
+    },
+    {
+      "id": "4E6THsoiokA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Y-ejYYRZpxg",
+      "nombre": "Beast Master Trailer"
+    },
+    {
+      "id": "idnMSPnpI6c",
+      "nombre": "Gameplay Walkthrough #1"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:50:23.345Z"
+}

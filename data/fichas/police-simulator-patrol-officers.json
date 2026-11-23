@@ -1,0 +1,541 @@
+{
+  "clave": "police simulator patrol officers",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4c6c-73fc-b078-7273539c0904",
+  "appid": "997010",
+  "lanzamiento": "2021-06-17",
+  "desarrolladores": [
+    "Aesir Interactive"
+  ],
+  "editores": [
+    "Astragon Entertainment",
+    "Astragon Entertainment GmbH",
+    "Astragon Software GmbH",
+    "Aesir Interactive"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Crime",
+    "Multiplayer",
+    "Open World",
+    "Realistic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 75,
+      "cantidad": 19095,
+      "url": "https://store.steampowered.com/app/997010/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 51,
+      "cantidad": 82,
+      "url": "https://metacritic.com/game/police-simulator-patrol-officers/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 57,
+      "cantidad": 23,
+      "url": "https://opencritic.com/game/13965/police-simulator-patrol-officers"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "751633",
+      "nombre": "Police Simulator: Patrol Officers",
+      "apps": [
+        {
+          "appid": "997010",
+          "nombre": "Police Simulator: Patrol Officers"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 14.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1029182",
+      "nombre": "Police Simulator: Patrol Officers: Gold Edition",
+      "apps": [
+        {
+          "appid": "997010",
+          "nombre": "Police Simulator: Patrol Officers"
+        },
+        {
+          "appid": "2199030",
+          "nombre": "Police Simulator: Patrol Officers: Compact Police Vehicle DLC"
+        },
+        {
+          "appid": "2210960",
+          "nombre": "Police Simulator: Patrol Officers: Guardian Police Vehicle DLC"
+        },
+        {
+          "appid": "2350410",
+          "nombre": "Police Simulator: Patrol Officers: Highway Patrol Expansion"
+        },
+        {
+          "appid": "2513250",
+          "nombre": "Police Simulator: Patrol Officers: Multipurpose Police Vehicle DLC"
+        },
+        {
+          "appid": "2527820",
+          "nombre": "Police Simulator: Patrol Officers: Surveillance Police Vehicle DLC"
+        },
+        {
+          "appid": "2009550",
+          "nombre": "Police Simulator: Patrol Officers: Urban Terrain Vehicle DLC"
+        },
+        {
+          "appid": "2527830",
+          "nombre": "Police Simulator: Patrol Officers: Warden Police Vehicle DLC"
+        }
+      ],
+      "usd": 6.64,
+      "antes": 18.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "997010": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2009550": {
+      "usd": 1.29,
+      "gratis": false
+    },
+    "2199030": {
+      "usd": 1.29,
+      "gratis": false
+    },
+    "2210960": {
+      "usd": 1.29,
+      "gratis": false
+    },
+    "2350410": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "2513250": {
+      "usd": 1.29,
+      "gratis": false
+    },
+    "2527820": {
+      "usd": 1.29,
+      "gratis": false
+    },
+    "2527830": {
+      "usd": 1.29,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 20,
+  "dlcLista": [
+    {
+      "appid": "3597210",
+      "nombre": "Police Simulator: Patrol Officers - Season Pass",
+      "gratis": false,
+      "usd": 8.11,
+      "descuento": 35
+    },
+    {
+      "appid": "3768320",
+      "nombre": "Police Simulator: Patrol Officers: Contraband Expansion",
+      "gratis": false,
+      "usd": 9.74,
+      "descuento": 35
+    },
+    {
+      "appid": "3768310",
+      "nombre": "Police Simulator: Patrol Officers: Vanguard Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.55,
+      "descuento": 35
+    },
+    {
+      "appid": "2350410",
+      "nombre": "Police Simulator: Patrol Officers: Highway Patrol Expansion",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "3768300",
+      "nombre": "Police Simulator: Patrol Officers: Accident Pack",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "3924710",
+      "nombre": "Police Simulator: Patrol Officers: East Coast Police Uniform Pack",
+      "gratis": false,
+      "usd": 1.61,
+      "descuento": 35
+    },
+    {
+      "appid": "3924730",
+      "nombre": "Police Simulator: Patrol Officers: Western Police Uniform Pack",
+      "gratis": false,
+      "usd": 1.61,
+      "descuento": 35
+    },
+    {
+      "appid": "3924720",
+      "nombre": "Police Simulator: Patrol Officers: South Atlantic Police Uniform Pack",
+      "gratis": false,
+      "usd": 1.61,
+      "descuento": 35
+    },
+    {
+      "appid": "3597220",
+      "nombre": "Police Simulator: Patrol Officers: Vehicle Customization Pack",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "3768290",
+      "nombre": "Police Simulator: Patrol Officers: Adventurer Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "3167630",
+      "nombre": "Police Simulator: Patrol Officers: Fast Pursuit Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2893870",
+      "nombre": "Police Simulator: Patrol Officers: Unmarked Police Vehicle Pack",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 35
+    },
+    {
+      "appid": "2893880",
+      "nombre": "Police Simulator: Patrol Officers: Special Police Vehicle Pack",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 35
+    },
+    {
+      "appid": "3048950",
+      "nombre": "Police Simulator: Patrol Officers: Tropical Taskforce Pack",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2513250",
+      "nombre": "Police Simulator: Patrol Officers: Multipurpose Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2527820",
+      "nombre": "Police Simulator: Patrol Officers: Surveillance Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2527830",
+      "nombre": "Police Simulator: Patrol Officers: Warden Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2210960",
+      "nombre": "Police Simulator: Patrol Officers: Guardian Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2199030",
+      "nombre": "Police Simulator: Patrol Officers: Compact Police Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    },
+    {
+      "appid": "2009550",
+      "nombre": "Police Simulator: Patrol Officers: Urban Terrain Vehicle DLC",
+      "gratis": false,
+      "usd": 1.29,
+      "descuento": 35
+    }
+  ],
+  "descripcion": "¡Brighton te da la bienvenida! Únete al cuerpo de policía de esta ciudad estadounidense ficticia y vive el día a día de un agente.",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "10 NOV 2022",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Police Simulator: Patrol Officers",
+  "acerca": [
+    [
+      "p",
+      "¡Brighton te da la bienvenida! Únete al cuerpo de policía de esta ciudad estadounidense ficticia y vive el día a día de un agente. Comienza señalando infracciones y sancionando con multas de aparcamiento, y ve asumiendo cada vez más responsabilidades. Forma parte de la comunidad de Brighton, conoce a tu vecindario y ocúpate de las tareas diarias de la policía para luchar contra el crimen durante tu turno. Sé firme, pero imparcial: respeta la ley y gana más experiencia para desbloquear más vecindarios, distritos y responsabilidades."
+    ],
+    [
+      "p",
+      "POLICE SIMULATOR: PATROL OFFICERS incluye un sistema de tráfico dinámico que recrea con naturalidad el flujo y los accidentes de tráfico, así como situaciones de emergencia que podrán aparecer de forma aleatoria durante tu turno. ¡Prepárate para acudir inmediatamente! En el mundo abierto de Brighton y podrás elegir vecindarios para patrullar y garantizar su seguridad. Patrulla por tres distritos diferentes compuestos por varios vecindarios. Cada uno de ellos tiene un carácter distinto, desde los altos edificios de Downtown hasta las edificaciones históricas de Brickston."
+    ],
+    [
+      "p",
+      "Según progreses y desbloquees más distritos, tendrás también nuevas responsabilidades. Comienza buscando coches mal aparcados para ponerles multas, pero también deberás ocuparte de los accidentes que puedan ocurrir ante tus ojos. En una ciudad animada y vibrante, siempre podrás encontrar diferentes tareas. Impide el tráfico de drogas que tiene lugar en el parque o persigue a los grafiteros que marcan ilegalmente las paredes. Te debes preparar para todo, aunque solo sea un coche que bloquea una parada de autobús. Todos los servicios están a tu cargo."
+    ],
+    [
+      "p",
+      "Con el sistema de intuición, tu agente de policía podrá recoger pistas importantes durante los interrogatorios a los testigos que podrán ayudarte a resolver correctamente cada situación, presta mucha atención a lo que dicen y hacen. POLICE SIMULATOR: PATROL OFFICERS ofrece un modo Simulación para los jugadores veteranos que quieran una experiencia más auténtica, y un modo Casual para quienes prefieran patrullas más relajadas en las calles de Brighton."
+    ],
+    [
+      "p",
+      "Sistema de tráfico que recrea con naturalidad accidentes, vehículos que exceden la velocidad permitida, atascos y otras infracciones de tráfico como cruzar el semáforo en rojo."
+    ],
+    [
+      "p",
+      "Tres distritos diferentes compuestos por varios vecindarios con su propio carácter."
+    ],
+    [
+      "p",
+      "Diversos servicios, como resolver accidentes de tráfico, hacer cumplir las normas de aparcamiento, atender llamadas de emergencia y perseguir a traficantes de drogas o grafiteros."
+    ],
+    [
+      "p",
+      "El progreso desbloquea distritos, coches y modos de juego (Normal y Patrulla libre)."
+    ],
+    [
+      "p",
+      "Modos de juego Casual y Simulación."
+    ],
+    [
+      "p",
+      "Desbloquea y conduce hasta 3 coches policiales diferentes: Cruiser, Panther Z y Gladiator."
+    ],
+    [
+      "p",
+      "Sistema de intuición."
+    ],
+    [
+      "p",
+      "Modo multijugador y para un jugador."
+    ],
+    [
+      "p",
+      "Posibilidad de modificar las texturas del uniforme y el coche."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opciones de subtítulos",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i3-2120 o superior"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 760 (2 GB VRAM) o superior"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i7-4790 o superior"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 (6 GB VRAM) o superior"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_b2234d37c3db17c4612570d30e16432a0a366713.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_b2234d37c3db17c4612570d30e16432a0a366713.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_cd4ae3859e6776c222c131cd83604c7e6de596d5.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_cd4ae3859e6776c222c131cd83604c7e6de596d5.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_b3ec094a2238e0757a072cd3bb2dfaaf557066ca.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_b3ec094a2238e0757a072cd3bb2dfaaf557066ca.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_816caba858665d074321afa6b757583482346718.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_816caba858665d074321afa6b757583482346718.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_dbfc22c7ef3a85b936e19aa4aa3a48838b67b07d.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_dbfc22c7ef3a85b936e19aa4aa3a48838b67b07d.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_fbbd0a857f26237f875a1fac5f278d882aed448e.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_fbbd0a857f26237f875a1fac5f278d882aed448e.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_59f1812665d1c83e99660a4763fd460b7f2c1eef.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_59f1812665d1c83e99660a4763fd460b7f2c1eef.1920x1080.jpg?t=1794473166"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_af093ea557d96bb51bb4a5dacb6a0be5cd493fe6.600x338.jpg?t=1794473166",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/ss_af093ea557d96bb51bb4a5dacb6a0be5cd493fe6.1920x1080.jpg?t=1794473166"
+    }
+  ],
+  "web": "https://patrol-officers.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 152297,
+  "youtube": [
+    {
+      "id": "89WAdMB1EIY",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:50:16.898Z"
+}

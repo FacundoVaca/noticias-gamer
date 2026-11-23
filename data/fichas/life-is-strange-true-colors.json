@@ -1,0 +1,353 @@
+{
+  "clave": "life is strange true colors",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4d0a-714f-8dc6-7564e2cd3ffd",
+  "appid": "936790",
+  "lanzamiento": "2021-09-09",
+  "desarrolladores": [
+    "DECK NINE"
+  ],
+  "editores": [
+    "Square Enix"
+  ],
+  "etiquetas": [
+    "Choices Matter",
+    "Story Rich",
+    "LGBTQ+",
+    "Female Protagonist",
+    "Multiple Endings"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 12432,
+      "url": "https://store.steampowered.com/app/936790/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 26,
+      "url": "https://metacritic.com/game/life-is-strange-true-colors/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 859,
+      "url": "https://metacritic.com/game/life-is-strange-true-colors/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 171,
+      "url": "https://opencritic.com/game/11319/life-is-strange-true-colors"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "304000",
+      "nombre": "Life is Strange: True Colors",
+      "apps": [
+        {
+          "appid": "936790",
+          "nombre": "Life is Strange: True Colors"
+        }
+      ],
+      "usd": 13.49,
+      "antes": 44.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "936790": {
+      "usd": 13.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1450571",
+      "nombre": "Life is Strange: True Colors - Alex Outfit Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1571390",
+      "nombre": "Life is Strange: True Colors - Deluxe Upgrade",
+      "gratis": false,
+      "usd": 15.91,
+      "descuento": 68
+    }
+  ],
+  "descripcion": "Alex Chen esconde su maldición: el poder de la empatía, la capacidad de absorber y manipular las emociones ajenas. Tras la muerte de su hermano, supuestamente accidental, Alex usa su poder para desentrañar la verdad que tanto tiempo lleva oculta.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "9 SEP 2021",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Life is Strange: True Colors",
+  "acerca": [
+    [
+      "p",
+      "¡Comienza una nueva etapa en la premiada serie Life is Strange con una nueva protagonista y un emocionante misterio por resolver!"
+    ],
+    [
+      "p",
+      "Alex Chen siempre ha ocultado su maldición: una habilidad sobrenatural para sentir, absorber y manipular los sentimientos intensos de los demás, que percibe como auras de colores."
+    ],
+    [
+      "p",
+      "Tras la muerte de su hermano, supuestamente accidental, Alex debe aprender a controlar su poder para descubrir la verdad y los oscuros secretos que oculta un pueblo pequeño."
+    ],
+    [
+      "h",
+      "LA VERDAD DOLERÁ"
+    ],
+    [
+      "p",
+      "Descubre los impactantes secretos que rodean la muerte de tu hermano en una aventura cargada de emociones."
+    ],
+    [
+      "h",
+      "SIÉNTELO TODO"
+    ],
+    [
+      "p",
+      "Cambia el destino y cambia vidas con el poder de la empatía."
+    ],
+    [
+      "h",
+      "ESTABLECE RELACIONES ESTRECHAS"
+    ],
+    [
+      "p",
+      "Gánate la confianza de los vecinos del pueblo y entabla una relación amorosa o de amistad con Ryan y Steph."
+    ],
+    [
+      "h",
+      "UNA HISTORIA VERDADERAMENTE PERSONAL"
+    ],
+    [
+      "p",
+      "Toma decisiones difíciles y elige tu propio futuro mientras te mueves libremente por las calles, tiendas y rincones de Haven Springs y conoces a personajes inolvidables."
+    ],
+    [
+      "h",
+      "ENCUENTRA LA FORMA DE EXPRESARTE"
+    ],
+    [
+      "p",
+      "Y elige el estilo de Alex a partir de los 24 atuendos del armario."
+    ],
+    [
+      "h",
+      "UNA BANDA SONORA EXCLUSIVA"
+    ],
+    [
+      "p",
+      "Banda sonora original de Angus & Julia Stone, nuevos temas de mxmtoon y Novo Amor y un gran número de canciones con licencia de artistas como Radiohead, Phoebe Bridgers o Gabrielle Aplin."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Phenom II X4 965, 3.40 GHz / Intel Core i5-2300, 2.80 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon HD 7790, 2 GB / GeForce GTX 750Ti, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350, 4.00 GHz / Intel Core i5-3470, 3.20 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon RX 590, 8 GB / GeForce GTX 1060, 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_93afc98cccbc51c1364fedb56548896c69ef3704.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_93afc98cccbc51c1364fedb56548896c69ef3704.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_92b4caae062d5aebe04ab738db4b78d1c623e3c5.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_92b4caae062d5aebe04ab738db4b78d1c623e3c5.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_e5627051a221b6630cb3d9dacc69065fd1a4f8da.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_e5627051a221b6630cb3d9dacc69065fd1a4f8da.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_57a8d1468ecbd7fe2f9629b024dd41ba33187148.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_57a8d1468ecbd7fe2f9629b024dd41ba33187148.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_9d3698ec2b942b399792e158a810c324bc265724.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_9d3698ec2b942b399792e158a810c324bc265724.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_2d6ddcab998249ccfe50a485ddab78f6c8754f05.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_2d6ddcab998249ccfe50a485ddab78f6c8754f05.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_7bc096f1671436306b650fbacc82ce476749df1f.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_7bc096f1671436306b650fbacc82ce476749df1f.1920x1080.jpg?t=1771867255"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_5ed82644652a80b5b26310c7f7f55b68186af4ab.600x338.jpg?t=1771867255",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936790/ss_5ed82644652a80b5b26310c7f7f55b68186af4ab.1920x1080.jpg?t=1771867255"
+    }
+  ],
+  "web": "https://www.lifeisstrange.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Life is Strange: True Colors is a narrative adventure featuring Alex Chen, a young woman with an astonishing supernatural power, through which she can experience the strong emotions of others. While Alex’s power will lead to moments of great Joy, it also brings her into the orbit of violent Anger, world-altering Sadness, and irrepressible Fear. As she probes the mysteries of Haven Springs, revealing its secrets, Alex will discover moments of quiet transcendence – but also be drawn into moments of sudden, bloody violence - with lasting consequences. The game also features strong language, drug reference, some suggestive themes, and the use of alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 144765,
+  "youtube": [
+    {
+      "id": "b6CkzwVAr0M",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "SOeB_LXeV4c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VvJh17h8oD8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "K65bPigfGGg",
+      "nombre": "Trailer - Japanese Voice Cast"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:49:26.873Z"
+}

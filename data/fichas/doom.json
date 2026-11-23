@@ -1,0 +1,322 @@
+{
+  "clave": "doom",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-fce8-716b-97f3-6a41f82bb9e7",
+  "appid": "379720",
+  "lanzamiento": "2016-05-12",
+  "desarrolladores": [
+    "id Software"
+  ],
+  "editores": [
+    "Bethesda Softworks",
+    "Bethesda",
+    "Activision",
+    "Bethesda Softworks LLC",
+    "GT Interactive Software"
+  ],
+  "etiquetas": [
+    "FPS",
+    "Gore",
+    "Action",
+    "Shooter",
+    "Great Soundtrack"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 95,
+      "cantidad": 156220,
+      "url": "https://store.steampowered.com/app/379720/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 44,
+      "url": "https://metacritic.com/game/doom/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 1752,
+      "url": "https://metacritic.com/game/doom/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 87,
+      "cantidad": 9,
+      "url": "https://opencritic.com/game/8142/doom"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "103396",
+      "nombre": "DOOM",
+      "apps": [
+        {
+          "appid": "379720",
+          "nombre": "DOOM"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 11.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "379720": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1195480",
+      "nombre": "DOOM Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Ahora incluye los tres paquetes de contenido descargable premium (Unto the Evil-Hell Followed-Bloodfall), mapas, modos y armas, así como todas las actualizaciones de funcionalidades, como el modo Arcade, el modo Foto y la actualización 6.66, la más reciente, que trae más mejoras multijugador.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "12 MAY 2016",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/doom?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "DOOM",
+  "acerca": [
+    [
+      "p",
+      "DOOM , desarrollado por id Software, estudio pionero en el género de los shooters en primera persona y creador de las partidas multijugador en formato Deathmatch, regresa una vez más como un moderno shooter repleto de diversión y desafíos. Despiadados demonios, armas de destrucción inimaginables y un movimiento ágil y fluido constituyen la base de un intenso combate en primera persona, tanto si estás cargándote a las hordas demoníacas del infierno en la campaña para un jugador como si compites contra amigos en los diversos modos multijugador. Amplía tu experiencia de juego con DOOM SnapMap, el editor de juego que permite crear, jugar y compartir contenidos con el resto del mundo."
+    ],
+    [
+      "p",
+      "HISTORIA:"
+    ],
+    [
+      "p",
+      "Estás aquí por una razón. La enorme instalación de investigación de la UAC en Marte ha sido arrasada por poderosos y agresivos demonios, y solo una persona se interpone entre su mundo y el nuestro. Eres un marine de DOOM, estás solo y te han movilizado con un único fin: matarlos a todos."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS:"
+    ],
+    [
+      "li",
+      "Una campaña implacable"
+    ],
+    [
+      "p",
+      "En tu lucha contra las hordas demoníacas del infierno, no podrás buscar cobertura o parar para regenerar tu salud. Combina tu arsenal de armas convencionales y futuristas, tus mejoras, tu movilidad y un avanzado sistema de cuerpo a cuerpo para derribar, acuchillar, pisotear, aplastar y destruir a los demonios de forma creativa y violenta."
+    ],
+    [
+      "li",
+      "Vuelve el multijugador de id"
+    ],
+    [
+      "p",
+      "Domina a tus rivales en frenéticos combates al estilo arena característico de DOOM. Tanto en los modos clásicos de juego como en los nuevos, destruye a tus enemigos con una mezcla personal de habilidad, poderosas armas, movimiento vertical y potenciadores únicos que te permitirán jugar en el papel de un demonio."
+    ],
+    [
+      "li",
+      "Posibilidades infinitas"
+    ],
+    [
+      "p",
+      "DOOM SnapMap es un potente e intuitivo editor de partidas y niveles, que te permite vivir infinitas experiencias de juego en cada plataforma. No necesitas experiencia o conocimientos previos. Cualquier jugador puede montar y personalizar mapas de forma rápida y sencilla, añadir formas de juego predeterminadas o personalizadas, e incluso modificar la lógica del juego para crear modos nuevos. Juega al instante con tu creación, o compártela con amigos y con jugadores de todo el mundo. Todo desde dentro del propio juego y con solo pulsar un botón."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (versiones de 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2400/AMD FX-8320 o superior"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 670 de 2 GB/AMD Radeon HD 7870 de 2 GB o superior"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requiere realizar una activación en Steam y necesita una conexión a Internet de banda ancha para el multijugador y SnapMap."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (versiones de 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770/AMD FX-8350 o superior"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 970 de 4 GB/AMD Radeon R9 290 de 4 GB o superior"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requiere realizar una activación en Steam y necesita una conexión a Internet de banda ancha para el multijugador y SnapMap."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f989e793786bf1d6459da1139a484203efef1447.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f989e793786bf1d6459da1139a484203efef1447.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_ac05e086b8f0580bc95970fbb6f18a7e4fe65404.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_ac05e086b8f0580bc95970fbb6f18a7e4fe65404.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_d7ee83faf64036494e4a817b8be55b044fbe7c6c.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_d7ee83faf64036494e4a817b8be55b044fbe7c6c.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_4c0b80e027b1095db40cd49bf889c39ca03ec02f.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_4c0b80e027b1095db40cd49bf889c39ca03ec02f.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_e1b5acc7a55d96190fcd3b0ae04dfe2254e7dc6d.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_e1b5acc7a55d96190fcd3b0ae04dfe2254e7dc6d.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_2053c7628ba42fecb8e472f74565f880f93a0b30.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_2053c7628ba42fecb8e472f74565f880f93a0b30.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_b128c3d62bbee81bc28801019a506235a75a27b3.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_b128c3d62bbee81bc28801019a506235a75a27b3.1920x1080.jpg?t=1750784856"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f07aca2fbb96e104cc79709c2a512ffba8a5d2c9.600x338.jpg?t=1750784856",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/ss_f07aca2fbb96e104cc79709c2a512ffba8a5d2c9.1920x1080.jpg?t=1750784856"
+    }
+  ],
+  "web": "http://www.doom.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Violence Language Horror",
+  "igdbIntentado": true,
+  "igdb": 7351,
+  "youtube": [
+    {
+      "id": "mJnQ8TLElyY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QvYR4GVXS7E",
+      "nombre": "E3 Trailer"
+    },
+    {
+      "id": "ybo30QlSk64",
+      "nombre": "Campaign Trailer"
+    },
+    {
+      "id": "JRh-0pyIoDQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:49:51.947Z"
+}

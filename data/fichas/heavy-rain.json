@@ -1,0 +1,336 @@
+{
+  "clave": "heavy rain",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f99a-7194-a303-07dd8f22d0b4",
+  "appid": "960910",
+  "lanzamiento": "2010-02-18",
+  "desarrolladores": [
+    "Quantic Dream"
+  ],
+  "editores": [
+    "Quantic Dream",
+    "Quantic Dream S.A."
+  ],
+  "etiquetas": [
+    "Choices Matter",
+    "Story Rich",
+    "Multiple Endings",
+    "Cinematic",
+    "Detective"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 27731,
+      "url": "https://store.steampowered.com/app/960910/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/heavy-rain/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 3046,
+      "url": "https://metacritic.com/game/heavy-rain/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "314262",
+      "nombre": "Heavy Rain",
+      "apps": [
+        {
+          "appid": "960910",
+          "nombre": "Heavy Rain"
+        }
+      ],
+      "usd": 1.59,
+      "antes": 15.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "960910": {
+      "usd": 1.59,
+      "gratis": false
+    }
+  },
+  "descripcion": "Se abre la veda para dar caza a un asesino conocido únicamente como el \"Asesino del Origami\". Cuatro personajes, cada uno con sus propias pesquisas, han de formar parte de un desesperado intento de prevenir que el asesino se cobre una nueva víctima.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "18 JUN 2020",
+  "metacritic": {
+    "puntaje": 75,
+    "url": "https://www.metacritic.com/game/pc/heavy-rain?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Heavy Rain",
+  "acerca": [
+    [
+      "h",
+      "¿HASTA DÓNDE LLEGARÁS PARA SALVAR A QUIEN AMAS?"
+    ],
+    [
+      "p",
+      "Experimenta una apasionante historia psicológica de suspense llena de innumerables giros. A lo largo de cuatro días de misterio y suspense, se abre la veda para dar caza a un asesino conocido únicamente como el Asesino del Origami, llamado así por su macabra carta de presentación: una figura de papel doblado en cada escena del crimen. Cuatro personajes, cada uno con sus propias pesquisas y motivos, han de formar parte de un desesperado intento de prevenir que el asesino se cobre una nueva víctima."
+    ],
+    [
+      "p",
+      "Deberás pensar rápido y actuar aún más rápido, pues cada acción y movimiento pueden desencadenar consecuencias dramáticas que cambiarán el juego e incluso determinar quién vive... y quién muere."
+    ],
+    [
+      "p",
+      "El final de esta historia depende únicamente de ti."
+    ],
+    [
+      "h",
+      "CUATRO PERSONAJES, CUATRO PERSPECTIVAS"
+    ],
+    [
+      "p",
+      "Esta galardonada historia te pondrá al control de cuatro personajes distintos que siguen sus propias pistas en la búsqueda desesperada de una persona desaparecida."
+    ],
+    [
+      "h",
+      "CONTROLES ACCESIBLES E INTUITIVOS"
+    ],
+    [
+      "p",
+      "Sin dejarse limitar por convenciones de juego, la sencilla interfaz asegura una completa inmersión en la historia y cuenta con controles tanto para jugar con mando como con ratón y teclado."
+    ],
+    [
+      "h",
+      "TOTALMENTE OPTIMIZADO PARA PC"
+    ],
+    [
+      "p",
+      "El juego clásico llega a PC con impresionantes gráficos que incluyen resolución en 4K y una tasa de fotogramas de 60 FPS."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 or later (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4430 @ 3.0 GHz or AMD FX-6300 @ 3.5 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 660 with 2GB VRAM or AMD Radeon HD 7870 with 2GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "720p, 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 or later (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K @ 3.5GHz or AMD Ryzen 3 1300X @ 3.4GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 970 with 4GB VRAM or AMD Radeon R9 390 with 4GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p, 60 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_d7ed4a5e3d155e23331902909f56f90c752c3643.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_d7ed4a5e3d155e23331902909f56f90c752c3643.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_f123d7bbd8c3e55ad42b3048be0d9685cab4bc6a.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_f123d7bbd8c3e55ad42b3048be0d9685cab4bc6a.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_7cbb3063e3473239471d26fb54a5511e5a30ef3d.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_7cbb3063e3473239471d26fb54a5511e5a30ef3d.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_1d8c498b4e3efc5faf10e327dfc2397146a04c75.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_1d8c498b4e3efc5faf10e327dfc2397146a04c75.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_a6a15c998812ef671964cd8dfb0c4a57707b8026.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_a6a15c998812ef671964cd8dfb0c4a57707b8026.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_b9d75522e0436b133cc8a5b4b140c464e61fc0c7.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_b9d75522e0436b133cc8a5b4b140c464e61fc0c7.1920x1080.jpg?t=1675271942"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_ae2b1381c68d8d909f02b9005ae97a2d818b4c93.600x338.jpg?t=1675271942",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960910/ss_ae2b1381c68d8d909f02b9005ae97a2d818b4c93.1920x1080.jpg?t=1675271942"
+    }
+  ],
+  "web": "https://www.quanticdream.com/heavy-rain",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 493,
+  "youtube": [
+    {
+      "id": "YVYiJ3VSp60",
+      "nombre": "Launch Trailer PS3"
+    },
+    {
+      "id": "kOETdpyaWck",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:49:16.379Z"
+}

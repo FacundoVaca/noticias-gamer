@@ -1,0 +1,238 @@
+{
+  "clave": "the elder scrolls v skyrim vr",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0cac-73db-a99f-c40daa539555",
+  "appid": "611670",
+  "lanzamiento": "2018-04-03",
+  "desarrolladores": [
+    "Bethesda Game Studios®",
+    "Bethesda Game Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "Open World",
+    "RPG",
+    "VR",
+    "Singleplayer",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 9208,
+      "url": "https://store.steampowered.com/app/611670/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/the-elder-scrolls-v-skyrim-vr/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 309,
+      "url": "https://metacritic.com/game/the-elder-scrolls-v-skyrim-vr/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "163650",
+      "nombre": "The Elder Scrolls V: Skyrim VR",
+      "apps": [
+        {
+          "appid": "611670",
+          "nombre": "The Elder Scrolls V: Skyrim VR"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 35.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "611670": {
+      "usd": 7.19,
+      "gratis": false
+    }
+  },
+  "descripcion": "Bethesda Game Studios presenta un juego completo con un mundo abierto para RV. Skyrim VR recrea la obra de fantasía épica al completo con una escala, una profundidad y una sensación de inmersión sin igual. Skyrim VR incluye todos los complementos oficiales.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "2 ABR 2018",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-vr?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "The Elder Scrolls V: Skyrim VR",
+  "acerca": [
+    [
+      "p",
+      "Bethesda Game Studios, los galardonados desarrolladores, presentan un juego completo y con un mundo realmente abierto para realidad virtual. Skyrim VR recrea la obra maestra de la fantasía épica al completo con una escala, una profundidad y una sensación de de inmersión sin igual. En Skyrim VR, un mundo abierto completo cobra vida para que puedas disfrutarlo a tu antojo, enfrentándote a dragones ancestrales, explorando montañas abruptas y muchas otras cosas. Skyrim VR incluye el juego principal, aclamado por la crítica, y los complementos oficiales: Dawnguard, Hearthfire y Dragonborn."
+    ],
+    [
+      "p",
+      "Los dragones, perdidos desde hace tiempo en los pasajes de los Pergaminos antiguos, han regresado a Tamriel y está en juego el futuro del Imperio. Como Sangre de Dragón, el héroe de la profecía nacido con el poder de la Voz, eres el único que puede enfrentarse a ellos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Detección de mov. en mando",
+    "Solo para RV",
+    "Compatibilidad con RV",
+    "Coleccionables de SteamVR",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K or AMD Ryzen 5 1400 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 970 / AMD RX 480 8GB or better"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "SteamVR"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 or AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1070 8GB / AMD RX Vega 56 8GB"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_8439fefb3f8efdefae1dfb47aabba1c0ae616ef4.600x338.jpg?t=1564002443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_8439fefb3f8efdefae1dfb47aabba1c0ae616ef4.1920x1080.jpg?t=1564002443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_3737964d741715847d62317e6598c86847cb1cfa.600x338.jpg?t=1564002443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_3737964d741715847d62317e6598c86847cb1cfa.1920x1080.jpg?t=1564002443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_5a9d0f4c3a98873de13e64934e6bf46058aabb25.600x338.jpg?t=1564002443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_5a9d0f4c3a98873de13e64934e6bf46058aabb25.1920x1080.jpg?t=1564002443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_d3fac3f1b058881c7f208cfd8bd53a04e39837c9.600x338.jpg?t=1564002443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_d3fac3f1b058881c7f208cfd8bd53a04e39837c9.1920x1080.jpg?t=1564002443"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_73a051ca47e7aba7d9307c916aa2757a47af39d4.600x338.jpg?t=1564002443",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/611670/ss_73a051ca47e7aba7d9307c916aa2757a47af39d4.1920x1080.jpg?t=1564002443"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 37088,
+  "youtube": [
+    {
+      "id": "kDYfqdCB7ac",
+      "nombre": "Claws Trailer"
+    },
+    {
+      "id": "re1HyCr2v14",
+      "nombre": "E3 2017 Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:48:20.557Z"
+}

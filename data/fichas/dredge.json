@@ -1,0 +1,433 @@
+{
+  "clave": "dredge",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-5288-7397-8712-586d47b31fab",
+  "appid": "1562430",
+  "lanzamiento": "2023-03-30",
+  "desarrolladores": [
+    "Black Salt Games"
+  ],
+  "editores": [
+    "Team17 Digital Ltd",
+    "Team 17",
+    "Team17",
+    "Black Salt Games",
+    "Team 17 Digital Ltd",
+    "Team17 Digital",
+    "Team17 Digital Ltd."
+  ],
+  "etiquetas": [
+    "Exploration",
+    "Fishing",
+    "Lovecraftian",
+    "Open World",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 95,
+      "cantidad": 48706,
+      "url": "https://store.steampowered.com/app/1562430/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 41,
+      "url": "https://metacritic.com/game/dredge/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 79,
+      "cantidad": 786,
+      "url": "https://metacritic.com/game/dredge/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 108,
+      "url": "https://opencritic.com/game/14348/dredge"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1114568",
+      "nombre": "DREDGE - Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1562430",
+          "nombre": "DREDGE"
+        },
+        {
+          "appid": "2104240",
+          "nombre": "DREDGE - Blackstone Key"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 13.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "824636",
+      "nombre": "DREDGE",
+      "apps": [
+        {
+          "appid": "1562430",
+          "nombre": "DREDGE"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1093759",
+      "nombre": "DREDGE - Complete Edition",
+      "apps": [
+        {
+          "appid": "1562430",
+          "nombre": "DREDGE"
+        },
+        {
+          "appid": "2104240",
+          "nombre": "DREDGE - Blackstone Key"
+        },
+        {
+          "appid": "2561450",
+          "nombre": "DREDGE - The Iron Rig"
+        },
+        {
+          "appid": "2561440",
+          "nombre": "DREDGE - The Pale Reach"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1562430": {
+      "usd": 5.59,
+      "gratis": false
+    },
+    "2104240": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2561440": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "2561450": {
+      "usd": 9.77,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "2561450",
+      "nombre": "DREDGE - The Iron Rig",
+      "gratis": false,
+      "usd": 9.77,
+      "descuento": 0
+    },
+    {
+      "appid": "2104240",
+      "nombre": "DREDGE - Blackstone Key",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2561440",
+      "nombre": "DREDGE - The Pale Reach",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "2198580",
+      "nombre": "DREDGE - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2198610",
+      "nombre": "DREDGE - Digital Artbook",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "DREDGE es una aventura de pesca para un solo jugador con una siniestra corriente subyacente. Vende lo que pescas, mejora tu barca y ahonda en las profundidades para encontrar antiguos tesoros enterrados.",
+  "generos": [
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "30 MAR 2023",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "DREDGE",
+  "acerca": [
+    [
+      "p",
+      "Ponte al mando de tu trainera de pesca y explora una colección de islas remotas y las profundidades que las rodean para ver qué yace allí debajo. Vende lo que pesques a los lugareños y completa misiones para saber más sobre el turbulento pasado de cada zona. Potencia tu barca con equipamiento mejorado y navega por tierras lejanas, pero ten en cuenta el tiempo.... puede que no te guste lo que encuentres en la oscuridad..."
+    ],
+    [
+      "h",
+      "Explora las islas y descubre sus secretos"
+    ],
+    [
+      "p",
+      "Lánzate al agua desde tu nuevo hogar en el remoto archipiélago The Marrows y explora las profundidades para encontrar curiosos coleccionables y más de 125 habitantes de las profundidades marinas. Explora cada zona mientras completas misiones y visitas las regiones isleñas vecinas, cada una de ellas con sus propias oportunidades, habitantes y secretos."
+    ],
+    [
+      "h",
+      "Ahonda en las profundidades"
+    ],
+    [
+      "p",
+      "Alguien quiere que indagues en el pasado, pero ¿puedes confiar en esa persona? ¿Y será alguna vez suficiente?"
+    ],
+    [
+      "h",
+      "Cuidado con la niebla"
+    ],
+    [
+      "p",
+      "El peligro está por todas partes, así que ten cuidado con las rocas afiladas y los arrecifes poco profundos, aunque las mayores amenazas acechan entre la niebla que cubre los mares nocturnos..."
+    ],
+    [
+      "h",
+      "Características del juego"
+    ],
+    [
+      "p",
+      "Desvela un misterio: ponte al mando de tu trainera de pesca y recorre varias islas remotas, cada una con sus propios habitantes, su fauna y sus historias por descubrir."
+    ],
+    [
+      "p",
+      "Ahonda en las profundidades: explora el mar en busca de tesoros ocultos y completa misiones para acceder a nuevas y extrañas habilidades."
+    ],
+    [
+      "p",
+      "Estudia tu embarcación: investiga el equipamiento especial y mejora las capacidades de tu barca para conseguir peces raros y valiosas curiosidades submarinas."
+    ],
+    [
+      "p",
+      "Pesca para sobrevivir: Vende tus descubrimientos a los lugareños para aprender más sobre cada zona, mejorar tu barco y alcanzar ubicaciones todavía más apartadas."
+    ],
+    [
+      "p",
+      "Lucha contra lo inimaginable: fortalece tu mente y utiliza tus capacidades para sobrevivir a las incursiones fuera del agua después del anochecer."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2100 | AMD Phenom II X4 965"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia 8800 GT 512MB | Radeon HD 6570 1GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "720p @ 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2550K | AMD FX-8370"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTS 450 1GB | Radeon HD 5770 1GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p @ 60 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_70f88014423ed93eaa111c0d0daca2c500f76908.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_70f88014423ed93eaa111c0d0daca2c500f76908.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d4d4b14c5cd071307e27b4e9737f23f28b096248.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d4d4b14c5cd071307e27b4e9737f23f28b096248.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_9529104cde1af2ffbb715cab42bbb3012fb9b7d8.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_9529104cde1af2ffbb715cab42bbb3012fb9b7d8.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_b60f2ff50997c5da29fcd783770053263aac26c0.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_b60f2ff50997c5da29fcd783770053263aac26c0.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_e964290b6a6a6941e299ba5be00fd3d98aec6d06.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_e964290b6a6a6941e299ba5be00fd3d98aec6d06.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_87d0d9ba6e7851a07778ac696d56af8e0ab71a21.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_87d0d9ba6e7851a07778ac696d56af8e0ab71a21.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_fb81a15978913f50e17d8f59346ae7688b405ab2.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_fb81a15978913f50e17d8f59346ae7688b405ab2.1920x1080.jpg?t=1793158823"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d98d0c25d9cdb72f4d8e78818a49a34ace974d47.600x338.jpg?t=1793158823",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562430/ss_d98d0c25d9cdb72f4d8e78818a49a34ace974d47.1920x1080.jpg?t=1793158823"
+    }
+  ],
+  "web": "https://www.dredge.game/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 164867,
+  "youtube": [
+    {
+      "id": "VMUT6TAfwm0",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "kfniX3fH1l0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "2bnJ46Am9Dk",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "O4Gg1SaSVN8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:49:34.152Z"
+}

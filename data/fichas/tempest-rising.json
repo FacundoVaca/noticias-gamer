@@ -1,0 +1,342 @@
+{
+  "clave": "tempest rising",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-63a2-710f-93d4-f9c5dad7a1a9",
+  "appid": "1486920",
+  "lanzamiento": "2025-04-24",
+  "desarrolladores": [
+    "Slipgate Ironworks™",
+    "Slipgate Ironworks"
+  ],
+  "editores": [
+    "Knights Peak",
+    "Saber Interactive",
+    "3D Realms",
+    "XD"
+  ],
+  "etiquetas": [
+    "RTS",
+    "Strategy",
+    "Base Building",
+    "Singleplayer",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 10195,
+      "url": "https://store.steampowered.com/app/1486920/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 38,
+      "url": "https://metacritic.com/game/tempest-rising/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 70,
+      "url": "https://metacritic.com/game/tempest-rising/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 45,
+      "url": "https://opencritic.com/game/18413/tempest-rising"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1193699",
+      "nombre": "Tempest Rising",
+      "apps": [
+        {
+          "appid": "1486920",
+          "nombre": "Tempest Rising"
+        }
+      ],
+      "usd": 13.19,
+      "antes": 23.99,
+      "descuento": 45
+    },
+    {
+      "packageid": "1828903",
+      "nombre": "Tempest Rising Gold Edition",
+      "apps": [
+        {
+          "appid": "1486920",
+          "nombre": "Tempest Rising"
+        }
+      ],
+      "usd": 21.11,
+      "antes": 32.99,
+      "descuento": 36
+    }
+  ],
+  "sueltos": {
+    "1486920": {
+      "usd": 13.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4114220",
+      "nombre": "Tempest Rising: The Veti’s Wrath",
+      "gratis": false,
+      "usd": 10.79,
+      "descuento": 10
+    },
+    {
+      "appid": "4764990",
+      "nombre": "Tempest Rising - Map Editor",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Ponte al mando de diferentes facciones en dura pugna por la energía y los recursos en Tempest Rising, un RTS clásico ambientado en la Tierra después de una guerra nuclear.",
+  "generos": [
+    "Acción",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "24 ABR 2025",
+  "metacritic": {
+    "puntaje": 80,
+    "url": "https://www.metacritic.com/game/pc/tempest-rising?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Tempest Rising",
+  "acerca": [
+    [
+      "p",
+      "La acción de RTS clásico se combina con el rendimiento y la producción modernos en Tempest Rising. Tempest Rising, inspirado en los grandes clásicos de las décadas de los 90 y 2000, ofrece un juego de estrategia en tiempo real con construcción de bases ambientado en un escenario de guerra alternativo en la época actual. Ofrece 3 facciones exclusivas, cada una de ellas con su propia estrategia de combate y economía, y propone diversas tácticas para todo tipo de jugadores, mapas con estructuras neutrales por las que pelear y poblaciones neutrales con las que lidiar, un estilo de juego profundo y gratificante que gira en torno a la estrategia sin perder de vista la habilidad. Además, cuenta con opciones de personalización que permiten a los jugadores desarrollar su estilo tanto en solitario como en el modo multijugador."
+    ],
+    [
+      "p",
+      "Adopta el rango de comandante del dinámico y avanzado cuerpo de pacificación de las Fuerzas de Defensa Mundial o en la contundente y desesperada Dinastía Tempest en 2 campañas de 11 misiones. Estas misiones permiten a los jugadores personalizar su ejército para cada misión en una lucha entre dos fuerzas que buscan comprender y controlar las misteriosas pero valiosas enredaderas Tempest que crecen e invaden un planeta Tierra asolado por la guerra. Cuando el origen de Tempest se desvela, nuevos peligros aguardan entre las sombras..."
+    ],
+    [
+      "p",
+      "Revive la clásica construcción de bases en tiempo real con combates rápidos, fluidos y desgarradores."
+    ],
+    [
+      "p",
+      "Controla 3 conjuntos únicos de unidades con la GDF (Global Defense Force), la Tempest Dynasty y los antiguos Veti* (*incluidos para multijugador y escaramuza, campaña a la venta por separado)"
+    ],
+    [
+      "p",
+      "Vive 2 campañas épicas para un solo jugador con informes de misión doblados."
+    ],
+    [
+      "p",
+      "Haz la guerra por tu cuenta o con amigos en 3 modos de juego: contra adversarios de la IA en salas de partida personalizada, en emparejamiento multijugador 1c1 y 2c2 o en solitario con el modo Duelo, con hasta 500 unidades por equipo y dos superarmas únicas adecuadas para el estilo de cada facción."
+    ],
+    [
+      "p",
+      "Domina la competición y escala puestos en la clasificación de emparejamiento clasificatorio, gracias al sistema de puntuación Glicko-2."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600 / AMD Ryzen 5 1600 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1060 3GB/6GB / AMD RX 580 8GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD is recommended"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-11700 / AMD Ryzen 5 5600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 3060 Ti 8GB / AMD 7600 XT 16GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD is recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/4f30073f14eacfbe420f3ca99839e26d35ba24a0/ss_4f30073f14eacfbe420f3ca99839e26d35ba24a0.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/4f30073f14eacfbe420f3ca99839e26d35ba24a0/ss_4f30073f14eacfbe420f3ca99839e26d35ba24a0.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/e7185cf3932f58f3635de5b366338aa12e4712e6/ss_e7185cf3932f58f3635de5b366338aa12e4712e6.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/e7185cf3932f58f3635de5b366338aa12e4712e6/ss_e7185cf3932f58f3635de5b366338aa12e4712e6.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/e63327568870625623b033cc42d57882ebfeeb7c/ss_e63327568870625623b033cc42d57882ebfeeb7c.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/e63327568870625623b033cc42d57882ebfeeb7c/ss_e63327568870625623b033cc42d57882ebfeeb7c.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/cb5e131c5a505498b8db1d1e3c2d458bdac53296/ss_cb5e131c5a505498b8db1d1e3c2d458bdac53296.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/cb5e131c5a505498b8db1d1e3c2d458bdac53296/ss_cb5e131c5a505498b8db1d1e3c2d458bdac53296.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/fb5cf84d8da4e25b3cc95121f1f4262619830472/ss_fb5cf84d8da4e25b3cc95121f1f4262619830472.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/fb5cf84d8da4e25b3cc95121f1f4262619830472/ss_fb5cf84d8da4e25b3cc95121f1f4262619830472.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2a93310666f49c7482b4a07842b50f5c16dd1cdb/ss_2a93310666f49c7482b4a07842b50f5c16dd1cdb.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2a93310666f49c7482b4a07842b50f5c16dd1cdb/ss_2a93310666f49c7482b4a07842b50f5c16dd1cdb.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/cae10699749f2dcc843cd346d0bb4722ec7bb46b/ss_cae10699749f2dcc843cd346d0bb4722ec7bb46b.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/cae10699749f2dcc843cd346d0bb4722ec7bb46b/ss_cae10699749f2dcc843cd346d0bb4722ec7bb46b.1920x1080.jpg?t=1793267380"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/ss_2f70ab806784ac9ee736bf6244993ffd3c9f949a.600x338.jpg?t=1793267380",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/ss_2f70ab806784ac9ee736bf6244993ffd3c9f949a.1920x1080.jpg?t=1793267380"
+    }
+  ],
+  "web": "https://tempestrising.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Contains soldiers getting shot, burned, blown up, or crushed under tanks.",
+  "igdbIntentado": true,
+  "igdb": 213240,
+  "youtube": [
+    {
+      "id": "vGMqlbWM1Ys",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "D30riyE8ZmY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0U92ZtziFJo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "snp7_sBYyUo",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:47:53.071Z"
+}

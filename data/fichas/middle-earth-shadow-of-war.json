@@ -1,0 +1,468 @@
+{
+  "clave": "middle earth shadow of war",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f835-710c-b95b-928e2f1d4da8",
+  "appid": "356190",
+  "lanzamiento": "2017-10-10",
+  "desarrolladores": [
+    "Monolith Productions",
+    "Monolith Productions Inc"
+  ],
+  "editores": [
+    "Warner Bros. Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Bros. Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "WB Games",
+    "Monolith Productions, Inc"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Action",
+    "RPG",
+    "Singleplayer",
+    "Fantasy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 88529,
+      "url": "https://store.steampowered.com/app/356190/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 17,
+      "url": "https://metacritic.com/game/middle-earth-shadow-of-war/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 56,
+      "cantidad": 2217,
+      "url": "https://metacritic.com/game/middle-earth-shadow-of-war/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 161,
+      "url": "https://opencritic.com/game/4213/middle-earth-shadow-of-war"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "156440",
+      "nombre": "Middle-earth: Shadow of War",
+      "apps": [
+        {
+          "appid": "356190",
+          "nombre": "Middle-earth™: Shadow of War™"
+        }
+      ],
+      "usd": 2.5,
+      "antes": 25,
+      "descuento": 90
+    },
+    {
+      "packageid": "648168",
+      "nombre": "La Tierra Media™: Paquete de las Sombras",
+      "apps": [
+        {
+          "appid": "318550",
+          "nombre": "Middle-earth: Shadow of Mordor - GOTY Edition Upgrade"
+        },
+        {
+          "appid": "241930",
+          "nombre": "Middle-earth™: Shadow of Mordor™"
+        },
+        {
+          "appid": "356190",
+          "nombre": "Middle-earth™: Shadow of War™"
+        },
+        {
+          "appid": "716270",
+          "nombre": "Middle-earth™: Shadow of War™ Expansion Pass"
+        }
+      ],
+      "usd": 3.5,
+      "antes": 35,
+      "descuento": 90
+    },
+    {
+      "packageid": "281112",
+      "nombre": "Middle-earth: Shadow of War Definitive Edition",
+      "apps": [
+        {
+          "appid": "356190",
+          "nombre": "Middle-earth™: Shadow of War™"
+        },
+        {
+          "appid": "784070",
+          "nombre": "Middle-earth™: Shadow of War™ Story Expansion Pass"
+        },
+        {
+          "appid": "561631",
+          "nombre": "Outlaw Tribe Nemesis Expansion"
+        },
+        {
+          "appid": "561630",
+          "nombre": "Slaughter Tribe Nemesis Expansion"
+        },
+        {
+          "appid": "561650",
+          "nombre": "The Blade of Galadriel Story Expansion"
+        },
+        {
+          "appid": "533110",
+          "nombre": "The Desolation of Mordor Story Expansion"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 59.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "313545",
+      "nombre": "Middle-earth™: Shadow of War™ - Commercial License",
+      "apps": [
+        {
+          "appid": "356190",
+          "nombre": "Middle-earth™: Shadow of War™"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "241930": {
+      "usd": 2,
+      "gratis": false
+    },
+    "318550": {
+      "usd": 2,
+      "gratis": false
+    },
+    "356190": {
+      "usd": 2.5,
+      "gratis": false
+    },
+    "533110": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "561630": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "561631": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "561650": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "716270": {
+      "usd": 3.5,
+      "gratis": false
+    },
+    "784070": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "716270",
+      "nombre": "Middle-earth™: Shadow of War™ Expansion Pass",
+      "gratis": false,
+      "usd": 3.5,
+      "descuento": 90
+    },
+    {
+      "appid": "533110",
+      "nombre": "The Desolation of Mordor Story Expansion",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 80
+    },
+    {
+      "appid": "561630",
+      "nombre": "Slaughter Tribe Nemesis Expansion",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    },
+    {
+      "appid": "561631",
+      "nombre": "Outlaw Tribe Nemesis Expansion",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    },
+    {
+      "appid": "561650",
+      "nombre": "The Blade of Galadriel Story Expansion",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    },
+    {
+      "appid": "561950",
+      "nombre": "Middle-earth™: Shadow of War™ High Resolution Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "666840",
+      "nombre": "Middle-earth™: Shadow of War™ 4K Cinematic Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "784070",
+      "nombre": "Middle-earth™: Shadow of War™ Story Expansion Pass",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 80
+    }
+  ],
+  "descripcion": "Disfruta de un mundo abierto épico, recreado por el galardonado sistema Némesis. Forja un nuevo Anillo de Poder, conquista fortalezas en grandes batallas y domina Mordor con tu propio ejército de orcos en La Tierra Media™: Sombras de Guerra™.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "9 OCT 2017",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Middle-earth™: Shadow of War™",
+  "acerca": [
+    [
+      "p",
+      "Actúa en territorio enemigo para forjar tu ejército, conquistar fortalezas y dominar Mordor desde dentro. Comprueba cómo el galardonado sistema Némesis crea historias personales únicas con cada enemigo y seguidor, y enfréntate al increíble poder del Señor Oscuro, Sauron, y sus Espectros del Anillo en esta nueva y épica historia de la Tierra Media."
+    ],
+    [
+      "p",
+      "En La Tierra Media™: Sombras de Guerra™ nada caerá en el olvido."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 SP1 with Platform Update"
+      ],
+      [
+        "Procesador",
+        "AMD FX-4350, 4.2 GHz / Intel Core i5-2300, 2.80 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD HD 7870, 2 GB / NVIDIA GTX 660, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "X64 required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 Creators Update"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350, 4.0 GHz / Intel Core i7-3770, 3.4 GHz"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 480, 4 GB or RX580, 4GB / NVIDIA GTX 970, 4GB or GTX1060, 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "X64 required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_d085a6cd49ed5bf4dcc67dfe0bba72ffc7ad6290.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_d085a6cd49ed5bf4dcc67dfe0bba72ffc7ad6290.1920x1080.jpg?t=1780594801"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_10afae02830aee12600b55fedf05a10af070187c.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_10afae02830aee12600b55fedf05a10af070187c.1920x1080.jpg?t=1780594801"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_73e44d2d2282e0035beed3b78f565aa1f0f5f5b6.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_73e44d2d2282e0035beed3b78f565aa1f0f5f5b6.1920x1080.jpg?t=1780594801"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_096538495a348e1bff5432353cbee8e28fb3cee8.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_096538495a348e1bff5432353cbee8e28fb3cee8.1920x1080.jpg?t=1780594801"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_7d15a8c0d67cd3853d2632f494bcc02fb2ae6392.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_7d15a8c0d67cd3853d2632f494bcc02fb2ae6392.1920x1080.jpg?t=1780594801"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_451734c9d8cfeb70c922f2de7b3ccb0bee99e169.600x338.jpg?t=1780594801",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356190/ss_451734c9d8cfeb70c922f2de7b3ccb0bee99e169.1920x1080.jpg?t=1780594801"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 27421,
+  "youtube": [
+    {
+      "id": "k0wqKmBOr4Y",
+      "nombre": "Shelob Trailer"
+    },
+    {
+      "id": "PldBatVPQR0",
+      "nombre": "Terror Tribes Trailer"
+    },
+    {
+      "id": "UIyKkHnyUDo",
+      "nombre": "E3 2017: Commented Gameplay Trailer"
+    },
+    {
+      "id": "L77tFiJVVoQ",
+      "nombre": "Gameplay video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:48:29.073Z"
+}

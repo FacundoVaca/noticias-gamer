@@ -1,0 +1,349 @@
+{
+  "clave": "mafia edicion definitiva",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4293-7217-a8d5-41fbae8f2929",
+  "appid": "1030840",
+  "lanzamiento": "2020-09-24",
+  "desarrolladores": [
+    "Hangar 13"
+  ],
+  "editores": [
+    "2K",
+    "2K Games",
+    "TAKE-TWO INTERACTIVE",
+    "Hangar 13"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Crime",
+    "Story Rich",
+    "Action",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 90150,
+      "url": "https://store.steampowered.com/app/1030840/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 46,
+      "url": "https://metacritic.com/game/mafia-definitive-edition/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 77,
+      "cantidad": 3838,
+      "url": "https://metacritic.com/game/mafia-definitive-edition/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 77,
+      "cantidad": 118,
+      "url": "https://opencritic.com/game/9473/mafia-definitive-edition"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "342916",
+      "nombre": "Mafia: Definitive Edition",
+      "apps": [
+        {
+          "appid": "1030840",
+          "nombre": "Mafia: Edición Definitiva"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1030840": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1421480",
+      "nombre": "Mafia: Definitive Edition Soundtrack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Un percance con la mafia introduce al taxista Tommy Angelo en el crimen organizado. A pesar de su reticencia inicial, las ventajas de unirse a la familia Salieri son demasiadas como para ignorarlas.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "24 SEP 2020",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/mafia-definitive-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Mafia: Edición Definitiva",
+  "acerca": [
+    [
+      "p",
+      "Primera parte de la saga Mafia. Lost Heaven, Illinois. Años 30."
+    ],
+    [
+      "p",
+      "Prospera como gánster durante la Ley Seca en esta reinvención del clásico. Un encontronazo con la mafia introduce al taxista Tommy Angelo en los peligrosos bajos fondos. A pesar de su reticencia inicial, Tommy no tarda en descubrir que las ventajas de unirse a la familia Salieri son demasiadas como para dejarlas pasar."
+    ],
+    [
+      "h",
+      "Juega a una peli de mafiosos:"
+    ],
+    [
+      "p",
+      "Encarna a un gánster durante la Ley Seca que asciende en la mafia."
+    ],
+    [
+      "h",
+      "Lost Heaven, Illinois:"
+    ],
+    [
+      "p",
+      "Una ciudad de los años 30 en la que podrás interactuar con edificios, coches y elementos culturales de entreguerras."
+    ],
+    [
+      "h",
+      "Una nueva versión del clásico:"
+    ],
+    [
+      "p",
+      "Una fiel recreación con añadidos argumentales, jugables y musicales. Este es el Mafia que recordabas y mucho más."
+    ],
+    [
+      "p",
+      "Consigue Mafia: Edición Definitiva para desbloquear el traje y el taxi de Tommy en las ediciones definitivas de Mafia II y Mafia III."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core-i5 2550K 3.4GHz / AMD FX 8120 3.1 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 / AMD Radeon HD 7870"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core-i7 3770 3.4GHz / AMD FX-8350 4.2GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1080 / AMD Radeon RX 5700"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_f531c551d9794deafc1e45421b70e8d4c254aaca.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_f531c551d9794deafc1e45421b70e8d4c254aaca.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_c767fdc53c38f3a33214d27157aff6025bf38e58.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_c767fdc53c38f3a33214d27157aff6025bf38e58.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_53523304d2d0f9846c9c27059334629e8a83144e.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_53523304d2d0f9846c9c27059334629e8a83144e.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_010d8fc827531edf76010106acb78a75188db373.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_010d8fc827531edf76010106acb78a75188db373.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_b78562d5fd27b42dc22b49c03c4d0bb5c0a2f043.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_b78562d5fd27b42dc22b49c03c4d0bb5c0a2f043.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_26c3a97744cc90ee306b367ebd941146057c5893.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_26c3a97744cc90ee306b367ebd941146057c5893.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_a542b5e16973c6681192977fb0942e3dfe5b21de.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_a542b5e16973c6681192977fb0942e3dfe5b21de.1920x1080.jpg?t=1786727529"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_1fbee8b68da144230bb462c48cd4a6e99d5416c4.600x338.jpg?t=1786727529",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030840/ss_1fbee8b68da144230bb462c48cd4a6e99d5416c4.1920x1080.jpg?t=1786727529"
+    }
+  ],
+  "web": "https://mafia.2k.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134070,
+  "youtube": [
+    {
+      "id": "lbVLoi-WPsI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "3YcDMuBGisg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "vfwfA_iTOng",
+      "nombre": "Gamescom 2020 Story Trailer"
+    },
+    {
+      "id": "pJ2T7CtOtHY",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:49:21.392Z"
+}

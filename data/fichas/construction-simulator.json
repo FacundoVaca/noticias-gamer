@@ -1,0 +1,545 @@
+{
+  "clave": "construction simulator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-fd65-710b-8688-e5e7c490e5f8",
+  "appid": "1273400",
+  "lanzamiento": "2022-09-20",
+  "desarrolladores": [
+    "weltenbauer. Software Entwicklung GmbH"
+  ],
+  "editores": [
+    "Astragon Entertainment",
+    "Astragon Entertainment GmbH",
+    "weltenbauer. Software Entwicklung GmbH"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Multiplayer",
+    "Building",
+    "Online Co-Op",
+    "Relaxing"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 11450,
+      "url": "https://store.steampowered.com/app/1273400/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 64,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/construction-simulator/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 72,
+      "cantidad": 11,
+      "url": "https://opencritic.com/game/13734/construction-simulator"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "738584",
+      "nombre": "Construction Simulator",
+      "apps": [
+        {
+          "appid": "1273400",
+          "nombre": "Construction Simulator"
+        }
+      ],
+      "usd": 3.12,
+      "antes": 12.49,
+      "descuento": 75
+    },
+    {
+      "packageid": "997360",
+      "nombre": "Construction Simulator - Gold Edition",
+      "apps": [
+        {
+          "appid": "1273400",
+          "nombre": "Construction Simulator"
+        },
+        {
+          "appid": "2295780",
+          "nombre": "Construction Simulator - Airfield Expansion"
+        },
+        {
+          "appid": "2322970",
+          "nombre": "Construction Simulator - Cosmetic Pack #1"
+        },
+        {
+          "appid": "2322980",
+          "nombre": "Construction Simulator - Cosmetic Pack #2"
+        },
+        {
+          "appid": "2291420",
+          "nombre": "Construction Simulator - JCB Pack"
+        },
+        {
+          "appid": "2203420",
+          "nombre": "Construction Simulator - Kramer Pack"
+        },
+        {
+          "appid": "2295810",
+          "nombre": "Construction Simulator - SANY Pack"
+        },
+        {
+          "appid": "2295820",
+          "nombre": "Construction Simulator - Spaceport Expansion"
+        },
+        {
+          "appid": "2323000",
+          "nombre": "Construction Simulator - Year 1 Season Pass"
+        },
+        {
+          "appid": "2322990",
+          "nombre": "Construction Simulator - Year 1 Season Pass Helmet"
+        }
+      ],
+      "usd": 5.39,
+      "antes": 17.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1273400": {
+      "usd": 3.12,
+      "gratis": false
+    },
+    "2203420": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2291420": {
+      "usd": 2.89,
+      "gratis": false
+    },
+    "2295780": {
+      "usd": 2.89,
+      "gratis": false
+    },
+    "2295810": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2295820": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "2322970": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "2322980": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "2322990": {
+      "usd": null,
+      "gratis": true
+    },
+    "2323000": {
+      "usd": 5.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 19,
+  "dlcLista": [
+    {
+      "appid": "2666240",
+      "nombre": "Construction Simulator - Year 2 Season Pass",
+      "gratis": false,
+      "usd": 6.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2323000",
+      "nombre": "Construction Simulator - Year 1 Season Pass",
+      "gratis": false,
+      "usd": 5.39,
+      "descuento": 70
+    },
+    {
+      "appid": "2657410",
+      "nombre": "Construction Simulator - DAF & MEILLER Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2657400",
+      "nombre": "Construction Simulator - Dynapac Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2657390",
+      "nombre": "Construction Simulator - Stadium Expansion",
+      "gratis": false,
+      "usd": 3.64,
+      "descuento": 50
+    },
+    {
+      "appid": "2657380",
+      "nombre": "Construction Simulator - Liebherr Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2203420",
+      "nombre": "Construction Simulator - Kramer Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2295820",
+      "nombre": "Construction Simulator - Spaceport Expansion",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2295780",
+      "nombre": "Construction Simulator - Airfield Expansion",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2295810",
+      "nombre": "Construction Simulator - SANY Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2291420",
+      "nombre": "Construction Simulator - JCB Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "1944340",
+      "nombre": "Construction Simulator - Car & Bobblehead Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1944341",
+      "nombre": "Construction Simulator - Customization Kit",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2322970",
+      "nombre": "Construction Simulator - Cosmetic Pack #1",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2322980",
+      "nombre": "Construction Simulator - Cosmetic Pack #2",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2153870",
+      "nombre": "Construction Simulator - The Official Guide",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2657420",
+      "nombre": "Construction Simulator - Year 2 Season Pass Pickup Truck",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2322990",
+      "nombre": "Construction Simulator - Year 1 Season Pass Helmet",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2800780",
+      "nombre": "Construction Simulator - Cosmetic Pack #3",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "¡Construction Simulator ha vuelto más grande y más impresionante que nunca! Métete de lleno en el mundo de la construcción y triunfa estableciendo tu negocio desde cero con ayuda de tu mentor Hape.",
+  "generos": [
+    "Casual",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "20 SEP 2022",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Construction Simulator",
+  "acerca": [
+    [
+      "p",
+      "¡Construction Simulator ha vuelto más grande y más impresionante que nunca! Métete de lleno en el mundo de la construcción y triunfa estableciendo tu negocio desde cero con ayuda de tu mentor Hape. Lleva a cabo interesantes proyectos de distinta envergadura y con diferentes requisitos que te ayudarán a aumentar tus ingresos para así poder añadir maquinaria más potente a tu flota de vehículos. A lo largo de tu trayectoria, diversos clientes pondrán a prueba tus habilidades a través de desafíos y tareas. ¡Prepárate para mostrar tu proceso a medida que te enfrentas a varios desafíos de construcción en esta dinámica y apasionante aventura!"
+    ],
+    [
+      "p",
+      "Emprende tu negocio en dos mapas individuales inspirados en el paisajismo de Estados Unidos y Alemania. Cada uno ofrece su propia campaña, que te ayudará a alcanzar el éxito. Friedenberg se basa en las pintorescas ciudades del suroeste de Alemania, y en ella encontrarás colinas y riberas. Tu objetivo será contribuir al diseño de soluciones de energía renovable y mejorar la infraestructura urbana a lo largo de toda la campaña. Más allá de estos importantes proyectos, irás encontrando diversas tareas que te permitirán poner a prueba toda tu maquinaria. Sunny Haven, por otra parte, es una ciudad portuaria al más puro estilo estadounidense a la que deberás volver a insuflar vida para reavivar el turismo. En resumidas cuentas, habrá más de 90 emocionantes contratos para completar en ambos mapas, así que ¡prepárate para encontrar siempre cosas nuevas por explorar!"
+    ],
+    [
+      "p",
+      "¡Vuelve a adentrarte en el mundo de la construcción con una flota de vehículos tan extensa que te alucinará! Elige de entre una selección de más de 80 máquinas de fabricantes oficiales, todas ellas recreaciones virtuales fidedignas de sus homólogos en la vida real. Tendrás la oportunidad de utilizar una variada mezcla de vehículos conocidos de entregas anteriores de la franquicia, además de otros completamente nuevos que se han añadido al juego. Lo mismo ocurre con los fabricantes: además de los ya conocidos socios de Construction Simulator como Atlas, BELL, Bobcat, Bomag, CASE, Caterpillar©, Kenworth, Liebherr, MAN, Mack Trucks, Meiller-Kipper, Palfinger, Still y Wirtgen Group, ahora tendrás la oportunidad de usar maquinaria de Benninghoven de Wirtgen Group, CIFA, DAF, Doosan, Nooteboom, Scania, Schwing Stetter y Wacker Neuson. Además, al crear a tu personaje podrás elegir atuendos oficiales de equipo de protección personal de nuestro nuevo socio, Engelbert Strauss."
+    ],
+    [
+      "p",
+      "Todas las actualizaciones de Construction Simulator publicadas desde su lanzamiento no solo contenían parches, sino también contenido adicional gratuito. De esa forma, hemos ido añadiendo al juego varias máquinas nuevas, entre ellas la innovadora excavadora de ruedas EW100 de Wacker Neuson y un práctico vehículo de servicio para repostar y reparar. Además, contarás con diferentes cucharas para la Wacker Neuson EW100 y la Wacker Neuson ET145, que te permitirán adaptarte rápidamente a varios desafíos en una obra. Gracias a la función de crossplay entre ordenadores y consolas, que incluye la posibilidad de usar el chat de voz, podrás jugar con amigos sin importar la plataforma. Asimismo, contamos entre las adiciones nuevas herramientas y funcionalidades como actualizaciones de terrenos mejorados, mayor capacidad del garaje y una práctica linterna. Y como no queremos que nadie se aburra aceptando los mismos trabajos una y otra vez, hemos provisto una nueva zona turística, además de varios contratos de temporada."
+    ],
+    [
+      "p",
+      "Teniendo en cuenta la combinación del juego base inicial y sus actualizaciones, ahora Construction Simulator ofrece más de 100 contratos, más de 90 máquinas y, por consiguiente, diversión prácticamente infinita que podrás experimentar con hasta tres amigos en el modo multijugador. Suena bien, ¿no? Entonces, ¿a qué esperas? ¡MANOS A LA OBRA!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con Steam Input",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460 3.2 GHz or AMD FX-8350 Eight-Core or comparable"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 960 (4GB) or AMD Radeon Pro 570 (4GB) or comparable"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i5-10400F or AMD Ryzen 5 2600 or comparable"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1660 (6GB) or AMD Radeon RX5700 (8GB) or comparable"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Hard Drive Recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_307bcfed98b63f356a9487780603a50be1e25a60.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_307bcfed98b63f356a9487780603a50be1e25a60.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_a7feb4e87697894a992bb5bc1af93d0437b09664.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_a7feb4e87697894a992bb5bc1af93d0437b09664.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_204550666a72db15c89f3abcb9028fc75398b350.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_204550666a72db15c89f3abcb9028fc75398b350.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_be28023ffe48abe37d4a5f0abef0768d46f985ee.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_be28023ffe48abe37d4a5f0abef0768d46f985ee.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_4bd7b3d7d25a9793c344d5aca8ece03c6974c7ba.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_4bd7b3d7d25a9793c344d5aca8ece03c6974c7ba.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_0c35fc78046675093cbfdd3218385390fb558cb9.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_0c35fc78046675093cbfdd3218385390fb558cb9.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_238ba42d58093e77e2c846c2be6f2416de5110d6.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_238ba42d58093e77e2c846c2be6f2416de5110d6.1920x1080.jpg?t=1784210925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_ea8b565761ec6dba11c41edafd3ee54d91b33b1b.600x338.jpg?t=1784210925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273400/ss_ea8b565761ec6dba11c41edafd3ee54d91b33b1b.1920x1080.jpg?t=1784210925"
+    }
+  ],
+  "web": "https://www.construction-simulator.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 206188,
+  "youtube": [
+    {
+      "id": "0uAgCTBWZVw",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "KgzKe9LRoKc",
+      "nombre": "Brands Showcase Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:48:35.190Z"
+}

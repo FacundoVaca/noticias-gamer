@@ -1,0 +1,332 @@
+{
+  "clave": "ai war 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1b76-7198-9e43-930a6df44aca",
+  "appid": "573410",
+  "lanzamiento": "2019-10-22",
+  "desarrolladores": [
+    "Arcen Games LLC",
+    "Arcen Games"
+  ],
+  "editores": [
+    "Arcen Games LLC",
+    "Arcen Games"
+  ],
+  "etiquetas": [
+    "4X",
+    "Grand Strategy",
+    "Multiplayer",
+    "Co-op",
+    "Tower Defense"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 1134,
+      "url": "https://store.steampowered.com/app/573410/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/ai-war-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 4,
+      "url": "https://opencritic.com/game/8510/ai-war-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "145884",
+      "nombre": "AI War 2",
+      "apps": [
+        {
+          "appid": "573410",
+          "nombre": "AI War 2"
+        }
+      ],
+      "usd": 2.62,
+      "antes": 10.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "573410": {
+      "usd": 2.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "4534540",
+      "nombre": "AI War 2: Forge Of Titans",
+      "gratis": false,
+      "usd": 5.12,
+      "descuento": 10
+    },
+    {
+      "appid": "1196420",
+      "nombre": "AI War 2: The Spire Rises",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    },
+    {
+      "appid": "1290340",
+      "nombre": "AI War 2: Zenith Onslaught",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    },
+    {
+      "appid": "1466780",
+      "nombre": "AI War 2: The Neinzul Abyss",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    },
+    {
+      "appid": "1657360",
+      "nombre": "AI War 2: Supporter Pack",
+      "gratis": false,
+      "usd": 5.12,
+      "descuento": 10
+    }
+  ],
+  "descripcion": "The most devious and acclaimed artificial intelligence in strategy gaming is better than ever. A grand strategy/RTS hybrid that reverses many conventions of both genres. Take territory without attracting attention, build your empire with care, and adapt to an ever-evolving galactic battleground.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "22 OCT 2019",
+  "metacritic": {
+    "puntaje": 75,
+    "url": "https://www.metacritic.com/game/pc/ai-war-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "AI War 2",
+  "acerca": [
+    [
+      "p",
+      "AI War 2 is a grand strategy/RTS hybrid that reverses many of the conventions of both genres. Take territory without attracting attention, build your empire with care, and adapt to an ever-evolving galactic battleground. It's also \"a sequel to [Arcen's] enormo-space RTS AI War, which we called 'one of this year's finest strategy games' back in 2009\" (Tom Sykes, PC Gamer)"
+    ],
+    [
+      "h",
+      "The most devious and acclaimed artificial intelligence in strategy gaming evolves."
+    ],
+    [
+      "p",
+      "Most recent is 2021's Paradigm Shift (which has overviews and tutorials in that link). Every year since 2018, this AI has become more devious -- and the factions facing it, subordinate to it, or simply neighbors with it grow more numerous and more lifelike."
+    ],
+    [
+      "p",
+      "The premise is simple: you've already lost the war. The entire galaxy belongs to other factions, mostly the AI. You are starting with one small planet in a sea of hostile territory, and you must endeavor not to draw too much notice from the AI. Your job is to carefully evaluate targets, strategically expand your territory just enough to run your fleets and defensive networks, and then strike at the heart of the AI(s) when you are ready."
+    ],
+    [
+      "p",
+      "AI War 2 is meant to be both accessible and deep. Early 2021 has seen major improvements to make the midgame easier to get into for new players, plus a more forgiving Science system and a much more powerful Hacking system. Q3 2021 is going to introduce a new Expert mode for those who want the more extreme sort of challenge that comes from having elements of permanent loss, more reasons to hold disadvantageous positions, and so on. Which mode you choose to play will always remain a personal choice."
+    ],
+    [
+      "h",
+      "Unexpected Technical Advancements"
+    ],
+    [
+      "p",
+      "In the twelve years since we coded the first AI War, we've made a lot of improvements to our simulation engine, which is now running on top of the Unity 3D engine. However, AI War 2 has presented some truly unique technical challenges, mainly involving running insane amounts of AI and simulations in a massively parallel fashion. We've been able to harness the power of modern multi-core processors to a degree that most game simulations cannot, and our challenge from 2020 onward has been to bring that into the multiplayer realm. While multiplayer currently remains in beta, it is also a bit of a technical showcase."
+    ],
+    [
+      "p",
+      "Mod support is heavily embraced by this game, and having mods be multiplayer-safe (or have deep access to change parts of the core simulation in general) is not typical for games as a whole, let alone this genre. We've managed to make multiplayer a self-repairing affair, which is beneficial both for playing with friends on different OSes and hardware, and for having most mod-code mistakes be corrected by the core game."
+    ],
+    [
+      "p",
+      "The AI has dramatically improved in intelligence every year since 2018, and your framerate is also decoupled from your simulation performance. You can have a great machine with 120fps during heavy battles, and a friend at 30fps and you both stay in sync and the actually simulation doesn't slow down. You can speed up and slow down the simulation without any extra load on your CPU, which is very helpful to avoid any boring waiting around, and you can pause at will."
+    ],
+    [
+      "p",
+      "The interface respects your time by automating things that you would do the same 95% of the time anyway. For that other 5% there are indeed advanced features such as placing spy nanites, tweaking or disabling the rules of automation, or redesigning your fleet compositions as much as you want. Hacking is one of the most interesting ways to customize your existing fleet leaders, as you can give them unusual upgrades or even transform them into new versions of their class."
+    ],
+    [
+      "h",
+      "Streamlined, yet deeper."
+    ],
+    [
+      "p",
+      "Sometimes when a sequel says it's \"streamlined,\" it can really mean \"dumbed down.\" And there are indeed fewer tiny choices to be made in some areas here: you don't have to decide how to wash each dish; you have a dishwasher. And it's a good thing you do, to be honest, because the rabbit hole of complex and confounding scenarios goes as deep as you want it to."
+    ],
+    [
+      "p",
+      "If you want to play at a level approaching Expert, you'll need that spare brainpower to design your fleets, manage multiple fronts at once, juggle offense and defense, and continually revise your empire design to suit your needs as the campaign unfolds. If you want to play more casually, that is absolutely okay as well, and the game can be much more forgiving while still providing a lot of interesting macro choices."
+    ],
+    [
+      "p",
+      "There's too much to memorize (but tooltips are always right there, anyway), and there's always an unfamiliar element. Clicking fast won't help you. To win the AI War, you'll have to improvise, adapt, and use your wits."
+    ],
+    [
+      "p",
+      "As it should be."
+    ],
+    [
+      "h",
+      "How About Some Highlights?"
+    ],
+    [
+      "li",
+      "Many optional factions, each with their own goals and strategies, create a living galaxy."
+    ],
+    [
+      "li",
+      "The fleets system gives you tons of ships that can be organized and distributed with a minimum of fuss."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7, 8.1, or 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Dual Core 64bit CPU (2.2+ GHz Dual Core CPU or better)"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 510+, Radeon HD5900+, or Intel HD4000+"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "Procesador",
+        "Any Quad Core or 3.0+ GHz Dual Core CPU"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 660 2GB / AMD HD 7870 2GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8491d5efbc94ff1bfa5fb7dbd30d62009ca5686.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8491d5efbc94ff1bfa5fb7dbd30d62009ca5686.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_3218be2f8b96ba4d032e0f371daa37b4f4c81f43.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_3218be2f8b96ba4d032e0f371daa37b4f4c81f43.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8407200b99f566dae08abeeeae9d9a6a8c1d77b.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8407200b99f566dae08abeeeae9d9a6a8c1d77b.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_21392d50115a7d6eab55b1c0f82e663f8872a2b9.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_21392d50115a7d6eab55b1c0f82e663f8872a2b9.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_ed5744ac049913f8ea9401abd16e864f5d894052.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_ed5744ac049913f8ea9401abd16e864f5d894052.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_dd3bbf54a37a48405d5df2da60859cf83bb09150.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_dd3bbf54a37a48405d5df2da60859cf83bb09150.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_9c17ec3a224d5ea62324bffeb4270dac65abc214.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_9c17ec3a224d5ea62324bffeb4270dac65abc214.1920x1080.jpg?t=1795461453"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_5b1d40ebeb7daf058201370b282f66ee378e4722.600x338.jpg?t=1795461453",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_5b1d40ebeb7daf058201370b282f66ee378e4722.1920x1080.jpg?t=1795461453"
+    }
+  ],
+  "web": "https://wiki.arcengames.com/index.php?title=AI_War_2:AI_War_2",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 25648,
+  "youtube": [
+    {
+      "id": "cimaJgm0WDM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "enECtpMn-P4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "CPrhD-_SNpo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T21:48:48.228Z"
+}
