@@ -6,6 +6,7 @@ import { TIENDAS } from "./tiendas.mjs";
 import { guardarJSON, leerJSON, ruta, log, config } from "../lib/util.mjs";
 import { construir } from "../build.mjs";
 import { agregarMinimos } from "./minimos.mjs";
+import { actualizarOtrasTiendas } from "./otras-tiendas.mjs";
 
 const arg = process.argv.indexOf("--tiendas");
 const elegidas = (arg > 0 ? process.argv[arg + 1] : Object.keys(TIENDAS).join(",")).split(",").map((s) => s.trim()).filter((t) => TIENDAS[t]);
@@ -122,6 +123,7 @@ async function main() {
   }
   juegos = await agregarMinimos(juegos);
   await actualizarFichas(juegos).catch((err) => log("Fichas: ERROR", err.message));
+  await actualizarOtrasTiendas(juegos);
   guardarJSON(SNAP, { actualizado: new Date().toISOString(), dolar, estado, juegos });
   log(`Foto guardada: ${juegos.length} ofertas vigentes.`);
   construir();

@@ -405,3 +405,13 @@ main.wrap{padding-top:30px;padding-bottom:64px}
 .j-res-v{font:800 1.6rem/1.1 var(--f-disp);color:var(--ink)}
 .j-res-v small{font:600 .8rem var(--f-txt);color:var(--muted);margin-left:4px}
 .j-res-n{font-size:.78rem;color:var(--muted);line-height:1.35}
+.j-otras{margin:22px 0 0}
+.j-otras h2{font:800 1.35rem/1.1 var(--f-disp);margin:0 0 .4em}
+.j-otras .j-ofertas{margin-top:10px}
+.j-of-otra .o-tienda{color:var(--ink)}
+.j-btn-2{background:var(--panel2,#2a2d45);color:var(--ink);border:1px solid var(--lime)}
+.j-mercados{margin-top:16px;background:var(--panel);border-radius:14px;padding:14px 18px}
+.j-mercados h3{margin:0 0 .4em;font-size:1.05rem}
+.j-merc-links{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 0}
+.j-merc-links a{background:var(--panel2,#2a2d45);color:var(--ink);font-weight:700;padding:9px 14px;border-radius:10px;text-decoration:none}
+.j-afi{margin-top:12px}

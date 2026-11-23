@@ -108,3 +108,20 @@ Una tarea aparte (**Actions → Actualizar ofertas de juegos**) junta las oferta
 **Puesta en marcha:** en Neon → proyecto `bolsillo-ofertas-juegos` → **Connect** → copiá la cadena de conexión. En GitHub → **Settings → Secrets and variables → Actions → New repository secret** → nombre `DATABASE_URL`, valor la cadena. Después **Actions → Actualizar ofertas de juegos → Run workflow**.
 
 **Si una tienda falla** (por ejemplo, si PlayStation bloquea la lectura), las demás siguen funcionando, la página muestra un aviso y los datos anteriores quedan visibles hasta 30 horas. Para apagar PlayStation: sacala de la lista en `.github/workflows/ofertas.yml`.
+
+## Otras tiendas y enlaces de afiliado
+
+Cada ficha de juego (`/ofertas/juego/.../`) puede mostrar una sección **Otras tiendas**, debajo de los precios de Steam, Epic, Xbox y PlayStation:
+
+- **Tiendas oficiales de claves** (Fanatical, Humble Store, Green Man Gaming, GOG): con el precio de hoy para Argentina, que viene de IsThereAnyDeal (usa el mismo secreto `ITAD_API_KEY`). Se guarda en `data/otras-tiendas.json` en cada corrida de ofertas. El precio en pesos con impuestos lo calcula la página igual que con Steam, y entran en la comparación de "Más barato hoy".
+- **Mercados de claves** (Eneba, G2A, Kinguin): son revendedores, así que van aparte, sin precio y con un aviso. **Solo aparecen cuando cargás su ID de afiliado.**
+- Cuando hay algún enlace de afiliado propio, la sección muestra el aviso de que son enlaces de afiliado. La política de privacidad y las preguntas frecuentes ya lo mencionan.
+
+### Cargar los IDs de afiliado
+
+En `config.json`, sección `afiliados`, completá el campo `id` de cada tienda (o creá una variable de entorno `AFI_FANATICAL`, `AFI_HUMBLE`, `AFI_GMG`, `AFI_GOG`, `AFI_ENEBA`, `AFI_G2A`, `AFI_KINGUIN`). Hay dos formatos:
+
+- `"modo": "param"`: el ID es un código corto que se agrega a la URL (`partner` en Humble, `gtag` en G2A, `r` en Kinguin, `af_id` en Eneba). Si tu panel de afiliado usa otro nombre de parámetro, cambialo en `param`.
+- `"modo": "prefijo"`: el ID es el **enlace profundo** que te da la red de afiliados, hasta el `u=` o `url=` final (por ejemplo `https://fanatical.pxf.io/c/123/456/789?u=`). Se le pega la dirección de la tienda. Lo usan Fanatical, Green Man Gaming (Impact) y GOG (CJ).
+
+Con ID, el botón lleva a la búsqueda del juego en esa tienda con tu código. Sin ID, el botón usa el enlace que da IsThereAnyDeal **sin tocarlo**: sus condiciones no permiten cambiar ni quitar los códigos de sus enlaces. Para sacar `activa: false` una tienda, agregá `"activa": false`.

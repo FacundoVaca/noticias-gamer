@@ -1,6 +1,7 @@
 // Páginas de ofertas en vivo: /ofertas/ (resumen) y /ofertas/<tienda>/ (listado completo con filtros)
 import { leerJSON, ruta } from "../lib/util.mjs";
 import { claveJuego, cargarFichas } from "./fichas.mjs";
+import { configAfiliados, cargarOtras, urlBusqueda, conAfiliado } from "./otras-tiendas.mjs";
 
 // Una ficha de juego entra a Google solo si su historial sirve de verdad: suficientes días con precio
 // registrado, un período razonable y al menos un cambio (si no, el gráfico sería una línea plana).
@@ -113,7 +114,7 @@ ${todos.some((g) => g.minHist) ? `<p class="mini">Mínimos históricos en la mon
     ["¿Cómo calculan el precio en pesos?", `Tomamos el precio de ${T.nombre} para Argentina${T.nombre === "Xbox" ? " (que la tienda ya muestra en pesos)" : " (en dólares)"}, lo pasamos con el dólar oficial del día y le sumamos IVA ${Math.round((imp.iva || 0) * 100)}% y percepción ${Math.round((imp.percepcion || 0) * 100)}%, que es lo que suele aparecer en el resumen de la tarjeta. Es una estimación: tu banco puede usar otra cotización.`],
     ["¿Qué significa \"Mínimo registrado\"?", "Que el precio de hoy es el más bajo que vimos desde que empezamos a seguir ese juego (necesitamos al menos 3 días de historial para marcarlo)."],
     ["¿Cada cuánto se actualiza?", "Varias veces por día, de forma automática. Las ofertas pueden terminar antes o cambiar sin aviso."],
-    ["¿Ustedes venden los juegos?", `No. ${cfg.sitio.nombre} solo recopila las ofertas públicas; el botón te lleva a la tienda oficial y la compra se hace ahí.`],
+    ["¿Ustedes venden los juegos?", `No. ${cfg.sitio.nombre} solo recopila las ofertas públicas; el botón te lleva a la tienda y la compra se hace ahí. Algunos enlaces pueden ser de afiliado: si comprás a través de ellos podemos recibir una comisión, sin costo extra para vos y sin cambiar los precios que mostramos.`],
   ];
   const faqHtml = (T) => `<section class="faq"><h2>Preguntas frecuentes</h2>${faq(T).map(([p, r]) => `<details><summary>${e(p)}</summary><p>${e(r)}</p></details>`).join("")}</section>`;
   const faqLd = (T) => `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faq(T).map(([p, r]) => ({ "@type": "Question", name: p, acceptedAnswer: { "@type": "Answer", text: r } })) }).replace(/</g, "\\u003c")}</script>`;
@@ -197,6 +198,8 @@ ${faqHtml({ nombre: "cada tienda" })}`;
   function paginasJuegos() {
     const historial = leerJSON(ruta("data", "historial.json"), {});
     const fichas = fichasInfo;
+    const afi = configAfiliados(), otras = cargarOtras();
+    const tiendaAfi = new Map(afi.tiendas.map((t) => [t.clave, t]));
     // Cotización para el precio estimado en pesos: la página lo calcula en el navegador, así el HTML
     // de cada juego solo cambia cuando cambia su precio (y no todos los días con el dólar)
     escribir("ofertas/cotizacion.json", JSON.stringify({ oficial, iva: imp.iva || 0, percepcion: imp.percepcion || 0, fecha: datos.dolar?.fecha || null }));
@@ -277,6 +280,32 @@ ${faqHtml({ nombre: "cada tienda" })}`;
 <ul class="j-datos">${g.fin_oferta ? `<li>Oferta hasta el ${finTxt(g.fin_oferta)}</li>` : ""}${enMinimo ? `<li><span class="o-min">Precio más bajo registrado</span></li>` : ""}${minExt ? `<li>Mínimo histórico: <b>${fmtOrig(minExt.precio, g.moneda)}</b>${minExt.fecha ? ` en ${mesAnio(minExt.fecha)}` : ""} (según el historial de ${e(minExt.fuente)})</li>` : ""}${minPropio != null && !enMinimo ? `<li>Mínimo que registramos: <b>${fmtOrig(minPropio, g.moneda)}</b> (en ${diasTxt(diasRegistro(historial[g.id] || []))} de seguimiento)</li>` : ""}${g.extra?.gamePass ? "<li>Incluido en Game Pass</li>" : ""}</ul>
 <a class="j-btn" href="${e(g.url)}" rel="nofollow noopener sponsored" target="_blank">Ver en ${T.nombre}</a></li>`;
       }).join("\n");
+
+      // Otras tiendas: precios de tiendas oficiales de claves (IsThereAnyDeal) y mercados de revendedores aparte
+      const buscarCon = (t) => urlBusqueda(t, nombre.replace(/[™®©]/g, "").replace(/\s+/g, " ").trim());
+      const filasOtras = (info.itad ? otras.precios[info.itad] || [] : []).map((d) => {
+        const t = tiendaAfi.get(d.tienda);
+        if (!t) return "";
+        const propio = conAfiliado(t, buscarCon(t)); // con nuestro ID: búsqueda en la tienda; sin ID: enlace de ITAD tal cual
+        const href = propio || d.url || buscarCon(t);
+        if (!href) return "";
+        return `<li class="j-of j-of-otra" data-precio="${d.precio}" data-original="${d.regular || 0}" data-moneda="${d.moneda}">
+<div class="j-of-tienda"><span class="o-tienda">${e(t.nombre)}</span>${d.drm.map((x) => `<span class="o-plat">Clave de ${e(x)}</span>`).join("")}</div>
+<div class="j-of-precio"><span class="j-ars-val">${fmtOrig(d.precio, d.moneda)}</span>${d.descuento ? `<span class="o-desc">-${d.descuento}%</span>` : ""}${d.regular > d.precio ? `<s>${fmtOrig(d.regular, d.moneda)}</s>` : ""}<span class="j-ars-nota">precio de la tienda</span></div>
+${d.fin ? `<ul class="j-datos"><li>Oferta hasta el ${finTxt(d.fin)}</li></ul>` : ""}
+<a class="j-btn j-btn-2" href="${e(href)}" rel="nofollow noopener sponsored" target="_blank">Ver en ${e(t.nombre)}</a></li>`;
+      }).filter(Boolean);
+      const mercados = afi.mercados.filter((t) => t.id && buscarCon(t)).map((t) => ({ t, href: conAfiliado(t, buscarCon(t)) })).filter((m) => m.href);
+      const hayPropios = mercados.length || (info.itad ? otras.precios[info.itad] || [] : []).some((d) => tiendaAfi.get(d.tienda)?.id);
+      const otrasSec = filasOtras.length || mercados.length ? `<section class="j-otras" aria-labelledby="j-otras-tit">
+<h2 id="j-otras-tit">Otras tiendas</h2>
+${filasOtras.length ? `<p class="mini">Tiendas oficiales que venden claves del juego para activar en otra plataforma (por ejemplo, Steam). Precio de hoy para Argentina según <a href="https://isthereanydeal.com" rel="noopener" target="_blank">IsThereAnyDeal</a>; el valor en pesos es una estimación con impuestos.</p>
+<ul class="j-ofertas">${filasOtras.join("\n")}</ul>` : ""}
+${mercados.length ? `<div class="j-mercados"><h3>Mercados de claves (revendedores)</h3>
+<p class="j-aviso"><b>Ojo:</b> en estos sitios venden claves otros usuarios y comercios, no la editora. Suelen estar más baratas, pero puede haber claves de otra región o que después se revocan. Fijate la región, la plataforma de activación y la reputación del vendedor antes de comprar.</p>
+<p class="j-merc-links">${mercados.map((m) => `<a href="${e(m.href)}" rel="nofollow noopener sponsored" target="_blank">Buscar en ${e(m.t.nombre)}</a>`).join("")}</p></div>` : ""}
+${hayPropios ? `<p class="mini j-afi">Algunos de estos enlaces son de afiliado: si comprás a través de ellos, ${e(cfg.sitio.nombre)} puede recibir una comisión, sin costo extra para vos. No cambia los precios que mostramos ni el orden.</p>` : ""}
+</section>` : "";
 
       // Datos del juego, solo los que trae alguna fuente
       // Mismo estudio con dos nombres (por ejemplo, "Hazelight" y "Hazelight Studios"): se deja uno solo, el más completo
@@ -429,7 +458,7 @@ ${nuevo || `<div class="j-chart" data-tramos='${e(JSON.stringify(tramos))}' data
       }).join("\n");
 
       // Índice de la ficha: solo las secciones que tienen datos
-      const indice = [[acerca, "j-acerca-tit", "Sobre el juego"], [videos, "j-vid-tit", "Videos"], [galeria, "j-cap-tit", "Capturas"],
+      const indice = [[otrasSec, "j-otras-tit", "Otras tiendas"], [acerca, "j-acerca-tit", "Sobre el juego"], [videos, "j-vid-tit", "Videos"], [galeria, "j-cap-tit", "Capturas"],
         [idiomasOrd.length, "j-idi-tit", "Idiomas"], [requis, "j-req-tit", "Requisitos"], [edSec, "j-ed-tit", unaSola ? "Qué incluye" : "Ediciones"],
         [dlcSec, "j-dlc-tit", "DLC"], [true, "j-hist-tit", "Historial de precios"]].filter(([x]) => x);
       const indiceHtml = indice.length > 2 ? `<nav class="j-indice" aria-label="Secciones de la ficha">${indice.map(([, id, t]) => `<a href="#${id}">${t}</a>`).join("")}</nav>` : "";
@@ -446,6 +475,7 @@ ${filasOferta}
 </ul>
 </div>
 </div>
+${otrasSec}
 ${indiceHtml}
 ${indexar ? anuncio : ""}
 ${acerca}
