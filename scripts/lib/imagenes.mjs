@@ -45,47 +45,75 @@ ${lineas.map((l, i) => `<text x="70" y="${(y0 + i * fs_ * 1.15).toFixed(0)}" fon
 </svg>`;
 }
 
-async function buscarPexels(consulta) {
-  const clave = process.env.PEXELS_API_KEY;
-  if (!clave || !consulta) return null;
-  const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(consulta)}&per_page=10&orientation=landscape`, { headers: { authorization: clave } });
-  if (!r.ok) throw new Error(`Pexels HTTP ${r.status}`);
-  const fotos = (await r.json()).photos || [];
-  if (!fotos.length) return null;
-  const f = fotos[Math.floor(Math.random() * Math.min(5, fotos.length))];
-  return {
-    buffer: await traer(f.src.large2x || f.src.large, { tipo: "buffer" }),
-    credito: { texto: `Foto: ${f.photographer} en Pexels`, url: f.url },
-  };
+// Fotos ya usadas como portada (por su página en Pexels/Pixabay), para no repetir
+function fotosUsadas() {
+  const dir = ruta("content", "notas");
+  if (!fs.existsSync(dir)) return new Set();
+  return new Set(fs.readdirSync(dir).filter((n) => n.endsWith(".json")).map((n) => {
+    try { return JSON.parse(fs.readFileSync(path.join(dir, n), "utf8")).imagen?.credito?.url || null; } catch { return null; }
+  }).filter(Boolean));
 }
 
-// Búsquedas de respaldo por categoría y palabras que tiene que tener una foto para considerarse "gamer"
+// Marcas de consola: si la nota es de una plataforma, no se aceptan fotos con otra marca
+const MARCAS = {
+  playstation: /\b(playstation|ps[1-5]|dualshock|dualsense|sony)\b/i,
+  xbox: /\b(xbox|microsoft)\b/i,
+  nintendo: /\b(nintendo|switch|mario|joy-?con|gameboy|game boy|wii)\b/i,
+};
+export function marcasDeNota(nota) {
+  const t = [nota.titulo, ...(nota.etiquetas || []), nota.categoria].join(" ");
+  const m = Object.keys(MARCAS).filter((k) => k === nota.categoria || MARCAS[k].test(t));
+  return m;
+}
+// true si la foto (por sus etiquetas o descripción) muestra una marca que no es de la nota
+export function marcaAjena(textoFoto, marcas) {
+  if (!marcas.length) return false;
+  return Object.keys(MARCAS).some((k) => !marcas.includes(k) && MARCAS[k].test(textoFoto || ""));
+}
+
+// Búsquedas por plataforma (van primero cuando la nota es de una plataforma concreta) y de respaldo por categoría
 const BUSQUEDAS = {
-  pc: ["pc gaming setup", "gaming keyboard"], playstation: ["game controller", "gaming console"], xbox: ["game controller", "gaming console"],
-  nintendo: ["handheld game console", "game controller"], movil: ["mobile gaming", "smartphone game"], esports: ["esports", "gaming tournament"],
-  industria: ["video game", "game controller"], general: ["video game", "game controller"],
+  pc: ["pc gaming setup", "gaming keyboard", "gaming pc"], playstation: ["playstation controller", "playstation console", "ps5"],
+  xbox: ["xbox controller", "xbox console"], nintendo: ["nintendo switch", "handheld game console"],
+  movil: ["mobile gaming", "smartphone game"], esports: ["esports", "gaming tournament"],
+  industria: ["video game", "game controller", "gaming setup"], general: ["video game", "game controller", "gaming setup"],
 };
 const GAMER = /\b(game|games|gaming|gamer|gamepad|controller|joystick|console|playstation|xbox|nintendo|esports|e-sports|video ?game|arcade|pc|computer|keyboard|monitor|headset|handheld)\b/i;
+const consultasDe = (nota) => {
+  const marcas = marcasDeNota(nota);
+  const propias = marcas.flatMap((m) => BUSQUEDAS[m]);
+  return [...new Set([...propias, nota.busquedaImagen, ...(BUSQUEDAS[nota.categoria] || BUSQUEDAS.general)].filter(Boolean).map((c) => c.toLowerCase().trim()))];
+};
+// Elige al azar entre los primeros resultados que sirven (no usados, de videojuegos y sin marcas ajenas)
+const elegir = (fotos) => fotos.length ? fotos[Math.floor(Math.random() * Math.min(8, fotos.length))] : null;
 
-async function buscarPixabay(consulta, categoria = "general") {
+async function buscarPexels(nota, usadas) {
+  const clave = process.env.PEXELS_API_KEY;
+  if (!clave) return null;
+  const marcas = marcasDeNota(nota);
+  for (const c of consultasDe(nota)) {
+    const r = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(c)}&per_page=30&orientation=landscape`, { headers: { authorization: clave } });
+    if (!r.ok) throw new Error(`Pexels HTTP ${r.status}`);
+    const f = elegir(((await r.json()).photos || []).filter((x) => !usadas.has(x.url) && !marcaAjena(`${x.alt || ""} ${x.url}`, marcas)));
+    if (f) return { buffer: await traer(f.src.large2x || f.src.large, { tipo: "buffer" }), credito: { texto: `Foto: ${f.photographer} en Pexels`, url: f.url } };
+  }
+  return null;
+}
+
+async function buscarPixabay(nota, usadas) {
   const clave = process.env.PIXABAY_API_KEY;
   if (!clave) return null;
-  const consultas = [...new Set([consulta, ...(BUSQUEDAS[categoria] || BUSQUEDAS.general)].filter(Boolean).map((c) => c.toLowerCase().trim()))];
-  let f = null;
-  for (const c of consultas) {
-    const q = new URLSearchParams({ key: clave, q: c.slice(0, 100), image_type: "photo", orientation: "horizontal", safesearch: "true", per_page: "20", min_width: "1200", order: "popular" });
+  const marcas = marcasDeNota(nota);
+  for (const c of consultasDe(nota)) {
+    const q = new URLSearchParams({ key: clave, q: c.slice(0, 100), image_type: "photo", orientation: "horizontal", safesearch: "true", per_page: "50", min_width: "1200", order: "popular" });
     const r = await fetch(`https://pixabay.com/api/?${q}`);
     if (!r.ok) throw new Error(`Pixabay HTTP ${r.status}`);
-    // Solo fotos cuyas etiquetas sean de videojuegos (evita fotos que no tienen nada que ver)
-    const fotos = ((await r.json()).hits || []).filter((h) => GAMER.test(h.tags || ""));
-    if (fotos.length) { f = fotos[Math.floor(Math.random() * Math.min(6, fotos.length))]; break; }
+    // Solo fotos de videojuegos, que no se hayan usado y sin marcas de otra plataforma
+    const f = elegir(((await r.json()).hits || []).filter((h) => GAMER.test(h.tags || "") && !usadas.has(h.pageURL) && !marcaAjena(`${h.tags} ${h.pageURL}`, marcas)));
+    // Pixabay no permite enlazar sus imágenes en forma permanente: se descargan y se sirven desde el sitio.
+    if (f) return { buffer: await traer(f.largeImageURL || f.webformatURL, { tipo: "buffer" }), credito: { texto: `Imagen de ${f.user} en Pixabay`, url: f.pageURL } };
   }
-  if (!f) return null;
-  // Pixabay no permite enlazar sus imágenes en forma permanente: se descargan y se sirven desde el sitio.
-  return {
-    buffer: await traer(f.largeImageURL || f.webformatURL, { tipo: "buffer" }),
-    credito: { texto: `Imagen de ${f.user} en Pixabay`, url: f.pageURL },
-  };
+  return null;
 }
 
 // Guarda public/img/<slug>.(webp|jpg|png|svg) y devuelve { archivo, origen, credito }
@@ -105,6 +133,7 @@ export async function crearPortada(nota, cfg) {
     fs.writeFileSync(path.join(dir, `${nota.slug}.${ext}`), buf);
     return { archivo: `${nota.slug}.${ext}`, origen, credito };
   };
+  const usadas = fotosUsadas();
   for (const metodo of orden) {
     try {
       if (metodo === "gemini") {
@@ -112,10 +141,10 @@ export async function crearPortada(nota, cfg) {
         const buf = await generarImagen(nota.promptImagen, cfg);
         if (buf) return await guardar(buf, "ia", { texto: "Ilustración generada con IA" });
       } else if (metodo === "pexels") {
-        const foto = await buscarPexels(nota.busquedaImagen);
+        const foto = await buscarPexels(nota, usadas);
         if (foto) return await guardar(foto.buffer, "pexels", foto.credito);
       } else if (metodo === "pixabay") {
-        const foto = await buscarPixabay(nota.busquedaImagen, nota.categoria);
+        const foto = await buscarPixabay(nota, usadas);
         if (foto) return await guardar(foto.buffer, "pixabay", foto.credito);
       } else if (metodo === "portada") {
         const svg = portadaSVG(nota.titulo, nota.categoria, cfg.categorias[nota.categoria] || "Noticias", cfg.sitio.nombre, W, H);
