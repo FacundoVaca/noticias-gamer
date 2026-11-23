@@ -5,6 +5,7 @@ import { createHash } from "node:crypto";
 import { fileURLToPath } from "node:url";
 import { config, leerJSON, ruta, escapar as e, fechaLarga, fechaCorta, contarPalabras } from "./lib/util.mjs";
 import { generarOfertas } from "./ofertas/paginas.mjs";
+import { generarSoluciones, generarGratis, generarCalculadora, esProblema } from "./extras/paginas.mjs";
 
 const POR_PAGINA = 18;
 
@@ -31,6 +32,7 @@ export function construir() {
   fs.cpSync(ruta("static"), PUB, { recursive: true });
   const escribir = (rel, html) => { const p = path.join(PUB, rel); fs.mkdirSync(path.dirname(p), { recursive: true }); fs.writeFileSync(p, html); };
 
+  const versionExtras = createHash("sha1").update(fs.readFileSync(ruta("static", "assets", "extras.css"))).digest("hex").slice(0, 8);
   const versionCss = createHash("sha1").update(fs.readFileSync(ruta("static", "assets", "style.css"))).digest("hex").slice(0, 8);
   const adsense = S.adsenseCliente ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${S.adsenseCliente}" crossorigin="anonymous"></script>` : "";
   const img = (n) => n.imagen?.archivo ? `/img/${n.imagen.archivo}` : "/assets/portada.svg";
@@ -40,7 +42,7 @@ export function construir() {
   const navTiendas = [["steam", "Steam"], ["epic", "Epic Games"], ["xbox", "Xbox"], ["playstation", "PlayStation"]].map(([k, v]) => `<a href="/ofertas/${k}/">${v}</a>`).join("");
   const menu = `<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
 <nav class="menu" id="menu" aria-label="Principal">
-<a class="menu-p" href="/">Noticias</a><a class="menu-p menu-of" href="/ofertas/">Ofertas</a><a class="menu-p" href="/soluciones/">Soluciones</a>
+<a class="menu-p" href="/">Noticias</a><a class="menu-p menu-of" href="/ofertas/">Ofertas</a><a class="menu-p" href="/juegos-gratis/">Gratis</a><a class="menu-p" href="/soluciones/">Soluciones</a>
 <div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p>${navPlat}</div></div>
 <div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p>${navTiendas}</div>
 </nav>
@@ -59,7 +61,7 @@ document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("ari
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800&family=Onest:wght@400;500;700&display=swap">
-<meta name="theme-color" content="#10111b"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}">
+<meta name="theme-color" content="#10111b"><link rel="stylesheet" href="/assets/style.css?v=${versionCss}"><link rel="stylesheet" href="/assets/extras.css?v=${versionExtras}">
 <link rel="alternate" type="application/rss+xml" title="${e(S.nombre)}" href="/feed.xml">
 ${ads ? adsense : ""}${extraHead}
 </head><body>
@@ -68,7 +70,7 @@ ${menu}</div></header>
 <main class="wrap">${cuerpo}</main>
 <footer class="pie"><div class="wrap">
 <p><strong>${e(S.nombre)}</strong>. ${e(S.descripcion)}</p>
-<nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a></nav>
+<nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>
 <p class="mini">© ${new Date().getFullYear()} ${e(S.nombre)}. Las marcas y nombres de juegos pertenecen a sus dueños.</p>
 </div></footer></body></html>`;
 
@@ -103,7 +105,6 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
 
   listado(notas.filter((n) => n.tipo === "ofertas"), "/ofertas/notas/", `Notas sobre ofertas de videojuegos | ${S.nombre}`, "Notas sobre rebajas y ofertas de juegos con precios y enlaces directos a cada tienda.", "Notas sobre ofertas");
   const urlsOfertas = generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio });
-  listado(notas.filter((n) => n.tipo === "problema"), "/soluciones/", `Soluciones a errores y fallas de juegos | ${S.nombre}`, "Errores, cuelgues y caídas de juegos y consolas, con pasos para solucionarlos.", "Soluciones a errores y fallas");
 
   // Notas
   // Después de un subtítulo de pasos ("Cómo solucionarlo", "Paso a paso", "Cómo hacer...") la lista va numerada
@@ -180,6 +181,14 @@ ${rel.length ? `<section class="relacionadas"><h2>Seguí leyendo</h2><div class=
   };
   for (const n of notas) escribir(path.join("notas", n.slug, "index.html"), generarNota(n, true));
 
+  // Soluciones (guías fijas + notas de problemas), juegos gratis y calculadora en pesos
+  const extrasArgs = { cfg, pagina, escribir, e, fechaLarga, anuncio };
+  const urlsExtras = [
+    ...generarSoluciones({ ...extrasArgs, cuerpoHTML, tarjeta, problemas: notas.filter(esProblema) }),
+    ...generarGratis(extrasArgs),
+    ...generarCalculadora(extrasArgs),
+  ];
+
   // Revisión (solo si hay pendientes; no indexable y sin anuncios)
   if (pendientes.length) {
     for (const n of pendientes) escribir(path.join("revision", n.slug, "index.html"), generarNota(n, false));
@@ -203,7 +212,7 @@ ${rel.length ? `<section class="relacionadas"><h2>Seguí leyendo</h2><div class=
 <atom:link href="${S.url}/feed.xml" rel="self" type="application/rss+xml"/>
 ${ultimas.map((n) => `<item><title>${e(n.titulo)}</title><link>${S.url}${urlNota(n)}</link><guid>${S.url}${urlNota(n)}</guid><pubDate>${new Date(n.fecha).toUTCString()}</pubDate><category>${e(CAT[n.categoria])}</category><description>${e(n.bajada)}</description></item>`).join("\n")}
 </channel></rss>`);
-  const urls = [["/", notas[0]?.fecha], ...urlsOfertas.map((u) => [u]), ["/ofertas/notas/"], ["/soluciones/"], ...Object.keys(CAT).map((k) => [`/categoria/${k}/`]), ...Object.keys(inst).map((s) => [`/${s}/`]), ...notas.map((n) => [urlNota(n), n.actualizada || n.fecha])];
+  const urls = [["/", notas[0]?.fecha], ...urlsOfertas.map((u) => [u]), ["/ofertas/notas/"], ["/soluciones/"], ...urlsExtras, ...Object.keys(CAT).map((k) => [`/categoria/${k}/`]), ...Object.keys(inst).map((s) => [`/${s}/`]), ...notas.map((n) => [urlNota(n), n.actualizada || n.fecha])];
   escribir("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(([u, f]) => `<url><loc>${S.url}${u}</loc>${f ? `<lastmod>${f.slice(0, 10)}</lastmod>` : ""}</url>`).join("\n")}
