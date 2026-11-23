@@ -1,0 +1,47 @@
+name: Rehacer portadas
+
+on:
+  workflow_dispatch:
+    inputs:
+      notas:
+        description: "Nombres de las notas separados por coma"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  portadas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-audit --no-fund
+      - name: Elegir portadas nuevas
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          NOTAS: ${{ inputs.notas }}
+        run: node scripts/rehacer-portadas.mjs "$NOTAS"
+      - name: Guardar cambios (Cloudflare publica solo)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content public
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Portadas rehechas"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs || { git rebase --abort; exit 1; }
+            node scripts/build.mjs
+            git add public
+            git diff --cached --quiet || git commit -q --amend --no-edit
+            git push && exit 0
+            sleep 15
+          done
+          exit 1
