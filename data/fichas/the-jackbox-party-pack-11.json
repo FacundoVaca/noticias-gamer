@@ -1,9 +1,9 @@
 {
   "clave": "the jackbox party pack 11",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019779cd-70ed-72d5-bb02-13ffbce5a76c",
   "appid": "3364070",
@@ -45,6 +45,38 @@
       "url": "https://opencritic.com/game/19553/the-jackbox-party-pack-11"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1190565",
+      "nombre": "The Jackbox Party Pack 11",
+      "apps": [
+        {
+          "appid": "3364070",
+          "nombre": "The Jackbox Party Pack 11"
+        }
+      ],
+      "usd": 9.74,
+      "antes": 14.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "3364070": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4046830",
+      "nombre": "The Jackbox Party Pack 11 Soundtrack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "¡Vuelve el Pack! The Jackbox Party Pack 11 transporta tu noche de juegos con 5 nuevos juegos. ¡Destruye bromas inocentes en Doominate, graba tu voz en Hear Say, crea galletas gallitas en Cookie Haus, deduce enigmas sociales en Suspectives y colabora con tu grupo en Legends of Trivia!",
   "generos": [
     "Aventura",
@@ -56,6 +88,7 @@
   ],
   "lanzamientoTexto": "22 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Jackbox Party Pack 11",
   "acerca": [
     [
@@ -109,7 +142,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -205,5 +239,20 @@
     }
   ],
   "web": "https://www.jackboxgames.com/",
-  "consultado": "2026-11-22T22:17:07.844Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 338919,
+  "youtube": [
+    {
+      "id": "sHey83S46Sk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T17:45:58.898Z"
 }
