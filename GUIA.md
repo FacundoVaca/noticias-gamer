@@ -108,3 +108,21 @@ Una tarea aparte (**Actions → Actualizar ofertas de juegos**) junta las oferta
 **Puesta en marcha:** en Neon → proyecto `bolsillo-ofertas-juegos` → **Connect** → copiá la cadena de conexión. En GitHub → **Settings → Secrets and variables → Actions → New repository secret** → nombre `DATABASE_URL`, valor la cadena. Después **Actions → Actualizar ofertas de juegos → Run workflow**.
 
 **Si una tienda falla** (por ejemplo, si PlayStation bloquea la lectura), las demás siguen funcionando, la página muestra un aviso y los datos anteriores quedan visibles hasta 30 horas. Para apagar PlayStation: sacala de la lista en `.github/workflows/ofertas.yml`.
+
+## Canal de Telegram con ofertas y juegos gratis (opcional)
+
+El workflow de ofertas puede avisar en un canal de Telegram cada vez que aparece un juego gratis, y una vez por día (desde las 12 h) mandar las mejores ofertas en su precio más bajo.
+
+1. En Telegram, hablale a **@BotFather**, mandá `/newbot` y seguí los pasos. Te da un **token**.
+2. Creá un canal público (por ejemplo `@bolsillogamer`) y agregá el bot como **administrador** con permiso para publicar.
+3. En GitHub → Settings → Secrets and variables → Actions, creá:
+   - `TELEGRAM_BOT_TOKEN`: el token del paso 1.
+   - `TELEGRAM_CHAT_ID`: el nombre del canal con @ (por ejemplo `@bolsillogamer`).
+
+Sin esos secretos no se envía nada. Lo ya enviado queda en `data/telegram.json` para no repetir.
+
+## Páginas extra
+
+- `/soluciones/`: guías fijas de `content/soluciones.json` (editables a mano) más las notas que hablan de errores o fallas.
+- `/juegos-gratis/`: Epic (feed oficial) más otras tiendas desde GamerPower (`scripts/extras/gratis.mjs` → `data/gratis.json`).
+- `/calculadora-pesos/`: pasa a pesos cualquier precio en dólares con el dólar oficial y los impuestos de `config.json`.

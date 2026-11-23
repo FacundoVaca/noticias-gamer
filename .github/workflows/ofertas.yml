@@ -39,6 +39,9 @@ jobs:
         if: contains(steps.t.outputs.tiendas, 'playstation')
         continue-on-error: true
         run: npx playwright install --with-deps chromium
+      - name: Juegos gratis de otras tiendas (GamerPower)
+        continue-on-error: true
+        run: node scripts/extras/gratis.mjs
       - name: Leer ofertas, guardar en Neon y generar el sitio
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
@@ -46,6 +49,12 @@ jobs:
           IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
           IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
         run: node scripts/ofertas/actualizar-ofertas.mjs --tiendas "${{ steps.t.outputs.tiendas }}"
+      - name: Avisar en Telegram (solo si están los secretos)
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/extras/telegram.mjs
       - name: Guardar cambios (Cloudflare publica solo)
         run: |
           git config user.name "github-actions[bot]"
