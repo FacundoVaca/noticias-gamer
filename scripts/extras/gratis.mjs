@@ -4,7 +4,7 @@
 import { fileURLToPath } from "node:url";
 import { guardarJSON, leerJSON, ruta } from "../lib/util.mjs";
 
-const API = "https://www.gamerpower.com/api/giveaways?type=game&sort-by=popularity";
+const API = "https://www.gamerpower.com/api/giveaways?type=game&sort-by=date";
 const ARCHIVO = ruta("data", "gratis.json");
 
 const tiendaDe = (plataformas = "") => {
@@ -14,6 +14,8 @@ const tiendaDe = (plataformas = "") => {
   if (p.includes("gog")) return "GOG";
   if (p.includes("prime") || p.includes("amazon")) return "Prime Gaming";
   if (p.includes("itch")) return "itch.io";
+  if (p.includes("indiegala")) return "IndieGala";
+  if (p.includes("drm-free")) return "GOG";
   if (p.includes("ubisoft")) return "Ubisoft";
   if (p.includes("ea ") || p.includes("origin")) return "EA";
   if (p.includes("playstation") || p.includes("ps5") || p.includes("ps4")) return "PlayStation";
@@ -38,7 +40,7 @@ export async function actualizarGratis() {
     if (!tienda || tienda === "Epic Games") continue;
     const hasta = fecha(g.end_date);
     if (hasta && new Date(hasta) < new Date()) continue;
-    const titulo = String(g.title || "").replace(/\s*\((steam|gog|itch\.io|prime gaming)[^)]*\)\s*/gi, " ").replace(/\s+giveaway$/i, "").trim();
+    const titulo = String(g.title || "").replace(/\s*\((steam|gog|itch\.io|indiegala|prime gaming)[^)]*\)\s*/gi, " ").replace(/\s+giveaway$/i, "").replace(/\s+(steam\s+)?(key|keys)$/i, "").trim();
     if (!titulo || !/^https?:\/\//.test(g.open_giveaway_url || g.gamerpower_url || "")) continue;
     juegos.push({ titulo, tienda, imagen: g.thumbnail || g.image || "", url: g.open_giveaway_url || g.gamerpower_url,
       valor: g.worth && !/n\/a/i.test(g.worth) ? String(g.worth).replace("$", "US$") : "", hasta });
