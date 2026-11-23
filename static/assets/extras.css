@@ -10,3 +10,9 @@
 .calc-res{font-size:1.15rem;margin:.25rem 0 0}
 .calc-res strong{font-size:1.6rem;color:var(--lime)}
 .calc-res small{display:block;opacity:.75;font-size:.9rem;margin-top:.2rem}
+/* Aviso del canal de Telegram (aparece si config.json tiene sitio.telegram) */
+.tg-aviso{display:flex;align-items:center;gap:12px;margin:16px 0 4px;padding:10px 14px;border:1px solid var(--line);border-left:4px solid #29a9eb;border-radius:var(--r);background:var(--panel);color:var(--ink);text-decoration:none;font-size:.95rem;line-height:1.4}
+.tg-aviso:hover{border-color:#29a9eb}
+.tg-ico{display:grid;place-items:center;flex:0 0 32px;height:32px;border-radius:50%;background:#29a9eb;color:#fff;font-size:1rem}
+.tg-btn{margin-left:auto;flex:0 0 auto;padding:6px 14px;border-radius:999px;background:#29a9eb;color:#fff;font-weight:700}
+@media (max-width:560px){.tg-aviso{font-size:.88rem}.tg-btn{display:none}}

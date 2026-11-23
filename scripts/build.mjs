@@ -67,7 +67,7 @@ ${ads ? adsense : ""}${extraHead}
 </head><body>
 <header class="top"><div class="wrap"><a class="logo" href="/"><span class="logo-ico" aria-hidden="true">▶</span>${e(S.nombre).replace(/ Gamer$/, " <b>Gamer</b>")}</a>
 ${menu}</div></header>
-<main class="wrap">${cuerpo}</main>
+<main class="wrap">${S.telegram ? `<a class="tg-aviso" href="${e(S.telegram)}" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a>` : ""}${cuerpo}</main>
 <footer class="pie"><div class="wrap">
 <p><strong>${e(S.nombre)}</strong>. ${e(S.descripcion)}</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>
