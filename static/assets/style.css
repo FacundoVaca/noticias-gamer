@@ -397,3 +397,11 @@ main.wrap{padding-top:30px;padding-bottom:64px}
 .j-idi .ok{color:var(--lime);font-weight:800}.j-idi .no{color:#6b6d85}.j-idi .nd{color:#6b6d85}
 .j-nuevo{background:#2a2410;border:1px solid #5c4d14;border-radius:10px;padding:10px 14px;font-size:.92rem;color:#f5e6a8}
 .j-aviso{font-size:.88rem;color:var(--soft);background:var(--panel);border-radius:8px;padding:8px 12px}
+.j-res-tit{font-size:1rem;margin:18px 0 8px;color:var(--soft)}
+.j-res-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;margin-bottom:12px}
+.j-res{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.j-res-f{font-size:.78rem;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.j-res-f a{color:inherit}
+.j-res-v{font:800 1.6rem/1.1 var(--f-disp);color:var(--ink)}
+.j-res-v small{font:600 .8rem var(--f-txt);color:var(--muted);margin-left:4px}
+.j-res-n{font-size:.78rem;color:var(--muted);line-height:1.35}
