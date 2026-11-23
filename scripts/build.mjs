@@ -208,6 +208,7 @@ ${rel.length ? `<section class="relacionadas"><h2>Seguí leyendo</h2><div class=
   // RSS, sitemap, robots, ads.txt
   const ultimas = notas.slice(0, 30);
   escribir("feed.xml", `<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/feed.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>${e(S.nombre)}</title><link>${S.url}/</link><description>${e(S.descripcion)}</description><language>${S.idioma}</language>
 <atom:link href="${S.url}/feed.xml" rel="self" type="application/rss+xml"/>
 ${ultimas.map((n) => `<item><title>${e(n.titulo)}</title><link>${S.url}${urlNota(n)}</link><guid>${S.url}${urlNota(n)}</guid><pubDate>${new Date(n.fecha).toUTCString()}</pubDate><category>${e(CAT[n.categoria])}</category><description>${e(n.bajada)}</description></item>`).join("\n")}

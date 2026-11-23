@@ -87,7 +87,7 @@ ${g.valor ? `<p class="o-precios"><span class="o-precio">Gratis</span><span clas
     ["¿Necesito tarjeta para conseguirlos?", "No. Solo necesitás una cuenta gratuita en la tienda. Algunas, como Prime Gaming, piden tener la suscripción."],
   ];
   const cuerpo = `<h1 class="sec-tit">Juegos gratis esta semana</h1>
-<p class="sol-intro">Juegos que podés quedarte gratis por tiempo limitado en Epic Games, Steam, GOG y otras tiendas. Actualizado varias veces por día${extra.actualizado ? `, la última el ${fechaLarga(extra.actualizado)}` : ""}.</p>
+<p class="sol-intro">Juegos que podés quedarte gratis por tiempo limitado en Epic Games, Steam, GOG, itch.io, IndieGala y otras tiendas. Actualizado varias veces por día${extra.actualizado ? `, la última el ${fechaLarga(extra.actualizado)}` : ""}.</p>
 ${ya.length ? `<div class="o-grilla">${ya.map(card).join("")}</div>` : `<p class="vacio">En este momento no encontramos juegos gratis. Volvé en un rato: suelen aparecer los jueves.</p>`}
 ${anuncio}
 ${prox.length ? `<h2 class="o-h2">Próximamente gratis</h2><div class="o-grilla">${prox.map(card).join("")}</div>` : ""}
@@ -95,7 +95,7 @@ ${prox.length ? `<h2 class="o-h2">Próximamente gratis</h2><div class="o-grilla"
 <section class="faq"><h2>Preguntas frecuentes</h2>${preguntas.map(([p, r]) => `<details><summary>${e(p)}</summary><p>${e(r)}</p></details>`).join("")}</section>`;
   const ld = { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: preguntas.map(([p, r]) => ({ "@type": "Question", name: p, acceptedAnswer: { "@type": "Answer", text: r } })) };
   escribir("juegos-gratis/index.html", pagina({ titulo: `Juegos gratis esta semana: Epic, Steam y más | ${S.nombre}`,
-    desc: "Los juegos gratis de esta semana en Epic Games, Steam, GOG y otras tiendas, con la fecha hasta cuándo podés conseguirlos.", canon: "/juegos-gratis/", cuerpo,
+    desc: "Los juegos gratis de esta semana en Epic Games, Steam, GOG, itch.io, IndieGala y otras tiendas, con la fecha hasta cuándo podés conseguirlos.", canon: "/juegos-gratis/", cuerpo,
     extraHead: `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, "\\u003c")}</script>` }));
   return [["/juegos-gratis/", extra.actualizado || ofertas.actualizado]];
 }
