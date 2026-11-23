@@ -1,0 +1,259 @@
+{
+  "clave": "pico park",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0e22-706e-9ad6-96871b620596",
+  "appid": "1509960",
+  "lanzamiento": "2021-05-07",
+  "desarrolladores": [
+    "TECOPARK"
+  ],
+  "editores": [
+    "TECOPARK"
+  ],
+  "etiquetas": [
+    "Multiplayer",
+    "Online Co-Op",
+    "Co-op",
+    "Puzzle Platformer",
+    "Local Co-Op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 23808,
+      "url": "https://store.steampowered.com/app/1509960/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 67,
+      "cantidad": 65,
+      "url": "https://metacritic.com/game/pico-park/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "532326",
+      "nombre": "PICO PARK",
+      "apps": [
+        {
+          "appid": "1509960",
+          "nombre": "PICO PARK"
+        }
+      ],
+      "usd": 2.09,
+      "antes": 2.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "1509960": {
+      "usd": 2.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1646370",
+      "nombre": "PICO PARK Soundtrack",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 30
+    }
+  ],
+  "descripcion": "PICO PARK is a cooperative local/online multiplay action puzzle game for 2-8 players.",
+  "generos": [
+    "Acción",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "7 MAY 2021",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "PICO PARK",
+  "acerca": [
+    [
+      "p",
+      "* If you are connecting more than 5 Xbox controllers, please enable \"Xbox Extended Feature Support\" in Controller Settings."
+    ],
+    [
+      "h",
+      "PICO PARK is a cooperative local/online multiplay action puzzle game for 2-8 players."
+    ],
+    [
+      "p",
+      "The rule is quite simple: \"Get all the keys and get to the goal and clear\", but all 48 levels have special gimmicks designed specifically for multiplayer. At most levels, different gimmicks will appear as you move forward, and you will need to consult with your peers and think about new ways to cooperate."
+    ],
+    [
+      "p",
+      "This version is essentially a port of the one we released on the Nintendo Switch in 2019."
+    ],
+    [
+      "p",
+      "However, it's not just a port, it now supports online play."
+    ],
+    [
+      "p",
+      "The 2016 version of this link has been renamed \"PICO PARK:Classic Edition\""
+    ],
+    [
+      "p",
+      "[Flexible Level]"
+    ],
+    [
+      "p",
+      "Each level of PICO PARK can be cleared when players get the key,unlock the door and all players reach it.But, every level requires cooperation to complete.."
+    ],
+    [
+      "p",
+      "[Battle Mode]"
+    ],
+    [
+      "p",
+      "Co-op play is the main work of this game, but let's compete with friends in BATTLE MODE once co-op play is completed."
+    ],
+    [
+      "p",
+      "[Endless Mode]"
+    ],
+    [
+      "p",
+      "Even if you complete all 48 stages, you can play ENDLESS mode to aim at high score by collaborating with friends. By collaborating with friends, your score will grow faster."
+    ],
+    [
+      "p",
+      "[Online Play Mode]"
+    ],
+    [
+      "p",
+      "You can play together online with people who are far away from you."
+    ],
+    [
+      "p",
+      "However, this is a game where communication is very important, so we recommend using Discord or Zoom to play while talking."
+    ],
+    [
+      "p",
+      "[TecoGamePad]"
+    ],
+    [
+      "p",
+      "You can use your smartphone as a gamepad with the TecoGamePad. It can be downloaded from the App Store and Google Play."
+    ],
+    [
+      "p",
+      "Let's have fun playing PICO PARK with your friends!"
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 or later 64bit"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2nd Generation Intel Core HD Graphics (2000/3000), 512MB"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "100 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 or later 64bit"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2nd Generation Intel Core HD Graphics (2000/3000), 512MB"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "100 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_d54c6fd82d8c804939d136356eda364295a788cd.600x338.jpg?t=1740033204",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_d54c6fd82d8c804939d136356eda364295a788cd.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_f356434b667dd6f5ff948a87d4d8486d29e31b36.600x338.jpg?t=1740033204",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_f356434b667dd6f5ff948a87d4d8486d29e31b36.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_4c0452c49441d29f962b9b5f15299edff26a5d0a.600x338.jpg?t=1740033204",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_4c0452c49441d29f962b9b5f15299edff26a5d0a.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_a2075d021825129e4b297d217f517cc8ea410d45.600x338.jpg?t=1740033204",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_a2075d021825129e4b297d217f517cc8ea410d45.1920x1080.jpg?t=1740033204"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_829139a0569f3a9f02786c7729800d9e4354814a.600x338.jpg?t=1740033204",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509960/ss_829139a0569f3a9f02786c7729800d9e4354814a.1920x1080.jpg?t=1740033204"
+    }
+  ],
+  "web": "http://picoparkgame.com/en/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 33027,
+  "youtube": [
+    {
+      "id": "i-IZA8bIYFA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:45:10.482Z"
+}
