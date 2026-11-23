@@ -124,4 +124,4 @@ En `config.json`, sección `afiliados`, completá el campo `id` de cada tienda (
 - `"modo": "param"`: el ID es un código corto que se agrega a la URL (`partner` en Humble, `gtag` en G2A, `r` en Kinguin, `af_id` en Eneba). Si tu panel de afiliado usa otro nombre de parámetro, cambialo en `param`.
 - `"modo": "prefijo"`: el ID es el **enlace profundo** que te da la red de afiliados, hasta el `u=` o `url=` final (por ejemplo `https://fanatical.pxf.io/c/123/456/789?u=`). Se le pega la dirección de la tienda. Lo usan Fanatical, Green Man Gaming (Impact) y GOG (CJ).
 
-Con ID, el botón lleva a la búsqueda del juego en esa tienda con tu código. Sin ID, el botón usa el enlace que da IsThereAnyDeal **sin tocarlo**: sus condiciones no permiten cambiar ni quitar los códigos de sus enlaces. Para sacar `activa: false` una tienda, agregá `"activa": false`.
+Con ID, el botón lleva a la búsqueda del juego en esa tienda con tu código. Sin ID, el botón usa el enlace que da IsThereAnyDeal **sin tocarlo**: sus condiciones no permiten cambiar ni quitar los códigos de sus enlaces. Para ocultar una tienda, agregale `"activa": false`.
