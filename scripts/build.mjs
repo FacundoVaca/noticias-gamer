@@ -107,15 +107,32 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
 
   // Notas
   // Después de un subtítulo de pasos ("Cómo solucionarlo", "Paso a paso", "Cómo hacer...") la lista va numerada
+  // Bloques de la nota. Las piezas del mismo tipo seguidas se agrupan: hitos -> cronología, datos -> "En números",
+  // pro/contra -> recuadro de a favor y en contra. Después de un subtítulo de pasos la lista va numerada.
   const cuerpoHTML = (bloques) => {
-    let html = "", enLista = "", parrafos = 0, pasos = false;
+    let html = "", parrafos = 0, pasos = false;
+    const grupos = [];
     for (const b of bloques) {
-      if (b.tipo === "li") { if (!enLista) { enLista = pasos ? "ol" : "ul"; html += pasos ? '<ol class="pasos">' : "<ul>"; } html += `<li>${e(b.texto)}</li>`; continue; }
-      if (enLista) { html += `</${enLista}>`; enLista = ""; }
-      if (b.tipo === "h2") { html += `<h2>${e(b.texto)}</h2>`; pasos = /soluci|arregl|paso|^c[oó]mo /i.test(b.texto); }
+      const k = b.tipo === "contra" ? "pro" : b.tipo;
+      const ult = grupos[grupos.length - 1];
+      if (ult && ult.k === k && ["li", "hito", "dato", "pro"].includes(k)) ult.items.push(b); else grupos.push({ k, items: [b] });
+    }
+    for (const { k, items } of grupos) {
+      const b = items[0];
+      if (k === "li") html += pasos ? `<ol class="pasos">${items.map((x) => `<li>${e(x.texto)}</li>`).join("")}</ol>` : `<ul>${items.map((x) => `<li>${e(x.texto)}</li>`).join("")}</ul>`;
+      else if (k === "h2") { html += `<h2>${e(b.texto)}</h2>`; pasos = /soluci|arregl|paso|^c[oó]mo /i.test(b.texto); }
+      else if (k === "hito") html += `<ol class="crono" aria-label="Cronología">${items.map((x) => `<li><span class="crono-f">${e(x.fecha || "")}</span><span>${e(x.texto)}</span></li>`).join("")}</ol>`;
+      else if (k === "dato") html += `<div class="numeros" role="list" aria-label="En números">${items.map((x) => `<div role="listitem"><strong>${e(x.valor || "")}</strong><span>${e(x.texto)}</span></div>`).join("")}</div>`;
+      else if (k === "pro") {
+        const pro = items.filter((x) => x.tipo === "pro"), contra = items.filter((x) => x.tipo === "contra");
+        html += `<div class="procon">${pro.length ? `<div class="pc-pro"><h3>A favor</h3><ul>${pro.map((x) => `<li>${e(x.texto)}</li>`).join("")}</ul></div>` : ""}${contra.length ? `<div class="pc-contra"><h3>En contra</h3><ul>${contra.map((x) => `<li>${e(x.texto)}</li>`).join("")}</ul></div>` : ""}</div>`;
+      }
+      else if (k === "cita") html += `<blockquote class="cita"><p>${e(b.texto)}</p>${b.autor ? `<cite>${e(b.autor)}</cite>` : ""}</blockquote>`;
+      else if (k === "contexto") html += `<aside class="contexto"><strong>Para entender</strong><p>${e(b.texto)}</p></aside>`;
+      else if (k === "tabla") html += `<div class="tabla-wrap"><table class="tabla-nota"><caption>${e(b.texto)}</caption><thead><tr>${(b.encabezados || []).map((c) => `<th>${e(c)}</th>`).join("")}</tr></thead><tbody>${(b.filas || []).map((f) => `<tr>${f.map((c) => `<td>${e(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
       else { html += `<p>${e(b.texto)}</p>`; if (++parrafos === 3) html += anuncio; }
     }
-    return html + (enLista ? `</${enLista}>` : "");
+    return html;
   };
   const FORMATO_TXT = { breve: "Último momento", rumor: "Rumor", guia: "Guía", analisis: "Análisis" };
   const CONF_TXT = { alta: "Confiabilidad alta", media: "Confiabilidad media", baja: "Confiabilidad baja" };

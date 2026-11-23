@@ -65,6 +65,35 @@ const candidatos = enriquecidos.filter((g) => !g.tema && (g.fuentes >= P.minFuen
 const seguimientos = enriquecidos.filter((g) => g.tema?.slug).sort((a, b) => b.puntaje - a.puntaje);
 log(`Temas nuevos: ${candidatos.length}. Posibles actualizaciones: ${seguimientos.length}. Repetidos sin notas nuevas: se omiten.`);
 
+// Estructura de una nota: secuencia de bloques con las repeticiones juntas (p p p -> p)
+const firmaDe = (cuerpo) => (cuerpo || []).map((b) => b.tipo).filter((t, i, a) => t !== a[i - 1]).join(" ");
+// Las últimas notas publicadas, para que Gemini no repita su forma y para el control de estructura parecida
+const recientes = fs.readdirSync(ruta("content", "notas")).filter((n) => n.endsWith(".json"))
+  .map((n) => leerJSON(ruta("content", "notas", n), null)).filter((n) => n?.estado === "publicada")
+  .sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 6);
+const recientesTxt = recientes.map((n, i) => `${i + 1}) ${n.formato || "estandar"}, empieza con ${n.apertura || "el hecho principal"}; bloques: ${firmaDe(n.cuerpo)}; subtítulos: ${n.cuerpo.filter((b) => b.tipo === "h2").map((b) => `"${b.texto}"`).join(", ") || "ninguno"}`).join("\n");
+const firmasRecientes = recientes.map((n) => firmaDe(n.cuerpo));
+const GENERICOS = /^(qu[eé] se sabe|por qu[eé] importa|qu[eé] significa para los jugadores|contexto|conclusi[oó]n|antecedentes)$/i;
+
+// Piezas opcionales: se dejan solo si sus datos están en las fuentes (si no, se quita la pieza, no la nota)
+function limpiarPiezas(n, fuentes) {
+  const texto = fuentes.map((f) => `${f.texto} ${f.resumen} ${f.titulo}`).join(" ");
+  const plano = texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const textoNum = texto.replace(/(\d)[.,\s](?=\d)/g, "$1");
+  const numeros = new Set(textoNum.match(/\d+/g) || []);
+  const enFuentes = (v) => (String(v || "").replace(/(\d)[.,\s](?=\d)/g, "$1").match(/\d+/g) || []).every((x) => numeros.has(x));
+  n.cuerpo = (n.cuerpo || []).filter((b) => {
+    if (b.tipo === "dato") return b.valor?.trim() && enFuentes(b.valor);
+    if (b.tipo === "hito") return b.fecha?.trim() && enFuentes(b.fecha);
+    if (b.tipo === "cita") { const a = String(b.autor || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().split(/[\s,]+/).filter((w) => w.length > 3); return a.length && a.some((w) => plano.includes(w)); }
+    if (b.tipo === "tabla") return (b.encabezados || []).length >= 2 && (b.filas || []).length >= 2 && b.filas.every((f) => (f.celdas || []).every(enFuentes));
+    return true;
+  });
+  // Una sola cifra o un solo hito no forman un bloque: pasan a ser un párrafo
+  n.cuerpo = n.cuerpo.map((b, i, a) => (b.tipo === "dato" || b.tipo === "hito") && a[i - 1]?.tipo !== b.tipo && a[i + 1]?.tipo !== b.tipo
+    ? { tipo: "p", texto: b.tipo === "dato" ? `${b.valor}: ${b.texto}` : `${b.fecha}: ${b.texto}` } : b);
+}
+
 // Largo mínimo según el formato: una breve de último momento no necesita 550 palabras
 const FORMATOS = ["breve", "estandar", "rumor", "guia", "analisis"];
 const minimoDe = (n) => ({ breve: 200, rumor: 380, guia: 420, analisis: 750 }[n.formato] ?? P.minPalabras);
@@ -115,12 +144,14 @@ for (const g of candidatos) {
     it.enlaces = pag.enlaces;
   }
   const fuenteTotal = g.unicos.map((it) => it.texto + " " + it.resumen).join("\n");
-  let nota, motivo = "";
+  let nota, motivo = "", pendiente = null;
   try {
     for (let vuelta = 0; vuelta < 2; vuelta++) {
-      const n = await redactarNota(g.unicos, cfg, motivo);
+      const n = await redactarNota(g.unicos, cfg, motivo, recientesTxt);
       if (!n.apta) { motivo = "no apta: " + (n.motivo || ""); nota = null; break; }
-      const plano = [n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)].join(" ");
+      limpiarPiezas(n, g.unicos);
+      // Las citas pueden ser textuales (traducidas): no cuentan para el control de copia
+      const plano = [n.titulo, n.bajada, ...n.cuerpo.filter((b) => b.tipo !== "cita").map((b) => b.texto)].join(" ");
       const palabras = contarPalabras(plano);
       const copia = copiaLiteral(plano, fuenteTotal);
       log(`  borrador: ${palabras} palabras, copia literal ${(copia * 100).toFixed(1)}%`);
@@ -129,6 +160,12 @@ for (const g of candidatos) {
       else if (!mayusculasOK([n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)])) motivo = "La versión anterior estaba escrita toda en minúsculas. Usá mayúsculas normales al inicio de cada oración y en los nombres propios.";
       else if (palabras < minimoDe(n)) motivo = `La nota anterior quedó corta (${palabras} palabras) para el formato ${n.formato || "estandar"}. Escribí al menos ${minimoDe(n) + 60} palabras con más contexto.`;
       else if (copia > P.maxCopiaLiteral) motivo = "La versión anterior copiaba frases textuales de las fuentes. Reescribí todo con tus propias palabras y otra estructura.";
+      // Control tolerante: solo frena una estructura idéntica a una nota reciente, y solo en el primer intento
+      else if (vuelta === 0 && firmaDe(n.cuerpo).split(" ").length >= 5 && (firmasRecientes.includes(firmaDe(n.cuerpo)) || n.cuerpo.filter((b) => b.tipo === "h2").filter((b) => GENERICOS.test(b.texto.trim())).length >= 2)) {
+        motivo = "La estructura quedó igual a la de notas recientes del sitio o con subtítulos genéricos. Reorganizá la nota con otra secuencia de bloques, subtítulos propios de esta noticia y otra forma de empezar; podés usar alguna pieza opcional si hay material.";
+        log(`  estructura repetida: ${firmaDe(n.cuerpo)}`);
+        pendiente = n;
+      }
       else { nota = n; break; }
       nota = null;
       await esperar(6000);
@@ -138,6 +175,8 @@ for (const g of candidatos) {
     if (e.status === 429 || /quota|RESOURCE_EXHAUSTED/i.test(e.message)) { log("Cuota de Gemini agotada por hoy; se sigue en la próxima corrida."); break; }
     continue;
   }
+  // Si la reescritura por estructura no pasó, se publica la primera versión (ya había pasado los demás controles)
+  if (!nota && pendiente) { nota = pendiente; log("  se usa la primera versión"); }
   marcarUsado(g);
   if (!nota) { log(`  Descartada (${motivo || "no pasó los controles"})`); continue; }
 
@@ -152,7 +191,15 @@ for (const g of candidatos) {
     slug, estado: P.modoRevision ? "pendiente" : "publicada", fecha, actualizada: fecha,
     titulo: capitalizar(nota.titulo.trim()), bajada: capitalizar(nota.bajada.trim()), categoria: nota.categoria,
     etiquetas: (nota.etiquetas || []).slice(0, 6), clave: (nota.clave || []).slice(0, 5).map(capitalizar),
-    cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()).map((b) => ({ ...b, texto: capitalizar(b.texto.trim()) })),
+    cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()).map((b) => {
+      const x = { tipo: b.tipo, texto: capitalizar(b.texto.trim()) };
+      if (b.tipo === "hito") x.fecha = capitalizar(b.fecha.trim());
+      if (b.tipo === "dato") x.valor = b.valor.trim();
+      if (b.tipo === "cita") x.autor = b.autor.trim();
+      if (b.tipo === "tabla") { x.encabezados = b.encabezados.map((c) => c.trim()); x.filas = b.filas.map((f) => f.celdas.map((c) => String(c).trim())); }
+      return x;
+    }),
+    apertura: nota.apertura || undefined,
     tipo: nota.tipo || "noticia",
     formato: nota.formato || "estandar",
     rumor: nota.formato === "rumor" && nota.rumor ? {
