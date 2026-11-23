@@ -1,9 +1,9 @@
 {
   "clave": "undead rise of the betrayed king",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7b19-70a5-8e98-a91e94cb60a2",
   "appid": "2711180",
@@ -33,6 +33,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "970610",
+      "nombre": "Undead: Rise of Betrayed King",
+      "apps": [
+        {
+          "appid": "2711180",
+          "nombre": "Undead: Rise of the Betrayed King"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2711180": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
   "descripcion": "An action RPG with realistic visuals where you play as a dragon hiding in the form of a barbarian, fighting the undead using magic, combat companions, and a deep progression system.",
   "generos": [
     "Rol",
@@ -119,11 +140,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -222,5 +245,13 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2711180/e54e9b921c3349ba4f0764846810fac340633b49/ss_e54e9b921c3349ba4f0764846810fac340633b49.1920x1080.jpg?t=1791238218"
     }
   ],
-  "consultado": "2026-11-22T22:25:05.494Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game contains fantasy violence and characters wearing revealing outfits. No sexual acts, no explicit nudity, and no depictions of sexual assault.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 278503,
+  "v": 7,
+  "consultado": "2026-11-23T04:20:22.834Z"
 }

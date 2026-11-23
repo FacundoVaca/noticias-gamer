@@ -1,9 +1,9 @@
 {
   "clave": "silent hill 2",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3e65-70f6-9951-190f0fa3502e",
   "appid": "2124490",
@@ -53,6 +53,78 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "921851",
+      "nombre": "SILENT HILL 2",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        }
+      ],
+      "usd": 32.99,
+      "antes": 32.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "921852",
+      "nombre": "SILENT HILL 2 - Digital Deluxe",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1412913",
+      "nombre": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        },
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 46.85,
+      "antes": 46.85,
+      "descuento": 0
+    },
+    {
+      "packageid": "1412918",
+      "nombre": "SILENT HILL 2 & SILENT HILL f Deluxe Dual Pack",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        },
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 52.53,
+      "antes": 52.53,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2124490": {
+      "usd": 32.99,
+      "gratis": false
+    },
+    "2947440": {
+      "usd": 32.99,
+      "gratis": false
+    }
+  },
   "descripcion": "«Me llamo... Maria», dice la mujer, sonriendo. Su rostro, su voz... Es igual que ella.",
   "generos": [
     "Acción",
@@ -60,6 +132,7 @@
   ],
   "lanzamientoTexto": "7 OCT 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "SILENT HILL 2",
   "acerca": [
     [
@@ -145,59 +218,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -313,5 +400,32 @@
     }
   ],
   "web": "https://www.konami.com/games/silenthill/2r/",
-  "consultado": "2026-11-22T22:25:41.289Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 222341,
+  "youtube": [
+    {
+      "id": "8qPdInnvMzg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VDO39mY2gq4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "ayKICAIUHkA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tSYNa7l1Bz4",
+      "nombre": "Accolades Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:20.695Z"
 }

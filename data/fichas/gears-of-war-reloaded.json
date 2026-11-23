@@ -2,7 +2,8 @@
   "clave": "gears of war reloaded",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0196a130-a332-7229-bedd-a9c2af8521da",
   "appid": "2523720",
@@ -46,12 +47,306 @@
       "url": "https://opencritic.com/game/18510/gears-of-war-reloaded"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "907055",
+      "nombre": "Gears of War: Reloaded",
+      "apps": [
+        {
+          "appid": "2523720",
+          "nombre": "Gears of War: Reloaded"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 27.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2523720": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "descripcion": "El icónico juego original, fielmente remasterizado.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "26 AGO 2025",
   "metacritic": null,
-  "recomendaciones": 4187,
-  "consultado": "2026-11-22T21:44:07.602Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Gears of War: Reloaded",
+  "acerca": [
+    [
+      "h",
+      "¿QUÉ ES GEARS OF WAR: RELOADED?"
+    ],
+    [
+      "p",
+      "Acaba con la amenaza Locust en el icónico juego de disparos en tercera persona original con el que empezó todo."
+    ],
+    [
+      "p",
+      "14 años después de la invasión de unos monstruos subterráneos despiadados, el planeta está en ruinas. Un recluso llamado Marcus Fenix, que una vez fue abandonado a su suerte, es liberado por su mejor amigo y ex compañero de escuadrón, Dominic Santiago. Superados en número y armamento, Marcus y Dom deben cooperar con los demás miembros del escuadrón Delta para derrotar la amenaza Locust y salvar a la humanidad de la extinción total."
+    ],
+    [
+      "p",
+      "Experimenta la legendaria historia en solitario o con un amigo en modo cooperativo en línea. Combate en Versus para experimentar los diferentes y emocionantes modos multijugador JcJ."
+    ],
+    [
+      "h",
+      "EL LANZAMIENTO DEFINITIVO"
+    ],
+    [
+      "p",
+      "Gears of War: Reloaded, el original remasterizado y desarrollado con Unreal Engine, es una versión remasterizada del primer Gears of War, que fue todo un éxito de ventas y que ahora hemos optimizado para la última generación de plataformas de juego."
+    ],
+    [
+      "p",
+      "Incluye todo: Gears of War: Reloaded cuenta con todo el contenido que se ha ido publicando desde la salida del título original, como un acto de la campaña de bonificación, mapas multijugador e incluso personajes y cosméticos sin ningún coste adicional."
+    ],
+    [
+      "p",
+      "Controles refinados: los recién llegados podrán escoger un diseño de control más moderno y simplificado, mientras que los más veteranos podrán volver a experimentar esa sensación clásica que tanto les gusta."
+    ],
+    [
+      "h",
+      "CREADO PARA LA HERMANDAD"
+    ],
+    [
+      "p",
+      "Campaña cooperativa: acaba con la amenaza Locust a través de la campaña en modo cooperativo en línea. Lucha con tu escuadrón en el modo multijugador Versus a un máximo de 120 FPS con una nitidez y fidelidad visual sin precedentes.*"
+    ],
+    [
+      "p",
+      "Juego multiplataforma: Gears of War: Reloaded admite el juego multiplataforma, lo que permite que tú y tus amigos forméis un pelotón sin importar el dispositivo que uséis para jugar.*"
+    ],
+    [
+      "p",
+      "Progreso multiplataforma: al pasarte de una plataforma a otra, conservarás tanto tu progreso en la campaña como tu progreso multijugador. Debes iniciar sesión con tu cuenta de Microsoft para utilizar el progreso multiplataforma.*"
+    ],
+    [
+      "h",
+      "OPTIMIZADO PARA PC Y DISPOSITIVOS PORTÁTILES"
+    ],
+    [
+      "p",
+      "Se ve genial en cualquier pantalla: ahora la icónica versión original se juega y se ve mejor que nunca, ya que cuenta con recursos en 4K con texturas, iluminación, sombras y reflejos remasterizados, compatibilidad con monitores ultraanchos, HDR y Dolby Vision, sonido envolvente 7.1, una frecuencia de actualización variable y un máximo de 144 FPS en modo multijugador.*"
+    ],
+    [
+      "p",
+      "Se ha optimizado para PC y consolas de mano: además de contar con impresionantes elementos gráficos remasterizados, Gears of War: Reloaded también presenta características propias de PC, como la compatibilidad con monitores ultraanchos, un modo de prueba, una frecuencia de actualización variable, compatibilidad con teclado y ratón, compatibilidad con FSR3.1 y DLSS3.5 Super Resolution, así como reasignación del mando."
+    ],
+    [
+      "p",
+      "*4K, HDR y 144 FPS: requiere un monitor que cumpla con las especificaciones."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Subtítulos disponibles",
+    "Chat de voz convertido a texto",
+    "Chat de texto convertido a voz",
+    "Alternativas de color",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows10 - 19H2"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 (Four-Core) or Intel i5 Skylake"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 480 / RX 5300 or Nvidia GeForce GTX 1650 / 1050 Ti or Intel(R) Arc(TM) A380"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows compatible audio device"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 – 22H2 Windows 11 - 24H2"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 (Six-Cores) or Intel i5 Coffee Lake"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 5600 or NVIDIA GeForce GTX 1070 / GTX 1660 Ti / RTX 2070 or Intel A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows compatible audio device"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/e6bef9bcc5a0df5ac35414f12d0163c1980dd0b2/ss_e6bef9bcc5a0df5ac35414f12d0163c1980dd0b2.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/e6bef9bcc5a0df5ac35414f12d0163c1980dd0b2/ss_e6bef9bcc5a0df5ac35414f12d0163c1980dd0b2.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/682b195f070e866bb5c203bf0694ce45d6f61ff1/ss_682b195f070e866bb5c203bf0694ce45d6f61ff1.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/682b195f070e866bb5c203bf0694ce45d6f61ff1/ss_682b195f070e866bb5c203bf0694ce45d6f61ff1.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/157a782d8a915d724f6ba6b700dd480fdf205025/ss_157a782d8a915d724f6ba6b700dd480fdf205025.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/157a782d8a915d724f6ba6b700dd480fdf205025/ss_157a782d8a915d724f6ba6b700dd480fdf205025.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/1a57636545c6b5019636c089aa060c0a311310fa/ss_1a57636545c6b5019636c089aa060c0a311310fa.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/1a57636545c6b5019636c089aa060c0a311310fa/ss_1a57636545c6b5019636c089aa060c0a311310fa.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/a65ec17b2a99a051a24165d3e9c76660c3ca60ba/ss_a65ec17b2a99a051a24165d3e9c76660c3ca60ba.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/a65ec17b2a99a051a24165d3e9c76660c3ca60ba/ss_a65ec17b2a99a051a24165d3e9c76660c3ca60ba.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/9da75cde31e0b6fea31d39d4eb0088fb2dfe4cd6/ss_9da75cde31e0b6fea31d39d4eb0088fb2dfe4cd6.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/9da75cde31e0b6fea31d39d4eb0088fb2dfe4cd6/ss_9da75cde31e0b6fea31d39d4eb0088fb2dfe4cd6.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/b21ae794fd14288dbe007f070ba85297a9cf4496/ss_b21ae794fd14288dbe007f070ba85297a9cf4496.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/b21ae794fd14288dbe007f070ba85297a9cf4496/ss_b21ae794fd14288dbe007f070ba85297a9cf4496.1920x1080.jpg?t=1757024702"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/96509d8098a99acee2ba2fb5eb74dc55d0ae3c62/ss_96509d8098a99acee2ba2fb5eb74dc55d0ae3c62.600x338.jpg?t=1757024702",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2523720/96509d8098a99acee2ba2fb5eb74dc55d0ae3c62/ss_96509d8098a99acee2ba2fb5eb74dc55d0ae3c62.1920x1080.jpg?t=1757024702"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Acts of violence and gore are present throughout combat between Humans and the Locust utilizing a wide range of weaponry both melee and ranged.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 342721,
+  "youtube": [
+    {
+      "id": "OXR3osSIxTo",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:20:55.042Z"
 }

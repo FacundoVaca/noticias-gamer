@@ -2,7 +2,8 @@
   "clave": "euro truck simulator 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-20cc-703a-963c-8dd3f93cb88b",
   "appid": "227300",
@@ -41,6 +42,311 @@
       "url": "https://metacritic.com/game/euro-truck-simulator-2/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "19007",
+      "nombre": "Euro Truck Simulator 2",
+      "apps": [
+        {
+          "appid": "227300",
+          "nombre": "Euro Truck Simulator 2"
+        }
+      ],
+      "usd": 2.64,
+      "antes": 10.59,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "227300": {
+      "usd": 2.64,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 108,
+  "dlcLista": [
+    {
+      "appid": "3809270",
+      "nombre": "Euro Truck Simulator 2 - Coaches",
+      "gratis": false,
+      "usd": 7.95,
+      "descuento": 0
+    },
+    {
+      "appid": "3796990",
+      "nombre": "Euro Truck Simulator 2 - Iceland",
+      "gratis": false,
+      "usd": 6.05,
+      "descuento": 0
+    },
+    {
+      "appid": "4400940",
+      "nombre": "Euro Truck Simulator 2 - Holland Style Tuning Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 0
+    },
+    {
+      "appid": "4348650",
+      "nombre": "Euro Truck Simulator 2 - Bobcat Cargo Pack",
+      "gratis": false,
+      "usd": 2.38,
+      "descuento": 10
+    },
+    {
+      "appid": "2780810",
+      "nombre": "Euro Truck Simulator 2 - Nordic Horizons",
+      "gratis": false,
+      "usd": 8.59,
+      "descuento": 10
+    },
+    {
+      "appid": "1456860",
+      "nombre": "Euro Truck Simulator 2 - Farm Machinery",
+      "gratis": false,
+      "usd": 2.38,
+      "descuento": 10
+    },
+    {
+      "appid": "4159240",
+      "nombre": "Euro Truck Simulator 2 - Forest Machinery",
+      "gratis": false,
+      "usd": 1.85,
+      "descuento": 30
+    },
+    {
+      "appid": "2604420",
+      "nombre": "Euro Truck Simulator 2 - Greece",
+      "gratis": false,
+      "usd": 4.47,
+      "descuento": 30
+    },
+    {
+      "appid": "3977520",
+      "nombre": "Euro Truck Simulator 2 - DAF XF Electric",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3335300",
+      "nombre": "Euro Truck Simulator 2 - Greek Mythology Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "3323360",
+      "nombre": "Euro Truck Simulator 2 - Volvo FH Series 6",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3354860",
+      "nombre": "Euro Truck Simulator 2 - Iveco S-Way",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3323350",
+      "nombre": "Euro Truck Simulator 2 - Volvo FH Series 5",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3034950",
+      "nombre": "Euro Truck Simulator 2 - Kässbohrer Trailer Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "933610",
+      "nombre": "Euro Truck Simulator 2 - Krone Trailer Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "3034940",
+      "nombre": "Euro Truck Simulator 2 - Kögel Trailer Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "2780800",
+      "nombre": "Euro Truck Simulator 2 - JCB Equipment Pack",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "3035040",
+      "nombre": "Euro Truck Simulator 2 - Scania S BEV",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2932420",
+      "nombre": "Euro Truck Simulator 2 - Renault Trucks E-Tech T",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2579670",
+      "nombre": "Euro Truck Simulator 2 - Modern Lines Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "1967650",
+      "nombre": "Euro Truck Simulator 2 - Street Art Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "1918370",
+      "nombre": "Euro Truck Simulator 2 - Ukrainian Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.47,
+      "descuento": 48
+    },
+    {
+      "appid": "1967640",
+      "nombre": "Euro Truck Simulator 2 - Renault Trucks T Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "1209460",
+      "nombre": "Euro Truck Simulator 2 - Iberia",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "1056760",
+      "nombre": "Euro Truck Simulator 2 - Road to the Black Sea",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "925580",
+      "nombre": "Euro Truck Simulator 2 - Beyond the Baltic Sea",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "558244",
+      "nombre": "Euro Truck Simulator 2 - Italia",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "531130",
+      "nombre": "Euro Truck Simulator 2 - Vive la France !",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "304212",
+      "nombre": "Euro Truck Simulator 2 - Scandinavia",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "227310",
+      "nombre": "Euro Truck Simulator 2 - Going East!",
+      "gratis": false,
+      "usd": 2.64,
+      "descuento": 50
+    },
+    {
+      "appid": "558245",
+      "nombre": "Euro Truck Simulator 2 - Special Transport",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "1704460",
+      "nombre": "Euro Truck Simulator 2 - Volvo Construction Equipment",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "531131",
+      "nombre": "Euro Truck Simulator 2 - Heavy Cargo Pack",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "304214",
+      "nombre": "Euro Truck Simulator 2 - High Power Cargo Pack",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "1056761",
+      "nombre": "Euro Truck Simulator 2 - Actros Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "461244",
+      "nombre": "Euro Truck Simulator 2 - Mighty Griffin Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "1299530",
+      "nombre": "Euro Truck Simulator 2 - FH Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "461249",
+      "nombre": "Euro Truck Simulator 2 - XF Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "388477",
+      "nombre": "Euro Truck Simulator 2 - Schwarzmüller Trailer Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "1117140",
+      "nombre": "Euro Truck Simulator 2 - Goodyear Tyres Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
   "generos": [
     "Indie",
@@ -51,6 +357,339 @@
     "puntaje": 79,
     "url": "https://www.metacritic.com/game/pc/euro-truck-simulator-2?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 797852,
-  "consultado": "2026-11-22T21:46:29.258Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Euro Truck Simulator 2",
+  "acerca": [
+    [
+      "p",
+      "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If you’ve got what it takes to be part of an elite trucking force, get behind the wheel and prove it!"
+    ],
+    [
+      "h",
+      "Key Features:"
+    ],
+    [
+      "p",
+      "Transport a vast variety of cargo across more than 60 European cities."
+    ],
+    [
+      "p",
+      "Run your own business which continues to grow even as you complete your freight deliveries."
+    ],
+    [
+      "p",
+      "Build your own fleet of trucks, buy garages, hire drivers, manage your company for maximum profits."
+    ],
+    [
+      "p",
+      "A varied amount of truck tuning that range from performance to cosmetic changes."
+    ],
+    [
+      "p",
+      "Customize your vehicles with optional lights, bars, horns, beacons, smoke exhausts, and more."
+    ],
+    [
+      "p",
+      "Thousands of miles of real road networks with hundreds of famous landmarks and structures."
+    ],
+    [
+      "p",
+      "Play, deliver and chat online together with your friends in the Convoy multiplayer mode!"
+    ],
+    [
+      "h",
+      "World of Trucks:"
+    ],
+    [
+      "p",
+      "Take advantage of additional features of Euro Truck Simulator 2 by joining our online community on World of Trucks, our center for virtual truckers all around the world interested in Euro Truck Simulator 2 and future SCS Software's truck simulators."
+    ],
+    [
+      "p",
+      "Use in-game Photo Mode to capture the best moments and share them with thousands of people who love trucks."
+    ],
+    [
+      "p",
+      "Favorite the images you like the most and return to them anytime in the future."
+    ],
+    [
+      "p",
+      "Discuss the screenshots with everyone using World of Trucks."
+    ],
+    [
+      "p",
+      "See the best images hand-picked by the game creators in Editor's Pick updated almost every day. Try to get your own screenshot on this list!"
+    ],
+    [
+      "p",
+      "Upload and use your custom avatar and license plate in the game."
+    ],
+    [
+      "p",
+      "World of Trucks is an optional service, registration on World of Trucks isn't required to play the game."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Compatible con Steam Input"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Catalán",
+      "voces": false
+    },
+    {
+      "nombre": "Lituano",
+      "voces": false
+    },
+    {
+      "nombre": "Serbio",
+      "voces": false
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    },
+    {
+      "nombre": "Esloveno",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-6400 or AMD Ryzen 3 1200 or similar"
+      ],
+      [
+        "Memory",
+        "8 GB RAM"
+      ],
+      [
+        "Graphics",
+        "NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)"
+      ],
+      [
+        "Hard Drive",
+        "25 GB available space (Euro Truck Simulator 2 base game)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "OS",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-9600 or AMD Ryzen 5 3600 or similar"
+      ],
+      [
+        "Memory",
+        "12 GB RAM"
+      ],
+      [
+        "Graphics",
+        "NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM)"
+      ],
+      [
+        "Hard Drive",
+        "25 GB available space (Euro Truck Simulator 2 base game)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/a944c7f801629bfa0cfb91fa7b23b4ff95e11753/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/a944c7f801629bfa0cfb91fa7b23b4ff95e11753/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5dff1bca6580b5df288a4ad061e4f92f62f6a073/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5dff1bca6580b5df288a4ad061e4f92f62f6a073/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e76e3816ced57f87dd198b00caa55e7e8eab490e/ss_e76e3816ced57f87dd198b00caa55e7e8eab490e.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e76e3816ced57f87dd198b00caa55e7e8eab490e/ss_e76e3816ced57f87dd198b00caa55e7e8eab490e.1920x1080.jpg?t=1794502925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5f10a971137a5375cf8a4402dec2f9befbb84ddd/ss_5f10a971137a5375cf8a4402dec2f9befbb84ddd.600x338.jpg?t=1794502925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5f10a971137a5375cf8a4402dec2f9befbb84ddd/ss_5f10a971137a5375cf8a4402dec2f9befbb84ddd.1920x1080.jpg?t=1794502925"
+    }
+  ],
+  "web": "https://eurotrucksimulator2.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 3070,
+  "youtube": [
+    {
+      "id": "5uvwfskYwl0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cglbQh54PqI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:35.365Z"
 }

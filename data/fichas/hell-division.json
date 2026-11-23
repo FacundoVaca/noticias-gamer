@@ -1,9 +1,9 @@
 {
   "clave": "hell division",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6107-7374-9b4c-f6343e5fd667",
   "appid": "2004360",
@@ -32,6 +32,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "723651",
+      "nombre": "Hell Division",
+      "apps": [
+        {
+          "appid": "2004360",
+          "nombre": "Hell Division"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 10.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2004360": {
+      "usd": 10.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Hell Division es un shooter dinámico en tercera persona donde controlas un dron de combate en un mundo de alta tecnología. Participa en intensas batallas aéreas, utiliza distintos tipos de armas y derrota enemigos en escenarios futuristas.",
   "generos": [
     "Acción",
@@ -125,51 +146,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -265,5 +298,17 @@
     }
   ],
   "web": "https://store.steampowered.com/app/395570/_We_Are_The_Dwarves/",
-  "consultado": "2026-11-22T22:25:39.135Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 203683,
+  "youtube": [
+    {
+      "id": "GW-sDkX3szA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:05.765Z"
 }

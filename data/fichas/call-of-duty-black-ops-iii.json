@@ -2,7 +2,8 @@
   "clave": "call of duty black ops iii",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea27-712b-b589-66a2265d60d9",
   "appid": "311210",
@@ -48,6 +49,110 @@
       "url": "https://opencritic.com/game/1514/call-of-duty-black-ops-iii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "113192",
+      "nombre": "Call of Duty: Black Ops III - Zombies Chronicles Edition (SA)",
+      "apps": [
+        {
+          "appid": "311210",
+          "nombre": "Call of Duty®: Black Ops III"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 59.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "202586",
+      "nombre": "Call of Duty: Black Ops III - Zombies Deluxe (SA)",
+      "apps": [
+        {
+          "appid": "311210",
+          "nombre": "Call of Duty®: Black Ops III"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 99.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "84215",
+      "nombre": "Call of Duty: Black Ops III - Multiplayer Starter Pack",
+      "apps": [
+        {
+          "appid": "437350",
+          "nombre": "Call of Duty: Black Ops III - Multiplayer Starter Pack"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "311210": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "437350": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "581450",
+      "nombre": "Call of Duty®: Black Ops III - Zombies Chronicles",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "366843",
+      "nombre": "Call of Duty®: Black Ops III - Season Pass",
+      "gratis": false,
+      "usd": 24.99,
+      "descuento": 50
+    },
+    {
+      "appid": "366849",
+      "nombre": "Call of Duty®: Black Ops III - The Giant Zombies Map",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "830450",
+      "nombre": "Call of Duty®: Black Ops III - Der Eisendrache Zombies Map",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "830451",
+      "nombre": "Call of Duty®: Black Ops III - Zetsubou No Shima Zombies Map",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "830460",
+      "nombre": "Call of Duty®: Black Ops III - Gorod Krovi Zombies Map",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "830461",
+      "nombre": "Call of Duty®: Black Ops III - Revelations Zombies Map",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Call of Duty® Black Ops III: Zombies Chronicles Edition incluye el juego original completo y la expansión de contenido Zombies Chronicles.",
   "generos": [
     "Acción",
@@ -58,6 +163,193 @@
     "puntaje": 73,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops-iii?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 159330,
-  "consultado": "2026-11-22T21:47:04.573Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Call of Duty®: Black Ops III",
+  "acerca": [
+    [
+      "p",
+      "Call of Duty® Black Ops III: Zombies Chronicles Edition incluye el juego original completo y la expansión de contenido Zombies Chronicles."
+    ],
+    [
+      "p",
+      "Call of Duty: Black Ops III combina tres modos de juego únicos: campaña, multijugador y Zombis para proporcionar a los fans la experiencia Call of Duty más profunda y ambiciosa hasta la fecha."
+    ],
+    [
+      "p",
+      "La expansión de contenido Zombies Chronicles incluye 8 mapas clásicos de Zombis remasterizados de Call of Duty®: World at War, Call of Duty®: Black Ops y Call of Duty®: Black Ops II. Mapas completos de la saga original totalmente remasterizados en alta definición para jugar en Call of Duty®: Black Ops III."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Con sist. antitrampas de Valve",
+    "Tablas de clasificación de Steam",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 64-Bit / Windows 8 64-Bit / Windows 8.1 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i3-530 @ 2.93 GHz / AMD Phenom™ II X4 810 @ 2.60 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_ca7376d838d5714f916936f0070824c27c4c5641.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_ca7376d838d5714f916936f0070824c27c4c5641.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_150874824f4fff0915e63ea2ade5410e576a2b70.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_150874824f4fff0915e63ea2ade5410e576a2b70.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_4b270e7a32d3a93a8119e7bcc3d8dcaa784f84f1.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_4b270e7a32d3a93a8119e7bcc3d8dcaa784f84f1.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_c4f8101a3529e2e430641af1e061926b1f57e4e7.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_c4f8101a3529e2e430641af1e061926b1f57e4e7.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_5f7f870196c956da97f37b066310e963643a63a8.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_5f7f870196c956da97f37b066310e963643a63a8.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_3a84113daacead987f549fbc3bd95fa9e66a833b.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_3a84113daacead987f549fbc3bd95fa9e66a833b.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_dfcf315c0c02ae7b62b47306c4b9ae774c2b14d0.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_dfcf315c0c02ae7b62b47306c4b9ae774c2b14d0.1920x1080.jpg?t=1780963650"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_44b153c469da3d79a03221e11b51c59807f3b6e7.600x338.jpg?t=1780963650",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/ss_44b153c469da3d79a03221e11b51c59807f3b6e7.1920x1080.jpg?t=1780963650"
+    }
+  ],
+  "web": "https://www.callofduty.com/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 9509,
+  "youtube": [
+    {
+      "id": "3fQhDon2bVI",
+      "nombre": "Gameplay Launch Trailer"
+    },
+    {
+      "id": "_Y5VepXzMPs",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "GM2m9LG35N0",
+      "nombre": "E3 2015 Multiplayer Reveal Trailer"
+    },
+    {
+      "id": "75CWhg8oBNA",
+      "nombre": "Back in Black Maps Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:14.180Z"
 }

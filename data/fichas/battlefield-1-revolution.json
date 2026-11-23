@@ -1,9 +1,9 @@
 {
   "clave": "battlefield 1 revolution",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2ee6-704c-8a25-f9606ccdf59a",
   "appid": "1238840",
@@ -36,62 +36,76 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432909",
+      "nombre": "Battlefield™ 1 Revolution",
+      "apps": [
+        {
+          "appid": "1238840",
+          "nombre": "Battlefield™ 1"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 39.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238840": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 7,
   "dlcLista": [
     {
       "appid": "1238851",
       "nombre": "Kit de atajos de Battlefield 1 ™: lote definitivo",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": "$39.99",
+      "usd": 9.99,
       "descuento": 75
     },
     {
       "appid": "1314765",
       "nombre": "Battlefield 1 Shortcut Kit: Vehicle Bundle",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "1314764",
       "nombre": "Battlefield 1 Shortcut Kit: Infantry Bundle",
       "gratis": false,
-      "precio": "$29.99",
-      "antes": null,
+      "usd": 29.99,
       "descuento": 0
     },
     {
       "appid": "1314763",
       "nombre": "Battlefield 1 Shortcut Kit: Scout Bundle",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "1314762",
       "nombre": "Battlefield 1 Shortcut Kit: Medic Bundle",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "1314760",
       "nombre": "Battlefield 1 Shortcut Kit: Assault Bundle",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "1314761",
       "nombre": "Battlefield 1 Shortcut Kit: Support Bundle",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     }
   ],
@@ -102,6 +116,7 @@
   ],
   "lanzamientoTexto": "11 JUN 2020",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Battlefield™ 1",
   "acerca": [
     [
@@ -138,55 +153,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -294,5 +322,19 @@
     }
   ],
   "web": "https://www.ea.com/games/battlefield/battlefield-1",
-  "consultado": "2026-11-22T22:25:45.839Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 94085,
+  "youtube": [
+    {
+      "id": "e2jerZDvtG8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:38.502Z"
 }

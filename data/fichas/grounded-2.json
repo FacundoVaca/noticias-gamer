@@ -2,7 +2,8 @@
   "clave": "grounded 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019750b4-cb3d-7291-80b2-e93486d2b328",
   "appid": "2661300",
@@ -35,6 +36,45 @@
       "url": "https://opencritic.com/game/18998/grounded-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1341960",
+      "nombre": "Grounded 2",
+      "apps": [
+        {
+          "appid": "2661300",
+          "nombre": "Grounded 2"
+        }
+      ],
+      "usd": 16.79,
+      "antes": 20.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2661300": {
+      "usd": 16.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3784940",
+      "nombre": "Grounded 2 Digital Artbook & Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3788090",
+      "nombre": "Grounded 2: Founder’s Pack",
+      "gratis": false,
+      "usd": 5.6,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Hace dos años, encogiste al tamaño de una hormiga. Ahora, ha vuelto a ocurrir, pero ya nada es igual...",
   "generos": [
     "Acción",
@@ -43,6 +83,256 @@
   ],
   "lanzamientoTexto": "29 JUL 2025",
   "metacritic": null,
-  "recomendaciones": 22607,
-  "consultado": "2026-11-22T21:44:58.015Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Grounded 2",
+  "acerca": [
+    [
+      "p",
+      "Cuando te vuelves del tamaño de una hormiga, lo que conocías bien se convierte en territorio salvaje e inexplorado. Recorre inmensos espacios artificiales cubiertos de vegetación con bichacos que pueden luchar a tu lado, desvela secretos ocultos y lucha por sobrevivir en un mundo mucho más grande que tu jardín. Aunque el parque de juegos te resulte familiar, bajo sus vivos colores y sus gigantescas estructuras se ocultan misterios a plena luz del día. ¿Te crees capaz de desvelarlos?"
+    ],
+    [
+      "p",
+      "Sobrevive, adáptate, triunfa"
+    ],
+    [
+      "p",
+      "Este mundo es implacable, pero tú también. Diseña tu aventura con arquetipos únicos, cada uno dotado de habilidades características para ajustarse a tu estilo de juego. Ya sea lo tuyo la precisión, la astucia o la fuerza bruta, te hará falta cualquier ventaja de que dispongas para sobrevivir a los peligros que acechan en el parque."
+    ],
+    [
+      "p",
+      "Más fuertes en equipo"
+    ],
+    [
+      "p",
+      "Los peligros del parque ya intimidan cuando vas a solas, pero jugando en compañía, cada desafío se convierte en una aventura. Trabajad codo con codo para desvelar los secretos ocultos bajo la hierba. Tanto si os enfrentáis al peligro en paralelo como si continuáis la aventura en un mundo compartido, la supervivencia siempre es mejor con aliados."
+    ],
+    [
+      "p",
+      "¿Caminar? Anda ya - Presentamos los bichacos"
+    ],
+    [
+      "p",
+      "Corretean, pelean y ahora te ayudan a sobrevivir. Empolla, cría y monta a tus propios amigos insectos, los bichacos. Súbete a ellos y cabalga por todo el parque, empléalos durante el combate o haz que te ayuden a reunir recursos. Escoger bien tu acompañante puede suponer la diferencia entre triunfar o sobrevivir a duras penas."
+    ],
+    [
+      "p",
+      "Los malotes del parque"
+    ],
+    [
+      "p",
+      "El parque alberga a otras criaturas aparte de los bichos que ya conoces y adoras. AXL, la tarántula, y el lagarto son superdepredadores, y para enfrentarte a ellos necesitarás preparación, estrategia y coraje. La serpiente plantea un reto distinto. Para superarlo, tendrás que aprenderte sus rutinas de combate, montarla y cosechar sus escamas. Y no nos olvidemos del pájaro. De cada encuentro saldrás más fuerte. Hazte con materiales raros, crea potentes objetos y desbloquea mejoras que te hagan avanzar más aún en un mundo creado para abrumarte."
+    ],
+    [
+      "p",
+      "Parques de juegos"
+    ],
+    [
+      "p",
+      "La supervivencia no es más que el principio. Con los parques de juegos puedes crear tus propios desafíos empleando potentes herramientas para diseñar combates, rompecabezas y encuentros impredecibles. Descarga, juega y vota las creaciones de la comunidad para dar con modos nuevos de poner a prueba tus habilidades. El parque ya no es solo un sitio donde sobrevivir. Es un lugar para crear."
+    ],
+    [
+      "p",
+      "Hogar, dulce hogar"
+    ],
+    [
+      "p",
+      "El parque es todo tuyo. Construye desde un simple refugio hasta una enorme fortaleza para protegerte de los peligros del exterior. Pero no te limites a tierra firme. Crea bases totalmente subacuáticas para poder hacer expediciones largas, adéntrate en las profundidades y haz de cada rincón del parque un pequeño hogar acogedor."
+    ],
+    [
+      "p",
+      "Una sombra que te sigue"
+    ],
+    [
+      "p",
+      "La amenaza está siempre ahí: observando, aprendiendo y esperando. No sabes de dónde vendrá, solo que nunca se marcha. Cuanto más te adentres, más cerca estará de ti. Algunos misterios es mejor no desenterrarlos, pero ya es tarde. Ahora sabe que andas buscando. Y está esperando. Cada respuesta que encuentras te arrastra más abajo, cada paso que das hace que se acerque más. Nunca estuviste a solas. Pensabas que tenías el control. Te equivocabas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "Compatible con Steam Input",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 with updates"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600 / Intel i5-8400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 with updates"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600X / Intel i7-10700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 6800 XT / Nvidia RTX 3080"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/754d15aea493d510133632a94cd2887c8a0d6fae/ss_754d15aea493d510133632a94cd2887c8a0d6fae.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/754d15aea493d510133632a94cd2887c8a0d6fae/ss_754d15aea493d510133632a94cd2887c8a0d6fae.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/e329a4982c8b09c739624c7258aa274215e41e44/ss_e329a4982c8b09c739624c7258aa274215e41e44.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/e329a4982c8b09c739624c7258aa274215e41e44/ss_e329a4982c8b09c739624c7258aa274215e41e44.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/10ad0421b3333ca4c2fb030d5960042ef135f3e5/ss_10ad0421b3333ca4c2fb030d5960042ef135f3e5.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/10ad0421b3333ca4c2fb030d5960042ef135f3e5/ss_10ad0421b3333ca4c2fb030d5960042ef135f3e5.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/383d7337caa500f18610e76d492fa3427c294184/ss_383d7337caa500f18610e76d492fa3427c294184.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/383d7337caa500f18610e76d492fa3427c294184/ss_383d7337caa500f18610e76d492fa3427c294184.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/8e7639c3c32a6ed7f5052633c6045117ac3283cc/ss_8e7639c3c32a6ed7f5052633c6045117ac3283cc.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/8e7639c3c32a6ed7f5052633c6045117ac3283cc/ss_8e7639c3c32a6ed7f5052633c6045117ac3283cc.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6f4c236dd7971bdd969fa22d6fe3352fe9d84285/ss_6f4c236dd7971bdd969fa22d6fe3352fe9d84285.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/6f4c236dd7971bdd969fa22d6fe3352fe9d84285/ss_6f4c236dd7971bdd969fa22d6fe3352fe9d84285.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7a8fbba43e7ca616584f5676d864d02ed15930db/ss_7a8fbba43e7ca616584f5676d864d02ed15930db.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/7a8fbba43e7ca616584f5676d864d02ed15930db/ss_7a8fbba43e7ca616584f5676d864d02ed15930db.1920x1080.jpg?t=1792539149"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b4be8b8011524a4ee3219c8ff56e89b6750b86d8/ss_b4be8b8011524a4ee3219c8ff56e89b6750b86d8.600x338.jpg?t=1792539149",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b4be8b8011524a4ee3219c8ff56e89b6750b86d8/ss_b4be8b8011524a4ee3219c8ff56e89b6750b86d8.1920x1080.jpg?t=1792539149"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 348187,
+  "youtube": [
+    {
+      "id": "jHJ1V4CePiI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cniCNwRt-qI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5Yq9nmIXaDs",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "wj3dJD9nSq8",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:55.112Z"
 }

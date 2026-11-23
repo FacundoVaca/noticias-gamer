@@ -1,9 +1,9 @@
 {
   "clave": "battlefield hardline ultimate edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-20cd-724e-850f-eb8214455fe8",
   "appid": "1238880",
@@ -30,14 +30,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432911",
+      "nombre": "Battlefield Hardline Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1238880",
+          "nombre": "Battlefield™ Hardline Edición Ultimate"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 39.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238880": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "1238891",
       "nombre": "Battlefield™ Hardline Ultimate Shortcut Unlock",
       "gratis": false,
-      "precio": "$12.49",
-      "antes": "$49.99",
+      "usd": 12.49,
       "descuento": 75
     }
   ],
@@ -50,6 +70,7 @@
     "puntaje": 71,
     "url": "https://www.metacritic.com/game/pc/battlefield-hardline?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Battlefield™ Hardline Edición Ultimate",
   "acerca": [
     [
@@ -85,51 +106,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -221,5 +254,13 @@
     }
   ],
   "web": "https://www.ea.com/games/battlefield/battlefield-hardline",
-  "consultado": "2026-11-22T22:25:43.579Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 52638,
+  "v": 7,
+  "consultado": "2026-11-23T04:24:32.763Z"
 }

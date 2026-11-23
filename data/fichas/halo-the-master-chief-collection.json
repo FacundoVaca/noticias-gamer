@@ -1,9 +1,9 @@
 {
   "clave": "halo the master chief collection",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1155-7183-9b7b-f4f3f65b7b11",
   "appid": "976730",
@@ -49,12 +49,128 @@
       "url": "https://opencritic.com/game/838/halo-the-master-chief-collection"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "376282",
+      "nombre": "Halo: The Master Chief Collection",
+      "apps": [
+        {
+          "appid": "1064270",
+          "nombre": "Halo 2: Anniversary"
+        },
+        {
+          "appid": "1064271",
+          "nombre": "Halo 3"
+        },
+        {
+          "appid": "1064272",
+          "nombre": "Halo 3: ODST"
+        },
+        {
+          "appid": "1064273",
+          "nombre": "Halo 4"
+        },
+        {
+          "appid": "1064221",
+          "nombre": "Halo: Combat Evolved Anniversary"
+        },
+        {
+          "appid": "1064220",
+          "nombre": "Halo: Reach"
+        },
+        {
+          "appid": "976730",
+          "nombre": "Halo: The Master Chief Collection"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 39.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "976730": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "1064220": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "1064221": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "1064270": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "1064271": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "1064272": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "1064273": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "1064220",
+      "nombre": "Halo: Reach",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1064221",
+      "nombre": "Halo: Combat Evolved Anniversary",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1064270",
+      "nombre": "Halo 2: Anniversary",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1064271",
+      "nombre": "Halo 3",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1064272",
+      "nombre": "Halo 3: ODST",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 75
+    },
+    {
+      "appid": "1064273",
+      "nombre": "Halo 4",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    }
+  ],
   "descripcion": "El emblemático viaje del Jefe Maestro incluye seis juegos creados para PC y recopilados en una sola experiencia. Ya seas un seguidor de toda la vida o descubras al Spartan 117 por primera vez, la colección Jefe Maestro te resultará la experiencia de juego definitiva de Halo.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "3 DIC 2019",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Halo: The Master Chief Collection",
   "acerca": [
     [
@@ -105,51 +221,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -229,5 +357,32 @@
     }
   ],
   "web": "https://www.halowaypoint.com/halo-the-master-chief-collection",
-  "consultado": "2026-11-22T22:02:37.886Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "FPS with frequent violence and blood with some mature language.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7348,
+  "youtube": [
+    {
+      "id": "ZDvYJGquXgE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mafgqiq8_Ik",
+      "nombre": "Halo 2 Cinematic Trailer"
+    },
+    {
+      "id": "BPNkDfampKY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Mui5LuTQReg",
+      "nombre": "E3 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:19.896Z"
 }

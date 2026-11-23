@@ -1,9 +1,9 @@
 {
   "clave": "suicide squad kill the justice league digital deluxe edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7893-707b-b472-2d91084adb3c",
   "appid": "315210",
@@ -31,12 +31,58 @@
       "url": "https://store.steampowered.com/app/315210/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "977021",
+      "nombre": "Suicide Squad: Kill the Justice League",
+      "apps": [
+        {
+          "appid": "315210",
+          "nombre": "Suicide Squad: Kill the Justice League"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 44.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "977022",
+      "nombre": "Suicide Squad: Kill the Justice League - Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "315210",
+          "nombre": "Suicide Squad: Kill the Justice League"
+        }
+      ],
+      "usd": 74.99,
+      "antes": 74.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "315210": {
+      "usd": 44.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2716350",
+      "nombre": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition Upgrade",
+      "gratis": false,
+      "usd": 25.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "De los creadores de Batman: Arkham, llega Suicide Squad: Kill the Justice League, un innovador shooter de acción en tercera persona en el que la panda de inadaptados definitiva tiene que hacer lo imposible: matar a la Liga de la Justicia.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "2 FEB 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Suicide Squad: Kill the Justice League",
   "acerca": [
     [
@@ -75,55 +121,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -202,5 +261,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315210/ss_a311fcf871d3c1230e95ecfa59e8c8117163d4b6.1920x1080.jpg?t=1777940046"
     }
   ],
-  "consultado": "2026-11-22T22:18:11.629Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 136627,
+  "youtube": [
+    {
+      "id": "FlwgE8YrDqg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "zBczhEOp-m0",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "72RyZMzcIB0",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "BeTHRiOTkzQ",
+      "nombre": "Pre-Order Bonuses Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:42.181Z"
 }

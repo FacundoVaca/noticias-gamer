@@ -2,7 +2,8 @@
   "clave": "final fantasy vii remake intergrade",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5b12-7380-a77e-8754efb603d0",
   "appid": "1462040",
@@ -47,6 +48,66 @@
       "url": "https://opencritic.com/game/11370/final-fantasy-vii-remake-intergrade"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "514802",
+      "nombre": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "apps": [
+        {
+          "appid": "1462040",
+          "nombre": "FINAL FANTASY VII REMAKE INTERGRADE"
+        }
+      ],
+      "usd": 5.75,
+      "antes": 31.99,
+      "descuento": 82
+    }
+  ],
+  "sueltos": {
+    "1462040": {
+      "usd": 5.75,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "3365650",
+      "nombre": "FINAL FANTASY VII REMAKE Original Soundtrack",
+      "gratis": false,
+      "usd": 16.16,
+      "descuento": 10
+    },
+    {
+      "appid": "3365670",
+      "nombre": "FINAL FANTASY VII REMAKE Original Soundtrack Plus",
+      "gratis": false,
+      "usd": 10.78,
+      "descuento": 10
+    },
+    {
+      "appid": "3365690",
+      "nombre": "FINAL FANTASY VII REMAKE INTERGRADE Original Soundtrack",
+      "gratis": false,
+      "usd": 8.36,
+      "descuento": 10
+    },
+    {
+      "appid": "4267260",
+      "nombre": "FINAL FANTASY VII REMAKE Orchestral Arrangement Album",
+      "gratis": false,
+      "usd": 6.81,
+      "descuento": 10
+    },
+    {
+      "appid": "4267470",
+      "nombre": "FINAL FANTASY VII REMAKE ACOUSTIC ARRANGEMENTS",
+      "gratis": false,
+      "usd": 6.51,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Cloud Strife, exmiembro de Soldado, se adentra en la ciudad del mako, Midgar. El mundo del clásico juego FINAL FANTASY VII renace con gráficos de última generación, un nuevo sistema de combates y una aventura adicional con Yuffie Kirasagi como protagonista.",
   "generos": [
     "Acción",
@@ -55,6 +116,307 @@
   ],
   "lanzamientoTexto": "17 JUN 2022",
   "metacritic": null,
-  "recomendaciones": 46123,
-  "consultado": "2026-11-22T21:46:53.651Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "FINAL FANTASY VII REMAKE INTERGRADE",
+  "acerca": [
+    [
+      "p",
+      "FINAL FANTASY VII REMAKE es una atrevida reconstrucción del videojuego FINAL FANTASY VII, que fue lanzado en 1997, y se ha desarrollado obedeciendo a la visión de los desarrolladores principales del original."
+    ],
+    [
+      "p",
+      "Este juego aclamado por la crítica combina el combate tradicional por turnos con la acción en tiempo real, y se ofrece ahora por primera vez en Steam junto con FF7R EPISODE INTERmission, una nueva historia con Yuffie Kisaragi como protagonista."
+    ],
+    [
+      "p",
+      "HISTORIA"
+    ],
+    [
+      "p",
+      "Mediante sus reactores succionadores de mako, la savia del planeta, la Compañía de Electricidad y Energía Shinra prácticamente se ha apoderado del mundo. Solo un grupo de idealistas conocido como Avalancha opone resistencia a su dominio."
+    ],
+    [
+      "p",
+      "Cloud, un Soldado de élite convertido en mercenario, participa en una operación de Avalancha cuyo fin es la destrucción del reactor de mako n.º 1 de Midgar."
+    ],
+    [
+      "p",
+      "La explosión convierte la ciudad en un infierno, y Cloud sufre alucinaciones de su archienemigo, a quien creía muerto."
+    ],
+    [
+      "p",
+      "Así comienza, una vez más, la historia que definirá el destino de todo un mundo."
+    ],
+    [
+      "p",
+      "* Este juego es un remake de FINAL FANTASY VII, lanzado a la venta por primera vez en 1997."
+    ],
+    [
+      "p",
+      "Es el primer título de una serie de juegos basados en la historia del juego original, y comprende los eventos hasta la huida de Midgar, incluyéndose además elementos adicionales."
+    ],
+    [
+      "p",
+      "FF7R EPISODE INTERmission (nuevo episodio de Yuffie Kisaragi)"
+    ],
+    [
+      "p",
+      "FF7R EPISODE INTERmission es una nueva aventura en el mundo de FINAL FANTASY VII REMAKE INTERGRADE. Juega como Yuffie Kisaragi, una ninja de Wutai que se infiltra en Midgar y conspira con la célula principal de Avalancha para robar la materia suprema del edificio de Shinra."
+    ],
+    [
+      "p",
+      "Contenido incluido en este producto"
+    ],
+    [
+      "p",
+      "FINAL FANTASY VII REMAKE INTERGRADE incluye el siguiente contenido:"
+    ],
+    [
+      "p",
+      "- Juego completo de FINAL FANTASY VII REMAKE"
+    ],
+    [
+      "p",
+      "- DLC (contenido descargable) de FF7R EPISODE INTERmission (nuevo episodio de Yuffie Kisaragi)"
+    ],
+    [
+      "p",
+      "- Arma: Cactiestrella"
+    ],
+    [
+      "p",
+      "- Protección: Brazalete de Midgar"
+    ],
+    [
+      "p",
+      "- Protección: Brazalete de Shinra"
+    ],
+    [
+      "p",
+      "- Protección: Brazalete de Don Corneo"
+    ],
+    [
+      "p",
+      "- Accesorio: Cinturón de superestrella"
+    ],
+    [
+      "p",
+      "- Accesorio: Cristal de mako"
+    ],
+    [
+      "p",
+      "- Accesorio: Pendientes angelicales"
+    ],
+    [
+      "p",
+      "- Materia de invocación de Rubí"
+    ],
+    [
+      "p",
+      "- Materia de invocación de chocobito"
+    ],
+    [
+      "p",
+      "- Materia de invocación de cactilio"
+    ],
+    [
+      "p",
+      "* Para obtener las armas, protecciones, accesorios y materias de invocación, accede a la opción Caja regalo del menú principal."
+    ],
+    [
+      "p",
+      "* La cactiestrella solo estará disponible para usarse durante FF7R EPISODE INTERmission (episodio de Yuffie)."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Opción solo teclado",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 64-bit (ver. 2004 or later)"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350 / Intel® Core™ i5-3330"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 480 / NVIDIA® GeForce® GTX 780 / 3GB VRAM required"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Assuming a Resolution of 1920 x 1080"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 64-bit (ver. 2004 or later)"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen™ 3 3100 / Intel® Core™ i7-3770"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon™ RX 5700 / NVIDIA® GeForce® GTX 1080 / 8GB VRAM required"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Assuming a Resolution of 2560 x 1440 (This title supports max resolution of 3840 x 2160)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.600x338.jpg?t=1789446715",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_20a352a2c20dd4bfb08fa131dc4c2e763510f584.1920x1080.jpg?t=1789446715"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_55903e74751601e42fb7f858d5c07ec048386ce2.600x338.jpg?t=1789446715",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_55903e74751601e42fb7f858d5c07ec048386ce2.1920x1080.jpg?t=1789446715"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_ac55306d00923f2902de20bb5ade7f9cc190e8cf.600x338.jpg?t=1789446715",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_ac55306d00923f2902de20bb5ade7f9cc190e8cf.1920x1080.jpg?t=1789446715"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_6e30290a5de36f3274a11bd6c78f077c9e489115.600x338.jpg?t=1789446715",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_6e30290a5de36f3274a11bd6c78f077c9e489115.1920x1080.jpg?t=1789446715"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_170c616f08812827d70ac2d9099447a52e114546.600x338.jpg?t=1789446715",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/ss_170c616f08812827d70ac2d9099447a52e114546.1920x1080.jpg?t=1789446715"
+    }
+  ],
+  "web": "https://ffvii-remake-intergrade.square-enix-games.com/en-us/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 144024,
+  "youtube": [
+    {
+      "id": "F7bEoGile7Q",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "DTjvkpAEtZA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7fn4iN-TQeI",
+      "nombre": "PC Trailer"
+    },
+    {
+      "id": "M4t1OFONu10",
+      "nombre": "Steam Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:18:34.299Z"
 }

@@ -1,9 +1,10 @@
 {
   "clave": "ea sports college football 27",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "019e9514-a938-70c7-a2d5-102ca7a06847",
   "appid": "4032350",
@@ -48,6 +49,41 @@
       "url": "https://opencritic.com/game/20884/ea-sports-college-football-27"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1414563",
+      "nombre": "EA SPORTS™ College Football 27",
+      "apps": [
+        {
+          "appid": "4032350",
+          "nombre": "EA SPORTS™ College Football 27"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 69.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1638920",
+      "nombre": "EA SPORTS™ College Football 27 Edición Deluxe",
+      "apps": [
+        {
+          "appid": "4032350",
+          "nombre": "EA SPORTS™ College Football 27"
+        }
+      ],
+      "usd": 99.99,
+      "antes": 99.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4032350": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Adéntrate en la era moderna del fútbol universitario, donde la ambición personal se une al orgullo del programa. Equilibra las expectativas, la identidad y todo lo que exige el sábado mientras te sumerges en las tradiciones y el boato del día de partido.",
   "generos": [
     "Simuladores",
@@ -55,6 +91,7 @@
   ],
   "lanzamientoTexto": "9 JUL 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "EA SPORTS™ College Football 27",
   "acerca": [
     [
@@ -121,7 +158,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -225,5 +263,26 @@
     }
   ],
   "web": "https://www.ea.com/games/ea-sports-college-football/college-football-25",
-  "consultado": "2026-11-22T22:03:10.242Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.2,
+    "cantidad": 3442,
+    "escala": 5
+  },
+  "xbox": "9N2R753H6WQD",
+  "igdbIntentado": true,
+  "igdb": 400601,
+  "youtube": [
+    {
+      "id": "a-JpwwMa5aM",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:12.207Z"
 }

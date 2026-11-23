@@ -2,7 +2,8 @@
   "clave": "disney dreamlight valley",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6449-7233-bfbc-a2e0c5c5eac3",
   "appid": "1401590",
@@ -49,6 +50,133 @@
       "url": "https://opencritic.com/game/13635/disney-dreamlight-valley"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "944611",
+      "nombre": "Disney Dreamlight Valley",
+      "apps": [
+        {
+          "appid": "1401590",
+          "nombre": "Disney Dreamlight Valley"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 20.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1919211",
+      "nombre": "Disney Dreamlight Valley - Edición The Keepsake Sea",
+      "apps": [
+        {
+          "appid": "1401590",
+          "nombre": "Disney Dreamlight Valley"
+        },
+        {
+          "appid": "5090170",
+          "nombre": "Disney Dreamlight Valley: The Keepsake Sea"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1919213",
+      "nombre": "Disney Dreamlight Valley - Edición definitiva 2026",
+      "apps": [
+        {
+          "appid": "1401590",
+          "nombre": "Disney Dreamlight Valley"
+        },
+        {
+          "appid": "5090170",
+          "nombre": "Disney Dreamlight Valley: The Keepsake Sea"
+        },
+        {
+          "appid": "3979520",
+          "nombre": "Disney Dreamlight Valley: Wishblossom Ranch"
+        }
+      ],
+      "usd": 42.49,
+      "antes": 42.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1401590": {
+      "usd": 12.59,
+      "gratis": false
+    },
+    "3979520": {
+      "usd": 15.99,
+      "gratis": false
+    },
+    "5090170": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "5090170",
+      "nombre": "Disney Dreamlight Valley: The Keepsake Sea",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5090180",
+      "nombre": "Disney Dreamlight Valley: The Keepsake Sea - Edición deluxe",
+      "gratis": false,
+      "usd": 36.88,
+      "descuento": 0
+    },
+    {
+      "appid": "4376930",
+      "nombre": "Disney Dreamlight Valley: Honeyglow Woods",
+      "gratis": false,
+      "usd": 9.55,
+      "descuento": 0
+    },
+    {
+      "appid": "3979520",
+      "nombre": "Disney Dreamlight Valley: Wishblossom Ranch",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3979530",
+      "nombre": "Disney Dreamlight Valley: Wishblossom Ranch - Edición deluxe",
+      "gratis": false,
+      "usd": 29.01,
+      "descuento": 21
+    },
+    {
+      "appid": "3311900",
+      "nombre": "Disney Dreamlight Valley: The Storybook Vale - Edición mágica",
+      "gratis": false,
+      "usd": 27.88,
+      "descuento": 24
+    },
+    {
+      "appid": "3259120",
+      "nombre": "Disney Dreamlight Valley: The Storybook Vale",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2632050",
+      "nombre": "Disney Dreamlight Valley: A Rift in Time",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Explora un mundo donde reina la magia de Disney mientras descubres increíbles historias y construyes el barrio perfecto junto a héroes y villanos de Disney y Pixar. Todo en este nuevo juego de simulación de vida lleno de aventuras. Bienvenido a Disney Dreamlight Valley.",
   "generos": [
     "Acción",
@@ -59,6 +187,253 @@
   ],
   "lanzamientoTexto": "5 DIC 2023",
   "metacritic": null,
-  "recomendaciones": 22554,
-  "consultado": "2026-11-22T21:46:16.267Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Disney Dreamlight Valley",
+  "acerca": [
+    [
+      "p",
+      "Disney Dreamlight Valley es un híbrido entre un juego de simulación de vida y un juego de aventuras, lleno de misiones, exploración y actividades con amigos de Disney y Pixar, tanto nuevos como antiguos.."
+    ],
+    [
+      "p",
+      "Dreamlight Valley era un lugar idílico, en el que los personajes de Disney y Pixar vivían en armonía... Hasta la llegada del Olvido. Las espinas de la noche crecieron por todas partes y segaron los maravillosos recuerdos ligados a este lugar mágico. Sin ningún otro lugar al que ir, los desesperanzados habitantes de Dreamlight Valley se retiraron al Castillo de Sueños y cerraron sus puertas tras ellos."
+    ],
+    [
+      "p",
+      "De ti depende ahora descubrir las historias de este mundo y traer la magia de regreso a Dreamlight Valley."
+    ],
+    [
+      "h",
+      "Descubre los secretos de Dreamlight Valley"
+    ],
+    [
+      "p",
+      "Libera el Castillo de Sueños del pérfido control del Olvido y desbloquea los reinos únicos de entrañables personajes de Disney y Pixar, incluyendo a grandes reinas y reyes, como Anna y Simba. Cada reino tiene desafíos únicos con acertijos que resolver en la misión para traer la amistad de regreso a Dreamlight Valley."
+    ],
+    [
+      "p",
+      "Empezarás tu aventura en el valle, pero tu viaje te llevará hasta el infinito... ¡y más allá! Explora qué acecha en el Bosque de la Valentía y adéntrate en las cavernas más profundas participando en desafíos de los icónicos héroes y villanos de Disney y Pixar. Quién sabe qué o a quién descubrirás..."
+    ],
+    [
+      "h",
+      "Crea una amistad con los personajes de Disney y Pixar"
+    ],
+    [
+      "p",
+      "Cuida del jardín con WALL•E, cocina con Remy o ponte cómodo y pesca con Goofy. ¿Qué mejor manera de coleccionar, fabricar y reconstruir el valle que en compañía de amigos? Desde bellas princesas hasta perversos villanos, cada habitante de Dreamlight Valley trae consigo su propia historia, misiones y recompensas. Reúnete con ellos a diario y hazte amigo de algunos de tus personajes favoritos de Disney y Pixar."
+    ],
+    [
+      "h",
+      "Devuelve al valle su gloria de antaño"
+    ],
+    [
+      "p",
+      "Libera el valle del control del Olvido y devuelve a Dreamlight Valley su antigua grandeza a tu manera. En Dreamlight Valley, puedes construir el barrio perfecto ideal para ti con una disposición completamente personalizable, paisajismo creativo y miles de objetos decorativos."
+    ],
+    [
+      "p",
+      "¿Te instalarás en la playa, junto a Vaiana o será Buzz tu vecino de al lado en la Plaza?"
+    ],
+    [
+      "h",
+      "Muestra du estilo Disney"
+    ],
+    [
+      "p",
+      "¡Saca a relucir la princesa, villano o canalla Disney que llevas dentro! Reúne conjuntos de ropa únicos y decora tu hogar con miles de objetos fantásticos. Con la herramienta Toque de magia, podrás incluso crear tus propios diseños con pegatinas de Disney y Pixar."
+    ],
+    [
+      "p",
+      "Prepárate para hacerte un selfi al atardecer con Mirabel, sacar una foto a una creación culinaria que prepares con Remy o guarda simplemente una imagen de un momento especial con la cámara del juego."
+    ],
+    [
+      "h",
+      "Un juego en evolución constante"
+    ],
+    [
+      "p",
+      "Nuevo contenido significa que siempre hay algo nuevo que explorar. Descubre a los nuevos personajes en el valle, echa un vistazo a las últimas colecciones de ropa y muebles en la tienda del tío Gilito y completa eventos desafiantes. ¡Asegúrate de regresar a menudo a Dreamlight Valley para descubrir nuevas aventuras!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Opciones de subtítulos"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-540 or AMD Phenom II X4 940"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 9600 GT, 512 MB or AMD Radeon HD 6570, 1 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "26 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690 or AMD Ryzen 3 1300X"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960, 4 GB or AMD Radeon R9 380, 4 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "26 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/c27dfdeb531337d0084e1894057209cb04fea3ff/ss_c27dfdeb531337d0084e1894057209cb04fea3ff.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/c27dfdeb531337d0084e1894057209cb04fea3ff/ss_c27dfdeb531337d0084e1894057209cb04fea3ff.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/c36174093fdf5f8222baf944f1bd6a943dd90d53/ss_c36174093fdf5f8222baf944f1bd6a943dd90d53.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/c36174093fdf5f8222baf944f1bd6a943dd90d53/ss_c36174093fdf5f8222baf944f1bd6a943dd90d53.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/203cf001ac8521d25ade5ffb8b0ddf819b2b3298/ss_203cf001ac8521d25ade5ffb8b0ddf819b2b3298.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/203cf001ac8521d25ade5ffb8b0ddf819b2b3298/ss_203cf001ac8521d25ade5ffb8b0ddf819b2b3298.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/8b005153317866ea951872049efb6bb123860f20/ss_8b005153317866ea951872049efb6bb123860f20.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/8b005153317866ea951872049efb6bb123860f20/ss_8b005153317866ea951872049efb6bb123860f20.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/157066322fdf71082d50f4d138782dc70cea987a/ss_157066322fdf71082d50f4d138782dc70cea987a.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/157066322fdf71082d50f4d138782dc70cea987a/ss_157066322fdf71082d50f4d138782dc70cea987a.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/1f03c36be3a42cdbf06a1894cb88a0f7d69b6682/ss_1f03c36be3a42cdbf06a1894cb88a0f7d69b6682.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/1f03c36be3a42cdbf06a1894cb88a0f7d69b6682/ss_1f03c36be3a42cdbf06a1894cb88a0f7d69b6682.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/7c57713ad62124a19b4e30b646f399245bac62c1/ss_7c57713ad62124a19b4e30b646f399245bac62c1.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/7c57713ad62124a19b4e30b646f399245bac62c1/ss_7c57713ad62124a19b4e30b646f399245bac62c1.1920x1080.jpg?t=1795029987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8/ss_21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8.600x338.jpg?t=1795029987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8/ss_21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8.1920x1080.jpg?t=1795029987"
+    }
+  ],
+  "web": "https://disneydreamlightvalley.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 198506,
+  "youtube": [
+    {
+      "id": "ho-BZg7_uL8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ZlKdQTlB6vA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "faZKs49PP6g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Ijpy1RK1n4k",
+      "nombre": "Update Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:44.653Z"
 }

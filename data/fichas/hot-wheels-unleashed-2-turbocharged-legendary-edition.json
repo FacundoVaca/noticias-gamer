@@ -1,9 +1,9 @@
 {
   "clave": "hot wheels unleashed 2 turbocharged legendary edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-74b9-70be-bc4f-2c141f794d62",
   "appid": "2051120",
@@ -30,206 +30,228 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "732771",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "877082",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "877088",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
+      "apps": [
+        {
+          "appid": "2051120",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+        }
+      ],
+      "usd": 79.99,
+      "antes": 79.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2051120": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 25,
   "dlcLista": [
     {
       "appid": "2475560",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 1",
       "gratis": false,
-      "precio": "$29.99",
-      "antes": null,
+      "usd": 29.99,
       "descuento": 0
     },
     {
       "appid": "2475570",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 2",
       "gratis": false,
-      "precio": "$29.99",
-      "antes": null,
+      "usd": 29.99,
       "descuento": 0
     },
     {
       "appid": "2524830",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Alien Encounters Expansion Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2524820",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Fast & Furious Expansion Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2524810",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Made in Italy Expansion Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2524800",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Expansion Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2370240",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Rust and Fast Pack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2370241",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Unstoppables Pack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2370242",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Speed Kings Pack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2370243",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Just a Scratch Pack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2370244",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Twin Mill™ Unleashed Edition",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2370245",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers All-Star Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370246",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Speed and Style Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2492920",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Fast X Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370249",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Honda Modern Classics Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370251",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Highway 35 World Race Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370252",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Monster Trucks Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370255",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Old but Gold Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370257",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Mercedes-Benz Pack",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2370250",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 1",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2370254",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 2",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2370256",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - AcceleRacers Free Pack 3",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2370248",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Highway 35 Free Pack",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2370247",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Manga Free Pack",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2370253",
       "nombre": "HOT WHEELS UNLEASHED™ 2 - Mega Bites Free Pack",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     }
   ],
@@ -243,6 +265,7 @@
   ],
   "lanzamientoTexto": "19 OCT 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
   "acerca": [
     [
@@ -489,5 +512,22 @@
     }
   ],
   "web": "https://www.hotwheelsunleashed.com/",
-  "consultado": "2026-11-22T22:24:46.309Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 251471,
+  "youtube": [
+    {
+      "id": "46dYAG-mqXg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "09F3yQkLYh4",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:47.339Z"
 }

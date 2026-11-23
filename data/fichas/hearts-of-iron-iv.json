@@ -2,7 +2,8 @@
   "clave": "hearts of iron iv",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0e35-7371-8dd8-dee17492921c",
   "appid": "394360",
@@ -50,6 +51,263 @@
       "url": "https://opencritic.com/game/2813/hearts-of-iron-iv"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "808474",
+      "nombre": "Hearts of Iron IV",
+      "apps": [
+        {
+          "appid": "394360",
+          "nombre": "Hearts of Iron IV"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 34.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1429184",
+      "nombre": "Hearts of Iron IV: General Edition",
+      "apps": [
+        {
+          "appid": "1348660",
+          "nombre": "Country Pack - Hearts of Iron IV: Battle for the Bosporus"
+        },
+        {
+          "appid": "1158100",
+          "nombre": "Expansion - Hearts of Iron IV: La Résistance"
+        },
+        {
+          "appid": "394360",
+          "nombre": "Hearts of Iron IV"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 41.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "394360": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "1158100": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "1348660": {
+      "usd": 3.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 29,
+  "dlcLista": [
+    {
+      "appid": "4758580",
+      "nombre": "Hearts of Iron IV: Expansion Pass 3",
+      "gratis": false,
+      "usd": 30.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4758590",
+      "nombre": "Hearts of Iron IV: Songs of Liberty",
+      "gratis": false,
+      "usd": 30.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4758610",
+      "nombre": "Focus Pack - Hearts of Iron IV: To the Bitter End",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4758600",
+      "nombre": "Expansion - Hearts of Iron IV: The Giant Wakes",
+      "gratis": false,
+      "usd": 30.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4758620",
+      "nombre": "Theater Pack - Hearts of Iron IV: The Price of Peace",
+      "gratis": false,
+      "usd": 30.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3796260",
+      "nombre": "Expansion - Hearts of Iron IV: No Compromise, No Surrender",
+      "gratis": false,
+      "usd": 16.79,
+      "descuento": 20
+    },
+    {
+      "appid": "3796290",
+      "nombre": "Theater Pack - Hearts of Iron IV: Thunder at our Gates",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3757310",
+      "nombre": "Focus Pack - Hearts of Iron IV: Peace For Our Time",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3796270",
+      "nombre": "Cosmetic Pack - Hearts of Iron IV: Warships of the Pacific",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3152780",
+      "nombre": "Expansion - Hearts of Iron IV: Götterdämmerung",
+      "gratis": false,
+      "usd": 12.24,
+      "descuento": 30
+    },
+    {
+      "appid": "2183930",
+      "nombre": "Expansion - Hearts of Iron IV: Arms Against Tyranny",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1880650",
+      "nombre": "Expansion - Hearts of Iron IV: By Blood Alone",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1348661",
+      "nombre": "Expansion - Hearts of Iron IV: No Step Back",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1158100",
+      "nombre": "Expansion - Hearts of Iron IV: La Résistance",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3152790",
+      "nombre": "Country Pack - Hearts of Iron IV: Graveyard of Empires",
+      "gratis": false,
+      "usd": 7.34,
+      "descuento": 30
+    },
+    {
+      "appid": "2695150",
+      "nombre": "Country Pack - Hearts of Iron IV: Trial of Allegiance",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1348660",
+      "nombre": "Country Pack - Hearts of Iron IV: Battle for the Bosporus",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3152800",
+      "nombre": "Cosmetic Pack - Hearts of Iron IV: Prototype Vehicles",
+      "gratis": false,
+      "usd": 4.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1579991",
+      "nombre": "Cosmetic Pack - Hearts of Iron IV: Eastern Front Planes",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1317230",
+      "nombre": "Cosmetic Pack - Hearts of Iron IV: Allied Armor",
+      "gratis": false,
+      "usd": 2.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1086480",
+      "nombre": "Cosmetic Pack - Hearts of Iron IV: Axis Armor",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1579992",
+      "nombre": "Music - Hearts of Iron IV: Songs of the Eastern Front",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1317250",
+      "nombre": "Music - Hearts of Iron IV: Allied Speeches Pack",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1086481",
+      "nombre": "Music - Hearts of Iron IV: Radio Pack",
+      "gratis": false,
+      "usd": 2.74,
+      "descuento": 50
+    },
+    {
+      "appid": "3654400",
+      "nombre": "Hearts of Iron IV: Bonus Songs Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "461800",
+      "nombre": "Music - Hearts of Iron IV: Sabaton Soundtrack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "584141",
+      "nombre": "Music - Hearts of Iron IV: Sabaton Soundtrack Vol. 2",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1877010",
+      "nombre": "Hearts of Iron IV - DLC Subscription",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2981720",
+      "nombre": "Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Tenemos la victoria al alcance de la mano! Tu capacidad para liderar tu nación es tu arma principal. En el juego de estrategia Hearts of Iron IV podrás ponerte el mando de cualquier nación de la II Guerra Mundial, el conflicto más fascinante de la historia mundial.",
   "generos": [
     "Simuladores",
@@ -60,6 +318,221 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/hearts-of-iron-iv?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 330880,
-  "consultado": "2026-11-22T21:46:51.473Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Hearts of Iron IV",
+  "acerca": [
+    [
+      "p",
+      "Toma el mando de las máquinas de guerra más grandiosas de la historia en Hearts of Iron IV , un ambicioso juego de estrategia bélica que pondrá a prueba tu capacidad táctica e intuición política. Rememora la Segunda Guerra Mundial al frente de una nación de la época, desarrolla tu poderío industrial y entabla alianzas diplomáticas para librar una guerra contra tus rivales ideológicos."
+    ],
+    [
+      "p",
+      "Hearts of Iron IV es mucho más que un simulador histórico. La historia se ramificará con prácticamente cualquier decisión, desde la más sencilla (como lanzar un ataque contra la Fortaleza Europa), hasta las más complejas (como restablecer una democracia o una monarquía del pasado)."
+    ],
+    [
+      "p",
+      "En Hearts of Iron IV , podrás planear hasta el último detalle de tu estrategia militar mientras diseñas plantillas de divisiones para tus ejércitos, investigas nuevos modelos de producción (y de destrucción), estableces pautas industriales y persigues objetivos políticos. No dejes prácticamente nada al azar mientras guías a la nación que elijas por la época más oscura de la humanidad."
+    ],
+    [
+      "h",
+      "Esta compra incluye el juego principal Hearts of Iron IV y cuatro paquetes de expansión:"
+    ],
+    [
+      "p",
+      "Death or Dishonor: centrado en las potencias intermedias de Europa Central y del Este"
+    ],
+    [
+      "p",
+      "Together for Victory: centrado en las naciones de la Mancomunidad Británica"
+    ],
+    [
+      "p",
+      "Waking the Tiger: centrado en China y Japón"
+    ],
+    [
+      "p",
+      "Man the Guns: centrado en las características navales y rutas alternativas en la historia de Estados Unidos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5 750 | AMD® FX 4300"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 470 (1.28GB) | AMD® HD 5850 (1GB) | Intel Iris Xe G7 (Tiger Lake) | AMD® Radeon™ RX Vega 11"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X- compatible soundcard."
+      ],
+      [
+        "Notas adicionales",
+        "Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers/ Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows® 10 Home 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5 2500K | AMD® Ryzen 3 2200G"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 570 (1.28GB) | AMD® Radeon™ HD 7970 (3GB) | Intel Iris Xe G7 (Tiger Lake)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X- compatible soundcard."
+      ],
+      [
+        "Notas adicionales",
+        "Mouse and keyboard are required. / Latest available WHQL drivers from both manufacturers. / Internet Connection or LAN for multiplayer, Up to 32 other players in multiplayer mode."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_242abc1c2ca21f7d8694ba8d9239d8944217b29f.1920x1080.jpg?t=1794491980"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_679ae0d56f3a3b33591262839588c4b1dc6bef12.1920x1080.jpg?t=1794491980"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_ebcec59e821aa1ee43c6d047eaef4e846af99358.1920x1080.jpg?t=1794491980"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_fc239db7ed07e8ec4e6440cd0c6ced88a955d90e.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_fc239db7ed07e8ec4e6440cd0c6ced88a955d90e.1920x1080.jpg?t=1794491980"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_c7916f607a289830f424daebe3e2f281afbb456b.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_c7916f607a289830f424daebe3e2f281afbb456b.1920x1080.jpg?t=1794491980"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_f07f7ebc18d5e6a9692ec748a4f203fe0c748feb.600x338.jpg?t=1794491980",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/ss_f07f7ebc18d5e6a9692ec748a4f203fe0c748feb.1920x1080.jpg?t=1794491980"
+    }
+  ],
+  "web": "http://www.heartsofiron4.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 15894,
+  "youtube": [
+    {
+      "id": "unqCtsK6rG8",
+      "nombre": "4 years - Anniversary Trailer"
+    },
+    {
+      "id": "Q1bvX2-XrAQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:23.074Z"
 }

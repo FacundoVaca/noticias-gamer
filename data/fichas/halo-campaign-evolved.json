@@ -2,7 +2,9 @@
   "clave": "halo campaign evolved",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "019a17ea-5d15-71da-8c36-5cec59faa34b",
   "appid": "2806050",
@@ -46,6 +48,51 @@
       "url": "https://opencritic.com/game/20799/halo-campaign-evolved"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1002097",
+      "nombre": "Halo: Campaign Evolved - Edición Estándar",
+      "apps": [
+        {
+          "appid": "2806050",
+          "nombre": "Halo: Campaign Evolved"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 39.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1468240",
+      "nombre": "Halo: Campaign Evolved - Premium Edition ",
+      "apps": [
+        {
+          "appid": "2806050",
+          "nombre": "Halo: Campaign Evolved"
+        }
+      ],
+      "usd": 35.99,
+      "antes": 59.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2806050": {
+      "usd": 23.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4485640",
+      "nombre": "Halo: Campaign Evolved: actualización a la Edición Premium",
+      "gratis": false,
+      "usd": 12,
+      "descuento": 40
+    }
+  ],
   "descripcion": "Descubre dónde comienza la leyenda.",
   "generos": [
     "Acción",
@@ -53,6 +100,291 @@
   ],
   "lanzamientoTexto": "28 JUL 2026",
   "metacritic": null,
-  "recomendaciones": 13085,
-  "consultado": "2026-11-22T21:44:20.735Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Halo: Campaign Evolved",
+  "acerca": [
+    [
+      "h",
+      "DESCUBRE DÓNDE COMIENZA LA LEYENDA"
+    ],
+    [
+      "p",
+      "Halo: Campaign Evolved es un remake fiel pero modernizado de la campaña de Halo: Combat Evolved. Vive la historia original reconstruida con gráficos en alta definición, cinemáticas actualizadas y controles mejorados, además de una aventura con tres misiones completamente nuevas con el Jefe Maestro y el Sargento Johnson. Un arsenal más amplio de armas, vehículos, enemigos y «calaveras» que modifican el juego (modificadores opcionales que cambian el combate de formas divertidas y desafiantes) añaden nuevas tácticas y una rejugabilidad infinita."
+    ],
+    [
+      "p",
+      "Juega a tu manera: en solitario, en modo cooperativo de pantalla dividida para 4 jugadores con juego cruzado completo y compatibilidad con progresión cruzada. Tanto si descubres Halo por primera vez como si vuelves al anillo después de 25 años, Halo: Campaign Evolved ofrece una aventura que se siente a la vez atemporal y completamente nueva."
+    ],
+    [
+      "p",
+      "DESCUBRE EL MUNDO ANILLO:"
+    ],
+    [
+      "p",
+      "Después de un aterrizaje forzoso en un misterioso mundo anillo conocido como Halo, el Jefe Maestro recibe la misión de ayudar a los humanos restantes a sobrevivir contra las abrumadoras fuerzas del Covenant. Descubre los oscuros secretos de Halo con la ayuda de tu compañera de IA, Cortana, y lucha para evitar la aniquilación de toda la vida en la galaxia."
+    ],
+    [
+      "p",
+      "LA CAMPAÑA COMPLETA, RECREADA:"
+    ],
+    [
+      "p",
+      "combate a través de las misiones originales, recreadas con gráficos de alta definición, cinemáticas actualizadas y un diseño de niveles mejorado."
+    ],
+    [
+      "p",
+      "CINEMÁTICAS Y SONIDO TOTALMENTE RENOVADOS:"
+    ],
+    [
+      "p",
+      "Imágenes y animaciones totalmente nuevas, además de una banda sonora remasterizada y un diseño de sonido completamente reconstruido para una inmersión más profunda."
+    ],
+    [
+      "p",
+      "EXPANSIÓN DEL COMBATE Y LAS ARMAS:"
+    ],
+    [
+      "p",
+      "El clásico combate de Halo se siente más refinado que nunca, ahora con 9 armas adicionales icónicas de toda la serie que puedes añadir a tu arsenal."
+    ],
+    [
+      "p",
+      "TRES NUEVAS MISIONES:"
+    ],
+    [
+      "p",
+      "Juega como el Jefe Maestro junto al sargento Johnson en Operation: Meteorite, una operación de combate independiente con nuevos entornos, jugabilidad y enemigos."
+    ],
+    [
+      "p",
+      "JUEGA SOLO O CON AMIGOS:"
+    ],
+    [
+      "p",
+      "Experimenta la campaña completa a tu manera, en solitario o en modo cooperativo online para 4 jugadores, con juego cruzado y progresión compartida entre consola y PC."
+    ],
+    [
+      "p",
+      "CONDUCE, SECUESTRA VEHÍCULOS Y SIEMBRA EL CAOS:"
+    ],
+    [
+      "p",
+      "Los icónicos vehículos de Halo están de vuelta con más formas de crear un caos inolvidable. Por primera vez en Halo: CE, secuestra vehículos enemigos y pilota un tanque Wraith completamente manejable."
+    ],
+    [
+      "p",
+      "REJUGABILIDAD EXTREMA:"
+    ],
+    [
+      "p",
+      "Mezcla las misiones con modificadores de «Calavera» opcionales que añaden variedad y desafío con armas, enemigos y entornos aleatorios."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Chat de voz convertido a texto",
+    "Chat de texto convertido a voz",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 3600 or Intel Core i7-10700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6600, Intel Arc A580 or Nvidia Ge-Force RTX 2060 Super"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 7700 or Intel Core i7-12700K"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 9070 or Nvidia 3080 Ti"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/4288a35884445fcf22f4fe7315944c376ecb1cf5/ss_4288a35884445fcf22f4fe7315944c376ecb1cf5.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/4288a35884445fcf22f4fe7315944c376ecb1cf5/ss_4288a35884445fcf22f4fe7315944c376ecb1cf5.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087/ss_e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087/ss_e3a3facf1d3f02fc13ef6e95a40cf1fad52a9087.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/8a7b831ea8a306b1f13321f027c1410ac378941b/ss_8a7b831ea8a306b1f13321f027c1410ac378941b.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/8a7b831ea8a306b1f13321f027c1410ac378941b/ss_8a7b831ea8a306b1f13321f027c1410ac378941b.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b/ss_a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b/ss_a05dce36b81730fcd2a4ddd4a1106cfcc74dbf0b.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/46706c1f09a3f69dcae90acb6914fe64a91b5d6f/ss_46706c1f09a3f69dcae90acb6914fe64a91b5d6f.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/46706c1f09a3f69dcae90acb6914fe64a91b5d6f/ss_46706c1f09a3f69dcae90acb6914fe64a91b5d6f.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/6773ca4386fb78b10c987902bf2f66a1038d7829/ss_6773ca4386fb78b10c987902bf2f66a1038d7829.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/6773ca4386fb78b10c987902bf2f66a1038d7829/ss_6773ca4386fb78b10c987902bf2f66a1038d7829.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/37857172e4a235fd8032d8d0ad1d5d511973368e/ss_37857172e4a235fd8032d8d0ad1d5d511973368e.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/37857172e4a235fd8032d8d0ad1d5d511973368e/ss_37857172e4a235fd8032d8d0ad1d5d511973368e.1920x1080.jpg?t=1786379031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/3696511ddbe8cc4d80706d435f6dbe77620ef64d/ss_3696511ddbe8cc4d80706d435f6dbe77620ef64d.600x338.jpg?t=1786379031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/3696511ddbe8cc4d80706d435f6dbe77620ef64d/ss_3696511ddbe8cc4d80706d435f6dbe77620ef64d.1920x1080.jpg?t=1786379031"
+    }
+  ],
+  "web": "https://www.halowaypoint.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood and Gore, Intense Violence, Strong Language",
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.9,
+    "cantidad": 6257,
+    "escala": 5
+  },
+  "xbox": "9N6J4RNFPKKL",
+  "igdbIntentado": true,
+  "igdb": 375232,
+  "youtube": [
+    {
+      "id": "e-tXi1NC_aU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "hSjbIM0iegY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "efThjRym-ks",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "C6JyOj-7tH8",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:20:11.177Z"
 }

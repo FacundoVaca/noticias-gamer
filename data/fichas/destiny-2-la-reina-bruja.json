@@ -1,0 +1,311 @@
+{
+  "clave": "destiny 2 la reina bruja",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-552d-7246-83c9-6c364e8aea94",
+  "appid": "1656330",
+  "lanzamiento": "2022-02-21",
+  "desarrolladores": [
+    "Bungie"
+  ],
+  "editores": [
+    "Bungie",
+    "Bungie, Inc",
+    "Bungie Inc"
+  ],
+  "etiquetas": [
+    "Free to Play",
+    "FPS",
+    "Open World",
+    "Looter Shooter",
+    "MMORPG"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 2667,
+      "url": "https://store.steampowered.com/app/1656330/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 86,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/destiny-2-the-witch-queen/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 221,
+      "url": "https://metacritic.com/game/destiny-2-the-witch-queen/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 88,
+      "cantidad": 69,
+      "url": "https://opencritic.com/game/12451/destiny-2-the-witch-queen"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1085660",
+    "nombre": "Destiny 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "692257",
+      "nombre": "Destiny 2: La Reina Bruja ",
+      "apps": [
+        {
+          "appid": "1656330",
+          "nombre": "Destiny 2: La Reina Bruja "
+        }
+      ],
+      "usd": 1.39,
+      "antes": 13.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1656330": {
+      "usd": 1.39,
+      "gratis": false
+    }
+  },
+  "descripcion": "Ve al mundo trono de Savathûn y descubre cómo robó la Luz.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Free to Play"
+  ],
+  "lanzamientoTexto": "22 FEB 2022",
+  "metacritic": null,
+  "nombreSteam": "Destiny 2: La Reina Bruja ",
+  "acerca": [
+    [
+      "p",
+      "Campaña definitiva de Destiny"
+    ],
+    [
+      "p",
+      "Adéntrate en el mundo trono de Savathûn y descubre cómo robó la Luz con su Colmena Lúcida. Destapa los secretos de la creación de armas nuevas, las gujas, y sobrevive a la verdad en su red de mentiras."
+    ],
+    [
+      "p",
+      "Nuevo destino"
+    ],
+    [
+      "p",
+      "El mundo trono de Savathûn, un retorcido reino de corrupción y esplendor, es testigo de un frágil equilibrio de fuerzas. Entre su palacio y el pantano se encuentran todos sus secretos."
+    ],
+    [
+      "p",
+      "Crea armas"
+    ],
+    [
+      "p",
+      "Fabrica armas a medida con combinaciones únicas de modificadores, shaders y estadísticas. Domina las gujas, el nuevo tipo de arma, y genera poderosos combos cuerpo a cuerpo, ataques de proyectil y un escudo de energía desplegable."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "105 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "System Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack)"
+      ],
+      [
+        "Procesador",
+        "Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "105 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_49004d661aca53cbe224b05b34017d697d2e343c.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_49004d661aca53cbe224b05b34017d697d2e343c.1920x1080.jpg?t=1765904449"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_95b5a4f37bcad39c9dfcafb422c94e70a6e18a2f.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_95b5a4f37bcad39c9dfcafb422c94e70a6e18a2f.1920x1080.jpg?t=1765904449"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_a1f2969a7770fec1cf83a95d60f578d0b15fb6dd.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_a1f2969a7770fec1cf83a95d60f578d0b15fb6dd.1920x1080.jpg?t=1765904449"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_ce98f639a6807d0fc0b1ca237958d8d3499740f9.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_ce98f639a6807d0fc0b1ca237958d8d3499740f9.1920x1080.jpg?t=1765904449"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_e12b480dc0fd2af094ba1d9359a671d623369059.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_e12b480dc0fd2af094ba1d9359a671d623369059.1920x1080.jpg?t=1765904449"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_ce625aaa261d09ea000efecbd90c6ca11a24576e.600x338.jpg?t=1765904449",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656330/ss_ce625aaa261d09ea000efecbd90c6ca11a24576e.1920x1080.jpg?t=1765904449"
+    }
+  ],
+  "web": "https://www.bungie.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134831,
+  "youtube": [
+    {
+      "id": "P0IlFZ61734",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "1bkKwhMgI6s",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ysaqSSuYTUs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "z5GjLcgzkwc",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:13:35.363Z"
+}

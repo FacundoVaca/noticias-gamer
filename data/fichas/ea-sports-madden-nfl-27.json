@@ -2,7 +2,9 @@
   "clave": "ea sports madden nfl 27",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "019de444-fc0f-73e0-b767-765b7146854a",
   "appid": "3940610",
@@ -28,6 +30,41 @@
       "url": "https://store.steampowered.com/app/3940610/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1384230",
+      "nombre": "EA SPORTS™ Madden NFL 27",
+      "apps": [
+        {
+          "appid": "3940610",
+          "nombre": "EA SPORTS™ Madden NFL 27"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 69.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1646121",
+      "nombre": "EA SPORTS™ Madden NFL 27 Edición Deluxe",
+      "apps": [
+        {
+          "appid": "3940610",
+          "nombre": "EA SPORTS™ Madden NFL 27"
+        }
+      ],
+      "usd": 99.99,
+      "antes": 99.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3940610": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Dirige la liga decisión a decisión. EA SPORTS™ Madden NFL 27, impulsado por el nuevo motor Persona.",
   "generos": [
     "Simuladores",
@@ -36,6 +73,206 @@
   ],
   "lanzamientoTexto": "13 AGO 2026",
   "metacritic": null,
-  "recomendaciones": 1594,
-  "consultado": "2026-11-22T21:44:22.892Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "EA SPORTS™ Madden NFL 27",
+  "acerca": [
+    [
+      "p",
+      "Dirige la liga decisión a decisión. EA SPORTS™ Madden NFL 27, impulsado por el nuevo motor Persona, transforma a Franchise en una liga reactiva y en constante evolución donde cada atleta de la NFL tiene una personalidad distinta y realista que influye en sus motivaciones, demandas y reacciones. La jugabilidad se vuelve física con un control más preciso gracias a las batallas auténticas entre WR y DB, nuevas mecánicas de yardas cortas, mejoras en la cobertura defensiva y nuevos ajustes y controles estratégicos previos a la jugada. Forja tu legado en la NFL en una trayectoria de progresión más profunda en el nuevo modo Carrera Superstar G.O.A.T. y controla tu plantilla con más personalización con los Ultimate Team Captains."
+    ],
+    [
+      "p",
+      "FRANCHISE"
+    ],
+    [
+      "p",
+      "El nuevo motor Persona otorga a cada atleta de la NFL una personalidad distintiva que influye en sus motivaciones, su forma de pensar y de responder, y transforma a Franchise en una liga reactiva y en constante evolución moldeada por cada uno de tus movimientos."
+    ],
+    [
+      "p",
+      "JUGABILIDAD"
+    ],
+    [
+      "p",
+      "Fisicidad auténtica de la NFL"
+    ],
+    [
+      "p",
+      "Cada jugada es una batalla por el control. Las nuevas interacciones entre WR Y DB aportan la verdadera fisicidad de la NFL a cada ruta, con forcejeos, empujones y fuerza más realistas que definen la separación y la cobertura. Gana momentos reñidos de 50/50 con recepciones según el tiempo e interacciones disputadas refinadas, o toma el mando en situaciones críticas con mecánicas mejoradas de yardas cortas y jugadas como el \"Tush Push\" que deciden partidos cuando cada centímetro cuenta."
+    ],
+    [
+      "p",
+      "Planificación de partidos y personalización"
+    ],
+    [
+      "p",
+      "Toma el control de cada decisión antes y después de la jugada. Los nuevos ajustes del plan de juego te permiten preconfigurar cómo se alinea y reacciona tu equipo, mientras que los controles simplificados previos a la jugada ponen cada ajuste al alcance de tu mano. Con una lógica más inteligente para recibidores que mantiene el juego vivo, así como sistemas de cobertura avanzada y lógicas de \"plaster\" que ayudan a los defensas a adaptarse en tiempo real, lo que te da un control total para ejecutar tu estrategia en cada jugada."
+    ],
+    [
+      "p",
+      "SUPERSTAR"
+    ],
+    [
+      "p",
+      "Conviértete en la mayor superestrella de la NFL de todos los tiempos a través del modo Carrera G.O.A.T. expandido. Progresa desde el instituto hasta el Salón de la fama con árboles de habilidad más profundos, nuevas posiciones jugables y desbloquea decisiones de carrera importantes a medida que tu legado crece."
+    ],
+    [
+      "p",
+      "ULTIMATE TEAM"
+    ],
+    [
+      "p",
+      "PRESENTACIÓN"
+    ],
+    [
+      "p",
+      "Las imágenes y sonidos de los domingos de la NFL traen tradiciones del estadio y momentos para enmarcar las historias de cada día de partido. Desde los paracaidistas previos al partido de Denver hasta la tirolina de Jaxson de Ville en Jacksonville, las nuevas introducciones, espectáculos de drones y paquetes de retransmisión festivos le dan a cada enfrentamiento la energía de un gran partido."
+    ],
+    [
+      "p",
+      "CLIMA DINÁMICO"
+    ],
+    [
+      "p",
+      "El clima dinámico puede alterar tu estrategia mientras te enfrentas a condiciones cambiantes a lo largo del partido. Un saque inicial soleado en Tampa Bay podría convertirse en un aguacero en el tercer cuarto antes de que vuelva a despejarse. La degradación del campo hace que jugar en el césped sea progresivamente más difícil e impacte el movimiento, la resistencia, la seguridad del balón y la estrategia de cada atleta."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Comodidad de la cámara"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-10300 (4 cores, 8 threads) / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 2060 / AMD Radeon RX 5600 XT / Intel Arc A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended; 8 logical CPU cores minimum; Intel Arc GPUs require Resizable BAR (ReBAR) enabled to meet expected performance Estimated performance when set to \"\"Low\"\" preset: 1920x1080 @ 60 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700 / AMD Ryzen 7 3700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia RTX 3060 Ti / AMD Radeon RX 6700 XT / Intel Arc B580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended; 8 logical CPU cores minimum; Intel Arc GPUs require Resizable BAR (ReBAR) enabled to meet expected performance Estimated performance when set to \"\"High\"\" preset: 2560x1440 @ 60 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/38d51293b4c35649078b98fcfb400136edf1975a/ss_38d51293b4c35649078b98fcfb400136edf1975a.600x338.jpg?t=1792087154",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/38d51293b4c35649078b98fcfb400136edf1975a/ss_38d51293b4c35649078b98fcfb400136edf1975a.1920x1080.jpg?t=1792087154"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/89514e0259f1e8a7b068158180fec811b9ab87c4/ss_89514e0259f1e8a7b068158180fec811b9ab87c4.600x338.jpg?t=1792087154",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/89514e0259f1e8a7b068158180fec811b9ab87c4/ss_89514e0259f1e8a7b068158180fec811b9ab87c4.1920x1080.jpg?t=1792087154"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/d25b9426498e06f19e9cfe85462627d3cabe3b31/ss_d25b9426498e06f19e9cfe85462627d3cabe3b31.600x338.jpg?t=1792087154",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/d25b9426498e06f19e9cfe85462627d3cabe3b31/ss_d25b9426498e06f19e9cfe85462627d3cabe3b31.1920x1080.jpg?t=1792087154"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/34588453e785e37518c3e448c91563c25ea0de95/ss_34588453e785e37518c3e448c91563c25ea0de95.600x338.jpg?t=1792087154",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/34588453e785e37518c3e448c91563c25ea0de95/ss_34588453e785e37518c3e448c91563c25ea0de95.1920x1080.jpg?t=1792087154"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/67576c775952a417d89db6ac8ddb242d147007c6/ss_67576c775952a417d89db6ac8ddb242d147007c6.600x338.jpg?t=1792087154",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3940610/67576c775952a417d89db6ac8ddb242d147007c6/ss_67576c775952a417d89db6ac8ddb242d147007c6.1920x1080.jpg?t=1792087154"
+    }
+  ],
+  "web": "https://www.ea.com/games/madden-nfl/madden-nfl-27",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.4,
+    "cantidad": 2556,
+    "escala": 5
+  },
+  "xbox": "9NJ6F163VF8C",
+  "igdbIntentado": true,
+  "igdb": 400379,
+  "youtube": [
+    {
+      "id": "bqQtZ9xm_uI",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:14:42.626Z"
 }

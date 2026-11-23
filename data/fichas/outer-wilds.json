@@ -2,7 +2,8 @@
   "clave": "outer wilds",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-09dd-729b-88aa-5496f800b3bd",
   "appid": "753640",
@@ -47,6 +48,45 @@
       "url": "https://opencritic.com/game/7815/outer-wilds"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "221672",
+      "nombre": "Outer Wilds",
+      "apps": [
+        {
+          "appid": "753640",
+          "nombre": "Outer Wilds"
+        }
+      ],
+      "usd": 6.49,
+      "antes": 12.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "753640": {
+      "usd": 6.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1286760",
+      "nombre": "Outer Wilds - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    },
+    {
+      "appid": "1622100",
+      "nombre": "Outer Wilds - Echoes of the Eye",
+      "gratis": false,
+      "usd": 4.14,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Outer Wilds, nombrado juego del año 2019 por Giant Bomb, Polygon, Eurogamer y The Guardian, es un galardonado título de mundo abierto, que se desarrolla en un enigmático sistema solar confinado a un bucle temporal infinito.",
   "generos": [
     "Acción",
@@ -57,6 +97,237 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/outer-wilds?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 91653,
-  "consultado": "2026-11-22T21:47:21.818Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Outer Wilds",
+  "acerca": [
+    [
+      "p",
+      "Outer Wilds , nombrado juego del año 2019 por Giant Bomb, Polygon, Eurogamer y The Guardian, es un galardonado título de mundo abierto, que se desarrolla en un enigmático sistema solar confinado a un bucle temporal infinito."
+    ],
+    [
+      "p",
+      "¡El programa espacial espera por ti!"
+    ],
+    [
+      "p",
+      "Eres la nueva incorporación de Outer Wilds Ventures, un programa espacial incipiente que busca respuestas en un sistema solar extraño y en constante evolución."
+    ],
+    [
+      "p",
+      "Los misterios del sistema solar..."
+    ],
+    [
+      "p",
+      "¿Qué acecha en el corazón del peligroso planeta Dark Bramble? ¿Quién o qué construyó las ruinas alienígenas en la Luna? ¿Es posible detener el interminable bucle de tiempo? Todas estas respuestas te aguardan en los rincones más profundos y riesgosos del espacio."
+    ],
+    [
+      "p",
+      "El tiempo todo lo cambia..."
+    ],
+    [
+      "p",
+      "Los planetas de Outer Wilds se encuentran plagados de ubicaciones ocultas que cambian con el paso del tiempo. Visita una ciudad subterránea antes de que se la trague la arena o explora la superficie de un planeta y observa cómo se cae a pedazos bajo tus propias narices. Unos ambientes peligrosos y las catástrofes naturales guardan cada uno de estos secretos."
+    ],
+    [
+      "p",
+      "¿Qué esperas? ¡Ve por tu equipo explorador!"
+    ],
+    [
+      "p",
+      "Cálzate tus botas exploradoras, revisa los niveles de oxígeno y prepárate para aventurarte en el espacio. Usa una variedad de dispositivos exclusivos para investigar tus alrededores, busca y rastrea señales misteriosas, descifra escrituras alienígenas ancestrales y, lo más importante, prepara el malvavisco perfecto."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Se recomienda usar un mando",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300 | AMD FX-4350"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 660, 2 GB | AMD Radeon HD 7870, 2 GB"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Gamepad or Controller Recommended (Xbox and PS4 Natively Supported)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 | AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1060 | AMD Radeon RX 580"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Gamepad or Controller Recommended (Xbox and PS4 Natively Supported)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_ec95a283483f0438be40d033f08b9d956e748d54.600x338.jpg?t=1785424341",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_ec95a283483f0438be40d033f08b9d956e748d54.1920x1080.jpg?t=1785424341"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_09f0fa8d9b8d7da1408cf4e03303d896cbd9be18.600x338.jpg?t=1785424341",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_09f0fa8d9b8d7da1408cf4e03303d896cbd9be18.1920x1080.jpg?t=1785424341"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_c624a6b8edca0d451605592edd927dbcc14917a8.600x338.jpg?t=1785424341",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_c624a6b8edca0d451605592edd927dbcc14917a8.1920x1080.jpg?t=1785424341"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_8683942f8d09eec32daeebe94867287424968f97.600x338.jpg?t=1785424341",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_8683942f8d09eec32daeebe94867287424968f97.1920x1080.jpg?t=1785424341"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_fe4a6504c49efa6e7cb9ecda7aeddb6f7451a2cc.600x338.jpg?t=1785424341",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_fe4a6504c49efa6e7cb9ecda7aeddb6f7451a2cc.1920x1080.jpg?t=1785424341"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11737,
+  "youtube": [
+    {
+      "id": "YS2KB_cFrTo",
+      "nombre": "Outer Wilds | Reveal Trailer"
+    },
+    {
+      "id": "1Lr2IYLAb_Y",
+      "nombre": "Outer Wilds | Xbox One Announce Trailer"
+    },
+    {
+      "id": "2EnIpUkQ__M",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "ZKJUMMCJvGM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:11.623Z"
 }

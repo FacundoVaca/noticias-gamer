@@ -2,7 +2,9 @@
   "clave": "arc raiders",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-6ee8-7321-a387-d87af065f568",
   "appid": "1808500",
@@ -48,12 +50,361 @@
       "url": "https://opencritic.com/game/19023/arc-raiders"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1399488",
+      "nombre": "Arc Raiders",
+      "apps": [
+        {
+          "appid": "1808500",
+          "nombre": "ARC Raiders"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1360210",
+      "nombre": "Arc Raiders - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1808500",
+          "nombre": "ARC Raiders"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 59.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1808500": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "5201760",
+      "nombre": "ARC Raiders - Frozen Trail Collector Set",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3948510",
+      "nombre": "ARC Raiders - Upgrade to Deluxe Edition",
+      "gratis": false,
+      "usd": 10,
+      "descuento": 50
+    },
+    {
+      "appid": "4920260",
+      "nombre": "ARC Raiders - The Tick Hunter Set",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    },
+    {
+      "appid": "4210150",
+      "nombre": "ARC Raiders - The Bonecrown Set",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    },
+    {
+      "appid": "4424920",
+      "nombre": "ARC Raiders - The Wasp Hunter Set",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    },
+    {
+      "appid": "4741040",
+      "nombre": "ARC Raiders - The Reaver Set",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    }
+  ],
   "descripcion": "ARC Raiders es un juego multijugador de aventura y extracción ambientado en un mortífero planeta Tierra del futuro, devastado por una misteriosa amenaza mecánica llamada ARC.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "30 OCT 2025",
   "metacritic": null,
-  "recomendaciones": 310948,
-  "consultado": "2026-11-22T21:44:29.330Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "ARC Raiders",
+  "acerca": [
+    [
+      "h",
+      "SAQUEA, SOBREVIVE, TRIUNFA"
+    ],
+    [
+      "p",
+      "En ARC Raiders, la jugabilidad alterna entre la superficie gobernada por las letales máquinas y la ajetreada sociedad subterránea de Speranza. Fabrica, repara y mejora tu equipamiento con toda tranquilidad en tu propio taller antes de irte a la superficie para saquear los restos de un mundo desolado pero hermoso. Juega en solitario o en un grupo de hasta tres jugadores y recorre un entorno lleno de amenazas debido a las ARC y a las decisiones impredecibles del resto de supervivientes. Solo tú puedes elegir qué tipo de Raider eres y hasta dónde llegarás para triunfar."
+    ],
+    [
+      "h",
+      "EXPLORA UN MUNDO INMERSIVO"
+    ],
+    [
+      "p",
+      "Explora cuatro mapas distintos en el lanzamiento, y más que llegarán a medida que la sociedad subterránea evoluciona y se expande a nuevos territorios. Cada destino acarrea el peso de un mundo destruido dos veces y las cicatrices de conflictos antiguos y recientes. Saquea los restos para hacerte con botín valioso y descifra los acontecimientos de un pasado engullido por la naturaleza. Las condiciones del mapa cambiantes harán que cada incursión sea distinta a la anterior, puesto que el clima variable, los enemigos y las mecánicas aportarán más imprevisibilidad y peligro."
+    ],
+    [
+      "h",
+      "RECLAMA TU LUGAR"
+    ],
+    [
+      "p",
+      "En una sociedad construida sobre la base de la valentía y la bravuconería, deberás esforzarte para hacerte un lugar como Raider. Podrás vender el botín que saquees para conseguir dinero o usarlo para fabricar equipamiento nuevo, lo que te permitirá hacer frente a peligros cada vez mayores. Tus victorias y tus fracasos te proporcionarán experiencia con la que podrás desbloquear todo tipo de habilidades que te permitirán jugar de formas distintas. Además, podrás completar los encargos que te encomienden los comerciantes para sus propios fines, con lo que descubrirás las desavenencias y la camaradería de una comunidad siempre al borde del colapso."
+    ],
+    [
+      "h",
+      "CUIDADO CON LAS MÁQUINAS"
+    ],
+    [
+      "p",
+      "Una máquinas letales llamadas ARC se han apoderado de la superficie, desde enjambres de drones incansables hasta titanes mecánicos que lo aniquilan todo a su paso. Sus orígenes siguen siendo un misterio, pero el peligro constante que suponen está presente a cada paso que das. Cada máquina tiene sus propios puntos fuertes y sus tácticas, lo que te obligará a buscar sus puntos débiles y adaptarte sobre la marcha. Y recuerda: el ruido de la batalla atrae. Puede que lo oigan otros Raiders y quieran llevarse lo que dejes atrás."
+    ],
+    [
+      "h",
+      "FORJA TU PROPIO DESTINO"
+    ],
+    [
+      "p",
+      "Los Raiders sobreviven saqueando materiales aquí y allá. Usan tecnología perdida y piezas ARC para fabricar armas, artilugios y equipamiento. Mejora tus estaciones de trabajo y aprende proyectos para fabricar objetos aún más avanzados o para improvisarlos sobre el terreno para salir de un apuro. A medida que te labres una reputación, podrás medir tus fuerzas contra las de otros Raiders en las pruebas y ascender por el marcador para hacerte con recompensas de lo más valiosas."
+    ],
+    [
+      "h",
+      "ENCARGOS"
+    ],
+    [
+      "p",
+      "En Speranza, todo el mundo se mueve por interés, y los comerciantes no son una excepción. Te mandarán a la superficie para que completes sus encargos a cambio de recompensas. Poco a poco, irás descubriendo quiénes son y qué quieren para el futuro de Speranza. Completa encargos para conseguir equipamiento, materiales de fabricación y XP para subir de nivel a tu Raider y desbloquear más puntos de habilidad."
+    ],
+    [
+      "h",
+      "ÁRBOL DE HABILIDADES"
+    ],
+    [
+      "p",
+      "El árbol de habilidades de ARC Raiders tiene tres ramas: supervivencia, movilidad y estado. Gasta tus puntos para moldear tu estilo de juego. Saquea más rápido y muévete sin hacer tanto ruido con las habilidades de supervivencia. Supera a tus oponentes y a las amenazas con las habilidades de movilidad. Mejora tu fuerza y tu aguante con las habilidades de estado. De esta forma, podrás elegir cómo crece tu Raider y qué llevará al combate."
+    ],
+    [
+      "h",
+      "CREA TU ARSENAL"
+    ],
+    [
+      "p",
+      "Hay un arma para todos los gustos, tanto si quieres ir a abatir a un enemigo ARC específico o como si vas a enfrentarte a Raiders rivales. Ajusta tu armamento a tu estilo de juego personal con el amplio abanico de armas disponibles, como subfusiles, fusiles y escopetas. También hay opciones más avanzadas, como los cañones de riel o las armas de energía. Las granadas, las trampas, las tirolinas y los objetos desplegables te ofrecen las opciones tácticas necesarias para vencer a tus rivales, mientras que los aumentos te ayudarán a adaptar tu armamento a tu forma de jugar. Ve desbloqueando espacios del inventario dedicados y más ventajas de jugabilidad."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Estadísticas"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 or later 64-bit (latest update)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K or AMD Ryzen R5 1600 processor"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 or later 64-bit (latest update)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K or AMD Ryzen 5 3600 processor"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2070 or AMD Radeon RX 5700 XT or Intel Arc B570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/1763664f3ea80080867eafa751685b7feec950c8/ss_1763664f3ea80080867eafa751685b7feec950c8.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/1763664f3ea80080867eafa751685b7feec950c8/ss_1763664f3ea80080867eafa751685b7feec950c8.1920x1080.jpg?t=1794215815"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/5188aa2b07920afe9753409ea9fe3d1324cfc294/ss_5188aa2b07920afe9753409ea9fe3d1324cfc294.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/5188aa2b07920afe9753409ea9fe3d1324cfc294/ss_5188aa2b07920afe9753409ea9fe3d1324cfc294.1920x1080.jpg?t=1794215815"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/155fc161a45949e61f41e473282f9ed7ec221efe/ss_155fc161a45949e61f41e473282f9ed7ec221efe.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/155fc161a45949e61f41e473282f9ed7ec221efe/ss_155fc161a45949e61f41e473282f9ed7ec221efe.1920x1080.jpg?t=1794215815"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/cb49dfbcd7175c86e297b35ffc54cf779708f0ae/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/cb49dfbcd7175c86e297b35ffc54cf779708f0ae/ss_cb49dfbcd7175c86e297b35ffc54cf779708f0ae.1920x1080.jpg?t=1794215815"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/0b1fa1294fa269633112be2c3d8758df42baebe1/ss_0b1fa1294fa269633112be2c3d8758df42baebe1.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/0b1fa1294fa269633112be2c3d8758df42baebe1/ss_0b1fa1294fa269633112be2c3d8758df42baebe1.1920x1080.jpg?t=1794215815"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/c411b8fa5b7bc12943e73a4818edb98c3c7c2fae/ss_c411b8fa5b7bc12943e73a4818edb98c3c7c2fae.600x338.jpg?t=1794215815",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/c411b8fa5b7bc12943e73a4818edb98c3c7c2fae/ss_c411b8fa5b7bc12943e73a4818edb98c3c7c2fae.1920x1080.jpg?t=1794215815"
+    }
+  ],
+  "web": "https://arcraiders.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.4,
+    "cantidad": 22794,
+    "escala": 5
+  },
+  "xbox": "9NDF1F263RZ4",
+  "igdbIntentado": true,
+  "igdb": 185258,
+  "youtube": [
+    {
+      "id": "61adghS9aps",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OpCooWm-PDs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "z8NN00Wtj5c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "xuftkDxjGT4",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:18:56.971Z"
 }

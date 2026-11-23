@@ -2,7 +2,8 @@
   "clave": "death stranding 2 on the beach",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c5415-b335-70b0-8977-4be74e816e5f",
   "appid": "3280350",
@@ -55,6 +56,51 @@
       "url": "https://opencritic.com/game/18226/death-stranding-2-on-the-beach"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1454700",
+      "nombre": "DEATH STRANDING 2: ON THE BEACH",
+      "apps": [
+        {
+          "appid": "3280350",
+          "nombre": "DEATH STRANDING 2: ON THE BEACH"
+        }
+      ],
+      "usd": 46.89,
+      "antes": 69.99,
+      "descuento": 33
+    },
+    {
+      "packageid": "1451834",
+      "nombre": "DEATH STRANDING 2: ON THE BEACH - Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3280350",
+          "nombre": "DEATH STRANDING 2: ON THE BEACH"
+        }
+      ],
+      "usd": 53.59,
+      "antes": 79.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "3280350": {
+      "usd": 46.47,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3669170",
+      "nombre": "DEATH STRANDING 2: ON THE BEACH - Upgrade to Digital Deluxe Edition",
+      "gratis": false,
+      "usd": 6.7,
+      "descuento": 33
+    }
+  ],
   "descripcion": "Sam —y sus compañeros— emprenden un viaje para salvar a la humanidad de la extinción. Únete a ellos y recorre un mundo asolado por enemigos sobrenaturales, obstáculos y una inquietante pregunta: ¿deberíamos haber conectado?",
   "generos": [
     "Acción",
@@ -62,6 +108,357 @@
   ],
   "lanzamientoTexto": "19 MAR 2026",
   "metacritic": null,
-  "recomendaciones": 16280,
-  "consultado": "2026-11-22T21:46:44.731Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "DEATH STRANDING 2: ON THE BEACH",
+  "acerca": [
+    [
+      "p",
+      "Del legendario creador de videojuegos Hideo Kojima, llega una evolución cargada de emoción del título que redefinió un género. KOJIMA PRODUCTIONS ha colaborado con Nixxes Software en la adaptación de este título para PC a fin de crear la versión definitiva del aclamado juego de consola."
+    ],
+    [
+      "h",
+      "Un mundo realista y único"
+    ],
+    [
+      "p",
+      "El vasto mundo abierto de DEATH STRANDING 2: ON THE BEACH presenta una amplia amalgama de zonas con distintos tipos de terreno y entornos interconectados, donde las condiciones meteorológicas, el paso del tiempo y la naturaleza transforman el paisaje y crean nuevos desafíos."
+    ],
+    [
+      "h",
+      "Acción mejorada y mucho más flexible"
+    ],
+    [
+      "p",
+      "Sam se topará con toda clase de obstáculos para cumplir su misión. Elige enfrentarte a ellos directamente, evitarlos en sigilo o alejarte por completo de las zonas peligrosas. Tú decides cómo afrontar cada situación."
+    ],
+    [
+      "h",
+      "Una historia profunda y fascinante"
+    ],
+    [
+      "p",
+      "Once meses tras los acontecimientos del DEATH STRANDING original, reúnete con Sam y sus compañeros en un nuevo viaje para salvar a la humanidad de la extinción y encontrar respuesta a esta inquietante pregunta: ¿deberíamos haber conectado?"
+    ],
+    [
+      "h",
+      "Aventúrate más allá de las CUA"
+    ],
+    [
+      "p",
+      "Únete a Sam en el siguiente capítulo de su aventura en su misión por conectar Australia a la red quiral. Muévete por un entorno vivo sujeto a los ciclos de día y noche, a los desastres naturales —como terremotos, tormentas de arena e incendios forestales— y al declive, una lluvia que hace envejecer al instante todo lo que toca."
+    ],
+    [
+      "p",
+      "Para moverte por este peligroso entorno, necesitarás construir nuevos tipos de infraestructuras, dominar el equipamiento especializado y enfrentarte (o evitar) a las criaturas sobrenaturales que deambulan por este mundo fragmentado."
+    ],
+    [
+      "h",
+      "Lucha por el futuro"
+    ],
+    [
+      "p",
+      "Enfréntate a los enigmáticos soldados meca, a EV nunca vistos hasta ahora y a nuevos tipos de jefes que llevarán a Sam al límite. Mientras te preparas para cada encargo, fabrica armas como ametralladoras, escopetas y lanzagranadas con las que enfrentarte a amenazas, u opta por evitar el enfrentamiento y usar hologramas, derribos con sigilo y equipamiento a distancia."
+    ],
+    [
+      "p",
+      "Con las mejoras del APAS, Sam aprenderá nuevas habilidades que mejorarán sus posibilidades de supervivencia, como una mayor cadencia de las armas o menor ruido al moverse para evitar ser detectado."
+    ],
+    [
+      "h",
+      "Colabora para unir Australia"
+    ],
+    [
+      "p",
+      "El emblemático Servicio de Conexión Social de DEATH STRANDING regresa para fomentar la conexión asíncrona por todo el mundo. Tus acciones en el juego pueden afectar a cómo interactúan otros jugadores con el mundo del juego y viceversa, así que no dudes en conectar, colaborar y ayudar a otros portadores en sus viajes."
+    ],
+    [
+      "p",
+      "Deja un Me gusta si un puente te ha resultado útil, dona recursos para proyectos de la comunidad, almacena equipamiento en las taquillas públicas y completa los encargos pendientes cuando te encuentres con carga que hayan perdido otros portadores. A medida que ayudes a otros jugadores en sus viajes, tu reputación aumentará y tendrás acceso tanto a recursos más valiosos como a equipamiento nuevo."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS PARA PC:"
+    ],
+    [
+      "p",
+      "Descubre nuevos límites con la tecnología de escalado"
+    ],
+    [
+      "p",
+      "Integración total con las tecnologías de escalado y generación de fotogramas XeSS de Intel, DLSS de NVIDIA y FSR de AMD, para jugar a resoluciones de salida mayores y así explorar un vasto mundo abierto impredecible con gráficos nítidos de alta fidelidad.¹"
+    ],
+    [
+      "h",
+      "Tasas de fotogramas ilimitadas y bancos de pruebas gráficos personalizados"
+    ],
+    [
+      "p",
+      "Disfruta de tasas de fotogramas más elevadas y ajustes gráficos personalizados compatibles con una amplia variedad de hardware para un rendimiento óptimo durante tus misiones de reparto.¹"
+    ],
+    [
+      "h",
+      "Compatibilidad con monitores ultraanchos"
+    ],
+    [
+      "p",
+      "Admira aún más este increíble mundo gracias a la compatibilidad con monitores panorámicos superanchos (32:9) para el juego, y con monitores ultraanchos estándares (21:9) para las escenas cinemáticas.²"
+    ],
+    [
+      "h",
+      "Personalización de controles"
+    ],
+    [
+      "p",
+      "Toma el control con la compatibilidad completa con ratón y teclado para adaptarlo a tu estilo de juego. Personaliza aún más tu forma de jugar con la asignación de controles ajustable."
+    ],
+    [
+      "h",
+      "Integración de DualSense®"
+    ],
+    [
+      "p",
+      "Siente la acción con la integración total del mando DualSense®. Vive toda la emoción del combate con la respuesta háptica o ajusta la distribución de la carga —y tu propio equilibrio— con la innovadora función de los gatillos adaptativos.³"
+    ],
+    [
+      "p",
+      "- - - - - - - -"
+    ],
+    [
+      "p",
+      "¹ Requiere un PC y una tarjeta gráfica compatibles."
+    ],
+    [
+      "p",
+      "² Requiere un PC y una pantalla compatibles."
+    ],
+    [
+      "p",
+      "³ Requiere un mando DualSense® y conexión por cable para aprovechar todas las funciones del mando en el juego."
+    ],
+    [
+      "p",
+      "⁴ Compatible con audio 3D usando Dolby Access o DTS Sound Unbound, o Windows Sonic para auriculares."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Steam Cloud",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10/11 Version 1909 or newer"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-10100, AMD Ryzen 3 3100"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660, AMD Radeon RX 5500 XT 8GB"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10/11 Version 1909 or newer"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-11700, AMD Ryzen 7 5700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3070, AMD Radeon RX 6800"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/702c9ed8dc25f26be07539cd5cfb9f08046d210a/ss_702c9ed8dc25f26be07539cd5cfb9f08046d210a.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/702c9ed8dc25f26be07539cd5cfb9f08046d210a/ss_702c9ed8dc25f26be07539cd5cfb9f08046d210a.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/9732214efafbe68e6618806556cd448578217a04/ss_9732214efafbe68e6618806556cd448578217a04.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/9732214efafbe68e6618806556cd448578217a04/ss_9732214efafbe68e6618806556cd448578217a04.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/1a78ae746ca46713e3c2cb2e5c4f197fea72fe50/ss_1a78ae746ca46713e3c2cb2e5c4f197fea72fe50.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/1a78ae746ca46713e3c2cb2e5c4f197fea72fe50/ss_1a78ae746ca46713e3c2cb2e5c4f197fea72fe50.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/f8c42434fe7d51fdb3f039ca06a99f5f18518a31/ss_f8c42434fe7d51fdb3f039ca06a99f5f18518a31.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/f8c42434fe7d51fdb3f039ca06a99f5f18518a31/ss_f8c42434fe7d51fdb3f039ca06a99f5f18518a31.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/dc15199b7f71ce4279be8002e9e5c508ecde83bc/ss_dc15199b7f71ce4279be8002e9e5c508ecde83bc.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/dc15199b7f71ce4279be8002e9e5c508ecde83bc/ss_dc15199b7f71ce4279be8002e9e5c508ecde83bc.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/346a0dac8c589d8df5b208e5574cc75ab3d35fdf/ss_346a0dac8c589d8df5b208e5574cc75ab3d35fdf.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/346a0dac8c589d8df5b208e5574cc75ab3d35fdf/ss_346a0dac8c589d8df5b208e5574cc75ab3d35fdf.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/8589dfcf440dcaf847351491a67fd148b3db02ed/ss_8589dfcf440dcaf847351491a67fd148b3db02ed.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/8589dfcf440dcaf847351491a67fd148b3db02ed/ss_8589dfcf440dcaf847351491a67fd148b3db02ed.1920x1080.jpg?t=1774022345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/5cf7df6b041b24b0665f367ccbbcd17de87173f1/ss_5cf7df6b041b24b0665f367ccbbcd17de87173f1.600x338.jpg?t=1774022345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/5cf7df6b041b24b0665f367ccbbcd17de87173f1/ss_5cf7df6b041b24b0665f367ccbbcd17de87173f1.1920x1080.jpg?t=1774022345"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game contains content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content, Violence and Strong Language.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 228530,
+  "youtube": [
+    {
+      "id": "wbLstJHlC4U",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "eT_A2gPhTIw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "Yrgz3mPWMHg",
+      "nombre": "PC Version Launch Trailer"
+    },
+    {
+      "id": "DmLXvJ_KgvI",
+      "nombre": "Performance Captuire Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:39.241Z"
 }

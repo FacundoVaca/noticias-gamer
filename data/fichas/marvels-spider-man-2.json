@@ -2,7 +2,8 @@
   "clave": "marvels spider man 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7871-736b-991b-3dc2794ac099",
   "appid": "2651280",
@@ -53,6 +54,28 @@
       "url": "https://opencritic.com/game/15052/marvels-spider-man-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1219797",
+      "nombre": "Marvel's Spider-Man 2",
+      "apps": [
+        {
+          "appid": "2651280",
+          "nombre": "Marvel's Spider-Man 2"
+        }
+      ],
+      "usd": 33.49,
+      "antes": 49.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "2651280": {
+      "usd": 33.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Los grandes héroes se forjan juntos. El increíble poder del simbionte lleva a Peter Parker y Miles Morales a una lucha desesperada mientras intentan equilibrar sus vidas, sus amistades y su deber de proteger a los demás en un emocionante capítulo de la aclamada franquicia Spider-Man en PC.",
   "generos": [
     "Acción",
@@ -60,6 +83,393 @@
   ],
   "lanzamientoTexto": "30 ENE 2025",
   "metacritic": null,
-  "recomendaciones": 35456,
-  "consultado": "2026-11-22T21:44:01.148Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Marvel's Spider-Man 2",
+  "acerca": [
+    [
+      "p",
+      "La edición incluye:"
+    ],
+    [
+      "p",
+      "Marvel’s Spider-Man 2"
+    ],
+    [
+      "h",
+      "El Sentido Arácnido se ha activado…"
+    ],
+    [
+      "p",
+      "Ponte la máscara y lánzate a la acción con la llegada a PC de Marvel’s Spider-Man 2 ."
+    ],
+    [
+      "p",
+      "Desarrollado por Insomniac Games en colaboración con Marvel y optimizado para PC por Nixxes Software."
+    ],
+    [
+      "p",
+      "¡Una ciudad asediada!"
+    ],
+    [
+      "p",
+      "Los dos Spider-Men, Peter Parker y Miles Morales, se enfrentan a la prueba de fortaleza definitiva, tanto con máscara como sin ella, en su lucha por salvar la ciudad, sus vidas y a sus seres queridos de la amenaza del monstruoso Venom y el peligroso nuevo simbionte."
+    ],
+    [
+      "p",
+      "Recorre una versión expandida de la Nueva York de Marvel"
+    ],
+    [
+      "p",
+      "Explora una versión más grande de la Nueva York de Marvel que incluye nuevos barrios (Brooklyn y Queens), además de nuevas ubicaciones como Coney Island entre otras."
+    ],
+    [
+      "p",
+      "Balancéate, salta y usa las alarañas para viajar por la ciudad, alternando rápidamente entre Peter Parker y Miles Morales en un mundo abierto que tendrás que explorar para descubrir historias distintas y poderes épicos."
+    ],
+    [
+      "p",
+      "Juega con dos Spider-Men distintos"
+    ],
+    [
+      "p",
+      "Aprovecha las nuevas técnicas de simbionte de Peter y los poderes bioeléctricos explosivos de Miles y descubre equipo de alta tecnología que podrás actualizar para mejorar la profunda y variada experiencia de combate."
+    ],
+    [
+      "p",
+      "Combate contra supervillanos icónicos de Marvel"
+    ],
+    [
+      "p",
+      "¡Enfréntate a una gran variedad de villanos nuevos y emblemáticos, como el monstruoso Venom, el despiadado Kraven el Cazador, el impredecible Lizard y muchos más!"
+    ],
+    [
+      "p",
+      "Una experiencia de Spider-Man más accesible"
+    ],
+    [
+      "p",
+      "Compatible con una variedad de funciones de accesibilidad para que jugadores con distintas capacidades puedan disfrutar de una experiencia de Marvel’s Spider-Man sin barreras."
+    ],
+    [
+      "h",
+      "Características de PC"
+    ],
+    [
+      "p",
+      "Gráficos optimizados en PC"
+    ],
+    [
+      "p",
+      "Si vas a salvar el mundo, que sea con estilo: disfruta de la mejor calidad gráfica y velocidades de fotogramas superiores. Aprovecha tecnologías como el escalado y la generación de fotogramas de NVIDIA DLSS 3 y AMD FSR 3.1¹. También compatible con la tecnología de escalado Intel XeSS.¹"
+    ],
+    [
+      "p",
+      "Trazado de rayos mejorado¹"
+    ],
+    [
+      "p",
+      "Los reflejos, las sombras y la oclusión ambiental hacen que la Nueva York de Marvel cobre vida a tu alrededor. Prueba los diferentes modos de calidad disponibles y disfruta de las espectaculares vistas de la ciudad desde las alturas. Si dispones de la GPU NVIDIA GeForce RTX, podrás aplicar además la reconstrucción de rayos de DLSS. Esta técnica utiliza una red de IA entrenada por un superordenador NVIDIA para generar píxeles de mayor calidad entre los rayos muestreados, dando como resultado imágenes más nítidas y fieles."
+    ],
+    [
+      "p",
+      "Compatibilidad con monitores ultrapanorámicos²"
+    ],
+    [
+      "p",
+      "Disfruta de una claridad de imagen sin precedentes con una gran selección de configuraciones de pantalla, incluidas las resoluciones 16:9, 16:10, 21:9, 32:9 y 48:9con sistemas de tres pantallas de NVIDIA Surround o AMD Eyefinity."
+    ],
+    [
+      "p",
+      "Superposición de PlayStation® y trofeos"
+    ],
+    [
+      "p",
+      "Los usuarios de PC ya pueden aprovechar la superposición de PlayStation® y ganar trofeos, acceder a listas de amigos, a los ajustes y a su perfil de jugador."
+    ],
+    [
+      "p",
+      "Pulsa el atajo mayús + F1, o bien sigue el menú del juego para abrir la superposición."
+    ],
+    [
+      "p",
+      "Controles y personalización"
+    ],
+    [
+      "p",
+      "Siente el auténtico poder de Spider-Man en tus manos con el mando DualSense® de PlayStation a través de la conexión USB, o disfruta de una compatibilidad completa con ratones y teclados."
+    ],
+    [
+      "p",
+      "Retroalimentación háptica de Dualsense³"
+    ],
+    [
+      "p",
+      "Controla las técnicas de simbionte de Peter Parker y las habilidades bioeléctricas de Miles Morales con las vibraciones dinámicas del mando DualSense."
+    ],
+    [
+      "p",
+      "Gatillos adaptativos de DualSense³"
+    ],
+    [
+      "p",
+      "Domina movimientos acrobáticos, ejecuta emocionantes combos y vive la impresionante sensación de balancearte con las telarañas gracias a los gatillos adaptativos del mando inalámbrico DualSense."
+    ],
+    [
+      "p",
+      "¹ Requiere un PC compatible."
+    ],
+    [
+      "p",
+      "² Requiere un PC y una pantalla compatibles."
+    ],
+    [
+      "p",
+      "³ Requiere conexión por cable para aprovechar todas las funciones del mando en el juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false
+    },
+    {
+      "nombre": "Griego",
+      "voces": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (version 1909 or higher)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8100 or AMD Ryzen 3 3100"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650 or AMD Radeon RX 5500 XT"
+      ],
+      [
+        "Almacenamiento",
+        "140 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (version 1909 or higher)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700"
+      ],
+      [
+        "Almacenamiento",
+        "140 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_e4b67059ddedaeebd91fce113745f3eb99736f56.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b4be948946130b7e140be82f24f1f9ccefae9117.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_f4140ba12158b812d9c1adc86c484d8e84b92e92.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_7ef8bc176702470fdc73f62f8e537c3912e70444.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_7ef8bc176702470fdc73f62f8e537c3912e70444.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_474a7ffe98998719c22025cc99da1f45dfca025e.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_474a7ffe98998719c22025cc99da1f45dfca025e.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_aa8346cf207a1e114c5f9e7f6c3086c5dc9c3050.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_aa8346cf207a1e114c5f9e7f6c3086c5dc9c3050.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b34716a6d4505bfe32f83530e46aac5a5728f441.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_b34716a6d4505bfe32f83530e46aac5a5728f441.1920x1080.jpg?t=1763569811"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_0fda7c96ee3f16038559fffa8c2cd7b3ac433c2b.600x338.jpg?t=1763569811",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/ss_0fda7c96ee3f16038559fffa8c2cd7b3ac433c2b.1920x1080.jpg?t=1763569811"
+    }
+  ],
+  "web": "https://www.playstation.com/games/marvels-spider-man-2/marvels-spider-man-2-pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 127044,
+  "youtube": [
+    {
+      "id": "qIQ3xNqkVC4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "XrPZSq5YXqc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "eAIrrR_YMRc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bgqGdIoa52s",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:16:59.921Z"
 }

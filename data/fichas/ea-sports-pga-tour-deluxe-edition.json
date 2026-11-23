@@ -1,9 +1,9 @@
 {
   "clave": "ea sports pga tour deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6971-7292-85a1-1ffcbaec2372",
   "appid": "1677350",
@@ -30,14 +30,47 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "596638",
+      "nombre": "EA SPORTS™ PGA TOUR™",
+      "apps": [
+        {
+          "appid": "1677350",
+          "nombre": "EA SPORTS™ PGA TOUR™"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "788943",
+      "nombre": "EA SPORTS™ PGA TOUR™ Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1677350",
+          "nombre": "EA SPORTS™ PGA TOUR™"
+        }
+      ],
+      "usd": 8.49,
+      "antes": 84.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1677350": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "2337580",
       "nombre": "EA SPORTS™ PGA TOUR™ Deluxe Upgrade",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     }
   ],
@@ -48,6 +81,7 @@
   ],
   "lanzamientoTexto": "6 ABR 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "EA SPORTS™ PGA TOUR™",
   "acerca": [
     [
@@ -93,7 +127,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -197,5 +232,30 @@
     }
   ],
   "web": "https://www.ea.com/games/ea-sports-pga-tour",
-  "consultado": "2026-11-22T22:24:39.549Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 145232,
+  "youtube": [
+    {
+      "id": "XeJ_KuMZPb4",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "uZQKSnGp4ZA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SzOJO4LwEj4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AnwkPFtOAfY",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:16:54.855Z"
 }

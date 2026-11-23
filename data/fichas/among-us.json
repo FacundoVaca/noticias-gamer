@@ -1,9 +1,10 @@
 {
   "clave": "among us",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-32ad-726b-b62a-3d4a7df71044",
   "appid": "945360",
@@ -47,6 +48,41 @@
       "url": "https://opencritic.com/game/10238/among-us"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "307391",
+      "nombre": "Among Us",
+      "apps": [
+        {
+          "appid": "945360",
+          "nombre": "Among Us"
+        }
+      ],
+      "usd": 1.49,
+      "antes": 2.49,
+      "descuento": 40
+    },
+    {
+      "packageid": "518028",
+      "nombre": "Among Us - Commercial License",
+      "apps": [
+        {
+          "appid": "945360",
+          "nombre": "Among Us"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 5.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "945360": {
+      "usd": 1.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Un juego de socialización local o en línea de trabajo en equipo y traición para 4 a 15 jugadores... ¡ambientado en el espacio!",
   "generos": [
     "Casual"
@@ -56,6 +92,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/among-us?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Among Us",
   "acerca": [
     [
@@ -194,59 +231,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -322,5 +373,38 @@
     }
   ],
   "web": "http://innersloth.com/gameAmongUs.php",
-  "consultado": "2026-11-22T22:06:34.068Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.8,
+    "cantidad": 39619,
+    "escala": 5
+  },
+  "xbox": "9NG07QJNK38J",
+  "igdbIntentado": true,
+  "igdb": 111469,
+  "youtube": [
+    {
+      "id": "m4smMkGbhHw",
+      "nombre": "Hide n Seek Trailer"
+    },
+    {
+      "id": "JpalSQkmp2g",
+      "nombre": "15 Player Lobbies Trailer"
+    },
+    {
+      "id": "ZHhk0dDJwBM",
+      "nombre": "MIRA HQ Launch Trailer"
+    },
+    {
+      "id": "TJ7lF3MDTsQ",
+      "nombre": "Cosmicude Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:24.944Z"
 }

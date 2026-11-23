@@ -2,7 +2,8 @@
   "clave": "american truck simulator",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ffc6-7240-84fa-dc653171dc0f",
   "appid": "270880",
@@ -46,6 +47,311 @@
       "url": "https://opencritic.com/game/2186/american-truck-simulator"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "36006",
+      "nombre": "American Truck Simulator",
+      "apps": [
+        {
+          "appid": "270880",
+          "nombre": "American Truck Simulator"
+        }
+      ],
+      "usd": 2.64,
+      "antes": 10.59,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "270880": {
+      "usd": 2.64,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 62,
+  "dlcLista": [
+    {
+      "appid": "3793200",
+      "nombre": "American Truck Simulator - Road Trip: Ford",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 0
+    },
+    {
+      "appid": "5411740",
+      "nombre": "American Truck Simulator - Route 66 Paint Jobs Pack",
+      "gratis": false,
+      "usd": 1.34,
+      "descuento": 0
+    },
+    {
+      "appid": "3749870",
+      "nombre": "American Truck Simulator - South Dakota",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3486960",
+      "nombre": "American Truck Simulator - Illinois",
+      "gratis": false,
+      "usd": 5.75,
+      "descuento": 10
+    },
+    {
+      "appid": "4348660",
+      "nombre": "American Truck Simulator - Bobcat Cargo Pack",
+      "gratis": false,
+      "usd": 2.38,
+      "descuento": 10
+    },
+    {
+      "appid": "3012580",
+      "nombre": "American Truck Simulator - Louisiana",
+      "gratis": false,
+      "usd": 5.75,
+      "descuento": 10
+    },
+    {
+      "appid": "3025440",
+      "nombre": "American Truck Simulator - Iowa",
+      "gratis": false,
+      "usd": 4.47,
+      "descuento": 30
+    },
+    {
+      "appid": "2730870",
+      "nombre": "American Truck Simulator - Missouri",
+      "gratis": false,
+      "usd": 4.47,
+      "descuento": 30
+    },
+    {
+      "appid": "2585150",
+      "nombre": "American Truck Simulator - Arkansas",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2543810",
+      "nombre": "American Truck Simulator - Nebraska",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2926440",
+      "nombre": "American Truck Simulator - JCB Equipment Pack",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "2910160",
+      "nombre": "American Truck Simulator - Sports Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "2720080",
+      "nombre": "American Truck Simulator - Kenworth T680 2022",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2675870",
+      "nombre": "American Truck Simulator - Michelin Fan Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 50
+    },
+    {
+      "appid": "2638630",
+      "nombre": "American Truck Simulator - Farm Machinery",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "2298430",
+      "nombre": "American Truck Simulator - Kansas",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2209650",
+      "nombre": "American Truck Simulator - Oklahoma",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "2386530",
+      "nombre": "American Truck Simulator - W900 Tuning Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "1465750",
+      "nombre": "American Truck Simulator - Texas",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "1967690",
+      "nombre": "American Truck Simulator - Lode King & Prestige Trailers Pack",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "1811080",
+      "nombre": "American Truck Simulator - Montana",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1415692",
+      "nombre": "American Truck Simulator - Wyoming",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1209471",
+      "nombre": "American Truck Simulator - Colorado",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1209470",
+      "nombre": "American Truck Simulator - Idaho",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1104880",
+      "nombre": "American Truck Simulator - Utah",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1015160",
+      "nombre": "American Truck Simulator - Washington",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "800370",
+      "nombre": "American Truck Simulator - Oregon",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "684630",
+      "nombre": "American Truck Simulator - New Mexico",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 50
+    },
+    {
+      "appid": "1477840",
+      "nombre": "American Truck Simulator - Cabin Accessories",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 50
+    },
+    {
+      "appid": "962750",
+      "nombre": "American Truck Simulator - Special Transport",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "1076080",
+      "nombre": "American Truck Simulator - Forest Machinery",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "1662380",
+      "nombre": "American Truck Simulator - Volvo Construction Equipment",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "620610",
+      "nombre": "American Truck Simulator - Heavy Cargo Pack",
+      "gratis": false,
+      "usd": 1.32,
+      "descuento": 50
+    },
+    {
+      "appid": "450550",
+      "nombre": "American Truck Simulator - Wheel Tuning Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1621740",
+      "nombre": "American Truck Simulator - Goodyear Tires Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 50
+    },
+    {
+      "appid": "520550",
+      "nombre": "American Truck Simulator - Steering Creations Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 50
+    },
+    {
+      "appid": "561620",
+      "nombre": "American Truck Simulator - Dragon Truck Design Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "1784890",
+      "nombre": "American Truck Simulator - Retrowave Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "1116310",
+      "nombre": "American Truck Simulator - Space Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    },
+    {
+      "appid": "951650",
+      "nombre": "American Truck Simulator - Classic Stripes Paint Jobs Pack",
+      "gratis": false,
+      "usd": 0.67,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States.",
   "generos": [
     "Indie",
@@ -56,6 +362,415 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/american-truck-simulator?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 170518,
-  "consultado": "2026-11-22T21:47:19.681Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "American Truck Simulator",
+  "acerca": [
+    [
+      "p",
+      "Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States."
+    ],
+    [
+      "p",
+      "Game mechanics are based on the highly successful model from Euro Truck Simulator 2 and have been expanded with new features, creating the most captivating game experience from SCS Software."
+    ],
+    [
+      "p",
+      "American Truck Simulator puts you in the seat of a driver for hire entering the local freight market, making you work your way up to become an owner-operator, and go on to create one of the largest transportation companies in the United States."
+    ],
+    [
+      "h",
+      "Features"
+    ],
+    [
+      "p",
+      "Drive highly detailed truck models officially licensed from iconic truck manufacturers."
+    ],
+    [
+      "p",
+      "Your truck is your new home. Make it yours by changing cabins, chassis, paintjobs, adding tuning accessories or more powerful engines."
+    ],
+    [
+      "p",
+      "Lots of different cargoes to choose: From food to machinery to hazard cargoes."
+    ],
+    [
+      "p",
+      "Multiple types of trailers – from reefers to flatbeds, from dumpers to lowboys and goosenecks."
+    ],
+    [
+      "p",
+      "The longest trailers (up to 53 ft) will challenge your skills and patience while hauling and during parking."
+    ],
+    [
+      "p",
+      "Deliver your cargoes to a rich variety of companies and locations like refineries, oil storage, gas stations, car factories, or roadworks."
+    ],
+    [
+      "p",
+      "Various simulation settings for trucking enthusiasts: Air brake simulation; different types of brakes: retarder, Jake brake, trailer brake; multiple types of transmissions straight from real trucks, brake intensity, and more."
+    ],
+    [
+      "p",
+      "Get the feel of being inside a real cabin: Adjust your seat, mirrors and position your head to get the best view of the road."
+    ],
+    [
+      "p",
+      "Drive safely, follow the rules and speed limits – police will fine you if you aren't careful!"
+    ],
+    [
+      "p",
+      "Ensure that you are not delivering overweight cargo – you may be checked at the weigh scales."
+    ],
+    [
+      "p",
+      "Use the route adviser as your personal assistant during the travels."
+    ],
+    [
+      "p",
+      "Try the life of a truck driver for hire. By delivering the cargoes safely and improving your skills, become the owner of your own, successful company!"
+    ],
+    [
+      "p",
+      "Build your own fleet of trucks, buy garages, hire drivers, manage your company for maximum profits."
+    ],
+    [
+      "p",
+      "Make your trucking time better by listening to your favorite songs via built-in music player or streaming your favorite radio stations."
+    ],
+    [
+      "p",
+      "Capture your favorite moments with a photo mode offering rich set of editing options."
+    ],
+    [
+      "p",
+      "Great support for steering wheels, gamepads and other input devices."
+    ],
+    [
+      "p",
+      "Long-time support of the game, including new features."
+    ],
+    [
+      "p",
+      "Obtain challenging Steam achievements and collect all hand-painted Steam trading cards."
+    ],
+    [
+      "h",
+      "World of Trucks"
+    ],
+    [
+      "p",
+      "Take advantage of additional features of American Truck Simulator by joining our online community on World of Trucks, our center for virtual truckers all around the world interested in Euro Truck Simulator 2, American Truck Simulator and future SCS Software's truck simulators."
+    ],
+    [
+      "p",
+      "Use in-game Photo Mode to capture the best moments and share them with thousands of people who love trucks."
+    ],
+    [
+      "p",
+      "Favorite the images you like the most and return to them anytime in the future."
+    ],
+    [
+      "p",
+      "Discuss the screenshots with everyone using World of Trucks."
+    ],
+    [
+      "p",
+      "See the best images hand-picked by the game creators in Editor's Pick updated almost every day. Try to get your own screenshot on this list!"
+    ],
+    [
+      "p",
+      "Upload and use your custom avatar and license plate in the game."
+    ],
+    [
+      "p",
+      "More features coming soon!"
+    ],
+    [
+      "p",
+      "To join World of Trucks, simply sign up with your Steam account on the join page. You will need to own American Truck Simulator or Euro Truck Simulator 2 to join World of Trucks."
+    ],
+    [
+      "p",
+      "World of Trucks is an optional service, registration on World of Trucks isn't required to play the game."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Compatible con Steam Input"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Catalán",
+      "voces": false
+    },
+    {
+      "nombre": "Lituano",
+      "voces": false
+    },
+    {
+      "nombre": "Serbio",
+      "voces": false
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    },
+    {
+      "nombre": "Esloveno",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6400 or AMD Ryzen 3 1200 or similar"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 or AMD Radeon RX 460 or Intel HD 630 (2GB VRAM)"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Disk Space for American Truck Simulator base game"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600 or AMD Ryzen 5 3600 or similar"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660 or AMD Radeon RX 590 (2GB VRAM)"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Disk Space for American Truck Simulator base game"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_758470ddbd783e7ff0caac1a59b7fde4a74bbb67.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_758470ddbd783e7ff0caac1a59b7fde4a74bbb67.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_ba330377eb0a5bffcdbe10f89d3670b83ad55b3f.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_ba330377eb0a5bffcdbe10f89d3670b83ad55b3f.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_f0c114cadf2c3c02f54608c6751d5936a534061c.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_f0c114cadf2c3c02f54608c6751d5936a534061c.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_7825c812221cb25b97cbe232272efb380e93df94.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_7825c812221cb25b97cbe232272efb380e93df94.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_253075cab0028149aa3e449a341ba9054174b018.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_253075cab0028149aa3e449a341ba9054174b018.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/e72c55ae52f0939c3dd5c76504197760296f7f42/ss_e72c55ae52f0939c3dd5c76504197760296f7f42.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/e72c55ae52f0939c3dd5c76504197760296f7f42/ss_e72c55ae52f0939c3dd5c76504197760296f7f42.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_d66d392b649a0fd9fb6039c0f749c0b1e6edac00.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_d66d392b649a0fd9fb6039c0f749c0b1e6edac00.1920x1080.jpg?t=1794418935"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_f32731750f6549c24b495b02b7b34ac63721fddb.600x338.jpg?t=1794418935",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270880/ss_f32731750f6549c24b495b02b7b34ac63721fddb.1920x1080.jpg?t=1794418935"
+    }
+  ],
+  "web": "https://americantrucksimulator.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9667,
+  "youtube": [
+    {
+      "id": "rNcWEk-ROzM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Yu32OisFgWI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "K5T6UZWSUbs",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "KuDpSl-hlqg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:23:52.398Z"
 }

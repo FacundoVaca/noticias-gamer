@@ -1,9 +1,9 @@
 {
   "clave": "dustborn",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4385-73cd-abfc-dc95e1eb6c51",
   "appid": "721180",
@@ -51,22 +51,41 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "209353",
+      "nombre": "Dustborn",
+      "apps": [
+        {
+          "appid": "721180",
+          "nombre": "Dustborn"
+        }
+      ],
+      "usd": 25.99,
+      "antes": 25.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "721180": {
+      "usd": 25.97,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
       "appid": "3147910",
       "nombre": "Dustborn (Original Game Soundtrack)",
       "gratis": false,
-      "precio": "$5.79",
-      "antes": null,
+      "usd": 5.79,
       "descuento": 0
     },
     {
       "appid": "3153680",
       "nombre": "Dustborn - The Vision Tour Bundle",
       "gratis": false,
-      "precio": "$3.19",
-      "antes": null,
+      "usd": 3.19,
       "descuento": 0
     }
   ],
@@ -81,6 +100,7 @@
     "puntaje": 68,
     "url": "https://www.metacritic.com/game/pc/dustborn?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Dustborn",
   "acerca": [
     [
@@ -155,47 +175,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -271,5 +302,30 @@
     }
   ],
   "web": "https://www.wearethedustborn.com",
-  "consultado": "2026-11-22T22:25:20.008Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134816,
+  "youtube": [
+    {
+      "id": "CT2dq79khMo",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "HndDd2pZSlU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "7a77GQdQjRc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Q3He8wr2hD0",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:04.626Z"
 }

@@ -1,8 +1,8 @@
 {
   "clave": "lego star wars the skywalker saga galactic edition",
-  "v": 3,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-6673-71a1-8b05-bc04de0912f2",
   "appid": null,
@@ -20,5 +20,39 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:18:13.215Z"
+  "igdbIntentado": true,
+  "igdb": 216281,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkcz.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkcz.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkd0.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkd0.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkd1.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkd1.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkd2.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkd2.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkd3.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkd3.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjkd4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjkd4.jpg"
+    }
+  ],
+  "generos": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "resumenEn": "The Galactic Edition includes 6 new packs in Character Collection 2, plus the 7 original packs from Character Collection 1.",
+  "v": 7,
+  "consultado": "2026-11-23T04:16:19.920Z"
 }

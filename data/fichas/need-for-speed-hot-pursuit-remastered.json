@@ -1,9 +1,9 @@
 {
   "clave": "need for speed hot pursuit remastered",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-47f0-73dd-940a-d89d9e3f25d3",
   "appid": "1328660",
@@ -50,6 +50,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "464063",
+      "nombre": "Need for Speed™ Hot Pursuit Remastered",
+      "apps": [
+        {
+          "appid": "1328660",
+          "nombre": "Need for Speed™ Hot Pursuit Remastered"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1328660": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Siente la emoción de la persecución y la adrenalina de escapar sobre ruedas con los coches de mayor rendimiento del mundo en Need for Speed™ Hot Pursuit Remastered, un juego de carreras trepidante y competitivo.",
   "generos": [
     "Acción",
@@ -60,6 +81,7 @@
     "puntaje": 74,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-hot-pursuit-remastered?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Need for Speed™ Hot Pursuit Remastered",
   "acerca": [
     [
@@ -98,43 +120,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -242,5 +274,22 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed/need-for-speed-hot-pursuit-remaster",
-  "consultado": "2026-11-22T22:25:24.315Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 139346,
+  "youtube": [
+    {
+      "id": "HLiY6wwfGX4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "_fuPbLWKtNE",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:34.043Z"
 }

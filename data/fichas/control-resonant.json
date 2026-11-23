@@ -2,7 +2,8 @@
   "clave": "control resonant",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b1065-1cb5-734b-86a1-a67493dbc0c4",
   "appid": "3669870",
@@ -43,8 +44,53 @@
     {
       "fuente": "OpenCritic",
       "puntaje": 83,
-      "cantidad": 151,
+      "cantidad": 153,
       "url": "https://opencritic.com/game/20766/control-resonant"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1616863",
+      "nombre": "CONTROL Resonant Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3669870",
+          "nombre": "CONTROL Resonant"
+        }
+      ],
+      "usd": 41.99,
+      "antes": 52.49,
+      "descuento": 20
+    },
+    {
+      "packageid": "1616853",
+      "nombre": "CONTROL Resonant",
+      "apps": [
+        {
+          "appid": "3669870",
+          "nombre": "CONTROL Resonant"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 44.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3669870": {
+      "usd": 41.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4403940",
+      "nombre": "CONTROL Resonant Digital Deluxe Upgrade",
+      "gratis": false,
+      "usd": 7.5,
+      "descuento": 0
     }
   ],
   "descripcion": "Explora un Manhattan deformado al borde de la aniquilación sobrenatural en este emocionante RPG de acción y aventuras. Desata los extraordinarios poderes de Dylan Faden mientras lucha por su humanidad y nuestra supervivencia contra una amenaza cósmica que desafía a la realidad.",
@@ -55,6 +101,295 @@
   ],
   "lanzamientoTexto": "24 SEP 2026",
   "metacritic": null,
-  "recomendaciones": 15646,
-  "consultado": "2026-11-22T21:44:25.029Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "CONTROL Resonant",
+  "acerca": [
+    [
+      "p",
+      "Tras años de cautiverio a manos de la Agencia Federal de Control (AFC), los antiguos captores de Dylan Faden han recurrido a él en el apogeo de una crisis paranormal."
+    ],
+    [
+      "p",
+      "Dylan, a quien han ordenado combatir contra una misteriosa entidad cósmica que altera los aspectos básicos de nuestra realidad, debe controlar sus nuevos poderes para luchar contra una infinidad de amenazas que han sobrepasado Manhattan."
+    ],
+    [
+      "p",
+      "Únete a Dylan en la secuela del galardonado CONTROL y explora las grandes extensiones de una ciudad invadida por la influencia corruptora del caótico Siseo y el Moho, un microorganismo invasor, así como otras amenazas sobrenaturales."
+    ],
+    [
+      "p",
+      "En el proceso de desbloquear sus habilidades paranormales, Dylan también buscará a su hermana, la directora de la AFC Jesse Faden, mientras intenta comprender y contener los peligros que se han vertido desde los confines de la Casa Inmemorial para destruir nuestro mundo."
+    ],
+    [
+      "h",
+      "ADÉNTRATE EN UNA REALIDAD DEFORMADA"
+    ],
+    [
+      "p",
+      "Explora diversas zonas devastadas de Manhattan que conforman un mundo extenso, desconocido y apasionante."
+    ],
+    [
+      "p",
+      "Atraviesa escenarios que desafían la percepción y encárgate de las anomalías gravitacionales que distorsionan el plano vertical y horizontal, lo que añade dimensiones adicionales a los puzles y nuevas decisiones tácticas en combate."
+    ],
+    [
+      "p",
+      "Rodéate de rostros conocidos y nuevos en un camino lleno de oportunidades y riesgos en el que una fuerza superior transforma el paisaje urbano y la realidad misma."
+    ],
+    [
+      "h",
+      "DOMINA LO PARANORMAL"
+    ],
+    [
+      "p",
+      "Aprovecha las experiencias viscerales del pasado de Dylan para comprender su presente y profundiza en los entresijos de la AFC para desvelar los horrores que amenazan a la humanidad."
+    ],
+    [
+      "p",
+      "Haz uso del poder que debe aprender a dominar y toma decisiones que dicten cómo se manifiestan y crecen sus habilidades."
+    ],
+    [
+      "p",
+      "Explora un complejo sistema de progresión que define cómo se adapta Dylan a los nuevos peligros. Forja conexiones cruciales para ayudar a Dylan a conservar su humanidad tras pasar de ser un sujeto de pruebas a una superarma paranormal."
+    ],
+    [
+      "h",
+      "LA LUCHA CAMBIA. TU ARMA, TAMBIÉN."
+    ],
+    [
+      "p",
+      "Enfréntate cara a cara a amenazas constantes que evolucionan haciendo uso del entorno, lanzando habilidades elementales y usando la fuerza bruta del Aberrante, el arma cambiaformas cuerpo a cuerpo de Dylan."
+    ],
+    [
+      "p",
+      "Empuña el Aberrante en todas sus formas letales. Lanza golpes brutales con el martillo a dos manos y cambia con fluidez a la rápida precisión de las hojas dobles con esta arma paranormal que se transforma a placer para plantar cara a cada nuevo desafío."
+    ],
+    [
+      "h",
+      "UN LEGADO COMPARTIDO, UNA NUEVA AMENAZA."
+    ],
+    [
+      "p",
+      "El confinamiento impuesto por Jesse Faden, directora de la AFC, ha concluido. Una catástrofe paranormal se ha extendido desde la Casa Inmemorial hasta las calles de Manhattan, y la Agencia no está logrando contenerla."
+    ],
+    [
+      "p",
+      "Jesse Faden entró en la Casa Inmemorial para enfrentarse a la amenaza que moraba en su interior. Ahora, Dylan deberá aventurarse a salir para neutralizar lo que ha escapado."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-8500 / AMD Ryzen 5 3500"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 / 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700 / AMD Ryzen 7 3700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce RTX 3060 Ti / Radeon RX 6700 XT / Intel Arc B580"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/b50eac45ecb88c9f487f44697196c9fb8cae8195/ss_b50eac45ecb88c9f487f44697196c9fb8cae8195.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/b50eac45ecb88c9f487f44697196c9fb8cae8195/ss_b50eac45ecb88c9f487f44697196c9fb8cae8195.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/422f3eed36d3033c4b0f4fde485c29b980e49454/ss_422f3eed36d3033c4b0f4fde485c29b980e49454.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/422f3eed36d3033c4b0f4fde485c29b980e49454/ss_422f3eed36d3033c4b0f4fde485c29b980e49454.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/195a46fccb4276003092c87c9d6d034a0dfbe355/ss_195a46fccb4276003092c87c9d6d034a0dfbe355.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/195a46fccb4276003092c87c9d6d034a0dfbe355/ss_195a46fccb4276003092c87c9d6d034a0dfbe355.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13/ss_e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13/ss_e9e5561bffc6ac8630ff63cbeb1fbb9e2d702e13.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/4ce55d730791b45afae9fe2573ff764b34103a75/ss_4ce55d730791b45afae9fe2573ff764b34103a75.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/4ce55d730791b45afae9fe2573ff764b34103a75/ss_4ce55d730791b45afae9fe2573ff764b34103a75.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/b4160022502f74d3647d3eb1d43e41d17bbd6c52/ss_b4160022502f74d3647d3eb1d43e41d17bbd6c52.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/b4160022502f74d3647d3eb1d43e41d17bbd6c52/ss_b4160022502f74d3647d3eb1d43e41d17bbd6c52.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/75b1cde9947eea89eed52cf8f6471683f2e666a9/ss_75b1cde9947eea89eed52cf8f6471683f2e666a9.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/75b1cde9947eea89eed52cf8f6471683f2e666a9/ss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080.jpg?t=1795010502"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/3ce961567ea1fd039c684adab3f19eed9f8b52bd/ss_3ce961567ea1fd039c684adab3f19eed9f8b52bd.600x338.jpg?t=1795010502",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/3ce961567ea1fd039c684adab3f19eed9f8b52bd/ss_3ce961567ea1fd039c684adab3f19eed9f8b52bd.1920x1080.jpg?t=1795010502"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 225582,
+  "youtube": [
+    {
+      "id": "WhQm-ExRz60",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "e1_eZyFM5-4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "IA71hdzim0M",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "lTHTfqPTQ1k",
+      "nombre": "Take CONTROL Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:28.372Z"
 }

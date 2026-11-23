@@ -1,9 +1,9 @@
 {
   "clave": "assassins creed mirage master assassin edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7866-7113-9218-b1af13eca3c3",
   "appid": "3035570",
@@ -33,94 +33,130 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1079196",
+      "nombre": "Assassin’s Creed® Mirage",
+      "apps": [
+        {
+          "appid": "3035570",
+          "nombre": "Assassin's Creed Mirage"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1145282",
+      "nombre": "Assassin’s Creed® Mirage Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3035570",
+          "nombre": "Assassin's Creed Mirage"
+        }
+      ],
+      "usd": 47.99,
+      "antes": 47.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1145290",
+      "nombre": "Assassin’s Creed Mirage Master Assassin Edition",
+      "apps": [
+        {
+          "appid": "3035570",
+          "nombre": "Assassin's Creed Mirage"
+        }
+      ],
+      "usd": 71.99,
+      "antes": 71.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3035570": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 11,
   "dlcLista": [
     {
       "appid": "4145490",
       "nombre": "Assassin's Creed Mirage - Desert Scorpion Pack",
       "gratis": false,
-      "precio": "$11.99",
-      "antes": null,
+      "usd": 11.99,
       "descuento": 0
     },
     {
       "appid": "4145510",
       "nombre": "Assassin’s Creed Mirage - Celestial Pack",
       "gratis": false,
-      "precio": "$3.99",
-      "antes": null,
+      "usd": 3.99,
       "descuento": 0
     },
     {
       "appid": "3230590",
       "nombre": "Assassin’s Creed Mirage Master Assassin Upgrade Bundle 1",
       "gratis": false,
-      "precio": "$31.99",
-      "antes": null,
+      "usd": 31.99,
       "descuento": 0
     },
     {
       "appid": "3230570",
       "nombre": "Assassin’s Creed Mirage Master Assassin Upgrade Bundle 2",
       "gratis": false,
-      "precio": "$23.99",
-      "antes": null,
+      "usd": 23.99,
       "descuento": 0
     },
     {
       "appid": "3230710",
       "nombre": "Assassin’s Creed® Mirage Master Assassin Pack",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     },
     {
       "appid": "3230650",
       "nombre": "Assassin’s Creed® Mirage Deluxe Pack",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     },
     {
       "appid": "3230610",
       "nombre": "Assassin’s Creed® Mirage Guardian Pack",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     },
     {
       "appid": "3230630",
       "nombre": "Assassin’s Creed® Mirage Map Pack",
       "gratis": false,
-      "precio": "$3.99",
-      "antes": null,
+      "usd": 3.99,
       "descuento": 0
     },
     {
       "appid": "3230670",
       "nombre": "Assassin’s Creed® Mirage Jinn Pack",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     },
     {
       "appid": "3230690",
       "nombre": "Assassin’s Creed® Mirage Lightning Pack",
       "gratis": false,
-      "precio": "$3.99",
-      "antes": null,
+      "usd": 3.99,
       "descuento": 0
     },
     {
       "appid": "3230730",
       "nombre": "Assassin’s Creed® Mirage Fire Demon Pack",
       "gratis": false,
-      "precio": "$11.99",
-      "antes": null,
+      "usd": 11.99,
       "descuento": 0
     }
   ],
@@ -131,6 +167,7 @@
   ],
   "lanzamientoTexto": "17 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Assassin's Creed Mirage",
   "acerca": [
     [
@@ -193,59 +230,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -361,5 +412,31 @@
     }
   ],
   "web": "http://www.assassinscreed.com/mirage",
-  "consultado": "2026-11-22T22:25:17.776Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action-adventure game in which players assume the role of a thief/assassin battling a secret order in ancient Baghdad.",
+  "igdbIntentado": true,
+  "igdb": 215060,
+  "youtube": [
+    {
+      "id": "x55lAlFtXmw",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "G97lx7orMN8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "mxpYHW-M_Ac",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "9hjico7nYvo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:52.972Z"
 }

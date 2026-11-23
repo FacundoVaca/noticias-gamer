@@ -1,9 +1,9 @@
 {
   "clave": "ride 5 special edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-730c-7162-b22a-575b374c4dd7",
   "appid": "1650010",
@@ -30,142 +30,159 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "837637",
+      "nombre": "RIDE 5",
+      "apps": [
+        {
+          "appid": "1650010",
+          "nombre": "RIDE 5"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "837638",
+      "nombre": "RIDE 5 - Special Edition",
+      "apps": [
+        {
+          "appid": "1650010",
+          "nombre": "RIDE 5"
+        }
+      ],
+      "usd": 79.99,
+      "antes": 79.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1650010": {
+      "usd": 49.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 17,
   "dlcLista": [
     {
       "appid": "2331010",
       "nombre": "RIDE 5 - Season Pass",
       "gratis": false,
-      "precio": "$39.99",
-      "antes": null,
+      "usd": 39.99,
       "descuento": 0
     },
     {
       "appid": "2315150",
       "nombre": "RIDE 5 - Far East Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2315160",
       "nombre": "RIDE 5 - Rebel Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2315170",
       "nombre": "RIDE 5 - Credits Multiplier",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2315180",
       "nombre": "RIDE 5 - Welcome Pack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2315190",
       "nombre": "RIDE 5 - King of the Hills Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315210",
       "nombre": "RIDE 5 - Short Track Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315230",
       "nombre": "RIDE 5 - Dreamer's Garage Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315250",
       "nombre": "RIDE 5 - Racing Icons Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315270",
       "nombre": "RIDE 5 - Born to Race Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315300",
       "nombre": "RIDE 5 - Speed With Style Pack",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2315200",
       "nombre": "RIDE 5 - Free Pack 01",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2315220",
       "nombre": "RIDE 5 - Free Pack 02",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2315240",
       "nombre": "RIDE 5 - Free Pack 03",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2315260",
       "nombre": "RIDE 5 - Free Pack 04",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2315290",
       "nombre": "RIDE 5 - Free Pack 05",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2315310",
       "nombre": "RIDE 5 - Free Pack 06",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     }
   ],
@@ -177,6 +194,7 @@
   ],
   "lanzamientoTexto": "24 AGO 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "RIDE 5",
   "acerca": [
     [
@@ -411,5 +429,22 @@
     }
   ],
   "web": "https://ridevideogame.com/",
-  "consultado": "2026-11-22T22:24:55.899Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 245715,
+  "youtube": [
+    {
+      "id": "0kuZ93yzyO0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "-yqY6jTmw0g",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:03.574Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "mark of the deep",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6f14-72be-9554-eeff3cd3a8c0",
   "appid": "1933370",
@@ -36,6 +36,58 @@
       "url": "https://metacritic.com/game/mark-of-the-deep/critic-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "696539",
+      "nombre": "Mark of the Deep",
+      "apps": [
+        {
+          "appid": "1933370",
+          "nombre": "Mark of the Deep"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1308861",
+      "nombre": "Mark of the Deep - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1933370",
+          "nombre": "Mark of the Deep"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1933370": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4374400",
+      "nombre": "Mark of the Deep - The Cursed Trials",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3480440",
+      "nombre": "Mark of the Deep - Supporter Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Mark of the Deep es una épica aventura pirata con fuerte narrativa y una emocionante mezcla de elementos de juegos estilo Metroidvania y Souls-Like. ¡Embárcate en este viaje en la piel del pirata Rookie, explora los misterios de una isla maldita y encuentra a tus compañeros perdidos!",
   "generos": [
     "Acción",
@@ -47,6 +99,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/mark-of-the-deep?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Mark of the Deep",
   "acerca": [
     [
@@ -113,47 +166,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -219,5 +283,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1933370/a1526fc9d935e0e041a6d8f46f4cff91b262f6bb/ss_a1526fc9d935e0e041a6d8f46f4cff91b262f6bb.1920x1080.jpg?t=1788364373"
     }
   ],
-  "consultado": "2026-11-22T22:18:05.098Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 251771,
+  "youtube": [
+    {
+      "id": "JT-6slJDIWI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ykSaWyvXJao",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Kvn09MfvF64",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MKITLdHcYCY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:14:57.768Z"
 }

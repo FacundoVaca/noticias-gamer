@@ -1,9 +1,9 @@
 {
   "clave": "need for speed unbound palace edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-65f5-70b9-98ca-0f2c93ed9294",
   "appid": "1846380",
@@ -30,158 +30,186 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "664383",
+      "nombre": "Need for Speed™ Unbound",
+      "apps": [
+        {
+          "appid": "1846380",
+          "nombre": "Need for Speed™ Unbound"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "707811",
+      "nombre": "Need for Speed™ Unbound Palace Edition",
+      "apps": [
+        {
+          "appid": "1846380",
+          "nombre": "Need for Speed™ Unbound"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 79.99,
+      "descuento": 88
+    },
+    {
+      "packageid": "1116820",
+      "nombre": "Need for Speed™ Unbound Ultimate Collection",
+      "apps": [
+        {
+          "appid": "1846380",
+          "nombre": "Need for Speed™ Unbound"
+        }
+      ],
+      "usd": 12.74,
+      "antes": 84.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1846380": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 19,
   "dlcLista": [
     {
       "appid": "2856200",
       "nombre": "Need for Speed™ Unbound — Pack de oportunidad dinámico del Vol. 8",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2926940",
       "nombre": "Need for Speed™ Unbound — Conjunto de Porsche 959 S (1987)",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2856190",
       "nombre": "Need for Speed™ Unbound: pase de velocidad prémium del Vol. 9",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "3156380",
       "nombre": "Mejora de la colección definitiva de Need for Speed™ Unbound",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "2926930",
       "nombre": "Need for Speed™ Unbound: conjunto de Ford Mustang Dark Horse (2024)",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2856180",
       "nombre": "Need for Speed™ Unbound: pack de oportunidad dinámico del Vol. 7",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2856160",
       "nombre": "Need for Speed™ Unbound: pack de oportunidad dinámico del Vol. 6",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "2749290",
       "nombre": "Need for Speed™ Unbound: pack de oportunidad del Vol. 5",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2566530",
       "nombre": "Need for Speed™ Unbound: pack de oportunidad del Vol. 3",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2566540",
       "nombre": "Need for Speed™ Unbound: pack de oportunidad del Vol. 4",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "2339286",
       "nombre": "Need for Speed™ Unbound: pack de personalizaciones del Vol. 5",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "2339287",
       "nombre": "Need for Speed™ Unbound: pack de estilo Truco o trapo",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "2339284",
       "nombre": "Need for Speed™ Unbound: pack de estilo Origen del hip hop",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "2339283",
       "nombre": "Need for Speed™ Unbound: pack de personalizaciones de Vol. 4",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "2339280",
       "nombre": "Need for Speed™ Unbound: pack de personalizaciones del Vol. 3",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "2339281",
       "nombre": "Need for Speed™ Unbound: pack Estilo robótico",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "1958731",
       "nombre": "Need for Speed™ Unbound Palace Upgrade",
       "gratis": false,
-      "precio": "$10.00",
-      "antes": null,
+      "usd": 10,
       "descuento": 0
     },
     {
       "appid": "2926920",
       "nombre": "Need for Speed™ Unbound: conjunto de Audi RS 6 Avant (2020)",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "2298540",
       "nombre": "Need for Speed™ Unbound - Llaves de la ciudad",
       "gratis": false,
-      "precio": "$2.49",
-      "antes": "$4.99",
+      "usd": 2.49,
       "descuento": 50
     }
   ],
@@ -192,6 +220,7 @@
   ],
   "lanzamientoTexto": "1 DIC 2022",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Need for Speed™ Unbound",
   "acerca": [
     [
@@ -257,51 +286,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -409,5 +450,25 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed/need-for-speed-unbound/",
-  "consultado": "2026-11-22T22:24:44.065Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 219442,
+  "youtube": [
+    {
+      "id": "H2Y8XCe7F9E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "D5aU75h7Yzs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "CBPZapIh4MQ",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:32.319Z"
 }

@@ -2,7 +2,8 @@
   "clave": "horizon forbidden west complete edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-75c0-7271-aa0e-acffaba43e75",
   "appid": "2420110",
@@ -54,6 +55,28 @@
       "url": "https://opencritic.com/game/16493/horizon-forbidden-west-complete-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "870993",
+      "nombre": "Horizon Forbidden West™ Complete Edition",
+      "apps": [
+        {
+          "appid": "2420110",
+          "nombre": "Horizon Forbidden West™ Complete Edition"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 49.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2420110": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Disfruta del épico Horizon Forbidden West™ completo con contenido adicional y la expansión Burning Shores. El complemento Burning Shores incluye contenido adicional para la aventura de Aloy, con nuevas tramas, personajes y experiencias en una nueva área espectacular a la vez que implacable.",
   "generos": [
     "Acción",
@@ -61,6 +84,303 @@
   ],
   "lanzamientoTexto": "21 MAR 2024",
   "metacritic": null,
-  "recomendaciones": 20900,
-  "consultado": "2026-11-22T21:47:13.250Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Horizon Forbidden West™ Complete Edition",
+  "acerca": [
+    [
+      "p",
+      "Acompaña a Aloy en su aventura por una peligrosa pero majestuosa nueva frontera con nuevas y misteriosas amenazas. Con la Complete Edition disfrutarás del aclamado Horizon Forbidden West completo en PC con todos sus contenidos adicionales, incluida la expansión de la historia Burning Shores, que retoma la trama donde concluyó el juego principal."
+    ],
+    [
+      "p",
+      "Explora tierras remotas, enfréntate a máquinas más grandes e imponentes y descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon."
+    ],
+    [
+      "p",
+      "La tierra se muere. Las rugientes tormentas y una desolación imparable causan estragos entre lo que queda de la humanidad, mientras nuevas y temibles máquinas merodean por sus fronteras y la vida en la tierra se encamina hacia otra extinción."
+    ],
+    [
+      "p",
+      "Solo Aloy será capaz de descubrir los secretos que hay detrás de estas amenazas y restablecer el orden y el equilibrio del mundo. Por el camino, se reencontrará con viejas amistades, forjará alianzas con nuevas facciones en guerra y descubrirá la herencia de un antiguo pasado."
+    ],
+    [
+      "li",
+      "Admira todos los detalles del juego gracias a la compatibilidad con monitores ultrapanorámicos con relación de aspecto 21:9, 32:9 y 48:9 (tres monitores).*"
+    ],
+    [
+      "li",
+      "Contempla cómo el Oeste Prohibido cobra vida ante tus ojos con el escalado y la generación de fotogramas de DLSS 3 de NVIDIA, la mejora de calidad de imagen de NVIDIA DLAA y la reducción de la latencia de NVIDIA Reflex. También compatible con AMD FSR e Intel XeSS.**"
+    ],
+    [
+      "li",
+      "Personaliza los ajustes gráficos a tu gusto, con la posibilidad de tasas de fotogramas no limitadas.**"
+    ],
+    [
+      "p",
+      "* Requiere un PC y un dispositivo de pantalla 4K compatibles."
+    ],
+    [
+      "p",
+      "** Requiere un PC compatible."
+    ],
+    [
+      "p",
+      "*** Requiere conexión por cable para aprovechar todas las funciones del mando en el juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit (version 1909 or higher)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-8100 or AMD Ryzen 3 1300X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650 4GB or AMD Radeon RX 5500XT 4GB"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "150GB SSD Space"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit (version 1909 or higher)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700"
+      ],
+      [
+        "Almacenamiento",
+        "150 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "150GB SSD Space"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_7c1ead4b3d952fd0fb92735397945bd8732bba53.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_7c1ead4b3d952fd0fb92735397945bd8732bba53.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_2d05273cef37bcc3651dc9dbea42dbeca5f5f196.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_2d05273cef37bcc3651dc9dbea42dbeca5f5f196.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_87750b2dbc34d82d1ffef7aaab40a9f46d970d99.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_87750b2dbc34d82d1ffef7aaab40a9f46d970d99.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_a4a19b86e80488f3d608e835e5ae3086760db866.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_a4a19b86e80488f3d608e835e5ae3086760db866.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_16055ecb20ad2879811db3e97375aef43eef0a8c.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_16055ecb20ad2879811db3e97375aef43eef0a8c.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_b7d25b4a328003d340913377793e83c961f2d7ab.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_b7d25b4a328003d340913377793e83c961f2d7ab.1920x1080.jpg?t=1789585745"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_36d70cdb331ce82bc7310c64e1a5c3f44b8e6a7b.600x338.jpg?t=1789585745",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/ss_36d70cdb331ce82bc7310c64e1a5c3f44b8e6a7b.1920x1080.jpg?t=1789585745"
+    }
+  ],
+  "web": "https://www.playstation.com/games/horizon-forbidden-west/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 268842,
+  "youtube": [
+    {
+      "id": "EwHIzdqdy3s",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "XbofnUWolHE",
+      "nombre": "PC Features Trailer"
+    },
+    {
+      "id": "dbZOivcGFGg",
+      "nombre": "Launch Accolades Trailer"
+    },
+    {
+      "id": "rvDu47W8qT0",
+      "nombre": "PC Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:23:38.645Z"
 }

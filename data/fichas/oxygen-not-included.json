@@ -1,9 +1,9 @@
 {
   "clave": "oxygen not included",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1f5e-715c-9cd9-b4ea95e07304",
   "appid": "457140",
@@ -41,6 +41,100 @@
       "url": "https://metacritic.com/game/oxygen-not-included/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "99174",
+      "nombre": "Oxygen Not Included",
+      "apps": [
+        {
+          "appid": "457140",
+          "nombre": "Oxygen Not Included"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 7.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1014915",
+      "nombre": "Oxygen Not Included - Commercial License",
+      "apps": [
+        {
+          "appid": "457140",
+          "nombre": "Oxygen Not Included"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "457140": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "4310080",
+      "nombre": "Oxygen Not Included: The Aquatic Planet Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "1452490",
+      "nombre": "Oxygen Not Included - Spaced Out!",
+      "gratis": false,
+      "usd": 2.94,
+      "descuento": 33
+    },
+    {
+      "appid": "2952300",
+      "nombre": "Oxygen Not Included: The Frosty Planet Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3302470",
+      "nombre": "Oxygen Not Included: The Bionic Booster Pack",
+      "gratis": false,
+      "usd": 3.81,
+      "descuento": 15
+    },
+    {
+      "appid": "3655420",
+      "nombre": "Oxygen Not Included: The Prehistoric Planet Pack",
+      "gratis": false,
+      "usd": 4.04,
+      "descuento": 10
+    },
+    {
+      "appid": "4157740",
+      "nombre": "Oxygen Not Included: Neutronium Cosmetics Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1244160",
+      "nombre": "Oxygen Not Included Soundtrack",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 75
+    },
+    {
+      "appid": "5315880",
+      "nombre": "Oxygen Not Included: Classic Critter Cosmetics Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
   "generos": [
     "Indie",
@@ -51,6 +145,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/oxygen-not-included?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Oxygen Not Included",
   "acerca": [
     [
@@ -134,19 +229,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -246,5 +345,19 @@
     }
   ],
   "web": "https://www.kleientertainment.com/games/oxygen-not-included",
-  "consultado": "2026-11-22T22:02:34.633Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 19542,
+  "youtube": [
+    {
+      "id": "BZhoSP1p18o",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:57.041Z"
 }

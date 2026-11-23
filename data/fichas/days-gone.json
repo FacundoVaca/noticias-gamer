@@ -2,7 +2,8 @@
   "clave": "days gone",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4ca6-7067-aee5-c1ed89a268f4",
   "appid": "1259420",
@@ -50,6 +51,51 @@
       "url": "https://opencritic.com/game/6846/days-gone"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "437418",
+      "nombre": "Days Gone",
+      "apps": [
+        {
+          "appid": "1259420",
+          "nombre": "Days Gone"
+        }
+      ],
+      "usd": 13.19,
+      "antes": 39.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "614862",
+      "nombre": "Days Gone - Commercial License",
+      "apps": [
+        {
+          "appid": "1259420",
+          "nombre": "Days Gone"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1259420": {
+      "usd": 13.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3238470",
+      "nombre": "Days Gone – DLC Carretera Rota",
+      "gratis": false,
+      "usd": 3.3,
+      "descuento": 67
+    }
+  ],
   "descripcion": "Lucha y recorre un Estados Unidos pospandémico letal. Ponte en la piel de Deacon St. John, un errante cazarrecompensas que recorre la carretera rota luchando por su supervivencia mientras busca una razón para seguir viviendo en este juego de acción y aventura de mundo abierto.",
   "generos": [
     "Acción",
@@ -57,6 +103,320 @@
   ],
   "lanzamientoTexto": "17 MAY 2021",
   "metacritic": null,
-  "recomendaciones": 83718,
-  "consultado": "2026-11-22T21:46:55.902Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Days Gone",
+  "acerca": [
+    [
+      "p",
+      "\"Days Gone es un juego de acción y aventura de mundo abierto ambientado en un entorno natural hostil dos años después de una devastadora pandemia global."
+    ],
+    [
+      "p",
+      "Ponte en los zapatos salpicados de barro del otrora forajido Deacon St. John, un motero cazarrecompensas que intenta buscar una razón por la que vivir en una tierra rodeada de muerte. Registra asentamientos abandonados en busca de equipamiento para crear armas y objetos valiosos o arriésgate a tratar con otros supervivientes que se ganan la vida a duras penas mediante intercambios justos... u otros métodos más violentos."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS PRINCIPALES"
+    ],
+    [
+      "p",
+      "• Un entorno sorprendente: desde bosques y prados hasta llanuras nevadas y desiertos de lava, el Noroeste del Pacífico es tan hermoso como letal. Explora una gran variedad de montañas, cuevas, minas y pequeños pueblos perfilados durante millones de años por la actividad volcánica."
+    ],
+    [
+      "p",
+      "• Encuentros brutales: con bandas y hordas agresivas de engendros que deambulan por las tierras, tendrás que utilizar con eficacia una variedad de trampas y armas personalizables, y habilidades que puedes mejorar para mantenerte con vida. No te olvides de tu moto de errante, una herramienta de un valor incalculable en unas tierras tan extensas."
+    ],
+    [
+      "p",
+      "• Un entorno en constante cambio: súbete a la fiel moto de Deacon y explora un mundo dinámico afectado drásticamente por el clima, un espectacular ciclo de día y noche y engendros que evolucionan para adaptarse a su entorno... y a la gente que vive en él."
+    ],
+    [
+      "p",
+      "• Una historia cautivadora: sumérgete en una poderosa historia de desesperación, traición y arrepentimiento a medida que Deacon St. John busca un atisbo de esperanza tras sufrir una profunda pérdida personal. ¿Qué es lo que nos hace humanos cuando tenemos que afrontar una lucha diaria por sobrevivir?"
+    ],
+    [
+      "p",
+      "INCLUYE"
+    ],
+    [
+      "p",
+      "• Nueva partida+"
+    ],
+    [
+      "p",
+      "• Modo supervivencia"
+    ],
+    [
+      "p",
+      "• Modo desafío"
+    ],
+    [
+      "p",
+      "• Aspectos de moto"
+    ],
+    [
+      "p",
+      "Las características de PC incluyen compatibilidad con monitores ultraanchos, desbloqueo de fotogramas por segundo y gráficos mejorados (niveles de detalle, campo de visión y distancia de aparición de vegetación aumentados).\""
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bits"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2500K@3.3GHz or AMD FX 6300@3.5GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 780 (3 GB) or AMD Radeon R9 290 (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Though not required, SSD for storage and 16 GB of memory is recommended"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bits"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4770K@3.5GHz or Ryzen 5 1500X@3.5GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1060 (6 GB) or AMD Radeon RX 580 (8 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Though not required, SSD for storage is recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_8d958e566d5315463d099b21eae729d0f462caad.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_8d958e566d5315463d099b21eae729d0f462caad.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_4a1a39d5559909424ed36414070477a96c91e92c.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_4a1a39d5559909424ed36414070477a96c91e92c.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_364f3048399fcb95df5e878c708c94e934cd53d4.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_364f3048399fcb95df5e878c708c94e934cd53d4.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_80bbb5ea187cc422012f7a84e694f20f87a26862.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_80bbb5ea187cc422012f7a84e694f20f87a26862.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_a947f551335679fbffcbe64a3ffcb939429ed533.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_a947f551335679fbffcbe64a3ffcb939429ed533.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_e7254729cc5f28ac6fc9622209812705b782fbb9.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_e7254729cc5f28ac6fc9622209812705b782fbb9.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_124b3bf5c5cf3ebcd153db7ce4e08d04c2ac950c.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_124b3bf5c5cf3ebcd153db7ce4e08d04c2ac950c.1920x1080.jpg?t=1750947718"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_a5e5074c29e427c96fcb73118111e1806b77b4e0.600x338.jpg?t=1750947718",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/ss_a5e5074c29e427c96fcb73118111e1806b77b4e0.1920x1080.jpg?t=1750947718"
+    }
+  ],
+  "web": "https://www.playstation.com/games/days-gone/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19561,
+  "youtube": [
+    {
+      "id": "n95IaELdWDU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "L1bI-LiRcUo",
+      "nombre": "The World Comes for You Trailer"
+    },
+    {
+      "id": "UEtR88gqOVY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "B4_IHnrIfTk",
+      "nombre": "E3 2017 Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:20:17.407Z"
 }

@@ -2,7 +2,8 @@
   "clave": "stellar blade",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0191e1ab-f56a-73c3-a150-9bda3983c160",
   "appid": "3489700",
@@ -50,6 +51,73 @@
       "url": "https://opencritic.com/game/16510/stellar-blade"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1232422",
+      "nombre": "Stellar Blade™",
+      "apps": [
+        {
+          "appid": "3489700",
+          "nombre": "Stellar Blade™"
+        }
+      ],
+      "usd": 40.19,
+      "antes": 59.99,
+      "descuento": 33
+    },
+    {
+      "packageid": "1313353",
+      "nombre": "Edición Completa de Stellar Blade™",
+      "apps": [
+        {
+          "appid": "3596170",
+          "nombre": "Pack Deluxe de Stellar Blade™"
+        },
+        {
+          "appid": "3489700",
+          "nombre": "Stellar Blade™"
+        },
+        {
+          "appid": "3596190",
+          "nombre": "Stellar Blade™ x GODDESS OF VICTORY: NIKKE"
+        },
+        {
+          "appid": "3596180",
+          "nombre": "Stellar Blade™ x NieR:Automata"
+        },
+        {
+          "appid": "3662250",
+          "nombre": "Stellar Blade™: Tachyon Pack"
+        }
+      ],
+      "usd": 46.89,
+      "antes": 69.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "3489700": {
+      "usd": 40.19,
+      "gratis": false
+    },
+    "3596170": {
+      "usd": 6.69,
+      "gratis": false
+    },
+    "3596180": {
+      "usd": 6.69,
+      "gratis": false
+    },
+    "3596190": {
+      "usd": 6.69,
+      "gratis": false
+    },
+    "3662250": {
+      "usd": 0.66,
+      "gratis": false
+    }
+  },
   "descripcion": "Evita la extinción de la raza humana en este juego de acción-aventura postapocalíptico: Stellar Blade™. Disfruta de combates feroces y una historia intrigante mientras resuelves los misterios que llevaron a la caída de la Tierra.",
   "generos": [
     "Acción",
@@ -58,6 +126,373 @@
   ],
   "lanzamientoTexto": "11 JUN 2025",
   "metacritic": null,
-  "recomendaciones": 62837,
-  "consultado": "2026-11-22T21:47:02.403Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Stellar Blade™",
+  "acerca": [
+    [
+      "p",
+      "Experimenta el aclamado éxito para PlayStation®5 Stellar Blade™, de los desarrolladores coreanos SHIFT UP, ahora optimizado para PC."
+    ],
+    [
+      "p",
+      "Solo una espada puede definir el futuro de la humanidad. La Tierra ha quedado abandonada, devastada por criaturas poderosas y extrañas, y lo que queda de la diezmada raza humana ha huido a una colonia en el espacio exterior."
+    ],
+    [
+      "p",
+      "Desde la Colonia, EVE llega a nuestro desolado planeta con una misión: salvar a la humanidad y recuperar la Tierra de las garras de los Naytibas, la fuerza malévola que ha arrasado con todo."
+    ],
+    [
+      "p",
+      "Sin embargo, a medida que EVE se adentra en las ruinas de la civilización humana para resolver los misterios del pasado y derrota a los Naytibas uno por uno, comprende que su misión no es tan simple como pensaba. De hecho, es posible que nada sea lo que parece…"
+    ],
+    [
+      "p",
+      "Lucha en combates frenéticos mientras te abres paso entre las ruinas de la Tierra. Ataca con combos elegantes y brutales, desbloquea nuevos movimientos, mejora tus armas y enfréntate a jefes épicos que desafiarán tanto tu inteligencia como tu destreza."
+    ],
+    [
+      "p",
+      "Sumérgete en un mundo posapocalíptico repleto de detalles donde la belleza y el horror se combinan para dejarte sin aliento."
+    ],
+    [
+      "p",
+      "Prepárate para reflexionar y sentir al máximo con una atrapante historia acerca del destino de la humanidad que incluye temáticas adultas y revelaciones emotivas de principio a fin."
+    ],
+    [
+      "h",
+      "Nuevo contenido"
+    ],
+    [
+      "p",
+      "Pon a prueba tu habilidad y tu fuerza ante el temible guerrero Mann, líder de los centinelas, en el modo Desafío de jefe."
+    ],
+    [
+      "p",
+      "Voces y sincronización labial en chino y japonés."
+    ],
+    [
+      "p",
+      "25 atuendos, tres pares de gafas y seis pares de pendientes."
+    ],
+    [
+      "h",
+      "Características en PC"
+    ],
+    [
+      "p",
+      "Compatible con monitores panorámicos"
+    ],
+    [
+      "p",
+      "Recorre sobrecogedores paisajes de ciencia ficción gracias a la compatibilidad con monitores panorámicos, incluyendo relaciones de aspecto de 21:9 y 32:9."
+    ],
+    [
+      "p",
+      "Gráficos optimizados para PC"
+    ],
+    [
+      "p",
+      "Insufla vida a este mundo vibrante gracias a la compatibilidad con tecnologías de mejora del rendimiento como los gráficos potenciados mediante IA de NVIDIA DLSS 4, la mejora de calidad de imagen de NVIDIA DLAA o la reducción de latencia del sistema NVIDIA Reflex, así como las tecnologías de escalado AMD FSR 3."
+    ],
+    [
+      "p",
+      "FPS desbloqueados"
+    ],
+    [
+      "p",
+      "Desata toda la potencia de tu equipo para liberar la furia completa del electrizante estilo de lucha de EVE gracias a la compatibilidad con tasas elevadas de FPS y una fluidez visual mejorada."
+    ],
+    [
+      "p",
+      "Compatible con pack de texturas"
+    ],
+    [
+      "p",
+      "Enriquece el universo de Stellar Blade mediante una opción 4K para la calidad de texturas del entorno."
+    ],
+    [
+      "p",
+      "Compatible con mando y teclado"
+    ],
+    [
+      "p",
+      "Lánzate a la aventura con un mando DualSense® de PlayStation a través de una conexión USB con cable, o utiliza el ratón y el teclado."
+    ],
+    [
+      "p",
+      "Retroalimentación háptica"
+    ],
+    [
+      "p",
+      "Siente la emoción del combate a medida que tu filo se abre paso hasta la victoria, con sensaciones enriquecidas por las vibraciones del mando DualSense."
+    ],
+    [
+      "p",
+      "Gatillos adaptativos"
+    ],
+    [
+      "p",
+      "Desata movimientos acrobáticos tan devastadores como gráciles e interactúa con los restos tecnológicos de una Tierra abandonada usando los gatillos adaptativos del mando DualSense."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-7600k Processor / AMD Ryzen™ 5 1600X Processor"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080P. Graphics Quality Preset “Low”. 60FPS Target. HDD Supported, SSD Recommended."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-8400 Processor / AMD Ryzen™ 5 3600X Processor"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 SUPER or AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1440p. Graphics Quality Preset “Medium”. 60FPS Target. SSD Required."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_4291827e357008499d4d5a17bc50d3e93869dd43.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_9d4d62e118a167333d53db94354671e10416b25d.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_bcb3946482dc5a1221c024098d2ac09e80255f3e.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_1ae903bf4153fa2c2b3ee4381eb355532ba79eab.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0a156afe90170ba75773a6fe901153c4dd318980.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_0a156afe90170ba75773a6fe901153c4dd318980.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_590074c0cfa8c7098358a128f656b0198af8f0be.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_590074c0cfa8c7098358a128f656b0198af8f0be.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_02282b4eb4c8b13129a13908b85840dbf2168644.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_02282b4eb4c8b13129a13908b85840dbf2168644.1920x1080.jpg?t=1776466244"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_2d4ad1a81618920416e7b68d02dc266ac898f144.600x338.jpg?t=1776466244",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/ss_2d4ad1a81618920416e7b68d02dc266ac898f144.1920x1080.jpg?t=1776466244"
+    }
+  ],
+  "web": "https://www.playstation.com/games/stellar-blade/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Stellar Blade™ es un juego de acción y aventuras ambientado en un mundo postapocalíptico. Los jugadores participan en combates cuerpo a cuerpo de ritmo rápido, utilizando armas como espadas, metralletas y pistolas láser. Los ataques generan efectos de salpicaduras negras y pueden también empalar, desmembrar o decapitar a los enemigos. Existen personajes femeninos con vestuario provocativo. Existen algunas referencias a la tortura y el suicidio. Hay algunas escenas que incluyen representaciones de consumo de alcohol y tabaco. Se utiliza un lenguaje soez entre alto y medio en los diálogos.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 117170,
+  "youtube": [
+    {
+      "id": "3X3JR3pG0I8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ayek3ZzWb1E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WQpFj2rfkKQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "U8V--DUxheg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:20:40.384Z"
 }

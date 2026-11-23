@@ -2,7 +2,8 @@
   "clave": "god of war ragnarok",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6bca-706d-9e69-8316170c379b",
   "appid": "2322010",
@@ -53,6 +54,52 @@
       "url": "https://opencritic.com/game/12919/god-of-war-ragnar-k"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1070850",
+      "nombre": "God of War Ragnarök",
+      "apps": [
+        {
+          "appid": "2322010",
+          "nombre": "God of War Ragnarök"
+        }
+      ],
+      "usd": 33.49,
+      "antes": 49.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "2322010": {
+      "usd": 33.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2974310",
+      "nombre": "God of War Ragnarök Soundtrack",
+      "gratis": false,
+      "usd": 40.19,
+      "descuento": 33
+    },
+    {
+      "appid": "2974330",
+      "nombre": "Actualización de la Edición Digital Deluxe de God of War Ragnarök",
+      "gratis": false,
+      "usd": 40.19,
+      "descuento": 33
+    },
+    {
+      "appid": "2974340",
+      "nombre": "God of War Ragnarök - Digital Artbook",
+      "gratis": false,
+      "usd": 40.19,
+      "descuento": 33
+    }
+  ],
   "descripcion": "Kratos y Atreus se embarcan en una mítica aventura en busca de respuestas y aliados antes de la llegada del Ragnarök. Ahora también en PC.",
   "generos": [
     "Acción",
@@ -64,6 +111,404 @@
     "puntaje": 90,
     "url": "https://www.metacritic.com/game/pc/god-of-war-ragnarok?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 33421,
-  "consultado": "2026-11-22T21:47:00.238Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "God of War Ragnarök",
+  "acerca": [
+    [
+      "p",
+      "LA SAGA NÓRDICA CONTINÚA"
+    ],
+    [
+      "p",
+      "Desarrollado por Santa Monica Studio y adaptado para PC en colaboración con Jetpack Interactive, llega God of War Ragnarök, un épico y emotivo viaje en el que Kratos y Atreus deberán decidir a qué se aferran y qué dejan ir."
+    ],
+    [
+      "p",
+      "En God of War Ragnarök, la secuela del aclamado God of War (2018), el Fimbulvetr está en marcha. Kratos y Atreus deben viajar a cada uno de los Nueve Reinos en busca de respuestas mientras las fuerzas asgardianas de Odín se preparan para la batalla profetizada que supondrá el fin del mundo."
+    ],
+    [
+      "p",
+      "Por el camino, explorarán paisajes míticos increíbles y se enfrentarán a temibles enemigos, como monstruos y dioses nórdicos. A medida que se avecina la amenaza del Ragnarök, Kratos y Atreus tendrán que elegir entre la seguridad de su familia y la de los reinos."
+    ],
+    [
+      "p",
+      "UN FUTURO NO ESCRITO"
+    ],
+    [
+      "p",
+      "Atreus busca el conocimiento que le ayude a comprender la profecía de \"\"Loki\"\" y establecer su papel en el Ragnarök. Kratos debe decidir entre someterse al miedo de repetir sus errores o dejar atrás el pasado y convertirse en el padre que Atreus necesita."
+    ],
+    [
+      "p",
+      "COMBATE FLUIDO Y EXPRESIVO"
+    ],
+    [
+      "p",
+      "El hacha Leviatán, las Espadas del Caos y el Escudo del Guardián regresan junto con un gran número de nuevas habilidades para Kratos y Atreus. Las letales habilidades espartanas de Kratos estarán a prueba como nunca antes en su enfrentamiento contra dioses y monstruos a través de los Nueve Reinos para proteger a su familia."
+    ],
+    [
+      "p",
+      "EXPLORA VASTOS REINOS"
+    ],
+    [
+      "p",
+      "Viaja a través de peligrosos e increíbles escenarios al tiempo que Kratos y Atreus buscan respuestas."
+    ],
+    [
+      "p",
+      "DOMÍNATE A TI MISMO EN GOD OF WAR RAGNARÖK: VALHALLA"
+    ],
+    [
+      "p",
+      "¡Si compras God of War Ragnarök, obtendrás acceso gratuito al DLC God of War Ragnarök: Valhalla, disponible desde la fecha de lanzamiento!"
+    ],
+    [
+      "p",
+      "Acompañado únicamente por Mimir, Kratos se embarca en un viaje profundamente personal y reflexivo que le obligará a dominar cuerpo y mente al enfrentarse a los desafíos del Valhalla en una misteriosa aventura rejugable que combina el combate emblemático de God of War Ragnarök con elementos completamente nuevos inspirados en el género roguelite."
+    ],
+    [
+      "p",
+      "UN EPÍLOGO DE RAGNARÖK"
+    ],
+    [
+      "p",
+      "El viaje de Kratos continúa en el Valhalla, un nuevo lugar por explorar en la saga nórdica de God of War. Frente a los ecos de su pasado, tendrá que luchar por superar las pruebas a las que se somete y recorrer la senda que se abre ante él."
+    ],
+    [
+      "p",
+      "EL EMBLEMÁTICO COMBATE REIMAGINADO"
+    ],
+    [
+      "p",
+      "El aclamado combate de God of War Ragnarök se reinventa con giros nuevos y experimentales inspirados en el género roguelite. ¡El Valhalla te animará a dominar diferentes aspectos del arsenal de Kratos en cada intento enfrentándote a nuevas combinaciones de enemigos y descubriendo varias sorpresas por el camino!"
+    ],
+    [
+      "p",
+      "LUCHA. APRENDE. MADURA."
+    ],
+    [
+      "p",
+      "La muerte nunca es el final. Kratos podrá utilizar sus armas, escudo y habilidades, pero cada nuevo intento reiniciará sus estadísticas, ataques rúnicos y ventajas. A medida que Kratos avance en cada intento, tendrás la posibilidad de elegir diferentes recompensas que te ayudarán a seguir adentrándote en las misteriosas profundidades del Valhalla mientras acumulas recursos para conseguir mejoras persistentes."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS EN PC"
+    ],
+    [
+      "p",
+      "Gracias a la colaboración con Jetpack Interactive una vez más, God of War Ragnarök en PC aprovechará al máximo la potencia de la plataforma para ofrecer una experiencia excepcional."
+    ],
+    [
+      "p",
+      "POSIBILIDAD DE DESBLOQUEAR LA VELOCIDAD DE FOTOGRAMAS Y GRÁFICOS ULTRAREALISTAS"
+    ],
+    [
+      "p",
+      "Experimenta todo el potencial de los planos secuencia mientras viajas por los increíbles paisajes de los Nueve Reinos gracias a la posibilidad de desbloquear la velocidad de fotogramas y la resolución en auténtico 4K.1"
+    ],
+    [
+      "p",
+      "Disfruta de los reflejos mejorados, la iluminación y las sombras más realistas, así como del aumento de los detalles geométricos.2"
+    ],
+    [
+      "p",
+      "TECNOLOGÍA DE ESCALADO"
+    ],
+    [
+      "p",
+      "Sumérgete por completo con el supermuestreo de aprendizaje profundo (DLSS) de NVIDIA RTX™ 3.7, AMD FidelityFX™ Super Resolution (FSR) 3.1 e Intel XeSS (Xe Super Sampling) 1.2, que ofrecen unos mejores ajustes gráficos y resoluciones más altas."
+    ],
+    [
+      "p",
+      "COMPATIBLE CON NVIDIA® REFLEX"
+    ],
+    [
+      "p",
+      "La tecnología de latencia baja y la capacidad de respuesta de NVIDIA Reflex te permitirán reaccionar más rápido y realizar combos más potentes.3"
+    ],
+    [
+      "p",
+      "COMPATIBLE CON LAS RELACIONES DE ASPECTO SUPER ULTRAWIDE"
+    ],
+    [
+      "p",
+      "¡Disfruta de la impresionante belleza de los Nueve Reinos en pantallas panorámicas con relaciones de aspecto Ultrawide 21:9 y Super Ultrawide 32:9!1"
+    ],
+    [
+      "p",
+      "CONTROLES PERSONALIZABLES"
+    ],
+    [
+      "p",
+      "Juega a tu estilo. Gracias a la compatibilidad con una amplia selección de mandos, como los inalámbricos DUALSHOCK®4 y DUALSENSE®, y la capacidad de personalizar las asignaciones para teclado y ratón, podrás modificar cada acción según tu estilo de juego."
+    ],
+    [
+      "p",
+      "RESPUESTA HÁPTICA"
+    ],
+    [
+      "p",
+      "Siente el viaje por los reinos nórdicos gracias a la respuesta háptica inmersiva y la funcionalidad de gatillos adaptativos.3"
+    ],
+    [
+      "p",
+      "AUDIO ESPACIAL EN 3D"
+    ],
+    [
+      "p",
+      "Saca partido al audio espacial altamente sensible en 3D para oír a los enemigos que se acerquen desde cualquier dirección, incluso desde arriba y abajo.4"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Croata",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 20H1"
+      ],
+      [
+        "Procesador",
+        "Intel i5-4670k or AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1060 (6GB) or AMD RX 5500 XT (8GB) or Intel Arc A750"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "190 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 20H1"
+      ],
+      [
+        "Procesador",
+        "Intel i5-8600 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 2060 Super or AMD RX 5700 or Intel Arc A770"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "190 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_05f27139b15c5410d07cd59b7b52adbdf73e13da.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_05f27139b15c5410d07cd59b7b52adbdf73e13da.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_974a7b998c0c14da7fe52a342cf36c98850a57ac.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_974a7b998c0c14da7fe52a342cf36c98850a57ac.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_78350297511e81f287b4bc361935efbc3016f6db.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_78350297511e81f287b4bc361935efbc3016f6db.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7cbcd6847cac4d2d42f496954d0df715c6af0b3a.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7cbcd6847cac4d2d42f496954d0df715c6af0b3a.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_c6240e5611e6aa1c2219dbf778f79b2b5244d912.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_c6240e5611e6aa1c2219dbf778f79b2b5244d912.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_5f1bca8b9b0de6e747f1849b0d459b9a6ce614e7.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_5f1bca8b9b0de6e747f1849b0d459b9a6ce614e7.1920x1080.jpg?t=1776465233"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_1848b58003fcc199092227f871770a216d9430f9.600x338.jpg?t=1776465233",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/ss_1848b58003fcc199092227f871770a216d9430f9.1920x1080.jpg?t=1776465233"
+    }
+  ],
+  "web": "https://www.playstation.com/games/god-of-war-ragnarok/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "God of War Ragnarök es un juego de acción y aventura en el que los jugadores se meten en la piel de Kratos y su hijo, quienes se embarcan en una misión para evitar la llegada del Ragnarök. Los jugadores exploran los Nueve Reinos, enfrentándose a enemigos humanos como los saqueadores o a criaturas fantásticas en combates cuerpo a cuerpo. Los jugadores usan el hacha Leviatán y las Espadas del Caos para combatir a los enemigos con sangrientos ataques que resultan en decapitaciones y desmembramientos. Tras debilitar al enemigo, los jugadores pueden realizar movimientos finales como empalamientos, desmembramientos o decapitaciones en primer plano. Los diálogos contienen lenguaje soez.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 112875,
+  "youtube": [
+    {
+      "id": "EE-4GvjKcfs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dIQGI36BxDE",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "3FwLWwWvNes",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "g1wr0DfV73E",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:00.550Z"
 }

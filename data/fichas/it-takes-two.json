@@ -2,7 +2,8 @@
   "clave": "it takes two",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4a27-72c8-9837-8ec5e5e92932",
   "appid": "1426210",
@@ -47,6 +48,38 @@
       "url": "https://opencritic.com/game/10974/it-takes-two"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "500812",
+      "nombre": "It Takes Two",
+      "apps": [
+        {
+          "appid": "1426210",
+          "nombre": "It Takes Two"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1426210": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4110940",
+      "nombre": "It Takes Two: Banda sonora original",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Embárcate en la aventura de tu vida en It Takes Two. Invita a un amigo a acompañarte gratis con el Pase de amigo* para colaborar en una gran variedad de desafíos deliciosamente rompedores.",
   "generos": [
     "Acción",
@@ -57,6 +90,253 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/it-takes-two?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 221733,
-  "consultado": "2026-11-22T21:43:59.007Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "It Takes Two",
+  "acerca": [
+    [
+      "p",
+      "Embárcate en la aventura más loca de tu vida con It Takes Two, un juego de plataformas multigénero exclusivamente cooperativo. Invita a un amigo a acompañarte gratis con el Pase de amigo* para colaborar en una gran variedad de desafíos deliciosamente rompedores. Métete en la piel de Cody y May, una conflictiva pareja de humanos convertidos en muñecos por un hechizo. Juntos, atrapados en un mundo fantástico donde lo impredecible aguarda a cada paso, deberán intentar a regañadientes salvar su relación rota."
+    ],
+    [
+      "p",
+      "Domina habilidades de personaje únicas y conectadas en cada nuevo nivel. Colabora para superar numerosos obstáculos inesperados y comparte momentos tronchantes. Enfréntate a ardillas gánsteres, pilota unos calzoncillos, haz de DJ en un animado club nocturno y lánzate en trineo por el interior de una bola de nieve mágica. Disfruta de una historia emotiva y desternillante que entrelaza narrativa y juego en una experiencia única y metafórica."
+    ],
+    [
+      "p",
+      "It Takes Two es obra del galardonado estudio Hazelight, líder de la industria en juegos cooperativos. Estás a punto de embarcarte en una experiencia alocada y maravillosa en la que solo hay una cosa segura: juntos somos mejores."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS PRINCIPALES"
+    ],
+    [
+      "li",
+      "Pura perfección cooperativa : invita a un amigo a acompañarte gratis con la función Remote Play Together** y disfrutad de una emocionante aventura creada para dos. Elige entre cooperativo local y online en pantalla dividida y enfréntate a toda una variedad de desafíos en los que solo podréis avanzar colaborando."
+    ],
+    [
+      "li",
+      "Mecánicas deliciosamente rompedoras : desde violentas aspiradoras hasta horteras gurús del amor... Nunca sabes a qué te enfrentarás en cada momento. Con un montón de desafíos en diferentes géneros de juego y nuevas habilidades de personaje que dominar en cada nivel: descubre una combinación metafórica de juego e historia que desafía los límites de la narrativa interactiva."
+    ],
+    [
+      "li",
+      "Una historia universal sobre relaciones : descubre una conmovedora y emotiva historia sobre las dificultades de llevarse bien. Ayuda a Cody y May a superar sus diferencias. Conoce a un variopinto reparto de personajes extraños y entrañables. Unid fuerzas y lanzaos a una aventura que recordaréis para siempre... ¡juntos!"
+    ],
+    [
+      "p",
+      "ACERCA DE HAZELIGHT"
+    ],
+    [
+      "p",
+      "Hazelight es un galardonado estudio independiente de videojuegos con sede en Estocolmo, Suecia. La empresa, fundada en 2014 por Josef Fares (director de cine y creador del galardonado juego Brothers: A Tale of Two Sons), está decidida a desafiar los límites creativos dentro del mundo de los videojuegos. En 2018, Hazelight publicó como parte del programa EA Originals el juego ganador de un BAFTA A Way Out, la primera aventura de acción en tercera persona exclusivamente cooperativa de la historia."
+    ],
+    [
+      "p",
+      "ACERCA DE EA ORIGINALS"
+    ],
+    [
+      "p",
+      "EA Originals pretende dar a conocer a algunos de los desarrolladores más apasionados, independientes y de mayor talento del mundo. Descubre experiencias de juego innovadoras e inolvidables de la mano de creadores de gran creatividad, que te apasionarán e inspirarán."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Remote Play Together"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1 64-bit or Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2100T or AMD FX 6100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 660 or AMD R7 260x"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1 64-bit or Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 3570K or AMD Ryzen 3 1300x"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 980 or AMD R9 290X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6e987a0678b013bfd0073a9ac4703e1f04ca4dea.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_fdac523e3ea4d2f32a44449bb8c224857563bd7d.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_4a62bc8fa398fc5b2094a6225dc5ecff9485f824.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_a15164ddd357ab3c0b2aff575a6b215b2d91b406.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_d7a931229cbf1cc25975bb5860cbde5b9bbc826a.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6f7b65b8613afbcb2616bff8ed0283d0629b6572.1920x1080.jpg?t=1777395376"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.600x338.jpg?t=1777395376",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/ss_6ce2d50261a94284c72164e2d6d3721fe2f00013.1920x1080.jpg?t=1777395376"
+    }
+  ],
+  "web": "https://www.ea.com/games/it-takes-two",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 135243,
+  "youtube": [
+    {
+      "id": "blwlcwlAXwA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ohClxMmNLQQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:14:35.243Z"
 }

@@ -2,7 +2,8 @@
   "clave": "warhammer 40 000 dawn of war iv",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0198c398-c1a1-719a-ad28-6e629a4a0619",
   "appid": "2272360",
@@ -22,6 +23,59 @@
     "Real Time Tactics"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "815160",
+      "nombre": "Warhammer 40,000: Dawn of War IV",
+      "apps": [
+        {
+          "appid": "2272360",
+          "nombre": "Warhammer 40,000: Dawn of War IV"
+        }
+      ],
+      "usd": 40.49,
+      "antes": 44.99,
+      "descuento": 10
+    },
+    {
+      "packageid": "1624417",
+      "nombre": "Warhammer 40,000: Dawn of War IV Commander Edition",
+      "apps": [
+        {
+          "appid": "2272360",
+          "nombre": "Warhammer 40,000: Dawn of War IV"
+        },
+        {
+          "appid": "4759250",
+          "nombre": "Warhammer 40,000: Dawn of War IV - Year 1 Expansion"
+        }
+      ],
+      "usd": 60.74,
+      "antes": 67.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "2272360": {
+      "usd": 40.49,
+      "gratis": false
+    },
+    "4759250": {
+      "usd": 60.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4759250",
+      "nombre": "Warhammer 40,000: Dawn of War IV - Year 1 Expansion",
+      "gratis": false,
+      "usd": 60.74,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Regresa a las raíces de esta serie de estrategia en tiempo real con un modo de juego muy satisfactorio. ¡Comanda 4 facciones únicas de Warhammer 40,000, con Adeptus Mechanicus por 1.ª vez! Lucha en 70+ misiones de campaña épicas y en los modos rejugables Batalla final, Escaramuza y multijugador.",
   "generos": [
     "Acción",
@@ -29,6 +83,197 @@
   ],
   "lanzamientoTexto": null,
   "metacritic": null,
-  "recomendaciones": null,
-  "consultado": "2026-11-22T21:46:33.628Z"
+  "nombreSteam": "Warhammer 40,000: Dawn of War IV",
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10600K, AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1660, AMD RadeonRX 5700"
+      ],
+      [
+        "Almacenamiento",
+        "125 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-12700, AMD Ryzen 5 7600X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 3060 Ti, AMD Radeon RX 9060 8GB"
+      ],
+      [
+        "Almacenamiento",
+        "125 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/19b41acb35fbb7365edd1f2d79517e60d3bcd1b3/ss_19b41acb35fbb7365edd1f2d79517e60d3bcd1b3.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/19b41acb35fbb7365edd1f2d79517e60d3bcd1b3/ss_19b41acb35fbb7365edd1f2d79517e60d3bcd1b3.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/d94758cd638cf69ba1c48bc76b698e19907b8b40/ss_d94758cd638cf69ba1c48bc76b698e19907b8b40.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/d94758cd638cf69ba1c48bc76b698e19907b8b40/ss_d94758cd638cf69ba1c48bc76b698e19907b8b40.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/6c8cc98cdfb7df013ce8b607e958466fbf3b95fd/ss_6c8cc98cdfb7df013ce8b607e958466fbf3b95fd.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/6c8cc98cdfb7df013ce8b607e958466fbf3b95fd/ss_6c8cc98cdfb7df013ce8b607e958466fbf3b95fd.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/dcf65e1e40bc8fa2eded99fb7488df5eea34f9b7/ss_dcf65e1e40bc8fa2eded99fb7488df5eea34f9b7.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/dcf65e1e40bc8fa2eded99fb7488df5eea34f9b7/ss_dcf65e1e40bc8fa2eded99fb7488df5eea34f9b7.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/8a7ce8e8fcc0f34a7b484a36e09736aef5155d4d/ss_8a7ce8e8fcc0f34a7b484a36e09736aef5155d4d.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/8a7ce8e8fcc0f34a7b484a36e09736aef5155d4d/ss_8a7ce8e8fcc0f34a7b484a36e09736aef5155d4d.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/42fe7fb19aa8766c0ec7874e3dc5d8120d833c6d/ss_42fe7fb19aa8766c0ec7874e3dc5d8120d833c6d.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/42fe7fb19aa8766c0ec7874e3dc5d8120d833c6d/ss_42fe7fb19aa8766c0ec7874e3dc5d8120d833c6d.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/f8b5b16e21d66f3654dc714abbd3e3dad901cb03/ss_f8b5b16e21d66f3654dc714abbd3e3dad901cb03.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/f8b5b16e21d66f3654dc714abbd3e3dad901cb03/ss_f8b5b16e21d66f3654dc714abbd3e3dad901cb03.1920x1080.jpg?t=1794503015"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/7a18b11f3c4dd23c58db0734730d80bcd2c689f6/ss_7a18b11f3c4dd23c58db0734730d80bcd2c689f6.600x338.jpg?t=1794503015",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/7a18b11f3c4dd23c58db0734730d80bcd2c689f6/ss_7a18b11f3c4dd23c58db0734730d80bcd2c689f6.1920x1080.jpg?t=1794503015"
+    }
+  ],
+  "web": "https://dawnofwar4.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Warhammer 40,000: Dawn of War IV contains strong violence, blood and gore during combat and in cinematic sequences. Players command armies in large-scale battles featuring firearms, melee combat, explosions and graphic depictions of combat injuries and death. Blood, dismemberment and other violent effects may be visible during combat and in close-up cinematic sequences.",
+  "igdbIntentado": true,
+  "igdb": 361859,
+  "youtube": [
+    {
+      "id": "lAPm8fIy5mg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "z3u6jlJUEVI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qbinpf_oB8A",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "KzM5JxveO5I",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:16:06.566Z"
 }

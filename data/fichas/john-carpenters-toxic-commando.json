@@ -1,0 +1,389 @@
+{
+  "clave": "john carpenters toxic commando",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d9591-5091-71ce-a5b6-cf13a40fe594",
+  "appid": "2157830",
+  "lanzamiento": "2026-03-12",
+  "desarrolladores": [
+    "Saber Interactive"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive",
+    "Focus Entetainment"
+  ],
+  "etiquetas": [
+    "Zombies",
+    "Online Co-Op",
+    "Shooter",
+    "FPS",
+    "PvE"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 71,
+      "cantidad": 6450,
+      "url": "https://store.steampowered.com/app/2157830/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 42,
+      "url": "https://metacritic.com/game/john-carpenters-toxic-commando/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 79,
+      "url": "https://metacritic.com/game/john-carpenters-toxic-commando/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 96,
+      "url": "https://opencritic.com/game/19932/john-carpenters-toxic-commando"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1453435",
+      "nombre": "John Carpenter's Toxic Commando - Standard Edition",
+      "apps": [
+        {
+          "appid": "2157830",
+          "nombre": "John Carpenter's Toxic Commando"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1453454",
+      "nombre": "John Carpenter's Toxic Commando - Blood Edition",
+      "apps": [
+        {
+          "appid": "2157830",
+          "nombre": "John Carpenter's Toxic Commando"
+        },
+        {
+          "appid": "3933880",
+          "nombre": "John Carpenter's Toxic Commando - Bloody Pass"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2157830": {
+      "usd": 23.99,
+      "gratis": false
+    },
+    "3933880": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "4148660",
+      "nombre": "John Carpenter's Toxic Commando - Cosmetic Pack 2",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4148650",
+      "nombre": "John Carpenter's Toxic Commando - Cosmetic Pack 1",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3933880",
+      "nombre": "John Carpenter's Toxic Commando - Bloody Pass",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3933870",
+      "nombre": "John Carpenter's Toxic Commando - Cosmetic Pack: Bloody Pass  ",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    },
+    {
+      "appid": "3933860",
+      "nombre": "John Carpenter's Toxic Commando - Leon’s Secret Stash",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "4399810",
+      "nombre": "John Carpenter's Toxic Commando - Original Soundtrack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Elige un personaje y forma equipo con 3 amigos: os toca salvar el mundo. ¡Aplasta hordas de monstruos en este intenso juego de disparos en primera persona! Quizá no seáis la flor y nata del mundo mercenario, pero recordad: ¡sois un Toxic Commando!",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "12 MAR 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "John Carpenter's Toxic Commando",
+  "acerca": [
+    [
+      "p",
+      "Toxic Commando, ¡carga tu arma y forma un escuadrón de 4 jugadores para enviar al Dios del lodo y a su horda de no muertos de vuelta al infierno!"
+    ],
+    [
+      "p",
+      "Reúne un escuadrón de 4 jugadores o únete a otros comandos en línea para disfrutar del caos cooperativo más genuino. Resucita a los compañeros caídos, comparte munición, cúbreles las espaldas y desafía la locura entre risas. Si los infectados atacan desde cualquier dirección, lo de trabajar en equipo no es opcional: es cuestión de supervivencia."
+    ],
+    [
+      "p",
+      "Desata el infierno con un arsenal de armas, granadas y poderes devastadores mientras miles de infectados se abalanzan sobre ti en incesantes oleadas. Con el motor de juego Swarm Engine de Saber (World War Z, Warhammer 40,000: Space Marine 2), la horda nunca se detiene… y tu dedo en el gatillo tampoco debería hacerlo."
+    ],
+    [
+      "p",
+      "Busca vehículos repartidos por mapas semiabiertos y arrasa el páramo. Cada vehículo es único: algunos cuentan con gran armamento o con habilidades especiales; otros llevan incorporadas herramientas útiles como cabrestantes. Encuentra el que mejor se amolde a las necesidades de tu escuadrón; luego pisa a fondo y atraviesa a la horda para sentir la adrenalina: nada supera la satisfacción de convertir zombis en asfalto."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualShock"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1500X / Intel Core i5-8400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 580 / Nvidia GeForce GTX 1070"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "58 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600X / Intel Core i5-11600K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6800 XT / Nvidia GeForce RTX 3060 Ti"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "58 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/ab406a783ca5cc723e3b420a5dd98ed9320dc5f1/ss_ab406a783ca5cc723e3b420a5dd98ed9320dc5f1.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/ab406a783ca5cc723e3b420a5dd98ed9320dc5f1/ss_ab406a783ca5cc723e3b420a5dd98ed9320dc5f1.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/e2ecef3a17c708fdb72d7c71754692d9bfe9153c/ss_e2ecef3a17c708fdb72d7c71754692d9bfe9153c.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/e2ecef3a17c708fdb72d7c71754692d9bfe9153c/ss_e2ecef3a17c708fdb72d7c71754692d9bfe9153c.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/56768965feef33b2dc703882be043460e1aa6858/ss_56768965feef33b2dc703882be043460e1aa6858.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/56768965feef33b2dc703882be043460e1aa6858/ss_56768965feef33b2dc703882be043460e1aa6858.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/32346fba561025627611a5b2d8be6f17b7c148a5/ss_32346fba561025627611a5b2d8be6f17b7c148a5.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/32346fba561025627611a5b2d8be6f17b7c148a5/ss_32346fba561025627611a5b2d8be6f17b7c148a5.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/12fda55a68ca0c3adc0a35ec01c833546c332b91/ss_12fda55a68ca0c3adc0a35ec01c833546c332b91.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/12fda55a68ca0c3adc0a35ec01c833546c332b91/ss_12fda55a68ca0c3adc0a35ec01c833546c332b91.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/bdd1a56f44dc9b059794f8506581a8713ef26879/ss_bdd1a56f44dc9b059794f8506581a8713ef26879.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/bdd1a56f44dc9b059794f8506581a8713ef26879/ss_bdd1a56f44dc9b059794f8506581a8713ef26879.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/2e6fcfcb0e782d47de7976137a449aa2b6236122/ss_2e6fcfcb0e782d47de7976137a449aa2b6236122.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/2e6fcfcb0e782d47de7976137a449aa2b6236122/ss_2e6fcfcb0e782d47de7976137a449aa2b6236122.1920x1080.jpg?t=1793632913"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/d880ee498e033ec11a991c748fad569f4930e897/ss_d880ee498e033ec11a991c748fad569f4930e897.600x338.jpg?t=1793632913",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2157830/d880ee498e033ec11a991c748fad569f4930e897/ss_d880ee498e033ec11a991c748fad569f4930e897.1920x1080.jpg?t=1793632913"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/john-carpenters-toxic-commando?utm_source=Steam_BG ",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 252485,
+  "youtube": [
+    {
+      "id": "ahDfS-wDsmM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "svWU-rezMu0",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:13:56.548Z"
+}

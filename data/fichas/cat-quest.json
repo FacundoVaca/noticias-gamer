@@ -1,9 +1,9 @@
 {
   "clave": "cat quest",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-24e6-7067-886a-d9919d37f3aa",
   "appid": "593280",
@@ -52,6 +52,40 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "154585",
+      "nombre": "Cat Quest",
+      "apps": [
+        {
+          "appid": "593280",
+          "nombre": "Cat Quest"
+        }
+      ],
+      "usd": 7.29,
+      "antes": 7.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "540072",
+      "nombre": "Cat Quest - Commercial License",
+      "apps": [
+        {
+          "appid": "593280",
+          "nombre": "Cat Quest"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 12.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "593280": {
+      "usd": 7.29,
+      "gratis": false
+    }
+  },
   "descripcion": "Cat Quest es un RPG de mundo abierto ambientado en el gatupendo mundo de los felinos. Tras las huellas de tu hermana gatuestrada, te abalanzarás sobre el vasto territorio de Felinia: un mundo creado al estilo de los mapas de antaño y rrrepleto de gatásticos personajes, historias y humor.",
   "generos": [
     "Acción",
@@ -65,6 +99,7 @@
     "puntaje": 79,
     "url": "https://www.metacritic.com/game/pc/cat-quest?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Cat Quest",
   "acerca": [
     [
@@ -104,43 +139,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -224,5 +269,31 @@
     }
   ],
   "web": "http://thegentlebros.com/catquest/",
-  "consultado": "2026-11-22T22:25:56.576Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 36597,
+  "youtube": [
+    {
+      "id": "TZzn4wobgug",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wKWxrw_ra5c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7xJW0LiLHMI",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "VUbzC5fX0t4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:51.213Z"
 }

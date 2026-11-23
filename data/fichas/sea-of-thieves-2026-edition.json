@@ -2,7 +2,9 @@
   "clave": "sea of thieves 2026 edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-1f0a-73a6-a3aa-b861902b50a6",
   "appid": "1172620",
@@ -48,6 +50,143 @@
       "url": "https://opencritic.com/game/5412/sea-of-thieves"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "401467",
+      "nombre": "Sea of Thieves 2026 Edition",
+      "apps": [
+        {
+          "appid": "1172620",
+          "nombre": "Sea of Thieves: 2026 Edition"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 23.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "1486117",
+      "nombre": "Sea of Thieves 2026 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "4373360",
+          "nombre": "Sea of Thieves: 2026 Deluxe Bundle"
+        },
+        {
+          "appid": "1172620",
+          "nombre": "Sea of Thieves: 2026 Edition"
+        },
+        {
+          "appid": "2838630",
+          "nombre": "Sea of Thieves: Athena's Fortune Audiobook"
+        },
+        {
+          "appid": "2838640",
+          "nombre": "The Rough Guide to Sea of Thieves eBook"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 29.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "1486118",
+      "nombre": "Sea of Thieves 2026 Premium Edition",
+      "apps": [
+        {
+          "appid": "4373360",
+          "nombre": "Sea of Thieves: 2026 Deluxe Bundle"
+        },
+        {
+          "appid": "1172620",
+          "nombre": "Sea of Thieves: 2026 Edition"
+        },
+        {
+          "appid": "4373370",
+          "nombre": "Sea of Thieves: 2026 Premium Bundle"
+        },
+        {
+          "appid": "2838630",
+          "nombre": "Sea of Thieves: Athena's Fortune Audiobook"
+        },
+        {
+          "appid": "2838640",
+          "nombre": "The Rough Guide to Sea of Thieves eBook"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 35.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "1172620": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "2838630": {
+      "usd": null,
+      "gratis": true
+    },
+    "2838640": {
+      "usd": null,
+      "gratis": true
+    },
+    "4373360": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "4373370": {
+      "usd": 12.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "4373290",
+      "nombre": "Sea of Thieves Original Soundtrack – 2026 Edition",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4373360",
+      "nombre": "Sea of Thieves: 2026 Deluxe Bundle",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 65
+    },
+    {
+      "appid": "4373370",
+      "nombre": "Sea of Thieves: 2026 Premium Bundle",
+      "gratis": false,
+      "usd": 12.59,
+      "descuento": 65
+    },
+    {
+      "appid": "2838630",
+      "nombre": "Sea of Thieves: Athena's Fortune Audiobook",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2838640",
+      "nombre": "The Rough Guide to Sea of Thieves eBook",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3937210",
+      "nombre": "Immerse Gamepack Sea of Thieves",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 40
+    }
+  ],
   "descripcion": "Sea of Thieves es un exitoso juego de aventuras piratas que ofrece la experiencia pirata por excelencia de saquear tesoros perdidos, batallas intensas, vencer monstruos marinos y más. Sumérgete en esta edición revisada del juego, que incluye acceso a medios digitales de bonificación.",
   "generos": [
     "Acción",
@@ -55,6 +194,290 @@
   ],
   "lanzamientoTexto": "3 JUN 2020",
   "metacritic": null,
-  "recomendaciones": 323484,
-  "consultado": "2026-11-22T21:47:26.120Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Sea of Thieves: 2026 Edition",
+  "acerca": [
+    [
+      "p",
+      "Sea of Thieves te ofrece la experiencia pirata definitiva, desde la navegación y el combate hasta la exploración y el saqueo; todo para disfrutar de la vida pirata y convertirte en una auténtica leyenda. No hay roles establecidos, tienes total libertad para enfrentarte al mundo y a los demás jugadores como desees."
+    ],
+    [
+      "p",
+      "Tanto si navegas en grupo o en solitario, acabarás cruzándote con otras tripulaciones en esta aventura de mundo compartido..., pero ¿serán amigos o enemigos? ¿Y cómo responderás?"
+    ],
+    [
+      "p",
+      "Descubre los mares"
+    ],
+    [
+      "p",
+      "Sea of Thieves te anima a elegir un punto en el horizonte y zarpar con el objetivo de descubrir todo lo que te aguarda, desde los pasajes subterráneos más profundos hasta las cimas más altas de las islas. Allá donde vayas, siempre hay algo que desenterrar para los más curiosos."
+    ],
+    [
+      "p",
+      "La emoción nunca acaba"
+    ],
+    [
+      "p",
+      "Todas las sesiones de Sea of Thieves son impredecibles. ¡Incluso una simple travesía hacia una isla tranquila puede convertirse en una emboscada de esqueletos, una batalla campal contra una flota de barcos fantasma o una arriesgada persecución tras piratas rivales que huyen con tus tesoros saqueados!"
+    ],
+    [
+      "p",
+      "Conviértete en una leyenda"
+    ],
+    [
+      "p",
+      "Durante tu travesía para convertirte en un pirata legendario, podrás amasar botines, granjearte un nombre forjándote una reputación y usar las recompensas conseguidas para definir un estilo propio. Aventurero, explorador, conquistador... ¿Qué contará tu leyenda?"
+    ],
+    [
+      "p",
+      "Un juego en constante crecimiento"
+    ],
+    [
+      "p",
+      "Cada nueva temporada de Sea of Thieves mejora y amplía las características del juego, al tiempo que ofrece un calendario de eventos en directo temáticos y recurrentes. Pásate de vez en cuando para ver las novedades mientras vas ascendiendo los 50 niveles del Pase de temporada gratuito para desbloquear un montón de recompensas."
+    ],
+    [
+      "p",
+      "Bonificaciones adicionales"
+    ],
+    [
+      "p",
+      "El contenido digital adicional* incluye acceso a la última versión de la banda sonora original de Sea of Thieves , el audiolibro «Sea of Thieves: Athena's Fortune» y el libro electrónico «The Rough Guide to Sea of Thieves »."
+    ],
+    [
+      "p",
+      "*Descarga disponible en (se requiere inicio de sesión) o a través de Steam."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 version 18362.0 or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i3 4170 @ 3.7 GHz or AMD FX-6300 @ 3.5 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 660 or AMD Radeon R9 270"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7 4790 @4Ghz - AMD Ryzen 5 1600 @3.6Ghz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia Geforce GTX 1080ti - AMD Radeon Rx Vega 64 - Intel A750"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_ec623c77d75dfa098c622b547b1ab21ad4cae0a8.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_ec623c77d75dfa098c622b547b1ab21ad4cae0a8.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/275d2128c1f2c285341b2915c8d2b6d1a9a2ee4c/ss_275d2128c1f2c285341b2915c8d2b6d1a9a2ee4c.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/275d2128c1f2c285341b2915c8d2b6d1a9a2ee4c/ss_275d2128c1f2c285341b2915c8d2b6d1a9a2ee4c.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ef387b7eec7008a3706e8bb254a025680cbfb54d/ss_ef387b7eec7008a3706e8bb254a025680cbfb54d.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ef387b7eec7008a3706e8bb254a025680cbfb54d/ss_ef387b7eec7008a3706e8bb254a025680cbfb54d.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/de2eb59caf773847bb3906602295ce5c180879f7/ss_de2eb59caf773847bb3906602295ce5c180879f7.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/de2eb59caf773847bb3906602295ce5c180879f7/ss_de2eb59caf773847bb3906602295ce5c180879f7.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/769ebfa9403815905c8d5a8b2a5cb83ea277dca1/ss_769ebfa9403815905c8d5a8b2a5cb83ea277dca1.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/769ebfa9403815905c8d5a8b2a5cb83ea277dca1/ss_769ebfa9403815905c8d5a8b2a5cb83ea277dca1.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_1d1989435afbc1ff8d8ec4d61283e41a30208337.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_1d1989435afbc1ff8d8ec4d61283e41a30208337.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/56fcfc9d47f73a644f0f468dc33e5161373e2014/ss_56fcfc9d47f73a644f0f468dc33e5161373e2014.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/56fcfc9d47f73a644f0f468dc33e5161373e2014/ss_56fcfc9d47f73a644f0f468dc33e5161373e2014.1920x1080.jpg?t=1793617680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_d431abb7120aa4a6cbc0be82e5a2cdcca62917b2.600x338.jpg?t=1793617680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/ss_d431abb7120aa4a6cbc0be82e5a2cdcca62917b2.1920x1080.jpg?t=1793617680"
+    }
+  ],
+  "web": "https://www.seaofthieves.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.7,
+    "cantidad": 118985,
+    "escala": 5
+  },
+  "xbox": "9P2N57MC619K",
+  "igdbIntentado": true,
+  "igdb": 11137,
+  "youtube": [
+    {
+      "id": "D551JqlNRn4",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "DUg3yO_Lh6g",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "aE_sEdInwMk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "lF36PEN8ABI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:30.324Z"
 }

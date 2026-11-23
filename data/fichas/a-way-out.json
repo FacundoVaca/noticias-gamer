@@ -2,7 +2,8 @@
   "clave": "a way out",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2077-7336-b125-3cd9641887eb",
   "appid": "1222700",
@@ -47,6 +48,28 @@
       "url": "https://opencritic.com/game/5413/a-way-out"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "423538",
+      "nombre": "A Way Out",
+      "apps": [
+        {
+          "appid": "1222700",
+          "nombre": "A Way Out"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 29.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1222700": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "A Way Out es una aventura exclusivamente cooperativa en la que te metes en la piel de uno de los dos reclusos protagonistas en su intrépida fuga de la cárcel.",
   "generos": [
     "Acción",
@@ -58,6 +81,179 @@
     "puntaje": 78,
     "url": "https://www.metacritic.com/game/pc/a-way-out?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 79064,
-  "consultado": "2026-11-22T21:44:14.250Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "A Way Out",
+  "acerca": [
+    [
+      "p",
+      "De los creadores de Brothers – A Tale of Two Sons llega A Way Out, una aventura exclusivamente cooperativa en la que te metes en la piel de uno de los dos reclusos protagonistas en su intrépida huida de la cárcel."
+    ],
+    [
+      "p",
+      "Lo que comienza como una fuga cargada de adrenalina se acaba convirtiendo en una impredecible y emocionante historia totalmente distinta a todo lo que hayas visto o jugado."
+    ],
+    [
+      "p",
+      "A Way Out es una experiencia para disfrutar entre dos jugadores. Cada uno de ellos controla a uno de los principales personajes, Leo y Vincent, que unen fuerzas a regañadientes para escapar de la cárcel y recobrar su libertad."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel core i3-2100T @ 2.5GHz/AMD FX 6100, or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650Ti 2GB, AMD Radeon HD 7750 2GB"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit, 8.1 64-bit or Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 3570K; AMD Ryzen 3 1300x or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 960; AMD R9 290 or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_a7f52388d8d64bf56170baf5bd223fbbb1d9a94a.600x338.jpg?t=1777323433",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_a7f52388d8d64bf56170baf5bd223fbbb1d9a94a.1920x1080.jpg?t=1777323433"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_55237e6d80cf3f9e2f3f0fa41d710a7ea35b022b.600x338.jpg?t=1777323433",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_55237e6d80cf3f9e2f3f0fa41d710a7ea35b022b.1920x1080.jpg?t=1777323433"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_666b409c3d07150ef0ddccb179a25d44fb62c937.600x338.jpg?t=1777323433",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_666b409c3d07150ef0ddccb179a25d44fb62c937.1920x1080.jpg?t=1777323433"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_7348bdffb1dd4418175bcb91149f3b7daf30ecf8.600x338.jpg?t=1777323433",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_7348bdffb1dd4418175bcb91149f3b7daf30ecf8.1920x1080.jpg?t=1777323433"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_106cea596e17899b75cc76901d6f67afa11d6fd3.600x338.jpg?t=1777323433",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222700/ss_106cea596e17899b75cc76901d6f67afa11d6fd3.1920x1080.jpg?t=1777323433"
+    }
+  ],
+  "web": "https://www.ea.com/games/a-way-out",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 36897,
+  "youtube": [
+    {
+      "id": "VWvRa4D98Zg",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "K_16pHHF0q8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "yGZGSdgJVPM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_ApSmPvxz1o",
+      "nombre": "E3 2017 Showcase"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:09.621Z"
 }

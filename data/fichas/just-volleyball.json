@@ -2,7 +2,8 @@
   "clave": "just volleyball",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a006e7-621f-71bb-9424-6b820c70a164",
   "appid": "5037200",
@@ -34,6 +35,38 @@
       "url": "https://metacritic.com/game/just-volleyball/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1746588",
+      "nombre": "just volleyball",
+      "apps": [
+        {
+          "appid": "5037200",
+          "nombre": "just volleyball"
+        }
+      ],
+      "usd": 2.84,
+      "antes": 4.59,
+      "descuento": 38
+    }
+  ],
+  "sueltos": {
+    "5037200": {
+      "usd": 2.84,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5037230",
+      "nombre": "just volleyball Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s & 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
   "generos": [
     "Acción",
@@ -43,6 +76,175 @@
   ],
   "lanzamientoTexto": "16 NOV 2026",
   "metacritic": null,
-  "recomendaciones": 3101,
-  "consultado": "2026-11-22T21:47:11.099Z"
+  "nombreSteam": "just volleyball",
+  "acerca": [
+    [
+      "p",
+      "just volleyball is an arcade-style action volleyball game that aims to bring a freeform, addicting, and simple volleyball experience to PC, with full online & offline play. with a cursor-based aiming system and fully manual movement, the game may seem simple to pick up, but has a steep and rewarding learning curve."
+    ],
+    [
+      "p",
+      "features:"
+    ],
+    [
+      "p",
+      "1v1s, 2v2s, 3v3s, 4v4s, 5v5s... and 6v6! play whichever format of volleyball you enjoy the most!"
+    ],
+    [
+      "p",
+      "offline & online play: practice by yourself with bots, or head online!"
+    ],
+    [
+      "p",
+      "character customization: personalize your player with a simple yet dynamic avatar creation system."
+    ],
+    [
+      "p",
+      "replay mode: review your highlights & capture cinematic moments!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-7600 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 630 or equivalent (OpenGL 3.3)"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "In the case of issues on certain hardware, try the launch options provided. Total storage use increases with saved replay files."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 5 2600 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1050 Ti / AMD RX 570 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "In the case of issues on certain hardware, try the launch options provided. Total storage use increases with saved replay files."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/7c817d292f4dc7333d2007576085a34550c632ea/ss_7c817d292f4dc7333d2007576085a34550c632ea.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/7c817d292f4dc7333d2007576085a34550c632ea/ss_7c817d292f4dc7333d2007576085a34550c632ea.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76/ss_8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76/ss_8fa2393b78e2b5db7a3cd8310fac160c4b1e6d76.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/4f3c081877347741dbffa1e17f0b18a3d352dd55/ss_4f3c081877347741dbffa1e17f0b18a3d352dd55.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/4f3c081877347741dbffa1e17f0b18a3d352dd55/ss_4f3c081877347741dbffa1e17f0b18a3d352dd55.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/ed6843f98499455946d86f483cb71a3c96c78ef0/ss_ed6843f98499455946d86f483cb71a3c96c78ef0.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/ed6843f98499455946d86f483cb71a3c96c78ef0/ss_ed6843f98499455946d86f483cb71a3c96c78ef0.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/f72d1672bad1155125de0f2ad39a00c478927d18/ss_f72d1672bad1155125de0f2ad39a00c478927d18.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/f72d1672bad1155125de0f2ad39a00c478927d18/ss_f72d1672bad1155125de0f2ad39a00c478927d18.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/89f570403736888ca4d90b2b1421ef196538778f/ss_89f570403736888ca4d90b2b1421ef196538778f.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/89f570403736888ca4d90b2b1421ef196538778f/ss_89f570403736888ca4d90b2b1421ef196538778f.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8f791d6d7632c30047e10ddf7ccb56201c1d3b62/ss_8f791d6d7632c30047e10ddf7ccb56201c1d3b62.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/8f791d6d7632c30047e10ddf7ccb56201c1d3b62/ss_8f791d6d7632c30047e10ddf7ccb56201c1d3b62.1920x1080.jpg?t=1794852941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/ca63c9ab39a86e8ea388cd67e7b10a1e4bc4332c/ss_ca63c9ab39a86e8ea388cd67e7b10a1e4bc4332c.600x338.jpg?t=1794852941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/ca63c9ab39a86e8ea388cd67e7b10a1e4bc4332c/ss_ca63c9ab39a86e8ea388cd67e7b10a1e4bc4332c.1920x1080.jpg?t=1794852941"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 419607,
+  "youtube": [
+    {
+      "id": "hyem8Xf-ukY",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:14.847Z"
 }

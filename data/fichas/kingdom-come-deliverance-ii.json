@@ -2,7 +2,8 @@
   "clave": "kingdom come deliverance ii",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ef26b-9580-704e-a69c-edeee70cfea5",
   "appid": "1771300",
@@ -47,6 +48,138 @@
       "url": "https://opencritic.com/game/17486/kingdom-come-deliverance-ii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "635513",
+      "nombre": "Kingdom Come: Deliverance II",
+      "apps": [
+        {
+          "appid": "1771300",
+          "nombre": "Kingdom Come: Deliverance II"
+        }
+      ],
+      "usd": 14.84,
+      "antes": 44.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "1109733",
+      "nombre": "Kingdom Come: Deliverance II Royal Edition",
+      "apps": [
+        {
+          "appid": "1771300",
+          "nombre": "Kingdom Come: Deliverance II"
+        },
+        {
+          "appid": "3119920",
+          "nombre": "Kingdom Come: Deliverance II Expansion Pass"
+        },
+        {
+          "appid": "3118110",
+          "nombre": "Kingdom Come: Deliverance II Gallant Huntsman’s Kit"
+        },
+        {
+          "appid": "3118100",
+          "nombre": "Kingdom Come: Deliverance II The Lion’s Crest"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1771300": {
+      "usd": 14.84,
+      "gratis": false
+    },
+    "3118100": {
+      "usd": 2.79,
+      "gratis": false
+    },
+    "3118110": {
+      "usd": 1.74,
+      "gratis": false
+    },
+    "3119920": {
+      "usd": 11.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "3368620",
+      "nombre": "Kingdom Come: Deliverance II Mysteria Ecclesiae",
+      "gratis": false,
+      "usd": 6.59,
+      "descuento": 40
+    },
+    {
+      "appid": "3368610",
+      "nombre": "Kingdom Come: Deliverance II Legacy of the Forge",
+      "gratis": false,
+      "usd": 6.59,
+      "descuento": 40
+    },
+    {
+      "appid": "3119920",
+      "nombre": "Kingdom Come: Deliverance II Expansion Pass",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3368600",
+      "nombre": "Kingdom Come: Deliverance II Brushes with Death",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 40
+    },
+    {
+      "appid": "4184930",
+      "nombre": "Kingdom Come: Deliverance II Extended Official Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3468550",
+      "nombre": "Kingdom Come: Deliverance II Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4075290",
+      "nombre": "Kingdom Come: Deliverance II Artbook",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3118100",
+      "nombre": "Kingdom Come: Deliverance II The Lion’s Crest",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 30
+    },
+    {
+      "appid": "3118110",
+      "nombre": "Kingdom Come: Deliverance II Gallant Huntsman’s Kit",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 30
+    },
+    {
+      "appid": "3118120",
+      "nombre": "Kingdom Come: Deliverance II Shields of Seasons Passing",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 30
+    }
+  ],
   "descripcion": "Un emocionante RPG de acción con mucha narrativa y un exuberante mundo abierto situado en la Europa medieval del siglo XV. No te pierdas la aventura medieval definitiva donde vivirás un viaje de proporciones épicas de la mano del joven Henry.",
   "generos": [
     "Acción",
@@ -58,6 +191,223 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/kingdom-come-deliverance-ii?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 149076,
-  "consultado": "2026-11-22T21:46:31.440Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Kingdom Come: Deliverance II",
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit (or newer)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400, AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 (6GB), AMD Radeon RX 580"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit (or newer)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-13700K, AMD Ryzen 7 7800X3D"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 4070, AMD Radeon RX 7800 XT"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_935ddb59f90bc2c21c706132cb9b446fe7851c19.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_935ddb59f90bc2c21c706132cb9b446fe7851c19.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_709f3329562cd2cfe6db70bac908b3e72eaef83b.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_709f3329562cd2cfe6db70bac908b3e72eaef83b.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_bd668f4d12300c019fa3fa73108aa62929fbf862.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_bd668f4d12300c019fa3fa73108aa62929fbf862.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_5580d672302cdc5f8b7161dc94f266341e61a182.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_5580d672302cdc5f8b7161dc94f266341e61a182.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_27e006df1aef43380ae7db0d0b08538b26b49daa.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_27e006df1aef43380ae7db0d0b08538b26b49daa.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_e9a693d1027ec19c4fdbe5156abc80adac7039f8.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_e9a693d1027ec19c4fdbe5156abc80adac7039f8.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_293abf266a1847da65bb633b9e76e851715a4b58.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_293abf266a1847da65bb633b9e76e851715a4b58.1920x1080.jpg?t=1777975568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_77abcbc203685b38a50a8cee383bd7f47488f090.600x338.jpg?t=1777975568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/ss_77abcbc203685b38a50a8cee383bd7f47488f090.1920x1080.jpg?t=1777975568"
+    }
+  ],
+  "web": "https://www.kingdomcomerpg.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "The game contains frequent depictions of violence, killing, brutality and blood. Furthermore coarse language and crude humor is used in an extensive manner. The player will further come across adult themes, alcohol as well as sexual activity and nudity.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 298526,
+  "youtube": [
+    {
+      "id": "vmBTuYLUsrw",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "vPS-pgg3scE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "q_WvHhlDRJ0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "utArRqtkd0Y",
+      "nombre": "Saints and Sinners Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:57.686Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "stray",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-194c-7075-b7c9-a3c1fd30c467",
   "appid": "1332010",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/13386/stray"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "465442",
+      "nombre": "Stray",
+      "apps": [
+        {
+          "appid": "1332010",
+          "nombre": "Stray"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 13.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1332010": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2086160",
+      "nombre": "Stray - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    }
+  ],
   "descripcion": "Perdido, solo y separado de su familia, un gato callejero debe desentrañar un antiguo misterio para escapar de una ciberciudad olvidada y encontrar el camino a casa.",
   "generos": [
     "Aventura",
@@ -58,6 +90,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/stray?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Stray",
   "acerca": [
     [
@@ -93,67 +126,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,5 +302,31 @@
     }
   ],
   "web": "https://stray.game",
-  "consultado": "2026-11-22T22:02:31.403Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 110248,
+  "youtube": [
+    {
+      "id": "8R-splyERsI",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "fOm_9N9ksBY",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "4uP2MyUL49s",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "6z-z0Gps89g",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:26:13.906Z"
 }

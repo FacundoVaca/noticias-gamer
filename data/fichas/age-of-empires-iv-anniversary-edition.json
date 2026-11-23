@@ -2,7 +2,8 @@
   "clave": "age of empires iv anniversary edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-664b-722c-b762-126631fedaa6",
   "appid": "1466860",
@@ -40,6 +41,100 @@
       "url": "https://metacritic.com/game/age-of-empires-iv-anniversary-edition/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "587467",
+      "nombre": "Age of Empires IV",
+      "apps": [
+        {
+          "appid": "1466860",
+          "nombre": "Age of Empires IV: Anniversary Edition"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 19.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "587469",
+      "nombre": "Age of Empires IV: Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1466860",
+          "nombre": "Age of Empires IV: Anniversary Edition"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 29.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "1466860": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "4336170",
+      "nombre": "Age of Empires IV: Raiders of the North",
+      "gratis": false,
+      "usd": 19.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3746540",
+      "nombre": "Age of Empires IV: Yue Fei's Legacy",
+      "gratis": false,
+      "usd": 6.75,
+      "descuento": 10
+    },
+    {
+      "appid": "3067190",
+      "nombre": "Age of Empires IV: Dynasties of the East",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3144890",
+      "nombre": "Age of Empires IV: Knights of Cross and Rose ",
+      "gratis": false,
+      "usd": 2.62,
+      "descuento": 65
+    },
+    {
+      "appid": "1959430",
+      "nombre": "Age of Empires IV:  The Sultans Ascend",
+      "gratis": false,
+      "usd": 2.62,
+      "descuento": 65
+    },
+    {
+      "appid": "2131250",
+      "nombre": "Age of Empires IV: Digital Deluxe Upgrade Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 65
+    },
+    {
+      "appid": "1797050",
+      "nombre": "Age of Empires IV Official Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1668560",
+      "nombre": "Age of Empires IV - 4K HDR Video Pack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Para celebrar su primer año cautivando a millones de jugadores en todo el mundo, la galardonada y exitosa franquicia de estrategia continúa con Age of Empires IV: Edición Aniversario, sumergiéndote en las épicas batallas históricas que cambiaron el mundo.",
   "generos": [
     "Estrategia"
@@ -49,6 +144,316 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/age-of-empires-iv?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 73329,
-  "consultado": "2026-11-22T21:45:32.814Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Age of Empires IV: Anniversary Edition",
+  "acerca": [
+    [
+      "p",
+      "Para celebrar su primer año cautivando a millones de jugadores en todo el mundo, la galardonada y exitosa franquicia de estrategia continúa con Age of Empires IV: Edición Aniversario, sumergiéndote en las épicas batallas históricas que cambiaron el mundo."
+    ],
+    [
+      "p",
+      "Age of Empires IV: Edición Aniversario combina lo que ya le funcionó en su momento con fórmulas innovadoras para que disfrutes expandiendo tu imperio hasta donde alcancen tus ojos, todo ello con una impresionante fidelidad visual en 4K que eleva a este juego de estrategia en tiempo real a otro nivel. Aparte de esto, esta nueva versión incluye una gran cantidad de contenido, como por ejemplo:civilizaciones y mapas nuevos, más actualizaciones e idiomas, además de nuevas maestrías, desafíos, burlas y trucos. ¡Todo a un precio increíble que promete más historia que nunca!"
+    ],
+    [
+      "p",
+      "Dos nuevas civilizaciones y 8 mapas adicionales. Conviértete en el líder de los poderosos malienses del oeste de África, una de las naciones comerciales más ricas de la historia, y céntrate en desarrollar una economía fuerte basada en la minería y la inversión del oro."
+    ],
+    [
+      "p",
+      "Si lo prefieres, también puedes erigir uno de los imperios más duraderos de la historia con la civilización otomana, que cuenta con fuerzas militares bien entrenadas y te dará acceso a máquinas de asedio enormes, las grandes bombardas, diseñadas para acabar con cualquier oponente que se ponga en tu camino."
+    ],
+    [
+      "p",
+      "Personaliza el juego con mods (Beta). Traza tu propio destino con las poderosas herramientas de creación que se incluyen en la última edición beta del editor de mods. Diseña tus propios mapas de escaramuzas y multijugador, construye escenarios de misión únicos, crea paquetes de ajustes basados en datos y descubre nuevas formas de jugar a Age of Empires IV."
+    ],
+    [
+      "p",
+      "Revive la historia. El pasado es el prólogo de este nuevo escenario histórico lleno de posibilidades con 10 civilizaciones de todo el mundo, desde los ingleses hasta los chinos, pasando por el Sultanato de Delhi. Construye ciudades, gestiona recursos y lidera a tus tropas en batallas campales y navales, jugando en 4 campañas independientes que suman 35 misiones y que abarcan 500 años de historia desde la Edad Oscura al Renacimiento."
+    ],
+    [
+      "p",
+      "Aquí hay Age para todos. Age of Empires IV es una experiencia atractiva para los nuevos jugadores que cuenta con un sistema de tutoriales pensado para aprender lo básico de la estrategia en tiempo real y un modo historia de campaña diseñado para que no penalice demasiado a los jugadores principiantes, pero que a la vez suponga un reto para los jugadores más veteranos al incluir estrategias más elaboradas, así como mecánicas de juego y técnicas de combate innovadoras."
+    ],
+    [
+      "p",
+      "Desafía al mundo entero. Juega en línea para competir, cooperar o simplemente observar partidas con hasta 7 amigos en los modos multijugador JCJ y JCE, que incluyen temporadas de clasificación y mucho más."
+    ],
+    [
+      "p",
+      "Alcanza la gloria con figuras históricas. Vive las aventuras de Juana de Arco y acompáñala en su cruzada para derrotar a los ingleses o lidera las poderosas tropas mongolas con Gengis Kan en sus conquistas por toda Asia. Tú eliges, pero recuerda: cada decisión que tomes influirá en el devenir de la historia."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Hindi",
+      "voces": false
+    },
+    {
+      "nombre": "Malayo",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit | Windows 11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6300U or AMD Ryzen 5 2400G | CPU with AVX support required"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD 520 or AMD Radeon RX Vega 11"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit | Windows 11 64bit"
+      ],
+      [
+        "Procesador",
+        "3.6 GHz 6-core (Intel i5) or AMD Ryzen 5 1600 | CPU with AVX support required"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce 970 GPU or AMD Radeon RX 570 GPU with 4GB of VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "4 GB of video RAM and 16 GB of system RAM"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_2ae5b5a2a779c31e3acae486ec359b0d9087bc8c.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_2ae5b5a2a779c31e3acae486ec359b0d9087bc8c.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_5384805fa5d365b069f197498269fabd7143cb4c.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_5384805fa5d365b069f197498269fabd7143cb4c.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4da9632574ab355b1a581190c262d21a1d3248ba.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4da9632574ab355b1a581190c262d21a1d3248ba.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_48195285a60c6208f8bd722f74c556b9a224f4b0.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_48195285a60c6208f8bd722f74c556b9a224f4b0.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_758b154dbd4cbfc943ba34010f514348580968c7.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_758b154dbd4cbfc943ba34010f514348580968c7.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_c1284fc0ac8145df0811411adbbe9ab0ed512fef.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_c1284fc0ac8145df0811411adbbe9ab0ed512fef.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4d48fbd0aa828322c76239c03c591181c69b3049.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_4d48fbd0aa828322c76239c03c591181c69b3049.1920x1080.jpg?t=1794937680"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_71e788f069dd226f40ce6dd7cce06430abbaf918.600x338.jpg?t=1794937680",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/ss_71e788f069dd226f40ce6dd7cce06430abbaf918.1920x1080.jpg?t=1794937680"
+    }
+  ],
+  "web": "https://www.ageofempires.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 55029,
+  "youtube": [
+    {
+      "id": "rAbI0fewc7w",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "0EU0AHLkHFA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "4p9DCiI8QBY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "yAML5YJD8gQ",
+      "nombre": "Accolades Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:23:03.172Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "battlefield 2042 elite edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6e97-737c-8260-a0276f553770",
   "appid": "1517290",
@@ -29,6 +29,58 @@
       "url": "https://store.steampowered.com/app/1517290/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "534836",
+      "nombre": "Battlefield™ 2042",
+      "apps": [
+        {
+          "appid": "1517290",
+          "nombre": "Battlefield™ 2042"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 59.99,
+      "descuento": 95
+    },
+    {
+      "packageid": "865444",
+      "nombre": "Battlefield™ 2042 Elite Edition",
+      "apps": [
+        {
+          "appid": "1517290",
+          "nombre": "Battlefield™ 2042"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 89.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1517290": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2363740",
+      "nombre": "Mejora de Battlefield™ 2042 Elite Edition",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3269070",
+      "nombre": "Battlefield™ 2042 - BFC",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Battlefield™ 2042 es un shooter en primera persona que marca el regreso a la emblemática guerra total de la franquicia.",
   "generos": [
     "Acción",
@@ -37,6 +89,7 @@
   ],
   "lanzamientoTexto": "19 NOV 2021",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Battlefield™ 2042",
   "acerca": [
     [
@@ -79,59 +132,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -247,5 +314,27 @@
     }
   ],
   "web": "https://www.ea.com/games/battlefield/battlefield-2042/",
-  "consultado": "2026-11-22T22:18:09.424Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 125166,
+  "youtube": [
+    {
+      "id": "ASzOzrB-a9E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dTTGThC4aes",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "q4qWMcQfOCc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:30.032Z"
 }

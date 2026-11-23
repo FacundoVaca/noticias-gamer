@@ -1,9 +1,9 @@
 {
   "clave": "hotel renovator simulator",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019d2936-60dc-717b-be2c-ffb3a60f8878",
   "appid": "4550450",
@@ -32,6 +32,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1586612",
+      "nombre": "Hotel Renovator Simulator",
+      "apps": [
+        {
+          "appid": "4550450",
+          "nombre": "Hotel Renovator Simulator"
+        }
+      ],
+      "usd": 1.15,
+      "antes": 5.79,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "4550450": {
+      "usd": 1.15,
+      "gratis": false
+    }
+  },
   "descripcion": "In Hotel Renovator Simulator, you take on the role of a master renovator and manager. Your task is to restore an old hotel, transforming it from a pile of rubble into a five-star establishment. Progress from first room to managing a massive hotel complex with 24 unique rooms across multiple floors.",
   "generos": [
     "Casual",
@@ -86,23 +107,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -218,5 +244,11 @@
     }
   ],
   "web": "https://cgilabdesign.de",
-  "consultado": "2026-11-22T22:25:52.535Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 396106,
+  "v": 7,
+  "consultado": "2026-11-23T04:25:14.655Z"
 }

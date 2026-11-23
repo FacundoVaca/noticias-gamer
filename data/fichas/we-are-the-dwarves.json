@@ -1,9 +1,9 @@
 {
   "clave": "we are the dwarves",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f9c0-7214-b769-e92005aec8d3",
   "appid": "395570",
@@ -49,6 +49,40 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "305875",
+      "nombre": "We Are The Dwarves - Commercial License",
+      "apps": [
+        {
+          "appid": "395570",
+          "nombre": "We Are The Dwarves"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "76056",
+      "nombre": "We Are the Dwarves",
+      "apps": [
+        {
+          "appid": "395570",
+          "nombre": "We Are The Dwarves"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 11.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "395570": {
+      "usd": 2.73,
+      "gratis": false
+    }
+  },
   "descripcion": "We Are The Dwarves es una aventura táctica en tiempo real en la que tomas el control de tres enanos astronautas y los guías a través de hordas de enemigos en las profundidades de su universo.",
   "generos": [
     "Acción",
@@ -109,43 +143,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,5 +297,25 @@
     }
   ],
   "web": "https://store.steampowered.com/app/3098340/Shadow_of_the_Matrix/",
-  "consultado": "2026-11-22T22:25:22.159Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 15485,
+  "youtube": [
+    {
+      "id": "nj66fVdsU3U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SDEOnpDXiCw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "pvE5uuCPzI0",
+      "nombre": "Intro Cinematic"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:22:21.695Z"
 }

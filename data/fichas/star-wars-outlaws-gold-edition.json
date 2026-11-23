@@ -1,9 +1,9 @@
 {
   "clave": "star wars outlaws gold edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ec39b-db82-736d-a1fb-e61822a92e54",
   "appid": "2842040",
@@ -35,78 +35,129 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1014061",
+      "nombre": "Star Wars Outlaws - Standard Edition",
+      "apps": [
+        {
+          "appid": "2842040",
+          "nombre": "Star Wars Outlaws"
+        }
+      ],
+      "usd": 11.19,
+      "antes": 55.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1200863",
+      "nombre": "Star Wars Outlaws - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2842040",
+          "nombre": "Star Wars Outlaws"
+        }
+      ],
+      "usd": 14.39,
+      "antes": 71.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1155688",
+      "nombre": "Star Wars Outlaws - Gold Edition",
+      "apps": [
+        {
+          "appid": "2842040",
+          "nombre": "Star Wars Outlaws"
+        }
+      ],
+      "usd": 17.59,
+      "antes": 87.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "1155705",
+      "nombre": "Star Wars Outlaws - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "2842040",
+          "nombre": "Star Wars Outlaws"
+        }
+      ],
+      "usd": 25.99,
+      "antes": 103.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2842040": {
+      "usd": 11.19,
+      "gratis": false
+    }
+  },
   "dlcTotal": 9,
   "dlcLista": [
     {
       "appid": "3271140",
       "nombre": "Star Wars Outlaws - Season Pass",
       "gratis": false,
-      "precio": "$11.19",
-      "antes": "$31.99",
+      "usd": 11.19,
       "descuento": 65
     },
     {
       "appid": "3271160",
       "nombre": "Star Wars Outlaws - Ultimate Pack",
       "gratis": false,
-      "precio": "$15.99",
-      "antes": null,
+      "usd": 15.99,
       "descuento": 0
     },
     {
       "appid": "3271230",
       "nombre": "Star Wars Outlaws - Cartel Ronin Bundle",
       "gratis": false,
-      "precio": "$7.19",
-      "antes": null,
+      "usd": 7.19,
       "descuento": 0
     },
     {
       "appid": "3271200",
       "nombre": "Star Wars Outlaws - Hunter's Legacy Bundle",
       "gratis": false,
-      "precio": "$7.19",
-      "antes": null,
+      "usd": 7.19,
       "descuento": 0
     },
     {
       "appid": "3271180",
       "nombre": "Star Wars Outlaws - Forest Commando Pack",
       "gratis": false,
-      "precio": "$3.99",
-      "antes": null,
+      "usd": 3.99,
       "descuento": 0
     },
     {
       "appid": "3271130",
       "nombre": "Star Wars Outlaws: Wild Card DLC",
       "gratis": false,
-      "precio": "$4.79",
-      "antes": "$11.99",
+      "usd": 4.79,
       "descuento": 60
     },
     {
       "appid": "3541390",
       "nombre": "Star Wars Outlaws: A Pirate's Fortune DLC",
       "gratis": false,
-      "precio": "$4.79",
-      "antes": "$11.99",
+      "usd": 4.79,
       "descuento": 60
     },
     {
       "appid": "3702240",
       "nombre": "Star Wars Outlaws - Naboo Nobility Bundle",
       "gratis": false,
-      "precio": "$7.19",
-      "antes": null,
+      "usd": 7.19,
       "descuento": 0
     },
     {
       "appid": "3702260",
       "nombre": "Star Wars Outlaws - Desert Nomad Bundle",
       "gratis": false,
-      "precio": "$7.19",
-      "antes": null,
+      "usd": 7.19,
       "descuento": 0
     }
   ],
@@ -117,6 +168,7 @@
   ],
   "lanzamientoTexto": "21 NOV 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Star Wars Outlaws",
   "acerca": [
     [
@@ -179,51 +231,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -331,5 +395,30 @@
     }
   ],
   "web": "https://www.starwarsoutlaws.com/",
-  "consultado": "2026-11-22T22:24:58.768Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 252827,
+  "youtube": [
+    {
+      "id": "ymcpwq1ltQc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "c7K2TA0bBpY",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "tcdKEy-aJ6o",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Kwo41nUwyeo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:36.818Z"
 }

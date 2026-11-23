@@ -2,7 +2,8 @@
   "clave": "ghost of tsushima version del director",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018e147e-9b32-7025-90af-981a785efddf",
   "appid": "2215430",
@@ -53,6 +54,38 @@
       "url": "https://opencritic.com/game/11839/ghost-of-tsushima-directors-cut"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1436422",
+      "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+      "apps": [
+        {
+          "appid": "2215430",
+          "nombre": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 49.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2215430": {
+      "usd": 24.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3929730",
+      "nombre": "Ghost of Tsushima: Legends (Unlock)",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Una tormenta se avecina. Adéntrate en el DIRECTOR'S CUT completo de Ghost of Tsushima para PC; forja tu propio camino a través de esta aventura de acción en mundo abierto y descubre sus maravillas ocultas. De la mano de Sucker Punch Productions, Nixxes Software y PlayStation Studios.",
   "generos": [
     "Acción",
@@ -60,6 +93,336 @@
   ],
   "lanzamientoTexto": "16 MAY 2024",
   "metacritic": null,
-  "recomendaciones": 66384,
-  "consultado": "2026-11-22T21:46:27.092Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Ghost of Tsushima: VERSIÓN DEL DIRECTOR",
+  "acerca": [
+    [
+      "p",
+      "Por primera vez en PC, juega a través del viaje de Jin Sakai y descubre la experiencia completa de Ghost of Tsushima en este Director's Cut."
+    ],
+    [
+      "p",
+      "A finales del siglo XIII, el imperio mongol ha arrasado naciones enteras en su campaña de conquista de Oriente. La isla de Tsushima es todo lo que se interpone entre el Japón continental y una enorme flota invasora mongola liderada por el despiadado y astuto general Khotun Khan."
+    ],
+    [
+      "p",
+      "Mientras la isla arde tras la primera oleada del asedio mongol, el valiente guerrero samurái Jin Sakai se mantiene firme. Como uno de los últimos supervivientes de su clan, Jin está decidido a hacer lo que sea necesario, cueste lo que cueste, para proteger a su pueblo y recuperar su hogar. Deberá dejar a un lado las tradiciones que le han forjado como guerrero para abrirse paso por un nuevo camino, el camino del Fantasma, y librar una guerra poco convencional por la libertad de Tsushima."
+    ],
+    [
+      "li",
+      "Disfruta de Ghost of Tsushima con framerates desbloqueados y toda clase de opciones gráficas adaptadas a una amplia variedad de hardware, desde PC de gama alta hasta dispositivos de juego portátiles.*"
+    ],
+    [
+      "li",
+      "Disfruta aún más de la acción gracias a la compatibilidad con Ultrawide (21:9), Super Ultrawide (32:9) e incluso Triple Monitor 48:9.*"
+    ],
+    [
+      "li",
+      "Aumenta el rendimiento con tecnologías de escalado y generación de fotogramas como NVIDIA DLSS 3, AMD FSR 3 e Intel XeSS. También es compatible con NVIDIA Reflex y NVIDIA DLAA para mejorar la calidad de imagen.**"
+    ],
+    [
+      "li",
+      "Sincronización labial japonesa: disfruta de una experiencia más auténtica con la sincronización labial para voces en japonés, solo posible gracias a las cinemáticas renderizadas en tiempo real por tu PC."
+    ],
+    [
+      "li",
+      "Elige cómo controlar la acción: experimenta la retroalimentación háptica y los gatillos adaptativos a través de un mando DualSense™ con cable...***"
+    ],
+    [
+      "li",
+      "...o con ratón y teclado, con controles totalmente personalizables."
+    ],
+    [
+      "li",
+      "Respuesta háptica: domina tu arma gracias a la inmersiva sensación háptica del mando DualSense™.***"
+    ],
+    [
+      "li",
+      "Gatillos adaptables: mejora tu precisión con el arco gracias a la resistencia adaptable del gatillo.***"
+    ],
+    [
+      "p",
+      "* Se requiere un PC y un dispositivo de visualización compatibles."
+    ],
+    [
+      "p",
+      "** Se requiere un PC y una tarjeta gráfica compatibles."
+    ],
+    [
+      "p",
+      "*** Requiere conexión por cable para disfrutar de todas las funciones del mando."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Croata",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-7100 or AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960 or AMD Radeon RX 5500 XT"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Recommended"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8600 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 or AMD Radeon RX 5600 XT"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_51eb1a47a41271abb0aa781de576f704d95b601b.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_d60e16422fc1605181e0fedee3e2cfc1e02c750e.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_11409331d57966ef193d66ffcded569d02a4e034.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_bd593bab36968778b95ed4a1a12ec82d2350d351.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_bd593bab36968778b95ed4a1a12ec82d2350d351.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_63cc7ea967bf808c73129792d9ae8e3fdb2962bf.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_63cc7ea967bf808c73129792d9ae8e3fdb2962bf.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_b94e296457324be29466facc1fd93a91b6189a9b.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_b94e296457324be29466facc1fd93a91b6189a9b.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_21d0dcbd4c37f7d3fadfafad3c6cd729d616ec7d.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_21d0dcbd4c37f7d3fadfafad3c6cd729d616ec7d.1920x1080.jpg?t=1763409398"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_461f13ee2717ddf401e2c0c2320d8e847935e65b.600x338.jpg?t=1763409398",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/ss_461f13ee2717ddf401e2c0c2320d8e847935e65b.1920x1080.jpg?t=1763409398"
+    }
+  ],
+  "web": "https://www.playstation.com/en-us/games/ghost-of-tsushima/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Ghost of Tsushima™ es un juego de acción en mundo abierto ambientado en el Japón feudal. El protagonista es Jin Sakai, un samurái que lo arriesga todo para defender la isla de Tsushima de la invasión mongola. Los frecuentes duelos con espadas tienen lugar en combates cuerpo a cuerpo y a distancia en 3ª persona. Los ataques exitosos pueden provocar desmembramientos y decapitaciones, a menudo acompañados de grandes salpicaduras de sangre. Los jugadores también pueden usar el sigilo para acabar con sus enemigos sin ser vistos. Las cinemáticas y otras escenas muestran más ejemplos de extrema violencia y gore, entre los que se incluyen una escena en la que un civil es quemado vivo, otra en la que se muestra a una persona decapitada y la cabeza del hombre decapitado alzada frente a la cámara. Se puede ver sangre roja en el entorno, en la ropa y salpicando tras ataques exitosos.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 153700,
+  "youtube": [
+    {
+      "id": "sc4_dXjkCl8",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "NK9z3rP5Lwg",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "EzWBNwhb870",
+      "nombre": "PC Features Trailer"
+    },
+    {
+      "id": "A5gVt028Hww",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:23.452Z"
 }

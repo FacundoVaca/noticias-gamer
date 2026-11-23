@@ -1,9 +1,9 @@
 {
   "clave": "booster pack heroes",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019d96c0-f603-738f-9c75-b5c40fee8507",
   "appid": "4618570",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/4618570/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1609026",
+      "nombre": "Booster Pack Heroes",
+      "apps": [
+        {
+          "appid": "4618570",
+          "nombre": "Booster Pack Heroes"
+        }
+      ],
+      "usd": 3.98,
+      "antes": 5.69,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "4618570": {
+      "usd": 3.98,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5316330",
+      "nombre": "Booster Pack Heroes - Supporter Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Abre sobres de mejora y saca a tu próximo héroe brillante en Booster Pack Heroes, un juego incremental donde en cada sobre puede aparecer tu próximo baluarte. Defiende la torre de un interminable ataque de monstruos y ábrete paso por los reinos luchando.",
   "generos": [
     "Casual",
@@ -36,6 +68,7 @@
   ],
   "lanzamientoTexto": "10 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Booster Pack Heroes",
   "acerca": [
     [
@@ -110,47 +143,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -218,5 +262,19 @@
     }
   ],
   "web": "https://www.fundaygames.dk/bph",
-  "consultado": "2026-11-22T22:02:44.252Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 400386,
+  "youtube": [
+    {
+      "id": "TDHQBw3qwXo",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:37.921Z"
 }

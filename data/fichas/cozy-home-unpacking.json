@@ -1,8 +1,8 @@
 {
   "clave": "cozy home unpacking",
-  "v": 4,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "01a000b4-2f7c-72c0-88c8-9f2b61504ea5",
   "appid": null,
@@ -15,5 +15,40 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:25:53.119Z"
+  "igdbIntentado": true,
+  "igdb": 403736,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jtf.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jtf.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jt2.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jt2.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jtd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jtd.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jt4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jt4.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jt7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jt7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13jta.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13jta.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator",
+    "Adventure",
+    "Arcade"
+  ],
+  "resumenEn": "Make Every Room Feel Like Home.",
+  "v": 7,
+  "consultado": "2026-11-23T04:25:22.163Z"
 }

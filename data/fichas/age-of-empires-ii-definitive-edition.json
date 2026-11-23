@@ -2,7 +2,8 @@
   "clave": "age of empires ii definitive edition",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea24-70bd-91e9-b1a8c6782f58",
   "appid": "813780",
@@ -55,6 +56,167 @@
       "url": "https://opencritic.com/game/8450/age-of-empires-ii-definitive-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "248721",
+      "nombre": "Age of Empires II: Definitive Edition",
+      "apps": [
+        {
+          "appid": "813780",
+          "nombre": "Age of Empires II: Definitive Edition"
+        },
+        {
+          "appid": "1557210",
+          "nombre": "Age of Empires II: Definitive Edition - Dawn of the Dukes"
+        },
+        {
+          "appid": "1869820",
+          "nombre": "Age of Empires II: Definitive Edition - Dynasties of India"
+        },
+        {
+          "appid": "1389240",
+          "nombre": "Age of Empires II: Definitive Edition - Lords of the West"
+        }
+      ],
+      "usd": 13.39,
+      "antes": 19.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "813780": {
+      "usd": 13.39,
+      "gratis": false
+    },
+    "1389240": {
+      "usd": 13.39,
+      "gratis": false
+    },
+    "1557210": {
+      "usd": 13.39,
+      "gratis": false
+    },
+    "1869820": {
+      "usd": 13.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 16,
+  "dlcLista": [
+    {
+      "appid": "4376980",
+      "nombre": "Age of Empires II: DE - The Viking Sagas",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3219700",
+      "nombre": "Age of Empires II: DE – The Last Chieftains",
+      "gratis": false,
+      "usd": 12.79,
+      "descuento": 20
+    },
+    {
+      "appid": "3793540",
+      "nombre": "Age of Empires II: DE - Chronicles: Alexander the Great",
+      "gratis": false,
+      "usd": 5.35,
+      "descuento": 33
+    },
+    {
+      "appid": "3080080",
+      "nombre": "Age of Empires II: DE - The Three Kingdoms ",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2805520",
+      "nombre": "Age of Empires II: DE - Chronicles: Battle for Greece",
+      "gratis": false,
+      "usd": 5.01,
+      "descuento": 33
+    },
+    {
+      "appid": "2805510",
+      "nombre": "Age of Empires II: Definitive Edition - Victors and Vanquished",
+      "gratis": false,
+      "usd": 4.88,
+      "descuento": 33
+    },
+    {
+      "appid": "2555420",
+      "nombre": "Age of Empires II: Definitive Edition - The Mountain Royals",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2141580",
+      "nombre": "Age of Empires II: Definitive Edition - Return of Rome",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1869820",
+      "nombre": "Age of Empires II: Definitive Edition - Dynasties of India",
+      "gratis": false,
+      "usd": 13.39,
+      "descuento": 33
+    },
+    {
+      "appid": "1557210",
+      "nombre": "Age of Empires II: Definitive Edition - Dawn of the Dukes",
+      "gratis": false,
+      "usd": 13.39,
+      "descuento": 33
+    },
+    {
+      "appid": "1389240",
+      "nombre": "Age of Empires II: Definitive Edition - Lords of the West",
+      "gratis": false,
+      "usd": 13.39,
+      "descuento": 33
+    },
+    {
+      "appid": "2672800",
+      "nombre": "Age of Empires II: Definitive Edition – La Hire’s Dry Humor Animated Icons",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2672810",
+      "nombre": "Age of Empires II: Definitive Edition – Joan’s Marvelous Moving Masterpieces Animated Icons",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2672820",
+      "nombre": "Age of Empires II: Definitive Edition – Barbarossa’s Barrel of Pickled Goods Animated Icons",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1228810",
+      "nombre": "Age of Empires II: Definitive Edition Soundtrack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1039811",
+      "nombre": "Enhanced Graphics Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Age of Empires II: Definitive Edition incluye \"Los últimos khanes\", que incorpora 3 campañas y 4 civilizaciones nuevas. Las frecuentes actualizaciones contienen eventos, contenido adicional, nuevos modos de juego (¡como el reciente modo cooperativo!) y funciones mejoradas.",
   "generos": [
     "Estrategia"
@@ -64,6 +226,240 @@
     "puntaje": 84,
     "url": "https://www.metacritic.com/game/pc/age-of-empires-ii-definitive-edition?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 160777,
-  "consultado": "2026-11-22T21:45:39.255Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Age of Empires II: Definitive Edition",
+  "acerca": [
+    [
+      "p",
+      "Age of Empires II: Definitive Edition conmemora el 20.º aniversario de uno de los juegos de estrategia más aclamados de la historia, que ahora hace gala de impresionantes gráficos en resolución 4K Ultra HD y una banda sonora totalmente remasterizada. Además, Age of Empires II: DE incluye \"\"Los últimos khanes\"\", que incorpora 3 campañas y 4 civilizaciones nuevas. Las frecuentes actualizaciones contienen eventos, contenido adicional, nuevos modos de juego (¡como el reciente modo cooperativo!) y funciones mejoradas."
+    ],
+    [
+      "p",
+      "Disfruta como nunca de todas las campañas originales y las expansiones más vendidas. ¡Te aguarda una experiencia de juego de más de 200 horas que abarca todo un milenio de la historia humana! Juega en línea para desafiar a otros jugadores en tu empresa por dominar el mundo con 35 civilizaciones diferentes. Asimismo, ¡puedes experimentar nuevas civilizaciones y campañas con el DLC \"\"Señores de Occidente\"\"! Las actualizaciones más recientes abarcan el modo Batalla campal, soporte continuo para el Editor de escenarios, la función Partida rápida para librar partidas sociales con mayor facilidad, mejoras en la IU del juego ¡y mucho más!"
+    ],
+    [
+      "p",
+      "Traza tu camino hacia la grandeza con la llamativa y cautivadora remasterización de uno de los juegos de estrategia más queridos de todos los tiempos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Alternativas de color",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Hindi",
+      "voces": false
+    },
+    {
+      "nombre": "Malayo",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo or AMD Athlon 64x2 5600+"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 4000 or better with 2 GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "2GB of video memory + 4GB of system memory required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "2.4 Ghz i5 or greater or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GTX 650 or AMD HD 5850 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ab2692aa33171bc61378dd59efa89e2ff86e02a6.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ab2692aa33171bc61378dd59efa89e2ff86e02a6.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1033024a26f0a7ed277865201aed9bb471b54320.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_1033024a26f0a7ed277865201aed9bb471b54320.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_83253675c7af3ad5f3f2c1dc2c43c667000e0c4a.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_83253675c7af3ad5f3f2c1dc2c43c667000e0c4a.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ea0429a12f9d65f3e6b5384e0117fceef2109e45.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_ea0429a12f9d65f3e6b5384e0117fceef2109e45.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_e2fc6cfd934c8150cf751955d44deb688ab3c7d0.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_e2fc6cfd934c8150cf751955d44deb688ab3c7d0.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_77792f8c4a7b375fc7c749b6336e61d61830920b.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_77792f8c4a7b375fc7c749b6336e61d61830920b.1920x1080.jpg?t=1790623375"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_8f30a6ae45244f12ebdb48f99393aa9c93aaa398.600x338.jpg?t=1790623375",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/ss_8f30a6ae45244f12ebdb48f99393aa9c93aaa398.1920x1080.jpg?t=1790623375"
+    }
+  ],
+  "web": "https://www.ageofempires.com/games/aoeiide/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 55056,
+  "youtube": [
+    {
+      "id": "ZOgBVR21pWg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "24VGBMYV0b4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:56.821Z"
 }

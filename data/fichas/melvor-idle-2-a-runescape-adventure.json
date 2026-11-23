@@ -1,9 +1,9 @@
 {
   "clave": "melvor idle 2 a runescape adventure",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a1d1fd-a979-736e-8fcd-344142a57a03",
   "appid": "3218350",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/3218350/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1140961",
+      "nombre": "Melvor Idle 2: A RuneScape Adventure",
+      "apps": [
+        {
+          "appid": "3218350",
+          "nombre": "Melvor Idle 2: A RuneScape Adventure"
+        }
+      ],
+      "usd": 7.28,
+      "antes": 8.09,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "3218350": {
+      "usd": 7.28,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5552220",
+      "nombre": "Melvor Idle 2: A RuneScape Adventure Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
   "generos": [
     "Casual",
@@ -38,6 +70,7 @@
   ],
   "lanzamientoTexto": "17 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Melvor Idle 2: A RuneScape Adventure",
   "acerca": [
     [
@@ -169,7 +202,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -253,5 +287,13 @@
     }
   ],
   "web": "https://melvoridle2.runescape.com/",
-  "consultado": "2026-11-22T22:02:53.853Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 341622,
+  "v": 7,
+  "consultado": "2026-11-23T04:26:25.249Z"
 }

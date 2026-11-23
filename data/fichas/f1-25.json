@@ -1,9 +1,9 @@
 {
   "clave": "f1 25",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0195d32f-5bc2-711f-9134-2c11bdb9ea14",
   "appid": "3059520",
@@ -47,6 +47,53 @@
       "url": "https://opencritic.com/game/18323/f1-25"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1453566",
+      "nombre": "F1® 25 2026 Season Edition",
+      "apps": [
+        {
+          "appid": "3059520",
+          "nombre": "F1® 25"
+        },
+        {
+          "appid": "4148930",
+          "nombre": "Pack de temporada 2026 de F1® 25"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 49.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3059520": {
+      "usd": 29.99,
+      "gratis": false
+    },
+    "4148930": {
+      "usd": 18.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4148930",
+      "nombre": "Pack de temporada 2026 de F1® 25",
+      "gratis": false,
+      "usd": 18.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3335220",
+      "nombre": "F1® 25: F1® La película - Escenario por capítulos",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Reescribe la parrilla de carreras con su evolución definitiva: EA SPORTS™ F1® 25: 2026 Season Edition. Consigue F1® 25 y el pack de temporada 2026 en un solo paquete para la experiencia Formula One® más completa.",
   "generos": [
     "Carreras",
@@ -54,6 +101,7 @@
   ],
   "lanzamientoTexto": "30 MAY 2025",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "F1® 25",
   "acerca": [
     [
@@ -136,47 +184,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -308,5 +367,26 @@
     }
   ],
   "web": "https://www.ea.com/games/f1/f1-25",
-  "consultado": "2026-11-22T22:02:25.010Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 336964,
+  "youtube": [
+    {
+      "id": "u5rWBgBjDsc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "D52QfcK9qJc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "smwFJlL9wCU",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:44.687Z"
 }

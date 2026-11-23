@@ -2,7 +2,8 @@
   "clave": "crusader kings iii",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3a2c-706d-9bc5-6eb0d04e3857",
   "appid": "1158310",
@@ -50,6 +51,315 @@
       "url": "https://opencritic.com/game/9593/crusader-kings-iii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "452686",
+      "nombre": "Crusader Kings III",
+      "apps": [
+        {
+          "appid": "1158310",
+          "nombre": "Crusader Kings III"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 34.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1813281",
+      "nombre": "Crusader Kings III: New Player's Choice",
+      "apps": [
+        {
+          "appid": "1158310",
+          "nombre": "Crusader Kings III"
+        },
+        {
+          "appid": "2671040",
+          "nombre": "Crusader Kings III: Couture of the Capets"
+        },
+        {
+          "appid": "2311930",
+          "nombre": "Crusader Kings III: Elegance of the Empire"
+        },
+        {
+          "appid": "1296730",
+          "nombre": "Crusader Kings III: Garments of the Holy Roman Empire"
+        },
+        {
+          "appid": "1303183",
+          "nombre": "Crusader Kings III: Northern Lords"
+        },
+        {
+          "appid": "2671070",
+          "nombre": "Crusader Kings III: Roads to Power"
+        }
+      ],
+      "usd": 48.99,
+      "antes": 48.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1158310": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "1296730": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "1303183": {
+      "usd": 4.74,
+      "gratis": false
+    },
+    "2311930": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671040": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671070": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 33,
+  "dlcLista": [
+    {
+      "appid": "4232910",
+      "nombre": "Crusader Kings III: Silk & Silver",
+      "gratis": false,
+      "usd": 20.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4232900",
+      "nombre": "Crusader Kings III: By God Alone",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4232880",
+      "nombre": "Crusader Kings III: Chapter V",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3315590",
+      "nombre": "Crusader Kings III: Songs of the Realm",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4232890",
+      "nombre": "Crusader Kings III: Symbols of Authority",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4232870",
+      "nombre": "Crusader Kings III Creator Pack: Celestial Court Attire",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4232860",
+      "nombre": "Crusader Kings III Creator Pack: East Asian Wonders",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3315580",
+      "nombre": "Crusader Kings III Creator Pack: North Pacific Attire",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3315570",
+      "nombre": "Crusader Kings III Creator Pack: Holy Buildings",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3315560",
+      "nombre": "Crusader Kings III Creator Pack: High Medieval Warfare Attire",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3315530",
+      "nombre": "Crusader Kings III: All Under Heaven",
+      "gratis": false,
+      "usd": 15.74,
+      "descuento": 25
+    },
+    {
+      "appid": "3315520",
+      "nombre": "Crusader Kings III: Coronations",
+      "gratis": false,
+      "usd": 2.26,
+      "descuento": 35
+    },
+    {
+      "appid": "3315510",
+      "nombre": "Crusader Kings III: Khans of the Steppe",
+      "gratis": false,
+      "usd": 9.09,
+      "descuento": 35
+    },
+    {
+      "appid": "3315500",
+      "nombre": "Crusader Kings III: Crowns of the World",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3315540",
+      "nombre": "Crusader Kings III Creator Pack: Medieval Monuments",
+      "gratis": false,
+      "usd": 2.61,
+      "descuento": 25
+    },
+    {
+      "appid": "3315550",
+      "nombre": "Crusader Kings III Creator Pack: Arctic Attire",
+      "gratis": false,
+      "usd": 2.61,
+      "descuento": 25
+    },
+    {
+      "appid": "3275760",
+      "nombre": "Crusader Kings III Creator Pack: West Slavic Attire",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 20
+    },
+    {
+      "appid": "2671080",
+      "nombre": "Crusader Kings III: Wandering Nobles",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 40
+    },
+    {
+      "appid": "2671070",
+      "nombre": "Crusader Kings III: Roads to Power",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2671040",
+      "nombre": "Crusader Kings III: Couture of the Capets",
+      "gratis": false,
+      "usd": 48.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2671060",
+      "nombre": "Crusader Kings III: Legends of the Dead",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3077630",
+      "nombre": "Crusader Kings III: Many Roads to Power - Comic Book",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2671030",
+      "nombre": "Crusader Kings III Creator Pack: North African Attire",
+      "gratis": false,
+      "usd": 2.61,
+      "descuento": 25
+    },
+    {
+      "appid": "2313540",
+      "nombre": "Crusader Kings III: Legacy of Persia",
+      "gratis": false,
+      "usd": 4.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2313541",
+      "nombre": "Crusader Kings III: Wards & Wardens",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2311920",
+      "nombre": "Crusader Kings III: Tours & Tournaments",
+      "gratis": false,
+      "usd": 12.59,
+      "descuento": 40
+    },
+    {
+      "appid": "2114760",
+      "nombre": "Crusader Kings III: Friends & Foes",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2311930",
+      "nombre": "Crusader Kings III: Elegance of the Empire",
+      "gratis": false,
+      "usd": 48.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1303184",
+      "nombre": "Crusader Kings III: Fate of Iberia",
+      "gratis": false,
+      "usd": 4.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1303182",
+      "nombre": "Crusader Kings III: Royal Court",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1303183",
+      "nombre": "Crusader Kings III: Northern Lords",
+      "gratis": false,
+      "usd": 4.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1296730",
+      "nombre": "Crusader Kings III: Garments of the Holy Roman Empire",
+      "gratis": false,
+      "usd": 48.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4208220",
+      "nombre": "Crusader Kings III: Subscription",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Ama, lucha, planea y reclama la grandeza. Determina el legado de tu casa nobiliaria en la gran estrategia en expansión de Crusader Kings III. La muerte solo es el comienzo mientras lideras el linaje de tu dinastía en esta completa simulación realista de la Edad Media.",
   "generos": [
     "Rol",
@@ -61,6 +371,240 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/crusader-kings-iii?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 104484,
-  "consultado": "2026-11-22T21:46:35.871Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Crusader Kings III",
+  "acerca": [
+    [
+      "p",
+      "Tu legado aguarda. Elige una casa nobiliaria y lidera a tu dinastía a la grandeza en una epopeya de la Edad Media de varias generaciones. La guerra es una de las muchas herramientas que tienes para establecer tu reinado, ya que la estrategia real requiere diplomacia experta, conocimiento del reino y verdadera astucia ."
+    ],
+    [
+      "p",
+      "Juega como un noble, monarca, gobernador regional, caudillo o aventurero y construye un legado que se recuerde a lo largo de siglos. Toma el control de tu casa y amplía tu dinastía durante una Edad Media documentada al detalle. Empieza en 867, 1066 o 1178, y reclama territorios, títulos y vasallos para conseguir un reino digno de tu sangre real. O si no, juega como un aventurero sin tierras y álzate desde un campamento móvil a un reino propio. Tu muerte solo es un detalle, pues tu linaje continúa con nuevos herederos jugables, dispuestos o no por ti."
+    ],
+    [
+      "p",
+      "Descubre un mundo simulado en expansión lleno de campesinos, caballeros, cortesanos, espías, truhanes, bufones y romances secretos. Un reparto bien nutrido de personajes históricos que puedes enamorar, traicionar, ejecutar o influir sutilmente."
+    ],
+    [
+      "p",
+      "Explora un inmenso mapa medieval de ciudades en expansión y rutas peligrosas que se extienden desde las tierras nórdicas azotadas por la nieve hasta el Cuerno de África oriental, y desde las gélidas islas británicas en Occidente hasta los grandes imperios de China y Japón en Oriente. Reclama, conquista y gobierna a miles de países, ducados, reinos e imperios únicos."
+    ],
+    [
+      "p",
+      "Cada personaje tiene mayor profundidad de lo que imaginas , ya que sus rasgos y elecciones vitales determinarán sus acciones y conjuras. Gobierna con el miedo con tu puño de hierro o inspira a tus súbditos con tus hazañas magnánimas. La genética es innegable y tus hijos heredaran una inteligencia desbordante o una estupidez incapacitante."
+    ],
+    [
+      "p",
+      "Prepara a tu heredero con los tutores adecuados o edúcalo tú mismo. Si tienen aspiraciones, cásalos o líbrate de ellos por otros medios."
+    ],
+    [
+      "p",
+      "Elige un personaje histórico de entre uno de los marcadores de inicio o personaliza a tu personaje, ya sea noble o aventurero: desde la apariencia a los atributos, desde sus virtudes a sus vicios. Desde este punto de partida, construye un legado familiar que consolide tu lugar en la historia."
+    ],
+    [
+      "p",
+      "Gobierna un señorío que evoluciona constantemente y concede títulos a quien tú prefieras; o vence a tu señor feudal y reclama su corona. Ten cuidado con las amenazas, que pueden ser desde sirvientes descontentos hasta concubinas vengativas."
+    ],
+    [
+      "p",
+      "Las sombras se agitan con frecuencia y el peligro acecha en cada esquina oscura. Recluta a agentes y a otros personajes indeseables para debilitar, chantajear o asesinar a quienes se interponen en tu camino. O déjate inspirar por las canciones de los bardos y consigue poder e influencia mediante la seducción."
+    ],
+    [
+      "p",
+      "Correrá la sangre. Reúne a unidades de soldados y caballeros poderosos. Gestiona a tus ejércitos y tus tácticas en la batalla. Asalta y saquea territorios cercanos o contrata a mercenarios y a órdenes sagradas para las guerras importantes."
+    ],
+    [
+      "p",
+      "Encarna a un rey piadoso para atraer a los poderes religiosos o diseña tu propia religión mientras te debates entre la fama o la condenación eternas."
+    ],
+    [
+      "p",
+      "Trae innovaciones a tu cultura y construye imponentes castillos y bastiones que aumenten la riqueza, el prestigio y la seguridad de tu señorío. Crea una base económica que garantice los ingresos para nuevas aventuras. La gloria no sale barata, ya sea que construyas una nueva ciudad, un complejo de templos o puestos comerciales avanzados."
+    ],
+    [
+      "p",
+      "Puedes seguir una cantidad ilimitada de caminos: disfruta de miles de eventos dinámicos y toma decisiones fundamentales adaptadas a todas las situaciones y personajes concebibles."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-750 | AMD FX 4300"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 | AMD Radeon HD 7870 | Intel Arc A310 | Intel Iris Plus G7 | AMD Radeon Vega 11"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 bit or Windows® 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 | AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970 | AMD Radeon RX 480 | Intel Arc A580"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/5a5cc7c6cb732c954fb004bc13f5f82d99653825/ss_5a5cc7c6cb732c954fb004bc13f5f82d99653825.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/5a5cc7c6cb732c954fb004bc13f5f82d99653825/ss_5a5cc7c6cb732c954fb004bc13f5f82d99653825.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/dfd4b10facb1199ce544cfddb2f0465d588d38b6/ss_dfd4b10facb1199ce544cfddb2f0465d588d38b6.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/dfd4b10facb1199ce544cfddb2f0465d588d38b6/ss_dfd4b10facb1199ce544cfddb2f0465d588d38b6.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/2876207d25b4061a0ffd31deae7e80b6b8dc511f/ss_2876207d25b4061a0ffd31deae7e80b6b8dc511f.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/2876207d25b4061a0ffd31deae7e80b6b8dc511f/ss_2876207d25b4061a0ffd31deae7e80b6b8dc511f.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/a561e2e3d5f9a861f50fd27ada7840892a3c09a0/ss_a561e2e3d5f9a861f50fd27ada7840892a3c09a0.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/a561e2e3d5f9a861f50fd27ada7840892a3c09a0/ss_a561e2e3d5f9a861f50fd27ada7840892a3c09a0.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/48698af2050fdfd8a1fde045e55a009e72af244d/ss_48698af2050fdfd8a1fde045e55a009e72af244d.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/48698af2050fdfd8a1fde045e55a009e72af244d/ss_48698af2050fdfd8a1fde045e55a009e72af244d.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/6ebda65d44c09d5f2c5db0e0a86663fc669713e5/ss_6ebda65d44c09d5f2c5db0e0a86663fc669713e5.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/6ebda65d44c09d5f2c5db0e0a86663fc669713e5/ss_6ebda65d44c09d5f2c5db0e0a86663fc669713e5.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/ba7f77f7eb96d48f267e970583ddaa32b3b5eb98/ss_ba7f77f7eb96d48f267e970583ddaa32b3b5eb98.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/ba7f77f7eb96d48f267e970583ddaa32b3b5eb98/ss_ba7f77f7eb96d48f267e970583ddaa32b3b5eb98.1920x1080.jpg?t=1795167672"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/0ed600e9f23f5fd9eebaa4bc16e883b5fbc12d46/ss_0ed600e9f23f5fd9eebaa4bc16e883b5fbc12d46.600x338.jpg?t=1795167672",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/0ed600e9f23f5fd9eebaa4bc16e883b5fbc12d46/ss_0ed600e9f23f5fd9eebaa4bc16e883b5fbc12d46.1920x1080.jpg?t=1795167672"
+    }
+  ],
+  "web": "https://www.paradoxinteractive.com/games/crusader-kings-iii/about",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defensless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 124954,
+  "youtube": [
+    {
+      "id": "to8N_6xtr0Q",
+      "nombre": "Story Trailer"
+    },
+    {
+      "id": "YlOXhOxEum0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "F8QF263PfGI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "emobBLz5x2g",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:16:17.929Z"
 }

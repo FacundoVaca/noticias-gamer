@@ -2,7 +2,8 @@
   "clave": "star wars zero company",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01964d1d-d815-72b0-b6fc-74f5633798cd",
   "appid": "2075800",
@@ -36,7 +37,7 @@
     {
       "fuente": "Metacritic User Score",
       "puntaje": 79,
-      "cantidad": 362,
+      "cantidad": 395,
       "url": "https://metacritic.com/game/star-wars-zero-company/user-reviews/?platform=pc"
     },
     {
@@ -44,6 +45,51 @@
       "puntaje": 84,
       "cantidad": 127,
       "url": "https://opencritic.com/game/20795/star-wars-zero-company"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "741662",
+      "nombre": "STAR WARS Zero Company™",
+      "apps": [
+        {
+          "appid": "2075800",
+          "nombre": "STAR WARS Zero Company™"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 49.99,
+      "descuento": 20
+    },
+    {
+      "packageid": "1303300",
+      "nombre": "STAR WARS Zero Company™ Edición Deluxe",
+      "apps": [
+        {
+          "appid": "2075800",
+          "nombre": "STAR WARS Zero Company™"
+        }
+      ],
+      "usd": 47.99,
+      "antes": 59.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2075800": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3701350",
+      "nombre": "Mejora de STAR WARS Zero Company™ Edición Deluxe",
+      "gratis": false,
+      "usd": 10,
+      "descuento": 0
     }
   ],
   "descripcion": "Dirige un escuadrón de élite a lo largo de una auténtica y apasionante historia en STAR WARS Zero Company™, un juego táctico por turnos para un jugador ambientado en el ocaso de las Guerras Clon.",
@@ -56,6 +102,259 @@
   ],
   "lanzamientoTexto": "27 AGO 2026",
   "metacritic": null,
-  "recomendaciones": 23755,
-  "consultado": "2026-11-22T21:44:49.006Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "STAR WARS Zero Company™",
+  "acerca": [
+    [
+      "p",
+      "Dirige un escuadrón de élite a lo largo de una historia auténtica y desgarradora en STAR WARS Zero Company™, un juego táctico por turnos en solitario, ambientado en el ocaso de las Guerras Clon."
+    ],
+    [
+      "p",
+      "Ponte en la piel de Hawks, exoficial de la República que lidera la Compañía Cero, la cual ha sido reclutada para una operación contra una amenaza emergente que podría llegar a destruir toda la galaxia."
+    ],
+    [
+      "h",
+      "Lidera el mejor grupo de agentes de las Guerras Clon"
+    ],
+    [
+      "p",
+      "Dirige el mejor escuadrón de la galaxia en operaciones tácticas, investigaciones y otras emocionantes misiones a través de una historia cinematográfica original."
+    ],
+    [
+      "h",
+      "Elige tu camino hacia la victoria"
+    ],
+    [
+      "p",
+      "Crea estrategias y adáptate tanto en tu base de operaciones como en el caos del campo de batalla para que cada movimiento cuente: los resultados de tus decisiones harán diferente cada partida."
+    ],
+    [
+      "h",
+      "Lucha en combates tácticos de Star Wars"
+    ],
+    [
+      "p",
+      "Despliega a un equipo de agentes compuesto por una variedad de arquetipos, desde canallas hasta astromecánicos, e incluso una Jedi, y elige entre un arsenal de habilidades tácticas para superar y vencer al enemigo."
+    ],
+    [
+      "h",
+      "Forja lazos profundos con tu escuadrón"
+    ],
+    [
+      "p",
+      "Mejora las habilidades de tu escuadrón y despliégalo en misiones donde aprenderán a trabajar en equipo y desbloquearán sinergias que podrían inclinar la balanza a tu favor."
+    ],
+    [
+      "h",
+      "Lucha como tú quieras"
+    ],
+    [
+      "p",
+      "Personaliza el aspecto y la especialización de combate de Hawks y crea un equipo con personajes nuevos y originales de Star Wars, cambiando su aspecto, equipamiento y habilidades, para adaptarlos a tu estilo de juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Opciones de subtítulos"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10/11 (Windows 11 Recommended)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1080, Radeon RX 5600 XT, or Intel ARC B580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Resolution: 1920x1080 FPS: 30 Graphics Settings Preset: Low"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10/11 (Windows 11 Recommended)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700K or Ryzen 7 3700X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia Geforce RTX 3080 or Radeon RX 7800 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Resolution: 2560x1440 FPS: 60 Graphics Settings Preset: High"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/ca1c9bd849571f0795dbc641f0f4906c15e2aaaa/ss_ca1c9bd849571f0795dbc641f0f4906c15e2aaaa.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/ca1c9bd849571f0795dbc641f0f4906c15e2aaaa/ss_ca1c9bd849571f0795dbc641f0f4906c15e2aaaa.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/3b17d58d42d5362b826d809c8116af621bb2c307/ss_3b17d58d42d5362b826d809c8116af621bb2c307.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/3b17d58d42d5362b826d809c8116af621bb2c307/ss_3b17d58d42d5362b826d809c8116af621bb2c307.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/924f1af44bf400a0d60ca112bb1d7db69e716e36/ss_924f1af44bf400a0d60ca112bb1d7db69e716e36.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/924f1af44bf400a0d60ca112bb1d7db69e716e36/ss_924f1af44bf400a0d60ca112bb1d7db69e716e36.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/4b5486240a9caeabbc7ff95b43ea82f06db0d92d/ss_4b5486240a9caeabbc7ff95b43ea82f06db0d92d.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/4b5486240a9caeabbc7ff95b43ea82f06db0d92d/ss_4b5486240a9caeabbc7ff95b43ea82f06db0d92d.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/68d5acedd1b34badb379215eaf2bd0af3f43c3b1/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/68d5acedd1b34badb379215eaf2bd0af3f43c3b1/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/738c79334b0ff6614346206e259cab56201956e3/ss_738c79334b0ff6614346206e259cab56201956e3.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/738c79334b0ff6614346206e259cab56201956e3/ss_738c79334b0ff6614346206e259cab56201956e3.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/578be00e047581d6a6dd1dea10c7bf783d44719f/ss_578be00e047581d6a6dd1dea10c7bf783d44719f.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/578be00e047581d6a6dd1dea10c7bf783d44719f/ss_578be00e047581d6a6dd1dea10c7bf783d44719f.1920x1080.jpg?t=1790340688"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/abe4983723f3429121b405e05a387f4706f90825/ss_abe4983723f3429121b405e05a387f4706f90825.600x338.jpg?t=1790340688",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/abe4983723f3429121b405e05a387f4706f90825/ss_abe4983723f3429121b405e05a387f4706f90825.1920x1080.jpg?t=1790340688"
+    }
+  ],
+  "web": "https://www.ea.com/games/starwars/zero-company",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 340113,
+  "youtube": [
+    {
+      "id": "rcxnRaZ6slU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ARhmUsy_kuA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WxLUZ1omFA8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "AxAgeglgSeA",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:59.488Z"
 }

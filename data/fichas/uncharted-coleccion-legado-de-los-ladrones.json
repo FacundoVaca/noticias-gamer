@@ -2,7 +2,8 @@
   "clave": "uncharted coleccion legado de los ladrones",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5db0-7313-92ff-cb1b3cda02cf",
   "appid": "1659420",
@@ -50,12 +51,388 @@
       "url": "https://opencritic.com/game/12559/uncharted-legacy-of-thieves-collection"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "589801",
+      "nombre": "UNCHARTED™: Colección Legado de los Ladrones",
+      "apps": [
+        {
+          "appid": "1659420",
+          "nombre": "UNCHARTED™: Colección Legado de los Ladrones"
+        }
+      ],
+      "usd": 16.49,
+      "antes": 49.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "785700",
+      "nombre": "UNCHARTED™: Legacy of Thieves Collection - Commercial License",
+      "apps": [
+        {
+          "appid": "1659420",
+          "nombre": "UNCHARTED™: Colección Legado de los Ladrones"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1659420": {
+      "usd": 16.49,
+      "gratis": false
+    }
+  },
   "descripcion": "UNCHARTED: Colección Legado de los Ladrones ofrece la forma definitiva de disfrutar de dos de las aventuras más emocionantes del galardonado estudio Naughty Dog, remasterizadas con mejoras específicas para PC.",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "19 OCT 2022",
   "metacritic": null,
-  "recomendaciones": 30366,
-  "consultado": "2026-11-22T21:47:23.967Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "UNCHARTED™: Colección Legado de los Ladrones",
+  "acerca": [
+    [
+      "p",
+      "UNCHARTED: Colección Legado de los Ladrones incluye dos aventuras para un jugador aclamadas por la crítica. UNCHARTED™ 4: El Desenlace del Ladrón sigue a Nathan Drake y a su hermano Sam, perdido durante mucho tiempo, en su búsqueda del tesoro pirata de Henry Avery. Y UNCHARTED™: El Legado Perdido cuenta la historia de la cazatesoros Chloe Frazer y la mercenaria Nadine Ross, que se aventuran por los Ghats occidentales de la India para encontrar el colmillo dde Ganesh."
+    ],
+    [
+      "p",
+      "Con UNCHARTED: Colección Legado de los Ladrones, los jugadores descubrirán la emocionante narrativa cinematográfica y las espectaculares secuencias de acción más ambiciosas de la franquicia UNCHARTED."
+    ],
+    [
+      "p",
+      "Descubre paisajes emocionantes"
+    ],
+    [
+      "p",
+      "Desde densas selvas hasta montañas cubiertas de nieve, islas exóticas y calles empapadas por la lluvia, explora cada rincón de nuestros entornos de una belleza impresionante con un nivel de detalle espectacular."
+    ],
+    [
+      "p",
+      "Sumérgete en una experiencia narrativa cinematográfica con resolución 4K ultra nítida¹ y compatibilidad con monitores ultra panorámicos². Disfruta de una amplia gama de opciones gráficas mejoradas, como ajuste de la calidad de texturas y modelos, filtrado anisotrópico, sombras, reflejos y oclusión ambiental."
+    ],
+    [
+      "p",
+      "Siente la emoción del gameplay en tus manos"
+    ],
+    [
+      "p",
+      "Siente los efectos de la retroalimentación háptica y los gatillos adaptativos del mando DualSense® mediante conexión por cable al PC. Con reasignación completa de controles y compatibilidad con el mando® DUALSHOCK³4, mandos con XInput y una amplia gama de otros gamepads, así como teclado y ratón, podrás dejar tu huella en el mapa a tu manera."
+    ],
+    [
+      "p",
+      "Y si te gustaría llevar la experiencia visual aún más lejos, prueba la compatibilidad RGB para periféricos Razer Chroma y dispositivos compatibles con Chroma Link, así como para modelos de Logitech."
+    ],
+    [
+      "p",
+      "Optimiza la aventura"
+    ],
+    [
+      "p",
+      "Descubre una amplia variedad de modos y mejoras específicas para PC, como una interfaz de usuario optimizada para las opciones del juego, interfaces rediseñadas, opciones de detección y gestión de GPU y VRAM, y mucho más. Esta colección también incluye opciones de compatibilidad de audio, funciones de pausa automática, compatibilidad con velocidad de carga variable y muchas otras mejoras."
+    ],
+    [
+      "h",
+      "UNCHARTED 4: El Desenlace del Ladrón"
+    ],
+    [
+      "p",
+      "Ganador de más de 150 premios del Juego del año."
+    ],
+    [
+      "p",
+      "Varios años después de su última aventura, el cazafortunas retirado Nathan Drake se ve obligado a regresar al mundo de los ladrones. El destino llama a su puerta cuando Sam, su hermano al que daba por muerto, reaparece en busca de ayuda para salvar su propia vida y le ofrece una aventura a la que Drake no puede resistirse. Su mayor aventura pondrá a prueba sus límites físicos, su determinación y también qué sacrificios estará dispuesto a hacer para salvar a sus seres queridos."
+    ],
+    [
+      "p",
+      "Una aventura por todo el mundo con los entornos más grandes y detallados de la franquicia UNCHARTED."
+    ],
+    [
+      "p",
+      "Una historia más personal para Nathan Drake que eleva la intensidad de la galardonada narrativa de Naughty Dog."
+    ],
+    [
+      "p",
+      "El combate y los desplazamientos fluidos mediante el uso del gancho de agarre crean secuencias de acción aún más dinámicas y emocionantes que en anteriores entregas de UNCHARTED."
+    ],
+    [
+      "h",
+      "UNCHARTED: El Legado Perdido"
+    ],
+    [
+      "p",
+      "Para recuperar un antiguo artefacto y evitar que caiga en manos de un despiadado señor de la guerra, Chloe Frazer se ve obligada a reclutar a la famosa mercenaria Nadie Ross y aventurarse en las Ghats occidentales, en la India, para dar con el colmillo dorado de Ganesh. En el viaje más extraordinario de su vida, Chloe tendrá que hacer frente a su pasado y decidir lo que está dispuesta a sacrificar para forjar un legado propio."
+    ],
+    [
+      "p",
+      "Un escenario completamente nuevo para la aventura en la costa suroeste de la península india, con una exótica combinación de entornos urbanos, selváticos y ruinas antiguas."
+    ],
+    [
+      "p",
+      "Incluye espectaculares secuencias de acción y la cautivadora narrativa que los fans esperan de Naughty Dog y la saga UNCHARTED."
+    ],
+    [
+      "p",
+      "Amplía la aclamada jugabilidad de la franquicia UNCHARTED con sistemas actualizados y mejoras, incluidos combates cinematográficos, exploración, desplazamientos por entornos impresionantes, complejos rompecabezas y mucho más."
+    ],
+    [
+      "p",
+      "©2022 Sony Interactive Entertainment LLC. Creado y desarrollado por Naughty Dog LLC. UNCHARTED es una marca comercial registrada o una marca comercial de Sony Interactive Entertainment LLC y sus empresas relacionadas en Estados Unidos y otros países."
+    ],
+    [
+      "p",
+      "¹Se necesitan un PC y un dispositivo de pantalla 4K compatibles."
+    ],
+    [
+      "p",
+      "²Se necesitan un PC y un dispositivo de pantalla compatibles."
+    ],
+    [
+      "p",
+      "³Usa el adaptador USB inalámbrico DualSense o un cable USB-C compatible para conectarlo al PC."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Compatible con Steam Input",
+    "Sonido estéreo",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5-4430, AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 960 (4 GB), AMD R9 290X (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "126 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7-4770, AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1060 (6 GB), AMD RX 570 (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "126 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/e59420593825cddd6c5718561b1ffa44d4086f4d/ss_e59420593825cddd6c5718561b1ffa44d4086f4d.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/e59420593825cddd6c5718561b1ffa44d4086f4d/ss_e59420593825cddd6c5718561b1ffa44d4086f4d.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/1bb804eb1e1ac1b23840c977586c8f9c2c0393a8/ss_1bb804eb1e1ac1b23840c977586c8f9c2c0393a8.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/1bb804eb1e1ac1b23840c977586c8f9c2c0393a8/ss_1bb804eb1e1ac1b23840c977586c8f9c2c0393a8.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/074469c3a7070c2a821ae984705276028ebf34c2/ss_074469c3a7070c2a821ae984705276028ebf34c2.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/074469c3a7070c2a821ae984705276028ebf34c2/ss_074469c3a7070c2a821ae984705276028ebf34c2.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/f2571b7c3de0eaffdee86191b70840c958cc1354/ss_f2571b7c3de0eaffdee86191b70840c958cc1354.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/f2571b7c3de0eaffdee86191b70840c958cc1354/ss_f2571b7c3de0eaffdee86191b70840c958cc1354.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/2bf8a52b2f2e9915e5042182f7c389d2d1ceff8e/ss_2bf8a52b2f2e9915e5042182f7c389d2d1ceff8e.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/2bf8a52b2f2e9915e5042182f7c389d2d1ceff8e/ss_2bf8a52b2f2e9915e5042182f7c389d2d1ceff8e.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/1edd0d038f7fc754dcd276b7435f2c1f97b3cba0/ss_1edd0d038f7fc754dcd276b7435f2c1f97b3cba0.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/1edd0d038f7fc754dcd276b7435f2c1f97b3cba0/ss_1edd0d038f7fc754dcd276b7435f2c1f97b3cba0.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/98081b56abb5e412b1e9abe067c5de6168f96a52/ss_98081b56abb5e412b1e9abe067c5de6168f96a52.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/98081b56abb5e412b1e9abe067c5de6168f96a52/ss_98081b56abb5e412b1e9abe067c5de6168f96a52.1920x1080.jpg?t=1779309472"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/d3ca24ff88e3abf12508d495eb381e60f3eb540c/ss_d3ca24ff88e3abf12508d495eb381e60f3eb540c.600x338.jpg?t=1779309472",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/d3ca24ff88e3abf12508d495eb381e60f3eb540c/ss_d3ca24ff88e3abf12508d495eb381e60f3eb540c.1920x1080.jpg?t=1779309472"
+    }
+  ],
+  "web": "https://www.playstation.com/games/uncharted-legacy-of-thieves-collection/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 168670,
+  "youtube": [
+    {
+      "id": "IfrfJn_-24g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9u6_x6uxtfw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "F3Wl-OiZCO4",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:27.240Z"
 }

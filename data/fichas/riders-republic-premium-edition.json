@@ -1,9 +1,9 @@
 {
   "clave": "riders republic premium edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019db610-f89c-73f1-849f-020f339af48a",
   "appid": "2290180",
@@ -36,46 +36,88 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "821602",
+      "nombre": "Riders Republic",
+      "apps": [
+        {
+          "appid": "2290180",
+          "nombre": "Riders Republic"
+        }
+      ],
+      "usd": 3.19,
+      "antes": 31.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "1570808",
+      "nombre": "Edición Deluxe de Riders Republic",
+      "apps": [
+        {
+          "appid": "2290180",
+          "nombre": "Riders Republic"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 47.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "1572875",
+      "nombre": "Edición Prémium de Riders Republic",
+      "apps": [
+        {
+          "appid": "2290180",
+          "nombre": "Riders Republic"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 79.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "2290180": {
+      "usd": 3.19,
+      "gratis": false
+    }
+  },
   "dlcTotal": 5,
   "dlcLista": [
     {
       "appid": "4508920",
       "nombre": "Pack Motor de Riders Republic",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": "$15.99",
+      "usd": 7.99,
       "descuento": 50
     },
     {
       "appid": "4508910",
       "nombre": "Pack X-TREME de tablas de Riders Republic",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": "$15.99",
+      "usd": 7.99,
       "descuento": 50
     },
     {
       "appid": "4508900",
       "nombre": "Pack Frenesí de Riders Republic",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": "$15.99",
+      "usd": 7.99,
       "descuento": 50
     },
     {
       "appid": "4508890",
       "nombre": "Pack Especialidades de Riders Republic",
       "gratis": false,
-      "precio": "$15.99",
-      "antes": "$31.99",
+      "usd": 15.99,
       "descuento": 50
     },
     {
       "appid": "2550510",
       "nombre": "Blind Spot Pack Riders Republic",
       "gratis": false,
-      "precio": "$19.99",
-      "antes": null,
+      "usd": 19.99,
       "descuento": 0
     }
   ],
@@ -86,6 +128,7 @@
   ],
   "lanzamientoTexto": "8 JUN 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Riders Republic",
   "acerca": [
     [
@@ -120,43 +163,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -272,5 +325,17 @@
     }
   ],
   "web": "https://www.ubisoft.com/en-gb/game/riders-republic",
-  "consultado": "2026-11-22T22:24:52.995Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 138766,
+  "youtube": [
+    {
+      "id": "7SU_DpuGF4k",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:18:42.339Z"
 }

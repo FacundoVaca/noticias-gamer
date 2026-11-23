@@ -1,9 +1,9 @@
 {
   "clave": "battlefield 4 premium edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0e4d-72aa-89c1-056f0780ae27",
   "appid": "1238860",
@@ -36,150 +36,153 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432910",
+      "nombre": "Battlefield 4™ Premium Edition",
+      "apps": [
+        {
+          "appid": "1238860",
+          "nombre": "Battlefield 4™"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 39.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1238860": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 18,
   "dlcLista": [
     {
       "appid": "1238871",
       "nombre": "Lote definitivo de accesos directos para Battlefield 4™",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": "$39.99",
+      "usd": 9.99,
       "descuento": 75
     },
     {
       "appid": "1272657",
       "nombre": "Battlefield 4™ Legacy Operations",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "1272654",
       "nombre": "Battlefield 4™ Night Operations",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "1272650",
       "nombre": "Battlefield 4™ Community Operations",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "1315480",
       "nombre": "Battlefield 4™ Soldier Shortcut Bundle",
       "gratis": false,
-      "precio": "$24.99",
-      "antes": null,
+      "usd": 24.99,
       "descuento": 0
     },
     {
       "appid": "1315472",
       "nombre": "Battlefield 4™ Support Shortcut Kit",
       "gratis": false,
-      "precio": "$6.99",
-      "antes": null,
+      "usd": 6.99,
       "descuento": 0
     },
     {
       "appid": "1315471",
       "nombre": "Battlefield 4™ Recon Shortcut Kit",
       "gratis": false,
-      "precio": "$6.99",
-      "antes": null,
+      "usd": 6.99,
       "descuento": 0
     },
     {
       "appid": "1315470",
       "nombre": "Battlefield 4™ Assault Shortcut Kit",
       "gratis": false,
-      "precio": "$6.99",
-      "antes": null,
+      "usd": 6.99,
       "descuento": 0
     },
     {
       "appid": "1315443",
       "nombre": "Lote de atajos a vehículos para Battlefield 4™",
       "gratis": false,
-      "precio": "$17.99",
-      "antes": null,
+      "usd": 17.99,
       "descuento": 0
     },
     {
       "appid": "1315442",
       "nombre": "Battlefield 4™ Weapon Shortcut Bundle",
       "gratis": false,
-      "precio": "$14.99",
-      "antes": null,
+      "usd": 14.99,
       "descuento": 0
     },
     {
       "appid": "1315441",
       "nombre": "Battlefield 4™ Air Vehicle Shortcut Kit",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "1315440",
       "nombre": "Battlefield 4™ Ground & Sea Vehicle Shortcut Kit",
       "gratis": false,
-      "precio": "$9.99",
-      "antes": null,
+      "usd": 9.99,
       "descuento": 0
     },
     {
       "appid": "1315435",
       "nombre": "Battlefield 4™ Engineer Shortcut Kit",
       "gratis": false,
-      "precio": "$6.99",
-      "antes": null,
+      "usd": 6.99,
       "descuento": 0
     },
     {
       "appid": "1315434",
       "nombre": "Battlefield 4™ Carbine Shortcut Kit",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "1315433",
       "nombre": "Battlefield 4™ Grenade Shortcut Kit",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "1315432",
       "nombre": "Battlefield 4™ Shotgun Shortcut Kit",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "1315431",
       "nombre": "Battlefield 4™ Handgun Shortcut Kit",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     },
     {
       "appid": "1315430",
       "nombre": "Battlefield 4™ DMR Shortcut Kit",
       "gratis": false,
-      "precio": "$4.99",
-      "antes": null,
+      "usd": 4.99,
       "descuento": 0
     }
   ],
@@ -189,6 +192,7 @@
   ],
   "lanzamientoTexto": "11 JUN 2020",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Battlefield 4™",
   "acerca": [
     [
@@ -245,51 +249,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -372,5 +388,13 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238860/ss_73976cff2f01c0430e9761127fcb307b029a4b32.1920x1080.jpg?t=1777391884"
     }
   ],
-  "consultado": "2026-11-22T22:25:48.064Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 52642,
+  "v": 7,
+  "consultado": "2026-11-23T04:24:50.031Z"
 }

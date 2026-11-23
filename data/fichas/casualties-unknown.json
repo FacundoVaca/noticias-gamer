@@ -1,9 +1,9 @@
 {
   "clave": "casualties unknown",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019dab31-31a9-70f8-b9c3-2b7f1f727da9",
   "appid": "4576490",
@@ -36,6 +36,38 @@
       "url": "https://metacritic.com/game/casualties-unknown/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1595243",
+      "nombre": "Casualties: Unknown",
+      "apps": [
+        {
+          "appid": "4576490",
+          "nombre": "Casualties: Unknown"
+        }
+      ],
+      "usd": 10.61,
+      "antes": 12.49,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4576490": {
+      "usd": 10.61,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5326310",
+      "nombre": "Casualties: Unknown Soundtrack",
+      "gratis": false,
+      "usd": 4.66,
+      "descuento": 15
+    }
+  ],
   "descripcion": "Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 11 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subjects sent to die.",
   "generos": [
     "Acción",
@@ -44,6 +76,7 @@
   ],
   "lanzamientoTexto": "9 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Casualties: Unknown",
   "acerca": [
     [
@@ -126,11 +159,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -193,5 +228,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/8012369a2d2434805b1f0ccd5c71199311ef68ab/ss_8012369a2d2434805b1f0ccd5c71199311ef68ab.1920x1080.jpg?t=1794232782"
     }
   ],
-  "consultado": "2026-11-22T22:02:41.092Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Casualties: Unknown is a hardcore survival simulation game where the playable character reacts to the situations it is put in. The game touches upon subjects such as: depression, violence, dismemberment, drug use, and self harm. Player discretion is advised.",
+  "igdbIntentado": true,
+  "igdb": 360263,
+  "youtube": [
+    {
+      "id": "tUxOwccy87A",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:09.171Z"
 }

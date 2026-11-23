@@ -2,7 +2,8 @@
   "clave": "dead space",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-699e-7346-b27c-0b1b48f926c3",
   "appid": "1693980",
@@ -35,6 +36,51 @@
       "url": "https://opencritic.com/game/13897/dead-space-2023-"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "805029",
+      "nombre": "Dead Space",
+      "apps": [
+        {
+          "appid": "1693980",
+          "nombre": "Dead Space"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 59.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "805030",
+      "nombre": "Dead Space Deluxe",
+      "apps": [
+        {
+          "appid": "1693980",
+          "nombre": "Dead Space"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1693980": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2164210",
+      "nombre": "Dead Space - Mejora para Edición Digital Deluxe",
+      "gratis": false,
+      "usd": 10,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Vuelve el clásico de terror y supervivencia de ciencia ficción, recreado completamente para ofrecer una experiencia más inmersiva (incluidas mejoras visuales, sonoras y de jugabilidad) al mismo tiempo que se mantiene fiel a la emocionante visión del juego original.",
   "generos": [
     "Acción",
@@ -45,6 +91,263 @@
     "puntaje": 87,
     "url": "https://www.metacritic.com/game/pc/dead-space?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 64757,
-  "consultado": "2026-11-22T21:44:05.414Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Dead Space",
+  "acerca": [
+    [
+      "p",
+      "Vuelve Dead Space™, el clásico de terror, supervivencia y ciencia ficción, reconstruido completamente desde cero para ofrecer una experiencia más profunda e inmersiva. Este remake presenta una fidelidad visual asombrosa, un sonido ambiente lleno de suspense y mejoras en la jugabilidad, sin perder ni un ápice de la escalofriante visión del juego original."
+    ],
+    [
+      "p",
+      "Isaac Clarke es un ingeniero cualquiera con la misión de reparar la descomunal nave extractora USG Ishimura, pero descubrirá que algo ha ido terriblemente mal. La tripulación de la nave ha sido asesinada y su querida compañera Nicole está perdida en algún lugar a bordo."
+    ],
+    [
+      "p",
+      "Sin nadie que lo acompañe y armado únicamente con sus herramientas y habilidades de ingeniería, Isaac tendrá que darse prisa para encontrar a Nicole mientras va desvelando el terrorífico misterio de lo sucedido a bordo del Ishimura. Atrapado con unas criaturas hostiles, los necromorfos, Isaac se enfrenta a una batalla por la supervivencia no solo contra los horrores de la nave, sino para evitar caer en la locura."
+    ],
+    [
+      "p",
+      "SUMÉRGETE EN TERROR Y CIENCIA FICCIÓN DE NUEVA GENERACIÓN"
+    ],
+    [
+      "p",
+      "Vuelve un clásico del terror y la ciencia ficción, reconstruido desde cero con una fidelidad visual superior y sonido ambiente en 3D. Desde las detalladas estancias y lugares de trabajo de una tripulación masacrada, hasta los espeluznantes sonidos de una nave desolada, descubrirás un escenario impresionante de ciencia ficción cargado de tensión y momentos impredecibles."
+    ],
+    [
+      "p",
+      "DESENTRAÑA LOS MISTERIOS DEL USG ISHIMURA"
+    ],
+    [
+      "p",
+      "Lo que comienza como una misión rutinaria de reparación para el ingeniero Isaac Clarke y la tripulación del USG Kellion se transforma rápidamente en una lucha por la supervivencia mientras van descubriendo la verdad sobre los horrores que esconde la nave. Con una experiencia narrativa ampliada, descubre los oscuros secretos que desencadenaron los eventos del USG Ishimura con los últimos registros de la malograda tripulación y tus encuentros con los escasos supervivientes."
+    ],
+    [
+      "p",
+      "IMPROVISA PARA SOBREVIVIR"
+    ],
+    [
+      "p",
+      "Enfréntate a la pesadilla a bordo del USG Ishimura con una mecánica estratégica que define todo un género. Adapta y mejora las herramientas de ingeniería de Isaac para idear nuevas formas de derrotar a tus enemigos con precisión."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Window 10 64-bit +"
+      ],
+      [
+        "Procesador",
+        "Ryzen 5 2600x, Core i5 8600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD RX 5700, GTX 1070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "50GB SATA SSD"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Window 10 64-bit +"
+      ],
+      [
+        "Procesador",
+        "Ryzen 5 5600X,Core i5 11600K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon RX 6700 XT, Geforce RTX 2070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "50GB SSD PCIe compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_b4b02766216117747640523bb6e258d44053e355.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_b4b02766216117747640523bb6e258d44053e355.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_06f8cc8ad27e53078b09df03c5c3fb1c75459960.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_06f8cc8ad27e53078b09df03c5c3fb1c75459960.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_a7a0bceba764978d54ff0bb7ba0f0aa08487cd05.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_a7a0bceba764978d54ff0bb7ba0f0aa08487cd05.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_973768134ba80cf0d591a4f0a834b8ae10ddca93.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_973768134ba80cf0d591a4f0a834b8ae10ddca93.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_ac858a049e79f21d4578a24f345fbc3bc26b6669.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_ac858a049e79f21d4578a24f345fbc3bc26b6669.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_fb95fcf0b3f44661b938f75bc4de118e307cb7b3.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_fb95fcf0b3f44661b938f75bc4de118e307cb7b3.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_da53dddf36e4272641074f4eea62ad229c556f46.600x338.jpg?t=1777396576",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_da53dddf36e4272641074f4eea62ad229c556f46.1920x1080.jpg?t=1777396576"
+    }
+  ],
+  "web": "https://www.ea.com/games/dead-space/dead-space",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 159119,
+  "youtube": [
+    {
+      "id": "cTDJNZ9cK1w",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "96yUNw2zfW4",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "ctQl9wa3ydE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "l5WeBNfX-og",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:16.234Z"
 }

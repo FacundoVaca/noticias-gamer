@@ -1,9 +1,9 @@
 {
   "clave": "immortals of aveum deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6cc3-7049-99ec-ec3cd680b3a2",
   "appid": "2009100",
@@ -30,14 +30,47 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "725338",
+      "nombre": "Immortals of Aveum™",
+      "apps": [
+        {
+          "appid": "2009100",
+          "nombre": "Immortals of Aveum™"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 59.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "774684",
+      "nombre": "Immortals of Aveum™ Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2009100",
+          "nombre": "Immortals of Aveum™"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "2009100": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "2165170",
       "nombre": "Mejora Deluxe de Immortals of Aveum™",
       "gratis": false,
-      "precio": "$10.00",
-      "antes": null,
+      "usd": 10,
       "descuento": 0
     }
   ],
@@ -48,6 +81,7 @@
   ],
   "lanzamientoTexto": "21 AGO 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Immortals of Aveum™",
   "caracteristicas": [
     "Un jugador",
@@ -61,51 +95,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -220,5 +266,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009100/ss_f81000ac3e7cba575ef7d20fb17d98c9dd3e0790.1920x1080.jpg?t=1777395412"
     }
   ],
-  "consultado": "2026-11-22T22:24:36.720Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 228531,
+  "youtube": [
+    {
+      "id": "mNP3ztvNBFI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ukw-qxRrYRo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "qsHzacjEhLw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "x1R8GXQK5gQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:16:34.712Z"
 }

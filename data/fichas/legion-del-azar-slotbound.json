@@ -1,9 +1,9 @@
 {
   "clave": "legion del azar slotbound",
-  "v": 2,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019cb1f6-0cf4-72b4-88dd-3a8a8704480e",
   "appid": "4459590",
@@ -29,6 +29,38 @@
       "url": "https://store.steampowered.com/app/4459590/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1556720",
+      "nombre": "Slotbound",
+      "apps": [
+        {
+          "appid": "4459590",
+          "nombre": "Legión del azar - Slotbound"
+        }
+      ],
+      "usd": 5.12,
+      "antes": 5.69,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4459590": {
+      "usd": 5.12,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4906570",
+      "nombre": "Slotbound Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Un roguelike de defensa autobattler donde la suerte se une a la estrategia. Gira una tragaperras 3×3 para invocar unidades y fortalece tu ejército absorbiendo otras. Usa Objetos y Núcleos para manipular las probabilidades y supera oleadas de juicio y jefes. Cada giro y decisión cuentan.",
   "generos": [
     "Indie",
@@ -36,6 +68,7 @@
   ],
   "lanzamientoTexto": "12 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Legión del azar - Slotbound",
   "acerca": [
     [
@@ -96,55 +129,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -268,5 +314,13 @@
     }
   ],
   "web": "https://drive.google.com/drive/folders/1uGAy0KIUrUB0ndOyXkL0y-CEogN-F49I?usp=sharing",
-  "consultado": "2026-11-22T22:02:28.209Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 411536,
+  "v": 7,
+  "consultado": "2026-11-23T04:23:23.524Z"
 }

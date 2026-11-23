@@ -1,9 +1,9 @@
 {
   "clave": "far cry 6 gold edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4413-7339-b6ed-ffbc2a4399bf",
   "appid": "2369390",
@@ -34,70 +34,122 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "851748",
+      "nombre": "Far Cry 6 Standard Edition",
+      "apps": [
+        {
+          "appid": "2369390",
+          "nombre": "Far Cry® 6"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 47.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "851849",
+      "nombre": "Far Cry 6 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2369390",
+          "nombre": "Far Cry® 6"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 63.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "851852",
+      "nombre": "Far Cry 6 Gold Edition",
+      "apps": [
+        {
+          "appid": "2369390",
+          "nombre": "Far Cry® 6"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 79.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "851855",
+      "nombre": "Far Cry 6 Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "2369390",
+          "nombre": "Far Cry® 6"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 95.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2369390": {
+      "usd": 11.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 8,
   "dlcLista": [
     {
       "appid": "2369470",
       "nombre": "Far Cry® 6 Season Pass",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": "$31.99",
+      "usd": 7.99,
       "descuento": 75
     },
     {
       "appid": "2432590",
       "nombre": "Far Cry 6 - HD Textures",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "2369452",
       "nombre": "Far Cry® 6 Game of the Year Upgrade Pass",
       "gratis": false,
-      "precio": "$11.99",
-      "antes": "$47.99",
+      "usd": 11.99,
       "descuento": 75
     },
     {
       "appid": "2369450",
       "nombre": "Far Cry® 6: Lost Between Worlds",
       "gratis": false,
-      "precio": "$3.99",
-      "antes": "$15.99",
+      "usd": 3.99,
       "descuento": 75
     },
     {
       "appid": "2369454",
       "nombre": "Far Cry® 6 DLC 3 Joseph: Collapse",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": "$11.99",
+      "usd": 2.99,
       "descuento": 75
     },
     {
       "appid": "2369456",
       "nombre": "Far Cry® 6 DLC 2 Pagan: Control",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": "$11.99",
+      "usd": 2.99,
       "descuento": 75
     },
     {
       "appid": "2369458",
       "nombre": "Far Cry® 6 DLC 1 Vaas: Insanity",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": "$11.99",
+      "usd": 2.99,
       "descuento": 75
     },
     {
       "appid": "2369472",
       "nombre": "Far Cry 6 - Starter Pack",
       "gratis": false,
-      "precio": "$19.99",
-      "antes": null,
+      "usd": 19.99,
       "descuento": 0
     }
   ],
@@ -108,6 +160,7 @@
   ],
   "lanzamientoTexto": "11 MAY 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Far Cry® 6",
   "acerca": [
     [
@@ -165,59 +218,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -313,5 +380,31 @@
     }
   ],
   "web": "https://www.ubisoft.com/en-en/game/far-cry/far-cry-6",
-  "consultado": "2026-11-22T22:25:03.306Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a first-person shooter in which players assume the role of a resistance fighter (Dani Rojas) battling a tyrannical regime on the fictional island of Yara.",
+  "igdbIntentado": true,
+  "igdb": 126290,
+  "youtube": [
+    {
+      "id": "CiqtlBKTLDw",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "Gv1jHiaHafY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "cR8kEzG1T64",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BtUq-XSv3w0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:20:04.503Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "wild hearts karakuri edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-679a-709c-9060-7d695953f000",
   "appid": "1938010",
@@ -30,14 +30,47 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "698184",
+      "nombre": "WILD HEARTS™",
+      "apps": [
+        {
+          "appid": "1938010",
+          "nombre": "WILD HEARTS™"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "748208",
+      "nombre": "Edición Karakuri de WILD HEARTS™",
+      "apps": [
+        {
+          "appid": "1938010",
+          "nombre": "WILD HEARTS™"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 89.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1938010": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "2092830",
       "nombre": "Mejora Karakuri de WILD HEARTS™",
       "gratis": false,
-      "precio": "$19.99",
-      "antes": null,
+      "usd": 19.99,
       "descuento": 0
     }
   ],
@@ -48,6 +81,7 @@
   ],
   "lanzamientoTexto": "16 FEB 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "WILD HEARTS™",
   "acerca": [
     [
@@ -86,51 +120,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -254,5 +300,23 @@
     }
   ],
   "web": "https://www.ea.com/games/wild-hearts/wild-hearts",
-  "consultado": "2026-11-22T22:24:41.826Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 218793,
+  "youtube": [
+    {
+      "id": "hxcnwH8TPEg",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "3Unvi9AYupc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:18.088Z"
 }

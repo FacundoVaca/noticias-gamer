@@ -2,7 +2,8 @@
   "clave": "call of duty black ops ii",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d9571-ca0b-7131-bb1e-05633a089597",
   "appid": "202970",
@@ -41,6 +42,149 @@
       "url": "https://metacritic.com/game/call-of-duty-black-ops-ii/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "18052",
+      "nombre": "Call of Duty® - Black Ops II",
+      "apps": [
+        {
+          "appid": "202970",
+          "nombre": "Call of Duty®: Black Ops II"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "16361",
+      "nombre": "Call of Duty®: Black Ops II Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "202970",
+          "nombre": "Call of Duty®: Black Ops II"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 59.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "49986",
+      "nombre": "Call of Duty - Black Ops II Bundle",
+      "apps": [
+        {
+          "appid": "219097",
+          "nombre": "Call of Duty®: Black Ops II - Revolution"
+        },
+        {
+          "appid": "202970",
+          "nombre": "Call of Duty®: Black Ops II"
+        },
+        {
+          "appid": "219103",
+          "nombre": "Call of Duty®: Black Ops II - Apocalypse"
+        },
+        {
+          "appid": "219092",
+          "nombre": "Call of Duty®: Black Ops II - Nuketown Zombies Map"
+        },
+        {
+          "appid": "219098",
+          "nombre": "Call of Duty®: Black Ops II - Uprising"
+        },
+        {
+          "appid": "219101",
+          "nombre": "Call of Duty®: Black Ops II - Vengeance"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 69.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "17569",
+      "nombre": "Call of Duty: Black Ops II - Season Pass",
+      "apps": [
+        {
+          "appid": "2028062",
+          "nombre": "Call of Duty®: Black Ops II Season Pass"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "202970": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "219092": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "219097": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "219098": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "219101": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "219103": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "2028062": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "219103",
+      "nombre": "Call of Duty®: Black Ops II - Apocalypse",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "219101",
+      "nombre": "Call of Duty®: Black Ops II - Vengeance",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "219098",
+      "nombre": "Call of Duty®: Black Ops II - Uprising",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "219097",
+      "nombre": "Call of Duty®: Black Ops II - Revolution",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "219092",
+      "nombre": "Call of Duty®: Black Ops II - Nuketown Zombies Map",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Superando las expectativas de los fans con respecto a esta franquicia que ha batido todos los récords, Call of Duty®: Black Ops 2 lleva a los jugadores a una futura Guerra Fría",
   "generos": [
     "Acción"
@@ -50,6 +194,151 @@
     "puntaje": 74,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops-ii?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 23427,
-  "consultado": "2026-11-22T21:43:56.845Z"
+  "steamDeck": "No compatible",
+  "nombreSteam": "Call of Duty®: Black Ops II",
+  "acerca": [
+    [
+      "p",
+      "Superando las expectativas de los fans con respecto a esta franquicia que ha batido todos los récords, Call of Duty®: Black Ops 2 lleva a los jugadores a un futuro cercano, la Guerra Fría del siglo XXI, donde la tecnología y las armas han dado pie a una nueva generación bélica."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Con sist. antitrampas de Valve",
+    "Tablas de clasificación de Steam",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS *",
+        "Windows Vista SP2 or Windows 7. Windows XP is not supported"
+      ],
+      [
+        "Processor",
+        "Intel Core2 Duo E8200 2.66 GHz or AMD Phenom X3 8750 2.4 GHz"
+      ],
+      [
+        "Memory",
+        "2 GB for 32-bit OS or 4 GB for 64-bit OS"
+      ],
+      [
+        "Graphics",
+        "Nvidia GeForce 8800GT 512 MB or ATI Radeon HD 3870 512 MB"
+      ],
+      [
+        "DirectX",
+        "Version 9.0c"
+      ],
+      [
+        "Hard Drive",
+        "16 GB"
+      ],
+      [
+        "Sound",
+        "DirectX 11.0c compatible"
+      ],
+      [
+        "Additional",
+        "Broadband connection required for activation and multiplayer gameplay"
+      ],
+      [
+        "Note",
+        "Windows XP Operating System is not supported"
+      ],
+      [
+        "Further information",
+        "Available here"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_ac2194dfb623d65003f54450fb1824e5f181b27e.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_ac2194dfb623d65003f54450fb1824e5f181b27e.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_aa5f28d5d5fb0956c5de65b0a3e2a115b8283321.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_aa5f28d5d5fb0956c5de65b0a3e2a115b8283321.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_0cd41677a068a20478f96200d9775dedcba88d38.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_0cd41677a068a20478f96200d9775dedcba88d38.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_222702efa413c2d5c3068526910ea7d851e8aea1.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_222702efa413c2d5c3068526910ea7d851e8aea1.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_0f03487cfbad1a33d5a5a1717da70d9c5c6c516f.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_0f03487cfbad1a33d5a5a1717da70d9c5c6c516f.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_c8dbd43d5eaaf11241d6a8afcec24bc51608b615.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_c8dbd43d5eaaf11241d6a8afcec24bc51608b615.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_1f0118d4d0260709122df43095edf08ff26ae028.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_1f0118d4d0260709122df43095edf08ff26ae028.1920x1080.jpg?t=1780962925"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_299da22559d2345e0643ab61378a373544133f00.600x338.jpg?t=1780962925",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/ss_299da22559d2345e0643ab61378a373544133f00.1920x1080.jpg?t=1780962925"
+    }
+  ],
+  "web": "http://www.callofduty.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 1122,
+  "youtube": [
+    {
+      "id": "x3tedlWs1XY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "F6vOWbJ46XU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:51.286Z"
 }

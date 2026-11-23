@@ -1,9 +1,9 @@
 {
   "clave": "silent hill f",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01959185-ba9e-738b-86c4-2104497fb9f8",
   "appid": "2947440",
@@ -53,14 +53,85 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1049570",
+      "nombre": "SILENT HILL f",
+      "apps": [
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 32.99,
+      "antes": 32.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1210492",
+      "nombre": "SILENT HILL f - Digital Deluxe",
+      "apps": [
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1412913",
+      "nombre": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        },
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 46.85,
+      "antes": 46.85,
+      "descuento": 0
+    },
+    {
+      "packageid": "1412918",
+      "nombre": "SILENT HILL 2 & SILENT HILL f Deluxe Dual Pack",
+      "apps": [
+        {
+          "appid": "2124490",
+          "nombre": "SILENT HILL 2"
+        },
+        {
+          "appid": "2947440",
+          "nombre": "SILENT HILL f"
+        }
+      ],
+      "usd": 52.53,
+      "antes": 52.53,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2124490": {
+      "usd": 32.99,
+      "gratis": false
+    },
+    "2947440": {
+      "usd": 32.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "3516200",
       "nombre": "SILENT HILL f - Digital Deluxe Upgrade",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     }
   ],
@@ -71,6 +142,7 @@
   ],
   "lanzamientoTexto": "24 SEP 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "SILENT HILL f",
   "acerca": [
     [
@@ -161,55 +233,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -325,5 +410,32 @@
     }
   ],
   "web": "https://www.konami.com/games/silenthill/f/",
-  "consultado": "2026-11-22T22:25:29.726Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Este juego contiene representaciones de discriminación por género, abuso infantil, acoso escolar, alucinaciones por drogas, tortura y violencia gráfica. Este juego está ambientado en Japón en los años 60 y contiene representaciones basadas en las costumbres y la cultura de la época. Estas representaciones no reflejan las opiniones ni los valores de los desarrolladores ni de ninguna persona implicada. Si en algún momento te sientes incómodo durante el juego, haz una pausa o habla con alguien de confianza.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 222343,
+  "youtube": [
+    {
+      "id": "_qFEyq8quhA",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "CAjCy94hUFI",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "kJ_FQSaptiU",
+      "nombre": "Story Trailer"
+    },
+    {
+      "id": "-GoB22L4q0g",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:23:12.113Z"
 }

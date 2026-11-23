@@ -1,9 +1,9 @@
 {
   "clave": "need for speed heat deluxe edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1aaa-739f-9f5c-ee24e4446d90",
   "appid": "1222680",
@@ -29,6 +29,45 @@
       "url": "https://store.steampowered.com/app/1222680/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432906",
+      "nombre": "Need for Speed™ Heat Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1222680",
+          "nombre": "Need for Speed™ Heat"
+        }
+      ],
+      "usd": 3.49,
+      "antes": 69.99,
+      "descuento": 95
+    }
+  ],
+  "sueltos": {
+    "1222680": {
+      "usd": 3.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1281880",
+      "nombre": "Entrega del Mercado Negro: McLaren F1 - Need for Speed™ Heat",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1281881",
+      "nombre": "Need for Speed™ Heat - Claves del mapa",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "No pares por el día y arriésgalo todo por la noche en Need for Speed™ Heat Deluxe Edition, un juego de carreras callejeras dinámico donde los límites de la ley se desvanecen cuando empieza a anochecer.",
   "generos": [
     "Acción",
@@ -41,6 +80,7 @@
     "puntaje": 72,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-heat?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Need for Speed™ Heat",
   "acerca": [
     [
@@ -93,55 +133,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -233,5 +286,25 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed",
-  "consultado": "2026-11-22T22:18:07.263Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 119161,
+  "youtube": [
+    {
+      "id": "9ewiJJe_nYI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "04KPiGmC7Lc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "p4Q3uh2RaZo",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:15:17.928Z"
 }

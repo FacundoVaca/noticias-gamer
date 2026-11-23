@@ -1,9 +1,9 @@
 {
   "clave": "star wars jedi survivor deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-679d-712f-8751-a010d45dcc4b",
   "appid": "1774580",
@@ -34,14 +34,47 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "636942",
+      "nombre": "STAR WARS Jedi: Survivor™",
+      "apps": [
+        {
+          "appid": "1774580",
+          "nombre": "STAR WARS Jedi: Survivor™"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 69.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "773177",
+      "nombre": "STAR WARS Jedi: Survivor™ Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1774580",
+          "nombre": "STAR WARS Jedi: Survivor™"
+        }
+      ],
+      "usd": 22.49,
+      "antes": 89.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1774580": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "2161370",
       "nombre": "STAR WARS Jedi: Survivor™ Mejora Deluxe",
       "gratis": false,
-      "precio": "$20.00",
-      "antes": null,
+      "usd": 20,
       "descuento": 0
     }
   ],
@@ -52,6 +85,7 @@
   ],
   "lanzamientoTexto": "27 ABR 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "STAR WARS Jedi: Survivor™",
   "acerca": [
     [
@@ -76,51 +110,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -236,5 +282,31 @@
     }
   ],
   "web": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
-  "consultado": "2026-11-22T22:25:01.005Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 201156,
+  "youtube": [
+    {
+      "id": "4HLDaBGdnLc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "VRaobDJjiec",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "i05L-FaDhko",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "_F6YBwIPzmk",
+      "nombre": "Story Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:50.947Z"
 }

@@ -2,7 +2,8 @@
   "clave": "the escapists 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1c89-7159-8d87-bfd52f64a0e4",
   "appid": "641990",
@@ -55,6 +56,111 @@
       "url": "https://opencritic.com/game/4619/the-escapists-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "178436",
+      "nombre": "The Escapists 2",
+      "apps": [
+        {
+          "appid": "641990",
+          "nombre": "The Escapists 2"
+        }
+      ],
+      "usd": 1.04,
+      "antes": 10.49,
+      "descuento": 90
+    },
+    {
+      "packageid": "1066581",
+      "nombre": "The Escapists 2 - Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "666350",
+          "nombre": "Escapists 2 - Glorious Regime Prison"
+        },
+        {
+          "appid": "641990",
+          "nombre": "The Escapists 2"
+        },
+        {
+          "appid": "784930",
+          "nombre": "The Escapists 2 - Big Top Breakout"
+        },
+        {
+          "appid": "821170",
+          "nombre": "The Escapists 2 - Dungeons and Duct Tape"
+        },
+        {
+          "appid": "716580",
+          "nombre": "The Escapists 2 - Wicked Ward"
+        }
+      ],
+      "usd": 1.49,
+      "antes": 14.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "641990": {
+      "usd": 1.04,
+      "gratis": false
+    },
+    "666350": {
+      "usd": 0.62,
+      "gratis": false
+    },
+    "716580": {
+      "usd": 0.62,
+      "gratis": false
+    },
+    "784930": {
+      "usd": 0.62,
+      "gratis": false
+    },
+    "821170": {
+      "usd": 0.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "666350",
+      "nombre": "Escapists 2 - Glorious Regime Prison",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    },
+    {
+      "appid": "701180",
+      "nombre": "The Escapists 2 - Season Pass",
+      "gratis": false,
+      "usd": 1.44,
+      "descuento": 75
+    },
+    {
+      "appid": "716580",
+      "nombre": "The Escapists 2 - Wicked Ward",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    },
+    {
+      "appid": "784930",
+      "nombre": "The Escapists 2 - Big Top Breakout",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    },
+    {
+      "appid": "821170",
+      "nombre": "The Escapists 2 - Dungeons and Duct Tape",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    }
+  ],
   "descripcion": "¡Fabrica, roba, pelea y escapa! Es hora de fugarse de las prisiones más peligrosas del mundo, ya que volverás a ponerte en la piel de un preso en The Escapists 2, ¡con multijugador! ¿Tienes lo que hace falta para escapar?",
   "generos": [
     "Indie",
@@ -66,6 +172,282 @@
     "puntaje": 75,
     "url": "https://www.metacritic.com/game/pc/the-escapists-2?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 26592,
-  "consultado": "2026-11-22T21:47:17.531Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "The Escapists 2",
+  "acerca": [
+    [
+      "p",
+      "¡El juego de prisiones de mundo abierto definitivo!"
+    ],
+    [
+      "p",
+      "Arriésgalo todo para escapar de las prisiones más peligrosas del mundo. Explora las prisiones más grandes, donde encontrarás una gran diversidad de plantas, tejados, conductos de ventilación y túneles subterráneos."
+    ],
+    [
+      "p",
+      "Cumple las normas de la prisión: acudir al pase de lista, trabajar y seguir estrictas rutinas; ¡todo ello mientras ingenias un plan secreto para conseguir la libertad!"
+    ],
+    [
+      "p",
+      "¡Tus travesuras por intentar escapar te llevarán desde la gélida Fort Tundra hasta la frontera final pasando por un tren que recorre el desierto a toda velocidad!"
+    ],
+    [
+      "p",
+      "¡Crea a tu propio preso!"
+    ],
+    [
+      "p",
+      "Es hora de que a tu prisionero lo hagas tuyo de verdad. Elige entre una gran variedad de objetos de personalización para crear a un personaje exclusivo para ti. Tener una imagen elegante mientras diriges tu plan de fuga es importante."
+    ],
+    [
+      "p",
+      "¡Reúne a tu equipo!"
+    ],
+    [
+      "p",
+      "¡Reúne a hasta 3 amigos para formar el equipo de fuga definitivo e idea los mejores planes! Ya sea en línea o en casa, preparaos para vuestras sigilosas aventuras. Si trabajáis juntos, seréis capaces de idear planes aun más elaborados y atrevidos."
+    ],
+    [
+      "p",
+      "¿Te gusta competir? Sumérgete en el modo contra y demuestra que tienes las habilidades necesarias para fugarte de cualquier prisión antes que tus amigos. Si todo falla, ¡siempre podréis resolver vuestras diferencias en el patio de la prisión con una buena pelea!"
+    ],
+    [
+      "p",
+      "¡Configura tu fuga!"
+    ],
+    [
+      "p",
+      "Estar en prisión te obliga a ser creativo y a trabajar con las limitadas herramientas a tu disposición. Tendrás que combinar objetos del día a día como el jabón y los calcetines para crear nuevas armas y herramientas que te ayuden a conseguir tu objetivo. Roba tenedores de la cafetería para picar un túnel en tu habitación y crea un póster con revistas y cinta aislante para ocultar las pruebas. ¡Pronto aprenderás que la cinta aislante lo resuelve (casi) todo!"
+    ],
+    [
+      "p",
+      "¡Prepárate para pelear!"
+    ],
+    [
+      "p",
+      "The Escapists 2 incluye un nuevo sistema de combate que hace que las peleas de prisión sean más interesantes e interactivas. Tendrás que bloquear y unir ataques encadenados mientras repartes golpes a tus objetivos fijos para conseguir ventaja en la pelea. ¡Asegúrate de pasarte antes por el gimnasio para fortalecer esos músculos!"
+    ],
+    [
+      "p",
+      "¡Nuevas formas de escapar!"
+    ],
+    [
+      "p",
+      "Cuanto más peligrosas sean las prisiones, más creativo deberás ser en tus planes de fuga. Hay toneladas de opciones para llevar a cabo casi cualquier tipo de fuga. Prueba a mezclar medicinas para hacer un brebaje y fingir tu propia muerte, ¡y que la morgue haga el resto del trabajo!"
+    ],
+    [
+      "p",
+      "¡Construye tu propio talego!"
+    ],
+    [
+      "p",
+      "¡Con la actualización Editor de Mapas Carcelarios puedes construir una prisión digna de encerrar a los presos más duros! Incluye todas las salas, vallas y perros guardianes que necesitas para construir una prisión en la que el único límite es tu imaginación, ¡y no necesitarás cinta aislante!"
+    ],
+    [
+      "p",
+      "Elige el plano de la prisión y empieza a construir en Prisión Personalizada, en el menú principal. Una vez terminada, muéstrasela al mundo en el Steam Workshop, donde puedes suscribirte y descargar las trenas de otros arquitectos. ¡Todos los mapas personalizados se pueden jugar tanto en individual como en multijugador, en línea o en local!"
+    ],
+    [
+      "p",
+      "Características"
+    ],
+    [
+      "p",
+      "· 11 prisiones"
+    ],
+    [
+      "p",
+      "· Hasta 4 jugadores en modo multijugador cooperativo y contra"
+    ],
+    [
+      "p",
+      "· Multijugador en cualquier momento, en línea o de pantalla dividida"
+    ],
+    [
+      "p",
+      "· Más de 300 personalizaciones"
+    ],
+    [
+      "p",
+      "· Prisiones de varias plantas"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (32-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core Duo E6600 @ 2.4GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel 4400, GeForce GT 8800, AMD Radeon HD 4650"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Sound card"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "i5-2500k@3.3GHz, AMD FX 6300 3.5GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 750, AMD R7 370"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Sound card"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_4c06641e551c04e72abb54d3c190233ff02c05ca.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_4c06641e551c04e72abb54d3c190233ff02c05ca.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_75c9e0c479c4fb6cc2a40686685ed26d0488f332.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_75c9e0c479c4fb6cc2a40686685ed26d0488f332.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_2bb6149a553bbc28c85a624f7628f18fb1573860.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_2bb6149a553bbc28c85a624f7628f18fb1573860.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_797e85fff36b0c2f5da3caa5028132ab52f3c97c.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_797e85fff36b0c2f5da3caa5028132ab52f3c97c.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_84fff3cb6e8306970c8b2fbe7210552646b6f2b2.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_84fff3cb6e8306970c8b2fbe7210552646b6f2b2.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_d74be4a2cc7e25873607d8292775002468f09bc5.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_d74be4a2cc7e25873607d8292775002468f09bc5.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_5834c153aeeea9c574af95a0d60de9ea148063a9.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_5834c153aeeea9c574af95a0d60de9ea148063a9.1920x1080.jpg?t=1791478007"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_fbe51beaf5081f76a1319c99f79793ee6beff01a.600x338.jpg?t=1791478007",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641990/ss_fbe51beaf5081f76a1319c99f79793ee6beff01a.1920x1080.jpg?t=1791478007"
+    }
+  ],
+  "web": "https://www.team17.com/games/the-escapists-2/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 25653,
+  "youtube": [
+    {
+      "id": "NMTwhVPqr2k",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RlaAvzEryC8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "s4LSt5J1J-g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3RwjGbYvirg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:29.693Z"
 }

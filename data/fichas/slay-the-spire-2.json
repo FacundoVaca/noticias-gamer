@@ -2,7 +2,8 @@
   "clave": "slay the spire 2",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ec8ff-e01c-70b6-bf65-5b184f82f859",
   "appid": "2868840",
@@ -28,6 +29,28 @@
       "url": "https://store.steampowered.com/app/2868840/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1023134",
+      "nombre": "Slay the Spire 2",
+      "apps": [
+        {
+          "appid": "2868840",
+          "nombre": "Slay the Spire 2"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 11.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2868840": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
   "descripcion": "El emblemático roguelike de creación de mazos está de vuelta. ¡Construye un mazo único, enfréntate a extrañas criaturas y descubre poderosas reliquias en Slay the Spire 2!",
   "generos": [
     "Indie",
@@ -36,6 +59,277 @@
   ],
   "lanzamientoTexto": "5 MAR 2026",
   "metacritic": null,
-  "recomendaciones": 218962,
-  "consultado": "2026-11-22T21:46:42.561Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Slay the Spire 2",
+  "acerca": [
+    [
+      "h",
+      "LA TORRE HA DESPERTADO"
+    ],
+    [
+      "p",
+      "¡Vuelve el roguelike de creación de mazos definitivo!"
+    ],
+    [
+      "p",
+      "Durante 1000 años la Torre ha permanecido inactiva, con sus secretos enterrados y sus horrores olvidados. Pero ahora que sus puertas vuelven a estar abiertas, es más peligrosa que nunca y devorará sin miramientos a aquellos que osen merodear por sus pasillos."
+    ],
+    [
+      "p",
+      "Los nuevos peligros exigen estrategias más afinadas, una astucia incansable y una determinación inquebrantable. Usa esa cabecita para superar las brutales pruebas de la Torre y descubre la verdad oculta en su cima."
+    ],
+    [
+      "p",
+      "¿Te atreverás a entrar a la Torre en solitario, o pedirás ayuda a tus compañeros de aventuras?"
+    ],
+    [
+      "h",
+      "UNA TORRE EN CAMBIO CONSTANTE"
+    ],
+    [
+      "p",
+      "Adéntrate en la nueva versión de la Torre, un laberinto retorcido y repleto de enemigos tan extraños como peligrosos. Adáptate a un arsenal de cartas, reliquias y pociones totalmente nuevas capaces de darle la vuelta a una partida... o de acarrear consecuencias nefastas."
+    ],
+    [
+      "p",
+      "Asciende por la Torre con un elenco que cuenta tanto con viejos conocidos como con personajes nuevos, cada uno con sus propias cartas, objetivos y secretos."
+    ],
+    [
+      "p",
+      "No habrá dos ascensiones iguales. A aquellos lo suficientemente valientes (o insensatos) como para adentrarse en la Torre les esperan desafíos impredecibles a los que tendrán que hacer frente adaptando sus estrategias."
+    ],
+    [
+      "h",
+      "ASCIENDE EN SOLITARIO O CON ALIADOS"
+    ],
+    [
+      "p",
+      "Asciende en solitario o enfréntate a la Torre con un grupo de hasta 4 jugadores en el nuevo modo cooperativo. Descubre cartas especiales del modo multijugador y poderosas sinergias de equipo y conduce a tus amigos a la victoria... o deja que se encarguen ellos."
+    ],
+    [
+      "h",
+      "VIEJOS CONOCIDOS Y PERSONAJES NUEVOS"
+    ],
+    [
+      "p",
+      "Elige uno de los cinco personajes y embárcate en esta misión para llegar a lo más alto de la Torre. Verás caras familiares, pero también conocerás a dos nuevos aventureros. Descubre el estilo de juego de cada personaje, su historia y cómo alcanzar su máximo potencial mientras te enfrentas a todo enemigo que se interponga en tu camino."
+    ],
+    [
+      "h",
+      "DESCUBRE LA HISTORIA DE LA TORRE"
+    ],
+    [
+      "p",
+      "Ahora hay nuevas maneras de descubrir la historia de la Torre y de sus habitantes, ya sean amigos o enemigos. Desbloquea fragmentos de su misteriosa cronología y encuentra a sus residentes más antiguos durante tus innumerables incursiones."
+    ],
+    [
+      "h",
+      "MÁS CONTENIDO EN EL ACCESO ANTICIPADO"
+    ],
+    [
+      "p",
+      "La Torre es una entidad en constante cambio. Durante el Acceso anticipado se añadirán y retocarán cartas, eventos, escenarios, enemigos y mucho más. ¡Únete a este viaje desde el principio para formar parte de la evolución de la Torre!"
+    ],
+    [
+      "p",
+      "¿Y por qué lanzar el juego en Acceso anticipado? ¡Porque nuestra comunidad es la responsable del éxito de Slay the Spire! Suena un poco sentimentaloide, pero podemos seguir trabajando en esto gracias al esfuerzo que muchos pusisteis en informar de errores, traducir contenido o anuncios, grabar vídeos larguísimos, crear tier lists excelentes (y otras no tanto) y deleitarnos con vuestro arte, desde dibujitos graciosetes hasta obras de arte espectaculares. ¡Nos encanta nuestro trabajo, gracias!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "Controles de volumen personalizados",
+    "Opción solo ratón",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Compatible con Steam Input",
+    "Steam Cloud",
+    "Estadísticas"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Dual-core 2.0 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX 12 or Vulkan compatible, 1 GB VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Quad-core 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX 12 or Vulkan compatible, 2 GB VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.1920x1080.jpg?t=1787169309"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.1920x1080.jpg?t=1787169309"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.1920x1080.jpg?t=1787169309"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0fdb2940c0d367a40b2be6433daf12e3634089cf/ss_0fdb2940c0d367a40b2be6433daf12e3634089cf.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0fdb2940c0d367a40b2be6433daf12e3634089cf/ss_0fdb2940c0d367a40b2be6433daf12e3634089cf.1920x1080.jpg?t=1787169309"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/18e8bda7bc4cdb37b90e0e2ce546967cbec87076/ss_18e8bda7bc4cdb37b90e0e2ce546967cbec87076.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/18e8bda7bc4cdb37b90e0e2ce546967cbec87076/ss_18e8bda7bc4cdb37b90e0e2ce546967cbec87076.1920x1080.jpg?t=1787169309"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b/ss_0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b.600x338.jpg?t=1787169309",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b/ss_0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b.1920x1080.jpg?t=1787169309"
+    }
+  ],
+  "web": "https://megacrit.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 296831,
+  "youtube": [
+    {
+      "id": "PW22jwFNxU8",
+      "nombre": "Early Access Trailer"
+    },
+    {
+      "id": "J2NJ9vvvSds",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "krDFltgjLtE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6NgLqPWqDss",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:17:04.894Z"
 }

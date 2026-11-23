@@ -1,9 +1,9 @@
 {
   "clave": "bloodstained ritual of the night",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2d32-71b9-8be8-145d7bd20ceb",
   "appid": "692850",
@@ -49,54 +49,69 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "198659",
+      "nombre": "Bloodstained: Ritual of the Night",
+      "apps": [
+        {
+          "appid": "692850",
+          "nombre": "Bloodstained: Ritual of the Night"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "692850": {
+      "usd": 24.35,
+      "gratis": false
+    }
+  },
   "dlcTotal": 6,
   "dlcLista": [
     {
       "appid": "2380803",
       "nombre": "Bloodstained: Ritual of the Night - Modo clásico II: la maldición de Dominique",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "2380801",
       "nombre": "Bloodstained: Ritual of the Night - Magical Girl Costume",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "2380802",
       "nombre": "Bloodstained: Ritual of the Night - Japanesque Cosmetic Pack",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     },
     {
       "appid": "1041460",
       "nombre": "Bloodstained: Ritual of the Night - \"Iga's Back Pack\" DLC",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "1101300",
       "nombre": "Bloodstained: Ritual of the Night - Soundtrack",
       "gratis": false,
-      "precio": "$5.99",
-      "antes": null,
+      "usd": 5.99,
       "descuento": 0
     },
     {
       "appid": "2380800",
       "nombre": "Bloodstained: Ritual of the Night - Succubus Costume",
       "gratis": false,
-      "precio": "$1.99",
-      "antes": null,
+      "usd": 1.99,
       "descuento": 0
     }
   ],
@@ -108,6 +123,7 @@
   ],
   "lanzamientoTexto": "18 JUN 2019",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Bloodstained: Ritual of the Night",
   "acerca": [
     [
@@ -182,47 +198,58 @@
   "idiomas": [
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -306,5 +333,30 @@
     }
   ],
   "web": "https://playbloodstained.com/",
-  "consultado": "2026-11-22T22:25:31.984Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 10760,
+  "youtube": [
+    {
+      "id": "lKlR0SEmIoI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ziyxCRvqeIg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "kTVYb6xeUcU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6VKfthxb4t8",
+      "nombre": "Gameplay video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:23:17.797Z"
 }

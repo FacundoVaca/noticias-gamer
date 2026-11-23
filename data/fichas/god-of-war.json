@@ -2,7 +2,8 @@
   "clave": "god of war",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4964-7357-a557-f04dac608915",
   "appid": "1593500",
@@ -51,6 +52,28 @@
       "url": "https://opencritic.com/game/5434/god-of-war"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "564166",
+      "nombre": "God of War",
+      "apps": [
+        {
+          "appid": "1593500",
+          "nombre": "God of War"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 49.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1593500": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también.",
   "generos": [
     "Acción",
@@ -62,6 +85,317 @@
     "puntaje": 93,
     "url": "https://www.metacritic.com/game/pc/god-of-war?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 131433,
-  "consultado": "2026-11-22T21:46:49.244Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "God of War",
+  "acerca": [
+    [
+      "p",
+      "Entra en los dominios nórdicos"
+    ],
+    [
+      "p",
+      "Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también."
+    ],
+    [
+      "p",
+      "Aprovecha una segunda oportunidad"
+    ],
+    [
+      "p",
+      "Kratos vuelve a ser padre. Como progenitor y protector de Atreus, un hijo decidido a ganarse el respeto del padre, Kratos debe sobrevivir en un mundo muy peligroso dominando y controlando la ira que tanto lo ha caracterizado."
+    ],
+    [
+      "p",
+      "Viaja a un mundo oscuro y elemental de criaturas temibles"
+    ],
+    [
+      "p",
+      "Este entorno inequívocamente nuevo, con su propio panteón de criaturas, monstruos y dioses, nos lleva desde las columnas de mármol del fastuoso Olimpo hasta los bosques agrestes, las montañas y las cuevas de la tradición nórdica anterior a los vikingos."
+    ],
+    [
+      "p",
+      "Lucha en combates físicos y viscerales"
+    ],
+    [
+      "p",
+      "Con una cámara al hombro que acerca al jugador a la acción más que antes, las peleas de God of War™ son un reflejo del panteón de criaturas nórdicas que encontrará Kratos: grandiosas, duras y extenuantes. La nueva arma principal y las nuevas habilidades mantienen el espíritu que define la saga God of War y presentan una visión del conflicto que renueva el género."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS DE PC"
+    ],
+    [
+      "p",
+      "Gráficos de alta fidelidad"
+    ],
+    [
+      "p",
+      "Gráficos alucinantes mejorados en PC. Disfruta de una auténtica resolución 4K en dispositivos compatibles, [MU1] con frecuencias de fotogramas desbloqueadas para un rendimiento máximo. Modifica los ajustes con una gran variedad de opciones y configuraciones gráficas, como el sombreado de mayor resolución, reflejos de espacios en pantalla mejorados, la incorporación de GTAO y SSDO, y mucho más."
+    ],
+    [
+      "p",
+      "Compatibilidad con NVIDIA® DLSS y Reflex"
+    ],
+    [
+      "p",
+      "Conjunción de calidad y rendimiento. Aprovecha la potencia de la IA del supermuestreo de aprendizaje profundo (DLSS) de NVIDIA para mejorar la frecuencia de fotogramas y generar imágenes nítidas llenas de belleza en una selección de GPU de NVIDIA. Usa la tecnología NVIDIA Reflex de baja latencia para reaccionar más rápidamente y asestar combos más fuertes con las mecánicas de respuesta que tanto ansías en las GPU de GeForce."
+    ],
+    [
+      "p",
+      "Personalización de los controles"
+    ],
+    [
+      "p",
+      "Juega a tu manera. Gracias a la compatibilidad con los mandos inalámbricos DUALSHOCK®4 y DUALSENSE®, una gran variedad de mandos diferentes y la plena capacidad de personalizar las asignaciones para teclado y ratón, podrás modificar cada acción según tu estilo de juego."
+    ],
+    [
+      "p",
+      "Compatibilidad ultrapanorámica"
+    ],
+    [
+      "p",
+      "Sumérgete en el juego como nunca antes. Aventúrate por los reinos nórdicos y disfruta de vistas increíbles en pantallas anchas panorámicas. Compatible con pantallas ultrapanorámicas de 21:9, God of War™ ofrece una experiencia de calidad cinematográfica que amplía la visión original sin cortes."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "DirectX feature level 11_1 required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "70 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "DirectX feature level 11_1 required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_f1bff24d3967a21d303d95e11ed892e3d9113057.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_f1bff24d3967a21d303d95e11ed892e3d9113057.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_3670ba72c7e3e9c3c3225547ef2c1053504e62b8.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_3670ba72c7e3e9c3c3225547ef2c1053504e62b8.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_93a3ca63aa2cd8c675bbb6430324ee3f2d44b845.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_93a3ca63aa2cd8c675bbb6430324ee3f2d44b845.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1bd99270dcbd4ff9fe9c94b0d9c8ffc50ebb42c7.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1bd99270dcbd4ff9fe9c94b0d9c8ffc50ebb42c7.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_0858b868ea51d53f73bd805ba7382f027dd33dca.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_0858b868ea51d53f73bd805ba7382f027dd33dca.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1351cb512d008f7e47fc50b74197f4f8eb6f3419.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1351cb512d008f7e47fc50b74197f4f8eb6f3419.1920x1080.jpg?t=1763059412"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_8db3de5b5d611e50945268848de2889e1ed4ba84.600x338.jpg?t=1763059412",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/ss_8db3de5b5d611e50945268848de2889e1ed4ba84.1920x1080.jpg?t=1763059412"
+    }
+  ],
+  "web": "https://www.playstation.com/god-of-war/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Gameplay consists of frequent combat scenarios with characters punching and kicking or using their axe to slash/stab/impale enemies. Some larger enemies are opened up to intense finishing moves showing enemies being ripped apart, dismembered, or decapitated. Strong Language is used in the dialogue.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19560,
+  "youtube": [
+    {
+      "id": "rxrbXP546OU",
+      "nombre": "Story Trailer"
+    },
+    {
+      "id": "iLr5BeiTha4",
+      "nombre": "E3 2017 Gameplay Trailer"
+    },
+    {
+      "id": "Q8-Si4M1b2U",
+      "nombre": "PGW17 Trailer"
+    },
+    {
+      "id": "HqQMh_tij0c",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:19:08.659Z"
 }

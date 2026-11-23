@@ -2,7 +2,8 @@
   "clave": "marvels spider man miles morales",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4b30-71db-a955-18758fe9e7c5",
   "appid": "1817190",
@@ -53,6 +54,41 @@
       "url": "https://opencritic.com/game/10480/marvels-spider-man-miles-morales"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "653430",
+      "nombre": "Marvel's Spider-Man: Miles Morales",
+      "apps": [
+        {
+          "appid": "1817190",
+          "nombre": "Marvel’s Spider-Man: Miles Morales"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 49.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "797966",
+      "nombre": "Marvel's Spider-Man: Miles Morales - Commercial License",
+      "apps": [
+        {
+          "appid": "1817190",
+          "nombre": "Marvel’s Spider-Man: Miles Morales"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1817190": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Tras lo ocurrido en Marvel’s Spider-Man Remasterizado, Miles Morales se adapta a su nuevo barrio mientras sigue las huellas de Peter Parker para convertirse en un nuevo Spider-Man. Cuando la lucha de poderes amenaza con destruir su hogar, Miles debe tomar el relevo de Spider-Man y estar a la altura.",
   "generos": [
     "Acción",
@@ -60,6 +96,323 @@
   ],
   "lanzamientoTexto": "18 NOV 2022",
   "metacritic": null,
-  "recomendaciones": 40155,
-  "consultado": "2026-11-22T21:44:18.578Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Marvel’s Spider-Man: Miles Morales",
+  "acerca": [
+    [
+      "p",
+      "Tras los acontecimientos de Marvel’s Spider-Man Remasterizado, el adolescente Miles Morales se adapta a su nuevo barrio al tiempo que sigue los pasos de Peter Parker, su mentor, para convertirse en un nuevo Spider-Man. Pero cuando una feroz lucha de poderes amenaza con destruir su nuevo hogar, el aspirante a héroe se da cuenta de que un gran poder conlleva una gran responsabilidad. Para salvar la Nueva York de Marvel, Miles debe tomar el relevo de Spider-Man y estar a la altura."
+    ],
+    [
+      "p",
+      "La ascensión de Miles Morales"
+    ],
+    [
+      "p",
+      "Miles Morales descubre poderes sensacionales que lo diferencian de Peter Parker, su mentor. Domina sus insólitos ataques bioeléctricos de ráfaga de veneno y su poder de camuflaje, además de las espectaculares acrobacias con lanzamiento de telarañas, los artilugios y otras habilidades."
+    ],
+    [
+      "p",
+      "Una guerra por el poder"
+    ],
+    [
+      "p",
+      "Ha estallado una guerra por el control de la Nueva York de Marvel entre una turbia corporación energética y un grupo paramilitar que se surte de armas de alta tecnología. Con su nuevo hogar en pleno campo de batalla, Miles aprende el precio de convertirse en héroe mientras decide lo que debe sacrificar por el bien común."
+    ],
+    [
+      "p",
+      "Un nuevo hogar lleno de vida"
+    ],
+    [
+      "p",
+      "Descubre las calles nevadas del nuevo barrio de Miles, lleno de bullicio y animación, en su búsqueda de arraigo. Cuando empieza a desdibujarse la frontera entre su vida personal y su lucha contra el crimen, descubre en quién puede confiar y lo que significa un hogar verdadero."
+    ],
+    [
+      "p",
+      "Gráficos optimizados en PC"
+    ],
+    [
+      "p",
+      "Disfruta de una gran variedad de opciones de calidad gráfica adaptadas a una amplia gama de dispositivos, frecuencias de fotogramas desbloqueadas y compatibilidad con otras tecnologías, entre ellas NVIDIA DLSS 3 y NVIDIA DLSS 2, que aumentan el rendimiento, NVIDIA DLAA, que ofrece una mayor calidad de imagen y NVIDIA Reflex, que reduce la latencia. También es compatible con las tecnologías de escalado AMD FSR 2.1, Intel XeSS e IGTI."
+    ],
+    [
+      "p",
+      "Reflejos y sombras con trazado de rayos*"
+    ],
+    [
+      "p",
+      "La ciudad cobra vida gracias a las opciones de reflejos y sombras con trazado de rayos, que incluyen una gran variedad de modos de calidad entre los que elegir."
+    ],
+    [
+      "p",
+      "Compatibilidad con monitores ultrapanorámicos**"
+    ],
+    [
+      "p",
+      "Disfruta de las vistas cinemáticas de la Nueva York de Marvel gracias a la compatibilidad con una amplia gama de configuraciones de pantalla, como las resoluciones 16:9, 16:10, 21:9, 32:9, y 48:9. Las resoluciones 48:9 en equipos de tres monitores son compatibles con NVIDIA Surround o AMD Eyefinity."
+    ],
+    [
+      "p",
+      "Controles y personalización"
+    ],
+    [
+      "p",
+      "Descubre qué se siente al jugar como Spider-Man gracias a la tecnología háptica inmersiva y a los efectos gatillo dinámico del mando DualSense™ de PlayStation a través de la conexión USB. Disfruta de una compatibilidad completa con ratones y teclados con diversas opciones de control personalizables."
+    ],
+    [
+      "p",
+      "*Se necesita un PC compatible"
+    ],
+    [
+      "p",
+      "**Se necesitan un PC y un dispositivo de visualización compatibles"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit 1909"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-4160, 3.6 GHz or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 950 or AMD Radeon RX 470"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit 1909"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4670, 3.4 Ghz or AMD Ryzen 5 1600, 3.2 Ghz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1060 6GB or AMD Radeon RX 580 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "75 GB SSD space Recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_a240e0c6f37569493ed749d9317718d8ce9f5d18.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_a240e0c6f37569493ed749d9317718d8ce9f5d18.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_02bb2ac97c3ce854344a537d9ed89c70ba45c3d3.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_02bb2ac97c3ce854344a537d9ed89c70ba45c3d3.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_616a0e2ab905281a483d99d0e1f07fc0749770d2.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_616a0e2ab905281a483d99d0e1f07fc0749770d2.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_1950c472438a5ccde0f9e7c112dceaddd7cd52f1.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_1950c472438a5ccde0f9e7c112dceaddd7cd52f1.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_4198c024c13b1477240cf043cd4f7867913f77e1.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_4198c024c13b1477240cf043cd4f7867913f77e1.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_971beba92204ad268878b23aa5288cc4f2118788.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_971beba92204ad268878b23aa5288cc4f2118788.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_beff0e42c05657a30af3adfdc61499e836b8830e.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_beff0e42c05657a30af3adfdc61499e836b8830e.1920x1080.jpg?t=1787838710"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_34cd494551068f3c83179942b6964ece1333ccda.600x338.jpg?t=1787838710",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_34cd494551068f3c83179942b6964ece1333ccda.1920x1080.jpg?t=1787838710"
+    }
+  ],
+  "web": "https://www.playstation.com/games/marvels-spider-man-miles-morales/pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134581,
+  "youtube": [
+    {
+      "id": "T03PxxuCfDA",
+      "nombre": "Gameplay Demo"
+    },
+    {
+      "id": "D3wEP8kJ6Vo",
+      "nombre": "PC Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:24:00.281Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "wizard of legend",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-243d-729a-971b-5527567ec838",
   "appid": "445980",
@@ -51,14 +51,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "95120",
+      "nombre": "Wizard of Legend",
+      "apps": [
+        {
+          "appid": "445980",
+          "nombre": "Wizard of Legend"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "445980": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "813840",
       "nombre": "Wizard of Legend - Soundtrack",
       "gratis": false,
-      "precio": "$7.99",
-      "antes": null,
+      "usd": 7.99,
       "descuento": 0
     }
   ],
@@ -73,6 +93,7 @@
     "puntaje": 79,
     "url": "https://www.metacritic.com/game/pc/wizard-of-legend?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Wizard of Legend",
   "acerca": [
     [
@@ -107,35 +128,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -198,5 +227,24 @@
     }
   ],
   "web": "http://wizardoflegend.com/",
-  "consultado": "2026-11-22T22:25:50.336Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19935,
+  "youtube": [
+    {
+      "id": "HNv_aC7H8pY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "1bsU7iQM66o",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:25:02.955Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "lysfanga the time shift warrior",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6eee-70ae-ad31-c16780882986",
   "appid": "2161620",
@@ -51,14 +51,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "773373",
+      "nombre": "Lysfanga : The Time Shift Warrior",
+      "apps": [
+        {
+          "appid": "2161620",
+          "nombre": "Lysfanga: The Time Shift Warrior"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2161620": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
       "appid": "2813360",
       "nombre": "Lysfanga: The Time Shift Warrior (Original Game Soundtrack)",
       "gratis": false,
-      "precio": "$4.49",
-      "antes": null,
+      "usd": 4.49,
       "descuento": 0
     }
   ],
@@ -70,6 +90,7 @@
   ],
   "lanzamientoTexto": "13 FEB 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Lysfanga: The Time Shift Warrior",
   "acerca": [
     [
@@ -130,59 +151,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -258,5 +293,22 @@
     }
   ],
   "web": "https://www.lysfanga.com",
-  "consultado": "2026-11-22T22:25:12.695Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 252491,
+  "youtube": [
+    {
+      "id": "jRB6jZHc1Wk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NjSSOUuvb3Q",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:06.265Z"
 }

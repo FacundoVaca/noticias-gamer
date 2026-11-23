@@ -1,9 +1,9 @@
 {
   "clave": "kholat",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1157-7291-9e2a-5542fc78d1af",
   "appid": "343710",
@@ -51,22 +51,41 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "58383",
+      "nombre": "Kholat",
+      "apps": [
+        {
+          "appid": "343710",
+          "nombre": "Kholat"
+        }
+      ],
+      "usd": 12.95,
+      "antes": 12.95,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "343710": {
+      "usd": 12.95,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
       "appid": "380800",
       "nombre": "Kholat: Original Soundtrack",
       "gratis": false,
-      "precio": "$2.99",
-      "antes": null,
+      "usd": 2.99,
       "descuento": 0
     },
     {
       "appid": "768730",
       "nombre": "Kholat Aftermath Part 1 - Comic Book",
       "gratis": false,
-      "precio": "$1.95",
-      "antes": null,
+      "usd": 1.95,
       "descuento": 0
     }
   ],
@@ -80,6 +99,7 @@
     "puntaje": 64,
     "url": "https://www.metacritic.com/game/pc/kholat?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Kholat",
   "acerca": [
     [
@@ -166,59 +186,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -289,5 +323,30 @@
     }
   ],
   "web": "http://kholat.com",
-  "consultado": "2026-11-22T22:25:58.879Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7965,
+  "youtube": [
+    {
+      "id": "3z3DAB6FyoA",
+      "nombre": "Release Trailer"
+    },
+    {
+      "id": "4RuvftE-upU",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "BVxTWTD7CHk",
+      "nombre": "The Light is On"
+    },
+    {
+      "id": "gqWO99yOioM",
+      "nombre": "The Path"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:26:02.735Z"
 }

@@ -2,7 +2,8 @@
   "clave": "call of duty black ops",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0a75-730b-942e-d7cc44219c58",
   "appid": "42700",
@@ -42,6 +43,59 @@
       "url": "https://metacritic.com/game/call-of-duty-black-ops/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "6473",
+      "nombre": "Call of Duty: Black Ops (ROW)",
+      "apps": [
+        {
+          "appid": "42700",
+          "nombre": "Call of Duty®: Black Ops"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 39.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "42700": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "42719",
+      "nombre": "Call of Duty®: Black Ops - Rezurrection Content Pack",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 35
+    },
+    {
+      "appid": "42722",
+      "nombre": "Call of Duty®: Black Ops Annihilation Content Pack",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 35
+    },
+    {
+      "appid": "42718",
+      "nombre": "Call of Duty®: Black Ops Escalation Content Pack",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 35
+    },
+    {
+      "appid": "42716",
+      "nombre": "Call of Duty®: Black Ops First Strike Content Pack",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 35
+    }
+  ],
   "descripcion": "La saga de acción en primera persona más grande de todos los tiempos y la continuación del Call of Duty®: Modern Warfare 2 que arrasó en todas las críticas, vuelve con Call of Duty®: Black Ops.",
   "generos": [
     "Acción"
@@ -51,6 +105,170 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 22461,
-  "consultado": "2026-11-22T21:44:09.831Z"
+  "steamDeck": "Jugable",
+  "nombreSteam": "Call of Duty®: Black Ops",
+  "acerca": [
+    [
+      "p",
+      "La saga de acción en primera persona más grande de todos los tiempos y la continuación del superventas del año pasado Call of Duty®: Modern Warfare 2 regresa en Call of Duty®: Black Ops ."
+    ],
+    [
+      "p",
+      "Call of Duty®: Black Ops te llevará más allá de las líneas enemigas como miembro de un equipo de fuerzas especiales de élite en misiones de guerra encubierta, operaciones secretas y conflictos explosivos por todo el planeta. Tendrás acceso al armamento y al equipo más exclusivos, esto te permitirá equilibrar la balanza durante la época más peligrosa que la humanidad ha conocido."
+    ],
+    [
+      "h",
+      "Características Principales:"
+    ],
+    [
+      "li",
+      "Campaña Cinemática para Un Jugador : Una historia y una campaña épicas que te llevarán a lo largo de una gran variedad de lugares y conflictos por todo el mundo donde jugarás como un soldado de élite Black Ops en operaciones oficialmente inexistentes, por tanto si eres capturado o muerto tu país negará hasta tu misma existencia."
+    ],
+    [
+      "li",
+      "Multijugador Inconfundible : El modo multijugador que ha hecho famoso a Call of Duty regresa con nuevos perks y rachas de muertes, un mayor nivel de personalización tanto del personaje como de las armas y modos totalmente nuevos incluyendo:"
+    ],
+    [
+      "p",
+      "Partida de Apuesta : One in the Chamber, Gun Game, Sticks and Stones y Sharpshooter"
+    ],
+    [
+      "li",
+      "Modo Teatro : Contempla, graba y edita tus mejores momentos en multijugador y compártelos con tus amigos"
+    ],
+    [
+      "li",
+      "Entrenamiento de Combate : Pon a prueba tu habilidad en modo solo o cooperativo con tus amigos contra jugadores enemigos controlados por la IA"
+    ],
+    [
+      "li",
+      "¡Zombis! : El modo Zombi, favorito de los fans, regresa para proporcionarte horas ilimitadas de diversión machacando zombis, solo o en cooperativo"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Con sist. antitrampas de Valve",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows® Vista / XP / 7"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™2 Duo E6600 o AMD Phenom™ X3 8750 o superior"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® 8600GT con Shader 3.0 y 256 MB / ATI Radeon® X1950Pro o mejor"
+      ],
+      [
+        "DirectX®",
+        "DirectX® 9.0c"
+      ],
+      [
+        "Disco Duro",
+        "12 GB*"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX® 9.0c"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_f6e1e6377f0b41e34575dc9d73e62784b2395731.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_f6e1e6377f0b41e34575dc9d73e62784b2395731.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_8cc1d7d93af1bf0e87ff3d04bddc59b359471235.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_8cc1d7d93af1bf0e87ff3d04bddc59b359471235.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_e3ad24dd02143ffbbbf17467fde104b462c9120e.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_e3ad24dd02143ffbbbf17467fde104b462c9120e.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_5982939907fa10baef8a22f29656e02dd5171074.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_5982939907fa10baef8a22f29656e02dd5171074.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_b15b632700a5d7f00440146570a69170e86127d9.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_b15b632700a5d7f00440146570a69170e86127d9.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_29a09c18e664c4ad941a918736b8c8e3fc08606f.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_29a09c18e664c4ad941a918736b8c8e3fc08606f.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_29c0e5cf576f4ab7535440d619283d47c2ef6677.600x338.jpg?t=1780962720",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_29c0e5cf576f4ab7535440d619283d47c2ef6677.1920x1080.jpg?t=1780962720"
+    }
+  ],
+  "web": "http://www.callofduty.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 545,
+  "youtube": [
+    {
+      "id": "OPTOVQFRggI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "cenzE-3C6NQ",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "OtRnpC7ddv8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T04:21:36.292Z"
 }
