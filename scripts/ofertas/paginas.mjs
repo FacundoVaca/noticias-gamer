@@ -206,7 +206,7 @@ ${anuncio}${faqHtml(T)}
   const cuerpo = `${navTiendas(null)}<h1 class="sec-tit">Ofertas de juegos hoy: Steam, Epic, Xbox y PlayStation en pesos</h1>
 <p class="o-intro">Juntamos ${total ? `${total.toLocaleString("es-AR")} ofertas vigentes` : "las ofertas vigentes"} de las cuatro tiendas grandes y les calculamos el precio en pesos con impuestos, para que compares sin hacer cuentas. Se actualiza solo varias veces por día.</p>${actualizadoTiendas}
 ${mejores.length ? `<section class="o-sec o-top"><h2 class="o-h2">Mejores ofertas de hoy</h2><p class="o-sub">Dos por tienda entre sus 40 juegos más populares. No elegimos solo por el porcentaje: también pesa que esté en su precio más bajo registrado, qué tan popular es y cuánta plata ahorrás.</p><div class="o-grilla">${mejores.map(tarjeta).join("")}</div></section>` : ""}
-${gratis.length ? `<h2 class="o-h2">Gratis ahora</h2><div class="o-grilla">${gratis.map(tarjeta).join("")}</div>` : ""}
+${gratis.length ? `<div class="o-sec-tit"><h2 class="o-h2">Gratis ahora en Epic</h2><a href="/juegos-gratis/">Ver todos los juegos gratis (GOG, Steam, itch.io y más) →</a></div><div class="o-grilla">${gratis.map(tarjeta).join("")}</div>` : ""}
 ${prox.length ? `<h2 class="o-h2">Próximamente gratis</h2><div class="o-grilla">${prox.map(tarjeta).join("")}</div>` : ""}
 ${anuncio}
 ${Object.entries(TIENDAS_INFO).map(([k, T]) => top(k).length ? `<section class="o-sec"><div class="o-sec-tit"><h2 class="o-h2">Destacadas de ${T.nombre}</h2><a href="/ofertas/${k}/">Ver las ${porTienda(k).length} →</a></div>${caido(k)}<div class="o-grilla">${top(k).map(tarjeta).join("")}</div></section>` : "").join("")}
