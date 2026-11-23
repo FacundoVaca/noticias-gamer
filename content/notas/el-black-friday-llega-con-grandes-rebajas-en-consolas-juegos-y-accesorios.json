@@ -152,8 +152,11 @@
   ],
   "imagen": {
     "archivo": "el-black-friday-llega-con-grandes-rebajas-en-consolas-juegos-y-accesorios.webp",
-    "origen": "portada",
-    "credito": null
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de WikimediaImages en Pixabay",
+      "url": "https://pixabay.com/photos/video-game-console-video-game-play-2202660/"
+    }
   },
   "modelo": "gemini-3.5-flash-lite",
   "fuentes": [

@@ -63,8 +63,11 @@
   ],
   "imagen": {
     "archivo": "grand-theft-auto-6-acapara-la-atencion-global-tras-su-estreno-con-elogios-a-su.webp",
-    "origen": "portada",
-    "credito": null
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de StockSnap en Pixabay",
+      "url": "https://pixabay.com/photos/playstation-game-tv-screen-bench-2597209/"
+    }
   },
   "modelo": "gemini-3.8-flash",
   "fuentes": [

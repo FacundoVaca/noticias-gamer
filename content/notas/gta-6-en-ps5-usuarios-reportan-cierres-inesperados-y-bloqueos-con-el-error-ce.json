@@ -78,8 +78,11 @@
   ],
   "imagen": {
     "archivo": "gta-6-en-ps5-usuarios-reportan-cierres-inesperados-y-bloqueos-con-el-error-ce.webp",
-    "origen": "portada",
-    "credito": null
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de InspiredImages en Pixabay",
+      "url": "https://pixabay.com/photos/ps4-playstation-playstation-4-2326600/"
+    }
   },
   "modelo": "gemini-3.8-flash",
   "fuentes": [
