@@ -91,7 +91,8 @@ export function parseCheapShark(lista, tienda = "epic") {
     // Enlace directo a la tienda de Epic (búsqueda por nombre), sin pasar por la redirección de CheapShark
     url: `https://store.epicgames.com/es-ES/browse?q=${encodeURIComponent(d.title)}&sortBy=relevancy&sortDir=DESC&count=40`, imagen: d.steamAppID ? `https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/${d.steamAppID}/header.jpg` : d.thumb,
     plataformas: ["PC"], precio: +d.salePrice, original: +d.normalPrice, moneda: "USD", descuento: Math.round(+d.savings), gratis: false, fin_oferta: null,
-    extra: { metacritic: +d.metacriticScore || undefined, via: "CheapShark" },
+    // Si la imagen de Steam no existe (paquetes o juegos con imágenes nuevas), se usa la miniatura de CheapShark
+    extra: { metacritic: +d.metacriticScore || undefined, via: "CheapShark", ...(d.steamAppID && d.thumb ? { img2: d.thumb } : {}) },
   }));
 }
 export async function leerEpic({ paginas = 3 } = {}) {
