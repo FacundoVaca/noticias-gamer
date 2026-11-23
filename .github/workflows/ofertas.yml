@@ -53,5 +53,14 @@ jobs:
           git add data public
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Ofertas de juegos actualizadas"
-          git pull --rebase
-          git push
+          # Si otra corrida publicó mientras tanto: se integra (en conflicto gana lo nuevo de esta corrida),
+          # se regenera el sitio con todos los datos juntos y se reintenta
+          for i in 1 2 3; do
+            git pull --rebase -X theirs || { git rebase --abort; echo "No se pudo integrar"; exit 1; }
+            node scripts/build.mjs
+            git add public
+            git diff --cached --quiet || git commit -q --amend --no-edit
+            git push && exit 0
+            sleep 15
+          done
+          exit 1
