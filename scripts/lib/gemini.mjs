@@ -48,6 +48,7 @@ const ESQUEMA = {
   properties: {
     apta: { type: "BOOLEAN", description: "false SOLO si no tiene que ver con videojuegos, es publicidad encubierta, contenido para adultos o una tragedia sensible. Que hable de fechas o hechos que no conocés NO es motivo para false" },
     tipo: { type: "STRING", enum: ["noticia", "problema", "ofertas"], description: "problema = errores, fallas, bugs, caídas de servidores o cuelgues; ofertas = descuentos, rebajas, juegos gratis o precios rebajados; noticia = todo lo demás" },
+    formato: { type: "STRING", enum: ["breve", "estandar", "rumor", "guia", "analisis"], description: "Forma de la nota según la información disponible: breve = anuncio o dato puntual de último momento con poca información; rumor = filtración, rumor o dato no confirmado oficialmente; guia = la información sirve para hacer algo (resolver un problema, prepararse, comprar, configurar); analisis = hay material para explicar causas, comparar o dar contexto amplio (curiosidades, secretos, polémicas, repercusiones); estandar = noticia confirmada con datos suficientes que no encaja en las otras" },
     motivo: { type: "STRING" },
     titulo: { type: "STRING", description: "Título original en español, informativo, sin clickbait, máx. 95 caracteres" },
     bajada: { type: "STRING", description: "Copete de 1 o 2 oraciones que resume la noticia" },
@@ -62,7 +63,17 @@ const ESQUEMA = {
         required: ["tipo", "texto"],
       },
     },
-    clave: { type: "ARRAY", items: { type: "STRING" }, description: "3 a 5 puntos clave muy breves" },
+    clave: { type: "ARRAY", items: { type: "STRING" }, description: "3 a 5 puntos clave muy breves (en formato breve, lista vacía)" },
+    rumor: {
+      type: "OBJECT",
+      description: "Solo si formato = rumor. Si no, dejá las listas vacías",
+      properties: {
+        confirmado: { type: "ARRAY", items: { type: "STRING" }, description: "Lo que sí está confirmado oficialmente (puede ser vacío)" },
+        sinConfirmar: { type: "ARRAY", items: { type: "STRING" }, description: "Lo que dice el rumor y todavía no está confirmado" },
+        confiabilidad: { type: "STRING", enum: ["alta", "media", "baja"], description: "Qué tan confiable es el origen del rumor según lo que dicen las fuentes (historial del filtrador, documentos, registros oficiales como clasificaciones de edad)" },
+        motivoConfiabilidad: { type: "STRING", description: "Una oración que explique esa confiabilidad" },
+      },
+    },
     ofertas: {
       type: "ARRAY",
       description: "Solo si tipo = ofertas: cada juego o producto en oferta que aparezca en las fuentes, con precio y enlace EXACTOS tomados de la fuente y de su lista de enlaces. Si no hay, lista vacía",
@@ -77,7 +88,7 @@ const ESQUEMA = {
     },
     preguntas: {
       type: "ARRAY",
-      description: "2 a 4 preguntas frecuentes que haría un jugador, con respuestas breves basadas en las fuentes",
+      description: "0 a 3 preguntas frecuentes, SOLO si responden dudas reales que el texto no resuelve (por ejemplo compatibilidad, precio, requisitos o fechas). Nunca repitas lo que ya dice la nota. En formato breve o rumor, normalmente lista vacía",
       items: { type: "OBJECT", properties: { p: { type: "STRING" }, r: { type: "STRING" } }, required: ["p", "r"] },
     },
     promptImagen: { type: "STRING", description: "Descripción en inglés de una ilustración de portada evocadora y genérica: sin texto, sin logos, sin personajes ni marcas registradas" },
@@ -93,11 +104,18 @@ Reglas obligatorias:
 - Combiná lo que dicen todas las fuentes y explicá qué cambió, por qué importa y qué contexto previo tiene (franquicia, empresa, plataforma, lanzamientos anteriores) solo si estás seguro de ese contexto.
 - No inventes datos, cifras, fechas, precios ni citas. Si algo es rumor o no está confirmado, decilo explícitamente.
 - Si hay precios en dólares o euros, mencionalos tal cual; no conviertas a pesos.
-- Las notas tienen que AYUDAR al lector, no solo informar. Entre 700 y 1100 palabras, con 4 a 6 subtítulos (h2) y párrafos de 2 a 4 oraciones.
+- Las notas tienen que AYUDAR al lector, no solo informar. Párrafos de 2 a 4 oraciones.
+- Elegí el FORMATO según la información que hay, no por costumbre. Cada formato tiene su largo y su forma:
+  * breve (200 a 400 palabras): lo esencial en el primer párrafo (qué, quién, cuándo, en qué plataformas). Sin subtítulos o con uno solo. Sin relleno ni contexto que no esté en las fuentes. Puntos clave vacíos.
+  * rumor (400 a 700 palabras): aclará desde la primera oración que no está confirmado. Completá el campo "rumor" (lo confirmado, lo que falta confirmar y qué tan confiable es el origen). En el cuerpo explicá de dónde sale el rumor y qué antecedentes tiene. No lo presentes como hecho en ningún lado.
+  * guia (450 a 900 palabras): orientada a hacer algo. Subtítulos que sean acciones o preguntas concretas y pasos en lista (li) cuando corresponda.
+  * analisis (800 a 1200 palabras): el más largo. Explicá causas, compará con casos anteriores y cerrá con una conclusión propia argumentada (marcada como opinión del medio), sin inventar datos.
+  * estandar (550 a 900 palabras): noticia confirmada con datos (fechas, plataformas, precios, requisitos) y su contexto.
+- Variá la estructura: los subtítulos (h2) tienen que ser específicos de ESTA noticia (por ejemplo "Qué cambia en la versión de PS5" y no "Qué significa para los jugadores"). No repitas siempre la misma secuencia de secciones ni la misma cantidad de subtítulos.
 - Estructura según el tipo:
-  * noticia: entrada fuerte; "Qué se sabe" con todos los datos (fechas, plataformas, precios, requisitos); contexto (antecedentes de la saga, la empresa o la plataforma); "Qué significa para los jugadores" con consejos prácticos (si conviene esperar, qué preparar, cómo aprovecharlo, dónde seguirlo).
-  * problema (errores, bugs, caídas, cuelgues): qué está pasando y a quién afecta; posibles causas según las fuentes; un subtítulo exactamente "Cómo solucionarlo" seguido de 4 a 8 pasos en lista (li). Primero las soluciones que mencionan las fuentes o el desarrollador; después pasos generales seguros y habituales para esa plataforma (reiniciar, buscar actualización del sistema y del juego, verificar archivos, limpiar caché, reconstruir base de datos en PlayStation, actualizar drivers en PC, revisar el estado de los servidores), presentándolos como pasos generales. Nunca inventes un parche o solución oficial que no esté en las fuentes. Cerrá con qué hacer si nada funciona (contactar soporte oficial, esperar el parche).
-  * ofertas: entrada con el contexto (qué evento o tienda, hasta cuándo dura si se sabe); completá el campo "ofertas" con TODOS los juegos o productos con precio que aparezcan en las fuentes, copiando precio y enlace exactos; nunca inventes precios ni enlaces; en el cuerpo recomendá 3 a 5 destacadas explicando por qué valen la pena y agregá consejos para aprovechar las rebajas. No repitas la lista completa en el cuerpo: se muestra en una tabla aparte.
+  * noticia: usá el formato que corresponda de los de arriba.
+  * problema (errores, bugs, caídas, cuelgues): formato guia. Qué está pasando y a quién afecta; posibles causas según las fuentes; un subtítulo exactamente "Cómo solucionarlo" seguido de 4 a 8 pasos en lista (li). Primero las soluciones que mencionan las fuentes o el desarrollador; después pasos generales seguros y habituales para esa plataforma (reiniciar, buscar actualización del sistema y del juego, verificar archivos, limpiar caché, reconstruir base de datos en PlayStation, actualizar drivers en PC, revisar el estado de los servidores), presentándolos como pasos generales. Nunca inventes un parche o solución oficial que no esté en las fuentes. Cerrá con qué hacer si nada funciona (contactar soporte oficial, esperar el parche).
+  * ofertas: formato guia o breve. Entrada con el contexto (qué evento o tienda, hasta cuándo dura si se sabe); completá el campo "ofertas" con TODOS los juegos o productos con precio que aparezcan en las fuentes, copiando precio y enlace exactos; nunca inventes precios ni enlaces; en el cuerpo recomendá 3 a 5 destacadas explicando por qué valen la pena y agregá consejos para aprovechar las rebajas. No repitas la lista completa en el cuerpo: se muestra en una tabla aparte.
 - No menciones que sos una IA, no hables de "las fuentes" en el texto ni nombres los medios: los enlaces se agregan aparte.
 - Usá mayúsculas normales del español: al inicio de cada oración, título y punto de lista, y en nombres propios (GTA 6, Rockstar Games, PS5, Xbox Series X|S, Nintendo Switch 2).
 - Sin emojis, sin mayúsculas sostenidas, sin clickbait.`;
@@ -191,6 +209,8 @@ function notaDePrueba(grupo) {
     titulo: `[Prueba] ${t}`.slice(0, 95),
     bajada: "Nota de ejemplo generada en modo de prueba, sin IA.",
     tipo: /error|crash|bug/i.test(t) ? "problema" : /deal|sale|oferta/i.test(t) ? "ofertas" : "noticia",
+    formato: /error|crash|bug/i.test(t) ? "guia" : /rumor|leak|filtra/i.test(t) ? "rumor" : "estandar",
+    rumor: /rumor|leak|filtra/i.test(t) ? { confirmado: ["Dato confirmado de prueba"], sinConfirmar: ["Dato sin confirmar de prueba"], confiabilidad: "media", motivoConfiabilidad: "Motivo de prueba." } : undefined,
     ofertas: /deal|sale|oferta/i.test(t) ? (grupo[0].enlaces || []).slice(0, 6).map((l, i) => ({ producto: l.texto, plataforma: "PS5", precio: `US$${(i + 1) * 10}`, url: l.url, tienda: "Tienda" })) : [],
     preguntas: [{ p: "¿Pregunta de prueba?", r: "Respuesta de prueba." }],
     categoria: /nintendo|switch/i.test(t) ? "nintendo" : /playstation|ps5/i.test(t) ? "playstation" : /xbox/i.test(t) ? "xbox" : /steam|pc/i.test(t) ? "pc" : "general",

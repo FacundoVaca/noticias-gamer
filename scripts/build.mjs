@@ -106,16 +106,22 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
   listado(notas.filter((n) => n.tipo === "problema"), "/soluciones/", `Soluciones a errores y fallas de juegos | ${S.nombre}`, "Errores, cuelgues y caídas de juegos y consolas, con pasos para solucionarlos.", "Soluciones a errores y fallas");
 
   // Notas
+  // Después de un subtítulo de pasos ("Cómo solucionarlo", "Paso a paso", "Cómo hacer...") la lista va numerada
   const cuerpoHTML = (bloques) => {
-    let html = "", enLista = false, parrafos = 0;
+    let html = "", enLista = "", parrafos = 0, pasos = false;
     for (const b of bloques) {
-      if (b.tipo === "li") { if (!enLista) { html += "<ul>"; enLista = true; } html += `<li>${e(b.texto)}</li>`; continue; }
-      if (enLista) { html += "</ul>"; enLista = false; }
-      if (b.tipo === "h2") html += `<h2>${e(b.texto)}</h2>`;
+      if (b.tipo === "li") { if (!enLista) { enLista = pasos ? "ol" : "ul"; html += pasos ? '<ol class="pasos">' : "<ul>"; } html += `<li>${e(b.texto)}</li>`; continue; }
+      if (enLista) { html += `</${enLista}>`; enLista = ""; }
+      if (b.tipo === "h2") { html += `<h2>${e(b.texto)}</h2>`; pasos = /soluci|arregl|paso|^c[oó]mo /i.test(b.texto); }
       else { html += `<p>${e(b.texto)}</p>`; if (++parrafos === 3) html += anuncio; }
     }
-    return html + (enLista ? "</ul>" : "");
+    return html + (enLista ? `</${enLista}>` : "");
   };
+  const FORMATO_TXT = { breve: "Último momento", rumor: "Rumor", guia: "Guía", analisis: "Análisis" };
+  const CONF_TXT = { alta: "Confiabilidad alta", media: "Confiabilidad media", baja: "Confiabilidad baja" };
+  const cajaRumor = (r) => !r || !(r.sinConfirmar?.length || r.confirmado?.length) ? "" : `<aside class="rumor"><p class="rumor-tit"><strong>Estado del rumor</strong>${r.confiabilidad ? ` <span class="conf conf-${r.confiabilidad}">${CONF_TXT[r.confiabilidad]}</span>` : ""}</p>
+<div class="rumor-cols">${r.confirmado?.length ? `<div><h3>Confirmado</h3><ul>${r.confirmado.map((x) => `<li>${e(x)}</li>`).join("")}</ul></div>` : ""}${r.sinConfirmar?.length ? `<div><h3>Sin confirmar</h3><ul>${r.sinConfirmar.map((x) => `<li>${e(x)}</li>`).join("")}</ul></div>` : ""}</div>
+${r.motivo ? `<p class="mini">${e(r.motivo)}</p>` : ""}</aside>`;
   const tablaOfertas = (n) => {
     const conPlat = n.ofertas.some((o) => o.plataforma?.trim());
     const conAntes = n.ofertas.some((o) => o.precioAnterior?.trim());
@@ -138,9 +144,10 @@ ${prim && p === 1 ? `<div class="destacada">${tarjeta(prim, true)}</div>${anunci
     const cuerpo = `<article class="nota">
 <p class="migas"><a href="/">Inicio</a> › <a href="/categoria/${n.categoria}/">${e(CAT[n.categoria])}</a></p>
 <h1>${e(n.titulo)}</h1><p class="bajada">${e(n.bajada)}</p>
-<p class="meta">Por Redacción ${e(S.nombre)} · <time datetime="${n.fecha}">${fechaLarga(n.fecha)}</time>${n.actualizaciones?.length ? ` · Actualizada: <time datetime="${n.actualizada}">${fechaLarga(n.actualizada)}</time>` : ""}</p>
+<p class="meta">${FORMATO_TXT[n.formato] ? `<span class="formato formato-${n.formato}">${FORMATO_TXT[n.formato]}</span> ` : ""}Por Redacción ${e(S.nombre)} · <time datetime="${n.fecha}">${fechaLarga(n.fecha)}</time>${n.actualizaciones?.length ? ` · Actualizada: <time datetime="${n.actualizada}">${fechaLarga(n.actualizada)}</time>` : ""}</p>
 <figure class="portada"><img src="${img(n)}" alt="${e(n.titulo)}" width="1200" height="675">${n.imagen?.credito ? `<figcaption>${n.imagen.credito.url ? `<a href="${e(n.imagen.credito.url)}" rel="nofollow noopener" target="_blank">${e(n.imagen.credito.texto)}</a>` : e(n.imagen.credito.texto)}</figcaption>` : ""}</figure>
-${n.clave?.length ? `<aside class="clave"><strong>Lo importante</strong><ul>${n.clave.map((c) => `<li>${e(c)}</li>`).join("")}</ul></aside>` : ""}
+${cajaRumor(n.rumor)}
+${n.clave?.length && n.formato !== "breve" ? `<aside class="clave"><strong>Lo importante</strong><ul>${n.clave.map((c) => `<li>${e(c)}</li>`).join("")}</ul></aside>` : ""}
 ${n.actualizaciones?.length ? n.actualizaciones.map((a) => `<section class="upd"><p class="upd-tit">Actualización · <time datetime="${a.fecha}">${fechaLarga(a.fecha)}</time></p>${cuerpoHTML(a.bloques)}</section>`).join("") : ""}
 <div class="texto">${cuerpoHTML(n.cuerpo)}</div>
 ${n.ofertas?.length ? tablaOfertas(n) : ""}

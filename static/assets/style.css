@@ -412,3 +412,20 @@ main.wrap{padding-top:30px;padding-bottom:64px}
 .j-dlc-cat{font-size:1.05rem;margin:18px 0 4px}
 .j-dlc-cat small{color:var(--muted);font-weight:600;margin-left:4px}
 .j-dlc-mas summary{cursor:pointer;color:var(--link);font-size:.9rem;margin:4px 0}
+/* Formatos de nota */
+.formato{display:inline-block;font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:5px;margin-right:6px;vertical-align:1px;background:#2c2448;color:var(--link)}
+.formato-breve{background:#3b1d1d;color:#fca5a5}
+.formato-rumor{background:#3a3112;color:#fde68a}
+.formato-guia{background:#16321f;color:#86efac}
+.rumor{background:#211d10;border:1px solid #5c4d14;border-radius:12px;padding:14px 18px;margin:0 0 26px}
+.rumor-tit{margin:0 0 8px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.rumor-tit strong{color:#fde68a}
+.conf{font-size:.75rem;font-weight:800;padding:2px 8px;border-radius:99px;background:#3a3112;color:#fde68a}
+.conf-alta{background:#16321f;color:#86efac}.conf-baja{background:#3b1d1d;color:#fca5a5}
+.rumor-cols{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.rumor h3{font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:0 0 4px}
+.rumor ul{margin:0;padding-left:1.1em}
+@media(max-width:600px){.rumor-cols{grid-template-columns:1fr}}
+ol.pasos{list-style:none;counter-reset:paso;padding:0}
+ol.pasos li{counter-increment:paso;position:relative;padding:10px 12px 10px 48px;margin-bottom:8px;background:var(--panel);border-radius:10px}
+ol.pasos li::before{content:counter(paso);position:absolute;left:12px;top:10px;width:24px;height:24px;border-radius:50%;background:var(--violet);color:#10111b;font-weight:800;font-size:.85rem;display:grid;place-items:center}
