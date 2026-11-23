@@ -1,0 +1,217 @@
+{
+  "clave": "doom the dark ages revelations",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019ea330-ae3a-710d-9158-8613939e8870",
+  "appid": "3469450",
+  "lanzamiento": "2026-07-07",
+  "desarrolladores": [
+    "id Software"
+  ],
+  "editores": [
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "Action",
+    "FPS",
+    "Demons",
+    "Dark Fantasy",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 2927,
+      "url": "https://store.steampowered.com/app/3469450/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 89,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/doom-the-dark-ages-revelations/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 220,
+      "url": "https://metacritic.com/game/doom-the-dark-ages-revelations/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 89,
+      "cantidad": 48,
+      "url": "https://opencritic.com/game/20955/doom-the-dark-ages-revelations"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "3017860",
+    "nombre": "DOOM: The Dark Ages"
+  },
+  "ediciones": [
+    {
+      "packageid": "1225685",
+      "nombre": "DOOM: The Dark Ages | Revelations",
+      "apps": [
+        {
+          "appid": "3469450",
+          "nombre": "DOOM: The Dark Ages | Revelations"
+        }
+      ],
+      "usd": 13.99,
+      "antes": 13.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1221725",
+      "nombre": "Edición Prémium de DOOM: The Dark Ages",
+      "apps": [
+        {
+          "appid": "3017860",
+          "nombre": "DOOM: The Dark Ages"
+        },
+        {
+          "appid": "3363940",
+          "nombre": "DOOM: The Dark Ages - Premium Content"
+        },
+        {
+          "appid": "3351240",
+          "nombre": "DOOM: The Dark Ages Digital Artbook and Soundtrack"
+        },
+        {
+          "appid": "3469450",
+          "nombre": "DOOM: The Dark Ages | Revelations"
+        }
+      ],
+      "usd": 48.99,
+      "antes": 48.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3017860": {
+      "usd": 34.99,
+      "gratis": false
+    },
+    "3351240": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "3363940": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "3469450": {
+      "usd": 13.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "EL INFIERNO SE CONGELA en DOOM: The Dark Ages | Revelations. El Slayer solo podrá salir de un brutal purgatorio encontrando nuevas fuerzas. Con niveles inéditos, nuevos demonios y la letal lanza de cadenas, también disponible en el Desgarratorio 3.0, Revelations abre una nueva dimensión de combate.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "7 JUL 2026",
+  "metacritic": null,
+  "nombreSteam": "DOOM: The Dark Ages | Revelations",
+  "acerca": [
+    [
+      "p",
+      "EL INFIERNO SE CONGELA en DOOM: The Dark Ages | Revelations, una nueva expansión de la campaña que presenta un nuevo y brutal capítulo de la saga del Slayer."
+    ],
+    [
+      "p",
+      "UN DESCENSO AL PURGATORIO"
+    ],
+    [
+      "p",
+      "Herido y traicionado, el Slayer se encuentra en un despiadado purgatorio del que solo podrá salir haciendo frente a verdades inquietantes y encontrando nuevas fuerzas con la ayuda de un misterioso aliado. Deberá liberarse de la prisión de su mente y luchar contra una abominación de los dioses para llevar a sus aliados a la senda de la libertad."
+    ],
+    [
+      "p",
+      "DOMINA UNA NUEVA DIMENSIÓN DE COMBATE"
+    ],
+    [
+      "p",
+      "Revelations incorpora niveles inéditos con nuevos rompecabezas, demonios y misterios que abren una nueva dimensión de combate. La letal lanza de cadenas ofrece un nuevo sistema de combate que premia la destreza con una mayor potencia y movilidad."
+    ],
+    [
+      "p",
+      "DESGARRATORIO 3.0"
+    ],
+    [
+      "p",
+      "El ansiado Desgarratorio 3.0 aumenta aún más la experiencia, con contenido descargable (3 mapas, demonios y armas mejoradas), así como una mayor personalización, una mejora del código de acceso y la posibilidad de guardar y cargar configuraciones predeterminadas."
+    ],
+    [
+      "p",
+      "MODO MASACRE"
+    ],
+    [
+      "p",
+      "Pon a prueba tu capacidad para aniquilar en el MODO MASACRE, un nuevo y eterno desafío disponible gratis para los jugadores de DOOM: The Dark Ages | Revelations. Supera rondas aleatorias de enemigos, jefes y arenas cada vez más exigentes para batir tus marcas y desbloquear artículos estéticos. Completa desafíos semanales para convertirte en el Slayer definitivo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/1f1e9fc7c9f3096fad4c16525c8574fa993fced4/ss_1f1e9fc7c9f3096fad4c16525c8574fa993fced4.600x338.jpg?t=1795203008",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/1f1e9fc7c9f3096fad4c16525c8574fa993fced4/ss_1f1e9fc7c9f3096fad4c16525c8574fa993fced4.1920x1080.jpg?t=1795203008"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9/ss_bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9.600x338.jpg?t=1795203008",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9/ss_bda6dfb9e99c92c5ca54d035925ef962b0dfd3f9.1920x1080.jpg?t=1795203008"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/5987384c0a60582a1861983af0b8fa9cc949426b/ss_5987384c0a60582a1861983af0b8fa9cc949426b.600x338.jpg?t=1795203008",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/5987384c0a60582a1861983af0b8fa9cc949426b/ss_5987384c0a60582a1861983af0b8fa9cc949426b.1920x1080.jpg?t=1795203008"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/e6ebac4995c1f817aa0e84b54e654fd3501ec7b7/ss_e6ebac4995c1f817aa0e84b54e654fd3501ec7b7.600x338.jpg?t=1795203008",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/e6ebac4995c1f817aa0e84b54e654fd3501ec7b7/ss_e6ebac4995c1f817aa0e84b54e654fd3501ec7b7.1920x1080.jpg?t=1795203008"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/11a281028fce729b2ee4ac1dba64c652bcb4c07e/ss_11a281028fce729b2ee4ac1dba64c652bcb4c07e.600x338.jpg?t=1795203008",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/11a281028fce729b2ee4ac1dba64c652bcb4c07e/ss_11a281028fce729b2ee4ac1dba64c652bcb4c07e.1920x1080.jpg?t=1795203008"
+    }
+  ],
+  "web": "https://slayersclub.bethesda.net/en",
+  "igdbIntentado": true,
+  "igdb": 405075,
+  "youtube": [
+    {
+      "id": "UKkd02ZEBOU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:53:11.125Z"
+}

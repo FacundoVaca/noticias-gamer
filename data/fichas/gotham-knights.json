@@ -1,0 +1,320 @@
+{
+  "clave": "gotham knights",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-5fa8-73df-8e9e-9b19b8b8333f",
+  "appid": "1496790",
+  "lanzamiento": "2022-05-18",
+  "desarrolladores": [
+    "Warner Bros",
+    "Warner Bros. Games Montreal | QLOC",
+    "QLOC",
+    "Warner Bros. Games Montréal",
+    "WB Games Montreal"
+  ],
+  "editores": [
+    "Warner Bros. Games Inc.",
+    "Warner Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment",
+    "WB Games Montreal",
+    "WB Games"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Action",
+    "Superhero",
+    "Online Co-Op",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 68,
+      "cantidad": 15805,
+      "url": "https://store.steampowered.com/app/1496790/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 66,
+      "cantidad": 26,
+      "url": "https://metacritic.com/game/gotham-knights/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 54,
+      "cantidad": 1099,
+      "url": "https://metacritic.com/game/gotham-knights/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 68,
+      "cantidad": 169,
+      "url": "https://opencritic.com/game/13348/gotham-knights"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "527688",
+      "nombre": "Gotham Knights",
+      "apps": [
+        {
+          "appid": "1496790",
+          "nombre": "Gotham Knights"
+        }
+      ],
+      "usd": 30,
+      "antes": 30,
+      "descuento": 0
+    },
+    {
+      "packageid": "752382",
+      "nombre": "Gotham Knights Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1496790",
+          "nombre": "Gotham Knights"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1496790": {
+      "usd": 30,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2074431",
+      "nombre": "Gotham Knights: Visionary Pack",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Batman ha muerto. La seguridad de Gotham depende ahora de Batgirl, Nightwing, Capucha Roja y Robin.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "21 OCT 2022",
+  "metacritic": null,
+  "nombreSteam": "Gotham Knights",
+  "acerca": [
+    [
+      "p",
+      "Batman ha muerto. Un submundo nuevo de criminales ha barrido las calles de Gotham City. La batfamilia, compuesta por Batgirl, Nightwing, Capucha Roja y Robin, deberá proteger Gotham, devolver la esperanza a sus ciudadanos, la disciplina a sus policías y el miedo a sus criminales."
+    ],
+    [
+      "p",
+      "Además de resolver los misterios que conectan los capítulos más oscuros de la historia de la ciudad y derrotar a famosos villanos en enfrentamientos épicos, deberás convertirte en el nuevo Caballero Oscuro y evitar que el caos se apodere de las calles."
+    ],
+    [
+      "p",
+      "Gotham Knights es un juego de rol y de acción en mundo abierto que se desarrolla en la versión más dinámica e interactiva de Gotham City. Tanto si juegas en solitario como con otro héroe, patrulla los cinco distritos de Gotham y detén cualquier actividad criminal que encuentres en tu camino."
+    ],
+    [
+      "p",
+      "Tu legado comienza aquí. Sigue los pasos del caballero."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K (3.7 GHz) OR AMD Ryzen 5 3600 (3.60 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660 Ti OR AMD Radeon RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / Low Quality Settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700K (3.8 GHz) or AMD Ryzen 5 5600X (3.7 GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2070 or AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / High Quality Settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_e1f659f60ca72876efc5fc65d51a85adf1a94d82.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_e1f659f60ca72876efc5fc65d51a85adf1a94d82.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_6a31dc8e453dcedb0dd9a32590331c32638c0212.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_6a31dc8e453dcedb0dd9a32590331c32638c0212.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_996d4fa00226f51d973261ac1d4b85a809ba653b.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_996d4fa00226f51d973261ac1d4b85a809ba653b.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_f5567a2180f934c64cc67c485b233893dc303c5e.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_f5567a2180f934c64cc67c485b233893dc303c5e.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_b7fb5e8a081efaf705367c70b6effe344910696f.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_b7fb5e8a081efaf705367c70b6effe344910696f.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_7447e5e9d6a9a81da1ca2f3d3621561520f3c703.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_7447e5e9d6a9a81da1ca2f3d3621561520f3c703.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_983e3170140545faf3c6ebce65b56795d3fdcd32.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_983e3170140545faf3c6ebce65b56795d3fdcd32.1920x1080.jpg?t=1793898273"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_24d1f8d8d6feac32aa38079a3ce94dac4b022bf0.600x338.jpg?t=1793898273",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496790/ss_24d1f8d8d6feac32aa38079a3ce94dac4b022bf0.1920x1080.jpg?t=1793898273"
+    }
+  ],
+  "igdbIntentado": true,
+  "igdb": 136993,
+  "youtube": [
+    {
+      "id": "Np-QRdUTkSs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "dCsptWe21uE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "hWJB4RRwhqQ",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "sFtYcS3DPfM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:49:36.631Z"
+}

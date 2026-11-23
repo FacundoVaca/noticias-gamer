@@ -185,10 +185,12 @@ ${faqHtml({ nombre: "cada tienda" })}`;
     for (const f of fichasJuego.values()) {
       const i = fichas[f.clave];
       if (i?.appid) porAppid.set(String(i.appid), f);
+      for (const g of f.ofertas) if (g.tienda === "xbox") porAppid.set(`x:${String(g.id).split(":")[1]}`, f);
     }
     for (const f of fichasJuego.values()) {
-      const b = fichas[f.clave]?.juegoBase?.appid;
-      if (fichas[f.clave]?.tipo === "dlc" && b) (dlcDe.get(String(b)) || dlcDe.set(String(b), []).get(String(b))).push(f);
+      const jb = fichas[f.clave]?.juegoBase;
+      const b = jb?.appid ? String(jb.appid) : jb?.xbox ? `x:${jb.xbox}` : null;
+      if (fichas[f.clave]?.tipo === "dlc" && b) (dlcDe.get(b) || dlcDe.set(b, []).get(b)).push(f);
     }
     for (const f of fichasJuego.values()) {
       const ofertas = f.ofertas.slice().sort((a, b) => ORDEN.indexOf(a.tienda) - ORDEN.indexOf(b.tienda));
@@ -199,7 +201,10 @@ ${faqHtml({ nombre: "cada tienda" })}`;
       const tiendas = [...new Set(ofertas.map((g) => TIENDAS_INFO[g.tienda].nombre))];
       const plataformas = [...new Set(ofertas.flatMap((g) => g.plataformas || []))];
       const esDlc = info.tipo === "dlc" || ofertas.every((g) => g.extra?.dlc);
-      const base = esDlc && info.juegoBase?.appid ? { ...info.juegoBase, ficha: porAppid.get(String(info.juegoBase.appid)) || null } : null;
+      const claveBase = info.juegoBase?.appid ? String(info.juegoBase.appid) : info.juegoBase?.xbox ? `x:${info.juegoBase.xbox}` : null;
+      const fichaBase = claveBase ? porAppid.get(claveBase) || null : null;
+      const base = esDlc && claveBase ? { ...info.juegoBase, nombre: info.juegoBase.nombre || fichaBase?.ofertas[0]?.titulo || null, ficha: fichaBase,
+        enlace: info.juegoBase.appid ? `https://store.steampowered.com/app/${info.juegoBase.appid}/` : `https://www.xbox.com/es-AR/games/store/juego/${info.juegoBase.xbox}` } : null;
       const infoBase = base?.ficha ? fichas[base.ficha.clave] || {} : {};
       // Un DLC solo cuenta con datos propios si su descripción no es la misma del juego base
       const tieneInfo = !(esDlc && info.descripcion && info.descripcion === infoBase.descripcion) && !!(info.descripcion || (info.desarrolladores?.length && (info.lanzamiento || info.lanzamientoTexto)));
@@ -230,6 +235,7 @@ ${faqHtml({ nombre: "cada tienda" })}`;
       ].filter(Boolean);
       const steamR = info.resenasSteam;
       const resenas = [
+        info.resenaXbox ? `<b>${e(info.resenaXbox.fuente)}:</b> ${String(Math.round(info.resenaXbox.puntaje * 10) / 10).replace(".", ",")}/5 (${Number(info.resenaXbox.cantidad).toLocaleString("es-AR")} valoraciones)` : "",
         steamR ? `<b>Usuarios de Steam:</b> ${e(steamR.texto || "")}${steamR.texto ? ", " : ""}${Math.round(steamR.positivas / steamR.total * 100)}% positivas de ${Number(steamR.total).toLocaleString("es-AR")} reseñas` : "",
         ...(info.resenas || []).filter((r) => r.puntaje != null && !(steamR && /^steam$/i.test(r.fuente))).slice(0, 3)
           .map((r) => `<b>${e(r.fuente)}:</b> ${e(String(r.puntaje))}${/steam/i.test(r.fuente) ? "% positivas" : "/100"}${r.cantidad ? ` (${Number(r.cantidad).toLocaleString("es-AR")} reseñas)` : ""}`),
@@ -252,9 +258,9 @@ ${faqHtml({ nombre: "cada tienda" })}`;
       const capturas = (info.capturas || []).filter((c) => /^https:\/\//.test(c.chica) && /^https:\/\//.test(c.grande));
       const req = hayPC && info.requisitos ? info.requisitos : null;
       const reqLista = (items) => `<ul>${items.map(([k, v]) => `<li>${k ? `<b>${e(k)}:</b> ` : ""}${e(v)}</li>`).join("")}</ul>`;
-      const acerca = info.descripcion || datosJuego.length > 1 ? `<section class="j-acerca" aria-labelledby="j-acerca-tit">
+      const acerca = info.descripcion || info.resumenEn || datosJuego.length > 1 ? `<section class="j-acerca" aria-labelledby="j-acerca-tit">
 <h2 id="j-acerca-tit">Sobre ${e(nombre)}</h2>
-${info.descripcion ? `<p class="j-lead">${e(info.descripcion)}</p>` : ""}
+${info.descripcion ? `<p class="j-lead">${e(info.descripcion)}</p>` : info.resumenEn ? `<p class="j-lead" lang="en">${e(info.resumenEn)}</p><p class="mini">Resumen en inglés de IGDB: todavía no tenemos una descripción en español de una tienda.</p>` : ""}
 ${datosJuego.length ? `<dl class="j-ficha">${datosJuego.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl>` : ""}
 ${resenas.length ? `<ul class="j-resenas">${resenas.map((r) => `<li>${r}</li>`).join("")}</ul>` : ""}
 ${info.etiquetas?.length ? `<p class="o-chips">${info.etiquetas.map((t) => `<span class="o-plat">${e(t)}</span>`).join("")}</p>` : ""}
@@ -265,7 +271,7 @@ ${acercaLargo ? `<details class="j-mas"><summary>Leer la descripción completa</
 <div class="j-galeria">${capturas.map((c, n) => `<a href="${e(c.grande)}" target="_blank" rel="noopener"><img src="${e(c.chica)}" alt="Captura de ${e(nombre)} (${n + 1})" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a>`).join("")}</div>
 </section>` : "";
       const caract = info.caracteristicas?.length || idiomasOrd.length ? `<section class="j-car">
-${info.caracteristicas?.length ? `<div><h2>Características${deSteamPC}</h2><ul class="j-lista">${info.caracteristicas.map((c) => `<li>${e(c)}</li>`).join("")}</ul></div>` : ""}
+${info.caracteristicas?.length ? `<div><h2>Características${info.caracteristicasDe === "Xbox" ? " (Xbox)" : deSteamPC}</h2><ul class="j-lista">${info.caracteristicas.map((c) => `<li>${e(c)}</li>`).join("")}</ul></div>` : ""}
 ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${idiomasOrd.map((x) => `<li${/^español/i.test(x.nombre) ? ' class="es"' : ""}>${e(x.nombre)}${x.voces ? ' <span class="voz">con voces</span>' : ""}</li>`).join("")}</ul><p class="mini">${idiomasOrd.some((x) => /^español/i.test(x.nombre)) ? "" : "<b>No tiene textos en español</b> según Steam. "}Todos con textos en pantalla; "con voces" indica audio completo en ese idioma.</p></div>` : ""}
 </section>` : "";
       const requis = req && (req.minimo || req.recomendado) ? `<section class="j-req" aria-labelledby="j-req-tit">
@@ -283,15 +289,19 @@ ${idiomasOrd.length ? `<div><h2>Idiomas${deSteamPC}</h2><ul class="j-idiomas">${
       // DLC y expansiones del juego: primero los que tienen ficha (en oferta), después el resto de la lista de Steam
       // Formato anterior guardaba el texto de Steam ("$11.99", siempre en dólares en Argentina)
       const precioDlc = (d) => d.usd ?? (d.precio && /\d/.test(d.precio) ? +d.precio.replace(/[^\d.,]/g, "").replace(",", ".") : null);
-      const conFicha = !esDlc && info.appid ? (dlcDe.get(String(info.appid)) || []) : [];
+      const conFicha = !esDlc ? [...new Set([...(info.appid ? dlcDe.get(String(info.appid)) || [] : []),
+        ...f.ofertas.filter((g) => g.tienda === "xbox").flatMap((g) => dlcDe.get(`x:${String(g.id).split(":")[1]}`) || [])])] : [];
+      const xboxEnFicha = new Set(conFicha.flatMap((d) => d.ofertas.filter((g) => g.tienda === "xbox").map((g) => String(g.id).split(":")[1])));
+      const otrosXbox = !esDlc ? (info.dlcXbox || []).filter((d) => !xboxEnFicha.has(d.id)) : [];
       const yaListados = new Set(conFicha.map((d) => String(fichas[d.clave]?.appid)));
       const otros = !esDlc ? (info.dlcLista || []).filter((d) => !yaListados.has(d.appid)) : [];
-      const dlcSec = conFicha.length || otros.length ? `<section class="j-dlc" aria-labelledby="j-dlc-tit">
+      const dlcSec = conFicha.length || otros.length || otrosXbox.length ? `<section class="j-dlc" aria-labelledby="j-dlc-tit">
 <h2 id="j-dlc-tit">DLC y expansiones</h2>
 <p class="mini">Cada uno se compra aparte y requiere ${e(nombre)}. Sus precios no están incluidos en el del juego.</p>
 <ul class="j-dlc-lista">
 ${conFicha.map((d) => { const o = d.ofertas[0]; return `<li><a href="${d.url}">${e(o.titulo)}</a><span class="j-dlc-p"><span class="j-dlc-t">${d.ofertas.map((x) => TIENDAS_INFO[x.tienda].nombre).filter((v, i, a) => a.indexOf(v) === i).join(", ")}</span>${o.gratis ? "Gratis" : fmtOrig(o.precio, o.moneda)}${o.descuento ? ` <span class="o-desc">-${o.descuento}%</span>` : ""}</span></li>`; }).join("")}
 ${otros.map((d) => `<li><a href="https://store.steampowered.com/app/${e(d.appid)}/" rel="nofollow noopener" target="_blank">${e(d.nombre)}</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>${d.gratis ? "Gratis" : precioDlc(d) != null ? `${fmtUsd(precioDlc(d))}${d.descuento ? ` <span class="o-desc">-${d.descuento}%</span>` : ""}` : ""}</span></li>`).join("")}
+${otrosXbox.map((d) => `<li><a href="https://www.xbox.com/es-AR/games/store/dlc/${e(d.id)}" rel="nofollow noopener" target="_blank">${e(d.nombre)}</a><span class="j-dlc-p"><span class="j-dlc-t">Xbox, sin impuestos</span>${d.ars === 0 ? "Gratis" : d.ars != null ? `${fmt(d.ars)}${d.antes ? ` <s>${fmt(d.antes)}</s>` : ""}` : ""}</span></li>`).join("")}
 </ul>
 ${otros.length ? `<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.${info.dlcTotal > (info.dlcLista || []).length ? ` Hay ${info.dlcTotal} en total: <a href="https://store.steampowered.com/dlc/${e(info.appid)}/" rel="nofollow noopener" target="_blank">ver todos en Steam</a>.` : ""}</p>` : ""}
 </section>` : "";
@@ -336,7 +346,7 @@ ${comparar(ed)}</div>`).join("")}</div>
 <div class="j-img"><img src="${e(imagen || "/assets/portada.svg")}" alt="${e(nombre)}" referrerpolicy="no-referrer" width="460" height="215"></div>
 <div class="j-info">
 ${esDlc ? `<p class="j-tipo">Contenido descargable (DLC)</p>` : ""}<h1>${e(nombre)}</h1>
-${base ? `<p class="j-requiere"><b>Requiere el juego base:</b> ${base.ficha ? `<a href="${base.ficha.url}">${e(base.nombre || "ver juego")}</a>` : `<a href="https://store.steampowered.com/app/${e(base.appid)}/" rel="nofollow noopener" target="_blank">${e(base.nombre || "ver en Steam")}</a>`}. Este precio es solo del DLC.</p>` : esDlc ? `<p class="j-requiere">Es un contenido descargable: necesitás el juego base para usarlo. Este precio es solo del DLC.</p>` : ""}
+${base ? `<p class="j-requiere"><b>Requiere el juego base:</b> ${base.ficha ? `<a href="${base.ficha.url}">${e(base.nombre || "ver juego")}</a>` : `<a href="${e(base.enlace)}" rel="nofollow noopener" target="_blank">${e(base.nombre || "ver el juego en la tienda")}</a>`}. Este precio es solo del DLC.</p>` : esDlc ? `<p class="j-requiere">Es un contenido descargable: necesitás el juego base para usarlo. Este precio es solo del DLC.</p>` : ""}
 <p class="j-sub">${ofertas.length > 1 ? `En oferta en ${lista(tiendas)}. Compará el precio de cada tienda en pesos con impuestos.` : `En oferta en ${tiendas[0]}.`}</p>
 <ul class="j-ofertas">
 ${filasOferta}

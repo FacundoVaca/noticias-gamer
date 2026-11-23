@@ -1,0 +1,420 @@
+{
+  "clave": "roadcraft",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019170e4-bb8f-70c4-8c43-2585b526a2a6",
+  "appid": "2104890",
+  "lanzamiento": "2025-01-28",
+  "desarrolladores": [
+    "Saber Interactive"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Building",
+    "Driving",
+    "Physics",
+    "Online Co-Op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 13838,
+      "url": "https://store.steampowered.com/app/2104890/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/roadcraft/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 49,
+      "url": "https://metacritic.com/game/roadcraft/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 78,
+      "url": "https://opencritic.com/game/18563/roadcraft"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1226113",
+      "nombre": "RoadCraft - Standard Edition",
+      "apps": [
+        {
+          "appid": "2104890",
+          "nombre": "RoadCraft"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1573828",
+      "nombre": "RoadCraft - 1-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "2104890",
+          "nombre": "RoadCraft"
+        },
+        {
+          "appid": "3470730",
+          "nombre": "RoadCraft - Rebuild Expansion"
+        },
+        {
+          "appid": "4159460",
+          "nombre": "RoadCraft - Reclaim Expansion"
+        },
+        {
+          "appid": "4511610",
+          "nombre": "RoadCraft – Crawler Pack"
+        },
+        {
+          "appid": "3470710",
+          "nombre": "RoadCraft – Invictus Type A Scout"
+        },
+        {
+          "appid": "4124160",
+          "nombre": "RoadCraft – Timberworks Pack"
+        }
+      ],
+      "usd": 35.99,
+      "antes": 35.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2104890": {
+      "usd": 23.99,
+      "gratis": false
+    },
+    "3470710": {
+      "usd": 35.99,
+      "gratis": false
+    },
+    "3470730": {
+      "usd": 8.99,
+      "gratis": false
+    },
+    "4124160": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4159460": {
+      "usd": 8.99,
+      "gratis": false
+    },
+    "4511610": {
+      "usd": 3.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "5075700",
+      "nombre": "RoadCraft - Foundations Expansion",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4511610",
+      "nombre": "RoadCraft – Crawler Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "4159460",
+      "nombre": "RoadCraft - Reclaim Expansion",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4124160",
+      "nombre": "RoadCraft – Timberworks Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3470730",
+      "nombre": "RoadCraft - Rebuild Expansion",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2806770",
+      "nombre": "RoadCraft – Aramatsu Bowhead 20T",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3510890",
+      "nombre": "RoadCraft - 4K Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3470710",
+      "nombre": "RoadCraft – Invictus Type A Scout",
+      "gratis": false,
+      "usd": 35.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Diriges una empresa que restaura lugares devastados por desastres naturales. Utiliza tu maquinaria para reactivar la industria local; limpia escombros y equipos defectuosos, reconstruye carreteras y puentes dañados por el mal tiempo, ¡y mucho más!",
+  "generos": [
+    "Aventura",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "20 MAY 2025",
+  "metacritic": null,
+  "nombreSteam": "RoadCraft",
+  "acerca": [
+    [
+      "p",
+      "Diriges una empresa que restaura lugares devastados por desastres naturales. Utiliza tu maquinaria para reactivar la industria local; limpia escombros y equipos defectuosos, reconstruye carreteras y puentes dañados por el mal tiempo, ¡y mucho más!"
+    ],
+    [
+      "p",
+      "Diriges una empresa de recuperación de catástrofes, especializada en restaurar lugares devastados por catástrofes naturales. Te aguardan numerosas tareas para reactivar la industria local con la ayuda de tu maquinaria pesada: limpiar escombros, sustituir equipos defectuosos o reconstruir carreteras y puentes dañados por el mal tiempo. Despliega convoyes de recursos para producir nuevos materiales de reconstrucción, ¡y mucho más!"
+    ],
+    [
+      "p",
+      "Experimenta una simulación de nueva generación con el nuevo motor desarrollado por Saber Interactive, los creadores de MudRunner y SnowRunner. Cada objeto tiene una física realista, que tiene en cuenta su masa y tamaño. Interactúa con elementos como arena, madera y asfalto. Remodela el terreno y facilita el movimiento de tus vehículos con las carreteras recién construidas."
+    ],
+    [
+      "p",
+      "Cada máquina tiene su propio comportamiento. Utiliza tu buldócer para quitar obstáculos, tu transportador pesado para llevar varios vehículos a la vez, o tus grúas fijas o puentes-grúa para levantar contenedores y equipos. Reconecta una fábrica a la red eléctrica con tu cableadora, pon asfalto caliente con tu pavimentadora y aplánalo con el vehículo de rodillo para crear tus propias carreteras. Desbloquea más de 40 vehículos a medida que avanzas en la campaña narrativa. Visita tu taller para personalizar tus máquinas con el logotipo de la empresa y volver a pintarlas con tus colores personalizados."
+    ],
+    [
+      "p",
+      "Las catástrofes han sembrado el caos, cortando el acceso a muchas zonas afectadas. Tú eres la última esperanza para hacer frente a estas condiciones extremas. Ya sea en las montañas, en el corazón del desierto o junto al mar, ¡tu pericia es necesaria en todo el mundo! Explora 8 mapas exclusivos, cada uno de 4 km², con sus propios biomas y edificios. Elige tu itinerario a través de fábricas abandonadas, presas sumergidas o campos solares fuera de servicio. Busca en cada rincón para alcanzar tus objetivos y consigue nuevos contratos para ganar financiación y puntos de experiencia adicionales."
+    ],
+    [
+      "p",
+      "Recoge restos de madera, acero y cemento y transfórmalos en componentes en tus plantas de reciclaje, ¡cualquier trozo de escombro puede servir para la reconstrucción! Abastece fábricas y canteras de arena para producir recursos en masa. Como director de operaciones, traza las rutas en el mapa para tus camiones de transporte y asegúrate de que ningún obstáculo les bloquea el camino."
+    ],
+    [
+      "p",
+      "El mundo de RoadCraft ofrece muchas actividades. ¿Por qué no completarlas con tus amigos? Organiza una sesión cooperativa de hasta 4 jugadores. Repartíos las tareas o concentraos juntos en un único objetivo. Combinad vuestras fuerzas e ingenio para encontrar soluciones, incluso las más inesperadas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (18362 min)/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1500X / Intel Core i5-8400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "6 GB VRAM, AMD Radeon RX 590 / Nvidia GeForce GTX 1060 / Intel ARC A580"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required / 30 FPS in 1920x1080 with \"Low\" preset."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (18362 min)/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 5800X / Intel Core i5-12600K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB VRAM, AMD Radeon RX 6600 XT / Nvidia GeForce RTX 3060 / Intel ARC B580"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required. 60 FPS in 1920x1080 with the \"High\" preset."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_e165ec22c60612162e66de2c71206134cb2334e2.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_e165ec22c60612162e66de2c71206134cb2334e2.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_963ec7cdc6c0f83d19506ac205eb3dfb76ec7b79.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_963ec7cdc6c0f83d19506ac205eb3dfb76ec7b79.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f78e7fbb3d1bf41243f54eab586ccbd18f1e90.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_62f78e7fbb3d1bf41243f54eab586ccbd18f1e90.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_22ee663d1f8635cda4abb08ef9490c7e9bac63df.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_22ee663d1f8635cda4abb08ef9490c7e9bac63df.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_94c63d1a8326239692d9cdede69373bf73a90b43.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_94c63d1a8326239692d9cdede69373bf73a90b43.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_fddc14ec8fb8c3b35f3ce103e085c871ee801c0b.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_fddc14ec8fb8c3b35f3ce103e085c871ee801c0b.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_5b48c4db8c3015d806a479f9225f58ac9b4d6097.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_5b48c4db8c3015d806a479f9225f58ac9b4d6097.1920x1080.jpg?t=1793725507"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_ffbb319ee4b154d7529c77a2d944c92958e7744e.600x338.jpg?t=1793725507",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104890/ss_ffbb319ee4b154d7529c77a2d944c92958e7744e.1920x1080.jpg?t=1793725507"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/roadcraft",
+  "igdbIntentado": true,
+  "igdb": 314239,
+  "youtube": [
+    {
+      "id": "7ldax1af5Wk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Ajbx_1Sk1Wo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LPmCz4ilKmk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "N69C6m3k9OU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:53:50.408Z"
+}

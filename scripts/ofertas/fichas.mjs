@@ -10,7 +10,7 @@ import { leerJSON, guardarJSON, ruta, log, decodificar } from "../lib/util.mjs";
 
 const CARPETA = ruta("data", "fichas");
 const VIEJO = ruta("data", "fichas.json"); // formato anterior: un solo archivo
-const VERSION = 5; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
+const VERSION = 6; // subir cuando se agregan datos nuevos, para volver a consultar todo de a poco
 const VIGENCIA_MS = 30 * 864e5;
 const REINTENTO_MS = 3 * 864e5; // si no se encontró nada, se vuelve a probar a los 3 días
 const MAX_POR_CORRIDA = 150;
@@ -210,10 +210,67 @@ async function igdbVideos({ appid, titulo, clave }) {
   }
   if (!juego) return null;
   const v = await igdb("game_videos", `fields name, video_id; where game = ${juego}; limit 8;`) || [];
+  const [g] = await igdb("games", `fields summary, first_release_date, genres.name, involved_companies.company.name, involved_companies.developer, involved_companies.publisher, screenshots.image_id; where id = ${juego};`) || [];
+  const comp = (rol) => (g?.involved_companies || []).filter((c) => c[rol] && c.company?.name).map((c) => c.company.name);
+  const info = g ? {
+    resumenEn: g.summary || null,
+    lanzamiento: g.first_release_date ? new Date(g.first_release_date * 1000).toISOString().slice(0, 10) : null,
+    generosEn: (g.genres || []).map((x) => x.name).filter(Boolean),
+    desarrolladores: comp("developer"), editores: comp("publisher"),
+    capturas: (g.screenshots || []).filter((x) => /^\w+$/.test(x.image_id || "")).slice(0, 8).map((x) => ({
+      chica: `https://images.igdb.com/igdb/image/upload/t_screenshot_med/${x.image_id}.jpg`,
+      grande: `https://images.igdb.com/igdb/image/upload/t_1080p/${x.image_id}.jpg` })),
+  } : null;
   const videos = v.filter((x) => /^[\w-]{11}$/.test(x.video_id || "")).map((x) => ({ id: x.video_id, nombre: x.name || null }))
     // primero tráileres y gameplay
     .sort((a, b) => /trailer|gameplay/i.test(b.nombre || "") - /trailer|gameplay/i.test(a.nombre || "")).slice(0, 4);
-  return { igdb: juego, videos };
+  return { igdb: juego, videos, info };
+}
+
+// ---------- Xbox: catálogo público de Microsoft Store (el mismo que usa xbox.com) ----------
+const XBOX_CAR = { XblOnlineMultiPlayer: "Multijugador en línea", XblLocalMultiPlayer: "Multijugador local", XblOnlineCoop: "Cooperativo en línea",
+  XblLocalCoop: "Cooperativo local", XblCrossPlatformMultiPlayer: "Juego cruzado entre plataformas", XblAchievements: "Logros de Xbox",
+  XblCloudSaves: "Guardado en la nube", SinglePlayer: "Un jugador", "4k": "4K Ultra HD", Hdr: "HDR10", XboxLive: "Xbox Network",
+  RayTracing: "Trazado de rayos", "60fps": "60 FPS", "120fps": "120 FPS", SmartDelivery: "Entrega inteligente (Smart Delivery)", CapabilityXboxEnhanced: "Mejorado para Xbox Series X|S" };
+async function xboxProductos(ids) {
+  const r = await pedir(`https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${ids.map(encodeURIComponent).join(",")}&market=AR&languages=es-AR,es-MX,en-US`);
+  return r?.Products || [];
+}
+const xboxPrecio = (p) => {
+  const a = (p.DisplaySkuAvailabilities || []).flatMap((d) => d.Availabilities || []).find((x) => x.Actions?.includes("Purchase") && x.OrderManagementData?.Price);
+  const pr = a?.OrderManagementData?.Price;
+  return pr && pr.CurrencyCode === "ARS" ? { ars: pr.ListPrice, antes: pr.MSRP > pr.ListPrice ? pr.MSRP : null } : null;
+};
+async function xboxDetalle(id) {
+  const [p] = await xboxProductos([id]);
+  if (!p) return null;
+  const L = p.LocalizedProperties?.[0] || {}, M = p.MarketProperties?.[0] || {};
+  const parrafos = String(L.ProductDescription || "").split(/\r?\n+/).map((x) => x.trim()).filter((x) => x.length > 1);
+  const uso = (M.UsageData || []).find((u) => u.AggregateTimeSpan === "AllTime");
+  const rel = p.MarketProperties?.[0]?.RelatedProducts || [];
+  const addons = rel.filter((x) => /AddOn/i.test(x.RelationshipType)).map((x) => x.RelatedProductId).slice(0, 20);
+  let dlcLista = null;
+  if (addons.length) {
+    try {
+      dlcLista = (await xboxProductos(addons)).map((d) => ({ id: d.ProductId, nombre: d.LocalizedProperties?.[0]?.ProductTitle || null, ...(xboxPrecio(d) || {}) }))
+        .filter((d) => d.nombre);
+    } catch (err) { log(`DLC Xbox ${id}: ${err.message}`); }
+  }
+  return {
+    tipo: /durable|consumable/i.test(p.ProductKind || "") ? "dlc" : "juego",
+    juegoBase: (() => { const b = rel.find((x) => /Parent/i.test(x.RelationshipType)); return b ? { xbox: b.RelatedProductId, nombre: null } : null; })(),
+    descripcion: (L.ShortDescription || parrafos[0] || "").trim() || null,
+    acerca: parrafos.length > 1 ? parrafos.slice(0, 30).map((x) => ["p", x]) : null,
+    desarrolladores: L.DeveloperName ? [L.DeveloperName] : [],
+    editores: L.PublisherName ? [L.PublisherName] : [],
+    lanzamiento: /^\d{4}-\d\d-\d\d/.test(M.OriginalReleaseDate || "") && !M.OriginalReleaseDate.startsWith("1753") ? M.OriginalReleaseDate.slice(0, 10) : null,
+    generos: p.Properties?.Categories?.length ? p.Properties.Categories : p.Properties?.Category ? [p.Properties.Category] : [],
+    caracteristicas: (p.Properties?.Attributes || []).map((a) => XBOX_CAR[a.Name]).filter(Boolean),
+    capturas: (L.Images || []).filter((i) => i.ImagePurpose === "Screenshot" && i.Uri).slice(0, 8)
+      .map((i) => { const u = i.Uri.startsWith("//") ? "https:" + i.Uri : i.Uri; return { chica: `${u}?w=600`, grande: `${u}?w=1600` }; }),
+    resena: uso?.RatingCount ? { fuente: "Usuarios de Microsoft Store", puntaje: uso.AverageRating, cantidad: uso.RatingCount, escala: 5 } : null,
+    dlcLista,
+  };
 }
 
 async function consultar(grupo, key) {
@@ -253,11 +310,43 @@ async function consultar(grupo, key) {
     } catch (err) { log(`Ficha Steam ${appid}: ${err.message}`); }
     await pausa(1500); // la tienda de Steam limita las consultas seguidas
   }
+  // Xbox: completa lo que Steam no trajo (juegos solo de consola, DLC de Xbox y su lista de complementos)
+  const xb = grupo.find((g) => g.tienda === "xbox");
+  if (xb) {
+    try {
+      const x = await xboxDetalle(String(xb.id).split(":")[1]);
+      f.xboxIntentado = true;
+      if (x) {
+        f.fuentes.push("Microsoft Store");
+        const vacio = (k) => f[k] == null || (Array.isArray(f[k]) && !f[k].length);
+        if (!f.fuentes.includes("Steam")) {
+          for (const k of ["descripcion", "acerca", "generos", "capturas"]) if (vacio(k) && x[k] && (!Array.isArray(x[k]) || x[k].length)) f[k] = x[k];
+          if (vacio("caracteristicas") && x.caracteristicas.length) { f.caracteristicas = x.caracteristicas; f.caracteristicasDe = "Xbox"; }
+          if (!f.tipo) f.tipo = x.tipo;
+          if (x.juegoBase && !f.juegoBase) f.juegoBase = x.juegoBase;
+        }
+        for (const k of ["desarrolladores", "editores"]) if (vacio(k) && x[k].length) f[k] = x[k];
+        if (!f.lanzamiento && x.lanzamiento) f.lanzamiento = x.lanzamiento;
+        if (x.resena) f.resenaXbox = x.resena;
+        if (x.dlcLista?.length) f.dlcXbox = x.dlcLista;
+        f.xbox = String(xb.id).split(":")[1];
+      }
+    } catch (err) { log(`Ficha Xbox ${xb.id}: ${err.message}`); }
+    await pausa(400);
+  }
   if (process.env.IGDB_CLIENT_ID && process.env.IGDB_CLIENT_SECRET && !igdbApagado) {
     try {
       const r = await igdbVideos({ appid, titulo: grupo[0].titulo, clave: grupo.clave });
       f.igdbIntentado = true;
-      if (r) { f.igdb = r.igdb; if (r.videos.length) f.youtube = r.videos; f.fuentes.push("IGDB"); }
+      if (r) {
+        f.igdb = r.igdb; if (r.videos.length) f.youtube = r.videos; f.fuentes.push("IGDB");
+        // Datos de IGDB solo donde no hay otra fuente (sobre todo juegos de PlayStation que no están en Steam ni Xbox)
+        const i = r.info || {};
+        const vacio = (k) => f[k] == null || (Array.isArray(f[k]) && !f[k].length);
+        for (const k of ["desarrolladores", "editores", "capturas", "lanzamiento"]) if (vacio(k) && i[k] && (!Array.isArray(i[k]) || i[k].length)) f[k] = i[k];
+        if (vacio("generos") && i.generosEn?.length) f.generos = i.generosEn;
+        if (!f.descripcion && i.resumenEn) f.resumenEn = i.resumenEn;
+      }
     } catch (err) {
       log(`IGDB "${grupo[0].titulo}": ${err.message}`);
       if (/HTTP (400|401|403)/.test(err.message)) igdbApagado = true; // credenciales o consulta inválidas: no insistir
@@ -294,7 +383,8 @@ export async function actualizarFichas(juegos) {
   }
   const ahora = Date.now();
   const conIgdb = !!(process.env.IGDB_CLIENT_ID && process.env.IGDB_CLIENT_SECRET);
-  const vencida = (f) => !f || (f.v || 1) < VERSION || (conIgdb && !f.igdbIntentado) || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
+  // Versión 6 suma Xbox e IGDB: solo hace falta volver a consultar las fichas que no tienen datos de Steam
+  const vencida = (f) => !f || (f.v || 1) < 5 || ((f.v || 1) < VERSION && !f.fuentes?.includes("Steam")) || (conIgdb && !f.igdbIntentado) || ahora - new Date(f.consultado).getTime() > (f.fuentes?.length ? VIGENCIA_MS : REINTENTO_MS);
   // Primero los que tienen oferta en Steam (traen más datos) y los que nunca se consultaron
   const pendientes = [...grupos.values()].filter((gr) => vencida(cache[gr.clave]))
     .sort((a, b) => (!!cache[a.clave] - !!cache[b.clave]) || (b.some((g) => g.tienda === "steam") - a.some((g) => g.tienda === "steam")))

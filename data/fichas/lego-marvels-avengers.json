@@ -1,0 +1,394 @@
+{
+  "clave": "lego marvels avengers",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f9be-73a4-975f-48252b9e3cea",
+  "appid": "405310",
+  "lanzamiento": "2016-01-26",
+  "desarrolladores": [
+    "Traveller's Tales",
+    "TT Games",
+    "Feral Interactive (Mac)"
+  ],
+  "editores": [
+    "Warner Bros. Interactive Entertainment",
+    "Warner Bros. Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Games Inc.",
+    "Feral Interactive (Mac)",
+    "TT Games",
+    "WB Games"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Superhero",
+    "Adventure",
+    "Multiplayer",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 6079,
+      "url": "https://store.steampowered.com/app/405310/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 64,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/lego-marvels-avengers/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 72,
+      "cantidad": 364,
+      "url": "https://metacritic.com/game/lego-marvels-avengers/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 70,
+      "cantidad": 73,
+      "url": "https://opencritic.com/game/1606/lego-marvels-avengers"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "79604",
+      "nombre": "LEGO Marvel's Avengers",
+      "apps": [
+        {
+          "appid": "405310",
+          "nombre": "LEGO® MARVEL's Avengers"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "87894",
+      "nombre": "LEGO Marvel's Avengers Deluxe Edition",
+      "apps": [
+        {
+          "appid": "405310",
+          "nombre": "LEGO® MARVEL's Avengers"
+        },
+        {
+          "appid": "426860",
+          "nombre": "LEGO® MARVEL's Avengers Season Pass"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "405310": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "426860": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "418220",
+      "nombre": "LEGO® MARVEL's Avengers - The Avengers Explorer Character Pack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "418221",
+      "nombre": "LEGO® MARVEL's Avengers - The Avengers Adventurer Character Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "422480",
+      "nombre": "LEGO® MARVEL's Avengers - The Thunderbolts Character Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "426860",
+      "nombre": "LEGO® MARVEL's Avengers Season Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "439500",
+      "nombre": "LEGO® MARVEL's Avengers DLC - The Masters of Evil Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "439501",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Classic Captain Marvel Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "446520",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Marvel’s Captain America: Civil War Character Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "449390",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Classic Black Panther Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "449391",
+      "nombre": "LEGO® MARVEL's Avengers DLC - All-New, All-Different Doctor Strange Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "449392",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Marvel’s Agents of S.H.I.E.L.D. Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "449393",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Marvel’s Ant-Man Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "449394",
+      "nombre": "LEGO® MARVEL's Avengers DLC - Spider-Man Character Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Los Vengadores se reúnen! La exitosa saga de videojuegos LEGO® MARVEL regresa con una nueva aventura de superhéroes repleta de acción.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "26 ENE 2016",
+  "metacritic": null,
+  "nombreSteam": "LEGO® MARVEL's Avengers",
+  "acerca": [
+    [
+      "p",
+      "¡Los Vengadores se reúnen! La exitosa saga de videojuegos LEGO® MARVEL regresa con una nueva aventura de superhéroes repleta de acción. Únete al equipo de Vengadores de LEGO® MARVEL y disfruta de un videojuego con personajes e historias de las reconocidas películas y más. Juega en la piel de los superhéroes más poderosos en su lucha por salvar el mundo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP/Vista/7/8/10"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Quad Q6600 (2.4 GHz) / AMD Phenom x4 9850 (2.5 GHz)"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GT 430 (1024 MB)/ Radeon HD 6850 (1024 MB)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows XP and DirectX® 9.0b and below not supported"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows XP/Vista/7/8/10"
+      ],
+      [
+        "Procesador",
+        "Intel i5, 4 x 2.6 GHz or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 480 or ATI Radeon HD 5850 or better, 1Gb RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "14 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows XP and DirectX® 9.0b and below not supported"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_3d0178f72ecbbbcdba2bdf5b8ff011ec92c220eb.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_3d0178f72ecbbbcdba2bdf5b8ff011ec92c220eb.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_4277fa5a56d9f46e38fbc217c37b351d7148df01.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_4277fa5a56d9f46e38fbc217c37b351d7148df01.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_d524e3eec792bab5717e65b798eefbbbc6bfe0c2.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_d524e3eec792bab5717e65b798eefbbbc6bfe0c2.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_804f2093ccedd483632e8a1175aa641cfd7a017a.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_804f2093ccedd483632e8a1175aa641cfd7a017a.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_c7831014444c6d394a808ca6d6ad0f8733b2a865.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_c7831014444c6d394a808ca6d6ad0f8733b2a865.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_05cd9ddb2c40475c65ace0b484d230d62d51c0f2.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_05cd9ddb2c40475c65ace0b484d230d62d51c0f2.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_e8e25986fcf81ce6b7b79837d3381e97fcf55970.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_e8e25986fcf81ce6b7b79837d3381e97fcf55970.1920x1080.jpg?t=1780599434"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_6a619b78524dbf5939b1c576a4ca3d1a0ba3cd59.600x338.jpg?t=1780599434",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405310/ss_6a619b78524dbf5939b1c576a4ca3d1a0ba3cd59.1920x1080.jpg?t=1780599434"
+    }
+  ],
+  "web": "http://videogames.lego.com/",
+  "igdbIntentado": true,
+  "igdb": 11069,
+  "youtube": [
+    {
+      "id": "NtU9psgxUVA",
+      "nombre": "NYCC Trailer"
+    },
+    {
+      "id": "j2RqFqciLJg",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 6,
+  "consultado": "2026-11-22T22:48:22.309Z"
+}
