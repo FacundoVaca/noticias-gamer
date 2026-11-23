@@ -1,9 +1,9 @@
 {
   "clave": "the last of us part ii remastered",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7b20-72f6-a2de-dc2ff64bae95",
   "appid": "2531310",
@@ -50,6 +50,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1219787",
+      "nombre": "The Last of Us™ Parte II Remastered",
+      "apps": [
+        {
+          "appid": "2531310",
+          "nombre": "The Last of Us™ Parte II Remastered"
+        }
+      ],
+      "usd": 26.79,
+      "antes": 39.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "2531310": {
+      "usd": 26.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Disfruta en PC del ganador de más de 300 premios al Juego del Año. Descubre la historia de Ellie y Abby con mejoras gráficas, modos de juego como la experiencia de supervivencia roguelike \"Sin retorno\" y mucho más.",
   "generos": [
     "Acción",
@@ -57,6 +78,7 @@
   ],
   "lanzamientoTexto": "3 ABR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Last of Us™ Parte II Remastered",
   "acerca": [
     [
@@ -235,99 +257,123 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Croata",
@@ -431,5 +477,28 @@
     }
   ],
   "web": "https://www.playstation.com/games/the-last-of-us-part-ii-remastered/the-last-of-us-part-ii-remastered-pc/",
-  "consultado": "2026-11-22T22:33:54.365Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages. It contains General Mature Content and may include intense violence, suggestive/sexual themes, and controlled substances.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 277143,
+  "youtube": [
+    {
+      "id": "Ye3st9z6jQY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "AsOJ1JJJ4Zc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "-llaUBqovHw",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:47:14.421Z"
 }

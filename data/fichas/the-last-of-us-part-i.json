@@ -1,9 +1,9 @@
 {
   "clave": "the last of us part i",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-679e-7276-b6f1-e59da609dd4b",
   "appid": "1888930",
@@ -94,6 +94,7 @@
   ],
   "lanzamientoTexto": "28 MAR 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Last of Us™ Parte I",
   "acerca": [
     [
@@ -172,99 +173,123 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Croata",
@@ -368,5 +393,24 @@
     }
   ],
   "web": "https://www.playstation.com/games/the-last-of-us-part-i/pc/",
-  "consultado": "2026-11-22T22:34:14.477Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Los jugadores usan armas tales como pistolas, rifles y explosivos fabricados a mano, así como ataques cuerpo a cuerpo para asfixiar a sus enemigos o bates y tuberías metálicas para defenderse de los infectados y de otros supervivientes humanos. Los jugadores también pueden participar en secuencias de combate sigiloso en las que aparecen en primer plano. Las armas y los ataques explosivos pueden provocar decapitaciones o desmembramientos. Las escenas representan actos de violencia intensa, con temas como el suicidio y la tortura. Durante el juego, un personaje hace comentarios sexuales sobre una revista para adultos y se muestra a un personaje menor de edad bebiendo alcohol. En los diálogos se emplea con frecuencia un lenguaje violento.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 204350,
+  "youtube": [
+    {
+      "id": "JNrqyml09yA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LW5NwaUXgIA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:47:32.163Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "ark survival ascended",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7682-727c-91e4-4abbc012b5bb",
   "appid": "2399830",
@@ -39,6 +39,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "863377",
+      "nombre": "ARK: Survival Ascended",
+      "apps": [
+        {
+          "appid": "2399830",
+          "nombre": "ARK: Survival Ascended"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 44.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2399830": {
+      "usd": 44.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 20,
   "dlcLista": [
     {
@@ -193,6 +214,7 @@
   ],
   "lanzamientoTexto": "25 OCT 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "ARK: Survival Ascended",
   "acerca": [
     [
@@ -255,67 +277,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -423,5 +461,22 @@
     }
   ],
   "web": "http://www.playark.com",
-  "consultado": "2026-11-22T22:33:46.699Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 250509,
+  "youtube": [
+    {
+      "id": "0gLODoXanog",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "JIOEdp8kvvg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:52.706Z"
 }

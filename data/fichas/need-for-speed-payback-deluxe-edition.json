@@ -1,9 +1,9 @@
 {
   "clave": "need for speed payback deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3464-7065-a5c9-87b514919a62",
   "appid": "1262580",
@@ -32,6 +32,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "443133",
+      "nombre": "Need for Speed™ Payback - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1262580",
+          "nombre": "Need for Speed™ Payback"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1262580": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 4,
   "dlcLista": [
     {
@@ -76,6 +97,7 @@
     "puntaje": 62,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-payback?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Need for Speed™ Payback",
   "acerca": [
     [
@@ -163,47 +185,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -299,5 +332,30 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed/need-for-speed-payback",
-  "consultado": "2026-11-22T22:29:02.166Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "igdbIntentado": true,
+  "igdb": 36662,
+  "youtube": [
+    {
+      "id": "K-5EdHZ0hBs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "uX7aw9lYB2w",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "nZVUIkL5_rE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "kc-OcOduEx0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:07.329Z"
 }

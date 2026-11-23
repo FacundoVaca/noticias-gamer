@@ -1,9 +1,9 @@
 {
   "clave": "songs of silence",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6f05-7085-b171-6fe0a74a3289",
   "appid": "2195410",
@@ -54,6 +54,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "785988",
+      "nombre": "Songs of Silence",
+      "apps": [
+        {
+          "appid": "2195410",
+          "nombre": "Songs of Silence"
+        }
+      ],
+      "usd": 6.74,
+      "antes": 14.99,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "2195410": {
+      "usd": 6.74,
+      "gratis": false
+    }
+  },
   "dlcTotal": 10,
   "dlcLista": [
     {
@@ -140,6 +161,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/songs-of-silence?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Songs of Silence",
   "acerca": [
     [
@@ -250,59 +272,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -402,5 +438,30 @@
     }
   ],
   "web": "https://songs-of-silence.com/",
-  "consultado": "2026-11-22T22:29:08.958Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 238460,
+  "youtube": [
+    {
+      "id": "T91mm8DOLkg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "KE0HX2qXDRo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "m18b2pzg73c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "iKwhf7G7cpk",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:17.789Z"
 }

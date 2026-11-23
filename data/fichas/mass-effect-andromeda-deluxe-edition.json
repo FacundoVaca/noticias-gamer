@@ -1,9 +1,9 @@
 {
   "clave": "mass effect andromeda deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-25fd-7394-910d-27560d355ade",
   "appid": "1238000",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432894",
+      "nombre": "Mass Effect™: Andromeda Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1238000",
+          "nombre": "Edición Deluxe de Mass Effect™: Andromeda"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1238000": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
@@ -57,6 +78,7 @@
     "puntaje": 72,
     "url": "https://www.metacritic.com/game/pc/mass-effect-andromeda?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Edición Deluxe de Mass Effect™: Andromeda",
   "acerca": [
     [
@@ -112,35 +134,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -228,5 +258,12 @@
     }
   ],
   "web": "https://www.ea.com/en-gb/games/mass-effect/mass-effect-andromeda",
-  "consultado": "2026-11-22T22:30:43.316Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 27766,
+  "v": 7,
+  "consultado": "2026-11-23T12:52:58.646Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "the royal writ",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019643d8-7bf7-72e1-a574-7dc10d91b479",
   "appid": "3333700",
@@ -42,6 +42,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1180152",
+      "nombre": "The Royal Writ",
+      "apps": [
+        {
+          "appid": "3333700",
+          "nombre": "The Royal Writ"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3333700": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -58,6 +79,7 @@
   ],
   "lanzamientoTexto": "7 AGO 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Royal Writ",
   "acerca": [
     [
@@ -172,55 +194,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -311,5 +346,22 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333700/3aa62473b72f1194148f3356cbf3a7401c2c58b7/ss_3aa62473b72f1194148f3356cbf3a7401c2c58b7.1920x1080.jpg?t=1785491287"
     }
   ],
-  "consultado": "2026-11-22T22:30:10.420Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 340830,
+  "youtube": [
+    {
+      "id": "wWTTvPkpuz0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ab3rvC2SQpc",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:51:22.658Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "angelo and deemon one hell of a quest",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-20e0-70e7-a1d2-e4fb243c4be6",
   "appid": "945160",
@@ -43,6 +43,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "307292",
+      "nombre": "Angelo and Deemon: One Hell of a Quest",
+      "apps": [
+        {
+          "appid": "945160",
+          "nombre": "Angelo and Deemon: One Hell of a Quest"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "945160": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Había una vez una Parca que eligió la puerta equivocada. Angelo, un joven holgazán, oh lo siento, un blogger, impulsado solo por sus habilidades de bloggero, debe activar el modo de “aventura point and click”, recorrer todo el infierno, conocer a los lugareños y de alguna manera volver a casa. ¡Disfruta el infierno!",
   "generos": [
     "Aventura",
@@ -127,35 +148,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -247,5 +276,20 @@
     }
   ],
   "web": "https://specialbit.com/games/angelo-and-deemon",
-  "consultado": "2026-11-22T22:29:12.680Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 117084,
+  "youtube": [
+    {
+      "id": "1agppqYnS2E",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:25.647Z"
 }

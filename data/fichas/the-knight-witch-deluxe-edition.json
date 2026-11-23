@@ -1,8 +1,8 @@
 {
   "clave": "the knight witch deluxe edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-676a-71bd-aa45-ddd6702dab0f",
   "appid": null,
@@ -17,5 +17,45 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:29:57.218Z"
+  "igdbIntentado": true,
+  "igdb": 228195,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cs.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cs.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cp.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cp.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cr.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cr.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cu.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cu.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cw.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cv.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sck9cx.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sck9cx.jpg"
+    }
+  ],
+  "generos": [
+    "Adventure"
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:51:04.449Z"
 }

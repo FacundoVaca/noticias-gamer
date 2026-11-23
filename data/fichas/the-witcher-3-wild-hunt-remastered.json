@@ -1,14 +1,18 @@
 {
   "clave": "the witcher 3 wild hunt remastered",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "01a03ad0-d2bd-71cd-b2cf-3436397e437f",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2026-09-29",
+  "desarrolladores": [
+    "CD Projekt RED"
+  ],
+  "editores": [
+    "CD Projekt RED"
+  ],
   "etiquetas": [],
   "resenas": [
     {
@@ -30,5 +34,61 @@
       "url": "https://opencritic.com/game/21276/the-witcher-3-wild-hunt-remastered"
     }
   ],
-  "consultado": "2026-11-22T22:34:21.323Z"
+  "igdbIntentado": true,
+  "igdb": 415005,
+  "youtube": [
+    {
+      "id": "IGk17XQ7IrQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jNKo-EH76rY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OlmuIckOX0c",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wre.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wre.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wr9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wr9.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wrm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wrm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wr7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wr7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wrd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wrd.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wr8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wr8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wri.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wri.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc14wrg.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc14wrg.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "resumenEn": "The Witcher 3: Wild Hunt — Remastered modernizes the acclaimed role-playing game with a range of upgrades and enhancements. Become monster slayer for hire Geralt of Rivia and journey across a dark fantasy open world in an epic quest to find your adopted daughter Ciri.\n\nThe Remastered update is free for players who own The Witcher 3 and includes both Hearts of Stone and Blood and Wine expansions.",
+  "v": 7,
+  "consultado": "2026-11-23T12:47:48.057Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "fresh tracks",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01953d94-44fd-7313-a072-c0ee64a13c4b",
   "appid": "3202950",
@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1135813",
+      "nombre": "Fresh Tracks",
+      "apps": [
+        {
+          "appid": "3202950",
+          "nombre": "Fresh Tracks"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3202950": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -69,6 +90,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/fresh-tracks?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Fresh Tracks",
   "acerca": [
     [
@@ -94,23 +116,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -173,5 +200,31 @@
     }
   ],
   "web": "https://www.buffalobuffalo.ca/games/freshtracks",
-  "consultado": "2026-11-22T22:29:45.493Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 335842,
+  "youtube": [
+    {
+      "id": "GhAbuT37hmM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HIYMyNNrwu8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tsK14ZJYaKM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "ZRUkQlLqt_I",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:50:38.186Z"
 }

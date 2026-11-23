@@ -1,8 +1,8 @@
 {
   "clave": "fallout new vegas ultimate edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-11e4-724f-a1c2-38f3a887cb4c",
   "appid": null,
@@ -24,5 +24,49 @@
       "url": "https://metacritic.com/game/fallout-new-vegas-ultimate-edition/user-reviews/?platform=pc"
     }
   ],
-  "consultado": "2026-11-22T22:30:26.562Z"
+  "igdbIntentado": true,
+  "igdb": 25532,
+  "youtube": [
+    {
+      "id": "IZy_SUcdEpQ",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15a3i.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15a3i.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15a3j.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15a3j.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15a3k.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15a3k.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scds1s.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scds1s.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scds1q.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scds1q.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scds1r.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scds1r.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scds1t.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scds1t.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Role-playing (RPG)"
+  ],
+  "resumenEn": "Welcome back to New Vegas!\n\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you'll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier's Stash and Gun Runners Arsenal.\n\nWhether you're a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever.\n\nEnjoy your stay.",
+  "v": 7,
+  "consultado": "2026-11-23T12:52:21.578Z"
 }

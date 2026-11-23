@@ -1,8 +1,8 @@
 {
   "clave": "final fantasy vii rebirth digital deluxe edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "0193be4a-a5a2-71bc-91fa-f7a2e4d26dbb",
   "appid": null,
@@ -16,5 +16,19 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:34:23.422Z"
+  "igdbIntentado": true,
+  "igdb": 266733,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scojfw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scojfw.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "resumenEn": "Content of the Digital Deluxe Edition:\n・ Final Fantasy VII Rebirth main game\n・ Digital art book\n・ Digital mini soundtrack\n・ Summon Materia: Magic Pot\n・ Accessory: Reclaimant Choker\n・ Armor: Orchid Bracelet",
+  "v": 7,
+  "consultado": "2026-11-23T12:48:00.887Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "assassins creed valhalla",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -149,6 +148,7 @@
   ],
   "lanzamientoTexto": "6 DIC 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Assassin's Creed Valhalla",
   "acerca": [
     [
@@ -203,59 +203,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -343,6 +357,10 @@
     }
   ],
   "web": "http://www.assassinscreed.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
   "igdbIntentado": true,
   "igdb": 133004,
   "youtube": [
@@ -363,5 +381,6 @@
       "nombre": "Cinematic Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:43.222Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:51:37.053Z"
 }

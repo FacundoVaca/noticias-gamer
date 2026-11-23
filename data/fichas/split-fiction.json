@@ -1,9 +1,9 @@
 {
   "clave": "split fiction",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0193be2f-263c-73f9-97f7-4883f0ccc82e",
   "appid": "2001120",
@@ -49,6 +49,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "722525",
+      "nombre": "Split Fiction",
+      "apps": [
+        {
+          "appid": "2001120",
+          "nombre": "Split Fiction"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2001120": {
+      "usd": 49.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -66,6 +87,7 @@
   ],
   "lanzamientoTexto": "6 MAR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Split Fiction",
   "acerca": [
     [
@@ -100,47 +122,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -256,5 +289,30 @@
     }
   ],
   "web": "https://www.ea.com/games/split-fiction/split-fiction",
-  "consultado": "2026-11-22T22:33:38.201Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 325594,
+  "youtube": [
+    {
+      "id": "0TlySOphMuo",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "fcwngWPXQtg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "vRDXNJJ5Y3c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "sUfcC1Qr1-0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:58.181Z"
 }

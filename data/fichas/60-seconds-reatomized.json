@@ -37,6 +37,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "335556",
+      "nombre": "60 Seconds! Reatomized",
+      "apps": [
+        {
+          "appid": "1012880",
+          "nombre": "60 Seconds! Reatomized"
+        }
+      ],
+      "usd": 3.14,
+      "antes": 6.29,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1012880": {
+      "usd": 3.14,
+      "gratis": false
+    }
+  },
   "descripcion": "La comedia negra postapocalíptica ha vuelto, ¡remasterizada y aún más radiactiva que antes! Reúne provisiones, rescata a tu familia y mantente con vida en tu refugio nuclear. Toma decisiones difíciles, caza cucarachas mutantes... y tal vez sobrevivas. O no.",
   "generos": [
     "Aventura",
@@ -47,6 +68,7 @@
   ],
   "lanzamientoTexto": "25 JUL 2019",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "60 Seconds! Reatomized",
   "acerca": [
     [
@@ -113,71 +135,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -253,6 +292,11 @@
     }
   ],
   "web": "http://60secondsgame.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
   "xboxIntentado": true,
   "resenaXbox": {
     "fuente": "Usuarios de Microsoft Store",
@@ -269,6 +313,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:52:53.124Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:47:26.611Z"
 }

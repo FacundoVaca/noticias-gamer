@@ -1,9 +1,9 @@
 {
   "clave": "for the warp",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3a68-717c-a508-965a9d48cd7b",
   "appid": "1201830",
@@ -31,6 +31,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "414787",
+      "nombre": "For The Warp",
+      "apps": [
+        {
+          "appid": "1201830",
+          "nombre": "For The Warp"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1201830": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
@@ -55,6 +76,7 @@
   ],
   "lanzamientoTexto": "28 MAR 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "For The Warp",
   "acerca": [
     [
@@ -116,19 +138,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -208,5 +234,17 @@
     }
   ],
   "web": "http://forthewarp.com",
-  "consultado": "2026-11-22T22:29:41.651Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 127685,
+  "youtube": [
+    {
+      "id": "KjVFP68Wlpg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:50:17.996Z"
 }

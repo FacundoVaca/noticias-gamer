@@ -1,9 +1,9 @@
 {
   "clave": "rightfully beary arms",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-700f-70ce-b2f0-afb98b08e883",
   "appid": "1928030",
@@ -32,6 +32,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "694609",
+      "nombre": "Rightfully, Beary Arms",
+      "apps": [
+        {
+          "appid": "1928030",
+          "nombre": "Rightfully, Beary Arms"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1928030": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -50,6 +71,7 @@
   ],
   "lanzamientoTexto": "27 ENE 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Rightfully, Beary Arms",
   "acerca": [
     [
@@ -88,7 +110,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -151,5 +174,31 @@
     }
   ],
   "web": "https://daylightbasementstudio.com/games/rightfullybearyarms/",
-  "consultado": "2026-11-22T22:29:38.229Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 197126,
+  "youtube": [
+    {
+      "id": "FjANEujgFDA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "gwDHcLr5uZ0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "43djn8PfyAc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "2iXLuMMzjjY",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:50:13.439Z"
 }

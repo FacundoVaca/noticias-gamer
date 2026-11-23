@@ -1,6 +1,5 @@
 {
   "clave": "undisputed",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -50,6 +49,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1056694",
+      "nombre": "Undisputed",
+      "apps": [
+        {
+          "appid": "1451190",
+          "nombre": "Undisputed"
+        }
+      ],
+      "usd": 37.49,
+      "antes": 37.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1451190": {
+      "usd": 37.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 8,
   "dlcLista": [
     {
@@ -117,6 +137,7 @@
   ],
   "lanzamientoTexto": "8 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Undisputed",
   "acerca": [
     [
@@ -231,43 +252,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -379,6 +410,10 @@
     }
   ],
   "web": "http://www.playundisputed.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood Mild Suggestive Themes Violence",
   "igdbIntentado": true,
   "igdb": 146957,
   "youtube": [
@@ -395,5 +430,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:36.473Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:52:06.016Z"
 }

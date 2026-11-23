@@ -1,9 +1,9 @@
 {
   "clave": "kayas prophecy",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01922fe0-521e-7250-bf8f-f971ae2c7731",
   "appid": "3051470",
@@ -38,6 +38,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1084556",
+      "nombre": "Kaya's Prophecy",
+      "apps": [
+        {
+          "appid": "3051470",
+          "nombre": "Kaya's Prophecy"
+        }
+      ],
+      "usd": 7.79,
+      "antes": 7.79,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3051470": {
+      "usd": 5.2,
+      "gratis": false
+    }
+  },
   "descripcion": "¡Kaya's Prophecy es un exclusivo constructor de aldeas basado en cartas! Funda tu aldea, recoge recursos, crea herramientas y construye en un mundo lleno de vida. Explora y supera desafíos y a otros grupos en este colorido constructor de mazos mientras complaces a tu dios para ganarte su favor.",
   "generos": [
     "Casual",
@@ -45,6 +66,7 @@
   ],
   "lanzamientoTexto": "10 ABR 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Kaya's Prophecy",
   "acerca": [
     [
@@ -105,47 +127,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -236,5 +269,25 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051470/38588237ebc48fc6435c625dce47890ca4a797f9/ss_38588237ebc48fc6435c625dce47890ca4a797f9.1920x1080.jpg?t=1794213142"
     }
   ],
-  "consultado": "2026-11-22T22:28:55.123Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 317866,
+  "youtube": [
+    {
+      "id": "dpuNWnEpD_g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "kXLt_CdE-kc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "DGFNZ5GRudg",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:48:51.320Z"
 }

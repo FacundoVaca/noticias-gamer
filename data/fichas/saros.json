@@ -1,15 +1,18 @@
 {
   "clave": "saros",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
   ],
   "itad": "019e509d-2701-7364-a18e-ea16dd3f5aa4",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2026-04-30",
+  "desarrolladores": [
+    "Housemarque"
+  ],
+  "editores": [
+    "Sony Interactive Entertainment"
+  ],
   "etiquetas": [],
   "resenas": [],
   "igdbIntentado": true,
@@ -32,5 +35,40 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:35:47.259Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fp.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fp.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fn.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104fo.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104fo.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter"
+  ],
+  "resumenEn": "Saros is an action game developed by Housemarque and published by Sony Interactive Entertainment. Players control Arjun Devraj, a Soltari Enforcer investigating a lost off-world colony on Carcosa. The game features fast-paced third-person combat, boss encounters, and progression across repeated attempts.",
+  "v": 7,
+  "consultado": "2026-11-23T12:48:14.162Z"
 }

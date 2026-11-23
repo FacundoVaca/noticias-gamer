@@ -1,9 +1,9 @@
 {
   "clave": "hot wheels unleashed 2 turbocharged deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-74b9-70be-bc4f-2c141f6e3d3f",
   "appid": "2051120",
@@ -265,6 +265,7 @@
   ],
   "lanzamientoTexto": "19 OCT 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
   "acerca": [
     [
@@ -511,5 +512,22 @@
     }
   ],
   "web": "https://www.hotwheelsunleashed.com/",
-  "consultado": "2026-11-22T22:29:21.644Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 251471,
+  "youtube": [
+    {
+      "id": "46dYAG-mqXg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "09F3yQkLYh4",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:48.179Z"
 }

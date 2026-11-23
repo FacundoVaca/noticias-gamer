@@ -1,6 +1,5 @@
 {
   "clave": "metal gear solid master collection vol 2",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -52,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1487278",
+      "nombre": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
+      "apps": [
+        {
+          "appid": "3859630",
+          "nombre": "METAL GEAR SOLID: MASTER COLLECTION Vol.2"
+        }
+      ],
+      "usd": 42.49,
+      "antes": 42.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3859630": {
+      "usd": 42.49,
+      "gratis": false
+    }
+  },
   "descripcion": "Esta segunda entrega de la colección incluye \"Metal Gear Solid 4: Guns of the Patriots\" y \"Metal Gear Solid: Peace Walker (HD Collection version)\", así como una banda sonora digital y \"Metal Gear: Ghost Babel\" como contenido extra.",
   "generos": [
     "Acción",
@@ -59,6 +79,7 @@
   ],
   "lanzamientoTexto": "27 AGO 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "METAL GEAR SOLID: MASTER COLLECTION Vol.2",
   "acerca": [
     [
@@ -153,27 +174,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -288,6 +315,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859630/9276d185aada8e5294b6fa32810cebca69ec9042/ss_9276d185aada8e5294b6fa32810cebca69ec9042.1920x1080.jpg?t=1787837610"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
   "igdbIntentado": true,
   "igdb": 389433,
   "youtube": [
@@ -296,5 +327,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:33.540Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:50:56.605Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "for honor gold edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-22af-7106-8224-6b9dc9f2e4e7",
   "appid": "304390",
@@ -373,6 +373,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/for-honor?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "FOR HONOR™",
   "acerca": [
     [
@@ -427,59 +428,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -595,5 +610,32 @@
     }
   ],
   "web": "http://forhonorgame.com/",
-  "consultado": "2026-11-22T22:29:27.526Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action game in which players control one of three factions (Samurai, Vikings, Knights) in a protracted battle for dominance.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11162,
+  "youtube": [
+    {
+      "id": "0XGAhLZxFwc",
+      "nombre": "Conqueror Trailer"
+    },
+    {
+      "id": "1e89GOvQj4Q",
+      "nombre": "Kensei Hero Trailer"
+    },
+    {
+      "id": "E4xfwg8TEU4",
+      "nombre": "The Thin Red Path Trailer"
+    },
+    {
+      "id": "6rl3D_p4Zk8",
+      "nombre": "Valkyrie Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:57.277Z"
 }

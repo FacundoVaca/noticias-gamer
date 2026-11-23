@@ -1,6 +1,5 @@
 {
   "clave": "assassins creed origins",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -150,6 +149,7 @@
   ],
   "lanzamientoTexto": "26 OCT 2017",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Assassin's Creed® Origins",
   "acerca": [
     [
@@ -196,59 +196,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -352,6 +366,11 @@
     }
   ],
   "web": "http://assassinscreed.ubisoft.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Assassin's Creed Origins is an action-adventure game which contains Blood and Gore, Drug Reference, Intense Violence, Nudity, Sexual Content, Strong Language, and Use of Alcohol.",
   "igdbIntentado": true,
   "igdb": 28540,
   "youtube": [
@@ -372,5 +391,6 @@
       "nombre": "Discovery Tour Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:53.362Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:50:25.317Z"
 }

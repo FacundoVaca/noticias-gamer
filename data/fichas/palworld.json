@@ -1,6 +1,5 @@
 {
   "clave": "palworld",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -39,8 +38,8 @@
     },
     {
       "fuente": "Metacritic User Score",
-      "puntaje": 76,
-      "cantidad": 314,
+      "puntaje": 77,
+      "cantidad": 399,
       "url": "https://metacritic.com/game/palworld/user-reviews/?platform=pc"
     },
     {
@@ -51,6 +50,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "576498",
+      "nombre": "Palworld",
+      "apps": [
+        {
+          "appid": "1623730",
+          "nombre": "Palworld"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1623730": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -70,6 +90,7 @@
   ],
   "lanzamientoTexto": "9 JUL 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Palworld",
   "acerca": [
     [
@@ -368,6 +389,10 @@
     }
   ],
   "web": "https://www.pocketpair.jp/palworld",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 151665,
   "youtube": [
@@ -388,5 +413,6 @@
       "nombre": "Gameplay Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:22.552Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:52:37.912Z"
 }

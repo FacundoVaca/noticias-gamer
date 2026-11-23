@@ -1,6 +1,5 @@
 {
   "clave": "plants vs zombies replanted",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -50,12 +49,34 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1287759",
+      "nombre": "Plants vs. Zombies™: Trasplantado",
+      "apps": [
+        {
+          "appid": "3654560",
+          "nombre": "Plants vs. Zombies™: Trasplantado"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 19.99,
+      "descuento": 45
+    }
+  ],
+  "sueltos": {
+    "3654560": {
+      "usd": 10.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¡El clásico Plants vs. Zombies regresa en glorioso HD! La batalla original entre plantas y zombis ha vuelto. ¡Más grande, más brillante y más alocada que nunca! Disfruta del juego que lo empezó todo, ahora remasterizado con exclusivos gráficos en HD y repleto de nuevos secretos que desvelar.",
   "generos": [
     "Estrategia"
   ],
   "lanzamientoTexto": "23 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Plants vs. Zombies™: Trasplantado",
   "acerca": [
     [
@@ -86,35 +107,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -210,6 +239,10 @@
     }
   ],
   "web": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-replanted",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 358529,
   "youtube": [
@@ -226,5 +259,6 @@
       "nombre": "Dev Diary"
     }
   ],
-  "consultado": "2026-11-22T22:36:09.137Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:49:34.284Z"
 }

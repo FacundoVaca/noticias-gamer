@@ -1,6 +1,5 @@
 {
   "clave": "lego harry potter collection",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -45,6 +44,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1050565",
+      "nombre": "LEGO® Harry Potter™ Collection",
+      "apps": [
+        {
+          "appid": "2950340",
+          "nombre": "LEGO® Harry Potter™ Collection"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2950340": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "descripcion": "La LEGO® Harry Potter™ Collection contiene: LEGO® Harry Potter™: Años 1-4 y LEGO® Harry Potter™: Años 5-7 en un solo juego remasterizado con gráficos mejorados.",
   "generos": [
     "Acción",
@@ -53,6 +73,7 @@
   ],
   "lanzamientoTexto": "8 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "LEGO® Harry Potter™ Collection",
   "acerca": [
     [
@@ -80,51 +101,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -203,6 +236,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950340/ss_16a105543cf1558e9b1324517056e9140baac9f2.1920x1080.jpg?t=1781547985"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 315367,
   "youtube": [
@@ -215,5 +252,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:31.444Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:53:41.249Z"
 }

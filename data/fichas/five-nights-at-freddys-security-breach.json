@@ -1,6 +1,5 @@
 {
   "clave": "five nights at freddys security breach",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -49,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "219465",
+      "nombre": "Five Nights at Freddy's: Security Breach",
+      "apps": [
+        {
+          "appid": "747660",
+          "nombre": "Five Nights at Freddy's: Security Breach"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "747660": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -67,6 +87,7 @@
   ],
   "lanzamientoTexto": "16 DIC 2021",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Five Nights at Freddy's: Security Breach",
   "acerca": [
     [
@@ -99,51 +120,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -227,6 +260,10 @@
     }
   ],
   "web": "https://www.steelwoolstudios.com/five-nights-at-freddys-security-breach",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 138933,
   "youtube": [
@@ -247,5 +284,6 @@
       "nombre": "Cinematic Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:04.692Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:49:00.338Z"
 }

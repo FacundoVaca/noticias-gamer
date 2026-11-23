@@ -1,15 +1,71 @@
 {
   "clave": "marvels wolverine",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "019e3a88-37ab-713c-b739-6280ec8c3adf",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2026-09-15",
+  "desarrolladores": [
+    "Insomniac Games"
+  ],
+  "editores": [
+    "Sony Interactive Entertainment"
+  ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:33:34.372Z"
+  "igdbIntentado": true,
+  "igdb": 168667,
+  "youtube": [
+    {
+      "id": "s3pDMUWlA6I",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "OiBo_NgYI5Q",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "rJrqHyojaa4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3Z42tBfBLJY",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scfehk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scfehk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104gl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104gl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104gn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104gn.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104go.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104go.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104gm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104gm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc104gk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc104gk.jpg"
+    }
+  ],
+  "generos": [
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "resumenEn": "Marvel's Wolverine is a single-player action-adventure game and a standalone entry in the Marvel's Spider-Man series, sharing continuity with those titles while telling its own self-contained story. Players control Logan/Wolverine in close-quarters combat, using his adamantium claws against enemies drawn from the X-Men comic book mythology.",
+  "v": 7,
+  "consultado": "2026-11-23T12:46:38.876Z"
 }

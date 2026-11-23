@@ -1,9 +1,9 @@
 {
   "clave": "ghostrunner 2 deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-745d-7177-bd14-763e54e8a054",
   "appid": "2144740",
@@ -142,6 +142,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/ghostrunner-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Ghostrunner 2",
   "acerca": [
     [
@@ -188,55 +189,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -336,5 +350,31 @@
     }
   ],
   "web": "https://ghostrunnergame.com/",
-  "consultado": "2026-11-22T22:31:01.809Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and gore in realistic graphics. Violence on human and human-like characters. Mutilated and dismembered bodies. Mature coarse language. The fear-inducing atmosphere, events, and characters.",
+  "igdbIntentado": true,
+  "igdb": 250617,
+  "youtube": [
+    {
+      "id": "5ykvBTEoMvg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "pok7gQ713So",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "le5hJ28EmLQ",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "FqviMFon1Qc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:53:33.776Z"
 }

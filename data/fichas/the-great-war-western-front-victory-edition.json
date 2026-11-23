@@ -1,9 +1,9 @@
 {
   "clave": "the great war western front victory edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6a2a-7287-9605-c72cfb65d2d3",
   "appid": "2109370",
@@ -89,6 +89,7 @@
   ],
   "lanzamientoTexto": "30 MAR 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "The Great War: Western Front™",
   "acerca": [
     [
@@ -170,39 +171,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -310,5 +320,21 @@
     }
   ],
   "web": "https://www.playthegreatwar.com/",
-  "consultado": "2026-11-22T22:30:35.916Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 214505,
+  "youtube": [
+    {
+      "id": "RvmvA6iQ8xw",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "FuAI_Iz6NRs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:52:46.669Z"
 }

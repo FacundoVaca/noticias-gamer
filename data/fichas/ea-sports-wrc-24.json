@@ -1,6 +1,5 @@
 {
   "clave": "ea sports wrc 24",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -32,6 +31,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1110932",
+      "nombre": "EA SPORTS™ WRC 24",
+      "apps": [
+        {
+          "appid": "1849250",
+          "nombre": "EA SPORTS™ WRC"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 49.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1849250": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 4,
   "dlcLista": [
     {
@@ -74,6 +94,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/ea-sports-wrc?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "EA SPORTS™ WRC",
   "acerca": [
     [
@@ -100,23 +121,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -240,6 +266,10 @@
     }
   ],
   "web": "https://www.ea.com/games/ea-sports-wrc/wrc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 264412,
   "youtube": [
@@ -260,5 +290,6 @@
       "nombre": "Gameplay Video"
     }
   ],
-  "consultado": "2026-11-22T22:35:53.568Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:48:20.506Z"
 }

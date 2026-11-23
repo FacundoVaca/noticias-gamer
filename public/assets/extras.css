@@ -1,0 +1,12 @@
+/* Estilos de las páginas extra: Soluciones, juegos gratis y calculadora en pesos */
+.sol-intro{max-width:70ch;color:var(--muted);margin:-.25rem 0 1.5rem}
+.sol-lista{list-style:none;padding:0;margin:0 0 2rem;display:grid;gap:.75rem;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))}
+.sol-lista a{display:block;height:100%;padding:1rem 1.1rem;border:1px solid var(--line);border-radius:var(--r);text-decoration:none;color:inherit;background:var(--panel)}
+.sol-lista a:hover{border-color:var(--violet)}
+.sol-lista strong{display:block;line-height:1.3;margin-bottom:.35rem}
+.sol-lista span{display:block;font-size:.92rem;opacity:.75;line-height:1.45}
+.calc{display:grid;gap:.4rem;max-width:420px;margin:1.25rem 0;padding:1.1rem;border:1px solid var(--line);border-radius:var(--r);background:var(--panel)}
+.calc input{font:inherit;font-size:1.1rem;padding:.6rem .7rem;border-radius:8px;border:1px solid rgba(255,255,255,.25);background:transparent;color:inherit;margin-bottom:.5rem}
+.calc-res{font-size:1.15rem;margin:.25rem 0 0}
+.calc-res strong{font-size:1.6rem;color:var(--lime)}
+.calc-res small{display:block;opacity:.75;font-size:.9rem;margin-top:.2rem}

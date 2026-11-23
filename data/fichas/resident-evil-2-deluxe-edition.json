@@ -1,14 +1,15 @@
 {
   "clave": "resident evil 2 deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
   ],
   "itad": "018d937f-1f21-7242-a40a-4d1771a8621f",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
+  "lanzamiento": "2019-01-25",
+  "desarrolladores": [
+    "Capcom"
+  ],
   "editores": [
     "Capcom"
   ],
@@ -22,5 +23,41 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:27.085Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ptw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5ptw.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ptx.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5ptx.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ptz.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5ptz.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5pty.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5pty.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5pu0.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5pu0.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5ptv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5ptv.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc5pu1.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc5pu1.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Adventure"
+  ],
+  "resumenEn": "The Deluxe Edition of Resident Evil 2 will include:\n\nReversible Cover\n\"Elza Walker\" Claire Costume\n\"Military\" Claire Costume\n\"Noir\" Claire Costume\n\"Noir\" Leon Costume\n\"Arklay Sheriff\" Leon Costume\nAlbert Model Samurai Edge Pistol\nResident Evil 2 Original Soundtrack Swap",
+  "v": 7,
+  "consultado": "2026-11-23T12:52:40.503Z"
 }

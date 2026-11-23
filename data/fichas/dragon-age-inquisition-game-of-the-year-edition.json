@@ -1,9 +1,9 @@
 {
   "clave": "dragon age inquisition game of the year edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f092-7290-8d47-4870f06e148a",
   "appid": "1222690",
@@ -36,6 +36,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "423535",
+      "nombre": "Dragon Age™ Inquisition – Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "1222690",
+          "nombre": "Dragon Age™ Inquisition"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 39.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1222690": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "En la batalla por salvar Thedas, todas las decisiones importan. Crea a tu héroe, elige sus habilidades y reúne a un equipo para erradicar el mal del reino.",
   "generos": [
     "Acción",
@@ -48,6 +69,7 @@
     "puntaje": 85,
     "url": "https://www.metacritic.com/game/pc/dragon-age-inquisition?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Dragon Age™ Inquisition",
   "acerca": [
     [
@@ -143,39 +165,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -263,5 +294,30 @@
     }
   ],
   "web": "https://www.ea.com/games/dragon-age/dragon-age-inquisition",
-  "consultado": "2026-11-22T22:30:39.782Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 1887,
+  "youtube": [
+    {
+      "id": "9g9KLoARD6Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "H7rRIKWetyw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "lAcAtXiiYqs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "65hjqMm5wpg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:52:53.386Z"
 }

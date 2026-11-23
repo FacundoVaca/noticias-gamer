@@ -1,9 +1,9 @@
 {
   "clave": "dakar desert rally",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-63a9-72c7-ac78-017babda7567",
   "appid": "1839940",
@@ -163,6 +163,7 @@
   ],
   "lanzamientoTexto": "4 OCT 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Dakar Desert Rally",
   "acerca": [
     [
@@ -215,31 +216,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -343,5 +351,30 @@
     }
   ],
   "web": "https://www.dakarthegame.com/en/",
-  "consultado": "2026-11-22T22:28:45.918Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 202590,
+  "youtube": [
+    {
+      "id": "k_nzJudIjXo",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "g45GXLkGPSU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HI1up6iw1CE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "kvuu8pJFva0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:48:37.260Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "need for speed deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1f4f-73b6-ab99-640a5fce03af",
   "appid": "1262540",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "443129",
+      "nombre": "Need for Speed™ Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1262540",
+          "nombre": "Need for Speed™"
+        }
+      ],
+      "usd": 3.89,
+      "antes": 29.99,
+      "descuento": 87
+    }
+  ],
+  "sueltos": {
+    "1262540": {
+      "usd": 3.89,
+      "gratis": false
+    }
+  },
   "descripcion": "Adelántate",
   "generos": [
     "Acción",
@@ -39,6 +60,7 @@
   ],
   "lanzamientoTexto": "4 JUN 2020",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Need for Speed™",
   "acerca": [
     [
@@ -116,39 +138,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -248,5 +279,30 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed",
-  "consultado": "2026-11-22T22:28:41.094Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 10965,
+  "youtube": [
+    {
+      "id": "34wh749AGdc",
+      "nombre": "E3 Trailer"
+    },
+    {
+      "id": "fR4fLVuJppo",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "hX_ke3GwLE0",
+      "nombre": "Gameplay Demo"
+    },
+    {
+      "id": "ybZ5nchDm6o",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:48:30.768Z"
 }

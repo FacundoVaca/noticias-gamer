@@ -1,9 +1,9 @@
 {
   "clave": "safari tv",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01a0238c-d955-72b6-b8d9-576e5d76474b",
   "appid": "5118500",
@@ -29,6 +29,52 @@
       "puntaje": 73,
       "cantidad": 318,
       "url": "https://store.steampowered.com/app/5118500/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1772883",
+      "nombre": "Safari-TV",
+      "apps": [
+        {
+          "appid": "5118500",
+          "nombre": "Safari-TV"
+        }
+      ],
+      "usd": 3.9,
+      "antes": 4.59,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "5118500": {
+      "usd": 3.9,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "5164540",
+      "nombre": "Safari-TV Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "5542670",
+      "nombre": "Safari-TV - Supporter Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 15
+    },
+    {
+      "appid": "5542680",
+      "nombre": "Safari-TV - Community Pack",
+      "gratis": false,
+      "usd": 1.26,
+      "descuento": 15
     }
   ],
   "descripcion": "Gestiona una agencia de safaris con amigos en un caótico cooperativo para 2–4. Conduce un camión totalmente destruible con físicas simuladas, cuida a los turistas y sobrevive a los animales salvajes. Graba el caos, mira los vídeos con amigos y haz crecer tu canal dentro del juego.",
@@ -301,5 +347,22 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118500/135e6c0124082dd30cceb3493ad4782724d1a5da/ss_135e6c0124082dd30cceb3493ad4782724d1a5da.1920x1080.jpg?t=1794872557"
     }
   ],
-  "consultado": "2026-11-22T22:16:04.658Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 419700,
+  "youtube": [
+    {
+      "id": "iuBiEQz-Ceo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "N5mtHKnJGuo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:15.348Z"
 }

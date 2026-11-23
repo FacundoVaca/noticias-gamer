@@ -1,8 +1,8 @@
 {
   "clave": "fort solis terra edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-7462-73e3-96df-a80b6b9112c5",
   "appid": null,
@@ -19,5 +19,26 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:30:11.984Z"
+  "igdbIntentado": true,
+  "igdb": 262225,
+  "youtube": [
+    {
+      "id": "4WmrUIhgPXc",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scnztr.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scnztr.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator",
+    "Adventure",
+    "Indie"
+  ],
+  "resumenEn": "Fort Solis is a riveting story-driven thriller on the Red Planet.\n\nThe Terra Edition includes:\n- Fort Solis the game\n- Fort Solis Extras (Artbook & OST)",
+  "v": 7,
+  "consultado": "2026-11-23T12:51:29.245Z"
 }

@@ -1,15 +1,57 @@
 {
   "clave": "mass effect 3 n7 digital deluxe edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-0660-7145-8dfb-0799b8b8acfb",
   "appid": null,
   "lanzamiento": "2012-03-06",
-  "desarrolladores": [],
-  "editores": [],
+  "desarrolladores": [
+    "BioWare"
+  ],
+  "editores": [
+    "Electronic Arts, Inc."
+  ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:30:22.278Z"
+  "igdbIntentado": true,
+  "igdb": 202174,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwf.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwf.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwg.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwg.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwj.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwj.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwe.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwe.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwh.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwh.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwd.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scwqwi.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scwqwi.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Strategy"
+  ],
+  "resumenEn": "The N7 Digital Deluxe Edition contains:\n- Mass Effect 3\n- N7 Arsenal pack and in-game items (N7 Crusader shotgun, N7 Hurricane submachine gun, N7 Valiant Sniper, N7 Eagle handgun, N7 hoodie)\n- Downloadable Art book and lithograph\n- Mass Effect Digital Comic by Dark Horse Comics\n- From Ashes DLC",
+  "v": 7,
+  "consultado": "2026-11-23T12:52:01.333Z"
 }

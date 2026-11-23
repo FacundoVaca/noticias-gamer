@@ -1,9 +1,9 @@
 {
   "clave": "ace combat 8 wings of theve",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019b10b7-8d94-7337-827d-9b619d25949d",
   "appid": "2288340",
@@ -110,6 +110,7 @@
   ],
   "lanzamientoTexto": "1 OCT 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "ACE COMBAT 8: WINGS OF THEVE",
   "acerca": [
     [
@@ -148,55 +149,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -304,5 +318,30 @@
     }
   ],
   "web": "http://acecombat.com/",
-  "consultado": "2026-11-22T22:34:09.939Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 381247,
+  "youtube": [
+    {
+      "id": "OeKsDHjPJiw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "c2bgoQhlzqE",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "JQYx_867ua0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "cW6zBuO7sb4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:47:53.939Z"
 }

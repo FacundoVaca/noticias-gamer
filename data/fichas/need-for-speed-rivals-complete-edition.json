@@ -1,9 +1,9 @@
 {
   "clave": "need for speed rivals complete edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1ed3-73bc-9a02-4cd8fd2aa03c",
   "appid": "1262600",
@@ -37,6 +37,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "443134",
+      "nombre": "Need for Speed™ Rivals: Complete Edition",
+      "apps": [
+        {
+          "appid": "1262600",
+          "nombre": "Need for Speed™ Rivals"
+        }
+      ],
+      "usd": 4.39,
+      "antes": 19.99,
+      "descuento": 78
+    }
+  ],
+  "sueltos": {
+    "1262600": {
+      "usd": 4.39,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -58,6 +79,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-rivals?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Need for Speed™ Rivals",
   "acerca": [
     [
@@ -82,47 +104,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -210,5 +243,27 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed",
-  "consultado": "2026-11-22T22:30:31.135Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 10,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2074,
+  "youtube": [
+    {
+      "id": "xsKHweFi7AU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "79QsNYEJxLs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RLWNp1Y9-Zs",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:52:33.015Z"
 }

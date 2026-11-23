@@ -1,8 +1,8 @@
 {
   "clave": "plaguetrix",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "019cc57a-a2c9-72f7-9b4d-957517538915",
   "appid": null,
@@ -15,5 +15,36 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:28:37.388Z"
+  "igdbIntentado": true,
+  "igdb": 373482,
+  "youtube": [
+    {
+      "id": "aiwdqNxkwmA",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101re.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc101re.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101ri.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc101ri.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101rl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc101rl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc101rn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc101rn.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator"
+  ],
+  "resumenEn": "An fmv experiment. Walk down an alley which is a real video recorded in the north east of England avoiding the plague. Time moves when you walk forward but freezes when you move sideways. Anticipate the movement of the plague to avoid infection.",
+  "v": 7,
+  "consultado": "2026-11-23T12:48:22.177Z"
 }

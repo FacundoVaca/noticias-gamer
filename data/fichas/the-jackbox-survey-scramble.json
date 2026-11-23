@@ -1,9 +1,9 @@
 {
   "clave": "the jackbox survey scramble",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0191dcfe-f7d3-71d9-9279-a1a0a3bf9f14",
   "appid": "2948640",
@@ -52,6 +52,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1050005",
+      "nombre": "The Jackbox Survey Scramble",
+      "apps": [
+        {
+          "appid": "2948640",
+          "nombre": "The Jackbox Survey Scramble"
+        }
+      ],
+      "usd": 2.89,
+      "antes": 5.79,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2948640": {
+      "usd": 2.89,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -70,6 +91,7 @@
   ],
   "lanzamientoTexto": "23 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Jackbox Survey Scramble",
   "acerca": [
     [
@@ -151,31 +173,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -270,5 +299,19 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948640/ss_b93b21dbb3a1351273587eefdf6b75ad192613cd.1920x1080.jpg?t=1748028277"
     }
   ],
-  "consultado": "2026-11-22T22:30:51.168Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 318207,
+  "youtube": [
+    {
+      "id": "oPqck0NjkPs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:53:19.655Z"
 }

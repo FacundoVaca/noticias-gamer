@@ -1,9 +1,10 @@
 {
   "clave": "forza horizon 5 premium edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-51dd-7255-8124-0d9004a7fe5f",
   "appid": "1551360",
@@ -370,6 +371,7 @@
   ],
   "lanzamientoTexto": "8 NOV 2021",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Forza Horizon 5",
   "acerca": [
     [
@@ -447,67 +449,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -615,5 +633,38 @@
     }
   ],
   "web": "http://www.forzamotorsport.net",
-  "consultado": "2026-11-22T22:34:20.319Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.3,
+    "cantidad": 11313,
+    "escala": 5
+  },
+  "xbox": "9MTLKM2DJMZ2",
+  "igdbIntentado": true,
+  "igdb": 141503,
+  "youtube": [
+    {
+      "id": "FYH9n37B7Yw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "d_20X1YM28U",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "CPgUk3NZcbI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "eitSF5rVAOI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:47:07.117Z"
 }

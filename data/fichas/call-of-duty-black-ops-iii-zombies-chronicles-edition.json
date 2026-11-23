@@ -1,9 +1,9 @@
 {
   "clave": "call of duty black ops iii zombies chronicles edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea5c-735e-ae2c-74a3c2a32f1d",
   "appid": "311210",
@@ -146,6 +146,7 @@
     "puntaje": 73,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-black-ops-iii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Call of Duty®: Black Ops III",
   "acerca": [
     [
@@ -180,47 +181,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -295,5 +307,32 @@
     }
   ],
   "web": "https://www.callofduty.com/",
-  "consultado": "2026-11-22T22:33:28.521Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 9509,
+  "youtube": [
+    {
+      "id": "3fQhDon2bVI",
+      "nombre": "Gameplay Launch Trailer"
+    },
+    {
+      "id": "_Y5VepXzMPs",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "GM2m9LG35N0",
+      "nombre": "E3 2015 Multiplayer Reveal Trailer"
+    },
+    {
+      "id": "75CWhg8oBNA",
+      "nombre": "Back in Black Maps Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:29.200Z"
 }

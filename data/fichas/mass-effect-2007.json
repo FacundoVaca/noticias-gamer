@@ -1,9 +1,9 @@
 {
   "clave": "mass effect 2007",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4d3f-72ee-b598-97cbfa030c47",
   "appid": "17460",
@@ -31,6 +31,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1259",
+      "nombre": "Mass Effect (2007)",
+      "apps": [
+        {
+          "appid": "17460",
+          "nombre": "Mass Effect (2007)"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 29.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "17460": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "As Commander Shepard, you lead an elite squad on a heroic, action-packed adventure throughout the galaxy.",
   "generos": [
     "Acción",
@@ -41,6 +62,7 @@
     "puntaje": 89,
     "url": "https://www.metacritic.com/game/pc/mass-effect?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Mass Effect (2007)",
   "acerca": [
     [
@@ -91,23 +113,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -182,5 +209,30 @@
     }
   ],
   "web": "http://masseffect.bioware.com/",
-  "consultado": "2026-11-22T22:30:15.269Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 73,
+  "youtube": [
+    {
+      "id": "-_6ZMr2bMco",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0OLDN2tJp2o",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ktoXyaYSmhQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6qOdSX7Vt2g",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:51:43.059Z"
 }

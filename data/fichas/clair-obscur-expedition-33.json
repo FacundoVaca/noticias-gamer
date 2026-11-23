@@ -1,6 +1,5 @@
 {
   "clave": "clair obscur expedition 33",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -126,6 +125,7 @@
     "puntaje": 91,
     "url": "https://www.metacritic.com/game/pc/clair-obscur-expedition-33?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Clair Obscur: Expedition 33",
   "acerca": [
     [
@@ -360,6 +360,12 @@
     }
   ],
   "web": "https://www.expedition33.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "El juego presenta representaciones de violencia, sangre y suicidio, y imágenes que algunos jugadores podrían encontrar perturbadoras. El juego contiene atuendos reveladores y desnudez parcial ligera/estilística.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 305152,
   "youtube": [
@@ -380,5 +386,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:59.266Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:51:53.769Z"
 }

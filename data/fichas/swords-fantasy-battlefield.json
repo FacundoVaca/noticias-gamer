@@ -1,9 +1,9 @@
 {
   "clave": "swords fantasy battlefield",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6b8d-72bc-988b-1f22d9bf45df",
   "appid": "1916280",
@@ -32,6 +32,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "690260",
+      "nombre": "Swords Fantasy: Battlefield",
+      "apps": [
+        {
+          "appid": "1916280",
+          "nombre": "Swords Fantasy: Battlefield"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 10.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1916280": {
+      "usd": 10.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Swords Fantasy: Battlefield es un juego en tercera persona, que incluye batallas con espadas.",
   "generos": [
     "Acción",
@@ -122,55 +143,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -270,5 +304,11 @@
     }
   ],
   "web": "https://store.steampowered.com/app/1852830/SPACE_ACCIDENT/",
-  "consultado": "2026-11-22T22:29:56.730Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 192450,
+  "v": 7,
+  "consultado": "2026-11-23T12:51:01.552Z"
 }

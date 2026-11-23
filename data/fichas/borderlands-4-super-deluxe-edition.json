@@ -1,9 +1,9 @@
 {
   "clave": "borderlands 4 super deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01977918-2f9f-701c-89d0-3881bd7aea1f",
   "appid": "1285190",
@@ -214,6 +214,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/borderlands-4?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Borderlands 4",
   "acerca": [
     [
@@ -264,59 +265,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -416,5 +431,31 @@
     }
   ],
   "web": "https://borderlands.2k.com/",
-  "consultado": "2026-11-22T22:28:51.789Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Intense Violence or Gore, Suggestive Themes, Strong Language, General Mature Content.",
+  "igdbIntentado": true,
+  "igdb": 314246,
+  "youtube": [
+    {
+      "id": "ZhKilJFhI3E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BXzf6j2Sr5c",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "5hODQSLU5ZQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AxaPpkie6t4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:48:45.600Z"
 }

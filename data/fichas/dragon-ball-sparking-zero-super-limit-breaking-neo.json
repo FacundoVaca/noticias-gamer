@@ -1,9 +1,9 @@
 {
   "clave": "dragon ball sparking zero super limit breaking neo",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019fb036-f4ef-7097-bdb7-f4619d388e36",
   "appid": "4433900",
@@ -48,6 +48,27 @@
   "juegoBase": {
     "appid": "1790600",
     "nombre": "DRAGON BALL: Sparking! ZERO"
+  },
+  "ediciones": [
+    {
+      "packageid": "1548087",
+      "nombre": "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO",
+      "apps": [
+        {
+          "appid": "4433900",
+          "nombre": "DRAGON BALL: Sparking! ZERO - Super Limit-Breaking NEO"
+        }
+      ],
+      "usd": 27.99,
+      "antes": 27.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4433900": {
+      "usd": 27.99,
+      "gratis": false
+    }
   },
   "descripcion": "¡Super Limit-Breaking NEO llega a DRAGON BALL: Sparking! ZERO! Con nuevos personajes jugables, una nueva función de personalización, nuevos escenarios y el modo de un jugador. ¡Lucha en la gran batalla rompelímites!",
   "generos": [
@@ -240,5 +261,12 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433900/1401b5e92b1b74528c4d939d86ee1d8a15c1c648/ss_1401b5e92b1b74528c4d939d86ee1d8a15c1c648.1920x1080.jpg?t=1785488066"
     }
   ],
-  "consultado": "2026-11-22T22:33:50.781Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 375182,
+  "v": 7,
+  "consultado": "2026-11-23T12:47:19.471Z"
 }

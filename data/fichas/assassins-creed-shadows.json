@@ -1,6 +1,5 @@
 {
   "clave": "assassins creed shadows",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -136,6 +135,7 @@
   ],
   "lanzamientoTexto": "19 MAR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Assassin’s Creed Shadows",
   "acerca": [
     [
@@ -214,55 +214,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -370,6 +383,11 @@
     }
   ],
   "web": "http://www.assassinscreed.com/shadows",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action-adventure game in which players follow the stories of a shinobi assassin (Naoe) and a samurai (Yasuke) as they navigate turbulent clan wars during Sengoku-era Japan. Players explore open-world environments while performing missions (e.g., searching for items, infiltrating enemy compounds) and using stealth to kill human targets.",
   "igdbIntentado": true,
   "igdb": 300976,
   "youtube": [
@@ -390,5 +408,6 @@
       "nombre": "Gameplay Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:35:45.448Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:48:11.193Z"
 }

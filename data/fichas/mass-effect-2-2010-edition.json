@@ -1,9 +1,9 @@
 {
   "clave": "mass effect 2 2010 edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6d20-7059-905f-15303856b01a",
   "appid": "2362420",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "849036",
+      "nombre": "Mass Effect 2 (2010) Edition",
+      "apps": [
+        {
+          "appid": "2362420",
+          "nombre": "Mass Effect 2 (2010) Edition"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 29.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2362420": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¿Estás dispuesto a perderlo todo para salvar la galaxia? Tendrás que estarlo, comandante Shepard. Es hora de forjar alianzas y reclutar a la élite guerrera de la galaxia para resistir la invasión de los segadores.",
   "generos": [
     "Rol"
@@ -39,6 +60,7 @@
     "puntaje": 94,
     "url": "https://www.metacritic.com/game/pc/mass-effect-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Mass Effect 2 (2010) Edition",
   "acerca": [
     [
@@ -156,39 +178,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -296,5 +327,18 @@
     }
   ],
   "web": "http://masseffect.bioware.com/",
-  "consultado": "2026-11-22T22:30:21.771Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 74,
+  "youtube": [
+    {
+      "id": "Ugq9Iv7tFVc",
+      "nombre": "E3 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:51:58.842Z"
 }

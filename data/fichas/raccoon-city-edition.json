@@ -1,8 +1,8 @@
 {
   "clave": "raccoon city edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-4053-7164-852c-d5b7e8a4fc41",
   "appid": null,
@@ -16,5 +16,50 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:34:24.661Z"
+  "igdbIntentado": true,
+  "igdb": 132952,
+  "youtube": [
+    {
+      "id": "u3wS-Q2KBpk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "v_ht2suIL10",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86nl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86nl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86np.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86np.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86nn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86nn.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86nm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86nm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86no.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86no.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc86nq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc86nq.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Puzzle",
+    "Adventure"
+  ],
+  "resumenEn": "Two classic survival horror games reimagined and brought together in one unbelievable package. Play as Jill Valentine as she attempts to escape Raccoon City in Resident Evil 3. Or take control of Leon and Claire in 2019's award-winning Resident Evil 2. This amazing bundle also comes with the 4v1online multiplayer game Resident Evil Resistance.",
+  "v": 7,
+  "consultado": "2026-11-23T12:48:02.487Z"
 }

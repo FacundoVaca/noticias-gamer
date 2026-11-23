@@ -1,9 +1,9 @@
 {
   "clave": "battlefield 6",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01983d00-f995-73b1-8394-7b80e0b9d3e8",
   "appid": "2807960",
@@ -101,6 +101,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/battlefield-6?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Battlefield™ 6",
   "acerca": [
     [
@@ -155,55 +156,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -335,5 +349,31 @@
     }
   ],
   "web": "https://www.ea.com/games/battlefield/battlefield-6",
-  "consultado": "2026-11-22T22:33:42.944Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 317407,
+  "youtube": [
+    {
+      "id": "pgNCgJG0vnY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wFGEMfyAQtI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "1wB1xpT6gyY",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "WZb3lPmxuSc",
+      "nombre": "Campaign Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:45.702Z"
 }

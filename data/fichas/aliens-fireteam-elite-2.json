@@ -1,6 +1,5 @@
 {
   "clave": "aliens fireteam elite 2",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -50,6 +49,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1218728",
+      "nombre": "Aliens: Fireteam Elite 2",
+      "apps": [
+        {
+          "appid": "3448650",
+          "nombre": "Aliens: Fireteam Elite 2"
+        }
+      ],
+      "usd": 49.99,
+      "antes": 49.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3448650": {
+      "usd": 49.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
@@ -73,6 +93,7 @@
   ],
   "lanzamientoTexto": "25 AGO 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Aliens: Fireteam Elite 2",
   "acerca": [
     [
@@ -131,39 +152,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,6 +297,11 @@
     }
   ],
   "web": "https://aliensfireteamelite2.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
   "igdbIntentado": true,
   "igdb": 400824,
   "youtube": [
@@ -287,5 +322,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:29.479Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:53:12.249Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "mxgp 26 fox holeshot edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
@@ -35,5 +34,42 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:36:29.206Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16htd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16htd.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ht7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ht7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ht8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ht8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ht9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ht9.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16hta.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16hta.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16htb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16htb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16htc.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16htc.jpg"
+    }
+  ],
+  "generos": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "resumenEn": "The Fox Holeshot Edition gives you access to 5 exclusive Fox liveries, as well as access to MXGP TV* (*requires creation of a MyNacon account before 31/12/2027)",
+  "v": 7,
+  "consultado": "2026-11-23T12:52:48.956Z"
 }

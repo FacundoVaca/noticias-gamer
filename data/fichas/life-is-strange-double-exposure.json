@@ -1,9 +1,9 @@
 {
   "clave": "life is strange double exposure",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ffe5f-8177-705d-8e16-5984765173b9",
   "appid": "1874000",
@@ -48,6 +48,45 @@
       "url": "https://opencritic.com/game/17125/life-is-strange-double-exposure"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1068186",
+      "nombre": "Life is Strange: Double Exposure",
+      "apps": [
+        {
+          "appid": "1874000",
+          "nombre": "Life is Strange: Double Exposure"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1874000": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3012900",
+      "nombre": "Life is Strange: Double Exposure Ultimate Upgrade",
+      "gratis": false,
+      "usd": 20,
+      "descuento": 0
+    },
+    {
+      "appid": "3012890",
+      "nombre": "Life is Strange: Double Exposure Deluxe Upgrade",
+      "gratis": false,
+      "usd": 10,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Cuando Max Caulfield encuentra a su amiga Safi muerta en la nieve, abre un portal a una línea temporal paralela. Con su nuevo poder para cruzar entre dos líneas temporales, ¿conseguirá Max resolver y evitar el mismo asesinato?",
   "generos": [
     "Acción",
@@ -55,6 +94,7 @@
   ],
   "lanzamientoTexto": "29 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Life is Strange: Double Exposure",
   "acerca": [
     [
@@ -137,51 +177,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -289,5 +341,23 @@
     }
   ],
   "web": "https://www.lifeisstrange.com",
-  "consultado": "2026-11-22T22:17:49.522Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 305158,
+  "youtube": [
+    {
+      "id": "TOYz4NCFIXg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "7ViIWFDHvkI",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:46:10.331Z"
 }

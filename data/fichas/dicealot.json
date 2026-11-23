@@ -1,9 +1,9 @@
 {
   "clave": "dicealot",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01900db7-39f9-7076-88d3-85f48c846b42",
   "appid": "3035330",
@@ -43,6 +43,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1079120",
+      "nombre": "Dicealot",
+      "apps": [
+        {
+          "appid": "3035330",
+          "nombre": "Dicealot"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3035330": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Discover a high-stakes roguelike dice-builder where every roll is a risk, every risk is a thrill, and every thrill teeters between triumph and disaster. Set in charmingly chaotic Camelot, chance collides with strategy, mastery dances with madness, and one single roll can rewrite your fate.",
   "generos": [
     "Casual",
@@ -51,6 +72,7 @@
   ],
   "lanzamientoTexto": "9 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Dicealot",
   "acerca": [
     [
@@ -155,23 +177,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -238,5 +265,25 @@
     }
   ],
   "web": "https://x.com/dicealotgame",
-  "consultado": "2026-11-22T22:30:26.072Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 319726,
+  "youtube": [
+    {
+      "id": "MD8UzEoNw8U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_gnYDF__XLE",
+      "nombre": "Nextfest Trailer"
+    },
+    {
+      "id": "auK3303QPRE",
+      "nombre": "Official Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:52:18.590Z"
 }

@@ -1,8 +1,8 @@
 {
   "clave": "f1 25 2026 season edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "019e8e02-2649-73af-b91b-b3d7ad348256",
   "appid": null,
@@ -15,5 +15,62 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:34:20.829Z"
+  "igdbIntentado": true,
+  "igdb": 408775,
+  "youtube": [
+    {
+      "id": "tL2nzLFIcXg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "HSrTjqf7_WY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "G1yvU5IyJq4",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145f8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145f8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145f5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145f5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145f6.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145f6.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145fa.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145fa.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145fb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145fb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145fc.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145fc.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145f7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145f7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc145f9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc145f9.jpg"
+    }
+  ],
+  "generos": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "resumenEn": "Rewrite The Grid with the ultimate evolution in racing: EA Sports F1 25: 2026 Season Edition. Get F1 25 and the 2026 Season Pack in one bundle for the most complete Formula 1 experience. Race through the action-packed 2025 season, then step into a new era with the ground breaking 2026 cars, the next generation of Grand Prix racing.",
+  "v": 7,
+  "consultado": "2026-11-23T12:47:56.832Z"
 }

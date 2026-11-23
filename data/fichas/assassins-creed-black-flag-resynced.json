@@ -1,9 +1,9 @@
 {
   "clave": "assassins creed black flag resynced",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019dbb12-2011-7311-bd3d-2f98a690b28c",
   "appid": "3751950",
@@ -170,6 +170,7 @@
   ],
   "lanzamientoTexto": "9 JUL 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Assassin's Creed Black Flag Resynced",
   "acerca": [
     [
@@ -208,55 +209,68 @@
   "idiomas": [
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -363,5 +377,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/3a0de67fdb133b4b21c53cc23a813b766f0c612c/ss_3a0de67fdb133b4b21c53cc23a813b766f0c612c.1920x1080.jpg?t=1793391152"
     }
   ],
-  "consultado": "2026-11-22T22:33:59.751Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Assassin's Creed Black Flag Resynced is an action-adventure game which contains Blood, Sexual Themes, Strong Language, Use of Alcohol, and Violence.",
+  "igdbIntentado": true,
+  "igdb": 337738,
+  "youtube": [
+    {
+      "id": "WjsTLe7bBUA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "PhQ3yQjUgAc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "U9EmVkQ5v54",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "y5QEQzyFULg",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:47:38.403Z"
 }

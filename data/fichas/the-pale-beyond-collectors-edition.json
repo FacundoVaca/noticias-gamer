@@ -1,8 +1,8 @@
 {
   "clave": "the pale beyond collectors edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-6b28-7032-b609-68939c1ff768",
   "appid": null,
@@ -16,5 +16,58 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:30:10.936Z"
+  "igdbIntentado": true,
+  "igdb": 238307,
+  "youtube": [
+    {
+      "id": "6sEjWDxyS68",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "egf-CRpUhIc",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclch5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclch5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgz.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgz.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgr.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgr.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgp.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgp.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgv.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgn.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgt.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgt.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sclcgx.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sclcgx.jpg"
+    }
+  ],
+  "generos": [
+    "Adventure",
+    "Indie",
+    "Visual Novel"
+  ],
+  "resumenEn": "The Pale Beyond Collector's Edition includes the base game and the Original Soundtrack, featuring a curated selection of 19 tracks from the game.",
+  "v": 7,
+  "consultado": "2026-11-23T12:51:24.328Z"
 }

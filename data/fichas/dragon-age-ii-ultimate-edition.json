@@ -1,9 +1,9 @@
 {
   "clave": "dragon age ii ultimate edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-60f2-71ce-95d8-bbc09d1b46ab",
   "appid": "1238040",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "714428",
+      "nombre": "Dragon Age II: Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1238040",
+          "nombre": "Dragon Age II: Ultimate Edition"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 29.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1238040": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Eres Hawke, un refugiado que intenta escapar de la tierra plagada de engendros tenebrosos de Ferelden y convertirse en Campeón de Kirkwall. Asciende al poder y lucha en batallas épicas mientras tomas decisiones que marcarán el destino de la civilización.",
   "generos": [
     "Acción",
@@ -41,6 +62,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/dragon-age-ii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Dragon Age II: Ultimate Edition",
   "acerca": [
     [
@@ -131,31 +153,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -243,5 +272,18 @@
     }
   ],
   "web": "https://www.ea.com/games/dragon-age/dragon-age-2",
-  "consultado": "2026-11-22T22:30:18.536Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 78,
+  "youtube": [
+    {
+      "id": "Rh43mO4Huds",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:51:47.716Z"
 }

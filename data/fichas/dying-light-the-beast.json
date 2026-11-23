@@ -1,6 +1,5 @@
 {
   "clave": "dying light the beast",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
@@ -8,8 +7,12 @@
   "itad": "0191710d-faea-717d-a2d1-6ec3951eaf4f",
   "appid": null,
   "lanzamiento": "2025-09-18",
-  "desarrolladores": [],
-  "editores": [],
+  "desarrolladores": [
+    "Techland"
+  ],
+  "editores": [
+    "Techland"
+  ],
   "etiquetas": [],
   "resenas": [
     {
@@ -51,5 +54,33 @@
       "nombre": "Dev Diary"
     }
   ],
-  "consultado": "2026-11-22T22:36:12.570Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctohj.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctohj.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctohk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctohk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctohl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctohl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctohq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctohq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctogy.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctogy.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "resumenEn": "Dying Light: The Beast Restored Land is a new enhanced version of the game that includes the base game, all previously released updates and the premiere Restored Land content in one package. This includes Legend Levels, New Game+, Ray Tracing, Nightmare Mode, dozens of new brutal finishers, hundreds of parkour and gameplay improvements, and numerous visual and audio enhancements - delivering new ways to experience the apocalypse.",
+  "v": 7,
+  "consultado": "2026-11-23T12:49:28.751Z"
 }

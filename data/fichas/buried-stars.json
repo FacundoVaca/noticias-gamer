@@ -1,9 +1,9 @@
 {
   "clave": "buried stars",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5aa9-7196-b931-f6ddfed526a8",
   "appid": "1025960",
@@ -42,6 +42,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "340867",
+      "nombre": "BURIED STARS",
+      "apps": [
+        {
+          "appid": "1025960",
+          "nombre": "BURIED STARS"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1025960": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -59,6 +80,7 @@
   ],
   "lanzamientoTexto": "29 NOV 2021",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "BURIED STARS",
   "acerca": [
     [
@@ -168,23 +190,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -251,5 +278,30 @@
     }
   ],
   "web": "https://buried-stars.com",
-  "consultado": "2026-11-22T22:30:47.314Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 137192,
+  "youtube": [
+    {
+      "id": "PnOTXcZWhB8",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "xJc5tE59cwM",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "Vu4-XZTwyUQ",
+      "nombre": "Game Intro"
+    },
+    {
+      "id": "IC19J43_m74",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:53:06.323Z"
 }

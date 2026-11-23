@@ -1,8 +1,8 @@
 {
   "clave": "born of bread baker edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-79a9-73a7-8c91-646a04b92745",
   "appid": null,
@@ -17,5 +17,30 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:28:58.854Z"
+  "igdbIntentado": true,
+  "igdb": 278720,
+  "youtube": [
+    {
+      "id": "x-yZf-nuMVo",
+      "nombre": null
+    },
+    {
+      "id": "2WBDM-Fa5EY",
+      "nombre": null
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scpqwi.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scpqwi.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+  ],
+  "resumenEn": "Born of Bread is a wacky and joyful RPG Adventure, revisiting turn-based combat tropes.\nPlay as Loaf, a flour-golem discovering this enchanting world full of humor, along with a colorful cast of buddies.\n\nThe Baker Edition includes:\n- Born of Bread\n- Digital Artbook & OST",
+  "v": 7,
+  "consultado": "2026-11-23T12:49:02.415Z"
 }

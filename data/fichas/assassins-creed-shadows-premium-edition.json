@@ -1,9 +1,9 @@
 {
   "clave": "assassins creed shadows premium edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01995205-bda2-73b9-adad-c6e5da1de649",
   "appid": "3159330",
@@ -117,6 +117,7 @@
   ],
   "lanzamientoTexto": "19 MAR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Assassin’s Creed Shadows",
   "acerca": [
     [
@@ -195,55 +196,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -351,5 +365,31 @@
     }
   ],
   "web": "http://www.assassinscreed.com/shadows",
-  "consultado": "2026-11-22T22:29:34.309Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is an action-adventure game in which players follow the stories of a shinobi assassin (Naoe) and a samurai (Yasuke) as they navigate turbulent clan wars during Sengoku-era Japan. Players explore open-world environments while performing missions (e.g., searching for items, infiltrating enemy compounds) and using stealth to kill human targets.",
+  "igdbIntentado": true,
+  "igdb": 300976,
+  "youtube": [
+    {
+      "id": "SHaN4MIGqpo",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "vovkzbtYBC8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "gD_DemeUuy8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jx8WN9fY22M",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:50:06.290Z"
 }

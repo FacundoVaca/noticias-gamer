@@ -1,8 +1,8 @@
 {
   "clave": "trepang2 banger edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-7160-702d-8162-954c133c84f3",
   "appid": null,
@@ -18,5 +18,55 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:30:43.802Z"
+  "igdbIntentado": true,
+  "igdb": 254414,
+  "youtube": [
+    {
+      "id": "mqfFlcvRDZQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "l4LLopEg1us",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o0.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o0.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o1.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o1.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o2.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o2.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o3.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o3.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o4.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o6.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o6.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scn3o7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scn3o7.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter"
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:53:00.767Z"
 }

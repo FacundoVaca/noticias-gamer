@@ -1,9 +1,9 @@
 {
   "clave": "titanfall 2 ultimate edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-267f-730f-bba4-2d6b52801740",
   "appid": "1237970",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "432912",
+      "nombre": "Titanfall® 2: Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1237970",
+          "nombre": "Titanfall® 2"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1237970": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 5,
   "dlcLista": [
     {
@@ -77,6 +98,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/titanfall-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Titanfall® 2",
   "acerca": [
     [
@@ -99,43 +121,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -223,5 +255,30 @@
     }
   ],
   "web": "https://www.ea.com/games/titanfall/titanfall-2",
-  "consultado": "2026-11-22T22:29:05.565Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 17447,
+  "youtube": [
+    {
+      "id": "zBcWai9LUG8",
+      "nombre": "Launch Trailer: Become One"
+    },
+    {
+      "id": "00wFXKzVYfE",
+      "nombre": "Single Player Gameplay Trailer"
+    },
+    {
+      "id": "cxH7f8yXY-c",
+      "nombre": "Multiplayer Gameplay Trailer"
+    },
+    {
+      "id": "bdvqUfYCyUI",
+      "nombre": "Encore Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:49:12.728Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "tom clancys the division definitive edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c2480-6dd5-7319-a1e5-9d4960fce9c3",
   "appid": "365590",
@@ -153,6 +153,7 @@
   ],
   "lanzamientoTexto": "7 MAR 2016",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Tom Clancy’s The Division™",
   "acerca": [
     [
@@ -220,63 +221,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -380,5 +396,32 @@
     }
   ],
   "web": "http://thedivisiongame.com",
-  "consultado": "2026-11-22T22:31:07.080Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a third-person shooter in which players assume the role of a sleeper agent of The Division, a secret government agency designed to respond to major disasters.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2114,
+  "youtube": [
+    {
+      "id": "dHeWVet92DE",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "JJfuKOnrBKU",
+      "nombre": "PC Gameplay Trailer"
+    },
+    {
+      "id": "lbnEkm3GMVw",
+      "nombre": "E3 Demo Gameplay"
+    },
+    {
+      "id": "jfjV0F_zG84",
+      "nombre": "Enemy Factions Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:53:46.933Z"
 }

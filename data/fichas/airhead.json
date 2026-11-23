@@ -1,9 +1,9 @@
 {
   "clave": "airhead",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3813-70fb-8da0-ffa68d67713d",
   "appid": "771700",
@@ -53,6 +53,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "230756",
+      "nombre": "Airhead",
+      "apps": [
+        {
+          "appid": "771700",
+          "nombre": "Airhead"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "771700": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Ayude a un cuerpo pequeño a salvar un organismo con forma de cabeza lleno de aire, de una fuga que amenaza su vida. Explore su mundo de estilo Metroidvania y supere los desafiantes rompecabezas ambientales para encontrar la clave para la supervivencia de la cabeza.",
   "generos": [
     "Aventura",
@@ -63,6 +84,7 @@
     "puntaje": 70,
     "url": "https://www.metacritic.com/game/pc/airhead?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Airhead",
   "acerca": [
     [
@@ -360,5 +382,30 @@
     }
   ],
   "web": "https://thqnordicmobile.com/en/games/airhead/",
-  "consultado": "2026-11-22T22:28:58.360Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 119015,
+  "youtube": [
+    {
+      "id": "zPjX5ECMLAU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RoYA99c7mek",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qJYyyslVkwA",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "9IYOOgY7xQo",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T12:48:55.792Z"
 }
