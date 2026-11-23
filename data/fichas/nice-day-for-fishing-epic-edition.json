@@ -1,8 +1,8 @@
 {
   "clave": "nice day for fishing epic edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "01971cc6-4d52-72b8-8dd8-c261f9c90790",
   "appid": null,
@@ -20,5 +20,53 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:31:30.282Z"
+  "igdbIntentado": true,
+  "igdb": 426911,
+  "youtube": [
+    {
+      "id": "F7lUdVuoDj8",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ara.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ara.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16arb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16arb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar2.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar2.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar3.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar3.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar4.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar6.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar6.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc16ar7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc16ar7.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "resumenEn": "The Epic Edition includes:\n- Legendary Rod\n- Legendary Hat\n- Legendary Ring\n- Legendary Necklace\n- 4 sails to customize Baelin's boat\n- \"Overpriced Cosmetic Item\" Rod\n- Ring of Dormor\n- \"Company Property\" Necklace\n- Tinfoil Hat",
+  "v": 7,
+  "consultado": "2026-11-23T13:00:53.322Z"
 }

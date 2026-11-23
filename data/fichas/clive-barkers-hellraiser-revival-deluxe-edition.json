@@ -1,6 +1,5 @@
 {
   "clave": "clive barkers hellraiser revival deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -82,6 +81,7 @@
   ],
   "lanzamientoTexto": "8 OCT 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Clive Barker's Hellraiser: Revival",
   "acerca": [
     [
@@ -122,35 +122,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -250,6 +258,11 @@
     }
   ],
   "web": "https://hellraisergame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game features depictions of mature language, strong violence, gore, torture, consensual mutilation, drug and alcohol abuse, tobacco use, and non-explicit consensual sex. Narrative sequences additionally contain themes of suicide, domestic abuse, BDSM practices, and addiction.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 356552,
   "youtube": [
@@ -270,5 +283,6 @@
       "nombre": "Story Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:14.842Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:27.320Z"
 }

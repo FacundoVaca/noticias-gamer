@@ -1,9 +1,9 @@
 {
   "clave": "railbreak",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-762e-71c9-9314-6e2962a33147",
   "appid": "2587170",
@@ -73,6 +73,7 @@
   ],
   "lanzamientoTexto": "22 DIC 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Railbreak",
   "acerca": [
     [
@@ -159,7 +160,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,5 +269,12 @@
     }
   ],
   "web": "http://www.outbreakzone.com",
-  "consultado": "2026-11-22T22:31:18.599Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Railbreak is a realistic, violent and gory on-rails first person shooter. The player will use firearms and explosives to destroy and dismember undead enemies. Enemies will show gore and blood. Enemies will bite the player. There will be screams and shouts. There is non-sexual nudity in the game in the form of zombies missing clothing.",
+  "igdbIntentado": true,
+  "igdb": 272195,
+  "v": 7,
+  "consultado": "2026-11-23T13:00:15.813Z"
 }

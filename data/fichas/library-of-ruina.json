@@ -1,6 +1,5 @@
 {
   "clave": "library of ruina",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -37,6 +36,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "436437",
+      "nombre": "Library Of Ruina",
+      "apps": [
+        {
+          "appid": "1256670",
+          "nombre": "Library Of Ruina"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1256670": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
@@ -62,6 +82,7 @@
   ],
   "lanzamientoTexto": "10 AGO 2021",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Library Of Ruina",
   "acerca": [
     [
@@ -273,19 +294,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -381,6 +406,10 @@
     }
   ],
   "web": "https://twitter.com/ProjMoonStudio",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
   "igdbIntentado": true,
   "igdb": 131760,
   "youtube": [
@@ -401,5 +430,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:39:50.241Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:07:06.212Z"
 }

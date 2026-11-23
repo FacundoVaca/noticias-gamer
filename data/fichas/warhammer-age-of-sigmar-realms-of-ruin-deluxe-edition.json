@@ -1,9 +1,9 @@
 {
   "clave": "warhammer age of sigmar realms of ruin deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7463-7223-8f70-5cc3efeff9a9",
   "appid": "1844380",
@@ -129,6 +129,7 @@
   ],
   "lanzamientoTexto": "17 NOV 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Warhammer Age of Sigmar: Realms of Ruin",
   "acerca": [
     [
@@ -208,59 +209,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -368,5 +383,30 @@
     }
   ],
   "web": "https://www.aosrealmsofruin.com/",
-  "consultado": "2026-11-22T22:31:28.784Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content",
+  "igdbIntentado": true,
+  "igdb": 250905,
+  "youtube": [
+    {
+      "id": "CXW7h2hC8_4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4wAL31C4QQI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "CkFjp2anJXU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "BBclwqcmzQA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:00:37.198Z"
 }

@@ -1,15 +1,71 @@
 {
   "clave": "rave heart",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-45d3-722f-b532-cb4f95dd4e09",
   "appid": null,
   "lanzamiento": "2020-08-28",
-  "desarrolladores": [],
-  "editores": [],
+  "desarrolladores": [
+    "Starmage"
+  ],
+  "editores": [
+    "Moz the Tiger"
+  ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:31:50.666Z"
+  "igdbIntentado": true,
+  "igdb": 369311,
+  "youtube": [
+    {
+      "id": "K7RTVqTpY0A",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Q-zm1xv6Zsc",
+      "nombre": "Teaser"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azo.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azo.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azh.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azh.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azf.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azf.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azg.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azg.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azi.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azi.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azj.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azj.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc13azk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc13azk.jpg"
+    }
+  ],
+  "generos": [
+    "Role-playing (RPG)",
+    "Indie"
+  ],
+  "resumenEn": "Rave Heart+ is an enhanced edition of the turn-based sci-fi RPG Rave Heart, combining classic JRPG exploration, party-based combat, and a story-driven adventure across an expansive galactic setting.\n\nThis edition introduces enhanced 2D visuals, redesigned combat encounters without random battles, new character artwork, professional voice acting, an original soundtrack, additional playable characters, and optional content. It also features rebalanced gameplay, updated interface elements, and various quality-of-life improvements.",
+  "v": 7,
+  "consultado": "2026-11-23T13:01:34.454Z"
 }

@@ -1,9 +1,10 @@
 {
   "clave": "anno 1800 definitive annoversary edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "018d937f-7644-7392-8341-3904ef06ca45",
   "appid": "916440",
@@ -335,6 +336,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/anno-1800?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Anno 1800",
   "acerca": [
     [
@@ -364,47 +366,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -504,5 +517,31 @@
     }
   ],
   "web": "https://www.anno-union.com",
-  "consultado": "2026-11-22T22:32:48.923Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "xbox": "9PH5X6HZ93P3",
+  "igdbIntentado": true,
+  "igdb": 55036,
+  "youtube": [
+    {
+      "id": "o2hLWQ8-JB8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AIGMu1mctpY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "B8ZspVPX6zI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "DZ3TOOvRfOE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:00:29.070Z"
 }

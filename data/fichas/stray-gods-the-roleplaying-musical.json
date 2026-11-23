@@ -1,9 +1,9 @@
 {
   "clave": "stray gods the roleplaying musical",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5e14-7001-96ae-9119832405f3",
   "appid": "1920780",
@@ -51,6 +51,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "691907",
+      "nombre": "Stray Gods: The Roleplaying Musical",
+      "apps": [
+        {
+          "appid": "1920780",
+          "nombre": "Stray Gods: The Roleplaying Musical"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1920780": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 6,
   "dlcLista": [
     {
@@ -102,6 +123,7 @@
   ],
   "lanzamientoTexto": "9 AGO 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Stray Gods: The Roleplaying Musical",
   "acerca": [
     [
@@ -165,27 +187,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -265,5 +293,30 @@
     }
   ],
   "web": "https://www.summerfallstudios.com",
-  "consultado": "2026-11-22T22:32:52.567Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 194506,
+  "youtube": [
+    {
+      "id": "coQQ-K8Iwi8",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "O8Aqw--qwAE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "I7u6dnpEIvk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HOWN60CXOFQ",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:03:48.153Z"
 }

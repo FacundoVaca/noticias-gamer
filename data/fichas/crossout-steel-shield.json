@@ -1,6 +1,5 @@
 {
   "clave": "crossout steel shield",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -33,6 +32,27 @@
   "juegoBase": {
     "appid": "386180",
     "nombre": "Crossout Remastered"
+  },
+  "ediciones": [
+    {
+      "packageid": "760902",
+      "nombre": "Crossout – Steel shield",
+      "apps": [
+        {
+          "appid": "2127180",
+          "nombre": "Crossout – Steel shield"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2127180": {
+      "usd": 59.99,
+      "gratis": false
+    }
   },
   "descripcion": "Vehículo blindado: “Mark XO”;Orugas únicas de rareza épica: “Goliath” (2 uds.);Armas: ametralladora frontal de rareza especial “M-25 Guardian” y cañón de rareza épica “Executioner 88mm”;Cabina: “Jawbreaker”;Retrato de personaje: “El viejo Mitch”;Holograma único;Bote de pintura único “Cubierta protectora”;Nueva pegatina: “Águila y...",
   "generos": [
@@ -140,31 +160,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -260,7 +287,12 @@
     }
   ],
   "web": "http://crossout.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 293766,
-  "consultado": "2026-11-22T22:40:23.291Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:02.156Z"
 }

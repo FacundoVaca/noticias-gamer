@@ -1,6 +1,5 @@
 {
   "clave": "train sim world 7 west coast main line trent valley milton keynes crewe route add on",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -26,6 +25,27 @@
   "juegoBase": {
     "appid": "4678800",
     "nombre": "Train Sim World® 7 "
+  },
+  "ediciones": [
+    {
+      "packageid": "1629246",
+      "nombre": "Train Sim World® 7: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
+      "apps": [
+        {
+          "appid": "4680670",
+          "nombre": "Train Sim World® 7: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On"
+        }
+      ],
+      "usd": 20.49,
+      "antes": 20.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4680670": {
+      "usd": 20.49,
+      "gratis": false
+    }
   },
   "descripcion": "Recorra la pista de la región interior de Inglaterra en West Coast Main Line Trent Valley: Milton Keynes - Crewe de All Aboard Studios para Train Sim World®. Embárquese en un emocionante trayecto de 108 millas a bordo de los expresos Avanti West Coast Evero y Class 350.",
   "generos": [
@@ -153,11 +173,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -195,6 +217,10 @@
     }
   ],
   "web": "http://trainsimworld.com/",
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
-  "consultado": "2026-11-22T22:39:22.311Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:02.395Z"
 }

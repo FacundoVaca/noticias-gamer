@@ -1,8 +1,8 @@
 {
   "clave": "kerbal space program complete edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-12f9-715a-9c15-9cfba3913824",
   "appid": null,
@@ -19,5 +19,28 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:32:34.994Z"
+  "igdbIntentado": true,
+  "igdb": 231007,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scudsw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scudsw.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scudsu.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scudsu.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scudsv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scudsv.jpg"
+    }
+  ],
+  "generos": [
+    "Simulator",
+    "Strategy",
+    "Indie"
+  ],
+  "resumenEn": "The Kerbal Space Program Complete Bundle includes the space simulation game Kerbal Space Program as well as the Making History & Breaking Ground expansions.",
+  "v": 7,
+  "consultado": "2026-11-23T13:03:17.727Z"
 }

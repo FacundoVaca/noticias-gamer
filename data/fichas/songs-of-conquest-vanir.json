@@ -1,9 +1,9 @@
 {
   "clave": "songs of conquest vanir",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01926b50-5fca-7398-99bf-d04129534c4f",
   "appid": "3260210",
@@ -35,6 +35,27 @@
   "juegoBase": {
     "appid": "867210",
     "nombre": "Songs of Conquest"
+  },
+  "ediciones": [
+    {
+      "packageid": "1155333",
+      "nombre": "Songs of Conquest - Vanir",
+      "apps": [
+        {
+          "appid": "3260210",
+          "nombre": "Songs of Conquest - Vanir"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 6.59,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3260210": {
+      "usd": 6.59,
+      "gratis": false
+    }
   },
   "descripcion": "Desde las costas de Levante Umbrío, llega a Songs of Conquest la primera facción añadida. Conquista las tierras de Aerbor encarnando a los temibles forajidos de Vanir y presencia su sobrecogedora transformación en Vildra.",
   "generos": [
@@ -162,59 +183,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -252,5 +287,23 @@
     }
   ],
   "web": "https://www.songsofconquest.com/",
-  "consultado": "2026-11-22T22:31:50.184Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 319147,
+  "youtube": [
+    {
+      "id": "4j_YoiLtkMk",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "-QFTlDVT36s",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:01:31.156Z"
 }

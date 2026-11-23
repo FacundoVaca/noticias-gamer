@@ -1,6 +1,5 @@
 {
   "clave": "microsoft flight simulator 2024 premium deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -128,6 +127,7 @@
   ],
   "lanzamientoTexto": "19 NOV 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Microsoft Flight Simulator 2024",
   "acerca": [
     [
@@ -292,75 +292,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -476,6 +494,9 @@
     }
   ],
   "web": "https://www.flightsimulator.com/",
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 252830,
   "youtube": [
@@ -496,5 +517,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:40:41.103Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:31.637Z"
 }

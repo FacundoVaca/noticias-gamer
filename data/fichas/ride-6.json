@@ -1,6 +1,5 @@
 {
   "clave": "ride 6",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -177,6 +176,7 @@
   ],
   "lanzamientoTexto": "12 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "RIDE 6",
   "acerca": [
     [
@@ -247,43 +247,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -383,6 +393,10 @@
     }
   ],
   "web": "https://milestone.it/games/ride-6/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 377690,
   "youtube": [
@@ -395,5 +409,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:44.484Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:55.922Z"
 }

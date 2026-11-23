@@ -1,6 +1,5 @@
 {
   "clave": "onechanbara z2 chaos",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -48,6 +47,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "95314",
+      "nombre": "Onechanbara Z2: Chaos",
+      "apps": [
+        {
+          "appid": "446390",
+          "nombre": "Onechanbara Z2: Chaos"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "446390": {
+      "usd": 39.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 37,
   "dlcLista": [
     {
@@ -316,6 +336,7 @@
   ],
   "lanzamientoTexto": "2 JUN 2016",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Onechanbara Z2: Chaos",
   "acerca": [
     [
@@ -359,11 +380,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -463,6 +486,10 @@
     }
   ],
   "web": "http://www.d3p.co.jp/anez2_chaos_pc/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 11004,
   "youtube": [
@@ -479,5 +506,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:19.613Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:31.363Z"
 }

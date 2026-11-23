@@ -194,6 +194,7 @@
   ],
   "lanzamientoTexto": "26 ENE 2016",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "LEGO® MARVEL's Avengers",
   "acerca": [
     [
@@ -217,51 +218,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -377,6 +390,10 @@
     }
   ],
   "web": "http://videogames.lego.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 11069,
   "youtube": [
@@ -389,6 +406,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:22.309Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:07:01.040Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "rival stars horse racing",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
@@ -8,8 +7,12 @@
   "itad": "018d937f-4d1d-7246-b421-3732aa4da821",
   "appid": null,
   "lanzamiento": "2020-06-24",
-  "desarrolladores": [],
-  "editores": [],
+  "desarrolladores": [
+    "PikPok"
+  ],
+  "editores": [
+    "PikPok"
+  ],
   "etiquetas": [],
   "resenas": [],
   "igdbIntentado": true,
@@ -24,5 +27,30 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:14.020Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2e1.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scu2e1.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2e2.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scu2e2.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2e3.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scu2e3.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scu2e4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scu2e4.jpg"
+    }
+  ],
+  "generos": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "resumenEn": "Breed and train horses, manage your stable, and race to become a champion!\nWhether you’re a fan of derby racing, animal games or pet horses, your exciting horse simulation journey begins with Rival Stars Horse Racing.",
+  "v": 7,
+  "consultado": "2026-11-23T13:06:25.403Z"
 }

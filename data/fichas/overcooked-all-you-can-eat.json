@@ -1,6 +1,5 @@
 {
   "clave": "overcooked all you can eat",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -50,6 +49,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "431664",
+      "nombre": "Overcooked! All You Can Eat",
+      "apps": [
+        {
+          "appid": "1243830",
+          "nombre": "Overcooked! All You Can Eat"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1243830": {
+      "usd": 18.99,
+      "gratis": false
+    }
+  },
   "descripcion": "El Reino de la Cebolla tiene mucho que ofrecerte: Overcooked 1 y 2 aderezados con un increíble 4k y unos dulces 60 FPS. Completamente remasterizado y cocinado a fuego lento. Disfruta de más de 200 niveles (22 nuevos) y más de 80 chefs (3 nuevos). Vive la experiencia más gastronómica de Overcooked.",
   "generos": [
     "Casual",
@@ -59,6 +79,7 @@
   ],
   "lanzamientoTexto": "23 MAR 2021",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Overcooked! All You Can Eat",
   "acerca": [
     [
@@ -141,55 +162,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -277,6 +311,10 @@
     }
   ],
   "web": "https://www.team17.com/games/overcooked-all-you-can-eat",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 135915,
   "youtube": [
@@ -297,5 +335,6 @@
       "nombre": "TGA 2020 Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:23.038Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:02:40.524Z"
 }

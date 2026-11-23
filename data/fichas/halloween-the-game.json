@@ -1,15 +1,19 @@
 {
   "clave": "halloween the game",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
   ],
   "itad": "019e1f39-823b-7364-9133-d36167f7ce9f",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2026-09-08",
+  "desarrolladores": [
+    "Illfonic"
+  ],
+  "editores": [
+    "Illfonic",
+    "Gun Interactive"
+  ],
   "etiquetas": [],
   "resenas": [
     {
@@ -45,5 +49,32 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:45.082Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6z.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scyn6z.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6y.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scyn6y.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn6x.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scyn6x.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn70.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scyn70.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scyn71.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scyn71.jpg"
+    }
+  ],
+  "generos": [
+    "Adventure"
+  ],
+  "resumenEn": "On Halloween night, 1978, no one is safe from Michael Myers. Become the Boogeyman or fight back against the face of evil itself in Halloween.",
+  "v": 7,
+  "consultado": "2026-11-23T13:03:26.790Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "reanimal digital deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -109,6 +108,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/reanimal?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "REANIMAL",
   "acerca": [
     [
@@ -171,63 +171,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -335,6 +350,12 @@
     }
   ],
   "web": "https://reanimal.thqnordic.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "This Game may contain content not appropriate for all ages or may not be appropriate for viewing at work: Violence or Gore, General Mature Content, Nudity and Depictions of Suicide as well as Frightening Scenes and Psychological Horror.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 314265,
   "youtube": [
@@ -355,5 +376,6 @@
       "nombre": "Release Date Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:50.957Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:02:51.464Z"
 }

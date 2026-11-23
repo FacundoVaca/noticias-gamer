@@ -104,7 +104,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -187,8 +188,11 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659640/c5a3129592121eecbe812c8c618e4a2b5490d8d1/ss_c5a3129592121eecbe812c8c618e4a2b5490d8d1.1920x1080.jpg?t=1784300676"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 376580,
-  "v": 6,
-  "consultado": "2026-11-22T22:47:46.868Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:07:09.915Z"
 }

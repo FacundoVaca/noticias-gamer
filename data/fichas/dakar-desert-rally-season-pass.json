@@ -1,6 +1,5 @@
 {
   "clave": "dakar desert rally season pass",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -30,6 +29,27 @@
     "appid": "1839940",
     "nombre": "Dakar Desert Rally"
   },
+  "ediciones": [
+    {
+      "packageid": "778963",
+      "nombre": "Dakar Desert Rally - Season Pass",
+      "apps": [
+        {
+          "appid": "2175710",
+          "nombre": "Dakar Desert Rally - Season Pass"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2175710": {
+      "usd": 18.99,
+      "gratis": false
+    }
+  },
   "descripcion": "El pase de batalla de Dakar Desert Rallly incluye 2 desbloqueos de vehículo inmediatos desde el primer día: el camión DAF Turbo-Twin y el Peugeot 405 Turbo 16, así como 5 paquetes DLC todavía por llegar con vehículos nuevos, un mapa nuevo y 2 eventos de rally nuevos; todo ello a precio reducido.",
   "generos": [
     "Carreras"
@@ -54,31 +74,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -154,5 +181,10 @@
     }
   ],
   "web": "https://www.dakarthegame.com/en/",
-  "consultado": "2026-11-22T22:32:17.869Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T13:02:31.247Z"
 }

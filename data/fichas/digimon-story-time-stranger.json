@@ -1,6 +1,5 @@
 {
   "clave": "digimon story time stranger",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -200,6 +199,7 @@
   ],
   "lanzamientoTexto": "2 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Digimon Story Time Stranger",
   "caracteristicas": [
     "Un jugador",
@@ -216,47 +216,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -364,6 +375,11 @@
     }
   ],
   "web": "https://digimonstory-ts.bn-ent.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Este juego contiene consumo de tabaco y alcohol, suicidio, vestimenta reveladora y lenguaje obsceno leve.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 331188,
   "youtube": [
@@ -384,5 +400,6 @@
       "nombre": "Release Date Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:53.062Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:00:01.361Z"
 }

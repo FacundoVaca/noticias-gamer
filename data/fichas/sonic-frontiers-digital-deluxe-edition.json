@@ -1,15 +1,61 @@
 {
   "clave": "sonic frontiers digital deluxe edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-78c0-716e-91f1-31610a3d05dd",
   "appid": null,
   "lanzamiento": "2022-11-08",
-  "desarrolladores": [],
-  "editores": [],
+  "desarrolladores": [
+    "Sonic Team"
+  ],
+  "editores": [
+    "Sega"
+  ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:32:01.613Z"
+  "igdbIntentado": true,
+  "igdb": 214559,
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp4.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp6.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp6.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp9.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtpa.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtpa.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scjtp3.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scjtp3.jpg"
+    }
+  ],
+  "generos": [
+    "Platform",
+    "Adventure"
+  ],
+  "resumenEn": "Worlds will collide in Sonic the Hedgehog’s newest adventure. An experience like never before, accelerate to new heights and experience the thrill of high velocity open-zone freedom. Battle powerful enemies as you speed through the Starfall Islands - landscapes brimming with dense forests, overflowing waterfalls, sizzling deserts and more!\n\nThe Digital Deluxe Edition includes:\n• Sonic Frontiers\n• Explorer's Treasure Box\n• Digital Art Book and Mini Soundtrack",
+  "v": 7,
+  "consultado": "2026-11-23T13:02:08.562Z"
 }

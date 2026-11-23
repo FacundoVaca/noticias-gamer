@@ -1,9 +1,9 @@
 {
   "clave": "eternights deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-74d3-72e3-aba2-5ce3722a8b9d",
   "appid": "1402110",
@@ -92,6 +92,7 @@
   ],
   "lanzamientoTexto": "11 SEP 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Eternights",
   "acerca": [
     [
@@ -153,43 +154,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -289,5 +300,31 @@
     }
   ],
   "web": "https://www.eternights.com",
-  "consultado": "2026-11-22T22:31:42.704Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game features implicit sexual behavior, violence and blood and gore (including mutilation), and imagery that some players may find disturbing.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 203367,
+  "youtube": [
+    {
+      "id": "pl5l3nR1mhI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "uQx2qnsuOl4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NjMEQJp_eF4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "oldtclZHLLI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:01:18.817Z"
 }

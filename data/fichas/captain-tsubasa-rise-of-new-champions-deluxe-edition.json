@@ -247,6 +247,7 @@
     "puntaje": 75,
     "url": "https://www.metacritic.com/game/pc/captain-tsubasa-rise-of-new-champions?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Captain Tsubasa: Rise of New Champions",
   "acerca": [
     [
@@ -305,39 +306,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -453,6 +463,10 @@
     }
   ],
   "web": "https://bnent.eu/CptTsubasaRONC",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 128769,
   "youtube": [
@@ -473,6 +487,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:46:59.348Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:44.181Z"
 }

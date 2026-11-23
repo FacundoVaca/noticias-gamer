@@ -1,6 +1,5 @@
 {
   "clave": "the elder scrolls iv oblivion remastered",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -103,6 +102,7 @@
   ],
   "lanzamientoTexto": "22 ABR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Elder Scrolls IV: Oblivion Remastered",
   "acerca": [
     [
@@ -160,39 +160,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -292,6 +301,11 @@
     }
   ],
   "web": "http://www.elderscrolls.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Sexual Themes Violence",
   "igdbIntentado": true,
   "igdb": 267306,
   "youtube": [
@@ -304,5 +318,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:57.812Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:03:02.076Z"
 }

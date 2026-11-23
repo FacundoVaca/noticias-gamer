@@ -1,6 +1,5 @@
 {
   "clave": "crossout arachnida",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -32,6 +31,27 @@
   "juegoBase": {
     "appid": "386180",
     "nombre": "Crossout Remastered"
+  },
+  "ediciones": [
+    {
+      "packageid": "552153",
+      "nombre": "Crossout — Arachnida",
+      "apps": [
+        {
+          "appid": "1563120",
+          "nombre": "Crossout — Arachnida"
+        }
+      ],
+      "usd": 54.99,
+      "antes": 54.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1563120": {
+      "usd": 54.99,
+      "gratis": false
+    }
   },
   "descripcion": "Vehículo blindado “Hadogenes”;Retrato único “Parker”;Botes de pintura únicos “Quitina” y “Toxina”;Holograma único “Aguijón”;3000 coins;Pegatinas únicas;Cabina “Steppe spider”;Cañónes automáticos “AC43 Rapier” y “AC50 Storm”;Patas mecánicas “ML-200” (4 uds.).",
   "generos": [
@@ -139,31 +159,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -251,6 +278,11 @@
     }
   ],
   "web": "http://crossout.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "consultado": "2026-11-22T22:41:11.742Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:18.019Z"
 }

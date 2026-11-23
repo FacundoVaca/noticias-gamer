@@ -1,6 +1,5 @@
 {
   "clave": "bioshock the collection",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
@@ -70,5 +69,39 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:47.232Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/wftwriye0b3epigtpgrz.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/wftwriye0b3epigtpgrz.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/twaovwuvbv4poip7yvfk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/twaovwuvbv4poip7yvfk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/yzcgyipxn1eaqfjh7cva.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/yzcgyipxn1eaqfjh7cva.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctl7p.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctl7p.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/bozzn32ymx0t7duwqueu.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/bozzn32ymx0t7duwqueu.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sctl7q.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sctl7q.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Puzzle",
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "resumenEn": "BioShock: The Collection is a game bundle consisting of remastered 1080p editions of BioShock, BioShock 2 and BioShock Infinite along with their accompanying downloadable content.",
+  "v": 7,
+  "consultado": "2026-11-23T13:03:15.864Z"
 }

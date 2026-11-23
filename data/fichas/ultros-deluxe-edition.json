@@ -1,9 +1,9 @@
 {
   "clave": "ultros deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-798d-7144-9df0-d778eadf60a8",
   "appid": "2386310",
@@ -96,6 +96,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/ultros?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Ultros",
   "acerca": [
     [
@@ -134,47 +135,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -258,5 +270,32 @@
     }
   ],
   "web": "http://www.ultrosgame.com",
-  "consultado": "2026-11-22T22:31:37.342Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "Este juego contiene violencia y sangre de fantasía, y desnudez ligera representada de forma artística.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 250626,
+  "youtube": [
+    {
+      "id": "5DgpNU5opH4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "CE5eUmQtpCQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "M2HHC--J_M4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "nBU6DOnys7k",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:01:10.325Z"
 }

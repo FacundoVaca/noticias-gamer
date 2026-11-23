@@ -36,7 +36,7 @@
     },
     {
       "fuente": "Metacritic User Score",
-      "puntaje": 70,
+      "puntaje": 69,
       "cantidad": 9,
       "url": "https://metacritic.com/game/the-walking-dead-streets-of-survival/user-reviews/?platform=pc"
     },
@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1802721",
+      "nombre": "The Walking Dead: Streets of Survival",
+      "apps": [
+        {
+          "appid": "3777850",
+          "nombre": "The Walking Dead: Streets of Survival"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3777850": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -64,6 +85,7 @@
   ],
   "lanzamientoTexto": "18 SEP 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Walking Dead: Streets of Survival",
   "acerca": [
     [
@@ -115,35 +137,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -239,6 +269,12 @@
     }
   ],
   "web": "https://trailmarkgames.com/games/the-walking-dead-streets-of-survival/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This is a side-scrolling fighting game in which players control characters from the The Walking Dead engaging in combat with human and non-human enemies. From a 2D perspective, players user a variety of weapons as they progress through the game. There is frequent blood and gore.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 409384,
   "youtube": [
@@ -251,6 +287,6 @@
       "nombre": "Gameplay Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:48:09.074Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:07.336Z"
 }

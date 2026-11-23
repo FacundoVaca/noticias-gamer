@@ -1,6 +1,5 @@
 {
   "clave": "full stride",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -31,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1464802",
+      "nombre": "Full Stride",
+      "apps": [
+        {
+          "appid": "4181970",
+          "nombre": "Full Stride"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4181970": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Full Stride is an authentic jockey racing game where you take on the role of a jockey and challenge the race.",
   "generos": [
     "Indie",
@@ -39,6 +59,7 @@
   ],
   "lanzamientoTexto": "15 JUL 2026",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Full Stride",
   "acerca": [
     [
@@ -142,11 +163,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -233,6 +256,9 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4181970/fdc6ee898901f38c4993d92e65555d41bde9eb3d/ss_fdc6ee898901f38c4993d92e65555d41bde9eb3d.1920x1080.jpg?t=1784127836"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 382991,
   "youtube": [
@@ -249,5 +275,6 @@
       "nombre": "Release Date Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:25.193Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:36.467Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "assassins creed iii remastered",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -51,6 +50,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "292269",
+      "nombre": "Assassin's Creed 3 Remastered Edition",
+      "apps": [
+        {
+          "appid": "911400",
+          "nombre": "Assassin's Creed® III Remastered"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "911400": {
+      "usd": 31.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Vuelve a vivir la Revolución Americana o experiméntala por primera vez en Assassin's Creed® III Remastered, con nuevos gráficos y mecánicas de gameplay mejoradas. Incluye todos los DLC del modo Historia y Assassin's Creed Liberation Remastered.",
   "generos": [
     "Acción",
@@ -58,6 +78,7 @@
   ],
   "lanzamientoTexto": "29 MAR 2019",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Assassin's Creed® III Remastered",
   "acerca": [
     [
@@ -97,55 +118,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -244,6 +278,9 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/ss_d1d3c22d293e739358c8d28601e34f34e319cd8d.1920x1080.jpg?t=1786631735"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
   "igdbIntentado": true,
   "igdb": 237701,
   "youtube": [
@@ -252,5 +289,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:42:09.065Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:21.767Z"
 }

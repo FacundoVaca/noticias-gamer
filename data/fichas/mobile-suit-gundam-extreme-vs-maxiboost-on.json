@@ -1,15 +1,19 @@
 {
   "clave": "mobile suit gundam extreme vs maxiboost on",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
   ],
   "itad": "0191e1ab-f2e2-7026-ba68-406aa161e0d8",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2016-03-09",
+  "desarrolladores": [
+    "Bandai Namco Studios"
+  ],
+  "editores": [
+    "Bandai Namco Games",
+    "Bandai Namco Entertainment"
+  ],
   "etiquetas": [],
   "resenas": [],
   "igdbIntentado": true,
@@ -24,5 +28,32 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:40:25.175Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8dyb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc8dyb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8dyc.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc8dyc.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8dyd.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc8dyd.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8dye.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc8dye.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc8dyf.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc8dyf.jpg"
+    }
+  ],
+  "generos": [
+    "Fighting"
+  ],
+  "resumenEn": "Mobile Suit Gundam Extreme Vs. Maxi Boost ON is a port of the arcade version of the same game, that started operation in 2016.\nThis 2vs2 team battle action game allows you to control Mobile Suits that have appeared in numerous Gundam works! In addition to the 183 units that appeared in the arcade version, you can also use 2 MS that are new to the game !",
+  "v": 7,
+  "consultado": "2026-11-23T13:05:03.827Z"
 }

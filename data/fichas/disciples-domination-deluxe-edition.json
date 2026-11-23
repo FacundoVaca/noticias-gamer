@@ -1,6 +1,5 @@
 {
   "clave": "disciples domination deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -100,6 +99,7 @@
   ],
   "lanzamientoTexto": "12 FEB 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Disciples: Domination",
   "acerca": [
     [
@@ -165,31 +165,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -305,6 +312,12 @@
     }
   ],
   "web": "https://www.kalypsomedia.com/disciples-domination",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "The game contains content that may not be appropriate for all ages, featuring fantasy violence and combat scenes.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 360140,
   "youtube": [
@@ -325,5 +338,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:39:16.848Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:03:57.084Z"
 }

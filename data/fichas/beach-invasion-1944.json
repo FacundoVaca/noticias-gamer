@@ -1,9 +1,9 @@
 {
   "clave": "beach invasion 1944",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6780-709b-bbfc-a2713e21d462",
   "appid": "2209680",
@@ -30,6 +30,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "791330",
+      "nombre": "Beach Invasion 1944",
+      "apps": [
+        {
+          "appid": "2209680",
+          "nombre": "Beach Invasion 1944"
+        }
+      ],
+      "usd": 5.79,
+      "antes": 5.79,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2209680": {
+      "usd": 5.79,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -49,6 +70,7 @@
   ],
   "lanzamientoTexto": "2 DIC 2022",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Beach Invasion 1944",
   "acerca": [
     [
@@ -99,71 +121,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -255,5 +294,23 @@
     }
   ],
   "web": "http://www.aix2games.net/",
-  "consultado": "2026-11-22T22:31:46.988Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Minimal blood, mild violence, recommended for 12+",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 228204,
+  "youtube": [
+    {
+      "id": "4QVG7-bqS-M",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fE6443pIakQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:01:26.393Z"
 }

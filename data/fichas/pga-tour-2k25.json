@@ -1,6 +1,5 @@
 {
   "clave": "pga tour 2k25",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -208,6 +207,7 @@
   ],
   "lanzamientoTexto": "27 FEB 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "PGA TOUR 2K25",
   "acerca": [
     [
@@ -278,39 +278,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -409,6 +418,10 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385530/ss_d5e1fac157f9ec1da217e5a7e881ecdffca8cbee.1920x1080.jpg?t=1790783811"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 328079,
   "youtube": [
@@ -417,5 +430,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:41.089Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:02:25.658Z"
 }

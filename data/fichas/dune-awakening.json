@@ -48,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1274037",
+      "nombre": "Dune: Awakening",
+      "apps": [
+        {
+          "appid": "1172710",
+          "nombre": "Dune: Awakening"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1172710": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 6,
   "dlcLista": [
     {
@@ -102,6 +123,7 @@
   ],
   "lanzamientoTexto": "10 JUN 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Dune: Awakening",
   "acerca": [
     [
@@ -184,59 +206,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -352,6 +388,12 @@
     }
   ],
   "web": "https://duneawakening.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The game features depictions of violence, blood, and imagery that some may find disturbing.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 214394,
   "youtube": [
@@ -372,6 +414,6 @@
       "nombre": "Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:52:58.985Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:20.338Z"
 }

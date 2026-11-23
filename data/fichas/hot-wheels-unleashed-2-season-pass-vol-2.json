@@ -1,9 +1,9 @@
 {
   "clave": "hot wheels unleashed 2 season pass vol 2",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018e6014-551a-7084-9c12-b610ab2e749c",
   "appid": "2475570",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "2051120",
     "nombre": "HOT WHEELS UNLEASHED™ 2 - Turbocharged"
+  },
+  "ediciones": [
+    {
+      "packageid": "890973",
+      "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 2",
+      "apps": [
+        {
+          "appid": "2475570",
+          "nombre": "HOT WHEELS UNLEASHED™ 2 - Season Pass Vol. 2"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2475570": {
+      "usd": 29.99,
+      "gratis": false
+    }
   },
   "descripcion": "2 entornos en los que puedes crear tus propias pistas, 2 áreas para añadir al modo Hot Wheels™ Creature Rampage y 24 vehículos para ganar con estilo: ¡todo esto te espera en el Season Pass Vol. 2!",
   "generos": [
@@ -190,5 +211,12 @@
     }
   ],
   "web": "https://www.hotwheelsunleashed.com/",
-  "consultado": "2026-11-22T22:32:24.333Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 293137,
+  "v": 7,
+  "consultado": "2026-11-23T13:02:45.451Z"
 }

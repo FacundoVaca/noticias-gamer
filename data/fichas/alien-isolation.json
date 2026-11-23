@@ -54,6 +54,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "51156",
+      "nombre": "Alien: Isolation",
+      "apps": [
+        {
+          "appid": "214490",
+          "nombre": "Alien: Isolation"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "214490": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 7,
   "dlcLista": [
     {
@@ -115,6 +136,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/alien-isolation?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Alien: Isolation",
   "acerca": [
     [
@@ -150,39 +172,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -290,6 +321,14 @@
     }
   ],
   "web": "http://www.alienisolation.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 16,
+  "avisoContenido": "Although the objective of the game is to avoid the alien, when you do have an encounter that you cannot escape from, the alien can kill the player and other characters in a graphic manner. Typically this is where the alien’s large claws are stuck through the back or abdomen, then come out the other side. This is accompanied with realistic depictions of blood and gore.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 4754,
   "youtube": [
@@ -310,6 +349,6 @@
       "nombre": "Improvise CGI Trailer"
     }
   ],
-  "v": 6,
-  "consultado": "2026-11-22T22:47:42.936Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:42.504Z"
 }

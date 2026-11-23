@@ -1,9 +1,9 @@
 {
   "clave": "sonic x shadow generations digital deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ff4ee-908e-70c1-9ada-70ffed6ae9fa",
   "appid": "2513280",
@@ -135,6 +135,7 @@
   ],
   "lanzamientoTexto": "24 OCT 2024",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "SONIC X SHADOW GENERATIONS",
   "acerca": [
     [
@@ -203,55 +204,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -351,5 +365,30 @@
     }
   ],
   "web": "https://Sonicxshadowgenerations.com",
-  "consultado": "2026-11-22T22:32:31.190Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 284716,
+  "youtube": [
+    {
+      "id": "ihUiNzrcG4Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ykjEi2Dupgk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6E36fOpk-Yg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "yzK7gQWDnRk",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:03:09.485Z"
 }

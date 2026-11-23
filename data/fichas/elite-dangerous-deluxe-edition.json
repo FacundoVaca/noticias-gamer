@@ -1,9 +1,9 @@
 {
   "clave": "elite dangerous deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-330f-7041-9f96-a56c93be0e90",
   "appid": "359320",
@@ -95,6 +95,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/elite-dangerous?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Elite Dangerous",
   "acerca": [
     [
@@ -185,27 +186,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -313,5 +320,25 @@
     }
   ],
   "web": "http://www.elitedangerous.com/",
-  "consultado": "2026-11-22T22:32:39.714Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 2955,
+  "youtube": [
+    {
+      "id": "X1IQK8Dhg_Y",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Yvrkbp2nINI",
+      "nombre": "Gamescom 2015 Trailer"
+    },
+    {
+      "id": "oagSog5lU6s",
+      "nombre": "Launch Trailer PS4"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:03:24.456Z"
 }

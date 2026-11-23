@@ -1,9 +1,9 @@
 {
   "clave": "lifted",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0196d1a4-3cb2-72bd-953c-1d729efd1733",
   "appid": "2184020",
@@ -50,6 +50,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "781902",
+      "nombre": "LIFTED",
+      "apps": [
+        {
+          "appid": "2184020",
+          "nombre": "LIFTED"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 4.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2184020": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -68,6 +89,7 @@
   ],
   "lanzamientoTexto": "22 JUL 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "LIFTED",
   "acerca": [
     [
@@ -124,7 +146,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Eslovaco",
@@ -132,55 +155,68 @@
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -280,5 +316,32 @@
     }
   ],
   "web": "https://adventure.works/pages/lifted",
-  "consultado": "2026-11-22T22:31:22.248Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 309518,
+  "youtube": [
+    {
+      "id": "mh6Fo0WNths",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "PrF3Loz9Y4o",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "dxHYIWSY3Z4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "FXuxX3qQ2U4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:00:21.501Z"
 }

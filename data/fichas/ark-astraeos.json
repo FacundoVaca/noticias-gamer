@@ -1,6 +1,5 @@
 {
   "clave": "ark astraeos",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -35,6 +34,27 @@
   "juegoBase": {
     "appid": "2399830",
     "nombre": "ARK: Survival Ascended"
+  },
+  "ediciones": [
+    {
+      "packageid": "1230287",
+      "nombre": "ARK: Astraeos",
+      "apps": [
+        {
+          "appid": "3483400",
+          "nombre": "ARK: Astraeos"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3483400": {
+      "usd": 14.99,
+      "gratis": false
+    }
   },
   "descripcion": "¡Embárcate en tu próxima odisea épica! Explora una tierra de proporciones colosales impregnada de mitología griega, repleta de paisajes impresionantes, ruinas antiguas y templos sagrados, con mares agitados navegables por poderosas trirremes.",
   "generos": [
@@ -136,67 +156,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -234,7 +270,12 @@
     }
   ],
   "web": "http://www.playark.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 428614,
-  "consultado": "2026-11-22T22:40:47.571Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:36.739Z"
 }

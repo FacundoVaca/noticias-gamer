@@ -1,8 +1,8 @@
 {
   "clave": "guacamelee 2 complete",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937f-2424-73b7-80fa-04f3750e9326",
   "appid": null,
@@ -17,5 +17,54 @@
   ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:31:29.789Z"
+  "igdbIntentado": true,
+  "igdb": 119074,
+  "youtube": [
+    {
+      "id": "_Djemorh1nk",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scasst.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scasst.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scassu.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scassu.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scassv.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scassv.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scassw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scassw.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scassx.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scassx.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scassz.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scassz.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scast1.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scast1.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scast4.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scast4.jpg"
+    }
+  ],
+  "generos": [
+    "Fighting",
+    "Platform",
+    "Adventure"
+  ],
+  "resumenEn": "Get the complete Guacamelee! 2 experience by picking up the game and both DLC packs together!\n\nThe celebrated metroidvania is here in its ultimate form. Punch and suplex your way through the entire story in the game-changing costumes of the 'Three Enemigos' character pack, and enjoy the savage challenges and rewards of the 'Proving Grounds' challenge level.",
+  "v": 7,
+  "consultado": "2026-11-23T13:00:49.589Z"
 }

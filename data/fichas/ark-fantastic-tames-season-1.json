@@ -1,6 +1,5 @@
 {
   "clave": "ark fantastic tames season 1",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -34,6 +33,27 @@
   "juegoBase": {
     "appid": "2399830",
     "nombre": "ARK: Survival Ascended"
+  },
+  "ediciones": [
+    {
+      "packageid": "1589324",
+      "nombre": "ARK Fantastic Tames Season 1",
+      "apps": [
+        {
+          "appid": "4558510",
+          "nombre": "ARK Fantastic Tames Season 1"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4558510": {
+      "usd": 9.99,
+      "gratis": false
+    }
   },
   "descripcion": "Fantastic Tames Temporada 1 trae tres nuevos compañeros: Burrowbuck, Cerberax y Enigmasaur. ¡Excava túneles bajo tierra, arrasa las líneas del frente con ataques de múltiples cabezas o imita formas de criaturas robadas!",
   "generos": [
@@ -111,67 +131,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -209,6 +245,11 @@
     }
   ],
   "web": "http://www.playark.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "consultado": "2026-11-22T22:41:07.436Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:06:23.760Z"
 }

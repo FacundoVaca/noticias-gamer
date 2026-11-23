@@ -1,9 +1,9 @@
 {
   "clave": "f1 manager 2024 deluxe edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018f7cae-e86a-7045-9a32-1609e638316b",
   "appid": "2591280",
@@ -98,6 +98,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/f1-manager-2024?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "F1® Manager 2024",
   "acerca": [
     [
@@ -212,55 +213,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -352,5 +366,29 @@
     }
   ],
   "web": "https://www.f1manager.com",
-  "consultado": "2026-11-22T22:31:55.843Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 290808,
+  "youtube": [
+    {
+      "id": "oRgrPDHCoHg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "8LoKSdzT89A",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "5Q34fea5MT8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "6E4_cCbfWw0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:01:41.708Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "call of heroes tower defense",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018dba9b-0413-706b-b810-1fb0cd0e6f67",
   "appid": "3248260",
@@ -31,6 +31,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1151315",
+      "nombre": "Call of Heroes: Tower Defense",
+      "apps": [
+        {
+          "appid": "3248260",
+          "nombre": "Call of Heroes: Tower Defense"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3248260": {
+      "usd": 4.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Embárcate en una jornada mágica y emocionante para proteger el reino de las hadas en este épico juego de TD. Recluta héroes únicos con poderosas habilidades mágicas. Crea armas exclusivas para cada héroe. ¡Defiende el reino de las hadas!",
   "generos": [
     "Indie",
@@ -306,5 +327,12 @@
     }
   ],
   "web": "http://www.bakartgames.com",
-  "consultado": "2026-11-22T22:32:08.427Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 287981,
+  "v": 7,
+  "consultado": "2026-11-23T13:02:18.333Z"
 }

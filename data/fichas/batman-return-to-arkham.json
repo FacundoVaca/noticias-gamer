@@ -1,15 +1,18 @@
 {
   "clave": "batman return to arkham",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
   ],
   "itad": "018d937f-7a2a-7298-a77d-a62e76a088a9",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2016-10-18",
+  "desarrolladores": [
+    "Virtuos"
+  ],
+  "editores": [
+    "WB Games"
+  ],
   "etiquetas": [],
   "resenas": [],
   "igdbIntentado": true,
@@ -24,5 +27,34 @@
       "nombre": "Side by Side Comparison"
     }
   ],
-  "consultado": "2026-11-22T22:40:11.154Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ldvklsva2j5klvopvsmf.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/ldvklsva2j5klvopvsmf.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ggc6pihcjvcrhiytujdb.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/ggc6pihcjvcrhiytujdb.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/icqqd9frm67e47d7zb7p.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/icqqd9frm67e47d7zb7p.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/forpkc92qudmha2rjcov.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/forpkc92qudmha2rjcov.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/j268sw3plk5y95surocw.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/j268sw3plk5y95surocw.jpg"
+    }
+  ],
+  "generos": [
+    "Strategy",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "resumenEn": "Batman: Return to Arkham sees the combination of two classic entries in the Batman: Arkham series make a return to modern consoles (PS4 and Xbox One) with improved graphics. Warner Bros. is remastering 2009’s Batman: Arkham Asylum and 2011’s Batman: Arkham City which will release in this collection package along with all of the associated DLC.",
+  "v": 7,
+  "consultado": "2026-11-23T13:04:47.944Z"
 }

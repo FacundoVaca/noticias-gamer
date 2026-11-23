@@ -1,6 +1,5 @@
 {
   "clave": "warhammer 40 000 space marine 2",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -344,6 +343,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/warhammer-40000-space-marine-ii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Warhammer 40,000: Space Marine 2",
   "acerca": [
     [
@@ -386,71 +386,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -558,6 +575,12 @@
     }
   ],
   "web": "https://community.focus-entmt.com/focus-entertainment/space-marine-2?utm_source=Steam&amp;utm_medium=StorePage_SM2&amp;utm_campaign=Organic",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Gameplay consists of frequent combat scenarios with characters using their weapons to slash/stab enemies.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 185252,
   "youtube": [
@@ -578,5 +601,6 @@
       "nombre": "Gameplay Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:37:02.080Z"
+  "v": 7,
+  "consultado": "2026-11-23T12:59:44.865Z"
 }

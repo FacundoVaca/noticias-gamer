@@ -1,6 +1,5 @@
 {
   "clave": "just dance decades of hits",
-  "v": 5,
   "fuentes": [
     "IGDB"
   ],
@@ -12,5 +11,43 @@
       "nombre": "Teaser"
     }
   ],
-  "consultado": "2026-11-22T22:39:24.521Z"
+  "desarrolladores": [
+    "Ubisoft Shanghai",
+    "Ubisoft Kyiv",
+    "Ubisoft Bucharest",
+    "Ubisoft Pune",
+    "Ubisoft Paris"
+  ],
+  "editores": [
+    "Ubisoft Entertainment"
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gu5.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gu5.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gu8.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gu8.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gu7.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gu7.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gu6.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gu6.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gu9.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gu9.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sc15gua.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sc15gua.jpg"
+    }
+  ],
+  "lanzamiento": "2026-10-13",
+  "v": 7,
+  "consultado": "2026-11-23T13:04:29.250Z"
 }

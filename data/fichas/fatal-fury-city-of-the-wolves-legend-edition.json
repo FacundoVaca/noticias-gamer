@@ -1,9 +1,9 @@
 {
   "clave": "fatal fury city of the wolves legend edition",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019be4bd-fc50-71ed-9f2f-b86d93a235bb",
   "appid": "2492040",
@@ -194,6 +194,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/fatal-fury-city-of-the-wolves?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "FATAL FURY: City of the Wolves",
   "acerca": [
     [
@@ -246,59 +247,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -398,5 +413,30 @@
     }
   ],
   "web": "https://www.snk-corp.co.jp/official/fatalfury-cotw/",
-  "consultado": "2026-11-22T22:32:14.297Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 260321,
+  "youtube": [
+    {
+      "id": "JJg7MhV2znQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "lHjjlpCoBOQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cNes200gOAY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "53qyNPNrksE",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:02:06.198Z"
 }

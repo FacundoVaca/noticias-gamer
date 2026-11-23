@@ -1,6 +1,5 @@
 {
   "clave": "undisputed the championship upgrade pack",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -33,6 +32,27 @@
   "juegoBase": {
     "appid": "1451190",
     "nombre": "Undisputed"
+  },
+  "ediciones": [
+    {
+      "packageid": "1414386",
+      "nombre": "Undisputed - The Championship Upgrade Pack",
+      "apps": [
+        {
+          "appid": "4031830",
+          "nombre": "Undisputed - The Championship Upgrade Pack"
+        }
+      ],
+      "usd": 37.49,
+      "antes": 37.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4031830": {
+      "usd": 37.49,
+      "gratis": false
+    }
   },
   "descripcion": "Domina el cuadrilátero con este lote de cuatro paquetes de DLC: The WBC Pack, The Iron & Steel Pack, The Mexican Monster Pack + The Senator Pack. Amplía tu plantel con leyendas como Dmitry Bivol, David Benavidez, Wladimir y Vitali Klitschko y Manny Pacquiao. *Necesitas el juego base.",
   "generos": [
@@ -80,43 +100,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -168,6 +198,11 @@
     }
   ],
   "web": "http://www.playundisputed.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood Mild Suggestive Themes Violence",
   "igdbIntentado": true,
-  "consultado": "2026-11-22T22:39:44.316Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:43.795Z"
 }

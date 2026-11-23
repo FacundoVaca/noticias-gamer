@@ -1,9 +1,9 @@
 {
   "clave": "midnight ghost hunt",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-32a4-71ef-a284-c25c5f644ad9",
   "appid": "915810",
@@ -38,6 +38,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "293984",
+      "nombre": "Midnight Ghost Hunt",
+      "apps": [
+        {
+          "appid": "915810",
+          "nombre": "Midnight Ghost Hunt"
+        }
+      ],
+      "usd": 13.19,
+      "antes": 13.19,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "915810": {
+      "usd": 13.19,
+      "gratis": false
+    }
+  },
   "dlcTotal": 1,
   "dlcLista": [
     {
@@ -55,6 +76,7 @@
   ],
   "lanzamientoTexto": "21 MAR 2024",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Midnight Ghost Hunt",
   "acerca": [
     [
@@ -148,47 +170,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -292,5 +325,25 @@
     }
   ],
   "web": "http://www.midnightghosthunt.com",
-  "consultado": "2026-11-22T22:31:14.068Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 108048,
+  "youtube": [
+    {
+      "id": "jqUtOJS5xQc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "T8C1Jj9f8OQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "-RURj4KOZu8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T13:00:09.559Z"
 }

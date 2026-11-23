@@ -1,6 +1,5 @@
 {
   "clave": "ride 5 season pass",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -33,6 +32,27 @@
   "juegoBase": {
     "appid": "1650010",
     "nombre": "RIDE 5"
+  },
+  "ediciones": [
+    {
+      "packageid": "837212",
+      "nombre": "RIDE 5 - Season Pass",
+      "apps": [
+        {
+          "appid": "2331010",
+          "nombre": "RIDE 5 - Season Pass"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2331010": {
+      "usd": 39.99,
+      "gratis": false
+    }
   },
   "descripcion": "¡Disfruta al máximo de RIDE 5! No te pierdas el Season Pass, con el que tendrás acceso a motos, pistas increíbles y un multiplicador de créditos en cuanto estén disponibles.",
   "generos": [
@@ -208,5 +228,11 @@
     }
   ],
   "web": "https://ridevideogame.com/",
-  "consultado": "2026-11-22T22:32:34.500Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T13:03:14.181Z"
 }

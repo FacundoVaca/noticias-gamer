@@ -1,6 +1,5 @@
 {
   "clave": "crysis remastered trilogy",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "IGDB"
@@ -46,5 +45,37 @@
       "nombre": "Teaser"
     }
   ],
-  "consultado": "2026-11-22T22:40:58.079Z"
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswl.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswl.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswh.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswh.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswi.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswi.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswj.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswj.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/scdswg.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/scdswg.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Tactical"
+  ],
+  "resumenEn": "The classic first person shooter from Crytek is back with the action-packed gameplay, sandbox world, and thrilling epic battles you loved the first time around – now with remastered graphics optimized for a new generation of hardware.",
+  "v": 7,
+  "consultado": "2026-11-23T13:04:04.782Z"
 }

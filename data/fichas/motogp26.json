@@ -1,6 +1,5 @@
 {
   "clave": "motogp26",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -49,6 +48,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1362206",
+      "nombre": "MotoGP™26",
+      "apps": [
+        {
+          "appid": "3875050",
+          "nombre": "MotoGP™26"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3875050": {
+      "usd": 59.99,
+      "gratis": false
+    }
+  },
   "dlcTotal": 2,
   "dlcLista": [
     {
@@ -74,6 +94,7 @@
   ],
   "lanzamientoTexto": "29 ABR 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "MotoGP™26",
   "acerca": [
     [
@@ -140,39 +161,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -272,6 +302,10 @@
     }
   ],
   "web": "https://milestone.it/games/motogp-26/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 394406,
   "youtube": [
@@ -288,5 +322,6 @@
       "nombre": "Launch Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:04.333Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:04:35.024Z"
 }

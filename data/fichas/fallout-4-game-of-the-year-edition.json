@@ -1,8 +1,8 @@
 {
   "clave": "fallout 4 game of the year edition",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "IGDB"
   ],
   "itad": "018d937e-ff52-71d7-b9cf-f7be380259a1",
   "appid": null,
@@ -25,5 +25,53 @@
       "url": "https://metacritic.com/game/fallout-4-game-of-the-year-edition/user-reviews/?platform=pc"
     }
   ],
-  "consultado": "2026-11-22T22:31:09.081Z"
+  "igdbIntentado": true,
+  "igdb": 54612,
+  "youtube": [
+    {
+      "id": "EgimUJoz2Zk",
+      "nombre": "Trailer"
+    }
+  ],
+  "capturas": [
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/vx9wticprnjnkcjmsb9i.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/vx9wticprnjnkcjmsb9i.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/g2nuzfwpdsqidgbnrjoq.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/g2nuzfwpdsqidgbnrjoq.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch2mk.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sch2mk.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch2ml.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sch2ml.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch2mm.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sch2mm.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/ipuncswjluetmgt1gwpu.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/ipuncswjluetmgt1gwpu.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch2mn.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sch2mn.jpg"
+    },
+    {
+      "chica": "https://images.igdb.com/igdb/image/upload/t_screenshot_med/sch2mo.jpg",
+      "grande": "https://images.igdb.com/igdb/image/upload/t_1080p/sch2mo.jpg"
+    }
+  ],
+  "generos": [
+    "Shooter",
+    "Role-playing (RPG)"
+  ],
+  "resumenEn": "Return to the Wasteland today with Fallout 4: Game of the Year Edition. With all the latest gameplay updates (including Survival mode), graphical enhancements, the ability to play Mods for free on PC and consoles, plus all official add-ons included, this is the ultimate way to experience the award-winning post-nuclear adventure from Bethesda Game Studios.\n\nFallout 4: Game of the Year Edition includes the fully updated original game along with all six add-ons: Nuka-World, Vault-Tec Workshop, Contraptions Workshop, Far Harbor, Wasteland Workshop and Automatron. Fallout 4: Game of the Year Edition is available now on PlayStation 4, Xbox One and PC. Be sure to reserve your copy in the upcoming weeks from select digital and physical retailers.",
+  "v": 7,
+  "consultado": "2026-11-23T12:59:49.701Z"
 }

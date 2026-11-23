@@ -1,6 +1,5 @@
 {
   "clave": "ninja gaiden 2 black",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -45,7 +44,7 @@
     {
       "fuente": "Metacritic User Score",
       "puntaje": 79,
-      "cantidad": 360,
+      "cantidad": 375,
       "url": "https://metacritic.com/game/ninja-gaiden-2-black/user-reviews/?platform=pc"
     },
     {
@@ -56,6 +55,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1164453",
+      "nombre": "NINJA GAIDEN 2 Black",
+      "apps": [
+        {
+          "appid": "3287520",
+          "nombre": "NINJA GAIDEN 2 Black"
+        }
+      ],
+      "usd": 16.67,
+      "antes": 41.69,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "3287520": {
+      "usd": 16.67,
+      "gratis": false
+    }
+  },
   "descripcion": "Al emplear Unreal Engine 5 para mejorar drásticamente la expresión gráfica, esta es la versión definitiva de \"NINJA GAIDEN 2\", que incorpora más personajes jugables y funciones de apoyo en combate.",
   "generos": [
     "Acción",
@@ -66,6 +86,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/ninja-gaiden-2-black?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "NINJA GAIDEN 2 Black",
   "acerca": [
     [
@@ -118,35 +139,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -270,6 +299,12 @@
     }
   ],
   "web": "https://teamninja-studio.com/ng2black/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, Partial Nudity",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 329132,
   "youtube": [
@@ -278,5 +313,6 @@
       "nombre": "Announcement Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:38:34.282Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:01:46.394Z"
 }

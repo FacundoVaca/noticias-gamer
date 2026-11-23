@@ -1,6 +1,5 @@
 {
   "clave": "ark bobs tall tales",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -37,6 +36,27 @@
   "juegoBase": {
     "appid": "2399830",
     "nombre": "ARK: Survival Ascended"
+  },
+  "ediciones": [
+    {
+      "packageid": "1027299",
+      "nombre": "ARK: Bob's Tall Tales",
+      "apps": [
+        {
+          "appid": "2881150",
+          "nombre": "ARK: Bob's Tall Tales"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2881150": {
+      "usd": 29.99,
+      "gratis": false
+    }
   },
   "descripcion": "¡Prepárate para los trenes del Lejano Oeste, los dirigibles steampunk, los autos de batalla post-apocalípticos y más en Bob's Tall Tales! Descubra nuevos contenidos de aventuras, nuevas criaturas, estructuras, elementos y cosméticos en ARK, ¡todos ellos cobrados vida por Karl Urban y Auliʻi Cravalho",
   "generos": [
@@ -190,67 +210,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -288,6 +324,10 @@
     }
   ],
   "web": "http://www.playark.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 294908,
   "youtube": [
@@ -296,5 +336,6 @@
       "nombre": "Trailer"
     }
   ],
-  "consultado": "2026-11-22T22:41:29.389Z"
+  "v": 7,
+  "consultado": "2026-11-23T13:05:50.525Z"
 }
