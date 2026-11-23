@@ -1,9 +1,9 @@
 {
   "clave": "clicky islands",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019affd4-3a7e-7302-a605-8db88386ef95",
   "appid": "4178790",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/4178790/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1463754",
+      "nombre": "Clicky Islands",
+      "apps": [
+        {
+          "appid": "4178790",
+          "nombre": "Clicky Islands"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 5.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4178790": {
+      "usd": 4.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Clicky Islands is an incremental game with a full city builder inside. Settle procedurally generated islands, build production chains, put your workers to work and ship goods for gold as your economy grows. Unlock permanent upgrades and find the perfect island for His Majesty’s future kingdom",
   "generos": [
     "Casual",
@@ -37,6 +59,7 @@
   ],
   "lanzamientoTexto": "16 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Clicky Islands",
   "acerca": [
     [
@@ -143,35 +166,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -233,5 +264,19 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178790/3bdf2845cdd70b51d3acec1705c38b80f410caa6/ss_3bdf2845cdd70b51d3acec1705c38b80f410caa6.1920x1080.jpg?t=1795254724"
     }
   ],
-  "consultado": "2026-11-22T22:15:29.721Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 388729,
+  "youtube": [
+    {
+      "id": "Doj-68M9X2s",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:18.348Z"
 }

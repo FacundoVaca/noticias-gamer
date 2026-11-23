@@ -1,9 +1,9 @@
 {
   "clave": "crusader kings iii royal court",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-5b05-71d1-beb7-e8ffb37a70c9",
   "appid": "1303182",
@@ -50,6 +50,27 @@
   "juegoBase": {
     "appid": "1158310",
     "nombre": "Crusader Kings III"
+  },
+  "ediciones": [
+    {
+      "packageid": "454571",
+      "nombre": "Crusader Kings III: Royal Court",
+      "apps": [
+        {
+          "appid": "1303182",
+          "nombre": "Crusader Kings III: Royal Court"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 20.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1303182": {
+      "usd": 10.49,
+      "gratis": false
+    }
   },
   "descripcion": "La expansión Royal Court de Crusader Kings III incorpora nuevas maneras de interactuar con los personajes de tu reino o imperio, e introduce cambios importantes en el sistema cultural del juego, pues añade más dinamismo y fluidez histórica.",
   "generos": [
@@ -135,39 +156,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -258,5 +288,15 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303182/ss_b4688c86ace9e6f96670e5da10a39219d8c6ee5a.1920x1080.jpg?t=1765210676"
     }
   ],
-  "consultado": "2026-11-22T22:23:24.236Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defenseless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 184511,
+  "v": 7,
+  "consultado": "2026-11-23T11:40:56.438Z"
 }

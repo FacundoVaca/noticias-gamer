@@ -1,9 +1,9 @@
 {
   "clave": "trailmakers",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-228c-73aa-b98b-86223a8112fd",
   "appid": "585420",
@@ -45,6 +45,316 @@
       "url": "https://opencritic.com/game/8579/trailmakers"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1318631",
+      "nombre": "Trailmakers Deluxe Edition",
+      "apps": [
+        {
+          "appid": "585420",
+          "nombre": "Trailmakers"
+        },
+        {
+          "appid": "2285970",
+          "nombre": "Trailmakers: Airborne Expansion"
+        },
+        {
+          "appid": "2054110",
+          "nombre": "Trailmakers: Decals Action Pack"
+        },
+        {
+          "appid": "1607390",
+          "nombre": "Trailmakers: expansión Alta Mar"
+        },
+        {
+          "appid": "2863610",
+          "nombre": "Trailmakers: Rescue Pack"
+        },
+        {
+          "appid": "1183540",
+          "nombre": "Trailmakers: Texture Pack 1"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 24.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1255647",
+      "nombre": "Trailmakers Ultimate Edition",
+      "apps": [
+        {
+          "appid": "585420",
+          "nombre": "Trailmakers"
+        },
+        {
+          "appid": "3915680",
+          "nombre": "Trailmakers - Frozen Tracks"
+        },
+        {
+          "appid": "4380410",
+          "nombre": "Trailmakers - Mech Amok"
+        },
+        {
+          "appid": "3729370",
+          "nombre": "Trailmakers - Supply Pack: Frontline"
+        },
+        {
+          "appid": "2285970",
+          "nombre": "Trailmakers: Airborne Expansion"
+        },
+        {
+          "appid": "2054110",
+          "nombre": "Trailmakers: Decals Action Pack"
+        },
+        {
+          "appid": "2054120",
+          "nombre": "Trailmakers: Decals Expression Pack"
+        },
+        {
+          "appid": "1607390",
+          "nombre": "Trailmakers: expansión Alta Mar"
+        },
+        {
+          "appid": "1171470",
+          "nombre": "Trailmakers: Hat Pack"
+        },
+        {
+          "appid": "3009870",
+          "nombre": "Trailmakers: Motorhead Pack"
+        },
+        {
+          "appid": "3708690",
+          "nombre": "Trailmakers: Packing Heat"
+        },
+        {
+          "appid": "2863610",
+          "nombre": "Trailmakers: Rescue Pack"
+        },
+        {
+          "appid": "2579530",
+          "nombre": "Trailmakers: Space Voyager Pack"
+        },
+        {
+          "appid": "1183540",
+          "nombre": "Trailmakers: Texture Pack 1"
+        },
+        {
+          "appid": "1333570",
+          "nombre": "Trailmakers: Texture Pack 2"
+        },
+        {
+          "appid": "3323320",
+          "nombre": "Trailmakers: Texture Pack 3"
+        }
+      ],
+      "usd": 16.79,
+      "antes": 41.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "151378",
+      "nombre": "Trailmakers",
+      "apps": [
+        {
+          "appid": "585420",
+          "nombre": "Trailmakers"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "585420": {
+      "usd": 12.49,
+      "gratis": false
+    },
+    "1171470": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "1183540": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "1333570": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "1607390": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "2054110": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "2054120": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2285970": {
+      "usd": 12.49,
+      "gratis": false
+    },
+    "2579530": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "2863610": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "3009870": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "3323320": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "3708690": {
+      "usd": 5.79,
+      "gratis": false
+    },
+    "3729370": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "3915680": {
+      "usd": 7.99,
+      "gratis": false
+    },
+    "4380410": {
+      "usd": 5.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 17,
+  "dlcLista": [
+    {
+      "appid": "5087960",
+      "nombre": "Trailmakers - Downtown Drive",
+      "gratis": false,
+      "usd": 8.55,
+      "descuento": 0
+    },
+    {
+      "appid": "4380410",
+      "nombre": "Trailmakers - Mech Amok",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3915680",
+      "nombre": "Trailmakers - Frozen Tracks",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3729370",
+      "nombre": "Trailmakers - Supply Pack: Frontline",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3708690",
+      "nombre": "Trailmakers: Packing Heat",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2285970",
+      "nombre": "Trailmakers: Airborne Expansion",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3009870",
+      "nombre": "Trailmakers: Motorhead Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2579530",
+      "nombre": "Trailmakers: Space Voyager Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1607390",
+      "nombre": "Trailmakers: expansión Alta Mar",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2054110",
+      "nombre": "Trailmakers: Decals Action Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2054120",
+      "nombre": "Trailmakers: Decals Expression Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1183540",
+      "nombre": "Trailmakers: Texture Pack 1",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1333570",
+      "nombre": "Trailmakers: Texture Pack 2",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1171470",
+      "nombre": "Trailmakers: Hat Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3275860",
+      "nombre": "The Art of Trailmakers",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3323320",
+      "nombre": "Trailmakers: Texture Pack 3",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3456630",
+      "nombre": "Trailmakers: Pioneers Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Crea y desátate en el mundo abierto de Trailmakers. Desarrolla tu habilidad para crear e innovar en Trailmakers. Un sandbox de ingeniería nunca visto, potenciado por la comunidad de jugadores más creativa del mundo.",
   "generos": [
     "Acción",
@@ -55,6 +365,7 @@
   ],
   "lanzamientoTexto": "18 SEP 2019",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Trailmakers",
   "acerca": [
     [
@@ -153,55 +464,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -305,5 +629,26 @@
     }
   ],
   "web": "http://www.playtrailmakers.com",
-  "consultado": "2026-11-22T22:16:33.060Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 29667,
+  "youtube": [
+    {
+      "id": "L5imoirM2ek",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5banoxNEkzE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "1XXxKtMyvpo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:42.557Z"
 }

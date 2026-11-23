@@ -1,0 +1,255 @@
+{
+  "clave": "eslabong",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019d4f3f-4dfe-73c6-a2cc-1e5bd01fb4bf",
+  "appid": "4560660",
+  "lanzamiento": "2026-08-24",
+  "desarrolladores": [
+    "shirowita"
+  ],
+  "editores": [
+    "Tripwire Presents"
+  ],
+  "etiquetas": [
+    "Auto Battler",
+    "Strategy",
+    "Management",
+    "RPG",
+    "Tactical"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 1782,
+      "url": "https://store.steampowered.com/app/4560660/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1590049",
+      "nombre": "Eslabong",
+      "apps": [
+        {
+          "appid": "4560660",
+          "nombre": "Eslabong"
+        }
+      ],
+      "usd": 6.84,
+      "antes": 8.55,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4560660": {
+      "usd": 6.84,
+      "gratis": false
+    }
+  },
+  "descripcion": "Combate en la arena y gestión de tu club de mercenarios. Recluta en un mercado dinámico, forma tu equipo y compite temporada tras temporada en ligas y copas.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Simuladores",
+    "Estrategia",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "24 AGO 2026",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Eslabong",
+  "acerca": [
+    [
+      "p",
+      "Controla a un luchador en combates de arena rápidos. Apunta habilidades, muévete y reacciona en tiempo real para superar a tus oponentes mediante posicionamiento y timing. O da un paso atrás, define tácticas y observa a tu equipo luchar."
+    ],
+    [
+      "p",
+      "Gana combates para obtener oro, compra y vende mercenarios y refuerza tu plantilla. Descubre clases con habilidades únicas, forma tu equipo y mejóralo a lo largo de las temporadas."
+    ],
+    [
+      "p",
+      "Pon a prueba a tu equipo en ligas y torneos estructurados. Enfréntate a clubes poderosos y líderes únicos, recluta campeones raros y asciende hasta la cima."
+    ],
+    [
+      "p",
+      "Cada partida exige nuevas decisiones. Estadísticas aleatorias, plantillas en evolución y oponentes dinámicos hacen que cada temporada sea distinta, mientras el mercado te ofrece nuevas formas de adaptarte y mejorar."
+    ],
+    [
+      "p",
+      "Un mundo medieval donde la guerra ha sido reemplazada por el combate en arena. Clubes de mercenarios compiten en ligas estructuradas por poder, oro y prestigio. Entra en la arena. Asciende hasta la cima."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Steam Workshop",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2100 / AMD FX-4300"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 4000"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 / 11 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460 / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 750 Ti / AMD Radeon R7 260X"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/50bd5583a17c1ebbcfa35149000a425da2caa303/ss_50bd5583a17c1ebbcfa35149000a425da2caa303.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/50bd5583a17c1ebbcfa35149000a425da2caa303/ss_50bd5583a17c1ebbcfa35149000a425da2caa303.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/083dc22a4ac65db2cc1a2174015287072b5f3022/ss_083dc22a4ac65db2cc1a2174015287072b5f3022.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/083dc22a4ac65db2cc1a2174015287072b5f3022/ss_083dc22a4ac65db2cc1a2174015287072b5f3022.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1eec47f969fe5a7956340fbc647d102e855979b1/ss_1eec47f969fe5a7956340fbc647d102e855979b1.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/1eec47f969fe5a7956340fbc647d102e855979b1/ss_1eec47f969fe5a7956340fbc647d102e855979b1.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/ae5f131dab9552c08be9132b55eeb8a25d41c855/ss_ae5f131dab9552c08be9132b55eeb8a25d41c855.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/ae5f131dab9552c08be9132b55eeb8a25d41c855/ss_ae5f131dab9552c08be9132b55eeb8a25d41c855.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/72c13309dd6ae40b705057f76cecd80b6108c364/ss_72c13309dd6ae40b705057f76cecd80b6108c364.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/72c13309dd6ae40b705057f76cecd80b6108c364/ss_72c13309dd6ae40b705057f76cecd80b6108c364.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/130a022cf5ee1713894ed3db0facd725fa4ff21e/ss_130a022cf5ee1713894ed3db0facd725fa4ff21e.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/130a022cf5ee1713894ed3db0facd725fa4ff21e/ss_130a022cf5ee1713894ed3db0facd725fa4ff21e.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/fd23178fbf54de758a375a39ce7cc2c9a47ad0df/ss_fd23178fbf54de758a375a39ce7cc2c9a47ad0df.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/fd23178fbf54de758a375a39ce7cc2c9a47ad0df/ss_fd23178fbf54de758a375a39ce7cc2c9a47ad0df.1920x1080.jpg?t=1795215665"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc/ss_c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc.600x338.jpg?t=1795215665",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4560660/c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc/ss_c92b8ae36cdf3805ae2681dcfdf33249c1a6a3cc.1920x1080.jpg?t=1795215665"
+    }
+  ],
+  "web": "https://eslabong.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 411092,
+  "youtube": [
+    {
+      "id": "9LSBUF7X6tw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:30:45.960Z"
+}

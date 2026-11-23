@@ -1,9 +1,9 @@
 {
   "clave": "american truck simulator illinois",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0194f5cd-a254-7222-94e0-c8d13f0110a0",
   "appid": "3486960",
@@ -11,7 +11,9 @@
   "desarrolladores": [
     "SCS Software"
   ],
-  "editores": [],
+  "editores": [
+    "SCS Software"
+  ],
   "etiquetas": [
     "Indie",
     "Simulation"
@@ -28,6 +30,27 @@
   "juegoBase": {
     "appid": "270880",
     "nombre": "American Truck Simulator"
+  },
+  "ediciones": [
+    {
+      "packageid": "1231509",
+      "nombre": "American Truck Simulator - Illinois",
+      "apps": [
+        {
+          "appid": "3486960",
+          "nombre": "American Truck Simulator - Illinois"
+        }
+      ],
+      "usd": 5.75,
+      "antes": 6.39,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "3486960": {
+      "usd": 5.75,
+      "gratis": false
+    }
   },
   "descripcion": "Welcome to the beautiful Prairie State! Illinois showcases the best of what the USA has to offer. Hop into your rig, hit the legendary Route 66, and journey through Springfield, the state’s historic capital, to Chicago, one of the Midwest's most iconic cities.",
   "generos": [
@@ -110,103 +133,128 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Búlgaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Rumano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Catalán",
@@ -264,5 +312,19 @@
     }
   ],
   "web": "https://americantrucksimulator.com/",
-  "consultado": "2026-11-22T22:23:22.072Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 348974,
+  "youtube": [
+    {
+      "id": "UujSKJ8tKM4",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:27.679Z"
 }

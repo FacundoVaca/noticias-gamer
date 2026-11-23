@@ -1,9 +1,9 @@
 {
   "clave": "fogpiercer",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01920f17-25f1-71c5-b686-aea9629b4bbd",
   "appid": "3219010",
@@ -36,6 +36,28 @@
       "url": "https://metacritic.com/game/fogpiercer/critic-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1141175",
+      "nombre": "Fogpiercer",
+      "apps": [
+        {
+          "appid": "3219010",
+          "nombre": "Fogpiercer"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 9.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3219010": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Lucha a través de la niebla en este juego de construcción de mazos roguelike de ciencia ficción en el que posicionarte con astucia, las reacciones en cadena explosivas y el propio entorno pueden marcar la diferencia entre la vida y la muerte.",
   "generos": [
     "Rol",
@@ -43,6 +65,7 @@
   ],
   "lanzamientoTexto": "17 JUL 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Fogpiercer",
   "acerca": [
     [
@@ -97,67 +120,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -257,5 +296,28 @@
     }
   ],
   "web": "https://madcookies.games/game.php?id=5",
-  "consultado": "2026-11-22T22:17:34.097Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 325365,
+  "youtube": [
+    {
+      "id": "BviTBm2P9zw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OuEIQH6AsCU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "y433t3NSZ4o",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:31.208Z"
 }

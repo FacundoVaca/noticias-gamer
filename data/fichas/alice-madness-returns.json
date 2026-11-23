@@ -1,9 +1,9 @@
 {
   "clave": "alice madness returns",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-00c1-7390-be64-ac2849da681e",
   "appid": "19680",
@@ -41,6 +41,28 @@
       "url": "https://metacritic.com/game/alice-madness-returns/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "8533",
+      "nombre": "Alice Madness Returns",
+      "apps": [
+        {
+          "appid": "19680",
+          "nombre": "Alice: Madness Returns"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 9.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "19680": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
   "descripcion": "¿Podrá Alicia salvar el País de las Maravillas—y a ella misma—de la locura que los consume?",
   "generos": [
     "Acción",
@@ -51,6 +73,7 @@
     "puntaje": 75,
     "url": "https://www.metacritic.com/game/pc/alice-madness-returns?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Alice: Madness Returns",
   "acerca": [
     [
@@ -106,27 +129,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -201,5 +230,26 @@
     }
   ],
   "web": "http://www.ea.com/alice",
-  "consultado": "2026-11-22T22:16:13.357Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 1040,
+  "youtube": [
+    {
+      "id": "cFrs5UGB-ns",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "QMmeAofUBDc",
+      "nombre": "Gameplay trailer"
+    },
+    {
+      "id": "up21p1_vTbI",
+      "nombre": "Beautiful Insanity Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:27.096Z"
 }

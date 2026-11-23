@@ -1,9 +1,9 @@
 {
   "clave": "cronicas del creador",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019912ab-38fc-728e-a7b8-843a0e43b70a",
   "appid": "3947460",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/3947460/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1386434",
+      "nombre": "Crónicas del Creador",
+      "apps": [
+        {
+          "appid": "3947460",
+          "nombre": "Crónicas del Creador"
+        }
+      ],
+      "usd": 4.89,
+      "antes": 6.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3947460": {
+      "usd": 4.87,
+      "gratis": false
+    }
+  },
   "descripcion": "Un juego dentro de un juego. En este nuevo tipo de RPG de simulación, conviértete en maestro de gremio, desarrolla tu ciudad, recluta miembros y conquista mazmorras. Cada decisión que tomes se convierte en tu propia crónica.",
   "generos": [
     "Rol",
@@ -37,6 +59,7 @@
   ],
   "lanzamientoTexto": "14 SEP 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Crónicas del Creador",
   "acerca": [
     [
@@ -127,59 +150,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -271,5 +308,19 @@
     }
   ],
   "web": "https://sites.google.com/view/creatorchronicles-en/",
-  "consultado": "2026-11-22T22:17:18.855Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 365531,
+  "youtube": [
+    {
+      "id": "r4IHez4GtTs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:13.140Z"
 }

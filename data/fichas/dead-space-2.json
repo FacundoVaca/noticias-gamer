@@ -1,9 +1,9 @@
 {
   "clave": "dead space 2",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f830-72ee-9d74-b58e96c65958",
   "appid": "47780",
@@ -41,6 +41,28 @@
       "url": "https://metacritic.com/game/dead-space-2/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "7150",
+      "nombre": "Dead Space 2",
+      "apps": [
+        {
+          "appid": "47780",
+          "nombre": "Dead Space™ 2"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 19.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "47780": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
   "descripcion": "LA PESADILLA VUELVE.",
   "generos": [
     "Acción",
@@ -51,6 +73,7 @@
     "puntaje": 87,
     "url": "https://www.metacritic.com/game/pc/dead-space-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Dead Space™ 2",
   "acerca": [
     [
@@ -92,31 +115,38 @@
   "idiomas": [
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -179,5 +209,17 @@
     }
   ],
   "web": "http://deadspace.ea.com/",
-  "consultado": "2026-11-22T22:16:37.333Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 38,
+  "youtube": [
+    {
+      "id": "EtEEa4PU7ok",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:53.033Z"
 }

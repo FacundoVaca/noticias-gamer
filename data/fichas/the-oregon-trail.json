@@ -1,9 +1,9 @@
 {
   "clave": "the oregon trail",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-66a8-7115-845a-d09b50e0907b",
   "appid": "2013360",
@@ -41,6 +41,38 @@
       "url": "https://opencritic.com/game/14034/the-oregon-trail"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "726945",
+      "nombre": "The Oregon Trail",
+      "apps": [
+        {
+          "appid": "2013360",
+          "nombre": "The Oregon Trail"
+        }
+      ],
+      "usd": 4.94,
+      "antes": 14.99,
+      "descuento": 67
+    }
+  ],
+  "sueltos": {
+    "2013360": {
+      "usd": 4.94,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2316610",
+      "nombre": "The Oregon Trail — Contenido descargable Cowboys and Critters",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡The Oregon Trail vuelve en una bonita combinación de encantadores personajes de \"pixel art\", entornos 3D y una iluminación y efectos visuales de vanguardia!",
   "generos": [
     "Aventura",
@@ -50,6 +82,7 @@
   ],
   "lanzamientoTexto": "14 NOV 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Oregon Trail",
   "acerca": [
     [
@@ -174,59 +207,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -334,5 +381,22 @@
     }
   ],
   "web": "https://www.gameloft.com/game/the-oregon-trail",
-  "consultado": "2026-11-22T22:15:40.628Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 193664,
+  "youtube": [
+    {
+      "id": "SxSEiO79gVc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9MKWkgvmvyo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:44.122Z"
 }

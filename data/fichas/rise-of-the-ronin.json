@@ -1,9 +1,9 @@
 {
   "clave": "rise of the ronin",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0194a7e7-1f67-70f3-a621-a5b1b981aaa6",
   "appid": "1340990",
@@ -53,6 +53,28 @@
       "url": "https://opencritic.com/game/16053/rise-of-the-ronin"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1207170",
+      "nombre": "Rise of the Ronin",
+      "apps": [
+        {
+          "appid": "1340990",
+          "nombre": "Rise of the Ronin"
+        }
+      ],
+      "usd": 20.84,
+      "antes": 41.69,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1340990": {
+      "usd": 20.84,
+      "gratis": false
+    }
+  },
   "descripcion": "Emprende un viaje por el belicoso período Bakumatsu en este RPG de acción de mundo abierto de Team NINJA, los veteranos creadores de Nioh y NINJA GAIDEN.",
   "generos": [
     "Acción",
@@ -64,6 +86,7 @@
     "puntaje": 73,
     "url": "https://www.metacritic.com/game/pc/rise-of-the-ronin?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Rise of the Ronin",
   "acerca": [
     [
@@ -190,87 +213,108 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -394,5 +438,31 @@
     }
   ],
   "web": "https://teamninja-studio.com/ronin/",
-  "consultado": "2026-11-22T22:17:29.698Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, Partial Nudity, Sexual Content",
+  "igdbIntentado": true,
+  "igdb": 217594,
+  "youtube": [
+    {
+      "id": "0gwsQvDGh4o",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6NWkzt0pQvw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "JydfazusHfI",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "mkax2cZKVUY",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:00.069Z"
 }

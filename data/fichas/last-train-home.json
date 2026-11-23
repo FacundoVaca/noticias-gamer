@@ -1,9 +1,9 @@
 {
   "clave": "last train home",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6319-7312-ac0f-42c35a7b4aa7",
   "appid": "1469610",
@@ -50,6 +50,96 @@
       "url": "https://opencritic.com/game/15899/last-train-home"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "517428",
+      "nombre": "Last Train Home",
+      "apps": [
+        {
+          "appid": "1469610",
+          "nombre": "Last Train Home"
+        }
+      ],
+      "usd": 6.26,
+      "antes": 18.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "939283",
+      "nombre": "Last Train Home Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1469610",
+          "nombre": "Last Train Home"
+        },
+        {
+          "appid": "2617720",
+          "nombre": "Last Train Home Artbook"
+        },
+        {
+          "appid": "2617510",
+          "nombre": "Last Train Home Soundtrack"
+        },
+        {
+          "appid": "2617710",
+          "nombre": "Last Train Home – Legion Tales"
+        }
+      ],
+      "usd": 8.57,
+      "antes": 25.99,
+      "descuento": 67
+    }
+  ],
+  "sueltos": {
+    "1469610": {
+      "usd": 6.26,
+      "gratis": false
+    },
+    "2617510": {
+      "usd": 0.98,
+      "gratis": false
+    },
+    "2617710": {
+      "usd": 2.63,
+      "gratis": false
+    },
+    "2617720": {
+      "usd": 0.65,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "2617710",
+      "nombre": "Last Train Home – Legion Tales",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 67
+    },
+    {
+      "appid": "2946200",
+      "nombre": "Last Train Home Wallpapers",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2617510",
+      "nombre": "Last Train Home Soundtrack",
+      "gratis": false,
+      "usd": 0.98,
+      "descuento": 67
+    },
+    {
+      "appid": "2617720",
+      "nombre": "Last Train Home Artbook",
+      "gratis": false,
+      "usd": 0.65,
+      "descuento": 67
+    }
+  ],
   "descripcion": "La Gran Guerra por fin ha terminado, pero la lucha continúa. Dirige a una legión de soldados desesperados por volver a casa en medio del caos de una guerra civil. Atraviesa páramos inclementes a bordo de un tren blindado, gestiona tu equipo y tus recursos, y sobrevive.",
   "generos": [
     "Estrategia"
@@ -59,6 +149,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/last-train-home?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Last Train Home",
   "acerca": [
     [
@@ -116,47 +207,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -248,5 +350,30 @@
     }
   ],
   "web": "https://lasttrainhome.thqnordic.com",
-  "consultado": "2026-11-22T22:16:50.319Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game features violent content",
+  "igdbIntentado": true,
+  "igdb": 252869,
+  "youtube": [
+    {
+      "id": "8rYLFZQ9dT8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "0s-lT-xsMaY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "eZSf01LETi8",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "qLXAt2zvIeU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:39.184Z"
 }

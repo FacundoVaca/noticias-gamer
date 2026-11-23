@@ -1,9 +1,9 @@
 {
   "clave": "darkest dungeon the fires edge",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019f8508-1fb0-7271-98c6-46911eb36920",
   "appid": "4964110",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "262060",
     "nombre": "Darkest Dungeon®"
+  },
+  "ediciones": [
+    {
+      "packageid": "1722590",
+      "nombre": "Darkest Dungeon®: The Fire's Edge",
+      "apps": [
+        {
+          "appid": "4964110",
+          "nombre": "Darkest Dungeon®: The Fire's Edge"
+        }
+      ],
+      "usd": 2.79,
+      "antes": 3.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4964110": {
+      "usd": 2.79,
+      "gratis": false
+    }
   },
   "descripcion": "El DLC Fire's Edge trae dos nuevos personajes jugables a Darkest Dungeon: la Fugitiva y la Duelista. ¡Disfruta de las novedades en las mecánicas, baratijas y distritos!",
   "generos": [
@@ -107,51 +128,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -207,5 +240,19 @@
     }
   ],
   "web": "http://www.darkestdungeon.com",
-  "consultado": "2026-11-22T22:23:08.892Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 430370,
+  "youtube": [
+    {
+      "id": "elgCnwSNZcM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:08.964Z"
 }

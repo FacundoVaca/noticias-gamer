@@ -1,9 +1,9 @@
 {
   "clave": "the adventures of elliot the millennium tales",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c2e88-c8c9-7288-952b-38a6f489c82a",
   "appid": "3483510",
@@ -49,6 +49,58 @@
       "url": "https://opencritic.com/game/20344/the-adventures-of-elliot-the-millennium-tales"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1230320",
+      "nombre": "The Adventures of Elliot: The Millennium Tales",
+      "apps": [
+        {
+          "appid": "3483510",
+          "nombre": "The Adventures of Elliot: The Millennium Tales"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 49.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "1510538",
+      "nombre": "The Adventures of Elliot: The Millennium Tales: Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "3483510",
+          "nombre": "The Adventures of Elliot: The Millennium Tales"
+        }
+      ],
+      "usd": 41.99,
+      "antes": 59.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3483510": {
+      "usd": 34.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4031020",
+      "nombre": "The Adventures of Elliot: The Millennium Tales: Mejora a Edición Digital Deluxe",
+      "gratis": false,
+      "usd": 7,
+      "descuento": 30
+    },
+    {
+      "appid": "4612130",
+      "nombre": "The Adventures of Elliot: The Millennium Tales Original Soundtrack",
+      "gratis": false,
+      "usd": 11.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Llega un nuevo RPG de acción de los creadores de OCTOPATH TRAVELER y BRAVELY DEFAULT: The Adventures of Elliot: The Millennium Tales, en el que se combinan por primera vez el fascinante estilo gráfico HD-2D y la emocionante jugabilidad de acción y aventura.",
   "generos": [
     "Acción",
@@ -57,6 +109,7 @@
   ],
   "lanzamientoTexto": "18 JUN 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Adventures of Elliot: The Millennium Tales",
   "acerca": [
     [
@@ -135,39 +188,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -271,5 +333,26 @@
     }
   ],
   "web": "https://the-adventures-of-elliot-the-millennium-tales.square-enix-games.com/",
-  "consultado": "2026-11-22T22:15:55.907Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 358534,
+  "youtube": [
+    {
+      "id": "u-zycj_tJgo",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "nYExc_JNAqk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0xfxIcWTBIY",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:32:40.109Z"
 }

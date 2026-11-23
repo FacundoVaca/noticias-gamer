@@ -1,9 +1,9 @@
 {
   "clave": "call to arms gates of hell talvisota",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-60f4-73e7-8775-e978b2959116",
   "appid": "1911520",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "400750",
     "nombre": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  "ediciones": [
+    {
+      "packageid": "688356",
+      "nombre": "Call to Arms - Gates of Hell: Talvisota",
+      "apps": [
+        {
+          "appid": "1911520",
+          "nombre": "Call to Arms - Gates of Hell: Talvisota"
+        }
+      ],
+      "usd": 2.62,
+      "antes": 10.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1911520": {
+      "usd": 2.62,
+      "gratis": false
+    }
   },
   "descripcion": "La expansión Talvisota para CtA - GoH presenta Finlandia y las batallas entre 1939 y 1945. Incluye todo un arsenal descomunal de armamento y mecánicas de juego realmente únicas. Las clásicas “escaramuzas” han vuelto para el frente del este, te esperan batallas enormes con un AI renovado y combativo.",
   "generos": [
@@ -125,35 +146,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -237,5 +266,18 @@
     }
   ],
   "web": "https://www.barbed-wire.eu/",
-  "consultado": "2026-11-22T22:23:37.397Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "'Gates of Hell' es un videojuego realista sobre la 2ª Guerra Mundial. Los jugadores estarán expuestos a contenido sensible.",
+  "igdbIntentado": true,
+  "igdb": 203893,
+  "youtube": [
+    {
+      "id": "ZL_9wwe3wcg",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:38.264Z"
 }

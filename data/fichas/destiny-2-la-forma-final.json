@@ -1,9 +1,9 @@
 {
   "clave": "destiny 2 la forma final",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7463-7223-8f70-5cc3ee56eea8",
   "appid": "2336880",
@@ -53,6 +53,27 @@
   "juegoBase": {
     "appid": "1085660",
     "nombre": "Destiny 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "1080010",
+      "nombre": "Destiny 2: La Forma Final",
+      "apps": [
+        {
+          "appid": "2336880",
+          "nombre": "Destiny 2: La Forma Final"
+        }
+      ],
+      "usd": 1.39,
+      "antes": 13.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "2336880": {
+      "usd": 1.39,
+      "gratis": false
+    }
   },
   "descripcion": "Ponle fin a la guerra entre la Luz y la Oscuridad.",
   "generos": [
@@ -116,55 +137,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -256,5 +290,30 @@
     }
   ],
   "web": "https://www.bungie.net/",
-  "consultado": "2026-11-22T22:23:48.287Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 250645,
+  "youtube": [
+    {
+      "id": "DpjDxIg498U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "-tRv1m0f6V0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UchfadQhX7w",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Ehl6aWUiA4Y",
+      "nombre": "Reveal Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:42:12.982Z"
 }

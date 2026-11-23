@@ -1,9 +1,9 @@
 {
   "clave": "like a dragon gaiden the man who erased his name",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ed0-735b-99ec-00618f11608d",
   "appid": "2375550",
@@ -51,6 +51,51 @@
       "url": "https://opencritic.com/game/15800/like-a-dragon-gaiden-the-man-who-erased-his-name"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "875004",
+      "nombre": "Like a Dragon Gaiden: The Man Who Erased His Name",
+      "apps": [
+        {
+          "appid": "2375550",
+          "nombre": "Like a Dragon Gaiden: The Man Who Erased His Name"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 49.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "875003",
+      "nombre": "Like a Dragon Gaiden: The Man Who Erased His Name - Digital Deluxe",
+      "apps": [
+        {
+          "appid": "2375550",
+          "nombre": "Like a Dragon Gaiden: The Man Who Erased His Name"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 54.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2375550": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2438750",
+      "nombre": "Like a Dragon Gaiden: The Man Who Erased His Name - Paquete Luchador legendario",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "BORRA TU PASADO PARA PROTEGER TU FUTURO Kazuma Kiryu, un antiguo yakuza legendario, fingió su propia muerte y abandonó su nombre para proteger a su familia. Ahora, una persona misteriosa vuelve a meterle en problemas, por lo que debe dejar de esconderse.",
   "generos": [
     "Acción",
@@ -58,6 +103,7 @@
   ],
   "lanzamientoTexto": "8 NOV 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Like a Dragon Gaiden: The Man Who Erased His Name",
   "acerca": [
     [
@@ -168,47 +214,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -316,5 +373,31 @@
     }
   ],
   "web": "https://gaiden.sega.com/",
-  "consultado": "2026-11-22T22:16:24.368Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence, Sexual Themes, Strong Language, and Use of Tobacco and Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 217624,
+  "youtube": [
+    {
+      "id": "Fxkn-dcy01k",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ivG2lQGhuSc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OP4Kg6dHrUs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ru_bMB1Me_0",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:05.211Z"
 }

@@ -1,6 +1,5 @@
 {
   "clave": "arc raiders upgrade to deluxe edition",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -31,6 +30,27 @@
   "juegoBase": {
     "appid": "1808500",
     "nombre": "ARC Raiders"
+  },
+  "ediciones": [
+    {
+      "packageid": "1386812",
+      "nombre": "ARC Raiders - Upgrade to Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3948510",
+          "nombre": "ARC Raiders - Upgrade to Deluxe Edition"
+        }
+      ],
+      "usd": 10,
+      "antes": 20,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3948510": {
+      "usd": 10,
+      "gratis": false
+    }
   },
   "descripcion": "Mejora tu compra a la ARC Raiders Deluxe Edition para recibir: - Paquete de cosméticos El nómada, - Artículo cosmético de personaje Cicatriz en el labio, - Dedos pistoleros gesto, - Atuendo de Chatarrín, - 2,400 monedas de Raider.",
   "generos": [
@@ -112,7 +132,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -168,5 +189,11 @@
     }
   ],
   "web": "https://arcraiders.com/",
-  "consultado": "2026-11-22T22:22:53.713Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T11:40:25.729Z"
 }

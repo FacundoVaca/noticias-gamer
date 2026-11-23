@@ -1,9 +1,9 @@
 {
   "clave": "stranger of paradise final fantasy origin",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-574a-72e8-b7f1-f59119c92069",
   "appid": "1358700",
@@ -49,6 +49,45 @@
       "url": "https://opencritic.com/game/12854/stranger-of-paradise-final-fantasy-origin"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "476261",
+      "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "apps": [
+        {
+          "appid": "1358700",
+          "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 31.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1358700": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2337570",
+      "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN - Deluxe Upgrade",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2252280",
+      "nombre": "STRANGER OF PARADISE FINAL FANTASY ORIGIN - Season Pass",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 70
+    }
+  ],
   "descripcion": "Desarrollado conjuntamente por Square Enix y Team NINJA (Koei Tecmo Games), STRANGER OF PARADISE FINAL FANTASY ORIGIN es un RPG de trepidante acción para expertos que lleva a la serie FINAL FANTASY a un nuevo nivel. Vive las más atrevidas y despiadadas batallas de la historia de FINAL FANTASY.",
   "generos": [
     "Acción",
@@ -57,6 +96,7 @@
   ],
   "lanzamientoTexto": "6 ABR 2023",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "acerca": [
     [
@@ -111,39 +151,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -238,5 +287,27 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358700/ss_421d4cea71da774bd441893fd87653b247940bae.1920x1080.jpg?t=1775030600"
     }
   ],
-  "consultado": "2026-11-22T22:16:28.678Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Please be aware that scenes containing depictions of violence that is not suitable for all ages are included during gameplay.",
+  "igdbIntentado": true,
+  "igdb": 152250,
+  "youtube": [
+    {
+      "id": "ntQ-utIdWWE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "ee48s_zto0k",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "1C-maLQ4hvk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:22.168Z"
 }

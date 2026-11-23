@@ -1,9 +1,9 @@
 {
   "clave": "crusader kings iii roads to power",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7b8e-7338-a32a-867167387441",
   "appid": "2671070",
@@ -47,6 +47,80 @@
   "juegoBase": {
     "appid": "1158310",
     "nombre": "Crusader Kings III"
+  },
+  "ediciones": [
+    {
+      "packageid": "957001",
+      "nombre": "Crusader Kings III: Roads to Power",
+      "apps": [
+        {
+          "appid": "2671070",
+          "nombre": "Crusader Kings III: Roads to Power"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 20.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1813281",
+      "nombre": "Crusader Kings III: New Player's Choice",
+      "apps": [
+        {
+          "appid": "1158310",
+          "nombre": "Crusader Kings III"
+        },
+        {
+          "appid": "2671040",
+          "nombre": "Crusader Kings III: Couture of the Capets"
+        },
+        {
+          "appid": "2311930",
+          "nombre": "Crusader Kings III: Elegance of the Empire"
+        },
+        {
+          "appid": "1296730",
+          "nombre": "Crusader Kings III: Garments of the Holy Roman Empire"
+        },
+        {
+          "appid": "1303183",
+          "nombre": "Crusader Kings III: Northern Lords"
+        },
+        {
+          "appid": "2671070",
+          "nombre": "Crusader Kings III: Roads to Power"
+        }
+      ],
+      "usd": 48.99,
+      "antes": 48.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1158310": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "1296730": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "1303183": {
+      "usd": 4.74,
+      "gratis": false
+    },
+    "2311930": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671040": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671070": {
+      "usd": 10.49,
+      "gratis": false
+    }
   },
   "descripcion": "La gloria y el poderío del Imperio Bizantino están bajo tu mando en \"Roads to Power\", la nueva expansión principal de Crusader Kings III. Explora las políticas, culturas y sistemas de gobierno únicos del Imperio, asciende en la escala social o persigue la fama y la gloria como aventurero sin tierra.",
   "generos": [
@@ -107,39 +181,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -176,5 +259,20 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2671070/ss_0dba9ee159b9fc26305bdec97a3d30d278956576.1920x1080.jpg?t=1776775698"
     }
   ],
-  "consultado": "2026-11-22T22:22:27.158Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defenseless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 297104,
+  "youtube": [
+    {
+      "id": "m4-8nAuYoII",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:47.807Z"
 }

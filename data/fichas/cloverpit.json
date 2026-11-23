@@ -1,9 +1,9 @@
 {
   "clave": "cloverpit",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0192e350-e689-72be-821c-16133edec2af",
   "appid": "3314790",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/19389/cloverpit"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1173780",
+      "nombre": "CloverPit",
+      "apps": [
+        {
+          "appid": "3314790",
+          "nombre": "CloverPit"
+        }
+      ],
+      "usd": 4.05,
+      "antes": 5.79,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3314790": {
+      "usd": 4.05,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4341120",
+      "nombre": "CloverPit: Unholy Fusion",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 30
+    }
+  ],
   "descripcion": "Un juego «rogue-lite» con máquinas tragaperras de pesadilla. Apuesta tu vida en un simulador de deuda interminable.",
   "generos": [
     "Acción",
@@ -58,6 +90,7 @@
   ],
   "lanzamientoTexto": "26 SEP 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "CloverPit",
   "acerca": [
     [
@@ -116,43 +149,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -224,5 +267,30 @@
     }
   ],
   "web": "https://www.panikarcade.games/",
-  "consultado": "2026-11-22T22:17:40.720Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 338902,
+  "youtube": [
+    {
+      "id": "mffC7DCqefc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "XdjINGvaLZo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "xTTVBOA7XMg",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "6f_6xETRrOI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:37.521Z"
 }

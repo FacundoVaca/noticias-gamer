@@ -1,9 +1,9 @@
 {
   "clave": "goat simulator 3 baadlands furry road",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019a0c01-c0c1-71c4-845b-23c1c1ddbbd2",
   "appid": "3708030",
@@ -37,6 +37,27 @@
   "juegoBase": {
     "appid": "850190",
     "nombre": "Goat Simulator 3"
+  },
+  "ediciones": [
+    {
+      "packageid": "1305487",
+      "nombre": "Goat Simulator 3 – Baadlands: Furry Road",
+      "apps": [
+        {
+          "appid": "3708030",
+          "nombre": "Goat Simulator 3 – Baadlands: Furry Road"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 7.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3708030": {
+      "usd": 5.59,
+      "gratis": false
+    }
   },
   "descripcion": "Juega como Baallistic Pilgor, el antihéroe y superviviente del apocalipsis. Explora las Tierras Beeeldías con tu moto, propina cabezazos a las facciones rivales, construye tu ciudad y atosiga a tus habitantes, mientras intentas descubrir qué se oculta en el misterioso refugio.",
   "generos": [
@@ -108,51 +129,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -178,5 +211,22 @@
     }
   ],
   "web": "https://www.goatsimulator3.com/",
-  "consultado": "2026-11-22T22:24:07.975Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 374977,
+  "youtube": [
+    {
+      "id": "YAzvc4Hg-Ag",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "aaszHA86tOc",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:42:38.233Z"
 }

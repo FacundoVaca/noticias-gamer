@@ -1,9 +1,9 @@
 {
   "clave": "ready or not boiling point",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019cc418-e3a6-73d9-918e-49e0fe562aa7",
   "appid": "4224910",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "1144200",
     "nombre": "Ready or Not"
+  },
+  "ediciones": [
+    {
+      "packageid": "1479225",
+      "nombre": "Ready or Not: Boiling Point",
+      "apps": [
+        {
+          "appid": "4224910",
+          "nombre": "Ready or Not: Boiling Point"
+        }
+      ],
+      "usd": 2.89,
+      "antes": 5.79,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "4224910": {
+      "usd": 2.89,
+      "gratis": false
+    }
   },
   "descripcion": "La ciudad de Los Sueños, ultrajada sin descanso, afronta una crisis existencial cuando un ataque terrorista subversivo destruye la poca confianza que quedaba en un gobierno municipal ineficaz y militarizado.",
   "generos": [
@@ -219,51 +240,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -315,5 +348,23 @@
     }
   ],
   "web": "https://voidinteractive.net",
-  "consultado": "2026-11-22T22:22:29.364Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Given the graphic nature of the game and the gritty realism it portrays, the game is for mature audiences. We will also strongly recommend that people who have experienced personal traumatic events from criminal violence, hostage situations or terrorism refrain from playing. At its core, the game honors the work of dedicated law enforcement officers across the world and in no way intends on glorifying cowardly criminal acts.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 394376,
+  "youtube": [
+    {
+      "id": "gqmQAJHMV9Q",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "NMGBFcKZ-PA",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:19.129Z"
 }

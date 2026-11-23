@@ -1,9 +1,9 @@
 {
   "clave": "demeo x dungeons dragons battlemarked",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019736a3-bc52-7136-885a-9fe93efd428b",
   "appid": "3124340",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/19753/demeo-x-dungeons-dragons-battlemarked"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1109492",
+      "nombre": "Demeo x Dungeons & Dragons: Battlemarked",
+      "apps": [
+        {
+          "appid": "3124340",
+          "nombre": "Demeo x Dungeons & Dragons: Battlemarked"
+        }
+      ],
+      "usd": 9.74,
+      "antes": 14.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "3124340": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4810130",
+      "nombre": "Demeo x Dungeons & Dragons: Battlemarked - Twilight's End",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Un RPG táctico cooperativo ambientado en el universo D&D. Embárcate en una fantástica aventura de mesa. Tu misión, a tu propio ritmo.",
   "generos": [
     "Aventura",
@@ -59,6 +91,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/demeo-x-dungeons-dragons-battlemarked?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Demeo x Dungeons & Dragons: Battlemarked",
   "acerca": [
     [
@@ -121,47 +154,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -229,5 +273,31 @@
     }
   ],
   "web": "https://battlemarked.com/",
-  "consultado": "2026-11-22T22:15:27.486Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 346959,
+  "youtube": [
+    {
+      "id": "HcfPXpOp1Gw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "I7YPHZ7yOm8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "SRKLByGDB6Q",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ornT9D5zMvE",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:03.487Z"
 }

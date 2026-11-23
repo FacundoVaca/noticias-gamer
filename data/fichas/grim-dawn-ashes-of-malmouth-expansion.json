@@ -1,9 +1,9 @@
 {
   "clave": "grim dawn ashes of malmouth expansion",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0ca7-704b-8280-93afbe04c5ec",
   "appid": "642280",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "219990",
     "nombre": "Grim Dawn"
+  },
+  "ediciones": [
+    {
+      "packageid": "178749",
+      "nombre": "Grim Dawn - Ashes of Malmouth Expansion",
+      "apps": [
+        {
+          "appid": "642280",
+          "nombre": "Grim Dawn - Ashes of Malmouth Expansion"
+        }
+      ],
+      "usd": 4.97,
+      "antes": 9.95,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "642280": {
+      "usd": 4.97,
+      "gratis": false
+    }
   },
   "descripcion": "Ashes of Malmouth expands on the apocalyptic fantasy world of Grim Dawn with two new chapters in the epic struggle against the ruthless Aetherials. Venture into dangerous new parts of the world to empower your characters and make difficult choices that have a lasting impact on the people of Cairn.",
   "generos": [
@@ -122,55 +143,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -233,5 +267,22 @@
     }
   ],
   "web": "http://www.grimdawn.com/",
-  "consultado": "2026-11-22T22:23:28.566Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 75682,
+  "youtube": [
+    {
+      "id": "oz2Z6hN5YBs",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "03VZ9cUB3vg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:06.483Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "danganronpa another episode ultra despair girls",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-19d5-705f-9d65-e24e975f3463",
   "appid": "555950",
@@ -41,12 +41,35 @@
       "url": "https://opencritic.com/game/2426/danganronpa-another-episode-ultra-despair-girls"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "138864",
+      "nombre": "Danganronpa Another Episode: Ultra Despair Girls",
+      "apps": [
+        {
+          "appid": "555950",
+          "nombre": "Danganronpa Another Episode: Ultra Despair Girls"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 14.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "555950": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Después de un año encerrada en un misterioso apartamento, el rescate de Komaru Naegi se complica cuando cientos de Monokumas atacan repentinamente. Entonces se unirá a Toko Fukawa para sobrevivir a los violentos Monokumas, escapar de los astutos Monokuma Kids y descubrir los secretos de la ciudad.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "27 JUN 2017",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Danganronpa Another Episode: Ultra Despair Girls",
   "acerca": [
     [
@@ -86,19 +109,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -205,5 +232,17 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555950/ss_1cbeb3e411de67704e7ae55d04ff0e6828f23fef.1920x1080.jpg?t=1715701294"
     }
   ],
-  "consultado": "2026-11-22T22:17:45.169Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9708,
+  "youtube": [
+    {
+      "id": "Kl9gAkIBsGs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:49.608Z"
 }

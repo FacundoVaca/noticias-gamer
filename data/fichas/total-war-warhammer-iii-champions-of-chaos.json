@@ -1,9 +1,9 @@
 {
   "clave": "total war warhammer iii champions of chaos",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6391-717c-b5c0-ddad156c66e4",
   "appid": "1824060",
@@ -41,6 +41,27 @@
   "juegoBase": {
     "appid": "1142710",
     "nombre": "Total War: WARHAMMER III"
+  },
+  "ediciones": [
+    {
+      "packageid": "655925",
+      "nombre": "Total War: WARHAMMER III - Champions of Chaos",
+      "apps": [
+        {
+          "appid": "1824060",
+          "nombre": "Total War: WARHAMMER III - Champions of Chaos"
+        }
+      ],
+      "usd": 6.49,
+      "antes": 12.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1824060": {
+      "usd": 6.49,
+      "gratis": false
+    }
   },
   "descripcion": "The Champions of Chaos Lords Pack introduces four new playable Legendary Lords to Total War: WARHAMMER III, usable in both the Realm of Chaos and Immortal Empires campaigns.",
   "generos": [
@@ -123,55 +144,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -259,5 +293,14 @@
     }
   ],
   "web": "https://warhammer3.totalwar.com/",
-  "consultado": "2026-11-22T22:24:05.798Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This content shows violence of a graphical nature within a Fantasy World.",
+  "igdbIntentado": true,
+  "igdb": 213092,
+  "v": 7,
+  "consultado": "2026-11-23T11:43:14.181Z"
 }

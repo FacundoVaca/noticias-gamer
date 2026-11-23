@@ -1,9 +1,9 @@
 {
   "clave": "1000xresist",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-64d6-7215-a39f-2995740a57bf",
   "appid": "1675830",
@@ -48,6 +48,80 @@
       "url": "https://opencritic.com/game/16723/1000xresist"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "596084",
+      "nombre": "1000xRESIST",
+      "apps": [
+        {
+          "appid": "1675830",
+          "nombre": "1000xRESIST"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 10.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1675830": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "2788410",
+      "nombre": "1000xRESIST Soundtrack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "3279690",
+      "nombre": "1000xRESIST: Fixer’s Song EP",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4002200",
+      "nombre": "1000xRESIST: Fixer's Song [dark mode]",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 50
+    },
+    {
+      "appid": "3279710",
+      "nombre": "1000xRESIST - Piano Book Vol.1",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3697900",
+      "nombre": "1000xRESIST - Piano Book Vol.2",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "4002240",
+      "nombre": "1000xRESIST - Piano Book Vol.3",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "4336110",
+      "nombre": "1000xRESIST - Piano Book Vol.4",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "1000xRESIST is a thrilling sci-fi adventure. The year is unknown, and a disease spread by an alien invasion keeps you underground. You are Watcher. You dutifully fulfil your purpose in serving the ALLMOTHER, until the day you discover a shocking secret that changes everything.",
   "generos": [
     "Aventura",
@@ -58,6 +132,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/1000xresist?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "1000xRESIST",
   "acerca": [
     [
@@ -203,27 +278,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -319,5 +400,27 @@
     }
   ],
   "web": "https://www.1000xresist.com/",
-  "consultado": "2026-11-22T22:16:35.212Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Este juego puede incluir contenido inapropiado para algunos públicos, como palabras malsonantes y groseras, trauma generacional, violencia y terrorismo, imágenes y menciones a epidemias, menciones al suicidio, y contenido para adultos en general.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 218282,
+  "youtube": [
+    {
+      "id": "J3XXgRpIKp4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "3lrS_kjKqS4",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "p0ZnmAu65XM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:17.334Z"
 }

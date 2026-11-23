@@ -2,7 +2,8 @@
   "clave": "serious sam 4",
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4298-7205-a335-125b39100354",
   "appid": "257420",
@@ -46,6 +47,54 @@
       "url": "https://opencritic.com/game/10226/serious-sam-4"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "496653",
+      "nombre": "Serious Sam 4",
+      "apps": [
+        {
+          "appid": "257420",
+          "nombre": "Serious Sam 4"
+        }
+      ],
+      "usd": 3.79,
+      "antes": 18.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "496654",
+      "nombre": "Serious Sam 4 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "257420",
+          "nombre": "Serious Sam 4"
+        }
+      ],
+      "usd": 4.59,
+      "antes": 22.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "700900",
+      "nombre": "Serious Sam 4 - Commercial License",
+      "apps": [
+        {
+          "appid": "257420",
+          "nombre": "Serious Sam 4"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "257420": {
+      "usd": 3.79,
+      "gratis": false
+    }
+  },
   "descripcion": "Serious Sam 4 regresa al género de los FPS clasicos en esta nueva precuela llena de masacre, armas de alto calibre y chistes cortos.",
   "generos": [
     "Acción",
@@ -57,6 +106,255 @@
     "puntaje": 68,
     "url": "https://www.metacritic.com/game/pc/serious-sam-4?ftag=MCD-06-10aaa1f"
   },
-  "recomendaciones": 15761,
-  "consultado": "2026-11-22T21:46:22.813Z"
+  "steamDeck": "Verificado",
+  "nombreSteam": "Serious Sam 4",
+  "acerca": [
+    [
+      "p",
+      "La humanidad se encuentra bajo asedio mientras que las fuerzas de Mental se esparcen por todo el mundo, destruyendo lo poco que aun queda en pie de la civilización. La unica fuerza de resistencia que queda para combatir a esta invasión, conocida como la E.D.F., es liderada por Sam \"Serious\" Stone y su escuadron, compuesto de comandos armados hasta los dientes y listos para el combate."
+    ],
+    [
+      "p",
+      "Croteam regresa con esta precuela a la saga de Serious Sam, la cual lleva la acción a otro nivel nunca antes visto. La formula clasica de Serious Sam vuelve con nuevas adiciones, poniendo al alcance del jugador un arsenal imparable de armas contra hordas interminables de enemigos, lo cual requiere que los jugadores se mantengan en movimiento para así salir de situaciones que parecen imposibles de sobrepasar."
+    ],
+    [
+      "h",
+      "HORDAS DE INVASORES"
+    ],
+    [
+      "p",
+      "Pelea contra las interminables hordas de Mental en cantidades jamas vistas antes. Pelea contra el iconico elenco de monstruos, clasicos como el Kamikaze decapitado, el Cohetero decapitado, el esqueleto Kleer, el Hombre Toro, los Scrapjack y los Khnum vuelven, asi como nuevos enemigos tales como el frenetico Procesado, el repulsivo Belcher, el pesado pero ágil Zealot y mas."
+    ],
+    [
+      "h",
+      "ARSENAL EXPLOSIVO"
+    ],
+    [
+      "p",
+      "Haz uso del arma correcta en el momento adecuado. Equipado con un arsenal de armas devastadoras, haz pedazos a las hordas de Mental con armas como la clasica escopeta doble, la pesada miniarma, el poderoso lanza-sierras, una nueva escopeta automatica y el iconico cañon. Mejora tus armas y disfruta de la belleza de un lanzacohetes cargado con misiles guiados, o de un poderoso rayo laser de la muerte."
+    ],
+    [
+      "h",
+      "LOCURA MULTIJUGADOR"
+    ],
+    [
+      "p",
+      "Juega la campaña con hasta 4 jugadores de manera cooperativa en linea. Completa las multiples y emocionantes misiones y personaliza la dificultad del juego para un reto adicional."
+    ],
+    [
+      "h",
+      "SISTEMA LEGIÓN"
+    ],
+    [
+      "p",
+      "Serious Sam 4 contiene encuentros jamas antes vistos en la historia de la saga gracias al nuevo Sistema Legión. ¡Enfrentate a hordas de enemigos en cantidades que rebasan los miles!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "4-core CPU @ 2.5 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "nVidia GeForce 780/970/1050 or AMD Radeon 7950/280/470 (3 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "42 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requirements are based on 720p rendering resolution at 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit (1909)"
+      ],
+      [
+        "Procesador",
+        "8-core CPU @ 3.3 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "nVidia GeForce 1080/2060 or AMD Radeon Vega64/5700 (8 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "42 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_e48cc1bc2f4fa3b4d1891ce740138fbcc62e5c31.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_e48cc1bc2f4fa3b4d1891ce740138fbcc62e5c31.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_bfc99a97593c134c83e09c027e679cd87b94edbb.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_bfc99a97593c134c83e09c027e679cd87b94edbb.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_6b940fd678128f1049b34e2af1e6585eba77ba90.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_6b940fd678128f1049b34e2af1e6585eba77ba90.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_2e6824320cd0feeb609c4258264df0d832cf3375.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_2e6824320cd0feeb609c4258264df0d832cf3375.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_c5fdaac977a7f7d4eacef0f0ae88669d34fb2f20.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_c5fdaac977a7f7d4eacef0f0ae88669d34fb2f20.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_1bf3fbc1cabcd2bdb843585154c3faef45c0193e.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_1bf3fbc1cabcd2bdb843585154c3faef45c0193e.1920x1080.jpg?t=1781867663"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_010af2fe05242dc33ad3856388e435d4cf03c443.600x338.jpg?t=1781867663",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420/ss_010af2fe05242dc33ad3856388e435d4cf03c443.1920x1080.jpg?t=1781867663"
+    }
+  ],
+  "web": "http://www.serioussam.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Serious Sam 4 contains frequent violence, blood and gore with some mature language, which can be seen through actual gameplay and cut-scenes.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 27011,
+  "youtube": [
+    {
+      "id": "m3f8ikw4xDk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "yfYDW4qW2r8",
+      "nombre": "Teaser Trailer"
+    },
+    {
+      "id": "Ctx8eXGZTfU",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "M8Z4yc6PTzs",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:47.220Z"
 }

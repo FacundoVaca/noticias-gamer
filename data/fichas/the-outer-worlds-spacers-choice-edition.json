@@ -1,9 +1,9 @@
 {
   "clave": "the outer worlds spacers choice edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6b76-7138-b864-49b402ec7d7b",
   "appid": "1920490",
@@ -52,6 +52,28 @@
       "url": "https://opencritic.com/game/14404/the-outer-worlds-spacers-choice-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "691801",
+      "nombre": "The Outer Worlds: Spacer's Choice Edition",
+      "apps": [
+        {
+          "appid": "1920490",
+          "nombre": "The Outer Worlds: Spacer's Choice Edition"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 27.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1920490": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
   "descripcion": "The Outer Worlds: Spacer's Choice Edition es la mejor forma de jugar al galardonado RPG de Obsidian Entertainment y Private Division. La remasterización incluye el juego original y el contenido descargable y está optimizada para lo último en hardware. Así disfrutarás de lo mejor de The Outer Worlds.",
   "generos": [
     "Acción",
@@ -60,6 +82,7 @@
   ],
   "lanzamientoTexto": "7 MAR 2023",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "The Outer Worlds: Spacer's Choice Edition",
   "acerca": [
     [
@@ -121,47 +144,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -252,5 +286,24 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920490/ss_52332311d07d24c79b0ec59f0f3fa8cb6e1d3ec2.1920x1080.jpg?t=1794362429"
     }
   ],
-  "consultado": "2026-11-22T22:17:01.263Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work. This may include: Blood and Gore Intense Violence Strong Language",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 239999,
+  "youtube": [
+    {
+      "id": "CI7-H0W5uUo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "E2dnCAurJcQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:49.562Z"
 }

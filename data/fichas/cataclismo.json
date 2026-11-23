@@ -1,9 +1,9 @@
 {
   "clave": "cataclismo",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6e74-71c6-80bf-00e270fe24ea",
   "appid": "1422440",
@@ -42,6 +42,45 @@
       "url": "https://metacritic.com/game/cataclismo/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "499464",
+      "nombre": "Cataclismo",
+      "apps": [
+        {
+          "appid": "1422440",
+          "nombre": "Cataclismo"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 14.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1422440": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4396100",
+      "nombre": "Cataclismo - The Old Kingdom",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    },
+    {
+      "appid": "5001640",
+      "nombre": "Cataclismo - Supporter Pack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 10
+    }
+  ],
   "descripcion": "Erige tus fortalezas ladrillo a ladrillo para vencer a hordas de horrores sin fin en este juego de estrategia en tiempo real con gestión de recursos, defensa de asedios y exploración. Dirige desde las murallas, rechaza la oscuridad y resiste las criaturas de la niebla.",
   "generos": [
     "Simuladores",
@@ -52,6 +91,7 @@
     "puntaje": 82,
     "url": "https://www.metacritic.com/game/pc/cataclismo?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Cataclismo",
   "acerca": [
     [
@@ -114,67 +154,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -273,5 +329,29 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/defc2cad63f161830608de0478302f4c2b0a9892/ss_defc2cad63f161830608de0478302f4c2b0a9892.1920x1080.jpg?t=1795189518"
     }
   ],
-  "consultado": "2026-11-22T22:15:47.120Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 250162,
+  "youtube": [
+    {
+      "id": "_epBS7KF8P4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "REnTM5OFzoE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Zq_tBBDx4qY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "6cR2uTskGdI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:06.643Z"
 }

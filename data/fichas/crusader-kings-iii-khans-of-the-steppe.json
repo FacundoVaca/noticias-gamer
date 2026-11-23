@@ -1,9 +1,9 @@
 {
   "clave": "crusader kings iii khans of the steppe",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01958aaa-7c49-73bc-9728-df8d62388257",
   "appid": "3315510",
@@ -36,6 +36,27 @@
   "juegoBase": {
     "appid": "1158310",
     "nombre": "Crusader Kings III"
+  },
+  "ediciones": [
+    {
+      "packageid": "1174063",
+      "nombre": "Crusader Kings III: Khans of the Steppe",
+      "apps": [
+        {
+          "appid": "3315510",
+          "nombre": "Crusader Kings III: Khans of the Steppe"
+        }
+      ],
+      "usd": 9.09,
+      "antes": 13.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "3315510": {
+      "usd": 9.09,
+      "gratis": false
+    }
   },
   "descripcion": "En \"Khans of the Steppe\", solo el más fuerte sobrevive a las duras condiciones de la estepa. ¿Alcanzarás la grandeza, dejarás un legado de conquistas o tu pueblo se desvanecerá con el paso del tiempo? Tú eliges.",
   "generos": [
@@ -116,39 +137,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -196,5 +226,14 @@
     }
   ],
   "web": "https://www.paradoxinteractive.com/games/crusader-kings-iii/about",
-  "consultado": "2026-11-22T22:23:17.733Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defenseless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 343945,
+  "v": 7,
+  "consultado": "2026-11-23T11:40:40.844Z"
 }

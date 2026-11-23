@@ -1,15 +1,83 @@
 {
   "clave": "ufc 6",
-  "v": 5,
   "fuentes": [
-    "IsThereAnyDeal"
+    "IsThereAnyDeal",
+    "Microsoft Store"
   ],
   "itad": "019f409e-1c91-715a-98c4-54a15ff0e829",
   "appid": null,
-  "lanzamiento": null,
-  "desarrolladores": [],
-  "editores": [],
+  "lanzamiento": "2026-06-19",
+  "desarrolladores": [
+    "EA SPORTS"
+  ],
+  "editores": [
+    "Electronic Arts"
+  ],
   "etiquetas": [],
   "resenas": [],
-  "consultado": "2026-11-22T22:33:17.609Z"
+  "xboxIntentado": true,
+  "descripcion": "EA SPORTS™ UFC™ 6 está impulsado por los contendientes. Los sistemas mejorados de golpeo y movimiento les dan vida a las estrellas de la UFC en el octágono, mientras que los nuevos modos de juego incorporan una narrativa envolvente que hace que cada pelea se sienta personal. Ponte en posición y a pelear.",
+  "acerca": [
+    [
+      "p",
+      "EA SPORTS™ UFC™ 6 está impulsado por los contendientes. Los sistemas mejorados de golpeo y movimiento les dan vida a las estrellas de la UFC en el octágono, mientras que los nuevos modos de juego incorporan una narrativa envolvente que hace que cada pelea se sienta personal. Esto empieza con la Captura sin marcadores, que ofrece una fidelidad sin precedentes de los contendientes con movimientos auténticos y golpes personales, complementados con nuevos cuerpos de contendientes creados con la tecnología Sapien, que hacen que tus superestrellas favoritas de la UFC se vean, se muevan y luchen como en la vida real. El contacto en tiempo real lleva el impacto al octágono con la física ragdoll impulsada por Frostbite™ y reacciones al daño que duelen fuerte. Cuando realmente empiezas a repartir daño, entra en el estado de flujo, que activa las habilidades más destacadas de tu atleta de una manera implacable. Por último, modos de juego totalmente nuevos como Salón de Leyendas y El Legado te permiten vivir las historias de los grandes de la UFC o forjar tu propio camino, desde los bastidores hasta las luces del escenario. Ponte en posición y pelea."
+    ],
+    [
+      "p",
+      "Este juego incluye compras opcionales de moneda virtual dentro del juego que se puede usar para adquirir items virtuales dentro del juego."
+    ],
+    [
+      "p",
+      "*Aplican condiciones y restricciones. Visita https://www.ea.com/games/ufc/ufc-6/game-disclaimers para conocer los detalles."
+    ]
+  ],
+  "generos": [
+    "Sports",
+    "Fighting",
+    "Simulation"
+  ],
+  "capturas": [
+    {
+      "chica": "https://store-images.s-microsoft.com/image/apps.36917.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.75ff65a5-021c-4b69-8ac6-a9ffef15467a?w=600",
+      "grande": "https://store-images.s-microsoft.com/image/apps.36917.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.75ff65a5-021c-4b69-8ac6-a9ffef15467a?w=1600"
+    },
+    {
+      "chica": "https://store-images.s-microsoft.com/image/apps.29722.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.ee9294c2-e0cd-4b49-8686-8e0b3cbe0316?w=600",
+      "grande": "https://store-images.s-microsoft.com/image/apps.29722.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.ee9294c2-e0cd-4b49-8686-8e0b3cbe0316?w=1600"
+    },
+    {
+      "chica": "https://store-images.s-microsoft.com/image/apps.14385.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.c81a1d15-37de-45df-83e5-2520a3bacaab?w=600",
+      "grande": "https://store-images.s-microsoft.com/image/apps.14385.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.c81a1d15-37de-45df-83e5-2520a3bacaab?w=1600"
+    },
+    {
+      "chica": "https://store-images.s-microsoft.com/image/apps.51100.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.d0c1f9c2-a147-41a4-be71-ec0cd9599c5e?w=600",
+      "grande": "https://store-images.s-microsoft.com/image/apps.51100.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.d0c1f9c2-a147-41a4-be71-ec0cd9599c5e?w=1600"
+    },
+    {
+      "chica": "https://store-images.s-microsoft.com/image/apps.10027.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.f93d3e09-185e-4d35-9ba7-8aea0d7a3182?w=600",
+      "grande": "https://store-images.s-microsoft.com/image/apps.10027.13777372456800779.102ae57c-723f-4ddb-a383-1ea3289b2a88.f93d3e09-185e-4d35-9ba7-8aea0d7a3182?w=1600"
+    }
+  ],
+  "caracteristicas": [
+    "Multijugador local",
+    "Multijugador en línea",
+    "Juego cruzado entre plataformas",
+    "Un jugador",
+    "60 FPS",
+    "Logros de Xbox",
+    "Guardado en la nube",
+    "Xbox Network"
+  ],
+  "caracteristicasDe": "Xbox",
+  "tipo": "juego",
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.2,
+    "cantidad": 2435,
+    "escala": 5
+  },
+  "xbox": "9NQB2BFDD88X",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T11:43:52.737Z"
 }

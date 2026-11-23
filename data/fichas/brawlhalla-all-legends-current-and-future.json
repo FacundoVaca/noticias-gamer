@@ -1,13 +1,13 @@
 {
   "clave": "brawlhalla all legends current and future",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ff0d-701a-933e-10638525a63e",
   "appid": "387020",
-  "lanzamiento": null,
+  "lanzamiento": "2015-11-03",
   "desarrolladores": [
     "Blue Mammoth Games"
   ],
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "291550",
     "nombre": "Brawlhalla"
+  },
+  "ediciones": [
+    {
+      "packageid": "77032",
+      "nombre": "Brawlhalla - All Legends Pack",
+      "apps": [
+        {
+          "appid": "387020",
+          "nombre": "Brawlhalla - All Legends (Current and Future)"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 31.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "387020": {
+      "usd": 15.99,
+      "gratis": false
+    }
   },
   "descripcion": "The All Legends Pack immediately unlocks all current Legends and every new Legend added in the future. Everything in the “Legends” tab in the in-game store would be yours to have. Forever. Note that this doesn’t unlock Crossovers.",
   "generos": [
@@ -71,47 +92,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -171,5 +203,13 @@
     }
   ],
   "web": "http://www.brawlhalla.com",
-  "consultado": "2026-11-22T22:23:57.050Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 242596,
+  "v": 7,
+  "consultado": "2026-11-23T11:42:23.193Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "the sims 4 city living",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-05bc-73c8-b01a-45553c93ba03",
   "appid": "1235731",
@@ -53,6 +53,27 @@
     "appid": "1222670",
     "nombre": "The Sims™ 4"
   },
+  "ediciones": [
+    {
+      "packageid": "428559",
+      "nombre": "The Sims™ 4 City Living",
+      "apps": [
+        {
+          "appid": "1235731",
+          "nombre": "The Sims™ 4 City Living"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1235731": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Lleva a tus Sims a la ciudad y explora con ellos todo lo que esta ofrece con Los Sims™ 4 Urbanitas, desde la bulliciosa acción que tiene lugar en el exterior hasta las situaciones únicas que solo se producen viviendo en un piso.",
   "generos": [
     "Simuladores"
@@ -97,75 +118,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -269,5 +308,29 @@
     }
   ],
   "web": "https://www.ea.com/en-gb/games/the-sims",
-  "consultado": "2026-11-22T22:22:55.908Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 25321,
+  "youtube": [
+    {
+      "id": "WCV5xDzvvN8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_IjxDbRiAdk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fCvTzTFNy58",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "W458QnCVQik",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:50.698Z"
 }

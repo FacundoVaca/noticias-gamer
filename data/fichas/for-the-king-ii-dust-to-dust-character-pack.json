@@ -1,6 +1,5 @@
 {
   "clave": "for the king ii dust to dust character pack",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -34,6 +33,27 @@
   "juegoBase": {
     "appid": "1676840",
     "nombre": "For The King II"
+  },
+  "ediciones": [
+    {
+      "packageid": "1789294",
+      "nombre": "For The King II: Dust to Dust Character Pack",
+      "apps": [
+        {
+          "appid": "5169060",
+          "nombre": "For The King II: Dust to Dust Character Pack"
+        }
+      ],
+      "usd": 4.04,
+      "antes": 4.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "5169060": {
+      "usd": 4.04,
+      "gratis": false
+    }
   },
   "descripcion": "Dig in and give your party a fighting chance with the Dust to Dust Character Pack!",
   "generos": [
@@ -142,55 +162,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -286,5 +319,11 @@
     }
   ],
   "web": "https://www.ironoakgames.com",
-  "consultado": "2026-11-22T22:23:46.142Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T11:41:57.933Z"
 }

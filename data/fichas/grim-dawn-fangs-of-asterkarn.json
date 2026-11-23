@@ -1,9 +1,9 @@
 {
   "clave": "grim dawn fangs of asterkarn",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019e6efe-44b8-70cc-8ed1-afa9edfc1d59",
   "appid": "2699230",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "219990",
     "nombre": "Grim Dawn"
+  },
+  "ediciones": [
+    {
+      "packageid": "966567",
+      "nombre": "Grim Dawn - Fangs of Asterkarn",
+      "apps": [
+        {
+          "appid": "2699230",
+          "nombre": "Grim Dawn - Fangs of Asterkarn"
+        }
+      ],
+      "usd": 7.86,
+      "antes": 10.49,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "2699230": {
+      "usd": 7.86,
+      "gratis": false
+    }
   },
   "descripcion": "Fangs of Asterkarn es nuestra mayor expansión de la fantasía apocalíptica de Grim Dawn. Aquí conocerás a las poderosas tribus kurn de Asterkarn y te enfrentarás a la corrupción ch'tónica. Personaliza tus pociones, despierta el auténtico poder de los objetos épicos y activa el nuevo modo Ascendente.",
   "generos": [
@@ -126,55 +147,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -212,5 +246,18 @@
     }
   ],
   "web": "http://www.grimdawn.com/",
-  "consultado": "2026-11-22T22:22:18.515Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 298931,
+  "youtube": [
+    {
+      "id": "n_29nUR9RXQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:31.359Z"
 }

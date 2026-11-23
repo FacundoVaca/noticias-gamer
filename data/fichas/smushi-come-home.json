@@ -1,9 +1,9 @@
 {
   "clave": "smushi come home",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ed5-71a0-9f59-3c1881311a46",
   "appid": "1740300",
@@ -41,6 +41,38 @@
       "url": "https://opencritic.com/game/15120/smushi-come-home"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "623735",
+      "nombre": "Smushi Come Home",
+      "apps": [
+        {
+          "appid": "1740300",
+          "nombre": "Smushi Come Home"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 10.49,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1740300": {
+      "usd": 4.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2466380",
+      "nombre": "Smushi Come Home Soundtrack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    }
+  ],
   "descripcion": "Juega como una setita que se ha perdido en el bosque y no encuentra el camino a casa. ¡Explora a tu ritmo zonas únicas, habla con los amigables habitantes y enfréntate a todo tipo de aventuras para volver a casa!",
   "generos": [
     "Aventura",
@@ -50,6 +82,7 @@
   ],
   "lanzamientoTexto": "10 JUN 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Smushi Come Home",
   "acerca": [
     [
@@ -99,27 +132,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -203,5 +242,23 @@
     }
   ],
   "web": "https://www.mooneyestudios.com/",
-  "consultado": "2026-11-22T22:13:25.376Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 211223,
+  "youtube": [
+    {
+      "id": "oL3SOQLKoRQ",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "ZcW7vHXvz78",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:54.763Z"
 }

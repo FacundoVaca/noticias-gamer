@@ -1,9 +1,9 @@
 {
   "clave": "kingdom come deliverance ii legacy of the forge",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0198c3db-57fa-71b6-8fd5-88cc814dbee3",
   "appid": "3368610",
@@ -46,6 +46,27 @@
     "appid": "1771300",
     "nombre": "Kingdom Come: Deliverance II"
   },
+  "ediciones": [
+    {
+      "packageid": "1192103",
+      "nombre": "Kingdom Come: Deliverance II Legacy of the Forge",
+      "apps": [
+        {
+          "appid": "3368610",
+          "nombre": "Kingdom Come: Deliverance II Legacy of the Forge"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 10.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3368610": {
+      "usd": 6.59,
+      "gratis": false
+    }
+  },
   "descripcion": "Pon a prueba tu maña como herrero para reparar una legendaria forja calcinada. Establécete en el centro de Kutná Hora para diseñar la forja, sus alrededores y tus aposentos, con la posibilidad de personalizar y amueblar a tu gusto para favorecer tu estilo de juego.",
   "generos": [
     "Acción",
@@ -72,67 +93,83 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -184,5 +221,19 @@
     }
   ],
   "web": "https://www.kingdomcomerpg.com/",
-  "consultado": "2026-11-22T22:23:02.397Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game contains frequent depictions of violence, killing, brutality and blood. Furthermore coarse language and crude humor is used in an extensive manner. The player will further come across adult themes, alcohol as well as sexual activity and nudity.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 361887,
+  "youtube": [
+    {
+      "id": "JcvB6lH-LKI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:40:35.887Z"
 }

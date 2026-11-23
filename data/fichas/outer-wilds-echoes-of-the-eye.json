@@ -1,9 +1,9 @@
 {
   "clave": "outer wilds echoes of the eye",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-572a-7002-9063-ac52bc7ed580",
   "appid": "1622100",
@@ -52,6 +52,27 @@
   "juegoBase": {
     "appid": "753640",
     "nombre": "Outer Wilds"
+  },
+  "ediciones": [
+    {
+      "packageid": "575911",
+      "nombre": "Outer Wilds - Echoes of the Eye",
+      "apps": [
+        {
+          "appid": "1622100",
+          "nombre": "Outer Wilds - Echoes of the Eye"
+        }
+      ],
+      "usd": 4.14,
+      "antes": 8.29,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1622100": {
+      "usd": 4.14,
+      "gratis": false
+    }
   },
   "descripcion": "Una extraña foto de satélite inexplicable. Una nueva exposición de museo que supone el inicio de un último viaje por el espacio. ¿Deberías tirar del hilo y desentrañar el secreto más profundo del sistema solar, o es mejor dejar algún conocimiento en la oscuridad?",
   "generos": [
@@ -104,55 +125,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -224,5 +258,22 @@
     }
   ],
   "web": "https://www.mobiusdigitalgames.com/outer-wilds.html",
-  "consultado": "2026-11-22T22:22:05.457Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 146761,
+  "youtube": [
+    {
+      "id": "pt9M6WumjtE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Fb1igSbFlo0",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:11.954Z"
 }

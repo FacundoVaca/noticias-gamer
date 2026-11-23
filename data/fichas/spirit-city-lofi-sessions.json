@@ -1,9 +1,9 @@
 {
   "clave": "spirit city lofi sessions",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6fe2-70fc-b625-761c01d18533",
   "appid": "2113850",
@@ -47,6 +47,73 @@
       "url": "https://opencritic.com/game/16574/spirit-city-lofi-sessions"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "755958",
+      "nombre": "Spirit City: Lofi Sessions",
+      "apps": [
+        {
+          "appid": "2113850",
+          "nombre": "Spirit City: Lofi Sessions"
+        }
+      ],
+      "usd": 2.68,
+      "antes": 6.72,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2113850": {
+      "usd": 2.68,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "4734690",
+      "nombre": "Spirit City: Lofi Sessions - Magical Library DLC",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4242210",
+      "nombre": "Spirit City: Lofi Sessions - Enchanted Garden DLC",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3815280",
+      "nombre": "Spirit City: Lofi Sessions - All Aboard! DLC",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3210380",
+      "nombre": "Spirit City: Lofi Sessions - Cozy Kitchen DLC",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3349330",
+      "nombre": "Spirit City: Lofi Sessions - Winter Spirit Cosmetics Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "2374850",
+      "nombre": "Spirit City: Lofi Sessions - Supporter pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Estudia, relájate o incrementa tu productividad en el mundo de Spirit City. Ambienta con ritmos lofi y paisajes sonoros, personaliza tu personaje y mascota espiritual, y emplea las herramientas de productividad. Todo ello mientras descubres entrañables espíritus ocultos y los añades a tu colección.",
   "generos": [
     "Casual",
@@ -58,6 +125,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/spirit-city-lofi-sessions?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Spirit City: Lofi Sessions",
   "acerca": [
     [
@@ -160,43 +228,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -296,5 +374,26 @@
     }
   ],
   "web": "https://lofigaming.com/games/spirit-city",
-  "consultado": "2026-11-22T22:16:39.477Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 263016,
+  "youtube": [
+    {
+      "id": "UyVVYDUMUbM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "hRxo3rXj6MI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "De-KMSl583A",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:28.835Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "flotsam",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-e9ed-73e9-bb56-a4a8595c37a5",
   "appid": "821250",
@@ -36,6 +36,38 @@
       "url": "https://metacritic.com/game/flotsam/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "251842",
+      "nombre": "Flotsam",
+      "apps": [
+        {
+          "appid": "821250",
+          "nombre": "Flotsam"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 12.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "821250": {
+      "usd": 6.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4661240",
+      "nombre": "Flotsam: Support Pack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    }
+  ],
   "descripcion": "Sobrevive, navega y rescata supervivientes en un animado juego de construcción de ciudades flotantes. Dirige a tus navegantes por mares sin fin llenos de basura y descubre ruinas empapadas, fábricas oxidadas y edificios del antiguo mundo.",
   "generos": [
     "Indie",
@@ -44,6 +76,7 @@
   ],
   "lanzamientoTexto": "4 DIC 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Flotsam",
   "acerca": [
     [
@@ -146,51 +179,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -253,5 +298,30 @@
     }
   ],
   "web": "http://www.pajamallama.be/flotsam/",
-  "consultado": "2026-11-22T22:15:31.921Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 74527,
+  "youtube": [
+    {
+      "id": "yj4Mq8rNn7A",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NWXYA4mByuY",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "KxUMkWQizTk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "W4w3PLLX2t0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:57.675Z"
 }

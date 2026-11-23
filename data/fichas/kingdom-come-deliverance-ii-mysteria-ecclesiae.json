@@ -1,9 +1,9 @@
 {
   "clave": "kingdom come deliverance ii mysteria ecclesiae",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019a11a4-0705-735c-b4c7-0d59811c849b",
   "appid": "3368620",
@@ -47,6 +47,27 @@
     "appid": "1771300",
     "nombre": "Kingdom Come: Deliverance II"
   },
+  "ediciones": [
+    {
+      "packageid": "1192106",
+      "nombre": "Kingdom Come: Deliverance II Mysteria Ecclesiae",
+      "apps": [
+        {
+          "appid": "3368620",
+          "nombre": "Kingdom Come: Deliverance II Mysteria Ecclesiae"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 10.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3368620": {
+      "usd": 6.59,
+      "gratis": false
+    }
+  },
   "descripcion": "Embárcate en una nueva aventura repleta de misiones, personajes intrigantes y giros inesperados. Henry deberá descubrir los secretos de un monasterio en cuarentena. Los recursos escasean y el peligro acecha en la sombra. ¿Lograrás resolver el misterio y detener la enfermedad?",
   "generos": [
     "Acción",
@@ -73,63 +94,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -181,5 +217,24 @@
     }
   ],
   "web": "https://www.kingdomcomerpg.com/",
-  "consultado": "2026-11-22T22:23:15.568Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "The game contains frequent depictions of violence, killing, brutality and blood. Furthermore coarse language and crude humor is used in an extensive manner. The player will further come across adult themes, alcohol as well as sexual activity and nudity.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 362029,
+  "youtube": [
+    {
+      "id": "oRdzdd8rX-8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "7o6xpV2KIzE",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:11.799Z"
 }

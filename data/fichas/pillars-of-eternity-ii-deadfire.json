@@ -1,9 +1,9 @@
 {
   "clave": "pillars of eternity ii deadfire",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2db9-7369-8fb1-3f104d3341b8",
   "appid": "560130",
@@ -50,6 +50,125 @@
       "url": "https://opencritic.com/game/5765/pillars-of-eternity-ii-deadfire"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "258525",
+      "nombre": "Pillars of Eternity II: Deadfire - Standard Edition",
+      "apps": [
+        {
+          "appid": "560130",
+          "nombre": "Pillars of Eternity II: Deadfire"
+        }
+      ],
+      "usd": 3.49,
+      "antes": 13.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "258527",
+      "nombre": "Pillars of Eternity II: Deadfire - Obsidian Edition",
+      "apps": [
+        {
+          "appid": "560130",
+          "nombre": "Pillars of Eternity II: Deadfire"
+        },
+        {
+          "appid": "821940",
+          "nombre": "Pillars of Eternity II: Deadfire - Beast of Winter"
+        },
+        {
+          "appid": "854290",
+          "nombre": "Pillars of Eternity II: Deadfire - Explorer's Pack"
+        },
+        {
+          "appid": "734830",
+          "nombre": "Pillars of Eternity II: Deadfire - Seeker, Slayer, Survivor"
+        },
+        {
+          "appid": "821950",
+          "nombre": "Pillars of Eternity II: Deadfire - The Forgotten Sanctum"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 20.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "560130": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "734830": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "821940": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "821950": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "854290": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "821970",
+      "nombre": "Pillars of Eternity II: Deadfire - Rum Runner's  Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "821980",
+      "nombre": "Pillars of Eternity II: Deadfire - Beard and Hair Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "821990",
+      "nombre": "Pillars of Eternity II: Deadfire  - Scalawags Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "822000",
+      "nombre": "Pillars of Eternity II: Deadfire - The Deck of Many Things",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "854220",
+      "nombre": "Pillars of Eternity II: Deadfire - Expansion Pass",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 75
+    },
+    {
+      "appid": "854290",
+      "nombre": "Pillars of Eternity II: Deadfire - Explorer's Pack",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 75
+    },
+    {
+      "appid": "855930",
+      "nombre": "Pillars of Eternity II: Deadfire - Critical Role Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Persigue a un Dios renegado por tierra y mar en la continuación del multigalardonado RPG Pillars of Eternity. Lidera tu nave a través de un peligroso viaje descubriendo el vasto archipiélago inexplorado de Deadfire.",
   "generos": [
     "Rol"
@@ -59,6 +178,7 @@
     "puntaje": 88,
     "url": "https://www.metacritic.com/game/pc/pillars-of-eternity-ii-deadfire?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Pillars of Eternity II: Deadfire",
   "acerca": [
     [
@@ -94,39 +214,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -226,5 +355,28 @@
     }
   ],
   "web": "https://eternity.obsidian.net/",
-  "consultado": "2026-11-22T22:15:49.309Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 26951,
+  "youtube": [
+    {
+      "id": "vvEQad8kLQQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "w6buIoyeIZA",
+      "nombre": "Features Trailer"
+    },
+    {
+      "id": "s5nXYmPecTc",
+      "nombre": "Reveal Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:24.313Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "the jackbox party pack 7",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-467e-7008-aeae-ccb40f395342",
   "appid": "1211630",
@@ -51,6 +51,28 @@
       "url": "https://opencritic.com/game/10262/the-jackbox-party-pack-7"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "418892",
+      "nombre": "The Jackbox Party Pack 7",
+      "apps": [
+        {
+          "appid": "1211630",
+          "nombre": "The Jackbox Party Pack 7"
+        }
+      ],
+      "usd": 8.24,
+      "antes": 14.99,
+      "descuento": 45
+    }
+  ],
+  "sueltos": {
+    "1211630": {
+      "usd": 8.24,
+      "gratis": false
+    }
+  },
   "descripcion": "Five new games: the hit threequel Quiplash 3, the collaborative chaos of The Devils and the Details, the fierce drawing game Champ’d Up, the speech game Talking Points and the guessing game Blather 'Round. Use phones or tablets as controllers and play with up to 8 players, and an audience of 10,000!",
   "generos": [
     "Casual",
@@ -59,6 +81,7 @@
   ],
   "lanzamientoTexto": "14 OCT 2020",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Jackbox Party Pack 7",
   "acerca": [
     [
@@ -125,7 +148,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -216,5 +240,20 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211630/ss_ba2c3abc12ef299d102c7d5b54250895aab1a31a.1920x1080.jpg?t=1728584652"
     }
   ],
-  "consultado": "2026-11-22T22:15:25.321Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 138375,
+  "youtube": [
+    {
+      "id": "e9-km3Ie9lg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:28.969Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "ready or not home invasion",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0190996a-1799-7299-985e-d34d65fe524b",
   "appid": "3015760",
@@ -35,6 +35,27 @@
   "juegoBase": {
     "appid": "1144200",
     "nombre": "Ready or Not"
+  },
+  "ediciones": [
+    {
+      "packageid": "1072587",
+      "nombre": "Ready or Not: Home Invasion",
+      "apps": [
+        {
+          "appid": "3015760",
+          "nombre": "Ready or Not: Home Invasion"
+        }
+      ],
+      "usd": 2.89,
+      "antes": 5.79,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3015760": {
+      "usd": 2.89,
+      "gratis": false
+    }
   },
   "descripcion": "Los Sueños - ESTADO DE EMERGENCIA: Retransmisión de emergencia de Galo Álvarez, jefe de policía de Los Sueños, tras la devastación producida por el huracán Antonio de categoría 5. Se producen allanamientos de morada por doquier y el equipo SWAT del LSPD actúa ante la catástrofe.",
   "generos": [
@@ -95,47 +116,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -223,5 +255,23 @@
     }
   ],
   "web": "https://voidinteractive.net",
-  "consultado": "2026-11-22T22:23:30.728Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Given the graphic nature of the game and the gritty realism it portrays, the game is for mature audiences. We will also strongly recommend that people who have experienced personal traumatic events from criminal violence, hostage situations or terrorism refrain from playing. At its core, the game honors the work of dedicated law enforcement officers across the world and in no way intends on glorifying cowardly criminal acts.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 308700,
+  "youtube": [
+    {
+      "id": "Hncp01oVykU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "byt7k1z46QI",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:22.177Z"
 }

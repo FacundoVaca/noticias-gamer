@@ -1,9 +1,9 @@
 {
   "clave": "like a dragon pirate yakuza in hawaii",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01920f27-372f-735d-ac2c-aecacd8ba1b9",
   "appid": "3061810",
@@ -49,6 +49,134 @@
       "url": "https://opencritic.com/game/17748/like-a-dragon-pirate-yakuza-in-hawaii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1088136",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "apps": [
+        {
+          "appid": "3061810",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 47.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "1130558",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Digital Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3061810",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii"
+        }
+      ],
+      "usd": 13.99,
+      "antes": 55.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "1130571",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Mejora a la edición deluxe",
+      "apps": [
+        {
+          "appid": "3184020",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack"
+        },
+        {
+          "appid": "3184010",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Legendary Outfit Pack"
+        },
+        {
+          "appid": "3184030",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Pack personalización naval"
+        },
+        {
+          "appid": "3184040",
+          "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Pack piratas legendarios"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 15.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3061810": {
+      "usd": 11.99,
+      "gratis": false
+    },
+    "3184010": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3184020": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3184030": {
+      "usd": 3.19,
+      "gratis": false
+    },
+    "3184040": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "3184030",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Pack personalización naval",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3184020",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Extra Karaoke & CD Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3184010",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Legendary Outfit Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 0
+    },
+    {
+      "appid": "3184040",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Pack piratas legendarios",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3183940",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Lote pirata Ichiban",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "3184000",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Lote atuendos de Ichiban",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3184050",
+      "nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Atuendo especial de Kazuma Kiryu ",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Embárcate en una aventura de piratas modernos junto a un exyakuza convertido en capitán pirata y su tripulación. Lucha por tierra y mar en busca de los recuerdos perdidos y un tesoro legendario.",
   "generos": [
     "Acción",
@@ -60,6 +188,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/like-a-dragon-pirate-yakuza-in-hawaii?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Like a Dragon: Pirate Yakuza in Hawaii",
   "acerca": [
     [
@@ -122,47 +251,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -278,5 +418,32 @@
     }
   ],
   "web": "https://www.sega.com/like-a-dragon-yakuza/like-a-dragon-pirate-yakuza-in-hawaii",
-  "consultado": "2026-11-22T22:14:52.407Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Blood, Intense Violence, Sexual Themes, Strong Language, and Use of Tobacco and Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 317317,
+  "youtube": [
+    {
+      "id": "T6aJQ9hDFxk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "GCmDF0NqZQc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RmDgdb2JQfw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "rL-OoVxc6NU",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:38.916Z"
 }

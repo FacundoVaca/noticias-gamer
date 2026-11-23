@@ -1,9 +1,9 @@
 {
   "clave": "dawn of defense",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018f85c7-e828-7008-9a0d-a45300d84920",
   "appid": "2781660",
@@ -31,6 +31,28 @@
       "url": "https://store.steampowered.com/app/2781660/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "994037",
+      "nombre": "Dawn of Defense",
+      "apps": [
+        {
+          "appid": "2781660",
+          "nombre": "Dawn of Defense"
+        }
+      ],
+      "usd": 9.44,
+      "antes": 10.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "2781660": {
+      "usd": 9.44,
+      "gratis": false
+    }
+  },
   "descripcion": "Dawn of Defense combina estrategia en tiempo real, defensa de torres y progreso de estilo roguelite. Lidera a tu tribu contra el Imperio en la defensa final: Dirige a tus tropas en batalla, fortalece tus defensas y desarrolla tu economía a medida que luchas por reclamar tu patria ancestral.",
   "generos": [
     "Estrategia"
@@ -85,47 +107,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -217,5 +250,29 @@
     }
   ],
   "web": "https://6side.de/",
-  "consultado": "2026-11-22T22:16:17.752Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 310733,
+  "youtube": [
+    {
+      "id": "iwtkN45g4IY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "pCXT2YVOyBA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "KRR6TEUnVeY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QGnYwtWLs_8",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:28.004Z"
 }

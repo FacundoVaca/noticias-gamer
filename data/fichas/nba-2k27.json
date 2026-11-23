@@ -1,9 +1,10 @@
 {
   "clave": "nba 2k27",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
   ],
   "itad": "019f8a2e-4aa9-70aa-b631-69bd041de0a6",
   "appid": "4356430",
@@ -121,6 +122,7 @@
   ],
   "lanzamientoTexto": "3 SEP 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "NBA 2K27",
   "acerca": [
     [
@@ -187,43 +189,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -335,5 +347,29 @@
     }
   ],
   "web": "https://www.nba2k.com",
-  "consultado": "2026-11-22T22:33:06.190Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 2.6,
+    "cantidad": 37,
+    "escala": 5
+  },
+  "xbox": "9NB8Z7TGS7LB",
+  "igdbIntentado": true,
+  "igdb": 408823,
+  "youtube": [
+    {
+      "id": "ryPx3RZJVQM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "vQ2jNNbh1TU",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:43:43.488Z"
 }

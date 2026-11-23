@@ -1,9 +1,9 @@
 {
   "clave": "bayonetta",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0993-71bd-b450-042102dd4b89",
   "appid": "460790",
@@ -49,6 +49,28 @@
       "url": "https://opencritic.com/game/731/bayonetta"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "100458",
+      "nombre": "Bayonetta",
+      "apps": [
+        {
+          "appid": "460790",
+          "nombre": "Bayonetta"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 19.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "460790": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
   "descripcion": "La aclamada obra maestra de PlatinumGames llega por fin a PC. Experimenta su insuperable acción en 60 fps en resoluciones desbloqueadas en HD. El estilo de juego definitivo: ser malos nunca estuvo tan bien.",
   "generos": [
     "Acción",
@@ -59,6 +81,7 @@
     "puntaje": 90,
     "url": "https://www.metacritic.com/game/pc/bayonetta?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Bayonetta",
   "acerca": [
     [
@@ -152,27 +175,33 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -271,5 +300,32 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460790/ss_a6089219457a3e0ce669bbbfd149ce6ffaebf260.1920x1080.jpg?t=1763677459"
     }
   ],
-  "consultado": "2026-11-22T22:15:36.316Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore, Intense Violence, Partial Nudity, Strong Language, Suggestive Themes",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2136,
+  "youtube": [
+    {
+      "id": "vtgdPlOXQXQ",
+      "nombre": "PC Launch Trailer"
+    },
+    {
+      "id": "G0OwDTkS-bs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "h7PZ1i992kc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "XSmaOxHD8OE",
+      "nombre": "Dev Diary: Part 2"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:32:02.766Z"
 }

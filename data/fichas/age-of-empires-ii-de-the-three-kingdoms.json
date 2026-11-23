@@ -1,9 +1,9 @@
 {
   "clave": "age of empires ii de the three kingdoms",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019620b5-7905-7320-8aab-088218a56774",
   "appid": "3080080",
@@ -37,6 +37,27 @@
   "juegoBase": {
     "appid": "813780",
     "nombre": "Age of Empires II: Definitive Edition"
+  },
+  "ediciones": [
+    {
+      "packageid": "1094363",
+      "nombre": "Age of Empires II: DE - The Three Kingdoms",
+      "apps": [
+        {
+          "appid": "3080080",
+          "nombre": "Age of Empires II: DE - The Three Kingdoms "
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3080080": {
+      "usd": 11.99,
+      "gratis": false
+    }
   },
   "descripcion": "Recorre mil años de la historia de China y sumérgete en el épico Romance de los Tres Reinos con la última expansión de Age of Empires II: Definitive Edition, donde historia y leyenda chocan en una batalla por la supremacía.",
   "generos": [
@@ -174,63 +195,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Hindi",
@@ -334,5 +370,18 @@
     }
   ],
   "web": "https://www.ageofempires.com/games/aoeiide/",
-  "consultado": "2026-11-22T22:23:32.935Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 342809,
+  "youtube": [
+    {
+      "id": "OhzjjOnr_kE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:32.857Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "the sims 4 get famous",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-ea0a-73c8-a5be-54780a45e49c",
   "appid": "1235720",
@@ -53,6 +53,27 @@
     "appid": "1222670",
     "nombre": "The Sims™ 4"
   },
+  "ediciones": [
+    {
+      "packageid": "428547",
+      "nombre": "The Sims™ 4 Get Famous",
+      "apps": [
+        {
+          "appid": "1235720",
+          "nombre": "The Sims™ 4 Get Famous"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1235720": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Aspira a alcanzar el estrellato y asciende a la categoría de celebridad con Los Sims™ 4 ¡Rumbo a la Fama! Llega a lo más alto en tu carrera, conviértete en una estrella emergente y guía a tus Sims hasta la fama.",
   "generos": [
     "Simuladores"
@@ -93,75 +114,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -273,5 +312,25 @@
     }
   ],
   "web": "https://www.ea.com/en-gb/games/the-sims/the-sims-4",
-  "consultado": "2026-11-22T22:23:35.149Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 110840,
+  "youtube": [
+    {
+      "id": "k4FoctTCv-M",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "pvMPTkj_HcQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fIekuG3FG7I",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:42:28.121Z"
 }

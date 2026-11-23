@@ -1,9 +1,9 @@
 {
   "clave": "judgment",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f561-7040-9bad-aff392b83c6a",
   "appid": "2058180",
@@ -43,6 +43,28 @@
       "url": "https://metacritic.com/game/judgment/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "735323",
+      "nombre": "Judgment",
+      "apps": [
+        {
+          "appid": "2058180",
+          "nombre": "Judgment"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 39.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2058180": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Lucha por la verdad y descubre el retorcido crimen que se esconde bajo las calles de Tokio. En este thriller legal, el equilibrio entre la justicia y la clemencia se tambalea.",
   "generos": [
     "Acción",
@@ -50,6 +72,7 @@
   ],
   "lanzamientoTexto": "14 SEP 2022",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Judgment",
   "acerca": [
     [
@@ -76,39 +99,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -204,5 +236,20 @@
     }
   ],
   "web": "https://yakuza.sega.com/judgment",
-  "consultado": "2026-11-22T22:16:43.855Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages or may not be appropriate for viewing at work: Blood, Intense Violence, Partial Nudity, Sexual Themes, Strong Language, and Use of Alcohol.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 281562,
+  "youtube": [
+    {
+      "id": "Oo96SMJxSVc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:08.355Z"
 }

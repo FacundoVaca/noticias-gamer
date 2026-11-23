@@ -1,9 +1,9 @@
 {
   "clave": "the lantern of the laughless saint",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019c0fa2-9628-7159-8181-f0f282796d9a",
   "appid": "3849000",
@@ -29,6 +29,28 @@
       "url": "https://store.steampowered.com/app/3849000/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1353399",
+      "nombre": "The Lantern of the Laughless Saint",
+      "apps": [
+        {
+          "appid": "3849000",
+          "nombre": "The Lantern of the Laughless Saint"
+        }
+      ],
+      "usd": 8.79,
+      "antes": 10.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3849000": {
+      "usd": 8.79,
+      "gratis": false
+    }
+  },
   "descripcion": "A solo or co-op RPG inspired by Morrowind. Drawn by a shared dream, you awaken on an isolated island crowned by a silent Tower. Unravel the mystery of the Laughless Saint, confront the weight of human desire, and decide what deserves to be saved when the light beneath the world finally stirs.",
   "generos": [
     "Acción",
@@ -38,6 +60,7 @@
   ],
   "lanzamientoTexto": "17 AGO 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "The Lantern of the Laughless Saint",
   "acerca": [
     [
@@ -131,7 +154,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -206,5 +230,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3849000/cd39b3a392e1b0e99e2c82e0d7b80f1bd0214594/ss_cd39b3a392e1b0e99e2c82e0d7b80f1bd0214594.1920x1080.jpg?t=1787331024"
     }
   ],
-  "consultado": "2026-11-22T22:15:08.034Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Fantasy violence with blood splatter Mild nudity - exposed breasts if the player steals outfits from an NPC. No genitalia.",
+  "igdbIntentado": true,
+  "igdb": 387817,
+  "youtube": [
+    {
+      "id": "WxeNxOu9JJY",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:11.747Z"
 }

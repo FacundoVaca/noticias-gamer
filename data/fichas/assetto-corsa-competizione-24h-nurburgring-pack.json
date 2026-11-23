@@ -1,9 +1,9 @@
 {
   "clave": "assetto corsa competizione 24h nurburgring pack",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018e7bc2-7af4-7091-a3f5-41f8473e940b",
   "appid": "2700610",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "805550",
     "nombre": "Assetto Corsa Competizione"
+  },
+  "ediciones": [
+    {
+      "packageid": "967017",
+      "nombre": "Assetto Corsa Competizione - 24H Nürburgring Pack",
+      "apps": [
+        {
+          "appid": "2700610",
+          "nombre": "Assetto Corsa Competizione - 24H Nürburgring Pack"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 7.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2700610": {
+      "usd": 3.99,
+      "gratis": false
+    }
   },
   "descripcion": "¡Han llegado las 24 horas de Nürburgring! Nordschleife, conocido como \"El Infierno Verde\", tal vez es el circuito más emblemático del mundo. Está compuesto por 20,76 kilómetros de asfalto y más de 70 curvas que desafiarán hasta a los pilotos más veteranos.",
   "generos": [
@@ -67,51 +88,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -211,5 +244,11 @@
     }
   ],
   "web": "https://www.assettocorsa.net/competizione",
-  "consultado": "2026-11-22T22:24:14.570Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 294907,
+  "v": 7,
+  "consultado": "2026-11-23T11:42:33.278Z"
 }

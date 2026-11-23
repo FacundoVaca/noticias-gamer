@@ -1,9 +1,9 @@
 {
   "clave": "prototype 2",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-24e8-70c4-bf50-dbe577881fde",
   "appid": "115320",
@@ -41,6 +41,67 @@
       "url": "https://metacritic.com/game/prototype-2/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "15706",
+      "nombre": "Prototype 2",
+      "apps": [
+        {
+          "appid": "115320",
+          "nombre": "Prototype 2"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 39.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "47880",
+      "nombre": "Prototype Franchise Pack",
+      "apps": [
+        {
+          "appid": "115320",
+          "nombre": "Prototype 2"
+        },
+        {
+          "appid": "115340",
+          "nombre": "Prototype 2 RADNET Access Pack"
+        },
+        {
+          "appid": "10150",
+          "nombre": "Prototype™"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 59.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "10150": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "115320": {
+      "usd": 11.99,
+      "gratis": false
+    },
+    "115340": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "115340",
+      "nombre": "Prototype 2 RADNET Access Pack",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Conviértete en el arma metamórfica definitiva!",
   "generos": [
     "Acción",
@@ -51,6 +112,7 @@
     "puntaje": 76,
     "url": "https://www.metacritic.com/game/pc/prototype-2?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Prototype 2",
   "acerca": [
     [
@@ -113,23 +175,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -217,5 +284,30 @@
     }
   ],
   "web": "http://www.prototypegame.com",
-  "consultado": "2026-11-22T22:16:26.505Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 2988,
+  "youtube": [
+    {
+      "id": "-X0DfqkXeU8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "z32IMR5XckE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "HxyM_GxFwJ0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ND14qIoqokI",
+      "nombre": "VGA 2010 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:34.997Z"
 }

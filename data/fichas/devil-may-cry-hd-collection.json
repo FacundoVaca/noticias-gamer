@@ -1,9 +1,9 @@
 {
   "clave": "devil may cry hd collection",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-11e9-737d-b387-56c67ec8a1c6",
   "appid": "631510",
@@ -46,12 +46,66 @@
       "url": "https://opencritic.com/game/5564/devil-may-cry-hd-collection"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "171907",
+      "nombre": "Devil May Cry HD Collection",
+      "apps": [
+        {
+          "appid": "631510",
+          "nombre": "Devil May Cry HD Collection"
+        }
+      ],
+      "usd": 7.59,
+      "antes": 23,
+      "descuento": 67
+    }
+  ],
+  "sueltos": {
+    "631510": {
+      "usd": 7.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "811840",
+      "nombre": "DMCHDC Theme Stylish!",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1426650",
+      "nombre": "Devil May Cry Original Soundtrack",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1426670",
+      "nombre": "Devil May Cry 2 Original Soundtrack",
+      "gratis": false,
+      "usd": 15.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1426680",
+      "nombre": "Devil May Cry 3 Original Soundtrack",
+      "gratis": false,
+      "usd": 17.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Los populares juegos de acción acrobática Devil May Cry, Devil May Cry 2 y Devil May Cry 3 Special Edition vuelven en una única colección!",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "13 MAR 2018",
   "metacritic": null,
+  "steamDeck": "No compatible",
   "nombreSteam": "Devil May Cry HD Collection",
   "acerca": [
     [
@@ -82,35 +136,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -218,5 +280,23 @@
     }
   ],
   "web": "http://www.capcom.co.jp/devilhd/",
-  "consultado": "2026-11-22T22:15:23.161Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 20734,
+  "youtube": [
+    {
+      "id": "sXL70O_Sbpg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AC4EY2Oe4nI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:20.542Z"
 }

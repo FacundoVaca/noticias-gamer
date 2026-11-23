@@ -1,9 +1,9 @@
 {
   "clave": "call to arms gates of hell finest hour",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019a7415-e5aa-70ec-a0c7-e8525a4dc818",
   "appid": "3691330",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "400750",
     "nombre": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  "ediciones": [
+    {
+      "packageid": "1299913",
+      "nombre": "Call to Arms - Gates of Hell: Finest Hour",
+      "apps": [
+        {
+          "appid": "3691330",
+          "nombre": "Call to Arms - Gates of Hell: Finest Hour"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3691330": {
+      "usd": 7.49,
+      "gratis": false
+    }
   },
   "descripcion": "Desde la Blitzkrieg en Francia hasta las últimas batallas en Alemania, este DLC presenta a la facción de la Commonwealth en el frente occidental ¡Finest hour! El momento más valiente del Imperio Británico: llena de detalles históricos espectaculares en modo multijugador y un jugador.",
   "generos": [
@@ -157,39 +178,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -301,5 +331,18 @@
     }
   ],
   "web": "https://www.barbed-wire.eu/",
-  "consultado": "2026-11-22T22:22:01.084Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Historical WWII depiction. Players will be exposed to mature and sensitive content. No body mutilation, or excessive use of gore.",
+  "igdbIntentado": true,
+  "igdb": 387188,
+  "youtube": [
+    {
+      "id": "b-43QDMhUOw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:56.816Z"
 }

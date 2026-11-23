@@ -1,9 +1,9 @@
 {
   "clave": "guardianes de la noche kimetsu no yaiba las cronicas de hinokami 2",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01955d01-697b-73f3-a01f-9b24f1003dd7",
   "appid": "2928600",
@@ -38,6 +38,183 @@
       "url": "https://opencritic.com/game/19013/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1220484",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2",
+      "apps": [
+        {
+          "appid": "2928600",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2"
+        }
+      ],
+      "usd": 19.19,
+      "antes": 31.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1220488",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2 Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2928600",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 39.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1841112",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2 Ultimate Edition",
+      "apps": [
+        {
+          "appid": "2928600",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2"
+        },
+        {
+          "appid": "4010530",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2 Paquete de personaje de Giyū Tomioka (La Fortaleza Infinita)"
+        },
+        {
+          "appid": "4010500",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Akaza (La Fortaleza Infinita)"
+        },
+        {
+          "appid": "4010550",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Doma"
+        },
+        {
+          "appid": "4010480",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Kaigaku"
+        },
+        {
+          "appid": "4010540",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Shinobu Kochō (La Fortaleza Infinita)"
+        },
+        {
+          "appid": "4010510",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Tanjirō Kamado (La Fortaleza Infinita)"
+        },
+        {
+          "appid": "4010490",
+          "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Zenitsu Agatsuma (La Fortaleza Infinita)"
+        }
+      ],
+      "usd": 31.19,
+      "antes": 51.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2928600": {
+      "usd": 19.19,
+      "gratis": false
+    },
+    "4010480": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010490": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010500": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010510": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010530": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010540": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "4010550": {
+      "usd": 3.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "4010560",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Pase de personajes de \"Guardianes de la Noche: Kimetsu no Yaiba La Fortaleza Infinita\"",
+      "gratis": false,
+      "usd": 20.24,
+      "descuento": 25
+    },
+    {
+      "appid": "4010550",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Doma",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4010540",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Shinobu Kochō (La Fortaleza Infinita)",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4010530",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2 Paquete de personaje de Giyū Tomioka (La Fortaleza Infinita)",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4010510",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Tanjirō Kamado (La Fortaleza Infinita)",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3653840",
+      "nombre": "Paquete de música de fondo y canciones del anime Guardianes de la Noche: Kimetsu no Yaiba",
+      "gratis": false,
+      "usd": 12.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3900330",
+      "nombre": "Paquete complementario de Guardianes de la Noche: Kimetsu no Yaiba - Las Crónicas de Hinokami 2",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 40
+    },
+    {
+      "appid": "4010500",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Akaza (La Fortaleza Infinita)",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4010490",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Zenitsu Agatsuma (La Fortaleza Infinita)",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4010480",
+      "nombre": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2: Paquete de personaje de Kaigaku",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    }
+  ],
   "descripcion": "¡Destruye a los demonios con el poder de los vínculos! La lucha de Tanjirō Kamado vuelve…",
   "generos": [
     "Acción",
@@ -45,6 +222,7 @@
   ],
   "lanzamientoTexto": "5 AGO 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Guardianes de la Noche -Kimetsu no Yaiba- Las Crónicas de Hinokami 2",
   "acerca": [
     [
@@ -163,39 +341,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -291,5 +478,24 @@
     }
   ],
   "web": "https://www.sega.com/demon-slayer/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2",
-  "consultado": "2026-11-22T22:16:48.173Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "There are blood effects and decapitation as you fight demons.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 337907,
+  "youtube": [
+    {
+      "id": "nJ7S0H_WRsM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "BvmW5nm11ro",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:30:58.657Z"
 }

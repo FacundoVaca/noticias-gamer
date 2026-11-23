@@ -1,9 +1,9 @@
 {
   "clave": "pack de temporada 2026 de f1 25",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019e45e6-da08-737e-8265-d65c9775d9bc",
   "appid": "4148930",
@@ -39,6 +39,48 @@
   "juegoBase": {
     "appid": "3059520",
     "nombre": "F1® 25"
+  },
+  "ediciones": [
+    {
+      "packageid": "1453562",
+      "nombre": "Pack de temporada 2026 de F1® 25",
+      "apps": [
+        {
+          "appid": "4148930",
+          "nombre": "Pack de temporada 2026 de F1® 25"
+        }
+      ],
+      "usd": 18.74,
+      "antes": 24.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1453566",
+      "nombre": "F1® 25 2026 Season Edition",
+      "apps": [
+        {
+          "appid": "3059520",
+          "nombre": "F1® 25"
+        },
+        {
+          "appid": "4148930",
+          "nombre": "Pack de temporada 2026 de F1® 25"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 49.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3059520": {
+      "usd": 29.99,
+      "gratis": false
+    },
+    "4148930": {
+      "usd": 18.74,
+      "gratis": false
+    }
   },
   "descripcion": "Reescribe la parrilla con los nuevos equipos Audi y Cadillac que se unen a ella, aportando una alineación renovada de pilotos listos para desafiar el campo. Adéntrate en una nueva era con los innovadores coches de 2026 y desafía el trepidante MADRING.",
   "generos": [
@@ -102,47 +144,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -266,5 +319,26 @@
     }
   ],
   "web": "https://www.ea.com/games/f1/f1-25",
-  "consultado": "2026-11-22T22:22:51.543Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 408774,
+  "youtube": [
+    {
+      "id": "G1yvU5IyJq4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "tL2nzLFIcXg",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "HSrTjqf7_WY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:56.666Z"
 }

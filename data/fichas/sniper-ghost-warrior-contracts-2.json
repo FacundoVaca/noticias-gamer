@@ -1,9 +1,9 @@
 {
   "clave": "sniper ghost warrior contracts 2",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-479b-7040-a8fd-173247864c1d",
   "appid": "1338770",
@@ -54,12 +54,199 @@
       "url": "https://opencritic.com/game/11503/sniper-ghost-warrior-contracts-2"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "589814",
+      "nombre": "Sniper Ghost Warrior Contracts 2",
+      "apps": [
+        {
+          "appid": "1338770",
+          "nombre": "Sniper Ghost Warrior Contracts 2"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 19.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1338770": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 23,
+  "dlcLista": [
+    {
+      "appid": "1575881",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Tactical Tracker Weapons Pack",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 85
+    },
+    {
+      "appid": "1575882",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Dark Sky Skin",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 70
+    },
+    {
+      "appid": "1575883",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Xray-ted Skin",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 70
+    },
+    {
+      "appid": "1575884",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Graffiti Glow Skin",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 70
+    },
+    {
+      "appid": "1575885",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Lock n' Load Weapons Pack",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 85
+    },
+    {
+      "appid": "1575887",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Blue Servers Skins",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1575888",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Solitary Sniper Weapons Pack",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 85
+    },
+    {
+      "appid": "1576260",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Abstract Assassin Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587590",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Crossbow Carnage Weapons Pack",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 90
+    },
+    {
+      "appid": "1587591",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Safari Sadist Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587592",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Savage Serpents Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587593",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Claws are Out Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587594",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Wild Thing Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587595",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - ANGLO Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587596",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - EURO Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587597",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - ASIA Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587598",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Flesh & Blood Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1587599",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Skull & Bones Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1587620",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Fire & Smoke Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587621",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - Hail & Ice Skin Pack",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 80
+    },
+    {
+      "appid": "1587622",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - shroud DLC",
+      "gratis": false,
+      "usd": 0.57,
+      "descuento": 90
+    },
+    {
+      "appid": "1587623",
+      "nombre": "Sniper Ghost Warrior Contracts 2 - CYRILmp4 Weapon Skin",
+      "gratis": false,
+      "usd": 0.44,
+      "descuento": 85
+    },
+    {
+      "appid": "1619170",
+      "nombre": "Sniper Ghost Warrior Contracts 2 Soundtrack",
+      "gratis": false,
+      "usd": 0.53,
+      "descuento": 85
+    }
+  ],
   "descripcion": "SGW Contracts 2 es un shooter táctico moderno ambientado en Oriente Medio. En el papel de Raven, un francotirador, elimina diversos objetivos en la campaña para un jugador. Dispara a distancias de más de 1 km en la entrega más intensa de la serie.",
   "generos": [
     "Acción"
   ],
   "lanzamientoTexto": "4 JUN 2021",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Sniper Ghost Warrior Contracts 2",
   "acerca": [
     [
@@ -145,51 +332,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -288,5 +487,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1338770/ss_331bb5c4939b408d53423497cc8f74eb09d9523a.1920x1080.jpg?t=1747413239"
     }
   ],
-  "consultado": "2026-11-22T22:16:56.981Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The game contains Blood and Gore, Intense Violence, Strong Language. Due to the USK restrictions, dismemberment feature is not available within the German territory. Aufgrund der USK-Einschränkungen ist das Verstümmelungs-Feature in Deutschland nicht verfügbar.",
+  "igdbIntentado": true,
+  "igdb": 138980,
+  "youtube": [
+    {
+      "id": "0o2YHnr-jmI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "NYysxaq6mas",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "36mfp4GYLX4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ZzbR3w8JL1I",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:48.135Z"
 }

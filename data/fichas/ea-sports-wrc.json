@@ -1,9 +1,9 @@
 {
   "clave": "ea sports wrc",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01926cde-bb46-737d-a5c2-e3675e31d455",
   "appid": "1849250",
@@ -30,6 +30,59 @@
       "url": "https://store.steampowered.com/app/1849250/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1110932",
+      "nombre": "EA SPORTS™ WRC 24",
+      "apps": [
+        {
+          "appid": "1849250",
+          "nombre": "EA SPORTS™ WRC"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 49.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1849250": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "3128510",
+      "nombre": "Paquete de contenido Poderío enérgico de EA SPORTS™ WRC 24",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3128500",
+      "nombre": "Paquete de contenido Los maestros de EA SPORTS™ WRC 24",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3054770",
+      "nombre": "Paquete de contenido \"Ubicaciones y coches\" de EA SPORTS™ WRC 24",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3128480",
+      "nombre": "Lote de la expansión de la temporada EA SPORTS™ WRC 24",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Disfruta de la emoción de la temporada 2024 de rally con nuevas ubicaciones, momentos, etapas, vehículos de máximo rendimiento, nuevos diseños y tripulaciones con licencia. ¡Abróchate el cinturón y embárcate en este rally!",
   "generos": [
     "Carreras",
@@ -41,6 +94,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/ea-sports-wrc?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "EA SPORTS™ WRC",
   "acerca": [
     [
@@ -67,23 +121,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -207,5 +266,30 @@
     }
   ],
   "web": "https://www.ea.com/games/ea-sports-wrc/wrc/",
-  "consultado": "2026-11-22T22:17:51.864Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 264412,
+  "youtube": [
+    {
+      "id": "uZfLyIC9vuQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "nICW6VlLPvk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "_qNJ7B39S2k",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fCVMJXONSpU",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:17.873Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "the escapists",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-20cd-724e-850f-eb8217a45f4e",
   "appid": "298630",
@@ -54,6 +54,140 @@
       "url": "https://opencritic.com/game/72/the-escapists"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "60584",
+      "nombre": "The Escapists",
+      "apps": [
+        {
+          "appid": "298630",
+          "nombre": "The Escapists"
+        }
+      ],
+      "usd": 1.85,
+      "antes": 9.29,
+      "descuento": 80
+    },
+    {
+      "packageid": "1537965",
+      "nombre": "The Escapists - Complete Edition",
+      "apps": [
+        {
+          "appid": "298630",
+          "nombre": "The Escapists"
+        },
+        {
+          "appid": "349350",
+          "nombre": "The Escapists - Alcatraz"
+        },
+        {
+          "appid": "408730",
+          "nombre": "The Escapists - Duct Tapes are Forever"
+        },
+        {
+          "appid": "376700",
+          "nombre": "The Escapists - Escape Team"
+        },
+        {
+          "appid": "349310",
+          "nombre": "The Escapists - Fhurst Peak Correctional Facility"
+        },
+        {
+          "appid": "412990",
+          "nombre": "The Escapists - Santa's Sweatshop"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 14.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "80013",
+      "nombre": "The Escapists + The Escapists: The Walking Dead Deluxe",
+      "apps": [
+        {
+          "appid": "298630",
+          "nombre": "The Escapists"
+        },
+        {
+          "appid": "388060",
+          "nombre": "The Escapists: The Walking Dead"
+        }
+      ],
+      "usd": 3.12,
+      "antes": 12.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "298630": {
+      "usd": 1.85,
+      "gratis": false
+    },
+    "349310": {
+      "usd": 0.89,
+      "gratis": false
+    },
+    "349350": {
+      "usd": 0.99,
+      "gratis": false
+    },
+    "376700": {
+      "usd": 0.62,
+      "gratis": false
+    },
+    "388060": {
+      "usd": 2.32,
+      "gratis": false
+    },
+    "408730": {
+      "usd": 0.62,
+      "gratis": false
+    },
+    "412990": {
+      "usd": null,
+      "gratis": true
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "349310",
+      "nombre": "The Escapists - Fhurst Peak Correctional Facility",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    },
+    {
+      "appid": "349350",
+      "nombre": "The Escapists - Alcatraz",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "376700",
+      "nombre": "The Escapists - Escape Team",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    },
+    {
+      "appid": "408730",
+      "nombre": "The Escapists - Duct Tapes are Forever",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    },
+    {
+      "appid": "412990",
+      "nombre": "The Escapists - Santa's Sweatshop",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The Escapists te brinda la oportunidad de experimentar una desenfadada perspectiva de la vida diaria de una prisión y de, como en el caso de todos los reclusos, su principal objetivo: ¡fugarse!",
   "generos": [
     "Acción",
@@ -67,6 +201,7 @@
     "puntaje": 71,
     "url": "https://www.metacritic.com/game/pc/the-escapists?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "The Escapists",
   "acerca": [
     [
@@ -138,31 +273,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -232,5 +374,23 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298630/ss_2c27b17941d2c86fa459b80e53dfc903ad3c2829.1920x1080.jpg?t=1791478016"
     }
   ],
-  "consultado": "2026-11-22T22:15:03.483Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9241,
+  "youtube": [
+    {
+      "id": "hcOR4Aa5t70",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HVbOPwQvJJk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:14.555Z"
 }

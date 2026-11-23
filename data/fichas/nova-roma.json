@@ -1,9 +1,9 @@
 {
   "clave": "nova roma",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ef5-70b6-8028-d38496b8348d",
   "appid": "2426530",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/2426530/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "873091",
+      "nombre": "Nova Roma",
+      "apps": [
+        {
+          "appid": "2426530",
+          "nombre": "Nova Roma"
+        }
+      ],
+      "usd": 9.74,
+      "antes": 14.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2426530": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
   "descripcion": "Tienes la gloria de Roma al alcance de la mano con este juego de construcción de ciudades que te permitirá dictar leyes, aplacar a los dioses y desarrollar cadenas de suministro complejas para cubrir las necesidades de tus ciudadanos.",
   "generos": [
     "Simuladores",
@@ -38,6 +60,7 @@
   ],
   "lanzamientoTexto": "26 MAR 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Nova Roma",
   "acerca": [
     [
@@ -76,75 +99,93 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -244,5 +285,26 @@
     }
   ],
   "web": "https://www.hoodedhorse.com/games/nova-roma",
-  "consultado": "2026-11-22T22:14:08.738Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 252867,
+  "youtube": [
+    {
+      "id": "Kio0BbadaZo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "P0Is5zmKugs",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "g-w7Cqw5NrY",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:22.780Z"
 }

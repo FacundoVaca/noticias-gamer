@@ -1,9 +1,9 @@
 {
   "clave": "call of duty world at war",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1ec4-7327-8a2a-99c60e52cd77",
   "appid": "10090",
@@ -42,6 +42,28 @@
       "url": "https://metacritic.com/game/call-of-duty-world-at-war/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1155",
+      "nombre": "Call of Duty: World at War",
+      "apps": [
+        {
+          "appid": "10090",
+          "nombre": "Call of Duty: World at War"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 19.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "10090": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
   "descripcion": "Call of Duty ha vuelto, redefiniendo la guerra como nunca la habías experimentado. Tomando como base el motor de Call of Duty 4®: Modern Warfare, Call of Duty: World at War sumerge a los jugadores en la experiencia de combate más descarnada y caótica de la Segunda Guerra Mundial hasta la fecha.",
   "generos": [
     "Acción"
@@ -51,6 +73,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-world-at-war?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty: World at War",
   "acerca": [
     [
@@ -83,23 +106,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -170,5 +198,31 @@
     }
   ],
   "web": "http://www.callofduty.com",
-  "consultado": "2026-11-22T22:14:45.806Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "igdbIntentado": true,
+  "igdb": 625,
+  "youtube": [
+    {
+      "id": "ondfCsioE0E",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "N-bYV2FgTDI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MiSZzrn2iN0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "lOf4kwnSMr4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:11.249Z"
 }

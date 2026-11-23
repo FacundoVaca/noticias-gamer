@@ -1,9 +1,9 @@
 {
   "clave": "call to arms gates of hell liberation",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7388-7095-b6d4-b61e6a8181dc",
   "appid": "2447590",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "400750",
     "nombre": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  "ediciones": [
+    {
+      "packageid": "880902",
+      "nombre": "Call to Arms - Gates of Hell: Liberation",
+      "apps": [
+        {
+          "appid": "2447590",
+          "nombre": "Call to Arms - Gates of Hell: Liberation"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2447590": {
+      "usd": 3.74,
+      "gratis": false
+    }
   },
   "descripcion": "\"Soldados, marinos y aviadores de la Fuerza Expedicionaria Aliada: ¡estáis a punto de embarcaros en la Gran Cruzada!\". Este DLC introduce ell frente occidental en 1944, con la facción estadounidense, así como contenido del frente occidental alemán.",
   "generos": [
@@ -173,43 +194,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -261,5 +292,17 @@
     }
   ],
   "web": "https://www.barbed-wire.eu/",
-  "consultado": "2026-11-22T22:22:46.863Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 261780,
+  "youtube": [
+    {
+      "id": "bT1zARVS-oA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:39.593Z"
 }

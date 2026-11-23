@@ -1,9 +1,9 @@
 {
   "clave": "dragon ball sparking zero",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-79bd-73aa-8546-5b4cc9413ee9",
   "appid": "1790600",
@@ -197,6 +197,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/dragon-ball-sparking!-zero?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "DRAGON BALL: Sparking! ZERO",
   "acerca": [
     [
@@ -414,5 +415,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/ss_6389b6aef0ecaa3f6cc1e36dcfb145c6fcb70a75.1920x1080.jpg?t=1785726916"
     }
   ],
-  "consultado": "2026-11-22T22:33:12.046Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 279634,
+  "youtube": [
+    {
+      "id": "bSCANspTDeE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "O5CzC1aFVAw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "N8Zm___c4B8",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "NDGeWO_am1c",
+      "nombre": "Sword vs Fists Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:43:50.884Z"
 }

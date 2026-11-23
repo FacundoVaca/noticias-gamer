@@ -1,9 +1,9 @@
 {
   "clave": "the binding of isaac afterbirth",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2e89-7046-aac4-49ab4912b6a2",
   "appid": "401920",
@@ -52,6 +52,27 @@
   "juegoBase": {
     "appid": "250900",
     "nombre": "The Binding of Isaac: Rebirth"
+  },
+  "ediciones": [
+    {
+      "packageid": "78454",
+      "nombre": "The Binding of Isaac: Afterbirth",
+      "apps": [
+        {
+          "appid": "401920",
+          "nombre": "The Binding of Isaac: Afterbirth"
+        }
+      ],
+      "usd": 8.79,
+      "antes": 10.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "401920": {
+      "usd": 8.79,
+      "gratis": false
+    }
   },
   "descripcion": "The Binding of Isaac: Afterbirth is the massively updated expansion to 2014's roguelike of the year, The Binding of Isaac: Rebirth. Following Isaac one more time on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures,...",
   "generos": [
@@ -185,7 +206,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -261,5 +283,24 @@
     }
   ],
   "web": "http://www.bindingofisaac.com",
-  "consultado": "2026-11-22T22:22:35.971Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 13177,
+  "youtube": [
+    {
+      "id": "SjVw-xhrDPk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_EWqWtED3MU",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:24.168Z"
 }

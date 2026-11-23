@@ -1,9 +1,9 @@
 {
   "clave": "pacific drive",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6ee4-73f5-858c-2fde3c008587",
   "appid": "1458140",
@@ -49,6 +49,93 @@
       "url": "https://opencritic.com/game/16317/pacific-drive"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1422049",
+      "nombre": "Pacific Drive: Whispers Edition",
+      "apps": [
+        {
+          "appid": "1458140",
+          "nombre": "Pacific Drive"
+        }
+      ],
+      "usd": 9.19,
+      "antes": 22.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "513390",
+      "nombre": "Pacific Drive",
+      "apps": [
+        {
+          "appid": "1458140",
+          "nombre": "Pacific Drive"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1458140": {
+      "usd": 9.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "3594760",
+      "nombre": "Pacific Drive: Whispers in the Woods",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4097820",
+      "nombre": "Pacific Drive: Whispers in the Woods Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3242220",
+      "nombre": "Pacific Drive: Frosted Customization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3073780",
+      "nombre": "Pacific Drive: Anomalous Customization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2935180",
+      "nombre": "Pacific Drive: Friendly Dumpster Customization Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2646730",
+      "nombre": "Pacific Drive: We Have Liftoff Customization Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2790060",
+      "nombre": "Pacific Drive: Official Game Soundtrack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Enfréntate a los peligros sobrenaturales de la Zona de exclusión olímpica con la única compañía de tu vehículo y sobrevive en esta aventura de conducción! Saquea recursos, carga tu camioneta y conduce a toda pastilla para salir con vida.",
   "generos": [
     "Acción",
@@ -59,6 +146,7 @@
   ],
   "lanzamientoTexto": "21 FEB 2024",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Pacific Drive",
   "acerca": [
     [
@@ -123,59 +211,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -283,5 +385,30 @@
     }
   ],
   "web": "https://www.pacificdrivegame.com",
-  "consultado": "2026-11-22T22:14:37.129Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 217592,
+  "youtube": [
+    {
+      "id": "tTeHxL4Nen4",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "4DYYfdZ-R8I",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "JWnYRA05hvo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "JOj9hHMQR_8",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:17.577Z"
 }

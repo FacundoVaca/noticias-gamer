@@ -1,9 +1,9 @@
 {
   "clave": "total war warhammer iii forge of the chaos dwarfs",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6bb5-70d8-8534-0ea59f458979",
   "appid": "2059190",
@@ -55,6 +55,27 @@
   "juegoBase": {
     "appid": "1142710",
     "nombre": "Total War: WARHAMMER III"
+  },
+  "ediciones": [
+    {
+      "packageid": "735652",
+      "nombre": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs",
+      "apps": [
+        {
+          "appid": "2059190",
+          "nombre": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 19.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2059190": {
+      "usd": 7.99,
+      "gratis": false
+    }
   },
   "descripcion": "The Forge of the Chaos Dwarfs campaign pack introduces a new brutal race, the Chaos Dwarfs, into Total War: WARHAMMER III, in both the Realm of Chaos and Immortal Empires campaigns. Expand, exploit, and dominate the Warhammer world as Astragoth Ironhand, Drazhoath the Ashen, and Zhatan the Black.",
   "generos": [
@@ -183,55 +204,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -323,5 +357,14 @@
     }
   ],
   "web": "https://warhammer3.totalwar.com/",
-  "consultado": "2026-11-22T22:23:11.105Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This content shows violence of a graphical nature within a Fantasy World.",
+  "igdbIntentado": true,
+  "igdb": 241802,
+  "v": 7,
+  "consultado": "2026-11-23T11:41:01.405Z"
 }

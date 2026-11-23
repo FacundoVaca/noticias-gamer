@@ -1,9 +1,9 @@
 {
   "clave": "goat simulator 3 multiverse of nonsense",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018ff946-fc97-717f-9cfa-171cb1969cf2",
   "appid": "2809180",
@@ -42,6 +42,27 @@
   "juegoBase": {
     "appid": "850190",
     "nombre": "Goat Simulator 3"
+  },
+  "ediciones": [
+    {
+      "packageid": "1003116",
+      "nombre": "Goat Simulator 3 - Multiverse of Nonsense",
+      "apps": [
+        {
+          "appid": "2809180",
+          "nombre": "Goat Simulator 3 - Multiverse of Nonsense"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 7.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2809180": {
+      "usd": 4.79,
+      "gratis": false
+    }
   },
   "descripcion": "En un mundo donde todo ha salido mal (por tu culpa), deberás ayudar al guardián del Multiverso a salvarlo antes de que sea tarde. Esto es... Goat Simulator 3: Multiverse of Nonsense",
   "generos": [
@@ -120,51 +141,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -194,5 +227,18 @@
     }
   ],
   "web": "https://www.goatsimulator3.com/",
-  "consultado": "2026-11-22T22:24:25.572Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 305106,
+  "youtube": [
+    {
+      "id": "Rnwz9KFbxZU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:43:08.520Z"
 }

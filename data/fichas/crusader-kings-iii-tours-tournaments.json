@@ -1,9 +1,9 @@
 {
   "clave": "crusader kings iii tours tournaments",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6bc4-71fe-b21b-01b1eb4cb45d",
   "appid": "2311920",
@@ -42,6 +42,84 @@
   "juegoBase": {
     "appid": "1158310",
     "nombre": "Crusader Kings III"
+  },
+  "ediciones": [
+    {
+      "packageid": "829987",
+      "nombre": "Crusader Kings III: Tours & Tournaments",
+      "apps": [
+        {
+          "appid": "2311920",
+          "nombre": "Crusader Kings III: Tours & Tournaments"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 20.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1813281",
+      "nombre": "Crusader Kings III: New Player's Choice",
+      "apps": [
+        {
+          "appid": "1158310",
+          "nombre": "Crusader Kings III"
+        },
+        {
+          "appid": "2671040",
+          "nombre": "Crusader Kings III: Couture of the Capets"
+        },
+        {
+          "appid": "2311930",
+          "nombre": "Crusader Kings III: Elegance of the Empire"
+        },
+        {
+          "appid": "1296730",
+          "nombre": "Crusader Kings III: Garments of the Holy Roman Empire"
+        },
+        {
+          "appid": "1303183",
+          "nombre": "Crusader Kings III: Northern Lords"
+        },
+        {
+          "appid": "2671070",
+          "nombre": "Crusader Kings III: Roads to Power"
+        }
+      ],
+      "usd": 48.99,
+      "antes": 48.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1158310": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "1296730": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "1303183": {
+      "usd": 4.74,
+      "gratis": false
+    },
+    "2311920": {
+      "usd": 12.59,
+      "gratis": false
+    },
+    "2311930": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671040": {
+      "usd": 48.99,
+      "gratis": false
+    },
+    "2671070": {
+      "usd": 10.49,
+      "gratis": false
+    }
   },
   "descripcion": "La vida es una aventura caballeresca. ¿Por qué no vives la tuya, gobernante? Crea tu propia historia épica con la gran expansión Crusader Kings III: Tours & Tournaments.",
   "generos": [
@@ -138,39 +216,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -261,5 +348,21 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2311920/ss_3abad880c222778fc044f881a2c3dcf6fca43ad1.1920x1080.jpg?t=1765210024"
     }
   ],
-  "consultado": "2026-11-22T22:22:42.452Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defenseless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 240894,
+  "youtube": [
+    {
+      "id": "YUpC4IdfXuE",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:39:45.573Z"
 }

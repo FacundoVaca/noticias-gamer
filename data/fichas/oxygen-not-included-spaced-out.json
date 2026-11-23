@@ -1,9 +1,9 @@
 {
   "clave": "oxygen not included spaced out",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4a1a-7252-999b-7dc7da778a88",
   "appid": "1452490",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "457140",
     "nombre": "Oxygen Not Included"
+  },
+  "ediciones": [
+    {
+      "packageid": "511139",
+      "nombre": "Oxygen Not Included - Spaced Out!",
+      "apps": [
+        {
+          "appid": "1452490",
+          "nombre": "Oxygen Not Included - Spaced Out!"
+        }
+      ],
+      "usd": 2.94,
+      "antes": 4.39,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "1452490": {
+      "usd": 2.94,
+      "gratis": false
+    }
   },
   "descripcion": "Test your grit in deep space once more as the Duplicants embark for Oxygen Not Included: Spaced Out! This DLC adds all new modular rocket building, multi-base gameplay, plus new tech, resources, biomes and more! Will you thrive, or merely survive? Find out in Spaced Out!",
   "generos": [
@@ -100,19 +121,23 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -188,5 +213,23 @@
     }
   ],
   "web": "https://www.kleientertainment.com/games/oxygen-not-included",
-  "consultado": "2026-11-22T22:22:25.006Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 145292,
+  "youtube": [
+    {
+      "id": "0zTzkQLMYHQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "JspPe5jAvyw",
+      "nombre": "Game Intro"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:07.165Z"
 }

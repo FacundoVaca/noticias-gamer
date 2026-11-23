@@ -1,9 +1,9 @@
 {
   "clave": "need for speed payback",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3464-7065-a5c9-87b514919a62",
   "appid": "1262580",
@@ -31,6 +31,59 @@
       "url": "https://store.steampowered.com/app/1262580/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "443133",
+      "nombre": "Need for Speed™ Payback - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1262580",
+          "nombre": "Need for Speed™ Payback"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 29.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "1262580": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "1328031",
+      "nombre": "Need for Speed™ Payback: paquete de superversiones de Pontiac Firebird y Aston Martin DB5",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1328032",
+      "nombre": "Need for Speed™ Payback: Chevrolet Colorado ZR2, Range Rover Sport SVR & Alfa Romeo Quadrifoglio Bundle",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1262590",
+      "nombre": "Need for Speed™ Payback: All DLC cars bundle",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1262591",
+      "nombre": "Need for Speed™ Payback - Fortune Valley Map Shortcuts",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Need for Speed™ Payback - Deluxe Edition te da una ventaja inicial. Destaca entre la multitud con artículos de personalización exclusivos y recibe descuentos en el juego, REP de bonificación y cinco cargamentos para empezar tu aventura.",
   "generos": [
     "Acción",
@@ -44,6 +97,7 @@
     "puntaje": 62,
     "url": "https://www.metacritic.com/game/pc/need-for-speed-payback?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Need for Speed™ Payback",
   "acerca": [
     [
@@ -131,47 +185,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -267,5 +332,30 @@
     }
   ],
   "web": "https://www.ea.com/games/need-for-speed/need-for-speed-payback",
-  "consultado": "2026-11-22T22:14:54.664Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "igdbIntentado": true,
+  "igdb": 36662,
+  "youtube": [
+    {
+      "id": "K-5EdHZ0hBs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "uX7aw9lYB2w",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "nZVUIkL5_rE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "kc-OcOduEx0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:15.239Z"
 }

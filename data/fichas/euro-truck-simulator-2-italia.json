@@ -1,9 +1,9 @@
 {
   "clave": "euro truck simulator 2 italia",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-1d2c-7267-b83b-1a47ad3b8f4a",
   "appid": "558244",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "227300",
     "nombre": "Euro Truck Simulator 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "139704",
+      "nombre": "Euro Truck Simulator 2 - Italia",
+      "apps": [
+        {
+          "appid": "558244",
+          "nombre": "Euro Truck Simulator 2 - Italia"
+        }
+      ],
+      "usd": 4.77,
+      "antes": 9.55,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "558244": {
+      "usd": 4.77,
+      "gratis": false
+    }
   },
   "descripcion": "Italia DLC expands Euro Truck Simulator 2 with SCS Software's rendition of the beautiful European country Italy with its rich history, modern industry, traditional architecture, and diverse natural environments.",
   "generos": [
@@ -121,95 +142,118 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Rumano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Búlgaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -293,5 +337,19 @@
     }
   ],
   "web": "https://eurotrucksimulator2.com/",
-  "consultado": "2026-11-22T22:22:58.068Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 76432,
+  "youtube": [
+    {
+      "id": "OtYNJ077oWA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:40:11.514Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "doki doki literature club plus",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-50ea-72a6-9112-a81e283ad3a2",
   "appid": "1388880",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/11608/doki-doki-literature-club-plus-"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "487376",
+      "nombre": "Doki Doki Literature Club Plus!",
+      "apps": [
+        {
+          "appid": "1388880",
+          "nombre": "Doki Doki Literature Club Plus!"
+        }
+      ],
+      "usd": 6.81,
+      "antes": 9.74,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "1388880": {
+      "usd": 6.81,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1781690",
+      "nombre": "Doki Doki Literature Club Plus! Soundtrack",
+      "gratis": false,
+      "usd": 4.54,
+      "descuento": 30
+    }
+  ],
   "descripcion": "¡Te damos la bienvenida al club! Escribe poemas para la persona que te gusta y descubre el terror de los romances escolares en esta aclamada historia de terror psicológico.",
   "generos": [
     "Casual",
@@ -57,6 +89,7 @@
     "puntaje": 81,
     "url": "https://www.metacritic.com/game/pc/doki-doki-literature-club-plus!?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Verificado",
   "nombreSteam": "Doki Doki Literature Club Plus!",
   "acerca": [
     [
@@ -133,51 +166,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -249,5 +294,31 @@
     }
   ],
   "web": "https://ddlc.plus/",
-  "consultado": "2026-11-22T22:17:10.109Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "self-harm, suicide, suggestive sexual themes",
+  "igdbIntentado": true,
+  "igdb": 152122,
+  "youtube": [
+    {
+      "id": "v7FRlCtzsXw",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "0PK6KIAC2AU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "KQOqdDgvFLk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "NjKZG9HYP7U",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:52.892Z"
 }

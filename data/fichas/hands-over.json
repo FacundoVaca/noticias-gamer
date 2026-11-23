@@ -1,9 +1,9 @@
 {
   "clave": "hands over",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019e682e-5752-702b-8303-f9de0b876e68",
   "appid": "4661070",
@@ -24,9 +24,41 @@
   "resenas": [
     {
       "fuente": "Steam",
-      "puntaje": 86,
-      "cantidad": 88,
+      "puntaje": 83,
+      "cantidad": 264,
       "url": "https://store.steampowered.com/app/4661070/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1622792",
+      "nombre": "HANDS OVER",
+      "apps": [
+        {
+          "appid": "4661070",
+          "nombre": "HANDS OVER"
+        }
+      ],
+      "usd": 2.54,
+      "antes": 2.99,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4661070": {
+      "usd": 2.54,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4787260",
+      "nombre": "HANDS OVER Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
     }
   ],
   "descripcion": "HANDS OVER es un juego de terror cooperativo para 5 jugadores donde pruebas inocentes se vuelven crueles desafíos de suerte y nervios. Farolea, sabotea a tus amigos, juega sucio y aguanta en la mesa más que nadie.",
@@ -243,38 +275,51 @@
   },
   "capturas": [
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/621b9f07813d3eeb4e405b300e61a36f2e5fe33f/ss_621b9f07813d3eeb4e405b300e61a36f2e5fe33f.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/621b9f07813d3eeb4e405b300e61a36f2e5fe33f/ss_621b9f07813d3eeb4e405b300e61a36f2e5fe33f.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/621b9f07813d3eeb4e405b300e61a36f2e5fe33f/ss_621b9f07813d3eeb4e405b300e61a36f2e5fe33f.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/621b9f07813d3eeb4e405b300e61a36f2e5fe33f/ss_621b9f07813d3eeb4e405b300e61a36f2e5fe33f.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/3779f36d68c03b3ad2cdfafd4fcd658284cd76b4/ss_3779f36d68c03b3ad2cdfafd4fcd658284cd76b4.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/3779f36d68c03b3ad2cdfafd4fcd658284cd76b4/ss_3779f36d68c03b3ad2cdfafd4fcd658284cd76b4.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/3779f36d68c03b3ad2cdfafd4fcd658284cd76b4/ss_3779f36d68c03b3ad2cdfafd4fcd658284cd76b4.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/3779f36d68c03b3ad2cdfafd4fcd658284cd76b4/ss_3779f36d68c03b3ad2cdfafd4fcd658284cd76b4.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/9db53351f0d5ae39c1876cd8e9d8d65c46aa7498/ss_9db53351f0d5ae39c1876cd8e9d8d65c46aa7498.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/9db53351f0d5ae39c1876cd8e9d8d65c46aa7498/ss_9db53351f0d5ae39c1876cd8e9d8d65c46aa7498.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/9db53351f0d5ae39c1876cd8e9d8d65c46aa7498/ss_9db53351f0d5ae39c1876cd8e9d8d65c46aa7498.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/9db53351f0d5ae39c1876cd8e9d8d65c46aa7498/ss_9db53351f0d5ae39c1876cd8e9d8d65c46aa7498.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/b0455ebdb4beb9336ce0c7eacac32847f0fd88fe/ss_b0455ebdb4beb9336ce0c7eacac32847f0fd88fe.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/b0455ebdb4beb9336ce0c7eacac32847f0fd88fe/ss_b0455ebdb4beb9336ce0c7eacac32847f0fd88fe.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/b0455ebdb4beb9336ce0c7eacac32847f0fd88fe/ss_b0455ebdb4beb9336ce0c7eacac32847f0fd88fe.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/b0455ebdb4beb9336ce0c7eacac32847f0fd88fe/ss_b0455ebdb4beb9336ce0c7eacac32847f0fd88fe.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/2963263eda69491ed018c87572c1f4dab2131601/ss_2963263eda69491ed018c87572c1f4dab2131601.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/2963263eda69491ed018c87572c1f4dab2131601/ss_2963263eda69491ed018c87572c1f4dab2131601.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/2963263eda69491ed018c87572c1f4dab2131601/ss_2963263eda69491ed018c87572c1f4dab2131601.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/2963263eda69491ed018c87572c1f4dab2131601/ss_2963263eda69491ed018c87572c1f4dab2131601.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/fa01ca8ab14140517bcf511a8389fa86f60e98ce/ss_fa01ca8ab14140517bcf511a8389fa86f60e98ce.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/fa01ca8ab14140517bcf511a8389fa86f60e98ce/ss_fa01ca8ab14140517bcf511a8389fa86f60e98ce.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/fa01ca8ab14140517bcf511a8389fa86f60e98ce/ss_fa01ca8ab14140517bcf511a8389fa86f60e98ce.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/fa01ca8ab14140517bcf511a8389fa86f60e98ce/ss_fa01ca8ab14140517bcf511a8389fa86f60e98ce.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/175b61a515421689fdc78be9ea43407ddf9e62fc/ss_175b61a515421689fdc78be9ea43407ddf9e62fc.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/175b61a515421689fdc78be9ea43407ddf9e62fc/ss_175b61a515421689fdc78be9ea43407ddf9e62fc.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/175b61a515421689fdc78be9ea43407ddf9e62fc/ss_175b61a515421689fdc78be9ea43407ddf9e62fc.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/175b61a515421689fdc78be9ea43407ddf9e62fc/ss_175b61a515421689fdc78be9ea43407ddf9e62fc.1920x1080.jpg?t=1795426960"
     },
     {
-      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/7b008cce7405b3519b1863204eb72cb6f9884473/ss_7b008cce7405b3519b1863204eb72cb6f9884473.600x338.jpg?t=1794679632",
-      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/7b008cce7405b3519b1863204eb72cb6f9884473/ss_7b008cce7405b3519b1863204eb72cb6f9884473.1920x1080.jpg?t=1794679632"
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/7b008cce7405b3519b1863204eb72cb6f9884473/ss_7b008cce7405b3519b1863204eb72cb6f9884473.600x338.jpg?t=1795426960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/7b008cce7405b3519b1863204eb72cb6f9884473/ss_7b008cce7405b3519b1863204eb72cb6f9884473.1920x1080.jpg?t=1795426960"
     }
   ],
   "web": "https://games.artdock.studio",
-  "consultado": "2026-11-22T22:15:34.156Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game contains stylized horror violence, blood, a dark atmosphere, and scenes of hand injury caused by a fictional mechanical device. Players may see characters placed in tense and frightening situations around a dangerous tabletop mechanism. The violence is presented in a stylized, non-realistic visual style, but some scenes may still be disturbing for sensitive players. The game does not contain sexual content, nudity, drug use, alcohol abuse, gambling, self-harm, or extremist content.",
+  "igdbIntentado": true,
+  "igdb": 403826,
+  "youtube": [
+    {
+      "id": "WXKZb8DNvm0",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:58.198Z"
 }

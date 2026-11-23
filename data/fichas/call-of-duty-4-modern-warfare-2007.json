@@ -1,9 +1,9 @@
 {
   "clave": "call of duty 4 modern warfare 2007",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7462-73e3-96df-a80b747306b1",
   "appid": "7940",
@@ -33,6 +33,105 @@
       "url": "https://store.steampowered.com/app/7940/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "541",
+      "nombre": "Call of Duty 4: Modern Warfare",
+      "apps": [
+        {
+          "appid": "7940",
+          "nombre": "Call of Duty® 4: Modern Warfare® (2007)"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "49981",
+      "nombre": "Call of Duty: Modern Warfare Franchise Bundle (ROW)",
+      "apps": [
+        {
+          "appid": "7940",
+          "nombre": "Call of Duty® 4: Modern Warfare® (2007)"
+        },
+        {
+          "appid": "10180",
+          "nombre": "Call of Duty®: Modern Warfare® 2 (2009)"
+        },
+        {
+          "appid": "10196",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Resurgence Pack"
+        },
+        {
+          "appid": "10195",
+          "nombre": "Call of Duty®: Modern Warfare® 2 Stimulus Package"
+        },
+        {
+          "appid": "42680",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011)"
+        },
+        {
+          "appid": "42695",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 1"
+        },
+        {
+          "appid": "42696",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 2"
+        },
+        {
+          "appid": "42697",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 3: Chaos Pack"
+        },
+        {
+          "appid": "42698",
+          "nombre": "Call of Duty®: Modern Warfare® 3 (2011) Collection 4: Final Assault"
+        }
+      ],
+      "usd": 69.99,
+      "antes": 139.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "7940": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "10180": {
+      "usd": 14.99,
+      "gratis": false
+    },
+    "10195": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "10196": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42680": {
+      "usd": 19.99,
+      "gratis": false
+    },
+    "42695": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42696": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42697": {
+      "usd": 9.74,
+      "gratis": false
+    },
+    "42698": {
+      "usd": 9.74,
+      "gratis": false
+    }
+  },
   "descripcion": "El nuevo thriller de acción del galardonado equipo de Infinity Ward, los creadores de la serie Call of Duty®, ofrece la experiencia cinematográfica más intensa jamás vista hasta la fecha. Call of Duty 4: Modern Warfare equipa a los jugadores con un avanzado y moderno arsenal de alta potencia de fuego y los transporta a los lugares más...",
   "generos": [
     "Acción"
@@ -42,6 +141,7 @@
     "puntaje": 92,
     "url": "https://www.metacritic.com/game/pc/call-of-duty-4-modern-warfare?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "No compatible",
   "nombreSteam": "Call of Duty® 4: Modern Warfare® (2007)",
   "acerca": [
     [
@@ -77,23 +177,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -167,5 +272,28 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7940/0000002994.1920x1080.jpg?t=1780962383"
     }
   ],
-  "consultado": "2026-11-22T22:16:46.014Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "igdbIntentado": true,
+  "igdb": 623,
+  "youtube": [
+    {
+      "id": "LhuIjNSg7Gg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8e-i2D-2GAc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "F81largTyh4",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:12.182Z"
 }

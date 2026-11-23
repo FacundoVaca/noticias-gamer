@@ -1,9 +1,9 @@
 {
   "clave": "total war attila",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937e-f885-701c-8ce8-1710e0ed6fe5",
   "appid": "325610",
@@ -49,6 +49,87 @@
       "url": "https://opencritic.com/game/1183/total-war-attila"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "59382",
+      "nombre": "Total War: ATTILA",
+      "apps": [
+        {
+          "appid": "325610",
+          "nombre": "Total War: ATTILA"
+        }
+      ],
+      "usd": 6.74,
+      "antes": 14.99,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "325610": {
+      "usd": 6.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "428730",
+      "nombre": "Total War: ATTILA - Slavic Nations Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "343464",
+      "nombre": "Total War: ATTILA - Age of Charlemagne Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "343463",
+      "nombre": "Total War: ATTILA - Empires of Sand Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "343462",
+      "nombre": "Total War: ATTILA - The Last Roman Campaign Pack",
+      "gratis": false,
+      "usd": 3.05,
+      "descuento": 66
+    },
+    {
+      "appid": "335030",
+      "nombre": "Total War: ATTILA - Blood & Burning",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "343460",
+      "nombre": "Total War: ATTILA - Longbeards Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "343461",
+      "nombre": "Total War: ATTILA - Celts Culture Pack",
+      "gratis": false,
+      "usd": 1.69,
+      "descuento": 66
+    },
+    {
+      "appid": "335020",
+      "nombre": "Total War: ATTILA - Viking Forefathers Culture Pack",
+      "gratis": false,
+      "usd": 2.37,
+      "descuento": 66
+    }
+  ],
   "descripcion": "Against a darkening background of famine, disease and war, a new power is rising in the great steppes of the East. With a million horsemen at his back, the ultimate warrior king approaches, and his sights are set on Rome… The next instalment in the multi award-winning PC series that combines turn-based strategy with real-time tactics,...",
   "generos": [
     "Estrategia"
@@ -58,6 +139,7 @@
     "puntaje": 80,
     "url": "https://www.metacritic.com/game/pc/total-war-attila?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Total War: ATTILA",
   "acerca": [
     [
@@ -136,39 +218,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -268,5 +359,28 @@
     }
   ],
   "web": "http://www.totalwar.com",
-  "consultado": "2026-11-22T22:15:16.619Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "There are frequent depictions of realistic looking violence towards human characters and sometimes animal characters. The player can command and attack many different types of military units against A.I. controlled characters. The player issues orders that influence the actions that these units carry out. When the player plays a real-time battle they will witness combat animations with swords, axes, spears, arrows and some missile units.",
+  "igdbIntentado": true,
+  "igdb": 8200,
+  "youtube": [
+    {
+      "id": "gwjuyGR3WfQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "b52rH_tMHYU",
+      "nombre": "Viking Forefathers Culture Pack"
+    },
+    {
+      "id": "V8SfWKUJekY",
+      "nombre": "Your World Will Burn"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:32.371Z"
 }

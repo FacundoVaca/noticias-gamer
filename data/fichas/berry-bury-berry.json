@@ -1,9 +1,9 @@
 {
   "clave": "berry bury berry",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019a994e-1eb8-73cb-84fe-423a2f6a5096",
   "appid": "3370870",
@@ -30,6 +30,28 @@
       "url": "https://store.steampowered.com/app/3370870/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1192838",
+      "nombre": "Berry Bury Berry",
+      "apps": [
+        {
+          "appid": "3370870",
+          "nombre": "Berry Bury Berry"
+        }
+      ],
+      "usd": 2.69,
+      "antes": 4.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3370870": {
+      "usd": 2.69,
+      "gratis": false
+    }
+  },
   "descripcion": "A juicy first-person incremental game about growing berries and tossing them down an ominous hole. Earn money and upgrades. Make new friends with sentient berry pals. Grow and control the hole as you unearth why nobody leaves this accursed garden. Bury it all, Berry everything.",
   "generos": [
     "Aventura",
@@ -38,6 +60,7 @@
   ],
   "lanzamientoTexto": "29 ENE 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Berry Bury Berry",
   "acerca": [
     [
@@ -104,51 +127,63 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ucraniano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -219,5 +254,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370870/15cd8cb4c274ebde0f7e09ae989ab6eb15a35aef/ss_15cd8cb4c274ebde0f7e09ae989ab6eb15a35aef.1920x1080.jpg?t=1794341089"
     }
   ],
-  "consultado": "2026-11-22T22:15:12.322Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 381578,
+  "youtube": [
+    {
+      "id": "jRlSqL00YVw",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:32:54.803Z"
 }

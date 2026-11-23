@@ -1,6 +1,5 @@
 {
   "clave": "total war warhammer iii aislinn tides of torment",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -37,6 +36,27 @@
   "juegoBase": {
     "appid": "1142710",
     "nombre": "Total War: WARHAMMER III"
+  },
+  "ediciones": [
+    {
+      "packageid": "1219476",
+      "nombre": "Total War: WARHAMMER III - Aislinn – Tides of Torment",
+      "apps": [
+        {
+          "appid": "3450960",
+          "nombre": "Total War: WARHAMMER III - Aislinn – Tides of Torment"
+        }
+      ],
+      "usd": 5.01,
+      "antes": 7.49,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "3450960": {
+      "usd": 5.01,
+      "gratis": false
+    }
   },
   "descripcion": "El DLC del Señor de los Mares Aislinn introduce al estratega de los Altos Elfos como Señor legendario jugable. Al mando de la Patrulla Marina, lidera la defensa de Ulthuan y amplía sus fronteras.",
   "generos": [
@@ -141,55 +161,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -277,5 +310,12 @@
     }
   ],
   "web": "https://warhammer3.totalwar.com/",
-  "consultado": "2026-11-22T22:24:19.023Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T11:43:03.271Z"
 }

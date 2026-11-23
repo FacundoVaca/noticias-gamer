@@ -1,9 +1,9 @@
 {
   "clave": "the survivalists",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-3c6c-7114-874b-628e761a5157",
   "appid": "897450",
@@ -53,6 +53,105 @@
       "url": "https://opencritic.com/game/10244/the-survivalists"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "286966",
+      "nombre": "The Survivalists",
+      "apps": [
+        {
+          "appid": "897450",
+          "nombre": "The Survivalists"
+        }
+      ],
+      "usd": 1.24,
+      "antes": 12.49,
+      "descuento": 90
+    },
+    {
+      "packageid": "1535500",
+      "nombre": "The Survivalists - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "897450",
+          "nombre": "The Survivalists"
+        },
+        {
+          "appid": "1256750",
+          "nombre": "The Survivalists - Monkey Business Pack"
+        }
+      ],
+      "usd": 2.77,
+      "antes": 13.89,
+      "descuento": 80
+    },
+    {
+      "packageid": "1506626",
+      "nombre": "The Survivalists - Complete Edition",
+      "apps": [
+        {
+          "appid": "897450",
+          "nombre": "The Survivalists"
+        },
+        {
+          "appid": "4094590",
+          "nombre": "The Survivalists - Frostbite Fortress"
+        },
+        {
+          "appid": "1256750",
+          "nombre": "The Survivalists - Monkey Business Pack"
+        }
+      ],
+      "usd": 3.19,
+      "antes": 15.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "897450": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "1256750": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "4094590": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "4094590",
+      "nombre": "The Survivalists - Frostbite Fortress",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "1256750",
+      "nombre": "The Survivalists - Monkey Business Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1378760",
+      "nombre": "The Survivalists - Digital Artbook",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1377870",
+      "nombre": "The Survivalists Soundtrack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    }
+  ],
   "descripcion": "En The Survivalists, sandbox de supervivencia ambientado en el universo de The Escapists, te espera un mundo de sorpresas, secretos, peligros y aventuras. Únete hasta con tres amigos y explora, construye y entrena a los monos para seguir con vida. ¿Tienes lo que hace falta para ser un Survivalist?",
   "generos": [
     "Acción",
@@ -65,6 +164,7 @@
     "puntaje": 69,
     "url": "https://www.metacritic.com/game/pc/the-survivalists?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "The Survivalists",
   "acerca": [
     [
@@ -121,59 +221,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -257,5 +371,30 @@
     }
   ],
   "web": "https://www.team17.com/",
-  "consultado": "2026-11-22T22:15:51.546Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 127305,
+  "youtube": [
+    {
+      "id": "_3BrqUt4w28",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "_TseGrZiXPM",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "pop69BUBOEw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "YsEmt5qKvVk",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:30.675Z"
 }

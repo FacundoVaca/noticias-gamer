@@ -1,9 +1,9 @@
 {
   "clave": "crusader kings iii all under heaven",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01958aaa-7c65-728e-bc17-66880c779069",
   "appid": "3315530",
@@ -36,6 +36,27 @@
   "juegoBase": {
     "appid": "1158310",
     "nombre": "Crusader Kings III"
+  },
+  "ediciones": [
+    {
+      "packageid": "1174069",
+      "nombre": "Crusader Kings III: All Under Heaven",
+      "apps": [
+        {
+          "appid": "3315530",
+          "nombre": "Crusader Kings III: All Under Heaven"
+        }
+      ],
+      "usd": 15.74,
+      "antes": 20.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "3315530": {
+      "usd": 15.74,
+      "gratis": false
+    }
   },
   "descripcion": "La dilatada y agitada historia de Asia cobra vida en All Under Heaven. Reclama el Mandato, unifica a tu pueblo y decide el futuro de imperios con esta monumental expansión de Crusader Kings III.",
   "generos": [
@@ -152,39 +173,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -280,5 +310,20 @@
     }
   ],
   "web": "https://www.paradoxinteractive.com/games/crusader-kings-iii/about",
-  "consultado": "2026-11-22T22:22:16.353Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "This game features moderate violence portrayed in an unrealistic manner, with textual references of violence towards defenseless characters, such as children. There is use of offensive language, and depictions of nudity with textual references to sexual activity. There are also textual references to the use of illegal drugs and alcohol.",
+  "igdbIntentado": true,
+  "igdb": 352849,
+  "youtube": [
+    {
+      "id": "YxJo9ZSg6Ik",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:21.579Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "age of empires ii de chronicles alexander the great",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019958af-1304-72dc-b958-e1e48c42891e",
   "appid": "3793540",
@@ -36,6 +36,27 @@
   "juegoBase": {
     "appid": "813780",
     "nombre": "Age of Empires II: Definitive Edition"
+  },
+  "ediciones": [
+    {
+      "packageid": "1334405",
+      "nombre": "Age of Empires II: DE - Chronicles: Alexander the Great",
+      "apps": [
+        {
+          "appid": "3793540",
+          "nombre": "Age of Empires II: DE - Chronicles: Alexander the Great"
+        }
+      ],
+      "usd": 5.35,
+      "antes": 7.99,
+      "descuento": 33
+    }
+  ],
+  "sueltos": {
+    "3793540": {
+      "usd": 5.35,
+      "gratis": false
+    }
   },
   "descripcion": "Embárcate en el épico viaje de Alejandro Magno en esta campaña narrativa con tres nuevas civilizaciones, ejércitos personalizables y una novedosa narración.",
   "generos": [
@@ -149,63 +170,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Hindi",
@@ -317,5 +353,18 @@
     }
   ],
   "web": "https://www.ageofempires.com/games/aoeiide/",
-  "consultado": "2026-11-22T22:24:01.392Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 369166,
+  "youtube": [
+    {
+      "id": "YyMd0oVt8iE",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:43:24.161Z"
 }

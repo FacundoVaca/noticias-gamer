@@ -1,9 +1,9 @@
 {
   "clave": "age of empires iv dynasties of the east",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0198c3c1-f653-71e3-997b-31e84e7002b8",
   "appid": "3067190",
@@ -35,6 +35,27 @@
   "juegoBase": {
     "appid": "1466860",
     "nombre": "Age of Empires IV: Anniversary Edition"
+  },
+  "ediciones": [
+    {
+      "packageid": "1089985",
+      "nombre": "Age of Empires IV: Dynasties of the East",
+      "apps": [
+        {
+          "appid": "3067190",
+          "nombre": "Age of Empires IV: Dynasties of the East"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 9.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3067190": {
+      "usd": 7.99,
+      "gratis": false
+    }
   },
   "descripcion": "Expande tu legado en Dinastías del Este, con 4 nuevas variantes de civilizaciones, 8 mapas, 6 biomas y una nueva experiencia de estrategia en tiempo real roguelite con desafíos dinámicos e impredecibles ataques por oleadas[",
   "generos": [
@@ -132,99 +153,123 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Finés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Griego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Húngaro",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Hindi",
@@ -266,5 +311,25 @@
     }
   ],
   "web": "https://www.ageofempires.com/",
-  "consultado": "2026-11-22T22:22:14.181Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 361886,
+  "youtube": [
+    {
+      "id": "f9lffIAztko",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qphMgmtlkd4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "IVFcw5TCvuM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:36.468Z"
 }

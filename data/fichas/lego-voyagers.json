@@ -1,9 +1,9 @@
 {
   "clave": "lego voyagers",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01974746-161e-70ad-880e-4274442d180a",
   "appid": "1538550",
@@ -48,6 +48,38 @@
       "url": "https://opencritic.com/game/19133/lego-voyagers"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "543257",
+      "nombre": "LEGO® Voyagers",
+      "apps": [
+        {
+          "appid": "1538550",
+          "nombre": "LEGO® Voyagers"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 11.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "1538550": {
+      "usd": 7.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3958110",
+      "nombre": "LEGO® Voyagers Soundtrack",
+      "gratis": false,
+      "usd": 2.26,
+      "descuento": 35
+    }
+  ],
   "descripcion": "De los creadores de LEGO® Builder's Journey llega una nueva aventura cooperativa sobre la amistad y el juego para dos jugadores. Cuando dos amigos se proponen rescatar una nave espacial abandonada, se embarcan en un viaje que supera sus sueños más descabellados.",
   "generos": [
     "Aventura",
@@ -55,6 +87,7 @@
   ],
   "lanzamientoTexto": "15 SEP 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "LEGO® Voyagers",
   "acerca": [
     [
@@ -105,59 +138,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -241,5 +288,22 @@
     }
   ],
   "web": "http://legovoyagers.com",
-  "consultado": "2026-11-22T22:16:06.832Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 347646,
+  "youtube": [
+    {
+      "id": "YnBikeqGp6w",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "S70yl1zYGNI",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:05.673Z"
 }

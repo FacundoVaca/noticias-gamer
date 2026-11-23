@@ -1,9 +1,9 @@
 {
   "clave": "destiny 2 los confines del destino",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0196a68a-86c1-700a-b23b-d1b0f8c66900",
   "appid": "3186490",
@@ -53,6 +53,27 @@
   "juegoBase": {
     "appid": "1085660",
     "nombre": "Destiny 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "1418602",
+      "nombre": "Destiny 2: Los Confines del Destino",
+      "apps": [
+        {
+          "appid": "3186490",
+          "nombre": "Destiny 2: Los Confines del Destino"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 13.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "3186490": {
+      "usd": 4.19,
+      "gratis": false
+    }
   },
   "descripcion": "Juega a Destiny 2: Los Confines del Destino. Los guardianes siguen una señal que los llevará a un planetoide en los confines del sistema, donde descubrirán una verdad que cambiará su futuro. Disfruta de una nueva campaña, un nuevo destino, nuevas habilidades, nuevo equipamiento y muchas cosas más.",
   "generos": [
@@ -123,55 +144,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -201,5 +235,17 @@
     }
   ],
   "web": "https://www.bungie.net/",
-  "consultado": "2026-11-22T22:22:03.235Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 342776,
+  "youtube": [
+    {
+      "id": "qlylquFX6EE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:01.953Z"
 }

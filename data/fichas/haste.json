@@ -1,9 +1,9 @@
 {
   "clave": "haste",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-05a7-733b-8999-dafab5a10c58",
   "appid": "1796470",
@@ -50,6 +50,38 @@
       "url": "https://opencritic.com/game/18401/haste"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "645074",
+      "nombre": "Haste",
+      "apps": [
+        {
+          "appid": "1796470",
+          "nombre": "Haste"
+        }
+      ],
+      "usd": 5.69,
+      "antes": 9.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "1796470": {
+      "usd": 5.69,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3587100",
+      "nombre": "Haste Soundtrack",
+      "gratis": false,
+      "usd": 3.47,
+      "descuento": 40
+    }
+  ],
   "descripcion": "Recorre a toda velocidad mundos generados de forma procedural, surca los cielos ¡y no te olvides de bordar los aterrizajes! ¿Podrás ir más rápido que el fin del universo?",
   "generos": [
     "Acción",
@@ -59,6 +91,7 @@
   ],
   "lanzamientoTexto": "1 ABR 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Haste",
   "acerca": [
     [
@@ -139,43 +172,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -287,5 +330,24 @@
     }
   ],
   "web": "http://landfall.se",
-  "consultado": "2026-11-22T22:14:10.903Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 228918,
+  "youtube": [
+    {
+      "id": "3CfpJlGI2wc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dHoXrWIawxY",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:52.352Z"
 }

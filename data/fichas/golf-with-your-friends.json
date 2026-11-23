@@ -1,9 +1,9 @@
 {
   "clave": "golf with your friends",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0a99-7191-b55c-99ef40ebcc36",
   "appid": "431240",
@@ -47,6 +47,271 @@
       "url": "https://opencritic.com/game/9467/golf-with-your-friends"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "962812",
+      "nombre": "Golf With Your Friends - Starter Edition",
+      "apps": [
+        {
+          "appid": "431240",
+          "nombre": "Golf With Your Friends"
+        },
+        {
+          "appid": "1901922",
+          "nombre": "Golf With Your Friends - Bouncy Castle Course"
+        },
+        {
+          "appid": "1277570",
+          "nombre": "Golf With Your Friends - Caddy Pack"
+        }
+      ],
+      "usd": 3.49,
+      "antes": 13.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "461469",
+      "nombre": "Golf With Your Friends",
+      "apps": [
+        {
+          "appid": "431240",
+          "nombre": "Golf With Your Friends"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "962813",
+      "nombre": "Golf With Your Friends - Ultimate Edition",
+      "apps": [
+        {
+          "appid": "431240",
+          "nombre": "Golf With Your Friends"
+        },
+        {
+          "appid": "1901922",
+          "nombre": "Golf With Your Friends - Bouncy Castle Course"
+        },
+        {
+          "appid": "1277570",
+          "nombre": "Golf With Your Friends - Caddy Pack"
+        },
+        {
+          "appid": "2366470",
+          "nombre": "Golf With Your Friends - Corrupted Forest Course"
+        },
+        {
+          "appid": "2456991",
+          "nombre": "Golf With Your Friends - Fairytale Fables Pack"
+        },
+        {
+          "appid": "2246730",
+          "nombre": "Golf With Your Friends - Horrifying Headgear Pack"
+        },
+        {
+          "appid": "2456990",
+          "nombre": "Golf With Your Friends - Peaceful Pines Course"
+        },
+        {
+          "appid": "2130860",
+          "nombre": "Golf With Your Friends - Pizza Party Pack"
+        },
+        {
+          "appid": "1901920",
+          "nombre": "Golf With Your Friends - Racing Pack"
+        },
+        {
+          "appid": "2073740",
+          "nombre": "Golf With Your Friends - Sports Pack"
+        },
+        {
+          "appid": "1901921",
+          "nombre": "Golf With Your Friends - Summer Party Pack"
+        }
+      ],
+      "usd": 39.99,
+      "antes": 39.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "431240": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1277570": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1901920": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "1901921": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "1901922": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "2073740": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2130860": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2246730": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "2366470": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "2456990": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "2456991": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 18,
+  "dlcLista": [
+    {
+      "appid": "3265830",
+      "nombre": "Golf With Your Friends - Soaring Eagles Cosplay Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3041140",
+      "nombre": "Golf With Your Friends - Olympus Odyssey Course",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3041150",
+      "nombre": "Golf With Your Friends - Legends of Olympus Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2366470",
+      "nombre": "Golf With Your Friends - Corrupted Forest Course",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2246730",
+      "nombre": "Golf With Your Friends - Horrifying Headgear Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2130860",
+      "nombre": "Golf With Your Friends - Pizza Party Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2073740",
+      "nombre": "Golf With Your Friends - Sports Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1901922",
+      "nombre": "Golf With Your Friends - Bouncy Castle Course",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 75
+    },
+    {
+      "appid": "1901921",
+      "nombre": "Golf With Your Friends - Summer Party Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1901920",
+      "nombre": "Golf With Your Friends - Racing Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1277570",
+      "nombre": "Golf With Your Friends - Caddy Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 75
+    },
+    {
+      "appid": "564170",
+      "nombre": "Golf With Your Friends - OST",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    },
+    {
+      "appid": "2591390",
+      "nombre": "Golf With Your Friends - Headbangers Hat",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2710860",
+      "nombre": "Golf With Your Friends - Teams Mascot Hat Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2710870",
+      "nombre": "Golf With Your Friends - Teams Mascot Sticker Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2863570",
+      "nombre": "Golf With Your Friends - Critical Hit Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2456990",
+      "nombre": "Golf With Your Friends - Peaceful Pines Course",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2456991",
+      "nombre": "Golf With Your Friends - Fairytale Fables Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¿Para qué son los amigos si no es para jugar al golf? En Golf With Your Friends podrás jugar partidas de minigolf rápidas y emocionantes de hasta 12 jugadores a la vez.",
   "generos": [
     "Casual",
@@ -55,6 +320,7 @@
   ],
   "lanzamientoTexto": "19 MAY 2020",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Golf With Your Friends",
   "acerca": [
     [
@@ -109,43 +375,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -241,5 +517,19 @@
     }
   ],
   "web": "https://www.gwyf.golf/",
-  "consultado": "2026-11-22T22:16:02.515Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 24985,
+  "youtube": [
+    {
+      "id": "Hxvwr39sCA4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:01.186Z"
 }

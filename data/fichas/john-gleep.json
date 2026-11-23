@@ -1,9 +1,9 @@
 {
   "clave": "john gleep",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019f6bc3-e47a-708a-a140-2d553589d011",
   "appid": "4739500",
@@ -37,6 +37,45 @@
       "url": "https://metacritic.com/game/john-gleep/user-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1648616",
+      "nombre": "JOHN GLEEP",
+      "apps": [
+        {
+          "appid": "4739500",
+          "nombre": "JOHN GLEEP"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 6.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4739500": {
+      "usd": 5.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5557700",
+      "nombre": "JOHN GLEEP Soundtrack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4739820",
+      "nombre": "JOHN GLEEP Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "JOHN GLEEP es un alienígena con un problemón. Su casino es un desastre, y le debe una galaxia entera a la mafia. Solución: Abducir a unos cuantos ludópatas, hacer que se dejen la pasta, saldar la deuda y arreglar tu matrimonio en este inexplicable roguelike intergaláctico.",
   "generos": [
     "Casual",
@@ -45,6 +84,7 @@
   ],
   "lanzamientoTexto": "11 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "JOHN GLEEP",
   "acerca": [
     [
@@ -113,31 +153,38 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -228,5 +275,33 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739500/0a66c5a64a5096b1bfd85feca31db2ab9228c255/ss_0a66c5a64a5096b1bfd85feca31db2ab9228c255.1920x1080.jpg?t=1795121563"
     }
   ],
-  "consultado": "2026-11-22T22:16:52.534Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "The game depicts an abstract, fictionalized casino that includes references to games like blackjack, poker, slots, etc. and also includes references to alcohol. Some characters and cutscenes include someone drinking from a bar, or someone smoking a cigarette. The game also depicts cartoon violence with a gun.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 410343,
+  "youtube": [
+    {
+      "id": "TR3jbm5BfXA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "aGWyK2STqM0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RupFpGL4YmI",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "FhhyY914_kg",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:33:33.106Z"
 }

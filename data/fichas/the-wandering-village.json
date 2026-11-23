@@ -1,9 +1,9 @@
 {
   "clave": "the wandering village",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-4813-701c-88aa-96877a3f17c2",
   "appid": "1121640",
@@ -48,6 +48,59 @@
       "url": "https://opencritic.com/game/13691/the-wandering-village"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "380196",
+      "nombre": "The Wandering Village",
+      "apps": [
+        {
+          "appid": "1121640",
+          "nombre": "The Wandering Village"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1121640": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "4162120",
+      "nombre": "The Wandering Village: Onbu Skin Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2108250",
+      "nombre": "The Wandering Village Soundtrack",
+      "gratis": false,
+      "usd": 4.63,
+      "descuento": 20
+    },
+    {
+      "appid": "2108240",
+      "nombre": "The Wandering Village: Artbook, Wallpapers and Goodies Pack",
+      "gratis": false,
+      "usd": 13.06,
+      "descuento": 39
+    },
+    {
+      "appid": "4498320",
+      "nombre": "The Wandering Village: The Last Leviathan",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The Wandering Village es un simulador de construcción de una aldea, pero en la espalda de una criatura gigante. Haz crecer tu asentamiento y forma una relación simbiótica con el coloso. ¿Sobreviviréis en este mundo posapocalíptico, bello y hostil, lleno de plantas venenosas?",
   "generos": [
     "Simuladores",
@@ -55,6 +108,7 @@
   ],
   "lanzamientoTexto": "17 JUL 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Wandering Village",
   "acerca": [
     [
@@ -125,59 +179,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Árabe",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -277,5 +345,32 @@
     }
   ],
   "web": "https://thewanderingvillage.com/",
-  "consultado": "2026-11-22T22:15:20.974Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 140669,
+  "youtube": [
+    {
+      "id": "1VsBOgA7RZk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "3Q9DBW9YK7k",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "-q0ku3mXF7o",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Uid5p4vn3iQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:42.802Z"
 }

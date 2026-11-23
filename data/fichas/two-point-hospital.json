@@ -1,9 +1,9 @@
 {
   "clave": "two point hospital",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0a1d-7114-bee5-c9d70e37be5f",
   "appid": "535930",
@@ -49,6 +49,122 @@
       "url": "https://opencritic.com/game/6530/two-point-hospital"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "130330",
+      "nombre": "Two Point Hospital",
+      "apps": [
+        {
+          "appid": "535930",
+          "nombre": "Two Point Hospital"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 24.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "535930": {
+      "usd": 6.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 13,
+  "dlcLista": [
+    {
+      "appid": "1901750",
+      "nombre": "Two Point Hospital: Speedy Recovery",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1498090",
+      "nombre": "Two Point Hospital: A Stitch in Time",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1377080",
+      "nombre": "Two Point Hospital: Culture Shock",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1376920",
+      "nombre": "Two Point Hospital: Fancy Dress Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1440200",
+      "nombre": "Two Point Hospital: Free Zombie Costume",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1424940",
+      "nombre": "Two Point Hospital: SEGA 60th Items",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1196150",
+      "nombre": "Two Point Hospital: Off the Grid",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1144500",
+      "nombre": "Two Point Hospital: Exhibition Items Pack",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1096580",
+      "nombre": "Two Point Hospital: Close Encounters",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1003310",
+      "nombre": "Two Point Hospital: Pebberley Island",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1035020",
+      "nombre": "Two Point Hospital: Retro Items Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 50
+    },
+    {
+      "appid": "966690",
+      "nombre": "Two Point Hospital: Bigfoot",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1257570",
+      "nombre": "Two Point Hospital Soundtrack",
+      "gratis": false,
+      "usd": 3.39,
+      "descuento": 50
+    }
+  ],
   "descripcion": "Diseña hospitales increíbles, cura enfermedades extrañas y gestiona al problemático personal mientras extiendes tus ramas sanitarias por el condado de Two Point.",
   "generos": [
     "Indie",
@@ -59,6 +175,7 @@
     "puntaje": 83,
     "url": "https://www.metacritic.com/game/pc/two-point-hospital?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Two Point Hospital",
   "acerca": [
     [
@@ -134,47 +251,58 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -282,5 +410,31 @@
     }
   ],
   "web": "https://www.twopointhospital.com",
-  "consultado": "2026-11-22T22:16:41.627Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 82117,
+  "youtube": [
+    {
+      "id": "GjIk16rGrYU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "KAnjiwdxEoI",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "udp7pfHuzF0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "MaXUtUjba7A",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:23.514Z"
 }

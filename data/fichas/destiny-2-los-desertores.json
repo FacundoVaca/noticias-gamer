@@ -1,9 +1,9 @@
 {
   "clave": "destiny 2 los desertores",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01992f6e-7583-7321-8702-e76bf935fe44",
   "appid": "3186540",
@@ -53,6 +53,27 @@
   "juegoBase": {
     "appid": "1085660",
     "nombre": "Destiny 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "1342905",
+      "nombre": "Destiny 2: Los Desertores",
+      "apps": [
+        {
+          "appid": "3186540",
+          "nombre": "Destiny 2: Los Desertores"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 13.99,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "3186540": {
+      "usd": 6.29,
+      "gratis": false
+    }
   },
   "descripcion": "Juega a Destiny 2: Los Desertores. El territorio sin ley te reclama: una extensión en la que el poder no basta por sí solo. Explora un mundo de sombras y sindicatos, forma tu leyenda mediante influencias y conviértete en la fuerza que inclinará la balanza.",
   "generos": [
@@ -115,55 +136,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "capturas": [
@@ -189,5 +223,17 @@
     }
   ],
   "web": "https://www.bungie.net/",
-  "consultado": "2026-11-22T22:21:54.598Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 342959,
+  "youtube": [
+    {
+      "id": "brUCTPKn6KM",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:37:41.369Z"
 }

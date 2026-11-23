@@ -1,9 +1,9 @@
 {
   "clave": "little nightmares iii",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d970d-f0e7-72c2-81ab-d9be7e1fdc7e",
   "appid": "1392860",
@@ -52,12 +52,107 @@
       "url": "https://opencritic.com/game/19022/little-nightmares-iii"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1345312",
+      "nombre": "Little Nightmares III Edición Deluxe",
+      "apps": [
+        {
+          "appid": "1392860",
+          "nombre": "Little Nightmares III"
+        }
+      ],
+      "usd": 27.83,
+      "antes": 47.99,
+      "descuento": 42
+    },
+    {
+      "packageid": "488730",
+      "nombre": "Little Nightmares III",
+      "apps": [
+        {
+          "appid": "1392860",
+          "nombre": "Little Nightmares III"
+        }
+      ],
+      "usd": 31.99,
+      "antes": 31.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1392860": {
+      "usd": 27.83,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "2088782",
+      "nombre": "Little Nightmares III - The Shores",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2088781",
+      "nombre": "Little Nightmares III - El backstage",
+      "gratis": false,
+      "usd": 6.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2170190",
+      "nombre": "Little Nightmares III - Los secretos de la Espiral - Pase de expansión",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2088785",
+      "nombre": "Little Nightmares III - Set de indumentarias de los residentes",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2088786",
+      "nombre": "Little Nightmares III - Conjunto de indumentarias de Six oscura",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2088783",
+      "nombre": "Little Nightmares III - Conjunto de indumentarias El Capitán",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2088787",
+      "nombre": "Little Nightmares III - Conjunto de indumentarias de Nomos",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 0
+    },
+    {
+      "appid": "2088788",
+      "nombre": "Little Nightmares III - Conjunto de indumentarias de Klonoa",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Little Nightmares III es una perturbadora aventura atmosférica en la que los grandes amigos Low y Alone, que quieren huir de la Nada, colaborarán para resolver puzles y sobrevivir en un mundo de pesadilla, tanto en el cooperativo online para 2 jugadores como en el modo de un jugador con la I.A.",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "9 OCT 2025",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Little Nightmares III",
   "acerca": [
     [
@@ -251,5 +346,31 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392860/a385f2bcf0b138bcd65e1c1bb70d126478eec6b3/ss_a385f2bcf0b138bcd65e1c1bb70d126478eec6b3.1920x1080.jpg?t=1790849221"
     }
   ],
-  "consultado": "2026-11-22T22:17:16.693Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages: Unrealistic Violence, Fear, Depiction of Suicide",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 262529,
+  "youtube": [
+    {
+      "id": "XFHOsobwFrA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "UjrtoFazU1U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "miK1hqlEsTE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "narIoF9doAM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:34:01.070Z"
 }

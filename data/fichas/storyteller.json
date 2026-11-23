@@ -1,9 +1,9 @@
 {
   "clave": "storyteller",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d954c-8311-71dd-be15-725170e25c2d",
   "appid": "1624540",
@@ -48,12 +48,45 @@
       "url": "https://opencritic.com/game/14474/storyteller"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "576774",
+      "nombre": "Storyteller",
+      "apps": [
+        {
+          "appid": "1624540",
+          "nombre": "Storyteller"
+        }
+      ],
+      "usd": 3.89,
+      "antes": 5.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "1624540": {
+      "usd": 3.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2362450",
+      "nombre": "Storyteller - Original Soundtrack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Storyteller es un galardonado juego de rompecabezas que va de crear historias. ¡Vive relatos de amor, intriga, crimen, monstruos, traición y grandes emociones!",
   "generos": [
     "Aventura"
   ],
   "lanzamientoTexto": "23 MAR 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Storyteller",
   "acerca": [
     [
@@ -83,63 +116,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -230,5 +278,27 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1624540/a4ac5d1301572404e23d07e297c3bb060cdd03fe/ss_a4ac5d1301572404e23d07e297c3bb060cdd03fe.1920x1080.jpg?t=1795193299"
     }
   ],
-  "consultado": "2026-11-22T22:16:15.514Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 159299,
+  "youtube": [
+    {
+      "id": "evbrPS8xw8w",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "rwfI0L40480",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3XhvqQ5vKEo",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:32:28.578Z"
 }

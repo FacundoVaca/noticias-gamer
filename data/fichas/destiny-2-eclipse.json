@@ -1,9 +1,9 @@
 {
   "clave": "destiny 2 eclipse",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-6439-713c-9ef1-be5a65c21647",
   "appid": "1945340",
@@ -53,6 +53,27 @@
   "juegoBase": {
     "appid": "1085660",
     "nombre": "Destiny 2"
+  },
+  "ediciones": [
+    {
+      "packageid": "746030",
+      "nombre": "Destiny 2: Eclipse",
+      "apps": [
+        {
+          "appid": "1945340",
+          "nombre": "Destiny 2: Eclipse"
+        }
+      ],
+      "usd": 1.39,
+      "antes": 13.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "1945340": {
+      "usd": 1.39,
+      "gratis": false
+    }
   },
   "descripcion": "El Testigo está aquí. Te esperan nuevas recompensas, una nueva subclase, Neptuno, la nueva incursión y el modo de leyenda de Eclipse.",
   "generos": [
@@ -108,55 +129,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -252,5 +286,26 @@
     }
   ],
   "web": "https://www.bungie.net/",
-  "consultado": "2026-11-22T22:24:27.732Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134832,
+  "youtube": [
+    {
+      "id": "xadGTLaxMZY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "lfoeZLp5A7k",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "pnkQP9GYB4o",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:43:19.033Z"
 }

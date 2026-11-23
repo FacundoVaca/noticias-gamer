@@ -1,9 +1,9 @@
 {
   "clave": "grim dawn forgotten gods expansion",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-2071-73da-9943-77578ffe180a",
   "appid": "897670",
@@ -33,6 +33,27 @@
   "juegoBase": {
     "appid": "219990",
     "nombre": "Grim Dawn"
+  },
+  "ediciones": [
+    {
+      "packageid": "287072",
+      "nombre": "Grim Dawn - Forgotten Gods Expansion",
+      "apps": [
+        {
+          "appid": "897670",
+          "nombre": "Grim Dawn - Forgotten Gods Expansion"
+        }
+      ],
+      "usd": 4.54,
+      "antes": 9.09,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "897670": {
+      "usd": 4.54,
+      "gratis": false
+    }
   },
   "descripcion": "Forgotten Gods takes the apocalyptic fantasy world of Grim Dawn to distant lands with a massive new chapter in humanity’s struggle against otherworldly and divine threats. Unleash new mobility powers, gather powerful new items and venture into a brand-new game mode with endless replayability.",
   "generos": [
@@ -130,55 +151,68 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Checo",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Vietnamita",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -274,5 +308,19 @@
     }
   ],
   "web": "http://www.grimdawn.com/",
-  "consultado": "2026-11-22T22:23:43.981Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game features combat against a variety of enemies, including humans, that often displays blood and/or gore. Blood can be toggled off in the game options.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 105041,
+  "youtube": [
+    {
+      "id": "fc17r931tN0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:41:42.974Z"
 }

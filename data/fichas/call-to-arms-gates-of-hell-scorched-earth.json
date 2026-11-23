@@ -1,9 +1,9 @@
 {
   "clave": "call to arms gates of hell scorched earth",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-66c6-732e-9c49-f4133fe6f959",
   "appid": "2123890",
@@ -34,6 +34,27 @@
   "juegoBase": {
     "appid": "400750",
     "nombre": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  "ediciones": [
+    {
+      "packageid": "759677",
+      "nombre": "Call to Arms - Gates of Hell: Scorched Earth",
+      "apps": [
+        {
+          "appid": "2123890",
+          "nombre": "Call to Arms - Gates of Hell: Scorched Earth"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 7.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2123890": {
+      "usd": 1.99,
+      "gratis": false
+    }
   },
   "descripcion": "“Scorched Earth” expande el legendario frente del este con un brutal arsenal de equipamiento para multijugador, y nuevas misiones para las campañas alemana y soviética. Desde el asedio de Sebastopol hasta las últimas ofensivas de la II Guerra Mundial.",
   "generos": [
@@ -125,35 +146,43 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -245,5 +274,17 @@
     }
   ],
   "web": "https://www.barbed-wire.eu/",
-  "consultado": "2026-11-22T22:24:21.249Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 219733,
+  "youtube": [
+    {
+      "id": "XvxYsZRwBIQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:42:53.612Z"
 }

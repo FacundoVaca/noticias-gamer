@@ -1,9 +1,9 @@
 {
   "clave": "nioh 2 the complete edition",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-49a5-71a2-bd24-27380b2da80a",
   "appid": "1325200",
@@ -52,6 +52,28 @@
       "url": "https://opencritic.com/game/10893/nioh-2-the-complete-edition"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "511759",
+      "nombre": "Nioh 2 – The Complete Edition",
+      "apps": [
+        {
+          "appid": "1325200",
+          "nombre": "Nioh 2 – The Complete Edition"
+        }
+      ],
+      "usd": 16.67,
+      "antes": 41.69,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1325200": {
+      "usd": 16.67,
+      "gratis": false
+    }
+  },
   "descripcion": "Enfréntate a hordas de yokai en este RPG de acción masocore. Crea a tu protagonista y emprende una aventura a través de miles de lugares de Japón durante el período de Sengoku. Usa la nueva habilidad de Forma Yokai para derrotar a las criaturas más feroces y prepárate para atravesar los Reinos Oscuros creados por tus enemigos.",
   "generos": [
     "Acción",
@@ -62,6 +84,7 @@
     "puntaje": 86,
     "url": "https://www.metacritic.com/game/pc/nioh-2-the-complete-edition?ftag=MCD-06-10aaa1f"
   },
+  "steamDeck": "Jugable",
   "nombreSteam": "Nioh 2 – The Complete Edition",
   "acerca": [
     [
@@ -172,59 +195,73 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Portugal",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -340,5 +377,19 @@
     }
   ],
   "web": "https://teamninja-studio.com/nioh2/",
-  "consultado": "2026-11-22T22:16:54.756Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore",
+  "igdbIntentado": true,
+  "igdb": 140972,
+  "youtube": [
+    {
+      "id": "P00VjxwguTw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:36:34.163Z"
 }

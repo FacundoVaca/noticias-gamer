@@ -1,9 +1,9 @@
 {
   "clave": "the last gas station",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "01966ce2-2a25-7242-9500-dd1c56bccae5",
   "appid": "3690030",
@@ -38,6 +38,52 @@
       "url": "https://metacritic.com/game/the-last-gas-station/critic-reviews/?platform=pc"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1299485",
+      "nombre": "The Last Gas Station",
+      "apps": [
+        {
+          "appid": "3690030",
+          "nombre": "The Last Gas Station"
+        }
+      ],
+      "usd": 3.24,
+      "antes": 8.1,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "3690030": {
+      "usd": 3.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "5374070",
+      "nombre": "The Last Gas Station: Winter Resort",
+      "gratis": false,
+      "usd": 3.69,
+      "descuento": 10
+    },
+    {
+      "appid": "5124460",
+      "nombre": "The Last Gas Station - Supporter Pack",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 20
+    },
+    {
+      "appid": "4580230",
+      "nombre": "The Last Gas Station Soundtrack",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 50
+    }
+  ],
   "descripcion": "En un mundo donde los coches eléctricos reinan por encima del resto, tú eres el propietario de una vetusta gasolinera en medio de la nada. Comercia, haz crecer tu negocio y descubre el secreto de este extraño lugar en este simulador de gasolineras.",
   "generos": [
     "Aventura",
@@ -47,6 +93,7 @@
   ],
   "lanzamientoTexto": "28 ABR 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Last Gas Station",
   "acerca": [
     [
@@ -120,43 +167,53 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -223,5 +280,27 @@
     }
   ],
   "web": "https://alawar.com/games/the-last-gas-station",
-  "consultado": "2026-11-22T22:15:01.310Z"
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 354933,
+  "youtube": [
+    {
+      "id": "-AUXDW_KqG4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "feI9dPwwNPs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EqpPGcfONtU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:31:25.804Z"
 }

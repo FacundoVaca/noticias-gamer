@@ -1,9 +1,9 @@
 {
   "clave": "go next",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019ff4d3-65d7-719e-9362-0c00048c4151",
   "appid": "5064170",
@@ -29,6 +29,45 @@
       "url": "https://store.steampowered.com/app/5064170/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1755281",
+      "nombre": "Go Next!",
+      "apps": [
+        {
+          "appid": "5064170",
+          "nombre": "Go Next!"
+        }
+      ],
+      "usd": 6.87,
+      "antes": 8.09,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "5064170": {
+      "usd": 6.87,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "5066300",
+      "nombre": "Go Next! Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "5505470",
+      "nombre": "Go Next! Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Tus armas disparan solas. Tu trabajo es no dejar de moverte. Corre por las paredes, haz dash y bunny hop entre hordas de monstruos en 11 mundos, y convierte 71 armas y 131 objetos en una build imparable. Juega en solitario o en cooperativo online de hasta 4 jugadores.",
   "generos": [
     "Acción",
@@ -37,6 +76,7 @@
   ],
   "lanzamientoTexto": "9 NOV 2026",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "Go Next!",
   "acerca": [
     [
@@ -426,5 +466,19 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064170/4b616efe7418f1b42331f064e6e43905c36afd4f/ss_4b616efe7418f1b42331f064e6e43905c36afd4f.1920x1080.jpg?t=1795308849"
     }
   ],
-  "consultado": "2026-11-22T22:17:12.258Z"
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 415995,
+  "youtube": [
+    {
+      "id": "iSd5abcSWxY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:35:47.569Z"
 }

@@ -1,9 +1,9 @@
 {
   "clave": "dead by daylight chucky chapter",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-797b-71ba-a6d8-6be86b6d5944",
   "appid": "2656010",
@@ -36,6 +36,27 @@
   "juegoBase": {
     "appid": "381210",
     "nombre": "Dead by Daylight"
+  },
+  "ediciones": [
+    {
+      "packageid": "951820",
+      "nombre": "Dead by Daylight - Chucky Chapter",
+      "apps": [
+        {
+          "appid": "2656010",
+          "nombre": "Dead by Daylight - Chucky Chapter"
+        }
+      ],
+      "usd": 1.87,
+      "antes": 3.74,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2656010": {
+      "usd": 1.87,
+      "gratis": false
+    }
   },
   "descripcion": "Conoce a tu nuevo mejor amigo para siempre. Dead by Daylight: Chucky trae a la niebla a una icónica leyenda del terror con un asesino nuevo: Chucky, el muñeco Good Guy. Si compras este accesorio, desbloquearás un amuleto exclusivo: Caja de Good Guy.",
   "generos": [
@@ -137,63 +158,78 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Tailandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de Hispanoamérica",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -309,5 +345,27 @@
     }
   ],
   "web": "http://www.deadbydaylight.com",
-  "consultado": "2026-11-22T22:22:31.527Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 278424,
+  "youtube": [
+    {
+      "id": "tjLT3BPnImU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "78JQFN4NLKk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "LCb-OkidUi8",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:38:41.396Z"
 }

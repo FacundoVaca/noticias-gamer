@@ -1,9 +1,9 @@
 {
   "clave": "fell sell",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "019ee058-194f-7248-bbc9-efd9f2a105fb",
   "appid": "4627110",
@@ -30,6 +30,38 @@
       "url": "https://store.steampowered.com/app/4627110/"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1611669",
+      "nombre": "Fell & Sell",
+      "apps": [
+        {
+          "appid": "4627110",
+          "nombre": "Fell & Sell"
+        }
+      ],
+      "usd": 4.57,
+      "antes": 5.79,
+      "descuento": 21
+    }
+  ],
+  "sueltos": {
+    "4627110": {
+      "usd": 4.57,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4881440",
+      "nombre": "Fell & Sell Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "¡Mata. Saquea. Vende. Sobrevive! Sumérgete en una trepidante mezcla en primera persona de hack'n'slash roguelike y gestión de tiendas. Arrasa mazmorras mortales para conseguir botín, sal de una pieza, fabrica objetos y llena tus estanterías. ¡Y luego vuelve a jugártela por el máximo beneficio!",
   "generos": [
     "Acción",
@@ -38,6 +70,7 @@
   ],
   "lanzamientoTexto": "26 AGO 2026",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Fell & Sell",
   "acerca": [
     [
@@ -134,71 +167,88 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Portugués de Brasil",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Turco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Italiano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Danés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Holandés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Noruego",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Sueco",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -297,5 +347,18 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/3d67971df37d288783160d4245e3e6403b25ca71/ss_3d67971df37d288783160d4245e3e6403b25ca71.1920x1080.jpg?t=1793700378"
     }
   ],
-  "consultado": "2026-11-22T22:16:00.299Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 407733,
+  "youtube": [
+    {
+      "id": "hH7KoqaXA9Q",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T11:32:18.242Z"
 }

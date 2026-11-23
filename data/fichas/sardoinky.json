@@ -1,6 +1,5 @@
 {
   "clave": "sardoinky",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam"
@@ -22,6 +21,38 @@
     "Simulation"
   ],
   "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1661311",
+      "nombre": "Sardoinky",
+      "apps": [
+        {
+          "appid": "4778330",
+          "nombre": "Sardoinky"
+        }
+      ],
+      "usd": 2.54,
+      "antes": 2.99,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4778330": {
+      "usd": 2.54,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5306210",
+      "nombre": "Sardoinky Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "Sardoinky is a weird, chill, hand drawn clicker about opening cans of sardines. Buy a can, crack it open and sell whatever is inside. Spend the cash on better cans and upgrades. Collect every fish and find out what the company is hiding.",
   "generos": [
     "Casual",
@@ -71,23 +102,28 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Polaco",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -175,5 +211,10 @@
     }
   ],
   "web": "https://redsluggames.com",
-  "consultado": "2026-11-22T22:17:03.526Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-23T11:36:38.836Z"
 }
