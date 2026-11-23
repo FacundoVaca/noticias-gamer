@@ -29,6 +29,9 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
         run: node scripts/actualizar.mjs
+      - name: Avisar páginas nuevas a Bing y Yandex (IndexNow)
+        continue-on-error: true
+        run: node scripts/extras/indexnow.mjs
       - name: Guardar cambios (Cloudflare publica solo)
         run: |
           git config user.name "github-actions[bot]"

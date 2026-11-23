@@ -55,6 +55,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node scripts/extras/telegram.mjs
+      - name: Avisar páginas nuevas a Bing y Yandex (IndexNow)
+        continue-on-error: true
+        run: node scripts/extras/indexnow.mjs
       - name: Guardar cambios (Cloudflare publica solo)
         run: |
           git config user.name "github-actions[bot]"
