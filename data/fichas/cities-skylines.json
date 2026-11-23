@@ -1,0 +1,680 @@
+{
+  "clave": "cities skylines",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-ff65-73f8-8d14-410ce85fa304",
+  "appid": "255710",
+  "lanzamiento": "2015-03-10",
+  "desarrolladores": [
+    "Colossal Order",
+    "Colossal Order Ltd."
+  ],
+  "editores": [
+    "Paradox Interactive AB",
+    "Paradox Interactive",
+    "Paradox",
+    "Colossal Order"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Simulation",
+    "Building",
+    "Management",
+    "Strategy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 220294,
+      "url": "https://store.steampowered.com/app/255710/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 60,
+      "url": "https://metacritic.com/game/cities-skylines/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 2743,
+      "url": "https://metacritic.com/game/cities-skylines/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 95,
+      "url": "https://opencritic.com/game/1260/cities-skylines"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "62700",
+      "nombre": "Cities: Skylines",
+      "apps": [
+        {
+          "appid": "255710",
+          "nombre": "Cities: Skylines"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 20.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1026306",
+      "nombre": "Cities: Skylines - Starter Deluxe Edition",
+      "apps": [
+        {
+          "appid": "255710",
+          "nombre": "Cities: Skylines"
+        },
+        {
+          "appid": "715193",
+          "nombre": "Cities: Skylines - All That Jazz"
+        },
+        {
+          "appid": "346791",
+          "nombre": "Cities: Skylines - Deluxe Edition Upgrade Pack"
+        },
+        {
+          "appid": "715194",
+          "nombre": "Cities: Skylines - Industries"
+        },
+        {
+          "appid": "547502",
+          "nombre": "Cities: Skylines - Mass Transit"
+        },
+        {
+          "appid": "944070",
+          "nombre": "Cities: Skylines - Synthetic Dawn Radio"
+        }
+      ],
+      "usd": 13.99,
+      "antes": 34.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "232993",
+      "nombre": "Cities: Skylines - Commercial License",
+      "apps": [
+        {
+          "appid": "255710",
+          "nombre": "Cities: Skylines"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "255710": {
+      "usd": 6.29,
+      "gratis": false
+    },
+    "346791": {
+      "usd": 4.19,
+      "gratis": false
+    },
+    "547502": {
+      "usd": 4.74,
+      "gratis": false
+    },
+    "715193": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "715194": {
+      "usd": 5.24,
+      "gratis": false
+    },
+    "944070": {
+      "usd": 1.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 79,
+  "dlcLista": [
+    {
+      "appid": "4771370",
+      "nombre": "Cities: Skylines - Content Creator Pack: Holiday Getaways",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4771380",
+      "nombre": "Cities: Skylines - Content Creator Pack: Mansions & Manors",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4771390",
+      "nombre": "Cities: Skylines - Blueprint Beats",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4031130",
+      "nombre": "Cities: Skylines - Race Day",
+      "gratis": false,
+      "usd": 7.59,
+      "descuento": 20
+    },
+    {
+      "appid": "4031140",
+      "nombre": "Cities: Skylines - Content Creator Pack: Renewed History",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "4031150",
+      "nombre": "Cities: Skylines - Content Creator Pack: Iconic Brutalism",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "4031160",
+      "nombre": "Cities: Skylines - 8 Gear Radio",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3731500",
+      "nombre": "Cities: Skylines - Content Creator Pack: Shops of Shibuya",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "3731510",
+      "nombre": "Cities: Skylines - Content Creator Pack: Map Pack 4",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "3731530",
+      "nombre": "Cities: Skylines - Harumi Nights FM",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "2955910",
+      "nombre": "Cities: Skylines - Content Creator Pack: Emerging Downtown",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2955900",
+      "nombre": "Cities: Skylines - Content Creator Pack: Countryside",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2955920",
+      "nombre": "Cities: Skylines - Harvest Harmony",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2955870",
+      "nombre": "Cities: Skylines - Content Creator Pack: Mountain Village",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2955880",
+      "nombre": "Cities: Skylines - Content Creator Pack: Map Pack 3",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2955890",
+      "nombre": "Cities: Skylines - Alpine Tunes Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2934300",
+      "nombre": "Cities: Skylines - Expansion Subscription",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2342310",
+      "nombre": "Cities: Skylines - Hotels & Retreats",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2313320",
+      "nombre": "Cities: Skylines - Content Creator Pack: Brooklyn & Queens",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2313322",
+      "nombre": "Cities: Skylines - Content Creator Pack: Industrial Evolution",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2313321",
+      "nombre": "Cities: Skylines - Content Creator Pack: Railroads of Japan",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2313323",
+      "nombre": "Cities: Skylines - 90's Pop Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2313324",
+      "nombre": "Cities: Skylines - Piano Tunes Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2148900",
+      "nombre": "Cities: Skylines - Content Creator Pack: Africa in Miniature",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2224691",
+      "nombre": "Cities: Skylines - Content Creator Pack: Shopping Malls",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2224690",
+      "nombre": "Cities: Skylines - Content Creator Pack: Sports Venues",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2148902",
+      "nombre": "Cities: Skylines - JADIA Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2225940",
+      "nombre": "Cities: Skylines - 80's Movies Tunes",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2225941",
+      "nombre": "Cities: Skylines - Pop-Punk Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2148901",
+      "nombre": "Cities: Skylines - Financial Districts",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2148903",
+      "nombre": "Cities: Skylines - Content Creator Pack: Map Pack 2",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2148904",
+      "nombre": "Cities: Skylines - African Vibes",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2144480",
+      "nombre": "Cities: Skylines - Content Creator Pack: Heart of Korea",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2144481",
+      "nombre": "Cities: Skylines - Content Creator Pack: Skyscrapers",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "2144482",
+      "nombre": "Cities: Skylines - K-pop Station",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2144483",
+      "nombre": "Cities: Skylines - 80's Downtown Beat",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2008400",
+      "nombre": "Cities: Skylines - Plazas & Promenades",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1992290",
+      "nombre": "Cities: Skylines - Content Creator Pack: Mid-Century Modern",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "1992291",
+      "nombre": "Cities: Skylines - Content Creator Pack: Seaside Resorts",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "1992293",
+      "nombre": "Cities: Skylines - Paradise Radio",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Introduce nuevos elementos a la mecánica de juego para plasmar la emoción y las complicaciones de mantener una ciudad de verdad, ampliando al mismo tiempo algunos de los temas ya conocidos de la experiencia del desarrollo urbanístico.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "10 MAR 2015",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/cities-skylines?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Cities: Skylines",
+  "acerca": [
+    [
+      "p",
+      "Cities: Skylines presenta un enfoque moderno para el clásico simulador urbano. Introduce nuevos elementos a la mecánica de juego para plasmar la emoción y las complicaciones de mantener una ciudad de verdad, ampliando al mismo tiempo algunos de los temas ya conocidos de la experiencia del desarrollo urbanístico."
+    ],
+    [
+      "p",
+      "De los creadores de la franquicia Cities in Motion, el juego presenta un completo sistema de transporte. Además permite aplicar mods para adaptarlo a tu propio estilo de juego, como contrapartida a la desafiante simulación por niveles. ¡El único límite es tu imaginación, así que toma el control y a por todas!"
+    ],
+    [
+      "h",
+      "Simulación en múltiples niveles"
+    ],
+    [
+      "p",
+      "Es fácil empezar a construir tu ciudad desde abajo, pero dominar esto no es tarea fácil. Encarna al alcalde de tu ciudad y enfréntate a unos requisitos vitales para el equilibrio, como la educación, el agua, la electricidad, la policía, el parque de bomberos, el sistema de salud y muchas más cosas, todo dentro del sistema económico real de tu ciudad. Los ciudadanos de tu ciudad reaccionan rápida y seriamente, con gran autenticidad, a una gran variedad de escenarios de juego."
+    ],
+    [
+      "h",
+      "Gestiona el tráfico local"
+    ],
+    [
+      "p",
+      "La amplia experiencia de Colossal Orders durante el desarrollo de la serie Cities in Motion se ha aprovechado al máximo en un escenario totalmente desarrollado y lleno de detalles."
+    ],
+    [
+      "h",
+      "Aplica leyes a los distritos"
+    ],
+    [
+      "p",
+      "Llega más lejos que un simple administrador del ayuntamiento. Al designar un distrito en una parte específica de tu ciudad, se aplicarán políticas y ascenderás al puesto de alcalde de tu propia ciudad."
+    ],
+    [
+      "h",
+      "Utiliza el ciclo diurno y nocturno"
+    ],
+    [
+      "p",
+      "La ciudad cambia durante las horas del día y afecta al horario de los ciudadanos. Por la noche, el tráfico es visiblemente más lento y algunas áreas zonificadas no son totalmente eficientes. En esta expansión tienes que gestionar y controlar los diferentes aspectos del ciclo diurno y nocturno."
+    ],
+    [
+      "h",
+      "Amplio soporte para modding"
+    ],
+    [
+      "p",
+      "Desarrolla o mejora mapas y estructuras existentes. Después podrás importarlos al juego, compartirlos y descargar las propuestas de otros creadores en Steam Workshop."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Incluye editor de niveles",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ I7 930 | AMD® FX 6350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTS 450 (1 GB) | AMD® R7 250 (2 GB) | Intel Iris Xe G7 (Tiger Lake)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ I7 2700K | AMD® Ryzen 7 2700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 580 (1.5 GB) | AMD® Radeon™ RX 560 (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_0754001c88ad4dbfff92faf9a97e8d87cf3f8840.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_0754001c88ad4dbfff92faf9a97e8d87cf3f8840.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e0f842c9327df9defabf120b6c59e1ba42f54a75.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e0f842c9327df9defabf120b6c59e1ba42f54a75.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_b5a4b72062b8c4ad677b242963e88c2e624cb1f9.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_b5a4b72062b8c4ad677b242963e88c2e624cb1f9.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_39f74526167020dfae4156945f24e7e49d5eedf8.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_39f74526167020dfae4156945f24e7e49d5eedf8.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_a4ebf2b3ad46e620d99fa471708d68b28ea4d7d1.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_a4ebf2b3ad46e620d99fa471708d68b28ea4d7d1.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_013b26f27484941d4edbd406f8df5b5238f120df.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_013b26f27484941d4edbd406f8df5b5238f120df.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e90299bea1faee761c11c5242c4e6e89f3ef7fb9.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_e90299bea1faee761c11c5242c4e6e89f3ef7fb9.1920x1080.jpg?t=1794508006"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_79130723c29cdd89f6169514bc4aad03aa58e823.600x338.jpg?t=1794508006",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/ss_79130723c29cdd89f6169514bc4aad03aa58e823.1920x1080.jpg?t=1794508006"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9066,
+  "youtube": [
+    {
+      "id": "A_zDorj9nZI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cVhYSyVbGBs",
+      "nombre": "Launch trailer"
+    },
+    {
+      "id": "i0-ClwwWQeM",
+      "nombre": "PlayStation 4 Launch Trailer"
+    },
+    {
+      "id": "sXAn3RuwQOw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:20:37.468Z"
+}

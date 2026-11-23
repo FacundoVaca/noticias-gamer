@@ -23,17 +23,81 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/epic/">Epic Games</a> › <span>For The Warp</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/header.jpg" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="For The Warp" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>For The Warp</h1>
+
+<ul class="j-rapido" aria-label="Resumen"><li>Un jugador</li><li class="no">Sin español</li><li>Steam Deck: verificado</li></ul><p class="j-sub">En oferta en Epic Games.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="2.99" data-original="14.99" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#e6e6e6">Epic Games</span><span class="o-plat">PC</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$2.99</span><span class="o-desc">-80%</span><s>US$14.99</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"><li>Mínimo histórico: <b>US$1.94</b> en septiembre de 2025 (según el historial de CheapShark)</li></ul>
+<a class="j-btn" href="https://store.epicgames.com/es-ES/browse?q=For%20The%20Warp&amp;sortBy=relevancy&amp;sortDir=DESC&amp;count=40" rel="nofollow noopener sponsored" target="_blank">Ver en Epic Games</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-vid-tit">Videos</a><a href="#j-cap-tit">Capturas</a><a href="#j-idi-tit">Idiomas</a><a href="#j-req-tit">Requisitos</a><a href="#j-ed-tit">Qué incluye</a><a href="#j-dlc-tit">DLC</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre For The Warp</h2>
+<p class="j-lead">Un juego de construcción de mazos (deckbuilding) de tipo roguelike en el espacio! Explora sistemas, enemigos y encuentros extraños generados aleatoriamente. ¡Construye tu mazo, sobrevive y alcanza la puerta For The Warp!</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>Massive Galaxy Studios</dd></div><div><dt>Editora</dt><dd>ImaginationOverflow y Massive Galaxy Studios</dd></div><div><dt>Lanzamiento</dt><dd>28 de marzo de 2022</dd></div><div><dt>Géneros</dt><dd>Indie y Estrategia</dd></div><div><dt>Plataformas en oferta</dt><dd>PC</dd></div><div><dt>Sistemas operativos (PC)</dt><dd>Windows</dd></div><div><dt>Steam Deck</dt><dd>Verificado</dd></div></dl>
+<h3 class="j-res-tit">Reseñas y puntajes</h3><div class="j-res-grid"><div class="j-res"><span class="j-res-f"><a href="https://store.steampowered.com/app/1201830/" rel="nofollow noopener" target="_blank">Usuarios de Steam</a></span><span class="j-res-v">71%<small>de reseñas positivas</small></span><span class="j-res-n">Porcentaje de compradores que lo recomiendan, sobre 439 reseñas.</span></div></div>
+
+<p class="o-chips"><span class="o-plat">Roguelike Deckbuilder</span><span class="o-plat">Roguelite</span><span class="o-plat">Sci-fi</span><span class="o-plat">Turn-Based Combat</span><span class="o-plat">Deckbuilding</span></p>
+<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto"><p>For the Warp es un juego de construcción de mazos de tipo roguelike en el espacio!</p><p>Descubre y añade nuevas cartas a tu arsenal para aumentar tus posibilidades de supervivencia. Explora sistemas generados por procedimientos y ábrete camino hasta la puerta de distorsión ( warp gate ).</p><p>Encuentra aliados y enemigos, ruinas de civilizaciones antiguas, desbloquea poderosas tecnologías y naves.</p><h3>Historia</h3><p>Reuniste un equipo improvisado para una peligrosa ruta comercial, pero de repente la puerta de distorsión más cercana fue destruida. No te queda más remedio que tomar la ruta más larga y entregar tu valiosa carga para obtener una gran ganancia... ¡Simplemente sobrevive y alcanza la puerta de distorsión!</p><h3>Características</h3><p>8 naves, 120 cartas de juego, 34 cartas de equipo</p><p>Explora sistemas generados por procedimientos y ábrete camino hasta la puerta de distorsión.</p><p>Encuentra aliados y enemigos , ruinas de civilizaciones antiguas, desbloquea poderosas tecnologías y naves.</p><p>Descubre y añade nuevas cartas a tu arsenal para aumentar tus posibilidades de supervivencia.</p><p>Pixelart de Kirokaze</p><p>Música Synth-pop compuesta por Martyn Stonehouse</p></div></details>
+</section>
+<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid"><figure><button class="j-yt" type="button" data-id="KjVFP68Wlpg" aria-label="Reproducir Trailer de For The Warp"><img src="https://i.ytimg.com/vi/KjVFP68Wlpg/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Trailer</figcaption></figure></div>
+<p class="mini">Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir.</p>
+</section>
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_b94f5653d19f9f7def82760dab39d73b031f796b.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_b94f5653d19f9f7def82760dab39d73b031f796b.600x338.jpg?t=1788538469" alt="Captura de For The Warp (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_7fc408eaba2c326404b25fc51dfe3f6dd19be690.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_7fc408eaba2c326404b25fc51dfe3f6dd19be690.600x338.jpg?t=1788538469" alt="Captura de For The Warp (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_7c390ca37b080433fa1ff42d5f88ecf3a79915ca.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_7c390ca37b080433fa1ff42d5f88ecf3a79915ca.600x338.jpg?t=1788538469" alt="Captura de For The Warp (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_5f76982e257ef38c592289d9c03d08685e4244a5.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_5f76982e257ef38c592289d9c03d08685e4244a5.600x338.jpg?t=1788538469" alt="Captura de For The Warp (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_352e68e7dea135fd3df702784ecee066e1ff73cf.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_352e68e7dea135fd3df702784ecee066e1ff73cf.600x338.jpg?t=1788538469" alt="Captura de For The Warp (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_9f99ab678bbfbdf91ffbf09bdd1910875c927da0.1920x1080.jpg?t=1788538469" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201830/ss_9f99ab678bbfbdf91ffbf09bdd1910875c927da0.600x338.jpg?t=1788538469" alt="Captura de For The Warp (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos (versión de PC en Steam)</h2><ul class="j-lista"><li>Logros de Steam</li><li>Cromos de Steam</li><li>Steam Cloud</li><li>Préstamo familiar</li></ul></div>
+<div><h2 id="j-idi-tit">Idiomas (versión de PC en Steam)</h2><p class="j-es j-es-no"><b>No tiene textos en español</b> según Steam.</p><div class="j-idi-wrap"><table class="j-idi"><thead><tr><th>Idioma</th><th>Textos</th><th>Voces</th><th>Subtítulos</th></tr></thead><tbody><tr><td>Inglés</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Chino simplificado</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Portugués de Brasil</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Portugués de Portugal</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr></tbody></table></div><p class="mini">Según la tienda de Steam. "Textos" es la interfaz y los menús; "Voces" indica audio completo en ese idioma.</p></div>
+</section>
+<section class="j-req" aria-labelledby="j-req-tit">
+<h2 id="j-req-tit">Requisitos del sistema para PC</h2>
+<div class="j-req-cols"><div><h3>Mínimos</h3><ul><li>Requiere un procesador y un sistema operativo de 64 bits</li><li><b>SO *:</b> Windows 7</li><li><b>Procesador:</b> i3 330M</li><li><b>Memoria:</b> 4 GB de RAM</li><li><b>Gráficos:</b> Intel HD Graphics</li><li><b>Almacenamiento:</b> 350 MB de espacio disponible</li></ul></div><div><h3>Recomendados</h3><ul><li>Requiere un procesador y un sistema operativo de 64 bits</li><li><b>SO:</b> Windows 10</li><li><b>Procesador:</b> i5 7200U</li><li><b>Memoria:</b> 8 GB de RAM</li><li><b>Gráficos:</b> GTX 940MX</li></ul></div></div>
+</section>
+<section class="j-ed" id="ediciones" aria-labelledby="j-ed-tit">
+<h2 id="j-ed-tit">Qué incluye la compra en Steam</h2>
+<p class="mini">En Steam se vende en una sola edición. Los DLC y expansiones se compran aparte (más abajo).</p>
+<div class="j-ed-grid"><div class="j-ed-card"><h3>For The Warp</h3>
+<p class="j-ed-precio"><b>US$7.99</b></p>
+<ul><li>For The Warp <span class="j-base">juego base</span></li></ul>
+</div></div>
+
+<p class="mini">Contenido y precios de hoy en la tienda de Steam para Argentina (en dólares).</p>
+</section>
+<section class="j-dlc" aria-labelledby="j-dlc-tit">
+<h2 id="j-dlc-tit">DLC, expansiones y extras</h2>
+<p class="mini">Cada uno se compra aparte y requiere For The Warp. Sus precios no están incluidos en el del juego. Los agrupamos según su nombre en la tienda.</p>
+<h3 class="j-dlc-cat">DLC jugables <small>1</small></h3><p class="mini">Agregan algo para jugar: personajes, vehículos, misiones, mapas o modos.</p><ul class="j-dlc-lista"><li><a href="https://store.steampowered.com/app/4094710/" rel="nofollow noopener" target="_blank">For The Warp: Void Echoes</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>US$2.99</span></li></ul>
+<h3 class="j-dlc-cat">Bandas sonoras <small>1</small></h3><p class="mini">Solo música: no agregan nada al juego.</p><ul class="j-dlc-lista"><li><a href="https://store.steampowered.com/app/1557370/" rel="nofollow noopener" target="_blank">For The Warp Soundtrack</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>US$2.99</span></li></ul>
+<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.</p>
+</section>
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, la tienda de Steam y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días. Como referencia de largo plazo, el mínimo histórico externo es Epic Games: US$1.94 (septiembre de 2025, según CheapShark).</p>
+<div class="j-hist-t"><h3>Historial de precio en Epic Games</h3><p>Seguimos el precio de For The Warp en Epic Games desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó US$2.99.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/epic/">Ver todas las ofertas de Epic Games</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

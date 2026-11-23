@@ -1,0 +1,642 @@
+{
+  "clave": "stellaris",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0a74-71e4-ac4c-a73a341db1a6",
+  "appid": "281990",
+  "lanzamiento": "2016-05-09",
+  "desarrolladores": [
+    "Paradox",
+    "Paradox Development Studio"
+  ],
+  "editores": [
+    "Paradox Interactive AB",
+    "Paradox Interactive",
+    "Paradox",
+    "Paradox Development Studio"
+  ],
+  "etiquetas": [
+    "Space",
+    "Strategy",
+    "Grand Strategy",
+    "Sci-fi",
+    "4X"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 140055,
+      "url": "https://store.steampowered.com/app/281990/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 57,
+      "url": "https://metacritic.com/game/stellaris/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 1218,
+      "url": "https://metacritic.com/game/stellaris/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 43,
+      "url": "https://opencritic.com/game/1713/stellaris"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "38760",
+      "nombre": "Stellaris",
+      "apps": [
+        {
+          "appid": "281990",
+          "nombre": "Stellaris"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 34.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1583399",
+      "nombre": "Stellaris: Anniversary Edition",
+      "apps": [
+        {
+          "appid": "281990",
+          "nombre": "Stellaris"
+        },
+        {
+          "appid": "1749080",
+          "nombre": "Stellaris: Aquatics Species Pack"
+        },
+        {
+          "appid": "2380030",
+          "nombre": "Stellaris: Galactic Paragons"
+        },
+        {
+          "appid": "518910",
+          "nombre": "Stellaris: Leviathans Story Pack"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 41.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "281990": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "518910": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1749080": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "2380030": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 32,
+  "dlcLista": [
+    {
+      "appid": "4241440",
+      "nombre": "Stellaris: Willpower",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4241400",
+      "nombre": "Stellaris: Season 10",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4241420",
+      "nombre": "Stellaris: Nomads",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3417840",
+      "nombre": "Stellaris: BioGenesis",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 40
+    },
+    {
+      "appid": "3417850",
+      "nombre": "Stellaris: Shadows of the Shroud",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 40
+    },
+    {
+      "appid": "2729490",
+      "nombre": "Stellaris: Expansion Subscription",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "716670",
+      "nombre": "Stellaris: Apocalypse",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "944290",
+      "nombre": "Stellaris: MegaCorp",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1140001",
+      "nombre": "Stellaris: Federations",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1522090",
+      "nombre": "Stellaris: Nemesis",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1889490",
+      "nombre": "Stellaris: Overlord",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2380030",
+      "nombre": "Stellaris: Galactic Paragons",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2534090",
+      "nombre": "Stellaris: Astral Planes",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2840100",
+      "nombre": "Stellaris: The Machine Age",
+      "gratis": false,
+      "usd": 8.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2863060",
+      "nombre": "Stellaris: Cosmic Storms",
+      "gratis": false,
+      "usd": 4.74,
+      "descuento": 50
+    },
+    {
+      "appid": "518910",
+      "nombre": "Stellaris: Leviathans Story Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "844810",
+      "nombre": "Stellaris: Distant Stars Story Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1045980",
+      "nombre": "Stellaris: Ancient Relics Story Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2277860",
+      "nombre": "Stellaris: First Contact Story Pack",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2863080",
+      "nombre": "Stellaris: Grand Archive Story Pack",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "498870",
+      "nombre": "Stellaris: Plantoids Species Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1140000",
+      "nombre": "Stellaris: Lithoids Species Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1341520",
+      "nombre": "Stellaris: Necroids Species Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "1749080",
+      "nombre": "Stellaris: Aquatics Species Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2115770",
+      "nombre": "Stellaris: Toxoids Species Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "3283220",
+      "nombre": "Stellaris: Infernals Species Pack",
+      "gratis": false,
+      "usd": 7.59,
+      "descuento": 20
+    },
+    {
+      "appid": "633310",
+      "nombre": "Stellaris: Anniversary Portraits",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3417860",
+      "nombre": "Stellaris: Stargazer Species Portrait",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2863180",
+      "nombre": "Stellaris: Rick The Cube Species Portrait",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4241410",
+      "nombre": "Stellaris: Vipra the Vapor Species Portrait",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4241450",
+      "nombre": "Stellaris: Scenario Pack 1",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4355700",
+      "nombre": "Stellaris: Scenario Pack 2",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Explora una galaxia repleta de maravillas con este juego de ciencia ficción y gran estrategia de Paradox Development Studio. Interactúa con distintas especies alienígenas, descubre nuevos mundos y amplía el dominio de tu imperio. Cada nueva aventura ofrece posibilidades casi infinitas.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "9 MAY 2016",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/stellaris?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Stellaris",
+  "acerca": [
+    [
+      "p",
+      "Prepárate para explorar, descubrir e interactuar con una multitud de especies mientras viajas entre las estrellas. Forja un imperio galáctico enviando naves científicas a inspeccionar y explorar, mientras las naves de construcción levantan estaciones alrededor de los planetas recién descubiertos. Descubre tesoros ocultos y maravillas galácticas mientras defines el rumbo de tu sociedad, creando límites y nuevas evoluciones para tus exploradores. Se formarán alianzas y se declararán guerras."
+    ],
+    [
+      "p",
+      "Como en todos nuestros juegos de Gran Estrategia, la aventura evoluciona con el tiempo. Como las actualizaciones gratuitas forman parte de cualquier juego activo de Paradox, puedes seguir haciendo crecer y expandiendo tu imperio con nuevas tecnologías y capacidades. ¿Qué encontrarás más allá de las estrellas? Solo tú lo puedes responder."
+    ],
+    [
+      "p",
+      "Stellaris ahora incluye el juego base, tres paquetes de expansión y una colección de contenidos digitales."
+    ],
+    [
+      "p",
+      "Stellaris: explora una vasta galaxia generada de forma procedural, donde cada sistema estelar oculta un misterio por descubrir o una civilización alienígena por encontrar. Forja un imperio único: desde tu primer salto warp hasta la dominación galáctica, tú decides si el universo te recordará como un pionero benevolente o un conquistador implacable."
+    ],
+    [
+      "p",
+      "Utopia: desbloquea todo el potencial de tu imperio con esta expansión centrada en la evolución de la sociedad. Ya sea que construyas megaestructuras o asciendas a un plano superior de existencia, Utopia te ayuda a forjar un futuro tan brillante como las propias estrellas."
+    ],
+    [
+      "p",
+      "Synthetic Dawn Story Pack: toma el mando de un Imperio de máquinas y remodela la galaxia a tu propia imagen. ¿Guiarás a tus creaciones mecánicas hacia la coexistencia pacífica o el auge de la vida sintética marcará el fin de los seres orgánicos?"
+    ],
+    [
+      "p",
+      "Humanoids Species Pack: el fenotipo más jugado ahora gana mayor variedad con cívicos únicos y un nuevo origen. Junto con su propia clase de nave única, nuevos retratos y más, nunca ha habido un mejor momento para explorar el futuro de la humanidad."
+    ],
+    [
+      "p",
+      "Y además de todo esto, ¡incluye el Libro de Coleccionista Digital , un fondo de pantalla firmado y un avatar e ícono exclusivos para el foro !"
+    ],
+    [
+      "h",
+      "EXPLORACIÓN INTENSA Y VARIADA"
+    ],
+    [
+      "p",
+      "Cada partida comienza con una civilización que acaba de descubrir cómo viajar entre las estrellas y está lista para explorar la galaxia. Haz que tus naves científicas inspeccionen y exploren anomalías, llevándote a una miríada de misiones que revelan mundos extraños, historias aún más insólitas y descubrimientos capaces de cambiar por completo tu destino."
+    ],
+    [
+      "h",
+      "IMPRESIONANTES IMÁGENES ESPACIALES"
+    ],
+    [
+      "p",
+      "Con planetas y cuerpos celestes únicos de complejidad característica, entrarás en un torbellino de espectáculos dentro de un universo altamente detallado."
+    ],
+    [
+      "h",
+      "VARIACIÓN INFINITA DE ESPECIES Y DIPLOMACIA AVANZADA"
+    ],
+    [
+      "p",
+      "Gracias a la personalización y la generación procedural, te encontrarás con razas infinitamente variadas. Elige rasgos positivos o negativos, ideologías específicas, limitaciones, evoluciones… o cualquier cosa que puedas imaginar. Interactúa con los demás a través del sistema de diplomacia avanzada. La diplomacia es fundamental en una auténtica aventura de gran estrategia. Ajusta tu estrategia a la situación mediante negociación y habilidad."
+    ],
+    [
+      "h",
+      "GUERRA INTERESTELAR"
+    ],
+    [
+      "p",
+      "Un ciclo eterno de guerra, diplomacia, sospechas y alianzas te aguarda. Defiende o ataca con flotas de guerra totalmente personalizables, donde la adaptación es la clave de la victoria. Elige entre una amplia gama de tecnologías complejas al diseñar y personalizar tus naves con el avanzado diseñador de naves. Tienes a tu disposición una multitud de capacidades entre las que elegir para enfrentar las misiones desconocidas que te esperan."
+    ],
+    [
+      "h",
+      "GIGANTESCAS GALAXIAS PROCESALES"
+    ],
+    [
+      "p",
+      "Haz crecer y expande tu imperio con miles de tipos de planetas generados aleatoriamente, galaxias, misiones y criaturas que acechan en las profundidades del espacio."
+    ],
+    [
+      "h",
+      "JUEGA A TU MANERA"
+    ],
+    [
+      "p",
+      "¡Personaliza tu Imperio! Los personajes que elijas, ya sea una sociedad de hongos asesinos o una raza reptiliana experta en ingeniería, pueden personalizarse con rasgos como ética, tipo de tecnología, forma de viaje espacial preferida, tipo de hábitat, filosofías y mucho más. La dirección del juego depende de tus decisiones."
+    ],
+    [
+      "h",
+      "FREE UPDATE HISTORY"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® iCore™ i3-530 or AMD® FX-6350"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 460 or AMD® ATI Radeon™ HD 5870 (1GB VRAM), or AMD® Radeon™ RX Vega 11 or Intel® HD Graphics 4600"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X 9.0c- compatible sound card"
+      ],
+      [
+        "Notas adicionales",
+        "Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® iCore™ i5-3570K or AMD® Ryzen™ 5 2400G"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 560 Ti (1GB VRAM) or AMD® Radeon™ R7 370 (2 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 9.0c-compatible sound card"
+      ],
+      [
+        "Notas adicionales",
+        "Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_f844372cc220e3858aa17205e9fec0ae79a4e665.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_f844372cc220e3858aa17205e9fec0ae79a4e665.1920x1080.jpg?t=1795442199"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_692532123e560e6b866baee59b1e310a291a110d.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_692532123e560e6b866baee59b1e310a291a110d.1920x1080.jpg?t=1795442199"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_7f4d7cc160c43e77aa523e910b365e0ca436e6bb.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_7f4d7cc160c43e77aa523e910b365e0ca436e6bb.1920x1080.jpg?t=1795442199"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_034b0d55a5c370bec4709f09d0914f9d131b7788.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_034b0d55a5c370bec4709f09d0914f9d131b7788.1920x1080.jpg?t=1795442199"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_ee82888c27afb4174cf4cae6298b54c7c1e2a682.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_ee82888c27afb4174cf4cae6298b54c7c1e2a682.1920x1080.jpg?t=1795442199"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_fc94710913be85306f2fe5258d0f0d8d1c87e945.600x338.jpg?t=1795442199",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/ss_fc94710913be85306f2fe5258d0f0d8d1c87e945.1920x1080.jpg?t=1795442199"
+    }
+  ],
+  "web": "https://www.stellaris.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 11582,
+  "youtube": [
+    {
+      "id": "bxTT258PmNc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "KanCiSGxSKM",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "iLp0DsJc9Hk",
+      "nombre": "The Vast Unknown Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:19:16.980Z"
+}

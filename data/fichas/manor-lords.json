@@ -1,0 +1,354 @@
+{
+  "clave": "manor lords",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-43f3-7181-a7ef-f059395e87bc",
+  "appid": "1363080",
+  "lanzamiento": "2024-04-26",
+  "desarrolladores": [
+    "Slavic Magic"
+  ],
+  "editores": [
+    "Hooded Horse",
+    "Hooded Horse Inc.",
+    "Slavic Magic"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "City Builder",
+    "Simulation",
+    "Base Building",
+    "Grand Strategy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 78597,
+      "url": "https://store.steampowered.com/app/1363080/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 71,
+      "cantidad": 14,
+      "url": "https://opencritic.com/game/16697/manor-lords"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "478012",
+      "nombre": "Manor Lords",
+      "apps": [
+        {
+          "appid": "1363080",
+          "nombre": "Manor Lords"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 19.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "1363080": {
+      "usd": 12.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Manor Lords es un juego de estrategia medieval con un sistema socioeconómico complejo donde encarnas a un señor feudal y gobiernas tus tierras, construyes ciudades y libras batallas tácticas a gran escala. Las estaciones, el clima, las ciudades... nada es inmutable.",
+  "generos": [
+    "Simuladores",
+    "Estrategia",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "26 ABR 2024",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Manor Lords",
+  "acerca": [
+    [
+      "p",
+      "Manor Lords es un juego de estrategia que te hará experimentar la vida de un señor medieval. Convierte tu aldea en una ciudad próspera, encárgate de los recursos y las cadenas de producción y sírvete de la conquista para expandir tus tierras."
+    ],
+    [
+      "p",
+      "Manor Lords se inspira en el arte y la arquitectura de la Franconia del s. XIV y mantiene el rigor histórico en la medida de lo posible tanto en los gráficos como en las mecánicas jugables. Se han descartado los temas medievales recurrentes en favor de la precisión histórica para lograr una sensación más auténtica, variopinta y creíble."
+    ],
+    [
+      "p",
+      "Manor Lords es un juego de construcción de ciudades sin cuadrícula ni límites en la colocación y la rotación. Las mecánicas de construcción se basan en el crecimiento natural de pueblos y ciudades medievales reales, donde las rutas comerciales importantes y el paisaje influyeron en la forma en que estos asentamientos surgieron y se desarrollaron."
+    ],
+    [
+      "p",
+      "Construye tus distritos industriales, comerciales y residenciales partiendo de un mercado central y siguiendo la disposición natural del terreno. Presta atención a la fertilidad del suelo a la hora de crear granjas, determina tus terrenos de caza de acuerdo con las poblaciones animales y asegúrate de tener acceso a suficientes bosques y yacimientos de recursos para contar con las materias primas necesarias para crecer."
+    ],
+    [
+      "p",
+      "Delimita las zonas residenciales y observa cómo los lugareños construyen sus casas en el burgo siguiendo un sistema histórico de división territorial por parcelas. Cada área estará subdividida según tus carreteras y el espacio disponible, y los hogares se ajustarán en consecuencia."
+    ],
+    [
+      "p",
+      "Crea ampliaciones en los patios traseros de las casas más grandes para generar recursos que no estarían disponibles de otro modo. Los propietarios no se limitan a pagar impuestos, sino que también cultivan hortalizas, crían pollos y cabras y se abastecen a sí mismos y a los vecinos con todo lo que tus granjas, pastos e industrias personales no puedan proporcionar."
+    ],
+    [
+      "p",
+      "Guía a tus asentamientos a través de las peculiaridades y oportunidades que brindan las distintas estaciones y disfruta de la abundancia que traen las lluvias primaverales, pero no olvides prepararte para las inhóspitas nevadas invernales."
+    ],
+    [
+      "p",
+      "Desde botas a cebada, pasando por pieles y mieles, Manor Lords tiene una gran variedad de bienes típicos de la era. Hay que transportar los materiales y transformarlos en productos finales por medio de cadenas de producción. Tendrás que buscar un equilibrio entre las necesidades básicas de tu pueblo y la producción de artículos de lujo que garanticen la felicidad, así como en la elaboración de bienes comerciales para su exportación o la forja de armas y armaduras que te ayuden en tus conquistas."
+    ],
+    [
+      "p",
+      "Los recursos diseminados por todo el mapa te animarán a expandirte y crear múltiples asentamientos especializados. Extrae minerales valiosos de tus colonias mineras y alimenta a tu creciente población con la carne y los cereales que obtienes de las aldeas destinadas a la agricultura, la ganadería o la caza. ¿Cómo usarás la influencia que tanto te ha costado conseguir? ¿La usarás para hacerte con una buena fuente de oro para tus forjas o darás prioridad a las regiones con suelos fértiles para tener las despensas llenas?"
+    ],
+    [
+      "p",
+      "La expansión descontrolada tendrá un impacto directo en el entorno. Las manadas de ciervos se alejarán de la civilización invasora, el suelo perderá fertilidad si no practicas la rotación de cultivos y la tala excesiva acabará en deforestación."
+    ],
+    [
+      "p",
+      "Crea rutas comerciales para que los mercaderes ambulantes se interesen en comprar tus excedentes. Fabricar y exportar recursos variados te ayudará a obtener riquezas con las que mejorar las viviendas de tu población, importar recursos que no produces e incluso llenar las arcas personales con los impuestos generados por el comercio."
+    ],
+    [
+      "p",
+      "Cuentas con una pequeña porción de tierra en un amplio territorio, pero el choque entre tus ambiciones y la de los señores rivales desembocará en un conflicto inevitable. Lidera a los tuyos en la batalla, no como unidades prescindibles que puedan reemplazarse con facilidad, sino como a tus fieles súbditos. Cada muerte importa."
+    ],
+    [
+      "p",
+      "Los señores colindantes construirán sus propias ciudades y ampliarán sus dominios para competir con los tuyos, lo que en ocasiones te obligará a intervenir. Construye castillos y protege tu territorio mientras esperas el momento adecuado para enviar a tus guerreros a atacar a tus rivales. Los señores colindantes construirán sus propias ciudades y ampliarán sus dominios para competir con los tuyos, lo que en ocasiones te obligará a intervenir. Construye castillos y protege tu territorio mientras esperas el momento adecuado para enviar a tus guerreros a atacar a tus rivales."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-4670 (quad-core) / AMD® FX-Series™ FX-4350 (quad-core)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 1050 (2 GB) / AMD® Radeon™ RX-460 (4 GB) / Intel® Arc™ A380 (6 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-7600 (quad-core) / AMD® Ryzen™ 3 2200G (quad-core)"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 1060 (6 GB) / AMD® Radeon™ RX 580 (8 GB) / Intel® Arc™ A580 (8 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/bffe9f34abaae09855becd6e8ca2ddb9065b2ebb/ss_bffe9f34abaae09855becd6e8ca2ddb9065b2ebb.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/bffe9f34abaae09855becd6e8ca2ddb9065b2ebb/ss_bffe9f34abaae09855becd6e8ca2ddb9065b2ebb.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/2a8486cf95c15af440a4857d6021bb15c057416c/ss_2a8486cf95c15af440a4857d6021bb15c057416c.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/2a8486cf95c15af440a4857d6021bb15c057416c/ss_2a8486cf95c15af440a4857d6021bb15c057416c.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/e96c54a784a4fa874beb1c21ce0e34ada8eb932f/ss_e96c54a784a4fa874beb1c21ce0e34ada8eb932f.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/e96c54a784a4fa874beb1c21ce0e34ada8eb932f/ss_e96c54a784a4fa874beb1c21ce0e34ada8eb932f.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/5111f429dfbd8b65611e0e322dc90f470d015dca/ss_5111f429dfbd8b65611e0e322dc90f470d015dca.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/5111f429dfbd8b65611e0e322dc90f470d015dca/ss_5111f429dfbd8b65611e0e322dc90f470d015dca.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/541dce83a952beb779f2221cb107c6557f192439/ss_541dce83a952beb779f2221cb107c6557f192439.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/541dce83a952beb779f2221cb107c6557f192439/ss_541dce83a952beb779f2221cb107c6557f192439.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/ce313af5e85391c7ebee3b654a35a7ab78a1fe38/ss_ce313af5e85391c7ebee3b654a35a7ab78a1fe38.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/ce313af5e85391c7ebee3b654a35a7ab78a1fe38/ss_ce313af5e85391c7ebee3b654a35a7ab78a1fe38.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/478053049caa6a4c55848fb50b548a1bf5824735/ss_478053049caa6a4c55848fb50b548a1bf5824735.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/478053049caa6a4c55848fb50b548a1bf5824735/ss_478053049caa6a4c55848fb50b548a1bf5824735.1920x1080.jpg?t=1795190328"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/28ac22e5273155aa8a4d907e859a93d191dddb8d/ss_28ac22e5273155aa8a4d907e859a93d191dddb8d.600x338.jpg?t=1795190328",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363080/28ac22e5273155aa8a4d907e859a93d191dddb8d/ss_28ac22e5273155aa8a4d907e859a93d191dddb8d.1920x1080.jpg?t=1795190328"
+    }
+  ],
+  "web": "http://www.manorlords.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 137206,
+  "youtube": [
+    {
+      "id": "m6xMqaVNpzY",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "SV9gNI5DHy0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "fbH_m9KWnP0",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:19:57.635Z"
+}

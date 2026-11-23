@@ -23,17 +23,71 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <span>Dead Island 2 Ultimate Edition</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://cdn.fanatical.com/production/product/400x225/b43434b4-390c-4cea-a880-baed173a2557.jpeg" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="Dead Island 2 Ultimate Edition" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>Dead Island 2 Ultimate Edition</h1>
+
+<ul class="j-rapido" aria-label="Resumen"><li>Un jugador</li><li>Cooperativo</li></ul><p class="j-sub">En oferta en Epic Games y Xbox. Compará el precio de cada tienda en pesos con impuestos.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="6.99" data-original="69.99" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#e6e6e6">Epic Games</span><span class="o-plat">PC</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$6.99</span><span class="o-desc">-90%</span><s>US$69.99</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"><li><span class="o-min">Precio más bajo registrado</span></li><li>Mínimo histórico: <b>US$6.99</b> en julio de 2026 (según el historial de CheapShark)</li></ul>
+<a class="j-btn" href="https://store.epicgames.com/es-ES/browse?q=Dead%20Island%202%20Ultimate%20Edition&amp;sortBy=relevancy&amp;sortDir=DESC&amp;count=40" rel="nofollow noopener sponsored" target="_blank">Ver en Epic Games</a></li>
+<li class="j-of" data-precio="5599.9" data-original="55999" data-moneda="ARS">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#7ee07e">Xbox</span><span class="o-plat">Xbox One</span><span class="o-plat">Xbox Series X|S</span></div>
+<div class="j-of-precio"><span class="j-ars-val">$5.600</span><span class="o-desc">-90%</span><s>$55.999</s><span class="j-ars-nota">precio de la tienda, sin impuestos</span></div>
+<ul class="j-datos"><li>Oferta hasta el 3 dic</li></ul>
+<a class="j-btn" href="https://www.xbox.com/es-AR/games/store/Dead-Island-2-Ultimate-Edition/9N0KRV3ZL4GQ" rel="nofollow noopener sponsored" target="_blank">Ver en Xbox</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-vid-tit">Videos</a><a href="#j-cap-tit">Capturas</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre Dead Island 2 Ultimate Edition</h2>
+<p class="j-lead">Lánzate de lleno al corazón de Los Diablos y siente la acción matazombis más intensa. La Ultimate Edition incluye las dos épicas expansiones de la historia, Haus y SoLA, además de armas y equipo especiales para llevar la masacre a cotas inimaginables.</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>Deep Silver Dambuster Studios, Deep Silver y Dambuster Studios</dd></div><div><dt>Editora</dt><dd>Deep Silver (PP), Deep Silver, Microsoft y Xbox</dd></div><div><dt>Lanzamiento</dt><dd>21 de abril de 2023</dd></div><div><dt>Géneros</dt><dd>Acción y aventura</dd></div><div><dt>Plataformas en oferta</dt><dd>PC, Xbox One y Xbox Series X|S</dd></div></dl>
+<h3 class="j-res-tit">Reseñas y puntajes</h3><div class="j-res-grid"><div class="j-res"><span class="j-res-f">Usuarios de Microsoft Store</span><span class="j-res-v">4,5<small>/5</small></span><span class="j-res-n">Promedio de estrellas de compradores en Xbox (1.022 valoraciones).</span></div></div>
+
+
+<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto"><p>Vuelve la apreciada saga de zombis con una mezcla única de terror, humor negro y matanza de zombis desmesurada que narra una épica aventura al más puro estilo de serie B.</p><p>Dead Island 2 es un juego de rol y acción en primera persona que desborda estilo, es vibrante y está inundado de contaminación zombi. Explora la emblemática ciudad de Los Ángeles, pero bañada en sangre. Conoce a personajes ambiciosos. Mata minuciosamente a un sinfín de enemigos. ¡Y evoluciona para convertirte en el matazombis definitivo!</p><p>La Ultimate Edition incluye las versiones del juego de Xbox One y Xbox Series X|S, las dos épicas expansiones de la historia, además de armas especiales y equipo con mucho estilo para llevar la masacre a cotas inimaginables.</p><p>La Ultimate Edition incluye:</p><p>- Expansiones Haus y SoLA</p><p>- Pack Recuerdo de Banoi</p><p>- Pack Armas doradas</p><p>- Pack Armas de serie B</p><p>- Catana Muerte de Red</p><p>- 6 packs de personaje premium</p><p>- Pack Kingdom Come: Deliverance II</p><p>Los jugadores de Xbox Series X|S y Xbox One X pueden alojar y unirse a partidas cooperativas. Los jugadores de Xbox One y Xbox Series S pueden unirse a sesiones cooperativas, pero debido a limitaciones técnicas, solo pueden alojar sesiones para un jugador adicional.</p><p>Información para clientes de Alemania: una vez derrotados los zombis, los jugadores no podrán infligir más daño o desmembrar a los zombis. Los jugadores de USK pueden jugar a sesiones cooperativas con jugadores internacionales con invitaciones y uniéndose a partidas de amigos. En matchmaking público, los jugadores de USK solo pueden jugar con otros jugadores de USK.</p></div></details>
+</section>
+<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid"><figure><button class="j-yt" type="button" data-id="1APcSjh8uA8" aria-label="Reproducir Launch Trailer de Dead Island 2 Ultimate Edition"><img src="https://i.ytimg.com/vi/1APcSjh8uA8/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Launch Trailer</figcaption></figure></div>
+<p class="mini">Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir.</p>
+</section>
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://store-images.s-microsoft.com/image/apps.51405.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.30c95369-57aa-4f92-9033-68eba2cd2616?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.51405.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.30c95369-57aa-4f92-9033-68eba2cd2616?w=600" alt="Captura de Dead Island 2 Ultimate Edition (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.53200.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.cdf7f129-eaac-4b6b-97d0-7d5649fce55f?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.53200.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.cdf7f129-eaac-4b6b-97d0-7d5649fce55f?w=600" alt="Captura de Dead Island 2 Ultimate Edition (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.64281.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f6d086e9-bc68-4efd-8013-f06c28f565c3?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.64281.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f6d086e9-bc68-4efd-8013-f06c28f565c3?w=600" alt="Captura de Dead Island 2 Ultimate Edition (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.64281.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f6d086e9-bc68-4efd-8013-f06c28f565c3?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.64281.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f6d086e9-bc68-4efd-8013-f06c28f565c3?w=600" alt="Captura de Dead Island 2 Ultimate Edition (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.50488.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.88d6ef13-cec0-42d7-a85a-064096ebba4b?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.50488.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.88d6ef13-cec0-42d7-a85a-064096ebba4b?w=600" alt="Captura de Dead Island 2 Ultimate Edition (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.53.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.00906731-faef-46ff-8fb6-0e98d66f865a?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.53.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.00906731-faef-46ff-8fb6-0e98d66f865a?w=600" alt="Captura de Dead Island 2 Ultimate Edition (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.53186.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f4078d07-2ec5-4a17-9068-34cca0456c2c?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.53186.13923893344658637.6cfcf2a5-7a44-47fe-bc83-50b57647f31d.f4078d07-2ec5-4a17-9068-34cca0456c2c?w=600" alt="Captura de Dead Island 2 Ultimate Edition (7)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.51162.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.45b4e824-e7e6-4d36-afdd-632b0a6e530b?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.51162.13923893344658637.6ce58e1e-5d11-4117-bfca-19800098ac55.45b4e824-e7e6-4d36-afdd-632b0a6e530b?w=600" alt="Captura de Dead Island 2 Ultimate Edition (8)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos (Xbox)</h2><ul class="j-lista"><li>60 FPS</li><li>Logros de Xbox</li><li>Guardado en la nube</li><li>Xbox Network</li></ul></div>
+
+</section>
+
+
+
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, Microsoft Store y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando estos precios.</b> El gráfico aparece cuando juntemos al menos 14 días. Como referencia de largo plazo, el mínimo histórico externo es Epic Games: US$6.99 (julio de 2026, según CheapShark).</p>
+<div class="j-hist-t"><h3>Historial de precio en Epic Games</h3><p>Seguimos el precio de Dead Island 2 Ultimate Edition en Epic Games desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó US$6.99.</p>
+
+</div>
+<div class="j-hist-t"><h3>Historial de precio en Xbox</h3><p>Seguimos el precio de Dead Island 2 Ultimate Edition en Xbox desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó $5.600.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/epic/">Ver todas las ofertas de Epic Games</a> · <a href="/ofertas/xbox/">Ver todas las ofertas de Xbox</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

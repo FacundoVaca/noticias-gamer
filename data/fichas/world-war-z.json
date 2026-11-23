@@ -1,0 +1,519 @@
+{
+  "clave": "world war z",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f98c-71cb-9624-eb9231e0b0ea",
+  "appid": "699130",
+  "lanzamiento": "2019-04-16",
+  "desarrolladores": [
+    "Saber Interactive",
+    "Saber Interactive Inc"
+  ],
+  "editores": [
+    "Saber Interactive Inc",
+    "Aspyr Media Inc",
+    "Aspyr Media, Inc.",
+    "Saber Interactive",
+    "Focus Entertainment",
+    "Saber Interactive Inc.",
+    "Mad Dog Games, LLC"
+  ],
+  "etiquetas": [
+    "Zombies",
+    "Multiplayer",
+    "Online Co-Op",
+    "Co-op",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 25605,
+      "url": "https://store.steampowered.com/app/699130/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 70,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/world-war-z/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 63,
+      "cantidad": 514,
+      "url": "https://metacritic.com/game/world-war-z/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 71,
+      "cantidad": 129,
+      "url": "https://opencritic.com/game/7513/world-war-z"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "804566",
+      "nombre": "World War Z",
+      "apps": [
+        {
+          "appid": "699130",
+          "nombre": "World War Z"
+        }
+      ],
+      "usd": 4.74,
+      "antes": 18.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "201132",
+      "nombre": "World War Z: Year 1 Edition",
+      "apps": [
+        {
+          "appid": "699130",
+          "nombre": "World War Z"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 23.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "699130": {
+      "usd": 4.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 25,
+  "dlcLista": [
+    {
+      "appid": "5270320",
+      "nombre": "World War Z - Florida Episode",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 0
+    },
+    {
+      "appid": "5399270",
+      "nombre": "World War Z - Vacation Heat Character Skins Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4996840",
+      "nombre": "World War Z - Valhalla Raider Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4383610",
+      "nombre": "World War Z - Chibi Daniela Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4383600",
+      "nombre": "World War Z - Chibi Bunko Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4197300",
+      "nombre": "World War Z: Lunar New Year Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4057370",
+      "nombre": "World War Z x The Walking Dead",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3930030",
+      "nombre": "World War Z: Vibrant Halloween Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3930040",
+      "nombre": "World War Z: Raging Phoenix Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3699420",
+      "nombre": "World War Z - Chibi Kimiko Skin Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3699430",
+      "nombre": "World War Z: Chibi Izzy Skin Pack ",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3245120",
+      "nombre": "World War Z: Las Vegas Episode",
+      "gratis": false,
+      "usd": 5.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3245130",
+      "nombre": "World War Z: Vegas Skin Pack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    },
+    {
+      "appid": "3100200",
+      "nombre": "World War Z: Golden Bloom Weapon Skins Pack",
+      "gratis": false,
+      "usd": 1.97,
+      "descuento": 40
+    },
+    {
+      "appid": "2962180",
+      "nombre": "World War Z:  Desert Defenders Weapons Pack",
+      "gratis": false,
+      "usd": 1.97,
+      "descuento": 40
+    },
+    {
+      "appid": "2614650",
+      "nombre": "World War Z: Phoenix Episode",
+      "gratis": false,
+      "usd": 4.86,
+      "descuento": 25
+    },
+    {
+      "appid": "2614660",
+      "nombre": "World War Z: Pre-Apocalypse Character Skins Pack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    },
+    {
+      "appid": "2540380",
+      "nombre": "World War Z: Burning Skulls Weapons Skin Pack",
+      "gratis": false,
+      "usd": 1.97,
+      "descuento": 40
+    },
+    {
+      "appid": "2475060",
+      "nombre": "World War Z: Victory Lap Weapons Skin Pack",
+      "gratis": false,
+      "usd": 1.97,
+      "descuento": 40
+    },
+    {
+      "appid": "2226070",
+      "nombre": "World War Z: Deadly Vice Weapons Skin Pack",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 30
+    },
+    {
+      "appid": "2313390",
+      "nombre": "World War Z: The Rat Packs Weapon Skins Bundle",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 30
+    },
+    {
+      "appid": "2170270",
+      "nombre": "World War Z: Raven Weapons Skin Pack",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 30
+    },
+    {
+      "appid": "2243210",
+      "nombre": "World War Z: Year 1 Upgrade",
+      "gratis": false,
+      "usd": 7.19,
+      "descuento": 40
+    },
+    {
+      "appid": "1640650",
+      "nombre": "World War Z: Explorer Weapons Pack",
+      "gratis": false,
+      "usd": 1.31,
+      "descuento": 60
+    },
+    {
+      "appid": "1708020",
+      "nombre": "World War Z: Zeke Hunter Weapons Pack",
+      "gratis": false,
+      "usd": 1.31,
+      "descuento": 60
+    }
+  ],
+  "descripcion": "World War Z es un trepidante shooter cooperativo en tercera persona para hasta 4 jugadores con hordas de cientos de zombis. Un juego de acción frenético, salvaje y visceral que incluye un nuevo modo en primera persona.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "21 SEP 2021",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "World War Z",
+  "acerca": [
+    [
+      "p",
+      "World War Z es un trepidante shooter cooperativo para hasta 4 jugadores con hordas de cientos de zombis que ha cautivado a más de 25 millones de personas. Está inspirado en la película de Paramount Pictures, y su frenética jugabilidad en tercera y primera persona se combina a la perfección con las historias que vivirás por todo el mundo."
+    ],
+    [
+      "p",
+      "La humanidad está al borde de la extinción. De Nueva York a Moscú, pasando por Japón y Jerusalén, el apocalipsis de no muertos se propaga. Y, ante el fin, unos pocos unen sus fuerzas contra la horda para sobrevivir a los muertos."
+    ],
+    [
+      "h",
+      "Lucha contra hordas de cientos de zombis"
+    ],
+    [
+      "p",
+      "El motor Swarm Engine™ es capaz de recrear hordas de zombis en increíbles batallas campales a la perfección, tanto en tercera como en primera persona. Los avanzados sistemas de gore y desmembramiento proporcionan una experiencia visceral y aterradora. Las hordas de zombis del juego adoptan actitudes realistas, quedándose atascados en pasillos estrechos y subiéndose unos encima de otros para llegar a los jugadores que estén en lo más alto. Las hordas son cada vez más difíciles de derrotar y te atacan como jefes individuales a medida que los jugadores avanzan en el juego. Personaliza tu estrategia con decenas de armas, equipamiento y defensas instalables."
+    ],
+    [
+      "h",
+      "Campañas cooperativas con peso narrativo"
+    ],
+    [
+      "p",
+      "Sobrevive por todo el mundo y escucha las historias de superación de sus supervivientes a lo largo de varios episodios."
+    ],
+    [
+      "h",
+      "Elige tu clase"
+    ],
+    [
+      "p",
+      "Sube de nivel hasta 8 clases únicas: Pistolero, Destructor, Rebanador, Médico, Manitas, Exterminador, Maestro de drones y Vanguardista; cada una con sus propias ventajas y estilos de juego."
+    ],
+    [
+      "h",
+      "Progreso detallado"
+    ],
+    [
+      "p",
+      "Hazte más fuerte, desbloquea mejoras de armas poderosas y sube a tu personaje de nivel para superar los desafíos más complejos."
+    ],
+    [
+      "h",
+      "Diferentes modos de juego"
+    ],
+    [
+      "p",
+      "Juega a una amplia variedad de modos y dificultades: desde el cooperativo básico hasta el modo Horda, el modo Horda XL, los desafíos diarios y semanales, el modo Extinción y JcJcZ."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "AMD A10-5700 / Intel Core i3-3220"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD R7-240 / GForce 650Ti / Intel 630"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Yes"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2400G / Intel core i7-3970"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon R9 280 / Nvidia GeForce GTX 960"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Yes"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_18b954901ed391d2ea5aa1d530f6c8ae15132188.600x338.jpg?t=1794590968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_18b954901ed391d2ea5aa1d530f6c8ae15132188.1920x1080.jpg?t=1794590968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_7bdf07ccf5f96bd9cfe07f473b3727d8884a5e0f.600x338.jpg?t=1794590968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_7bdf07ccf5f96bd9cfe07f473b3727d8884a5e0f.1920x1080.jpg?t=1794590968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_e6bb5584935072737f75a9d15d008731d6b1cd1d.600x338.jpg?t=1794590968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_e6bb5584935072737f75a9d15d008731d6b1cd1d.1920x1080.jpg?t=1794590968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_1ebef5fba32a0023a46966a193604081e96a8042.600x338.jpg?t=1794590968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_1ebef5fba32a0023a46966a193604081e96a8042.1920x1080.jpg?t=1794590968"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_8de3e9e28f43cb51909bea5e546238d6df2e1e46.600x338.jpg?t=1794590968",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/ss_8de3e9e28f43cb51909bea5e546238d6df2e1e46.1920x1080.jpg?t=1794590968"
+    }
+  ],
+  "web": "https://wwzgame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152123,
+  "youtube": [
+    {
+      "id": "NGdJL4PvxME",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:21:03.159Z"
+}

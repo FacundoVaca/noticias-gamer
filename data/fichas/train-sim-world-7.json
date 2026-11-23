@@ -1,0 +1,864 @@
+{
+  "clave": "train sim world 7",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01a039eb-955d-7351-9894-b8b86600eb46",
+  "appid": "4678800",
+  "lanzamiento": "2026-09-15",
+  "desarrolladores": [
+    "Dovetail Games"
+  ],
+  "editores": [
+    "Dovetail Games",
+    "Dovetail Games - TSW"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Trains",
+    "Transportation",
+    "Automobile Sim",
+    "Immersive Sim"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 543,
+      "url": "https://store.steampowered.com/app/4678800/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/train-sim-world-7/critic-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1628681",
+      "nombre": "Train Sim World® 7: Standard Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4714890",
+          "nombre": "Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On"
+        },
+        {
+          "appid": "4680800",
+          "nombre": "Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On"
+        },
+        {
+          "appid": "4680810",
+          "nombre": "Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On"
+        }
+      ],
+      "usd": 17.24,
+      "antes": 22.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1875272",
+      "nombre": "Train Sim World® 7: UK Regional Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4714890",
+          "nombre": "Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On"
+        },
+        {
+          "appid": "4714920",
+          "nombre": "Train Sim World® 7: Northern BR Class 333 EMU Add-On"
+        }
+      ],
+      "usd": 26.49,
+      "antes": 26.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1875289",
+      "nombre": "Train Sim World® 7: US Regional Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4680810",
+          "nombre": "Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On"
+        },
+        {
+          "appid": "4714910",
+          "nombre": "Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On"
+        }
+      ],
+      "usd": 26.49,
+      "antes": 26.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1875300",
+      "nombre": "Train Sim World® 7: German Regional Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4680800",
+          "nombre": "Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On"
+        },
+        {
+          "appid": "4714930",
+          "nombre": "Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On"
+        }
+      ],
+      "usd": 26.49,
+      "antes": 26.49,
+      "descuento": 0
+    },
+    {
+      "packageid": "1646702",
+      "nombre": "Train Sim World® 7: Deluxe Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4714890",
+          "nombre": "Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On"
+        },
+        {
+          "appid": "4680800",
+          "nombre": "Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On"
+        },
+        {
+          "appid": "4714930",
+          "nombre": "Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On"
+        },
+        {
+          "appid": "4680810",
+          "nombre": "Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On"
+        },
+        {
+          "appid": "4714920",
+          "nombre": "Train Sim World® 7: Northern BR Class 333 EMU Add-On"
+        },
+        {
+          "appid": "4714910",
+          "nombre": "Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On"
+        }
+      ],
+      "usd": 27.74,
+      "antes": 36.99,
+      "descuento": 25
+    },
+    {
+      "packageid": "1646704",
+      "nombre": "Train Sim World® 7: Ultimate Edition",
+      "apps": [
+        {
+          "appid": "4678800",
+          "nombre": "Train Sim World® 7 "
+        },
+        {
+          "appid": "4714890",
+          "nombre": "Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On"
+        },
+        {
+          "appid": "4680330",
+          "nombre": "Train Sim World® 7: Bahnstrecke Leipzig - Dresden Route Add-On"
+        },
+        {
+          "appid": "4680800",
+          "nombre": "Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On"
+        },
+        {
+          "appid": "4680370",
+          "nombre": "Train Sim World® 7: CrossCountry BR Class 220 Voyager DEMU Add-On"
+        },
+        {
+          "appid": "4680360",
+          "nombre": "Train Sim World® 7: DB BR 294 Diesel Shunter Add-On"
+        },
+        {
+          "appid": "4714930",
+          "nombre": "Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On"
+        },
+        {
+          "appid": "4680810",
+          "nombre": "Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On"
+        },
+        {
+          "appid": "4680320",
+          "nombre": "Train Sim World® 7: Morristown Line: New York & Hoboken - Dover Route Add-On"
+        },
+        {
+          "appid": "4680350",
+          "nombre": "Train Sim World® 7: NJ TRANSIT® ALP-45DP Loco Add-On"
+        },
+        {
+          "appid": "4714920",
+          "nombre": "Train Sim World® 7: Northern BR Class 333 EMU Add-On"
+        },
+        {
+          "appid": "4680340",
+          "nombre": "Train Sim World® 7: Riviera Line: Exeter – Plymouth & Paignton Route Add-On"
+        },
+        {
+          "appid": "4714910",
+          "nombre": "Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 59.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "4678800": {
+      "usd": 17.24,
+      "gratis": false
+    },
+    "4680320": {
+      "usd": 18.49,
+      "gratis": false
+    },
+    "4680330": {
+      "usd": 18.49,
+      "gratis": false
+    },
+    "4680340": {
+      "usd": 18.49,
+      "gratis": false
+    },
+    "4680350": {
+      "usd": 6.2,
+      "gratis": false
+    },
+    "4680360": {
+      "usd": 6.2,
+      "gratis": false
+    },
+    "4680370": {
+      "usd": 6.2,
+      "gratis": false
+    },
+    "4680800": {
+      "usd": 16.03,
+      "gratis": false
+    },
+    "4680810": {
+      "usd": 16.03,
+      "gratis": false
+    },
+    "4714890": {
+      "usd": 16.03,
+      "gratis": false
+    },
+    "4714910": {
+      "usd": 7.64,
+      "gratis": false
+    },
+    "4714920": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "4714930": {
+      "usd": 8.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 173,
+  "dlcLista": [
+    {
+      "appid": "4679380",
+      "nombre": "Train Sim World® 7: Southeastern Highspeed: London St Pancras – Ashford Intl & Faversham Route Add-On",
+      "gratis": false,
+      "usd": 1.84,
+      "descuento": 90
+    },
+    {
+      "appid": "4679270",
+      "nombre": "Train Sim World® 7: Northeast Corridor: Boston - Providence Route Add-On",
+      "gratis": false,
+      "usd": 1.44,
+      "descuento": 90
+    },
+    {
+      "appid": "4679600",
+      "nombre": "Train Sim World® 7: The Holiday Express - Runaway Elf",
+      "gratis": false,
+      "usd": 1.25,
+      "descuento": 80
+    },
+    {
+      "appid": "4680550",
+      "nombre": "Train Sim World® 7: West Coast Main Line: Birmingham - Crewe Route Add-On",
+      "gratis": false,
+      "usd": 9.24,
+      "descuento": 50
+    },
+    {
+      "appid": "4680540",
+      "nombre": "Train Sim World® 7: West Coast Main Line: Crewe - Preston Route Add-On",
+      "gratis": false,
+      "usd": 15.34,
+      "descuento": 17
+    },
+    {
+      "appid": "4680790",
+      "nombre": "Train Sim World® 7: Cargo Line Vol. 8 - Taschenwagen ",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4680780",
+      "nombre": "Train Sim World® 7: Cargo Line Vol. 7 - Vans ",
+      "gratis": false,
+      "usd": 8.55,
+      "descuento": 0
+    },
+    {
+      "appid": "4680650",
+      "nombre": "Train Sim World® 7: Freightliner BR Class 70 Add-On",
+      "gratis": false,
+      "usd": 9.95,
+      "descuento": 0
+    },
+    {
+      "appid": "4680530",
+      "nombre": "Train Sim World® 7: Tadami Line: Aizu-Wakamatsu - Tadami Route Add-On",
+      "gratis": false,
+      "usd": 18.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4714890",
+      "nombre": "Train Sim World® 7: Airedale & Wharfedale Network: Leeds & Bradford - Skipton & Ilkley Route Add-On",
+      "gratis": false,
+      "usd": 16.03,
+      "descuento": 20
+    },
+    {
+      "appid": "4680810",
+      "nombre": "Train Sim World® 7: Florida Tri-Rail: Miami - Boca Raton Route Add-On",
+      "gratis": false,
+      "usd": 16.03,
+      "descuento": 20
+    },
+    {
+      "appid": "4714920",
+      "nombre": "Train Sim World® 7: Northern BR Class 333 EMU Add-On",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4714910",
+      "nombre": "Train Sim World® 7: Tri-Rail GP49H-3 Loco Add-On",
+      "gratis": false,
+      "usd": 7.64,
+      "descuento": 20
+    },
+    {
+      "appid": "4680800",
+      "nombre": "Train Sim World® 7: Bahnstrecke Nürnberg - Würzburg Route Add-On",
+      "gratis": false,
+      "usd": 16.03,
+      "descuento": 20
+    },
+    {
+      "appid": "4714930",
+      "nombre": "Train Sim World® 7: DB BR 412 ICE 4 High Speed EMU Add-On",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4680590",
+      "nombre": "Train Sim World® 7: Schnellfahrstrecke Nürnberg - Ingolstadt Route Add-On",
+      "gratis": false,
+      "usd": 13.86,
+      "descuento": 25
+    },
+    {
+      "appid": "4714950",
+      "nombre": "Train Sim World® 7: Birmingham - Shrewsbury Route Add-On",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4714960",
+      "nombre": "Train Sim World® 7: East Coast Main Line: London King’s Cross - Peterborough Route Add-On",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4952520",
+      "nombre": "Train Sim World® 7: Cumbrian Coast: Carlisle - Whitehaven Route Add-On",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4714940",
+      "nombre": "Train Sim World® 7: Neckartalbahn: Heidelberg - Neckarelz Route Add-On",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4952530",
+      "nombre": "Train Sim World® 7: Lisbon - Setúbal Route Add-On",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4680750",
+      "nombre": "Train Sim World® 7: Thames Valley: Windsor, Henley & Marlow Branches Route Add-On",
+      "gratis": false,
+      "usd": 6.96,
+      "descuento": 30
+    },
+    {
+      "appid": "4680770",
+      "nombre": "Train Sim World® 7: Cargo Line Vol. 6 - Gas",
+      "gratis": false,
+      "usd": 6.84,
+      "descuento": 20
+    },
+    {
+      "appid": "4680740",
+      "nombre": "Train Sim World® 7: BNSF GP60M & GP60B Loco Add-On",
+      "gratis": false,
+      "usd": 6.68,
+      "descuento": 30
+    },
+    {
+      "appid": "4680670",
+      "nombre": "Train Sim World® 7: West Coast Main Line Trent Valley: Milton Keynes - Crewe Route Add-On",
+      "gratis": false,
+      "usd": 16.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4680760",
+      "nombre": "Train Sim World® 7: Great British Railways Class 802 BMU Add-On",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4680610",
+      "nombre": "Train Sim World® 7: GWR HST Farewell Pack",
+      "gratis": false,
+      "usd": 6.68,
+      "descuento": 30
+    },
+    {
+      "appid": "4680730",
+      "nombre": "Train Sim World® 7: DB BR 147 Loco Add-On",
+      "gratis": false,
+      "usd": 5.97,
+      "descuento": 40
+    },
+    {
+      "appid": "4680710",
+      "nombre": "Train Sim World® 7: BR Class 90 Electric Freight Loco Add-On",
+      "gratis": false,
+      "usd": 7.64,
+      "descuento": 20
+    },
+    {
+      "appid": "4680660",
+      "nombre": "Train Sim World® 7: Medway Valley Line: Strood - Tonbridge Route Add-On",
+      "gratis": false,
+      "usd": 14.79,
+      "descuento": 20
+    },
+    {
+      "appid": "4680690",
+      "nombre": "Train Sim World® 7: Northeast Corridor Metro-North: New York - Stamford Route Add-On",
+      "gratis": false,
+      "usd": 12.29,
+      "descuento": 40
+    },
+    {
+      "appid": "4680620",
+      "nombre": "Train Sim World® 7: Expert DB BR 145 Loco Add-On",
+      "gratis": false,
+      "usd": 12.94,
+      "descuento": 30
+    },
+    {
+      "appid": "4680500",
+      "nombre": "Train Sim World® 7: Liberec - Stará Paka Route Add-On",
+      "gratis": false,
+      "usd": 13.31,
+      "descuento": 35
+    },
+    {
+      "appid": "4680640",
+      "nombre": "Train Sim World® 7: Southern BR Class 171 & BR Class 377/3 Add-On",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "4680560",
+      "nombre": "Train Sim World® 7: Avanti West Coast BR Class 805 Evero BMU Add-On",
+      "gratis": false,
+      "usd": 6.96,
+      "descuento": 30
+    },
+    {
+      "appid": "4680680",
+      "nombre": "Train Sim World® 7: Frankenbahn: Stuttgart - Heilbronn Route Add-On",
+      "gratis": false,
+      "usd": 11.09,
+      "descuento": 40
+    },
+    {
+      "appid": "4680630",
+      "nombre": "Train Sim World® 7: Transport for Wales BR Class 142 Pacer DMU Add-On",
+      "gratis": false,
+      "usd": 6.68,
+      "descuento": 30
+    },
+    {
+      "appid": "4680450",
+      "nombre": "Train Sim World® 7: Cargo Line Vol. 5 - Nuclear",
+      "gratis": false,
+      "usd": 4.77,
+      "descuento": 50
+    },
+    {
+      "appid": "4680600",
+      "nombre": "Train Sim World® 7: Santa Fe on Cajon Pass Add-On",
+      "gratis": false,
+      "usd": 4.97,
+      "descuento": 50
+    },
+    {
+      "appid": "4680340",
+      "nombre": "Train Sim World® 7: Riviera Line: Exeter – Plymouth & Paignton Route Add-On",
+      "gratis": false,
+      "usd": 18.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Experimente la vida en las vías y descubra el deleite de la simulación de trenes. Ya sea si busca un recorrido relajante o si lo que busca es la emoción de dominar su carrera virtual como maquinista de tren, encuentre su propia camino en Train Sim World 7.",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "15 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Train Sim World® 7 ",
+  "acerca": [
+    [
+      "p",
+      "Experimente la vida en las vías y descubra el deleite de la simulación de trenes. Ya sea si busca un recorrido relajante o si lo que busca es la emoción de dominar su carrera virtual como maquinista de tren, encuentre su propia camino en Train Sim World 7 en una amplia gama de icónicas rutas y locomotoras."
+    ],
+    [
+      "h",
+      "🌴 EL ESTADO DEL SOL LE AGUARDA ☀️"
+    ],
+    [
+      "p",
+      "Navegue por primera vez las vías de Miami, Fort Lauderdale y más con FLORIDA TRI-RAIL, donde se presentan la Tri-Rail BL36PH, la F40PH y los vagones Rotem. Realice servicios de mercancías locales con tracción CSX y maniobre con balasto con la tolva Dura-Max Rock."
+    ],
+    [
+      "p",
+      "EDICIÓN DELUXE: Le aguardan duras tareas que requerirán equipamiento adicional en las vías de Miami con TRI-RAIL GP49H-3."
+    ],
+    [
+      "h",
+      "🍃 RUN TO THE YORKSHIRE HILLS (CORRA A LAS COLINAS DE YORKSHIRE)🐑"
+    ],
+    [
+      "p",
+      "Diríjase al norte de Inglaterra a través de las pintorescas colinas de Yorkshire con la AIREDALE & WHARFEDALE NETWORK, donde se presentan la Northern BR Class 331 y la LNER Azuma. Mantenga en marcha la industria de la cantera Rylstone con la BR Class 66 y la tolva de piedra caliza HYA."
+    ],
+    [
+      "p",
+      "EDICIÓN DELUXE: Cause sensación con la diversidad EMU mientras recorre las vías en la NORTHERN BR CLASS 333."
+    ],
+    [
+      "h",
+      "🏰 DIRECCIÓN BAVARIA ⛰️"
+    ],
+    [
+      "p",
+      "¡Ábrase paso por los picos bajos de Bavaria en emocionantes servicios de larga distancia y regionales con BAHNSTRECKE NÜRNBERG - WÜRZBURG en la DB BR 440, la DB BR 442 y la DB BR 193 Vectron!"
+    ],
+    [
+      "p",
+      "EDICIÓN DELUXE: ¡Acelere con estilo a través de las vías de alta velocidad alemanas con la ultra-moderna y favorita de los aficionados DB BR 412 ICE 4!"
+    ],
+    [
+      "h",
+      "🛠️ NUEVAS CARACTERÍSTICAS Y MEJORAS EXCLUSIVAS PARA PC 🖥️"
+    ],
+    [
+      "p",
+      "Encuentre nuevas formas de transportar cargo con FREIGHT HAULER (Transportista de mercancías)📦. Organice y reparta mercancías a su destino sin instrucciones ni horarios. Todo depende de sus decisiones y su estrategia mientras los vagones de mercancías pueblan la ruta, cada uno buscando su destino. Muévalos y maniobre con ellos como crea conveniente."
+    ],
+    [
+      "p",
+      "La previsión del tiempo cobra vida con CLIMA EN VIVO🌤️, con el clima en el juego generado por datos específicos y en vivo de la ubicación, lo que le introduce en la acción exactamente como sucede en el mundo real. La siguiente tarea le aguarda, sean cuales sean las condiciones meteorológicas."
+    ],
+    [
+      "p",
+      "¡Lleve las cosas un paso más allá con realismo mejorado habilitando por defecto los sistemas de seguridad! Ahora, si así lo elige, entre en la cabina y vea que el AWS, el PZB y demás ya están habilitados, lo que a menudo suele ocurrir al coger el mando de un tren, o mantenga las cosas tal y como son si prefiere un recorrido relajante o aún quiere habilitarlos usted mismo."
+    ],
+    [
+      "p",
+      "Lleve las cosas más allá con un nuevo nivel de configuración «Épico», lo que permite sacar mayor rendimiento del hardware moderno ampliando las distancias de renderizado y mejorando la calidad de las sombras. Además de esto, Train Sim World 7 ahora se ejectua en DirectX 12, es compatible con DLSS 4.5 y añade DLAA y upscaling (o escalado), así como FSR 4 para upscaling y generación de fotogramas. Mejore al máximo el aspecto visual con una nueva opción de Iluminación mejorada para todas las rutas TOD4.✅"
+    ],
+    [
+      "p",
+      "¡De inmediato, maquinista! En los trenes en los que hay revisores, ahora pueden abrir y cerrar las puertas, aumentando el realismo en las operaciones maquinista-revisor."
+    ],
+    [
+      "h",
+      "🎨 ENCUENTRE SU PROPIO CAMINO 📸"
+    ],
+    [
+      "p",
+      "Embárquese en su propio viaje y a su manera con una amplia gama de características, como el Modo fotografía, el Salto entre rutas y muchas más."
+    ],
+    [
+      "p",
+      "🐦 RECORRIDO LIBRE: ¡Elija su propio camino y explore cualquier ruta con sus trenes favoritos! Tenga las vías a su entera disposición o sumérjase en la programación, circulando entre servicios programados mientras realiza sus propios trayectos ad hoc."
+    ],
+    [
+      "p",
+      "👨‍✈️ MODO REVISOR: ¡Billetes, por favor! Disfrute de un ritmo diferente en trenes supervisados por un revisor: compruebe los billetes entre cada estación y maneje las puertas de los viajeros para despachar el servicio en condiciones de seguridad. Tómese un momento para disfrutar del paisaje en los tramos largos entre estaciones."
+    ],
+    [
+      "p",
+      "👨‍🎨 CREATORS CLUB: ¡Póngase creativo y personalice su experiencia! Utilice el DISEÑADOR DE LIBREAS para dar vida a sus propios diseños, y el DISEÑADOR DE COMPOSICIONES para crear trenes personalizados en base a su colección. ¡Ponga sus creaciones en marcha con Recorrido libre y el Planificador de escenarios, o comparta sus creaciones online! (Es necesario crear una cuenta de Dovetail Live)."
+    ],
+    [
+      "h",
+      "🚂 SU COLECCIÓN, A SU MODO 🚅"
+    ],
+    [
+      "p",
+      "Disfrute del juego con las diferentes ediciones:"
+    ],
+    [
+      "p",
+      "La FREE STARTER EDITION le introduce en Train Sim World 7 con el Centro de Formación."
+    ],
+    [
+      "p",
+      "La STANDARD EDITION (Edición estándar) 🥉 viene con 3 nuevas rutas, la DELUXE EDITION (Edición deluxe)🥈 también incluye nuevos trenes, y la ULTIMATE EDITION (Edición Ultimate)🥇 viene con un conjunto adicional de contenido compatible con TSW7."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Opciones de subtítulos",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690 @ 3.5 GHz or AMD Ryzen 5 1500X @ 3.7 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti or AMD Radeon RX 460 with 2 GB VRAM or more"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller + DLSS/FSR is only available on supported hardware"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K @ 3.7 GHz or AMD Ryzen 5 3600 @ 3.6 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 6 GB or AMD Radeon RX 5700 with 8 GB VRAM or more"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller + DLSS/FSR is only available on supported hardware"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/fb4d692354fcdfbc87f871429b4a0df1a0ab5865/ss_fb4d692354fcdfbc87f871429b4a0df1a0ab5865.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/fb4d692354fcdfbc87f871429b4a0df1a0ab5865/ss_fb4d692354fcdfbc87f871429b4a0df1a0ab5865.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/1532bf21b63414973e61ff1e49409ea2b07ae8fe/ss_1532bf21b63414973e61ff1e49409ea2b07ae8fe.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/1532bf21b63414973e61ff1e49409ea2b07ae8fe/ss_1532bf21b63414973e61ff1e49409ea2b07ae8fe.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/3b3c60c4c90d31e31b0887fc02ca06d37697dccf/ss_3b3c60c4c90d31e31b0887fc02ca06d37697dccf.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/3b3c60c4c90d31e31b0887fc02ca06d37697dccf/ss_3b3c60c4c90d31e31b0887fc02ca06d37697dccf.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/4bc68f174a7fae18e86c0d312392936303b0a320/ss_4bc68f174a7fae18e86c0d312392936303b0a320.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/4bc68f174a7fae18e86c0d312392936303b0a320/ss_4bc68f174a7fae18e86c0d312392936303b0a320.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/8bfc0ad26d1b600b384515a89608b178ad9b0ae8/ss_8bfc0ad26d1b600b384515a89608b178ad9b0ae8.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/8bfc0ad26d1b600b384515a89608b178ad9b0ae8/ss_8bfc0ad26d1b600b384515a89608b178ad9b0ae8.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/2e6dc52bebc425233a9415a64d511825db34d01a/ss_2e6dc52bebc425233a9415a64d511825db34d01a.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/2e6dc52bebc425233a9415a64d511825db34d01a/ss_2e6dc52bebc425233a9415a64d511825db34d01a.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/05412ad580a77e23adc5896c1c8bbc900f52fdd1/ss_05412ad580a77e23adc5896c1c8bbc900f52fdd1.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/05412ad580a77e23adc5896c1c8bbc900f52fdd1/ss_05412ad580a77e23adc5896c1c8bbc900f52fdd1.1920x1080.jpg?t=1795430031"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/0579afae61e48589ccb76c10fc3771d57bcb7e34/ss_0579afae61e48589ccb76c10fc3771d57bcb7e34.600x338.jpg?t=1795430031",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4678800/0579afae61e48589ccb76c10fc3771d57bcb7e34/ss_0579afae61e48589ccb76c10fc3771d57bcb7e34.1920x1080.jpg?t=1795430031"
+    }
+  ],
+  "web": "http://trainsimworld.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 414945,
+  "youtube": [
+    {
+      "id": "4Rw7K1ENOfM",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "6lY7CsAJSO0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:20:23.211Z"
+}

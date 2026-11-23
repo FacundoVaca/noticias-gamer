@@ -23,17 +23,15 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><article class="nota inst"><h1>Política editorial</h1>
+<h2>Qué publicamos</h2>
+<p>Noticias de videojuegos: anuncios, lanzamientos, actualizaciones, hardware, negocios de la industria y eSports. También publicamos notas de servicio: soluciones a errores y fallas, y listados de ofertas con los precios y enlaces tal como los publican las tiendas o los medios citados. No publicamos contenido patrocinado sin aclararlo ni rumores sin indicar que lo son.</p>
+<h2>Fuentes</h2>
+<p>Priorizamos comunicados oficiales y noticias confirmadas por más de un medio. Todas las fuentes usadas se enlazan al pie de cada nota.</p>
+<h2>Uso de inteligencia artificial</h2>
+<p>Las notas se redactan con asistencia de IA a partir de las fuentes citadas. El sistema tiene instrucciones de no inventar datos, cifras ni citas, y cada texto pasa controles automáticos que descartan notas demasiado cortas o que repitan frases textuales de las fuentes.</p>
+<h2>Correcciones</h2>
+<p>Si encontrás un error, escribinos a <a href="mailto:contacto@bolsillo.online">contacto@bolsillo.online</a>. Corregimos lo antes posible y actualizamos la fecha de la nota.</p></article><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

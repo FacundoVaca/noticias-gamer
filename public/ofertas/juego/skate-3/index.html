@@ -23,17 +23,63 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/xbox/">Xbox</a> › <span>Skate 3</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://store-images.s-microsoft.com/image/apps.25388.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.7d99d88b-5b61-4951-9de7-34e5ddad1df2?w=400" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="Skate 3" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>Skate 3</h1>
+
+<p class="j-sub">En oferta en Xbox.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="19.9" data-original="199" data-moneda="ARS">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#7ee07e">Xbox</span><span class="o-plat">Xbox One</span><span class="o-plat">Xbox Series X|S</span></div>
+<div class="j-of-precio"><span class="j-ars-val">$20</span><span class="o-desc">-90%</span><s>$199</s><span class="j-ars-nota">precio de la tienda, sin impuestos</span></div>
+<ul class="j-datos"><li>Oferta hasta el 3 dic</li><li>Incluido en Game Pass</li></ul>
+<a class="j-btn" href="https://www.xbox.com/es-AR/games/store/Skate-3/BNKDKQXMXRR2" rel="nofollow noopener sponsored" target="_blank">Ver en Xbox</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-vid-tit">Videos</a><a href="#j-cap-tit">Capturas</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre Skate 3</h2>
+<p class="j-lead">La franquicia SKATE™ vuelve a rodar de nuevo en un territorio distinto, ya que SKATE™ 3 se traslada a la ciudad de Port Carverton. En esta incomparable experiencia de skateboarding cooperativo podrás crear tu propio equipo de skate personalizado y cambiar el aspecto de la ciudad en inigualables desafíos de equipo, y competir contra equipos rivales online mientras arrasas las calles de este nuevo paraíso del skate. SKATE™ 3 - La unión hace la fuerza.</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>Electronic Arts Blackbox</dd></div><div><dt>Editora</dt><dd>Electronic Arts</dd></div><div><dt>Lanzamiento</dt><dd>23 de septiembre de 2014</dd></div><div><dt>Géneros</dt><dd>Deportes</dd></div><div><dt>Plataformas en oferta</dt><dd>Xbox One y Xbox Series X|S</dd></div></dl>
+<h3 class="j-res-tit">Reseñas y puntajes</h3><div class="j-res-grid"><div class="j-res"><span class="j-res-f">Usuarios de Microsoft Store</span><span class="j-res-v">4,6<small>/5</small></span><span class="j-res-n">Promedio de estrellas de compradores en Xbox (10.815 valoraciones).</span></div></div>
+
+
+
+</section>
+<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid"><figure><button class="j-yt" type="button" data-id="4gzoQGwizhA" aria-label="Reproducir Gameplay Trailer de Skate 3"><img src="https://i.ytimg.com/vi/4gzoQGwizhA/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Gameplay Trailer</figcaption></figure><figure><button class="j-yt" type="button" data-id="xhWPSb0XBFU" aria-label="Reproducir Launch Trailer de Skate 3"><img src="https://i.ytimg.com/vi/xhWPSb0XBFU/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Launch Trailer</figcaption></figure></div>
+<p class="mini">Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir.</p>
+</section>
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://store-images.s-microsoft.com/image/apps.1164.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.93d3662b-92b9-44b9-9eb1-44299a73b730?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.1164.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.93d3662b-92b9-44b9-9eb1-44299a73b730?w=600" alt="Captura de Skate 3 (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.47296.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.1da38618-63a3-4a08-9091-2d740315ef63?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.47296.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.1da38618-63a3-4a08-9091-2d740315ef63?w=600" alt="Captura de Skate 3 (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.54187.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.7999385b-9977-4730-9f87-ebcb0a976292?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.54187.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.7999385b-9977-4730-9f87-ebcb0a976292?w=600" alt="Captura de Skate 3 (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.50010.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.94d3d89a-c6c2-4f2b-ba95-97347460480e?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.50010.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.94d3d89a-c6c2-4f2b-ba95-97347460480e?w=600" alt="Captura de Skate 3 (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.24316.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.23daef83-e347-4b60-ae53-36a075483c81?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.24316.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.23daef83-e347-4b60-ae53-36a075483c81?w=600" alt="Captura de Skate 3 (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.37924.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.f5d91d6e-18bd-4b76-ad22-ec98513ad01e?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.37924.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.f5d91d6e-18bd-4b76-ad22-ec98513ad01e?w=600" alt="Captura de Skate 3 (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.50705.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.4c95a1f5-0b8c-4a96-8c69-0e6d1b38c11a?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.50705.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.4c95a1f5-0b8c-4a96-8c69-0e6d1b38c11a?w=600" alt="Captura de Skate 3 (7)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.22247.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.334c3223-8c6d-465c-926f-666436ab0b6e?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.22247.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.334c3223-8c6d-465c-926f-666436ab0b6e?w=600" alt="Captura de Skate 3 (8)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos (Xbox)</h2><ul class="j-lista"><li>Mejorado para Xbox Series X|S</li><li>Xbox Network</li></ul></div>
+
+</section>
+
+
+
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, Microsoft Store y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 1 día registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días.</p>
+<div class="j-hist-t"><h3>Historial de precio en Xbox</h3><p>Seguimos el precio de Skate 3 en Xbox desde el 23 de noviembre de 2026 (1 día de registro). En todos los días con oferta que registramos costó $20.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/xbox/">Ver todas las ofertas de Xbox</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

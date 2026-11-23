@@ -1,9 +1,9 @@
 {
   "clave": "the legend of heroes trails through daybreak",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-7597-705a-a0cc-9253b8777f19",
   "appid": "2138610",
@@ -52,6 +52,80 @@
       "url": "https://opencritic.com/game/16923/the-legend-of-heroes-trails-through-daybreak"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "835219",
+      "nombre": "The Legend of Heroes: Trails through Daybreak",
+      "apps": [
+        {
+          "appid": "2138610",
+          "nombre": "The Legend of Heroes: Trails through Daybreak"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 29.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2138610": {
+      "usd": 17.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "2259910",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Bonus Set",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2259911",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Costume Set",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 40
+    },
+    {
+      "appid": "2259912",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Accessories Set",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 40
+    },
+    {
+      "appid": "2259913",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Voice Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 40
+    },
+    {
+      "appid": "2259914",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Starter Consumable Set",
+      "gratis": false,
+      "usd": 3.89,
+      "descuento": 40
+    },
+    {
+      "appid": "2259915",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Advanced Consumable Set",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 40
+    },
+    {
+      "appid": "2259916",
+      "nombre": "The Legend of Heroes: Trails through Daybreak - Free Sample Set",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
   "descripcion": "The spriggan known as Van Arkride, an underground professional, accepts any job, acting as detective, negotiator, or bounty hunter. Dive into the Trails series' latest chapter with intense combat, beautiful visuals, and a new alignment system in Calvard!",
   "generos": [
     "Acción",
@@ -60,6 +134,7 @@
   ],
   "lanzamientoTexto": "1 MAR 2023",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Legend of Heroes: Trails through Daybreak",
   "acerca": [
     [
@@ -142,11 +217,13 @@
   "idiomas": [
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -249,5 +326,30 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138610/ss_e8217ce07a82bcc95470ca155195c2af051ae543.1920x1080.jpg?t=1760582673"
     }
   ],
-  "consultado": "2026-11-22T22:17:23.157Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 141833,
+  "youtube": [
+    {
+      "id": "M4w53fPGHck",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VGH9oMexgh8",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "AuCQDCZPby0",
+      "nombre": "Game Intro"
+    },
+    {
+      "id": "aL7E_fCLJ4w",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:22:01.019Z"
 }

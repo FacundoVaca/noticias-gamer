@@ -1,0 +1,436 @@
+{
+  "clave": "mechwarrior 5 mercenaries",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-426e-7234-8b8b-4c331a91412b",
+  "appid": "784080",
+  "lanzamiento": "2019-12-10",
+  "desarrolladores": [
+    "Piranha Games Inc.",
+    "Piranha Games"
+  ],
+  "editores": [
+    "Fireshine Games",
+    "Sold Out Sales & Marketing Ltd.",
+    "Piranha Games Inc.",
+    "Piranha Games"
+  ],
+  "etiquetas": [
+    "Mechs",
+    "Simulation",
+    "FPS",
+    "Action",
+    "Shooter"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 13498,
+      "url": "https://store.steampowered.com/app/784080/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 73,
+      "cantidad": 34,
+      "url": "https://metacritic.com/game/mechwarrior-5-mercenaries/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 55,
+      "cantidad": 310,
+      "url": "https://metacritic.com/game/mechwarrior-5-mercenaries/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 64,
+      "url": "https://opencritic.com/game/7412/mechwarrior-5-mercenaries"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "236580",
+      "nombre": "MechWarrior 5: Mercenaries",
+      "apps": [
+        {
+          "appid": "784080",
+          "nombre": "MechWarrior 5: Mercenaries"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "784080": {
+      "usd": 3.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "4849350",
+      "nombre": "MechWarrior 5: Mercenaries - Ashes and Ascension",
+      "gratis": false,
+      "usd": 9.89,
+      "descuento": 10
+    },
+    {
+      "appid": "4371500",
+      "nombre": "MechWarrior 5: Mercenaries - Chaos Reign",
+      "gratis": false,
+      "usd": 8.79,
+      "descuento": 20
+    },
+    {
+      "appid": "3799610",
+      "nombre": "MechWarrior 5: Mercenaries - Shadow of Kerensky",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2782050",
+      "nombre": "MechWarrior 5: Mercenaries - Solaris Showdown",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 60
+    },
+    {
+      "appid": "2489020",
+      "nombre": "MechWarrior 5: Mercenaries - The Dragon's Gambit",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 60
+    },
+    {
+      "appid": "2179800",
+      "nombre": "MechWarrior 5: Mercenaries - Rise of Rasalhague",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1969380",
+      "nombre": "MechWarrior 5: Mercenaries - Call to Arms",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1456180",
+      "nombre": "MechWarrior 5: Mercenaries - Heroes of the Inner Sphere",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1705820",
+      "nombre": "MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 60
+    },
+    {
+      "appid": "1456210",
+      "nombre": "MechWarrior 5: Mercenaries - Digital Extras Content",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 60
+    }
+  ],
+  "descripcion": "The year is 3015. The battlefields are dominated by war machines known as BattleMechs. Level entire cities and decimate the enemy in your BattleMech. Follow a quest for glory and revenge. Manage an expanding mercenary company. Fight alongside your friends with a four-player PvE co-op.",
+  "generos": [
+    "Acción",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "26 MAY 2021",
+  "metacritic": {
+    "puntaje": 73,
+    "url": "https://www.metacritic.com/game/pc/mechwarrior-5-mercenaries?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "MechWarrior 5: Mercenaries",
+  "acerca": [
+    [
+      "p",
+      "CONVIÉRTETE EN TU PROPIA ARMA DE GUERRA"
+    ],
+    [
+      "p",
+      "¡Te damos la bienvenida al año 3015! Es una época tremenda para vivir."
+    ],
+    [
+      "p",
+      "La humanidad ha colonizado miles de sistemas estelares que abarcan una vasta región del espacio conocida como la Inner Sphere. La edad dorada de la cooperación y el avance ya es un lejano recuerdo, y la humanidad ha vuelto a dividirse en distintas facciones que luchan por la supremacía."
+    ],
+    [
+      "p",
+      "En mitad de estas Guerras de Sucesión, los mercenarios sedientos de poder como tú estáis en una posición privilegiada para aprovecharos a lo grande. Es un trabajo peligroso, pero para eso estás aquí, ¿no? Si tienes ganas de aplastar, destrozar, machacar y desatar toda tu furia, ¡pasa y conviértete en tu propia arma de guerra!"
+    ],
+    [
+      "p",
+      "HISTORIA"
+    ],
+    [
+      "p",
+      "Tras heredar una compañía de mercenarios destacada en su época y renacida de las llamas de su destrucción casi total a manos de facciones confabuladas, tu búsqueda de gloria y venganza se extenderá a lo largo de años luz mientras buscas los hilos de una intriga interestelar en tu viaje para convertirte en MechWarrior de élite y comandante mercenario."
+    ],
+    [
+      "p",
+      "LA INNER SPHERE"
+    ],
+    [
+      "p",
+      "Hogar de miles de sistemas estelares y toda una panoplia de impresionantes biomas, la Inner Sphere hierve de actividad, propósito, consecuencia y variedad. Se capturarán y reclamarán sistemas, se desarrollarán importantes acontecimientos y saldrán a la luz nuevas tecnologías."
+    ],
+    [
+      "p",
+      "Los rigores de la guerra se verán con el paso de las semanas, a medida que tus relaciones con las distintas facciones fluctúen de acuerdo a las implacables Guerras de Sucesión y tus decisiones como líder de un grupo de mercenarios."
+    ],
+    [
+      "p",
+      "JUEGO"
+    ],
+    [
+      "p",
+      "Los campos de batalla del futuro están dominados por los BattleMechs, colosales máquinas de guerra capaces de devastar ciudades enteras. Como piloto de un BattleMech, sembrarás el caos entre los 'Mechs y objetivos enemigos, incluyendo tanques, vehículos terrestres, aeronaves, defensas avanzadas y bases reforzadas."
+    ],
+    [
+      "p",
+      "Pocas cosas pueden resistir por mucho tiempo el poder de un 'Mech, y los mundos de la Inner Sphere son auténticos campos de destrucción que esperan tu defensa blindada o tu devastación aplastante."
+    ],
+    [
+      "p",
+      "BATTLEMECHS"
+    ],
+    [
+      "p",
+      "\"Con más de 50 chasis de 'Mech únicos y cientos de subvariantes, todas reproducidas al detalle con modelos de alta fidelidad, estados de daño y equipo, no hay dos 'Mechs iguales."
+    ],
+    [
+      "p",
+      "Ya sea barriendo los mercados de la Inner Sphere para adquirir equipo y chasis raros y valiosos, o bien saqueando directamente los despojos de los enemigos que has aniquilado y el botín de guerra, el mantenimiento y la operación de tus BattleMechs será vital para tu éxito como MechWarrior y como comandante de un grupo de mercenarios.\""
+    ],
+    [
+      "p",
+      "LA VIDA DEL MERCENARIO"
+    ],
+    [
+      "p",
+      "Fuera del campo de batalla, como líder de una compañía de mercenarios tendrás que gestionar todos los componentes clave de la administración de una unidad."
+    ],
+    [
+      "p",
+      "Tendrás que mantener y adquirir 'Mechs y equipo, contratar y desplegar MechWarriors de toda la Inner Sphere para que te acompañen en el campo de batalla y gestionar tus relaciones con las Great Houses de la Inner Sphere, pues todas compiten por tu contribución a sus abrumadoras campañas bélicas."
+    ],
+    [
+      "p",
+      "Como es natural, cada contrato requiere negociación, y cada victoria conlleva consecuencias."
+    ],
+    [
+      "p",
+      "OTRAS CARACTERÍSTICAS"
+    ],
+    [
+      "p",
+      "Con la gigantesca escala de la Inner Sphere y su complejo sistema de generación de mundos que ofrece una enorme variedad y rejugabilidad la experiencia de MechWarrior 5: Mercenaries es inagotable. Fuera de la campaña, un sistema de acción instantánea repleto de opciones te permitirá personalizar e iniciar misiones aisladas en cualquier momento, sin las restricciones de la campaña."
+    ],
+    [
+      "p",
+      "Con un modo cooperativo para cuatro jugadores disponible tanto en la campaña como en el sistema de acción instantánea, puedes experimentar el universo de MechWarrior 5: Mercenaries en toda su amplitud junto a tus amigos."
+    ],
+    [
+      "p",
+      "¡Los mods expanden el juego aún más! Desata la creatividad ilimitada de la comunidad para alterar y ampliar el juego de formas asombrosas. Con un completo editor y una interfaz para crear mods de juego desde el principio, tu creatividad no tendrá límites."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-7100/AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 770/AMD Radeon R9 280X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "80 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Broadband internet connection is needed to play and host Co-op games. Internet Connection is NOT Required for Single player once the game is downloaded."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit version)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K/AMD Ryzen 7 1700"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070/AMD RX Vega 56"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "80 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Broadband internet connection is needed to play and host Co-op games. Internet Connection is NOT Required for Single player once the game is downloaded."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_fc28a3cfc03fcde4f58f94f65dfeecfd302ccb04.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_fc28a3cfc03fcde4f58f94f65dfeecfd302ccb04.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_087e39da0e8bc229aa7c24845dffab8c803e4df6.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_087e39da0e8bc229aa7c24845dffab8c803e4df6.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_43dabfd854a8072b93de8bb516ea3119d3154b22.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_43dabfd854a8072b93de8bb516ea3119d3154b22.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_c3fdc0a19ef8cc710352190d83b9d8858d47553b.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_c3fdc0a19ef8cc710352190d83b9d8858d47553b.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_b08c959c139342246c742504129dbfdfdd38dc04.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_b08c959c139342246c742504129dbfdfdd38dc04.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_7ad09dce9856d392cf52fbac4602826566e66e85.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_7ad09dce9856d392cf52fbac4602826566e66e85.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_c2ec7c5db1bdc7406ed62b60c7a67569cfbb688d.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_c2ec7c5db1bdc7406ed62b60c7a67569cfbb688d.1920x1080.jpg?t=1791309626"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_4d98ff9ec909e4864aa306cf1762a8a3fc92ffff.600x338.jpg?t=1791309626",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784080/ss_4d98ff9ec909e4864aa306cf1762a8a3fc92ffff.1920x1080.jpg?t=1791309626"
+    }
+  ],
+  "web": "https://mw5mercs.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "MechWarrior 5: Mercenaries contains vehicular combat violence and building destruction.",
+  "igdbIntentado": true,
+  "igdb": 26227,
+  "youtube": [
+    {
+      "id": "E6ZK-zJsUKA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Gz8Y1V8gy1A",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "vCXcFJBb6BM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ztqhTjLVfgs",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:20:56.313Z"
+}

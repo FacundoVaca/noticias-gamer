@@ -1,0 +1,637 @@
+{
+  "clave": "europa universalis iv",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-07fc-72ed-8517-d8e24cb1eb22",
+  "appid": "236850",
+  "lanzamiento": "2013-08-13",
+  "desarrolladores": [
+    "Paradox",
+    "Paradox Development Studio",
+    "Paradox Tinto",
+    "Paradox Development Studio / Paradox Tinto"
+  ],
+  "editores": [
+    "Paradox Interactive AB",
+    "Paradox Interactive",
+    "Paradox",
+    "Paradox Development Studio"
+  ],
+  "etiquetas": [
+    "Grand Strategy",
+    "Strategy",
+    "Historical",
+    "Simulation",
+    "4X"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 91176,
+      "url": "https://store.steampowered.com/app/236850/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 34,
+      "url": "https://metacritic.com/game/europa-universalis-iv/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 1818,
+      "url": "https://metacritic.com/game/europa-universalis-iv/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1134298",
+      "nombre": "Europa Universalis IV: Starter Edition",
+      "apps": [
+        {
+          "appid": "236850",
+          "nombre": "Europa Universalis IV"
+        },
+        {
+          "appid": "625171",
+          "nombre": "Europa Universalis IV: Digital Extreme Edition Upgrade Pack"
+        },
+        {
+          "appid": "310031",
+          "nombre": "Expansion - Europa Universalis IV: Art of War"
+        },
+        {
+          "appid": "338163",
+          "nombre": "Expansion - Europa Universalis IV: Common Sense"
+        },
+        {
+          "appid": "241369",
+          "nombre": "Expansion - Europa Universalis IV: Conquest of Paradise"
+        },
+        {
+          "appid": "338160",
+          "nombre": "Expansion - Europa Universalis IV: El Dorado"
+        },
+        {
+          "appid": "279623",
+          "nombre": "Expansion - Europa Universalis IV: Res Publica"
+        },
+        {
+          "appid": "486570",
+          "nombre": "Expansion - Europa Universalis IV: Rights of Man"
+        },
+        {
+          "appid": "373370",
+          "nombre": "Expansion - Europa Universalis IV: The Cossacks"
+        },
+        {
+          "appid": "279620",
+          "nombre": "Expansion - Europa Universalis IV: Wealth of Nations"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 41.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "977591",
+      "nombre": "Europa Universalis IV",
+      "apps": [
+        {
+          "appid": "236850",
+          "nombre": "Europa Universalis IV"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 34.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "236850": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "241369": {
+      "usd": 3.14,
+      "gratis": false
+    },
+    "279620": {
+      "usd": 2.09,
+      "gratis": false
+    },
+    "279623": {
+      "usd": 1.04,
+      "gratis": false
+    },
+    "310031": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "338160": {
+      "usd": 3.14,
+      "gratis": false
+    },
+    "338163": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "373370": {
+      "usd": 4.19,
+      "gratis": false
+    },
+    "486570": {
+      "usd": 8.39,
+      "gratis": false
+    },
+    "625171": {
+      "usd": 8.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 33,
+  "dlcLista": [
+    {
+      "appid": "1896050",
+      "nombre": "Europa Universalis IV - Expansion Subscription",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2854750",
+      "nombre": "Expansion - Europa Universalis IV: Winds of Change",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2502910",
+      "nombre": "Immersion Pack - Europa Universalis IV: King of Kings",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 20
+    },
+    {
+      "appid": "2223660",
+      "nombre": "Expansion - Europa Universalis IV: Domination",
+      "gratis": false,
+      "usd": 11.19,
+      "descuento": 20
+    },
+    {
+      "appid": "2012010",
+      "nombre": "Immersion Pack - Europa Universalis IV: Lions of the North",
+      "gratis": false,
+      "usd": 6.81,
+      "descuento": 35
+    },
+    {
+      "appid": "1416420",
+      "nombre": "Expansion - Europa Universalis IV: Leviathan",
+      "gratis": false,
+      "usd": 9.09,
+      "descuento": 35
+    },
+    {
+      "appid": "1259360",
+      "nombre": "Expansion - Europa Universalis IV: Emperor",
+      "gratis": false,
+      "usd": 9.09,
+      "descuento": 35
+    },
+    {
+      "appid": "827240",
+      "nombre": "Expansion - Europa Universalis IV: Dharma",
+      "gratis": false,
+      "usd": 9.09,
+      "descuento": 35
+    },
+    {
+      "appid": "721340",
+      "nombre": "Expansion - Europa Universalis IV: Cradle of Civilization",
+      "gratis": false,
+      "usd": 7.69,
+      "descuento": 45
+    },
+    {
+      "appid": "538020",
+      "nombre": "Expansion - Europa Universalis IV: Mandate of Heaven",
+      "gratis": false,
+      "usd": 9.09,
+      "descuento": 35
+    },
+    {
+      "appid": "436120",
+      "nombre": "Expansion - Europa Universalis IV: Mare Nostrum",
+      "gratis": false,
+      "usd": 6.81,
+      "descuento": 35
+    },
+    {
+      "appid": "373370",
+      "nombre": "Expansion - Europa Universalis IV: The Cossacks",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 70
+    },
+    {
+      "appid": "338160",
+      "nombre": "Expansion - Europa Universalis IV: El Dorado",
+      "gratis": false,
+      "usd": 3.14,
+      "descuento": 70
+    },
+    {
+      "appid": "279623",
+      "nombre": "Expansion - Europa Universalis IV: Res Publica",
+      "gratis": false,
+      "usd": 1.04,
+      "descuento": 70
+    },
+    {
+      "appid": "279620",
+      "nombre": "Expansion - Europa Universalis IV: Wealth of Nations",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 70
+    },
+    {
+      "appid": "241369",
+      "nombre": "Expansion - Europa Universalis IV: Conquest of Paradise",
+      "gratis": false,
+      "usd": 3.14,
+      "descuento": 70
+    },
+    {
+      "appid": "1756130",
+      "nombre": "Immersion Pack - Europa Universalis IV: Origins",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 40
+    },
+    {
+      "appid": "960920",
+      "nombre": "Immersion Pack - Europa Universalis IV: Golden Century",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 40
+    },
+    {
+      "appid": "760070",
+      "nombre": "Immersion Pack - Europa Universalis IV: Rule Britannia",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 40
+    },
+    {
+      "appid": "625050",
+      "nombre": "Immersion Pack - Europa Universalis IV: Third Rome",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 40
+    },
+    {
+      "appid": "2721310",
+      "nombre": "Europa Universalis IV: Ultimate Sprite Pack",
+      "gratis": false,
+      "usd": 16.79,
+      "descuento": 20
+    },
+    {
+      "appid": "617960",
+      "nombre": "Collection - Europa Universalis IV: Ultimate Music Pack",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 60
+    },
+    {
+      "appid": "617961",
+      "nombre": "Collection - Europa Universalis IV: Ultimate E-book Pack",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 60
+    },
+    {
+      "appid": "2412250",
+      "nombre": "Europa Universalis IV: China History Lessons",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2412251",
+      "nombre": "Europa Universalis IV: Japan History Lessons",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2591320",
+      "nombre": "Europa Universalis IV: Sounds from the Community - Kairi Soundtrack Part III",
+      "gratis": false,
+      "usd": 1.74,
+      "descuento": 50
+    },
+    {
+      "appid": "2602580",
+      "nombre": "Europa Universalis IV: Utopia Holy Roman Empire Music Pack",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 0
+    },
+    {
+      "appid": "1756190",
+      "nombre": "Europa Universalis IV: Guns, Drums and Steel Volume 3 Music Pack",
+      "gratis": false,
+      "usd": 1.39,
+      "descuento": 60
+    },
+    {
+      "appid": "338162",
+      "nombre": "Europa Universalis IV: Guns, Drums and Steel Volume 2 Music Pack",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 60
+    },
+    {
+      "appid": "2504220",
+      "nombre": "Europa Universalis IV: 10th Anniversary Community Music Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "241373",
+      "nombre": "Europa Universalis IV: Songs of Yuletide",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "414301",
+      "nombre": "Europa Universalis IV: Catholic Majors Unit Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "539260",
+      "nombre": "Europa Universalis IV: Evangelical Majors Unit Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Gobierna tu territorio y domina el mundo con libertad, profundidad y rigor histórico sin precedentes. Reescribe la historia del mundo y construye un imperio para la posteridad.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "13 AGO 2013",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/europa-universalis-iv?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "Europa Universalis IV",
+  "acerca": [
+    [
+      "p",
+      "Desarrollada por Paradox Tinto, la cuarta entrega de la galardonada saga Europa Universalis ofrece la oportunidad de controlar cualquier nación del mundo y liderarla durante cuatro agitados siglos; desde el final de la Edad Media hasta la culminación de la era napoleónica. Gobierna tu territorio y domina el mundo con libertad, profundidad y rigor histórico sin precedentes. Reescribe la historia del mundo y construye un imperio para la posteridad."
+    ],
+    [
+      "p",
+      "Europa Universalis IV incluye el juego principal, tres paquetes de expansión y un paquete estético recopilatorio."
+    ],
+    [
+      "p",
+      "Europa Universalis IV: Controla cualquier nación del mundo durante cuatro siglos y reescribe la historia de la humanidad desde la Edad de los Descubrimientos hasta la Edad de la Revolución. Amasa riquezas, tierras y prestigio en una lucha encarnizada por la dominación mundial."
+    ],
+    [
+      "p",
+      "Art of War: Ambientada en la Guerra de los Treinta Años y en la creciente inestabilidad política entre Iglesia y Estado, esta expansión presenta mecánicas mejoradas para dominar el continente mediante la guerra."
+    ],
+    [
+      "p",
+      "Common Sense: Esta expansión incide en la diplomacia y el desarrollo interno de naciones. Permite desarrollar tu nación en paz y erigir un imperio de envergadura, además de ofrecer herramientas para tomar grandes medidas diplomáticas, con funciones religiosas revolucionarias que añaden profundidad e intriga al juego."
+    ],
+    [
+      "p",
+      "Rights of Man: Esta expansión dota de más profundidad y detalle a una gran cantidad de sistemas. Las nuevas opciones diplomáticas de gran potencia otorgan más flexibilidad, los rasgos de personalidad de los monarcas dan más viveza al poder regio y hay más opciones religiosas para coptos y fetichistas."
+    ],
+    [
+      "p",
+      "Digital Extreme Edition Upgrade Pack: Este paquete recopilatorio incluye principalmente contenido estético, como nuevos diseños de unidades y eventos o música de paquetes de contenido inspirados en la historia islámica, otomana, centroeuropea y americana. También incluye eventos únicos del paquete American Dream."
+    ],
+    [
+      "p",
+      "Empieza antes del Renacimiento en un mapa del mundo tal como era en ese momento. Escoge una de las cientos de naciones y gobierna hasta la Era de la Revolución. Si lo deseas, puedes comenzar la partida en cualquier punto del período, con monarcas y otros líderes históricos."
+    ],
+    [
+      "p",
+      "Podrás revivir cientos de acontecimientos históricos dinámicos, desde sencillas e inquietantes guerras civiles hasta momentos que cambiaron el mundo, como la reforma protestante. Descubre el Nuevo Mundo y crea tu asentamiento, o resiste a la conquista europea."
+    ],
+    [
+      "p",
+      "Controla el flujo comercial mediante el desarrollo de la potencia comercial en las provincias clave y usa tanto naves como políticas gubernamentales para que la riqueza del mundo llegue a tus puertos."
+    ],
+    [
+      "p",
+      "Forja alianzas y vínculos de acero cimentados en matrimonios reales o adopta una postura flexible para mantener abiertas tus opciones. Ataca cuando tus enemigos sean débiles y usa tus ejércitos para tomar nuevos territorios y posibles riquezas."
+    ],
+    [
+      "p",
+      "La persona que se siente en el trono influirá notablemente en el ritmo de desarrollo de tu nación. Disfruta de un rápido desarrollo con un monarca hábil. Sin embargo, todo irá más despacio cuando lo reemplace un heredero menos competente. Haz un buen uso del poder monárquico para planificar el futuro."
+    ],
+    [
+      "p",
+      "Tendrás a tu disposición 400 años de investigación sobre nuevas formas de guerra, administración y comercio. Desbloquea nuevas armas, nuevos edificios y nuevos tipos de barcos. Con el tiempo, podrás adoptar ideas nacionales que representen tu legado histórico y tus ambiciones para el futuro."
+    ],
+    [
+      "p",
+      "Desde grandes viajes de descubrimiento hasta guerras religiosas y gobiernos revolucionarios, la historia del temprano mundo moderno está esperando a que la reescribas en Europa Universalis IV."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS",
+        "Windows® 10 Home 64 bit"
+      ],
+      [
+        "Processor",
+        "Intel® Core™ i3-2105 / AMD® FX 4300"
+      ],
+      [
+        "Memory",
+        "4 GB RAM"
+      ],
+      [
+        "Graphics",
+        "Nvidia® GeForce™ GTX 460 / AMD® Radeon™ HD 5850"
+      ],
+      [
+        "Video Memory",
+        "1 GB RAM"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Hard Drive",
+        "6 GB HD space"
+      ],
+      [
+        "Sound",
+        "Direct X- compatible soundcard"
+      ],
+      [
+        "Other Requirements",
+        "Broadband Internet connection"
+      ],
+      [
+        "Additional",
+        "Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer"
+      ]
+    ],
+    "recomendado": [
+      [
+        "OS",
+        "Windows® 10 Home 64 bit"
+      ],
+      [
+        "Processor",
+        "Intel® Core™ i3 3240 / AMD® FX 8120"
+      ],
+      [
+        "Memory",
+        "8 GB RAM"
+      ],
+      [
+        "Graphics",
+        "Nvidia® GeForce™ GTX 560 Ti"
+      ],
+      [
+        "Video Memory",
+        "1 GB RAM"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Hard Drive",
+        "6 GB HD space"
+      ],
+      [
+        "Sound",
+        "Direct X-compatible soundcard"
+      ],
+      [
+        "Other Requirements",
+        "Broadband Internet connection"
+      ],
+      [
+        "Additional",
+        "Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_505866198168d5ebaf3b4b76caeca2ee55883786.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_505866198168d5ebaf3b4b76caeca2ee55883786.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_a7a6735657b6aafd1125b9b4280a0f73e5fc2981.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_a7a6735657b6aafd1125b9b4280a0f73e5fc2981.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_0f31b85193b9e40fd70f710c0ac8fa843c96b604.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_0f31b85193b9e40fd70f710c0ac8fa843c96b604.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_83179e7c220e4bf9a396c77e8a566a4c9d30d686.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_83179e7c220e4bf9a396c77e8a566a4c9d30d686.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_d3ca5ede1b13ce7c1782ddd2a182d313f914d937.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_d3ca5ede1b13ce7c1782ddd2a182d313f914d937.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_b17cebc702b38599cfce8d6bc50b48946fb5a14e.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_b17cebc702b38599cfce8d6bc50b48946fb5a14e.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_375685e265563ba8240939189ee6afbaf681596c.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_375685e265563ba8240939189ee6afbaf681596c.1920x1080.jpg?t=1790873960"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_5f121c7e811451deee1fa15b3fcfd95ea072f6b2.600x338.jpg?t=1790873960",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/ss_5f121c7e811451deee1fa15b3fcfd95ea072f6b2.1920x1080.jpg?t=1790873960"
+    }
+  ],
+  "web": "http://www.europauniversalis4.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 1904,
+  "youtube": [
+    {
+      "id": "ONWTGEZKzn8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "KWAP0RNFOmc",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:20:45.161Z"
+}

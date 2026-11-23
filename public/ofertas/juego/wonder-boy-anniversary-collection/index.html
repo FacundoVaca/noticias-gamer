@@ -23,17 +23,56 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/playstation/">PlayStation</a> › <span>Wonder Boy Anniversary Collection</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://image.api.playstation.com/vulcan/ap/rnd/202211/1009/gc2Wi9lPDKWEotACPmzHLj3w.png?w=440" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="Wonder Boy Anniversary Collection" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>Wonder Boy Anniversary Collection</h1>
+
+<p class="j-sub">En oferta en PlayStation.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="24.99" data-original="49.99" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#6ab0ff">PlayStation</span><span class="o-plat">PS5</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$24.99</span><span class="o-desc">-50%</span><s>US$49.99</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"></ul>
+<a class="j-btn" href="https://store.playstation.com/es-ar/product/UP6091-PPSA13859_00-WONDERBOYPS5USXX" rel="nofollow noopener sponsored" target="_blank">Ver en PlayStation</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-cap-tit">Capturas</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre Wonder Boy Anniversary Collection</h2>
+<p class="j-lead" lang="en">A curated compilation of classic Wonder Boy action-platformers featuring remastered emulation of the original arcade and console entries. Players run, jump, and explore colorful side-scrolling levels, collect power-ups and equipment, and face varied bosses across multiple game modes that preserve the originals’ challenge while offering hassle-free modern conveniences like save states and difficulty options.</p><p class="mini">Resumen en inglés de IGDB: todavía no tenemos una descripción en español de una tienda.</p>
+<dl class="j-ficha"><div><dt>Editora</dt><dd>Bliss Brain</dd></div><div><dt>Lanzamiento</dt><dd>26 de enero de 2023</dd></div><div><dt>Géneros</dt><dd>Plataformas y Arcade</dd></div><div><dt>Plataformas en oferta</dt><dd>PS5</dd></div></dl>
+
+
+
+
+</section>
+
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksao.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksao.jpg" alt="Captura de Wonder Boy Anniversary Collection (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksap.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksap.jpg" alt="Captura de Wonder Boy Anniversary Collection (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksaq.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksaq.jpg" alt="Captura de Wonder Boy Anniversary Collection (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksas.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksas.jpg" alt="Captura de Wonder Boy Anniversary Collection (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksat.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksat.jpg" alt="Captura de Wonder Boy Anniversary Collection (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://images.igdb.com/igdb/image/upload/t_1080p/scksar.jpg" target="_blank" rel="noopener"><img src="https://images.igdb.com/igdb/image/upload/t_screenshot_med/scksar.jpg" alt="Captura de Wonder Boy Anniversary Collection (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+
+
+
+
+<p class="mini j-fuentes">Datos del juego: IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días.</p>
+<div class="j-hist-t"><h3>Historial de precio en PlayStation</h3><p>Seguimos el precio de Wonder Boy Anniversary Collection en PlayStation desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó US$24.99.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/playstation/">Ver todas las ofertas de PlayStation</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

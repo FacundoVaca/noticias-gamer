@@ -23,17 +23,71 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/steam/">Steam</a> › <span>We March as One</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/header.jpg" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="We March as One" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>We March as One</h1>
+
+<ul class="j-rapido" aria-label="Resumen"><li>Un jugador</li><li class="no">Sin español</li></ul><p class="j-sub">En oferta en Steam.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="4.55" data-original="5.69" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#66c0f4">Steam</span><span class="o-plat">PC</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$4.55</span><span class="o-desc">-20%</span><s>US$5.69</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"><li><span class="o-min">Precio más bajo registrado</span></li><li>Mínimo histórico: <b>US$4.55</b> en noviembre de 2026 (según el historial de IsThereAnyDeal)</li></ul>
+<a class="j-btn" href="https://store.steampowered.com/app/5189160/We_March_as_One/" rel="nofollow noopener sponsored" target="_blank">Ver en Steam</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-cap-tit">Capturas</a><a href="#j-idi-tit">Idiomas</a><a href="#j-req-tit">Requisitos</a><a href="#j-ed-tit">Qué incluye</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre We March as One</h2>
+<p class="j-lead">Start with a few shapes and build an army tens of thousands strong. Paint your troops onto the battlefield and send them to war against enormous hordes in this incremental auto battler where every unit is individually simulated.</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>dux</dd></div><div><dt>Editora</dt><dd>dux</dd></div><div><dt>Lanzamiento</dt><dd>13 de noviembre de 2026</dd></div><div><dt>Géneros</dt><dd>Indie, Simuladores y Estrategia</dd></div><div><dt>Plataformas en oferta</dt><dd>PC</dd></div><div><dt>Sistemas operativos (PC)</dt><dd>Windows</dd></div></dl>
+
+
+<p class="o-chips"><span class="o-plat">incremental</span><span class="o-plat">Simulation</span><span class="o-plat">Strategy</span><span class="o-plat">Auto Battler</span><span class="o-plat">War</span></p>
+<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto"><p>We March as One is an incremental-style auto battler about building a massive army of shapes with mutliple ways to play:</p><p>Campaign - Build your army battle by battle</p><p>Tactics - Fixed army puzzles where placement and orders are everything</p><p>Command - Real-time orders and battlefield abilities</p><p>Muster - Fixed budget puzzles where you choose the army</p><p>Sandbox - Build custom levels and armies</p><h3>Paint Your Army</h3><p>Paint your troops directly onto the battlefield however you like</p><p>Tactically position them to counter the enemy force</p><h3>Command Your Troops</h3><p>Order your troops before the battle starts to plan out your tactics</p><p>Issue a MARCH command to set up a flank on the enemy or a HOLD command to play more defensively</p><h3>Upgrade Your Units</h3><p>Earn gold from defeated enemies, whether you win or lose the battle</p><p>Recruit more troops, unlock new unit types from a branching skill tree, and return with a stronger army</p><p>Fallen troops return for the next battle, so you keep the army you’ve built</p><h3>Massive Battles</h3><p>Every soldier and projectile is individually simulated</p><p>2D, 3D, or fly-through modes give you multiple ways to view the action</p><h3>Sandbox Mode</h3><p>Full level editor where you can build and save custom maps</p><p>Experiment with large unit counts and unusual army compositions across different battlefield layouts</p><p>Unlock troops and upgrades in the sandbox by encountering them in the other game modes</p></div></details>
+</section>
+
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/718d09d2e69cae7b79b929d914eebb92fe7caf80/ss_718d09d2e69cae7b79b929d914eebb92fe7caf80.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/718d09d2e69cae7b79b929d914eebb92fe7caf80/ss_718d09d2e69cae7b79b929d914eebb92fe7caf80.600x338.jpg?t=1794596550" alt="Captura de We March as One (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/5ead9fb6f453f34c5bfd670af0a969401aacdaf8/ss_5ead9fb6f453f34c5bfd670af0a969401aacdaf8.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/5ead9fb6f453f34c5bfd670af0a969401aacdaf8/ss_5ead9fb6f453f34c5bfd670af0a969401aacdaf8.600x338.jpg?t=1794596550" alt="Captura de We March as One (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/2dfaf200f5d80dbb07e4721d154eadf3ebd3ecaf/ss_2dfaf200f5d80dbb07e4721d154eadf3ebd3ecaf.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/2dfaf200f5d80dbb07e4721d154eadf3ebd3ecaf/ss_2dfaf200f5d80dbb07e4721d154eadf3ebd3ecaf.600x338.jpg?t=1794596550" alt="Captura de We March as One (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/8b779ce4d8be893d9a2106179fa2b38b684c8b07/ss_8b779ce4d8be893d9a2106179fa2b38b684c8b07.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/8b779ce4d8be893d9a2106179fa2b38b684c8b07/ss_8b779ce4d8be893d9a2106179fa2b38b684c8b07.600x338.jpg?t=1794596550" alt="Captura de We March as One (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/8d410cdb10b32f8ad73fb4edcb948300bbf2b744/ss_8d410cdb10b32f8ad73fb4edcb948300bbf2b744.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/8d410cdb10b32f8ad73fb4edcb948300bbf2b744/ss_8d410cdb10b32f8ad73fb4edcb948300bbf2b744.600x338.jpg?t=1794596550" alt="Captura de We March as One (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/16adfc3faecacb0badd266680bc3ccc9dda40089/ss_16adfc3faecacb0badd266680bc3ccc9dda40089.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/16adfc3faecacb0badd266680bc3ccc9dda40089/ss_16adfc3faecacb0badd266680bc3ccc9dda40089.600x338.jpg?t=1794596550" alt="Captura de We March as One (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/b05f2b28650d621303ffa6a8ba2ef4f114ffe9f7/ss_b05f2b28650d621303ffa6a8ba2ef4f114ffe9f7.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/b05f2b28650d621303ffa6a8ba2ef4f114ffe9f7/ss_b05f2b28650d621303ffa6a8ba2ef4f114ffe9f7.600x338.jpg?t=1794596550" alt="Captura de We March as One (7)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/1f0f3157b9bda1ec2386953048f90f57496feb05/ss_1f0f3157b9bda1ec2386953048f90f57496feb05.1920x1080.jpg?t=1794596550" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5189160/1f0f3157b9bda1ec2386953048f90f57496feb05/ss_1f0f3157b9bda1ec2386953048f90f57496feb05.600x338.jpg?t=1794596550" alt="Captura de We March as One (8)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos</h2><ul class="j-lista"><li>Logros de Steam</li><li>Comodidad de la cámara</li><li>Controles de volumen personalizados</li><li>Jugable sin restricciones de tiempo</li><li>Steam Cloud</li><li>Incluye editor de niveles</li><li>Préstamo familiar</li></ul></div>
+<div><h2 id="j-idi-tit">Idiomas</h2><p class="j-es j-es-no"><b>No tiene textos en español</b> según Steam.</p><div class="j-idi-wrap"><table class="j-idi"><thead><tr><th>Idioma</th><th>Textos</th><th>Voces</th><th>Subtítulos</th></tr></thead><tbody><tr><td>Inglés</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr></tbody></table></div><p class="mini">Según la tienda de Steam. "Textos" es la interfaz y los menús; "Voces" indica audio completo en ese idioma.</p></div>
+</section>
+<section class="j-req" aria-labelledby="j-req-tit">
+<h2 id="j-req-tit">Requisitos del sistema para PC</h2>
+<div class="j-req-cols"><div><h3>Mínimos</h3><ul><li><b>SO:</b> Windows 10 64-bit (21H1 o superior)</li><li><b>Procesador:</b> Quad-core CPU — Intel Core i5-6400 / AMD Ryzen 3 1200</li><li><b>Memoria:</b> 8192 MB de RAM</li><li><b>Gráficos:</b> Any DirectX 11 capable GPU with 1 GB VRAM (GeForce GTX 750 / Radeon R7 260 / Intel UHD 630)</li><li><b>DirectX:</b> Versión 11</li><li><b>Almacenamiento:</b> 2048 MB de espacio disponible</li></ul></div></div>
+</section>
+<section class="j-ed" id="ediciones" aria-labelledby="j-ed-tit">
+<h2 id="j-ed-tit">Qué incluye la compra en Steam</h2>
+<p class="mini">En Steam se vende en una sola edición.</p>
+<div class="j-ed-grid"><div class="j-ed-card"><h3>We March as One</h3>
+<p class="j-ed-precio"><b>US$4.55</b> <span class="o-desc">-20%</span> <s>US$5.69</s></p>
+<ul><li>We March as One <span class="j-base">juego base</span></li></ul>
+</div></div>
+
+<p class="mini">Contenido y precios de hoy en la tienda de Steam para Argentina (en dólares).</p>
+</section>
+
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, la tienda de Steam y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días. Como referencia de largo plazo, el mínimo histórico externo es Steam: US$4.55 (noviembre de 2026, según IsThereAnyDeal).</p>
+<div class="j-hist-t"><h3>Historial de precio en Steam</h3><p>Seguimos el precio de We March as One en Steam desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó US$4.55.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/steam/">Ver todas las ofertas de Steam</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

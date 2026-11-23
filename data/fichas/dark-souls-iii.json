@@ -1,0 +1,374 @@
+{
+  "clave": "dark souls iii",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-209c-7223-8ead-671a11f25e7e",
+  "appid": "374320",
+  "lanzamiento": "2016-04-11",
+  "desarrolladores": [
+    "From Software",
+    "FromSoftware, Inc.",
+    "FromSoftware Inc."
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "FromSoftware, Inc.",
+    "FromSoftware",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Souls-like",
+    "Dark Fantasy",
+    "Difficult",
+    "RPG",
+    "Atmospheric"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 278942,
+      "url": "https://store.steampowered.com/app/374320/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 89,
+      "cantidad": 56,
+      "url": "https://metacritic.com/game/dark-souls-iii/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 88,
+      "cantidad": 7480,
+      "url": "https://metacritic.com/game/dark-souls-iii/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 90,
+      "cantidad": 168,
+      "url": "https://opencritic.com/game/1520/dark-souls-iii"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "69024",
+      "nombre": "DARK SOULS III",
+      "apps": [
+        {
+          "appid": "374320",
+          "nombre": "DARK SOULS™ III"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 47.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "94174",
+      "nombre": "DARK SOULS III Deluxe Edition",
+      "apps": [
+        {
+          "appid": "374320",
+          "nombre": "DARK SOULS™ III"
+        },
+        {
+          "appid": "442010",
+          "nombre": "DARK SOULS™ III - Season Pass"
+        }
+      ],
+      "usd": 33.99,
+      "antes": 67.98,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "374320": {
+      "usd": 23.99,
+      "gratis": false
+    },
+    "442010": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "442010",
+      "nombre": "DARK SOULS™ III - Season Pass",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 50
+    },
+    {
+      "appid": "506970",
+      "nombre": "DARK SOULS™ III - Ashes of Ariandel™",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "506971",
+      "nombre": "DARK SOULS™ III - The Ringed City™",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Dark Souls continúa redefiniendo los límites con el nuevo y ambicioso capítulo de esta serie revolucionaria, tan aclamada por la crítica. ¡Prepárate para sumergirte en la oscuridad!",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "11 ABR 2016",
+  "metacritic": {
+    "puntaje": 89,
+    "url": "https://www.metacritic.com/game/pc/dark-souls-iii?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "DARK SOULS™ III",
+  "acerca": [
+    [
+      "p",
+      "¡Consigue ahora mismo el Season Pass de DARK SOULS™ III y ponte a prueba con todo el contenido disponible!"
+    ],
+    [
+      "p",
+      "\"Mejor juego de rol\" de la Gamescom 2015 y más de 35 premios y nominaciones en la E3 2015."
+    ],
+    [
+      "p",
+      "DARK SOULS™ III continúa redefiniendo los límites con el nuevo y ambicioso capítulo de esta serie revolucionaria, tan aclamada por la crítica."
+    ],
+    [
+      "p",
+      "Adéntrate en un universo lleno de enemigos y entornos descomunales, un mundo en ruinas en el que las llamas se están apagando. Los jugadores se sumergirán en la atmósfera épica de un mundo de oscuridad gracias a un juego más rápido y una intensidad de combate ampliada. Tanto fans como recién llegados disfrutarán de una acción gratificante y gráficos absorbentes."
+    ],
+    [
+      "p",
+      "Solo quedan las ascuas... ¡Prepárate una vez más para sumergirte en la oscuridad!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Remote Play en móvil",
+    "Remote Play en tableta"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2100 / AMD® FX-6300"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce GTX 750 Ti / ATI Radeon HD 7950"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ],
+      [
+        "Notas adicionales",
+        "Internet connection required for online play and product activation"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770 / AMD® FX-8350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce GTX 970 / ATI Radeon R9 series"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ],
+      [
+        "Notas adicionales",
+        "Internet connection required for online play and product activation"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_5efd318b85a3917d1c6e717f4cb813b47547cd6f.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_5efd318b85a3917d1c6e717f4cb813b47547cd6f.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_1c0fa39091901496d77cf4cecfea4ffb056d6452.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_1c0fa39091901496d77cf4cecfea4ffb056d6452.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_1318a04ef11d87f38aebe6d47a96124f8f888ca8.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_1318a04ef11d87f38aebe6d47a96124f8f888ca8.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_61524dee9ebf72d462638f21adbbbea4c93d791d.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_61524dee9ebf72d462638f21adbbbea4c93d791d.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_fe1dc6761a9004aa39c2e6e62181593b7263edf9.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_fe1dc6761a9004aa39c2e6e62181593b7263edf9.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_27397db724cfd5648655c1056ff5d184147a4c50.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_27397db724cfd5648655c1056ff5d184147a4c50.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_da36c88ae35d4f20c9d221a79592b31c080521d2.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_da36c88ae35d4f20c9d221a79592b31c080521d2.1920x1080.jpg?t=1748630784"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_12c4d9a3c04d6d340ffea9335441eb2ad84e0028.600x338.jpg?t=1748630784",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/ss_12c4d9a3c04d6d340ffea9335441eb2ad84e0028.1920x1080.jpg?t=1748630784"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11133,
+  "youtube": [
+    {
+      "id": "8UPmw8YwV98",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "jjK5f7ozzOM",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "Upp8cuRmRfQ",
+      "nombre": "E3 Announcement Trailer"
+    },
+    {
+      "id": "KNpgLOCYHAE",
+      "nombre": "Gameplay Reveal Gamescom 2015 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:21:14.758Z"
+}

@@ -1,0 +1,293 @@
+{
+  "clave": "the elder scrolls v skyrim special edition",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0481-72c2-9f37-97120a68525b",
+  "appid": "489830",
+  "lanzamiento": "2016-10-27",
+  "desarrolladores": [
+    "Bethesda Game Studios®",
+    "Bethesda Game Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks",
+    "Bethesda Softworks LLC"
+  ],
+  "etiquetas": [
+    "Open World",
+    "RPG",
+    "Fantasy",
+    "Adventure",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 224435,
+      "url": "https://store.steampowered.com/app/489830/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/the-elder-scrolls-v-skyrim-special-edition/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 1194,
+      "url": "https://metacritic.com/game/the-elder-scrolls-v-skyrim-special-edition/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 65,
+      "url": "https://opencritic.com/game/2851/the-elder-scrolls-v-skyrim-special-edition"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "626153",
+      "nombre": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "apps": [
+        {
+          "appid": "1746860",
+          "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
+        },
+        {
+          "appid": "489830",
+          "nombre": "The Elder Scrolls V: Skyrim Special Edition"
+        }
+      ],
+      "usd": 9.89,
+      "antes": 29.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "110687",
+      "nombre": "The Elder Scrolls V: Skyrim Special Edition",
+      "apps": [
+        {
+          "appid": "489830",
+          "nombre": "The Elder Scrolls V: Skyrim Special Edition"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "489830": {
+      "usd": 9.89,
+      "gratis": false
+    },
+    "1746860": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1746860",
+      "nombre": "The Elder Scrolls V: Skyrim Anniversary Upgrade",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "598120",
+      "nombre": "The Elder Scrolls V: Skyrim Special Edition - Creations",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "The Elder Scrolls V: Skyrim Special Edition, ganador de más de 200 premios al “Juego del año”, da vida a la fantasía épica con un nivel de detalle asombroso. La Special Edition incluye el juego aclamado por la crítica y complementos con nuevas funcionalidades.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "27 OCT 2016",
+  "metacritic": {
+    "puntaje": 74,
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-v-skyrim-special-edition?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "The Elder Scrolls V: Skyrim Special Edition",
+  "acerca": [
+    [
+      "p",
+      "The Elder Scrolls V: Skyrim Special Edition, ganador de más de 200 premios al “Juego del año”, da vida a la fantasía épica con un nivel de detalle asombroso. La Special Edition incluye el juego aclamado por la crítica y complementos con nuevas funcionalidades como gráficos y efectos renovados, rayos crepusculares volumétricos, reflejos en tiempo real, profundidad de campo dinámica y muchas más."
+    ],
+    [
+      "p",
+      "Además, Skyrim Special Edition lleva el poder de las creaciones de Bethesda Game Studios a PC y a las consolas: nuevas misiones, entornos, personajes, diálogos, armaduras y armas, entre otras muchas cosas. ¡Con las creaciones, la experiencia no tiene límites!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (requiere versión de 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-750/AMD Phenom II X4-945"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 470 de 1 GB/AMD HD 7870 de 2 GB"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/8.1/10 (requiere versión de 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2400/AMD FX-8320"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 780 de 3 GB/AMD R9 290 de 4 GB"
+      ],
+      [
+        "Almacenamiento",
+        "12 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_d64b646612ab1402bdda8e400672aa0dbcb352ea.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_b6bb6f79278505b3f48567f08c21f7a0eb171c68.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_8c7ecd394afb581b9b2137a3de04433f78fdf4ea.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_50c3da9e29e9b0368889379cdd03a71aba8d614c.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_50c3da9e29e9b0368889379cdd03a71aba8d614c.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_2ca72f4ecc42a18dd4bf056c539a9794c2b2493d.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_2ca72f4ecc42a18dd4bf056c539a9794c2b2493d.1920x1080.jpg?t=1786648247"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.600x338.jpg?t=1786648247",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.1920x1080.jpg?t=1786648247"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Skyrim contains Blood and Gore, Intense Violence, Sexual Themes, Use of Alcohol, and Language.",
+  "igdbIntentado": true,
+  "igdb": 19457,
+  "youtube": [
+    {
+      "id": "NAN8FEGtaic",
+      "nombre": "Live Action Trailer"
+    },
+    {
+      "id": "EAJGxAQGDWI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:19:52.554Z"
+}

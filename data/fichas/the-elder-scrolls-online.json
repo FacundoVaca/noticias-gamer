@@ -1,0 +1,344 @@
+{
+  "clave": "the elder scrolls online",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1174-71ec-a6fb-1da414c021cd",
+  "appid": "306130",
+  "lanzamiento": "2017-05-22",
+  "desarrolladores": [
+    "ZeniMax Online Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "RPG",
+    "MMORPG",
+    "Open World",
+    "Fantasy",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 134835,
+      "url": "https://store.steampowered.com/app/306130/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 71,
+      "cantidad": 64,
+      "url": "https://metacritic.com/game/the-elder-scrolls-online/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 57,
+      "cantidad": 2856,
+      "url": "https://metacritic.com/game/the-elder-scrolls-online/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 71,
+      "cantidad": 54,
+      "url": "https://opencritic.com/game/2212/the-elder-scrolls-online"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "164609",
+      "nombre": "The Elder Scrolls Online: Standard Edition",
+      "apps": [
+        {
+          "appid": "306130",
+          "nombre": "The Elder Scrolls® Online"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 11.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "306130": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 6,
+  "dlcLista": [
+    {
+      "appid": "2986220",
+      "nombre": "The Elder Scrolls Online: paquete de los corsarios fantasmales",
+      "gratis": false,
+      "usd": 41.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3571620",
+      "nombre": "The Elder Scrolls Online: 10-Year Anniversary Pack",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1382241",
+      "nombre": "The Elder Scrolls Online: Paquete Hailcinder Mount",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2986210",
+      "nombre": "The Elder Scrolls Online: Housing Starter Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "460760",
+      "nombre": "The Elder Scrolls Online - Soundtrack",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 50
+    },
+    {
+      "appid": "3053780",
+      "nombre": "Banda sonora original de The Elder Scrolls Online: Gold Road",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Toda leyenda comienza por alguna parte, y, en el caso de The Elder Scrolls Online, lo hace por ti. Únete a millones de jugadores en un RPG de fantasía online ambientado en el gigantesco y vibrante mundo de The Elder Scrolls.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Multijugador masivo",
+    "Rol"
+  ],
+  "lanzamientoTexto": "22 MAY 2017",
+  "metacritic": {
+    "puntaje": 80,
+    "url": "https://www.metacritic.com/game/pc/the-elder-scrolls-online-tamriel-unlimited?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "The Elder Scrolls® Online",
+  "acerca": [
+    [
+      "p",
+      "Incluye el juego base de The Elder Scrolls Online más las aventuras de Morrowind, Imperial City, Orsinium, Thieves Guild y Dark Brotherhood."
+    ],
+    [
+      "p",
+      "The Elder Scrolls Online empieza por ti. Escribe un capítulo de la historia casi mil años antes de TES V: Skyrim. La llegada de las temporadas nos traerá recompensas y aventuras gratis cada tres meses para que el mundo evolucione a tu lado."
+    ],
+    [
+      "p",
+      "LLEGAN LAS TEMPORADAS: vive nuevas historias y contenidos experimentales inspirados en la historia de TES cada tres meses. Desbloquea recompensas con los tomos de Tamriel."
+    ],
+    [
+      "p",
+      "UN MUNDO DE FANTASÍA DIVERSO: viaja por Tamriel para descubrir un mundo de aventuras. Explora bosques de setas en Morrowind, lucha contra los daedra en Oblivion o enfréntate a otros jugadores en el JcJ."
+    ],
+    [
+      "p",
+      "HISTORIAS FASCINANTES SOBRE UN TAPIZ CONJUNTO: sumérgete en una narrativa elaborada con el mismo espíritu de tus juegos favoritos de TES. Descubre un mundo en crecimiento con tus amigos o por tu cuenta."
+    ],
+    [
+      "p",
+      "UN SENTIDO EN CADA SENDA: elige entre una vasta colección de misiones y desafíos adaptados a tus deseos y ambiciones. Este es tu lugar."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cromos de Steam",
+    "Subtítulos disponibles",
+    "Compras dentro de la aplicación",
+    "Comodidad de la cámara",
+    "Chat de texto convertido a voz",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5 2300 or AMD FX4350"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Direct X 11.0 compliant video card with 1GB RAM (NVIDIA® GeForce® 560 or AMD Radeon™ 6870)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "180 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible sound card"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5 2300 or AMD FX4350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Direct X 11.0 compliant video card with 4GB of RAM (NVIDIA® GeForce® GTX 970 or AMD Radeon™ RX 570) or higher"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "180 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible sound card"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_2b797e150cbb9ad7eec9d9089e79df4adc21e797.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_2b797e150cbb9ad7eec9d9089e79df4adc21e797.1920x1080.jpg?t=1792607369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_ae00343059f2751a9bd1385383bc065d6d72a8df.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_ae00343059f2751a9bd1385383bc065d6d72a8df.1920x1080.jpg?t=1792607369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_5d7230643e643f1d1e87320f93edf109f91c2d6c.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_5d7230643e643f1d1e87320f93edf109f91c2d6c.1920x1080.jpg?t=1792607369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_c21f3be1e15e5fcd0244c6857acd22d37b04d161.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_c21f3be1e15e5fcd0244c6857acd22d37b04d161.1920x1080.jpg?t=1792607369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_def2f4813a04b9ab7e8683e4dd9cfdd5326bdb2d.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_def2f4813a04b9ab7e8683e4dd9cfdd5326bdb2d.1920x1080.jpg?t=1792607369"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_8782eebb5fc397cf245c7c366e898bf2ae26b1a0.600x338.jpg?t=1792607369",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/ss_8782eebb5fc397cf245c7c366e898bf2ae26b1a0.1920x1080.jpg?t=1792607369"
+    }
+  ],
+  "web": "http://www.elderscrollsonline.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and gore Sexual themes Use of alcohol Violence",
+  "igdbIntentado": true,
+  "igdb": 1081,
+  "youtube": [
+    {
+      "id": "pjGFVx_chOA",
+      "nombre": "The Siege Launch Trailer"
+    },
+    {
+      "id": "GrRrPACj0uY",
+      "nombre": "PvP Trailer"
+    },
+    {
+      "id": "qRZGDsZiU1M",
+      "nombre": "The Three Fates Trailer"
+    },
+    {
+      "id": "7fX_9HG1veE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:19:33.916Z"
+}

@@ -1,0 +1,318 @@
+{
+  "clave": "dark souls remastered",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-03e5-729e-aece-46616a6ea2eb",
+  "appid": "570940",
+  "lanzamiento": "2018-05-24",
+  "desarrolladores": [
+    "QLOC",
+    "FromSoftware, Inc.",
+    "From Software"
+  ],
+  "editores": [
+    "BANDAI NAMCO Entertainment",
+    "Bandai Namco Entertainment Inc.",
+    "Bandai Namco US",
+    "FromSoftware, Inc.",
+    "BANDAI NAMCO Entertainment Europe"
+  ],
+  "etiquetas": [
+    "Souls-like",
+    "Dark Fantasy",
+    "RPG",
+    "Difficult",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 101166,
+      "url": "https://store.steampowered.com/app/570940/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 84,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/dark-souls-remastered/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 3265,
+      "url": "https://metacritic.com/game/dark-souls-remastered/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 84,
+      "cantidad": 103,
+      "url": "https://opencritic.com/game/5508/dark-souls-remastered"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "262430",
+      "nombre": "DARK SOULS: REMASTERED",
+      "apps": [
+        {
+          "appid": "570940",
+          "nombre": "DARK SOULS™: REMASTERED"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 31.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "570940": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "23 MAY 2018",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/dark-souls-remastered?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "DARK SOULS™: REMASTERED",
+  "acerca": [
+    [
+      "p",
+      "Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps."
+    ],
+    [
+      "p",
+      "Dark Souls Remastered incluye el juego principal y el contenido descargable \"Artorias of the Abyss\"."
+    ],
+    [
+      "p",
+      "Características principales:"
+    ],
+    [
+      "p",
+      "• Un universo profundo y oscuro"
+    ],
+    [
+      "p",
+      "• Cada final supone un nuevo comienzo"
+    ],
+    [
+      "p",
+      "• Compleja jugabilidad con muchas posibilidades"
+    ],
+    [
+      "p",
+      "• Te sientes realizado al ir aprendiendo y dominando el juego"
+    ],
+    [
+      "p",
+      "• Multijugador (hasta 6 jugadores con servidores dedicados)"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64-bit, Service Pack 1"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300 2.8 GHz / AMD FX-6300, 3.5 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 460, 1 GB / Radeon HD 6870, 1 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ],
+      [
+        "Notas adicionales",
+        "Low Settings, 60 FPS @ 1080p"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4570 3.2 GHz / AMD FX-8350 4.2 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 660, 2 GB / Radeon HD 7870, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 11 sound device"
+      ],
+      [
+        "Notas adicionales",
+        "High Settings, 60 FPS @ 1080p"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_3a71463e4ccaf28c5c27f6cf8d32a3a125f45404.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_3a71463e4ccaf28c5c27f6cf8d32a3a125f45404.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_92b2ba470cbfdb8839b649b3f478e5531dd81a17.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_92b2ba470cbfdb8839b649b3f478e5531dd81a17.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_626cc310dc9ac7fb146011582c864a35e5f3e381.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_626cc310dc9ac7fb146011582c864a35e5f3e381.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f1617a419eb3b0cd877ec71230c59aa2672b62dc.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f1617a419eb3b0cd877ec71230c59aa2672b62dc.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f60f54e58b13d0744853672ccd35810397e3fa26.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_f60f54e58b13d0744853672ccd35810397e3fa26.1920x1080.jpg?t=1778518110"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_b4a80bd6e828a81db09ecbef5694e5d0cddb2caf.600x338.jpg?t=1778518110",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/ss_b4a80bd6e828a81db09ecbef5694e5d0cddb2caf.1920x1080.jpg?t=1778518110"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 81085,
+  "youtube": [
+    {
+      "id": "2lShfFpvlc4",
+      "nombre": "Preorder Trailer"
+    },
+    {
+      "id": "QbajbLP99T0",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:21:19.854Z"
+}

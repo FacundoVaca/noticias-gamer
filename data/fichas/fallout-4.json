@@ -1,0 +1,546 @@
+{
+  "clave": "fallout 4",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2bba-710d-aa7f-64f220f04817",
+  "appid": "377160",
+  "lanzamiento": "2015-11-09",
+  "desarrolladores": [
+    "Bethesda Game Studios®",
+    "Bethesda Game Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Post-apocalyptic",
+    "Singleplayer",
+    "Exploration",
+    "RPG"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 292460,
+      "url": "https://store.steampowered.com/app/377160/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 84,
+      "cantidad": 38,
+      "url": "https://metacritic.com/game/fallout-4/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 71,
+      "cantidad": 8105,
+      "url": "https://metacritic.com/game/fallout-4/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 87,
+      "cantidad": 163,
+      "url": "https://opencritic.com/game/1508/fallout-4"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "103387",
+      "nombre": "Fallout 4",
+      "apps": [
+        {
+          "appid": "377160",
+          "nombre": "Fallout 4"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 11.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "199943",
+      "nombre": "Fallout 4: Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "377160",
+          "nombre": "Fallout 4"
+        },
+        {
+          "appid": "435870",
+          "nombre": "Fallout 4 - Automatron"
+        },
+        {
+          "appid": "480630",
+          "nombre": "Fallout 4 - Contraptions Workshop"
+        },
+        {
+          "appid": "435880",
+          "nombre": "Fallout 4 - Wasteland Workshop"
+        },
+        {
+          "appid": "435881",
+          "nombre": "Fallout 4 Far Harbor"
+        },
+        {
+          "appid": "490650",
+          "nombre": "Fallout 4 Nuka-World"
+        },
+        {
+          "appid": "480631",
+          "nombre": "Fallout 4 Vault-Tec Workshop"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 27.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "1431931",
+      "nombre": "Fallout 4 - Anniversary Edition",
+      "apps": [
+        {
+          "appid": "377160",
+          "nombre": "Fallout 4"
+        },
+        {
+          "appid": "435870",
+          "nombre": "Fallout 4 - Automatron"
+        },
+        {
+          "appid": "480630",
+          "nombre": "Fallout 4 - Contraptions Workshop"
+        },
+        {
+          "appid": "3868650",
+          "nombre": "Fallout 4 - Creations Bundle"
+        },
+        {
+          "appid": "435880",
+          "nombre": "Fallout 4 - Wasteland Workshop"
+        },
+        {
+          "appid": "435881",
+          "nombre": "Fallout 4 Far Harbor"
+        },
+        {
+          "appid": "490650",
+          "nombre": "Fallout 4 Nuka-World"
+        },
+        {
+          "appid": "404090",
+          "nombre": "Fallout 4 Season Pass"
+        },
+        {
+          "appid": "480631",
+          "nombre": "Fallout 4 Vault-Tec Workshop"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 41.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1425181",
+      "nombre": "Fallout 4 - Anniversary Upgrade",
+      "apps": [
+        {
+          "appid": "435870",
+          "nombre": "Fallout 4 - Automatron"
+        },
+        {
+          "appid": "480630",
+          "nombre": "Fallout 4 - Contraptions Workshop"
+        },
+        {
+          "appid": "3868650",
+          "nombre": "Fallout 4 - Creations Bundle"
+        },
+        {
+          "appid": "435880",
+          "nombre": "Fallout 4 - Wasteland Workshop"
+        },
+        {
+          "appid": "435881",
+          "nombre": "Fallout 4 Far Harbor"
+        },
+        {
+          "appid": "490650",
+          "nombre": "Fallout 4 Nuka-World"
+        },
+        {
+          "appid": "404090",
+          "nombre": "Fallout 4 Season Pass"
+        },
+        {
+          "appid": "480631",
+          "nombre": "Fallout 4 Vault-Tec Workshop"
+        }
+      ],
+      "usd": 16.79,
+      "antes": 27.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "377160": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "404090": {
+      "usd": 7.34,
+      "gratis": false
+    },
+    "435870": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "435880": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "435881": {
+      "usd": 3.59,
+      "gratis": false
+    },
+    "480630": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "480631": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "490650": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3868650": {
+      "usd": 8.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "3868650",
+      "nombre": "Fallout 4 - Creations Bundle",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 40
+    },
+    {
+      "appid": "598110",
+      "nombre": "Fallout 4 - Creations",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "540810",
+      "nombre": "Fallout 4 - High Resolution Texture Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "404090",
+      "nombre": "Fallout 4 Season Pass",
+      "gratis": false,
+      "usd": 7.34,
+      "descuento": 65
+    },
+    {
+      "appid": "435881",
+      "nombre": "Fallout 4 Far Harbor",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 60
+    },
+    {
+      "appid": "480631",
+      "nombre": "Fallout 4 Vault-Tec Workshop",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    },
+    {
+      "appid": "480630",
+      "nombre": "Fallout 4 - Contraptions Workshop",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    },
+    {
+      "appid": "490650",
+      "nombre": "Fallout 4 Nuka-World",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 60
+    },
+    {
+      "appid": "435880",
+      "nombre": "Fallout 4 - Wasteland Workshop",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    },
+    {
+      "appid": "435870",
+      "nombre": "Fallout 4 - Automatron",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 60
+    }
+  ],
+  "descripcion": "De Bethesda Game Studios, los galardonados creadores de Starfield y The Elder Scrolls V: Skyrim, llega Fallout 4. Un hito en el diseño del rol de mundo abierto y ganador de más de 200 premios al “Mejor de...”, incluidos los DICE y BAFTA al Juego del año.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "9 NOV 2015",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/fallout-4?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Fallout 4",
+  "acerca": [
+    [
+      "p",
+      "De Bethesda Game Studios, los galardonados creadores de Starfield y The Elder Scrolls V: Skyrim, llega Fallout 4. Un hito en el diseño del rol de mundo abierto y ganador de más de 200 premios al “Mejor de...”, incluidos los DICE y BAFTA al Juego del año."
+    ],
+    [
+      "p",
+      "Eres el único superviviente del Refugio 111, que emerge a un mundo reducido a cenizas por la guerra nuclear. Cada segundo es una lucha por la supervivencia, cada decisión da forma al futuro. Reconstruye, remodela y reclama el Yermo... a tu manera."
+    ],
+    [
+      "p",
+      "Bienvenido a casa."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS:"
+    ],
+    [
+      "p",
+      "Libertad absoluta"
+    ],
+    [
+      "p",
+      "Haz lo que quieras en un enorme mundo abierto repleto de cientos de ubicaciones, personajes y misiones. Únete a facciones, forja alianzas o ve por tu cuenta. La elección está en tu mano, y cada una de ellas es importante."
+    ],
+    [
+      "p",
+      "Eres S.P.E.C.I.A.L."
+    ],
+    [
+      "p",
+      "Crea un personaje único con el sistema S.P.E.C.I.A.L. Elige entre cientos de extras y desarrolla tu propio estilo de juego, ya prefieras ser un diplomático con labia, un francotirador sigiloso o un tanque con patas y servoarmadura."
+    ],
+    [
+      "p",
+      "Recopila y construye"
+    ],
+    [
+      "p",
+      "Rescata materiales, y crea y personaliza objetos como nunca antes. Fabrica miles de artículos (armadura, armas, comida y más) y erige y gestiona asentamientos enteros por toda la Commonwealth."
+    ],
+    [
+      "p",
+      "Combate inmersivo en primera y en tercera persona"
+    ],
+    [
+      "p",
+      "Usa el sistema de tiro asistido de Vault-Tec (V.A.T.S.) para ralentizar el tiempo en combate y apuntar a los enemigos con precisión cinematográfica, o métete de lleno en el combate con tiroteos en tiempo real."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f7861bd71e6c0c218d8ff69fb1c626aec0d187cf.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f7861bd71e6c0c218d8ff69fb1c626aec0d187cf.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_910437ac708aed7c028f6e43a6224c633d086b0a.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_910437ac708aed7c028f6e43a6224c633d086b0a.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f649b8e57749f380cca225db5074edbb1e06d7f5.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_f649b8e57749f380cca225db5074edbb1e06d7f5.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c310f858e6a7b02ffa21db984afb0dd1b24c1423.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c310f858e6a7b02ffa21db984afb0dd1b24c1423.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_5e2d136759e0ff4e0d74940fffc9c64e8cdcd833.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_5e2d136759e0ff4e0d74940fffc9c64e8cdcd833.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c6b798424a93617b4b825aea3bcd9547c0b0a5ce.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_c6b798424a93617b4b825aea3bcd9547c0b0a5ce.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_6834be966451a9b0f12eb4f68bfb0853ea0b7267.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_6834be966451a9b0f12eb4f68bfb0853ea0b7267.1920x1080.jpg?t=1786648137"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_0e3f64b96da8ffc1372512f827c263934d3cd5d6.600x338.jpg?t=1786648137",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/ss_0e3f64b96da8ffc1372512f827c263934d3cd5d6.1920x1080.jpg?t=1786648137"
+    }
+  ],
+  "web": "http://www.fallout4.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Use of Drugs Strong Language Intense Violence In-Game Purchases",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 9630,
+  "youtube": [
+    {
+      "id": "X5aJfebzkrM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qeu4fFyRXLA",
+      "nombre": "E3 2015 Gameplay - Part 2"
+    },
+    {
+      "id": "2Xer46PlBlc",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "R-p0NoeQZ4g",
+      "nombre": "Live Action Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:20:11.942Z"
+}

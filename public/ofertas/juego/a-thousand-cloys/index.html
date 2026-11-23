@@ -23,17 +23,75 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/steam/">Steam</a> › <span>A Thousand Cloys</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/header.jpg" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="A Thousand Cloys" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>A Thousand Cloys</h1>
+
+<ul class="j-rapido" aria-label="Resumen"><li>Un jugador</li><li class="no">Sin español</li></ul><p class="j-sub">En oferta en Steam.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="4.49" data-original="4.99" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#66c0f4">Steam</span><span class="o-plat">PC</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$4.49</span><span class="o-desc">-10%</span><s>US$4.99</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"><li><span class="o-min">Precio más bajo registrado</span></li><li>Mínimo histórico: <b>US$4.49</b> en noviembre de 2026 (según el historial de IsThereAnyDeal)</li></ul>
+<a class="j-btn" href="https://store.steampowered.com/app/3861740/A_Thousand_Cloys/" rel="nofollow noopener sponsored" target="_blank">Ver en Steam</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-vid-tit">Videos</a><a href="#j-cap-tit">Capturas</a><a href="#j-idi-tit">Idiomas</a><a href="#j-req-tit">Requisitos</a><a href="#j-ed-tit">Qué incluye</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre A Thousand Cloys</h2>
+<p class="j-lead">A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>3-50</dd></div><div><dt>Editora</dt><dd>3-50</dd></div><div><dt>Lanzamiento</dt><dd>23 de noviembre de 2026</dd></div><div><dt>Géneros</dt><dd>Casual, Indie y Simuladores</dd></div><div><dt>Plataformas en oferta</dt><dd>PC</dd></div><div><dt>Sistemas operativos (PC)</dt><dd>Windows</dd></div></dl>
+
+
+<p class="o-chips"><span class="o-plat">incremental</span><span class="o-plat">Exploration</span><span class="o-plat">Simulation</span><span class="o-plat">Resource Management</span><span class="o-plat">Automation</span></p>
+<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto"><p>Welcome to Cloys Inc., the universe's leading toaster company, and your new family! You've been put in charge of cleansing Kalahari of its radiation. Harvest resources, import Cloys to work for you, and explore this mysterious alien planet to unearth the nodes of your upgrade tree.</p><h3>The Best Toaster In The Universe​</h3><p>In order to do your work, your employer thankfully provides you with Cloys, high-tech toasters able to toast bread, make phone calls and mine materials in hazardous conditions. Choose whether you want to play fully active, or idle while your Cloys work automatically.</p><p>Harvest all kinds of resources, improve your clicks and your Cloys, build new structures, and harvest more resources! The pace is steady, and the numbers remain understandable.</p><h3>Explore An Alien Planet​</h3><p>The planet you've been assigned to cleanse isn't just an empty field. Some weird structures stand, hidden between towering mountains, in the middle of acid lakes or behind mysterious doors... Explore its nooks and crannies in order to become always more efficient at your job!</p><p>The nodes of your upgrade tree are hidden throughout the world, and unearthing them as you explore further will make your task a lot easier! Lift the fog of radiation shrouding the planet and uncover pulsating fields, monoliths and other oddities. Study them, repair them, build them, upgrade them and become a true harvesting machine!</p><h3>Restart stronger, faster</h3><p>Once you've accumulated a big enough payout during a session, end it! Upgrade your permanent outposts, let the world rest, and start a new session to earn an even bigger payout!</p><p>Each new session will take you further, to discover new upgrades and resources. It also makes management happy, so...</p><p>~~~</p><p>Welcome to Cloys Inc., the universe's leading toaster company, and your new family!</p><p>You've joined our environmental arm, where we improve the universe, one planet at a time! We are delighted to have you with us, and we are sure you will find fulfillment in this vital mission.</p><p>You have been assigned a processed planet to be cleansed of its Klein radiation. The connection zone has been calculated and a portal is ready to be opened.</p><p>Living Resources - Nole Fissact</p><p>(This is an automated email, please do not reply.)</p></div></details>
+</section>
+<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid"><figure><button class="j-yt" type="button" data-id="74G5-tWXwvM" aria-label="Reproducir Gameplay Trailer de A Thousand Cloys"><img src="https://i.ytimg.com/vi/74G5-tWXwvM/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Gameplay Trailer</figcaption></figure></div>
+<p class="mini">Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir.</p>
+</section>
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/257b9565754fe23e9b0131477cf9b6eac3da75b8/ss_257b9565754fe23e9b0131477cf9b6eac3da75b8.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/257b9565754fe23e9b0131477cf9b6eac3da75b8/ss_257b9565754fe23e9b0131477cf9b6eac3da75b8.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/63ef12ab116bc240a3f32a31bb1af39b8a60d36a/ss_63ef12ab116bc240a3f32a31bb1af39b8a60d36a.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/63ef12ab116bc240a3f32a31bb1af39b8a60d36a/ss_63ef12ab116bc240a3f32a31bb1af39b8a60d36a.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/d7fa13424d15ff1d796f1b1d6bdd7f3e7ffe3838/ss_d7fa13424d15ff1d796f1b1d6bdd7f3e7ffe3838.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/d7fa13424d15ff1d796f1b1d6bdd7f3e7ffe3838/ss_d7fa13424d15ff1d796f1b1d6bdd7f3e7ffe3838.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/cf5cd74d96274294fb6dec1b3f62b052a03999d3/ss_cf5cd74d96274294fb6dec1b3f62b052a03999d3.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/cf5cd74d96274294fb6dec1b3f62b052a03999d3/ss_cf5cd74d96274294fb6dec1b3f62b052a03999d3.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/8f4d5452ad41fc0b9816890b71e755f25f9af877/ss_8f4d5452ad41fc0b9816890b71e755f25f9af877.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/8f4d5452ad41fc0b9816890b71e755f25f9af877/ss_8f4d5452ad41fc0b9816890b71e755f25f9af877.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/b80e8f1ade839f9e9e8055798fcad2eb5d9be984/ss_b80e8f1ade839f9e9e8055798fcad2eb5d9be984.1920x1080.jpg?t=1795452954" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/b80e8f1ade839f9e9e8055798fcad2eb5d9be984/ss_b80e8f1ade839f9e9e8055798fcad2eb5d9be984.600x338.jpg?t=1795452954" alt="Captura de A Thousand Cloys (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos</h2><ul class="j-lista"><li>Comodidad de la cámara</li><li>Controles de volumen personalizados</li><li>Opción solo ratón</li><li>Jugable sin restricciones de tiempo</li><li>Guardar en cualquier momento</li><li>Sonido estéreo</li><li>Préstamo familiar</li></ul></div>
+<div><h2 id="j-idi-tit">Idiomas</h2><p class="j-es j-es-no"><b>No tiene textos en español</b> según Steam.</p><div class="j-idi-wrap"><table class="j-idi"><thead><tr><th>Idioma</th><th>Textos</th><th>Voces</th><th>Subtítulos</th></tr></thead><tbody><tr><td>Inglés</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Francés</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr></tbody></table></div><p class="mini">Según la tienda de Steam. "Textos" es la interfaz y los menús; "Voces" indica audio completo en ese idioma.</p></div>
+</section>
+<section class="j-req" aria-labelledby="j-req-tit">
+<h2 id="j-req-tit">Requisitos del sistema para PC</h2>
+<div class="j-req-cols"><div><h3>Mínimos</h3><ul><li><b>SO:</b> Windows 10 o superior</li><li><b>Procesador:</b> 2.5Ghz o superior</li><li><b>Memoria:</b> 2 GB de RAM</li><li><b>Gráficos:</b> NVIDIA GTX 960 (4GB) / AMD Radeon R9 380</li><li><b>Almacenamiento:</b> 300 MB de espacio disponible</li></ul></div></div>
+</section>
+<section class="j-ed" id="ediciones" aria-labelledby="j-ed-tit">
+<h2 id="j-ed-tit">Qué incluye la compra en Steam</h2>
+<p class="mini">En Steam se vende en una sola edición.</p>
+<div class="j-ed-grid"><div class="j-ed-card"><h3>A Thousand Cloys</h3>
+<p class="j-ed-precio"><b>US$4.49</b> <span class="o-desc">-10%</span> <s>US$4.99</s></p>
+<ul><li>A Thousand Cloys <span class="j-base">juego base</span></li></ul>
+</div></div>
+
+<p class="mini">Contenido y precios de hoy en la tienda de Steam para Argentina (en dólares).</p>
+</section>
+
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, la tienda de Steam y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 1 día registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días. Como referencia de largo plazo, el mínimo histórico externo es Steam: US$4.49 (noviembre de 2026, según IsThereAnyDeal).</p>
+<div class="j-hist-t"><h3>Historial de precio en Steam</h3><p>Seguimos el precio de A Thousand Cloys en Steam desde el 23 de noviembre de 2026 (1 día de registro). En todos los días con oferta que registramos costó US$4.49.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/steam/">Ver todas las ofertas de Steam</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

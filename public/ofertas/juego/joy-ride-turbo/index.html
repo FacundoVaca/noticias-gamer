@@ -23,17 +23,63 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/xbox/">Xbox</a> › <span>Joy Ride Turbo</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://store-images.s-microsoft.com/image/apps.55462.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.6e8da1e2-791b-4bc8-aaf6-a2665f7cdc90?w=400" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="Joy Ride Turbo" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>Joy Ride Turbo</h1>
+
+<p class="j-sub">En oferta en Xbox.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="13.75" data-original="55" data-moneda="ARS">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#7ee07e">Xbox</span><span class="o-plat">Xbox One</span><span class="o-plat">Xbox Series X|S</span></div>
+<div class="j-of-precio"><span class="j-ars-val">$14</span><span class="o-desc">-75%</span><s>$55</s><span class="j-ars-nota">precio de la tienda, sin impuestos</span></div>
+<ul class="j-datos"><li>Oferta hasta el 3 dic</li><li>Incluido en Game Pass</li></ul>
+<a class="j-btn" href="https://www.xbox.com/es-AR/games/store/Joy-Ride-Turbo/C1ZWH2BZ9TSF" rel="nofollow noopener sponsored" target="_blank">Ver en Xbox</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-vid-tit">Videos</a><a href="#j-cap-tit">Capturas</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre Joy Ride Turbo</h2>
+<p class="j-lead">Te presentamos Joy Ride Turbo, un juego de carreras arcade lleno de acrobacias, emoción, velocidad y caos. Presume de tus habilidades en el nuevo parque de acrobacias o consigue objetos para desbloquear coches y obtener ventaja adicional. Compite en circuitos nuevos y antiguos en Carrera de combate, Carrera Pro y Contrarreloj. Modo para 4 jugadores con pantalla dividida o compite con hasta 8 rivales a través de Xbox LIVE. ¡En Joy Ride Turbo, todo el mundo participa de la acción más trepidante!</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>BigPark</dd></div><div><dt>Editora</dt><dd>Microsoft Studios</dd></div><div><dt>Lanzamiento</dt><dd>23 de mayo de 2012</dd></div><div><dt>Géneros</dt><dd>Familia y niños, Carreras y vuelo y Deportes</dd></div><div><dt>Plataformas en oferta</dt><dd>Xbox One y Xbox Series X|S</dd></div></dl>
+<h3 class="j-res-tit">Reseñas y puntajes</h3><div class="j-res-grid"><div class="j-res"><span class="j-res-f">Usuarios de Microsoft Store</span><span class="j-res-v">4,4<small>/5</small></span><span class="j-res-n">Promedio de estrellas de compradores en Xbox (1.894 valoraciones).</span></div></div>
+
+
+
+</section>
+<section class="j-videos" aria-labelledby="j-vid-tit">
+<h2 id="j-vid-tit">Videos</h2>
+<div class="j-vid-grid"><figure><button class="j-yt" type="button" data-id="9_8t1oxucqM" aria-label="Reproducir Trailer de Joy Ride Turbo"><img src="https://i.ytimg.com/vi/9_8t1oxucqM/hqdefault.jpg" alt="" width="480" height="360" loading="lazy"><span class="j-play" aria-hidden="true"></span></button><figcaption>Trailer</figcaption></figure></div>
+<p class="mini">Videos de YouTube listados en IGDB. Se cargan recién cuando tocás reproducir.</p>
+</section>
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://store-images.s-microsoft.com/image/apps.31529.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.6ecef09f-6b09-4393-94e0-9f3f9c655882?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.31529.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.6ecef09f-6b09-4393-94e0-9f3f9c655882?w=600" alt="Captura de Joy Ride Turbo (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.55065.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.65e2c1e0-b81f-42dc-81fe-425535260882?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.55065.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.65e2c1e0-b81f-42dc-81fe-425535260882?w=600" alt="Captura de Joy Ride Turbo (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.53856.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.241b7462-f137-45f6-96eb-84a9a4758ece?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.53856.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.241b7462-f137-45f6-96eb-84a9a4758ece?w=600" alt="Captura de Joy Ride Turbo (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.40084.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.42e9c21d-e136-4703-aa6d-034a76e3fb42?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.40084.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.42e9c21d-e136-4703-aa6d-034a76e3fb42?w=600" alt="Captura de Joy Ride Turbo (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.18356.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.bbb2bd61-9262-4340-bff5-0aef41f22fd9?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.18356.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.bbb2bd61-9262-4340-bff5-0aef41f22fd9?w=600" alt="Captura de Joy Ride Turbo (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.40286.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.8694b604-5d33-4908-8555-dacfed75098a?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.40286.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.8694b604-5d33-4908-8555-dacfed75098a?w=600" alt="Captura de Joy Ride Turbo (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.40138.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.10a48c7b-643d-49e4-8407-bbae2b17a895?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.40138.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.10a48c7b-643d-49e4-8407-bbae2b17a895?w=600" alt="Captura de Joy Ride Turbo (7)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://store-images.s-microsoft.com/image/apps.47959.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.33cda227-5172-4555-b854-e17de2ff2360?w=1600" target="_blank" rel="noopener"><img src="https://store-images.s-microsoft.com/image/apps.47959.65697580773346286.de1a7dea-d35c-459d-a15c-a737811ee00f.33cda227-5172-4555-b854-e17de2ff2360?w=600" alt="Captura de Joy Ride Turbo (8)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos (Xbox)</h2><ul class="j-lista"><li>Xbox Network</li></ul></div>
+
+</section>
+
+
+
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, Microsoft Store y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días.</p>
+<div class="j-hist-t"><h3>Historial de precio en Xbox</h3><p>Seguimos el precio de Joy Ride Turbo en Xbox desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó $14.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/xbox/">Ver todas las ofertas de Xbox</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

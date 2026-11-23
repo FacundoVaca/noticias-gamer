@@ -23,17 +23,76 @@ b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true"
 x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
 document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
-<button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu"><span class="menu-ico" aria-hidden="true"></span>Menú</button>
-<nav class="menu" id="menu" aria-label="Principal">
-%%PRINCIPAL%%
-<div class="mas"><button class="mas-btn" type="button" aria-expanded="false" aria-controls="mas-plat">Plataformas</button><div class="mas-panel" id="mas-plat"><p class="mas-tit">Noticias por plataforma</p><a href="/categoria/pc/">PC</a><a href="/categoria/playstation/">PlayStation</a><a href="/categoria/xbox/">Xbox</a><a href="/categoria/nintendo/">Nintendo</a><a href="/categoria/movil/">Móvil</a><a href="/categoria/industria/">Industria</a><a href="/categoria/esports/">eSports</a></div></div>
-<div class="menu-solo"><p class="mas-tit">Ofertas por tienda</p><a href="/ofertas/steam/">Steam</a><a href="/ofertas/epic/">Epic Games</a><a href="/ofertas/xbox/">Xbox</a><a href="/ofertas/playstation/">PlayStation</a></div>
-</nav>
-<script>(()=>{const b=document.querySelector(".menu-btn"),m=document.getElementById("menu"),x=document.querySelector(".mas-btn"),p=document.getElementById("mas-plat");
-b.addEventListener("click",()=>{const a=b.getAttribute("aria-expanded")!=="true";b.setAttribute("aria-expanded",a);m.classList.toggle("abierto",a)});
-x.addEventListener("click",e=>{e.stopPropagation();const a=x.getAttribute("aria-expanded")!=="true";x.setAttribute("aria-expanded",a);p.classList.toggle("abierto",a)});
-document.addEventListener("click",e=>{if(!e.target.closest(".mas")){x.setAttribute("aria-expanded","false");p.classList.remove("abierto")}});
-document.addEventListener("keydown",e=>{if(e.key==="Escape"){x.setAttribute("aria-expanded","false");p.classList.remove("abierto");if(m.classList.contains("abierto")){b.click();b.focus()}}});})();</script></div></header>
+<main class="wrap"><nav class="migas" aria-label="Ubicación"><a href="/ofertas/">Ofertas</a> › <a href="/ofertas/epic/">Epic Games</a> › <span>LakeSide</span></nav>
+<article class="juego">
+<div class="j-top">
+<div class="j-img"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/header.jpg" onerror="this.onerror=null;this.src='/assets/portada.svg'" alt="LakeSide" referrerpolicy="no-referrer" width="460" height="215"></div>
+<div class="j-info">
+<h1>LakeSide</h1>
+
+<ul class="j-rapido" aria-label="Resumen"><li>Un jugador</li><li class="no">Sin español</li></ul><p class="j-sub">En oferta en Epic Games.</p>
+<ul class="j-ofertas">
+<li class="j-of" data-precio="4.49" data-original="14.99" data-moneda="USD">
+<div class="j-of-tienda"><span class="o-tienda" style="color:#e6e6e6">Epic Games</span><span class="o-plat">PC</span></div>
+<div class="j-of-precio"><span class="j-ars-val">US$4.49</span><span class="o-desc">-70%</span><s>US$14.99</s><span class="j-ars-nota">precio de la tienda</span></div>
+<ul class="j-datos"><li>Mínimo histórico: <b>US$3.74</b> en octubre de 2026 (según el historial de CheapShark)</li></ul>
+<a class="j-btn" href="https://store.epicgames.com/es-ES/browse?q=LakeSide&amp;sortBy=relevancy&amp;sortDir=DESC&amp;count=40" rel="nofollow noopener sponsored" target="_blank">Ver en Epic Games</a></li>
+</ul>
+</div>
+</div>
+<nav class="j-indice" aria-label="Secciones de la ficha"><a href="#j-acerca-tit">Sobre el juego</a><a href="#j-cap-tit">Capturas</a><a href="#j-idi-tit">Idiomas</a><a href="#j-req-tit">Requisitos</a><a href="#j-ed-tit">Qué incluye</a><a href="#j-dlc-tit">DLC</a><a href="#j-hist-tit">Historial de precios</a></nav>
+
+<section class="j-acerca" aria-labelledby="j-acerca-tit">
+<h2 id="j-acerca-tit">Sobre LakeSide</h2>
+<p class="j-lead">A cozy minimalist city builder. Build and manage a quiet town by the lake or expand it into a picturesque city state in this side-scrolling city builder featuring hybrid mechanics. Construct marvelous buildings, epic wonders and become the envy of the known world!</p>
+<dl class="j-ficha"><div><dt>Desarrolladora</dt><dd>Massive Galaxy Studios</dd></div><div><dt>Editora</dt><dd>Massive Galaxy Studios</dd></div><div><dt>Lanzamiento</dt><dd>28 de septiembre de 2022</dd></div><div><dt>Géneros</dt><dd>Indie y Estrategia</dd></div><div><dt>Plataformas en oferta</dt><dd>PC</dd></div><div><dt>Sistemas operativos (PC)</dt><dd>Windows</dd></div></dl>
+<h3 class="j-res-tit">Reseñas y puntajes</h3><div class="j-res-grid"><div class="j-res"><span class="j-res-f"><a href="https://store.steampowered.com/app/1552220/" rel="nofollow noopener" target="_blank">Usuarios de Steam</a></span><span class="j-res-v">68%<small>de reseñas positivas</small></span><span class="j-res-n">Porcentaje de compradores que lo recomiendan, sobre 186 reseñas.</span></div></div>
+
+<p class="o-chips"><span class="o-plat">Side Scroller</span><span class="o-plat">City Builder</span><span class="o-plat">Cute</span><span class="o-plat">Colony Sim</span><span class="o-plat">Sandbox</span></p>
+<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto"><p>LakeSide is a cozy city builder where you can build the perfect calm town by the lake side or a sprawling city state with wonders that the world has never seen.</p><p>With 2d side-scrolling pixel vistas, each game run offers a different set of building combinations, unlocking unique buildings or epic world wonders that offer sprawling growth to your city state</p><p>Build your own city with your own custom architectural and cultural changes.</p><p>Unlocking more buildings and expanding your palace gives you with powerful rewards to keep growing your city.</p><p>Feature List</p><ul><li>More than 150 building variations</li><li>38 different wonders and counting!</li><li>7 different background scenarios to start from</li><li>Each game run offers a different set of available buildings</li><li>Manage your resources carefully and keep your citizens alive</li></ul></div></details>
+</section>
+
+<section class="j-capturas" aria-labelledby="j-cap-tit">
+<h2 id="j-cap-tit">Capturas de pantalla</h2>
+<div class="j-galeria"><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_a4b64b070ab6e33912dfa8fddeb3c68c4f1c23ee.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_a4b64b070ab6e33912dfa8fddeb3c68c4f1c23ee.600x338.jpg?t=1778060038" alt="Captura de LakeSide (1)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_c00caf7e3f809a9b6e38d985ed46f6d6cf039e53.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_c00caf7e3f809a9b6e38d985ed46f6d6cf039e53.600x338.jpg?t=1778060038" alt="Captura de LakeSide (2)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_16e8a42a39b36319003043b92e0c2c9282e10168.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_16e8a42a39b36319003043b92e0c2c9282e10168.600x338.jpg?t=1778060038" alt="Captura de LakeSide (3)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_c387e1c45cb304d7326e6537e29624f933482b15.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_c387e1c45cb304d7326e6537e29624f933482b15.600x338.jpg?t=1778060038" alt="Captura de LakeSide (4)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_f9c3e5293bed1ca20a6263bad48faf1eca6ee823.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_f9c3e5293bed1ca20a6263bad48faf1eca6ee823.600x338.jpg?t=1778060038" alt="Captura de LakeSide (5)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_7f2b7c6133be728ad63340369fe99512ea4989b6.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_7f2b7c6133be728ad63340369fe99512ea4989b6.600x338.jpg?t=1778060038" alt="Captura de LakeSide (6)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a><a href="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_9c9c7fff333f4ed0f145b36ab93432ff64b036c3.1920x1080.jpg?t=1778060038" target="_blank" rel="noopener"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552220/ss_9c9c7fff333f4ed0f145b36ab93432ff64b036c3.600x338.jpg?t=1778060038" alt="Captura de LakeSide (7)" width="600" height="338" loading="lazy" referrerpolicy="no-referrer"></a></div>
+</section>
+<section class="j-car">
+<div><h2 id="j-car-tit">Detalles técnicos (versión de PC en Steam)</h2><ul class="j-lista"><li>Logros de Steam</li><li>Cromos de Steam</li><li>Steam Cloud</li><li>Préstamo familiar</li></ul></div>
+<div><h2 id="j-idi-tit">Idiomas (versión de PC en Steam)</h2><p class="j-es j-es-no"><b>No tiene textos en español</b> según Steam.</p><div class="j-idi-wrap"><table class="j-idi"><thead><tr><th>Idioma</th><th>Textos</th><th>Voces</th><th>Subtítulos</th></tr></thead><tbody><tr><td>Inglés</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Alemán</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Portugués de Brasil</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr><tr><td>Portugués de Portugal</td><td><span class="ok" aria-label="Sí">✓</span></td><td><span class="no" aria-label="No">✗</span></td><td><span class="no" aria-label="No">✗</span></td></tr></tbody></table></div><p class="mini">Según la tienda de Steam. "Textos" es la interfaz y los menús; "Voces" indica audio completo en ese idioma.</p></div>
+</section>
+<section class="j-req" aria-labelledby="j-req-tit">
+<h2 id="j-req-tit">Requisitos del sistema para PC</h2>
+<div class="j-req-cols"><div><h3>Mínimos</h3><ul><li>Requiere un procesador y un sistema operativo de 64 bits</li><li><b>SO:</b> Windows 10</li><li><b>Procesador:</b> Intel Core 2 Duo at 2.2 GHz, AMD Athlon 64 2.2Ghz</li><li><b>Memoria:</b> 4 GB de RAM</li><li><b>Gráficos:</b> intel hd 3000</li><li><b>Almacenamiento:</b> 150 MB de espacio disponible</li></ul></div><div><h3>Recomendados</h3><ul><li>Requiere un procesador y un sistema operativo de 64 bits</li></ul></div></div>
+</section>
+<section class="j-ed" id="ediciones" aria-labelledby="j-ed-tit">
+<h2 id="j-ed-tit">Qué incluye la compra en Steam</h2>
+<p class="mini">En Steam se vende en una sola edición. Los DLC y expansiones se compran aparte (más abajo).</p>
+<div class="j-ed-grid"><div class="j-ed-card"><h3>LakeSide</h3>
+<p class="j-ed-precio"><b>US$7.99</b></p>
+<ul><li>LakeSide <span class="j-base">juego base</span></li></ul>
+</div></div>
+
+<p class="mini">Contenido y precios de hoy en la tienda de Steam para Argentina (en dólares).</p>
+</section>
+<section class="j-dlc" aria-labelledby="j-dlc-tit">
+<h2 id="j-dlc-tit">DLC, expansiones y extras</h2>
+<p class="mini">Cada uno se compra aparte y requiere LakeSide. Sus precios no están incluidos en el del juego. Los agrupamos según su nombre en la tienda.</p>
+<h3 class="j-dlc-cat">Bandas sonoras <small>1</small></h3><p class="mini">Solo música: no agregan nada al juego.</p><ul class="j-dlc-lista"><li><a href="https://store.steampowered.com/app/3274120/" rel="nofollow noopener" target="_blank">LakeSide Soundtrack</a><span class="j-dlc-p"><span class="j-dlc-t">Steam</span>US$2.99</span></li></ul>
+<p class="mini">Los que no tienen ficha propia llevan a Steam, con su precio de hoy en Steam.</p>
+</section>
+<p class="mini j-fuentes">Datos del juego: IsThereAnyDeal, la tienda de Steam y IGDB. Los textos y capturas son de la tienda y de su editora.</p>
+<section class="j-hist" aria-labelledby="j-hist-tit">
+<h2 id="j-hist-tit">Historial de precios</h2>
+<p class="mini">Es nuestro propio registro: anotamos el precio de cada tienda todos los días que el juego está en oferta (los días sin oferta quedan en blanco). Empezamos a registrar el 22 de noviembre de 2026, así que todavía cubre 2 días como máximo. Los mínimos históricos de años anteriores vienen de IsThereAnyDeal y CheapShark, y se indica en cada caso.</p>
+<p class="j-nuevo"><b>Historial nuevo: llevamos 2 días registrando este precio.</b> El gráfico aparece cuando juntemos al menos 14 días. Como referencia de largo plazo, el mínimo histórico externo es Epic Games: US$3.74 (octubre de 2026, según CheapShark).</p>
+<div class="j-hist-t"><h3>Historial de precio en Epic Games</h3><p>Seguimos el precio de LakeSide en Epic Games desde el 22 de noviembre de 2026 (2 días de registro). En todos los días con oferta que registramos costó US$4.49.</p>
+
+</div>
+</section>
+<aside class="o-metodo"><h2>Cómo calculamos el precio en pesos</h2><p class="mini">Tomamos el precio de la tienda, lo pasamos con el dólar oficial del día (salvo Xbox, que ya está en pesos) y le sumamos IVA 21% y percepción 30%. Es una estimación: el precio final lo define tu banco.</p></aside>
+<p><a href="/ofertas/epic/">Ver todas las ofertas de Epic Games</a></p>
+</article>
+<script src="/assets/juego.js" defer></script><a class="tg-aviso" href="https://t.me/bolsillogamer" rel="noopener" target="_blank"><span class="tg-ico" aria-hidden="true">✈</span><span><strong>Sumate a nuestro canal de Telegram</strong> y enterate primero de los juegos gratis y las ofertas en su precio más bajo.</span><span class="tg-btn">Unirme</span></a></main>
 <footer class="pie"><div class="wrap">
 <p><strong>Bolsillo Gamer</strong>. Noticias de videojuegos en español: lanzamientos, consolas, PC, Nintendo, PlayStation, Xbox y la industria, explicadas con contexto.</p>
 <nav class="pie-links" aria-label="Institucional"><a href="/acerca/">Quiénes somos</a><a href="/politica-editorial/">Política editorial</a><a href="/privacidad/">Privacidad</a><a href="/contacto/">Contacto</a><a href="/feed.xml">RSS</a><a href="/calculadora-pesos/">Calculadora en pesos</a><a href="https://bolsillo.online/dolar/">Dólar hoy</a></nav>

@@ -1,0 +1,392 @@
+{
+  "clave": "fallout 76",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f886-70e0-a872-4970e8bd9503",
+  "appid": "1151340",
+  "lanzamiento": "2018-11-14",
+  "desarrolladores": [
+    "Bethesda Game Studios",
+    "Bethesda Game Studios®"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "Open World",
+    "Multiplayer",
+    "Post-apocalyptic",
+    "RPG",
+    "Dark Comedy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 78790,
+      "url": "https://store.steampowered.com/app/1151340/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 52,
+      "cantidad": 46,
+      "url": "https://metacritic.com/game/fallout-76/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 29,
+      "cantidad": 7223,
+      "url": "https://metacritic.com/game/fallout-76/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 54,
+      "cantidad": 150,
+      "url": "https://opencritic.com/game/6227/fallout-76"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1639700",
+      "nombre": "Fallout 76 - Deathclaw Pet Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1151340",
+          "nombre": "Fallout 76"
+        },
+        {
+          "appid": "4712160",
+          "nombre": "Fallout 76 - Deathclaw Pet Bundle"
+        }
+      ],
+      "usd": 13.85,
+      "antes": 41.99,
+      "descuento": 67
+    },
+    {
+      "packageid": "456623",
+      "nombre": "Fallout 76",
+      "apps": [
+        {
+          "appid": "1151340",
+          "nombre": "Fallout 76"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 23.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1151340": {
+      "usd": 13.85,
+      "gratis": false
+    },
+    "4712160": {
+      "usd": 12.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4712160",
+      "nombre": "Fallout 76 - Deathclaw Pet Bundle",
+      "gratis": false,
+      "usd": 12.59,
+      "descuento": 40
+    },
+    {
+      "appid": "4250650",
+      "nombre": "Fallout 76: Mojave Bundle",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 50
+    },
+    {
+      "appid": "4141110",
+      "nombre": "Fallout 76: Burning Springs Starter Bundle",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Veinticinco años tras la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio a los Estados Unidos posnucleares. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "14 ABR 2020",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Fallout 76",
+  "acerca": [
+    [
+      "p",
+      "Veinticinco años tras la caída de las bombas, saldrás junto a los demás compañeros moradores del refugio a los Estados Unidos posnucleares. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto."
+    ],
+    [
+      "h",
+      "Saludos desde Fallout 76 – ¡Vuelve pronto!"
+    ],
+    [
+      "p",
+      "De Bethesda Game Studios, los galardonados creadores de The Elder Scrolls V: Skyrim y Fallout 4. Únete a millones de jugadores y explora, construye, completa misiones y triunfa en esta aventura multijugador en un enorme mundo abierto."
+    ],
+    [
+      "p",
+      "Día de la Recuperación, año 2102: juega en solitario o en equipo junto con otros moradores del refugio mientras abandonáis la comodidad del refugio para conquistar la naturaleza salvaje de Virginia Occidental 25 años después de que la Gran Guerra cambiara el mundo para siempre."
+    ],
+    [
+      "h",
+      "Años de actualizaciones GRATUITAS"
+    ],
+    [
+      "p",
+      "Fallout 76 ha crecido durante todos estos años gracias a actualizaciones gratuitas, ampliaciones del mapa y un calendario cargado de eventos en el juego. Siempre hay algo nuevo que descubrir en esta Appalachia."
+    ],
+    [
+      "h",
+      "Forja a tu superviviente"
+    ],
+    [
+      "p",
+      "Configura a tu superviviente con el icónico sistema S.P.E.C.I.A.L. de Fallout. Juega como un tanque bajo la protección de una servoarmadura, un sigiloso francotirador, un pistolero del Oeste, un matón con puños de acero... o crea tu propia configuración."
+    ],
+    [
+      "h",
+      "Construye un C.A.M.P."
+    ],
+    [
+      "p",
+      "¡Crea tu propio asentamiento en el Yermo! Elige la ubicación y diseña el C.A.M.P. de tus sueños. Una fortaleza en la montaña, una finca en el bosque, un puesto avanzado de saqueador, un laboratorio... ¡Tienes un sinfín de posibilidades disponibles, así que deja volar tu imaginación!"
+    ],
+    [
+      "h",
+      "Descubre historias de Appalachia"
+    ],
+    [
+      "p",
+      "Completa misiones y adéntrate en profundas historias con facciones rivales y decisiones que irán forjando tu aventura. Viaja desde densos bosques hasta la calurosa Burning Springs o el radiactivo pantano de Cranberry; descubre regiones llenas de historias, recompensas ocultas y críptidos legendarios. Caza al misterioso hombre polilla, al enorme Sheepsquatch o al legendario Bigfoot para no convertirte en su presa."
+    ],
+    [
+      "h",
+      "El Destripador"
+    ],
+    [
+      "p",
+      "¡Una serie de rituales y asesinatos están sembrando el miedo entre los habitantes de Appalachia! Destapa la verdad sobre el regreso del célebre Destripador buscando pistas, exterminando plagas de sectarios por todo el Yermo y enfrentándote a una nueva búsqueda de recompensas."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compras dentro de la aplicación",
+    "Chat de voz convertido a texto",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600k 3.5 GHz /AMD Ryzen 3 1300X 3.5 GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 780 3GB /AMD Radeon R9 285 2GB or equivalent"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "96 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 3.6 GHz /AMD Ryzen 5 1500X 3.5 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 970 4GB /AMD R9 290X 4GB"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "96 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/435f03784cc9a2781de9b47fb9b802bcb7023385/ss_435f03784cc9a2781de9b47fb9b802bcb7023385.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/435f03784cc9a2781de9b47fb9b802bcb7023385/ss_435f03784cc9a2781de9b47fb9b802bcb7023385.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/cc32c8ed15c943d8f13808caa3767713d0c59751/ss_cc32c8ed15c943d8f13808caa3767713d0c59751.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/cc32c8ed15c943d8f13808caa3767713d0c59751/ss_cc32c8ed15c943d8f13808caa3767713d0c59751.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/30f3e08ed0236370fd9a69239ee7be7a08c5488e/ss_30f3e08ed0236370fd9a69239ee7be7a08c5488e.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/30f3e08ed0236370fd9a69239ee7be7a08c5488e/ss_30f3e08ed0236370fd9a69239ee7be7a08c5488e.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/e7c0a0a2bb635420b7c0094d9a9c9da74de5d84e/ss_e7c0a0a2bb635420b7c0094d9a9c9da74de5d84e.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/e7c0a0a2bb635420b7c0094d9a9c9da74de5d84e/ss_e7c0a0a2bb635420b7c0094d9a9c9da74de5d84e.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/206572a9c2b2e2a7bb8b70c3cffebe6aa841ff57/ss_206572a9c2b2e2a7bb8b70c3cffebe6aa841ff57.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/206572a9c2b2e2a7bb8b70c3cffebe6aa841ff57/ss_206572a9c2b2e2a7bb8b70c3cffebe6aa841ff57.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/061a7fddc61c14eb716a06ec44680ba7dfa32de6/ss_061a7fddc61c14eb716a06ec44680ba7dfa32de6.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/061a7fddc61c14eb716a06ec44680ba7dfa32de6/ss_061a7fddc61c14eb716a06ec44680ba7dfa32de6.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/c8b0300c9917ad22dfb8041f2398a257bcb52d3a/ss_c8b0300c9917ad22dfb8041f2398a257bcb52d3a.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/c8b0300c9917ad22dfb8041f2398a257bcb52d3a/ss_c8b0300c9917ad22dfb8041f2398a257bcb52d3a.1920x1080.jpg?t=1791379859"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/529ac97daf7f87262ec399390b0f2eec50c3364c/ss_529ac97daf7f87262ec399390b0f2eec50c3364c.600x338.jpg?t=1791379859",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151340/529ac97daf7f87262ec399390b0f2eec50c3364c/ss_529ac97daf7f87262ec399390b0f2eec50c3364c.1920x1080.jpg?t=1791379859"
+    }
+  ],
+  "web": "https://fallout.bethesda.net/en/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Drug Reference Intense Violence Strong Language Suggestive Themes Use of Alcohol",
+  "igdbIntentado": true,
+  "igdb": 103020,
+  "youtube": [
+    {
+      "id": "iXf0R24_YpQ",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "Ir7cRRiVGjw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Og3A5yIs3b8",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "mUipXErjqAA",
+      "nombre": "E3 2018 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-23T18:19:40.582Z"
+}
