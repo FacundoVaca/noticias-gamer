@@ -65,9 +65,16 @@ const candidatos = enriquecidos.filter((g) => !g.tema && (g.fuentes >= P.minFuen
 const seguimientos = enriquecidos.filter((g) => g.tema?.slug).sort((a, b) => b.puntaje - a.puntaje);
 log(`Temas nuevos: ${candidatos.length}. Posibles actualizaciones: ${seguimientos.length}. Repetidos sin notas nuevas: se omiten.`);
 
+// Largo mínimo según el formato: una breve de último momento no necesita 550 palabras
+const FORMATOS = ["breve", "estandar", "rumor", "guia", "analisis"];
+const minimoDe = (n) => ({ breve: 200, rumor: 380, guia: 420, analisis: 750 }[n.formato] ?? P.minPalabras);
+
 // Controles por tipo de nota. Devuelve un motivo para reescribir, o "" si está bien.
 // En ofertas deja solo los productos cuyo enlace y precio aparecen de verdad en las fuentes.
 function revisarTipo(n, fuentes) {
+  if (!FORMATOS.includes(n.formato)) n.formato = n.tipo === "problema" ? "guia" : "estandar";
+  if (n.formato === "rumor" && !(n.rumor?.sinConfirmar || []).some((x) => x?.trim()))
+    return 'Es un rumor: completá el campo "rumor" con lo que falta confirmar, lo confirmado y qué tan confiable es el origen.';
   if (n.tipo === "problema") {
     const i = n.cuerpo.findIndex((b) => b.tipo === "h2" && /soluci|arregl/i.test(b.texto));
     const pasos = i < 0 ? 0 : n.cuerpo.slice(i + 1).filter((b) => b.tipo === "li").length;
@@ -120,7 +127,7 @@ for (const g of candidatos) {
       const tipoMotivo = revisarTipo(n, g.unicos);
       if (tipoMotivo) motivo = tipoMotivo;
       else if (!mayusculasOK([n.titulo, n.bajada, ...n.cuerpo.map((b) => b.texto)])) motivo = "La versión anterior estaba escrita toda en minúsculas. Usá mayúsculas normales al inicio de cada oración y en los nombres propios.";
-      else if (palabras < P.minPalabras) motivo = `La nota anterior quedó corta (${palabras} palabras). Escribí al menos ${P.minPalabras + 80} palabras con más contexto.`;
+      else if (palabras < minimoDe(n)) motivo = `La nota anterior quedó corta (${palabras} palabras) para el formato ${n.formato || "estandar"}. Escribí al menos ${minimoDe(n) + 60} palabras con más contexto.`;
       else if (copia > P.maxCopiaLiteral) motivo = "La versión anterior copiaba frases textuales de las fuentes. Reescribí todo con tus propias palabras y otra estructura.";
       else { nota = n; break; }
       nota = null;
@@ -147,8 +154,15 @@ for (const g of candidatos) {
     etiquetas: (nota.etiquetas || []).slice(0, 6), clave: (nota.clave || []).slice(0, 5).map(capitalizar),
     cuerpo: nota.cuerpo.filter((b) => b.texto?.trim()).map((b) => ({ ...b, texto: capitalizar(b.texto.trim()) })),
     tipo: nota.tipo || "noticia",
+    formato: nota.formato || "estandar",
+    rumor: nota.formato === "rumor" && nota.rumor ? {
+      confirmado: (nota.rumor.confirmado || []).filter((x) => x?.trim()).map((x) => capitalizar(x.trim())),
+      sinConfirmar: (nota.rumor.sinConfirmar || []).filter((x) => x?.trim()).map((x) => capitalizar(x.trim())),
+      confiabilidad: ["alta", "media", "baja"].includes(nota.rumor.confiabilidad) ? nota.rumor.confiabilidad : null,
+      motivo: nota.rumor.motivoConfiabilidad?.trim() ? capitalizar(nota.rumor.motivoConfiabilidad.trim()) : null,
+    } : undefined,
     ofertas: nota.tipo === "ofertas" ? nota.ofertas : undefined,
-    preguntas: (nota.preguntas || []).filter((q) => q.p?.trim() && q.r?.trim()).slice(0, 4).map((q) => ({ p: capitalizar(q.p.trim()), r: capitalizar(q.r.trim()) })),
+    preguntas: (nota.preguntas || []).filter((q) => q.p?.trim() && q.r?.trim()).slice(0, 3).map((q) => ({ p: capitalizar(q.p.trim()), r: capitalizar(q.r.trim()) })),
     imagen, modelo: nota.modelo,
     fuentes: g.unicos.map((it) => ({ medio: it.fuente, titulo: it.titulo, url: it.link })),
   };
