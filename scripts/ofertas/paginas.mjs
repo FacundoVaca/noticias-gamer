@@ -57,13 +57,24 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
 
   // Datos de la ficha que usan los filtros del listado (sistema operativo, idioma, tipo)
   const fichasInfo = cargarFichas();
+  // Géneros en español (IGDB los trae en inglés) y modos de juego a partir de las características de Steam/Xbox y etiquetas
+  const GEN = { adventure: "Aventura", simulator: "Simuladores", racing: "Carreras", strategy: "Estrategia", "role-playing (rpg)": "Rol", rpg: "Rol",
+    shooter: "Disparos", fighting: "Lucha", sport: "Deportes", sports: "Deportes", platform: "Plataformas", puzzle: "Puzles", arcade: "Arcade",
+    tactical: "Estrategia", "hack and slash/beat 'em up": "Acción", "card & board game": "Cartas y mesa", "free to play": "Gratis para jugar", indie: "Indie" };
+  const generosDe = (fi) => [...new Set((fi.generos || []).map((x) => GEN[String(x).toLowerCase()] || x)
+    .filter((x) => !/acceso anticipado|gratis para jugar|free to play/i.test(x)))];
+  const modosDe = (fi) => {
+    const t = [...(fi.caracteristicas || []), ...(fi.etiquetas || [])].join("|").toLowerCase();
+    return [/un jugador|single.?player/.test(t) && "Un jugador", /cooperativo|co-?op/.test(t) && "Cooperativo",
+      /multijugador|jcj|pvp|multiplayer/.test(t) && "Multijugador", /pantalla partida|split screen|cooperativo local|multijugador local|local co-?op/.test(t) && "Local o pantalla dividida"].filter(Boolean);
+  };
   const atributos = (g) => {
     const fi = fichasInfo[claveJuego(g.titulo)] || {};
     const os = [...(fi.sistemas || []), ...(fi.steamDeck && fi.steamDeck !== "No compatible" ? ["Steam Deck"] : [])];
     const es = (fi.idiomas || []).filter((x) => /^español/i.test(x.nombre));
     const idi = !fi.idiomas?.length ? "" : es.length ? (es.some((x) => x.voces) ? "tv" : "t") : "n";
     const enMin = !g.gratis && (g.minimoReal || (g.minHist && g.precio <= g.minHist.precio * 1.01));
-    return ` data-os="${e(os.join("|"))}" data-es="${idi}" data-k="${g.extra?.dlc || fi.tipo === "dlc" ? "dlc" : "juego"}"${enMin ? ' data-min="1"' : ""}${g.extra?.gamePass ? ' data-gp="1"' : ""}`;
+    return ` data-g="${e(generosDe(fi).join("|"))}" data-m="${e(modosDe(fi).join("|"))}" data-os="${e(os.join("|"))}" data-es="${idi}" data-k="${g.extra?.dlc || fi.tipo === "dlc" ? "dlc" : "juego"}"${enMin ? ' data-min="1"' : ""}${g.extra?.gamePass ? ' data-gp="1"' : ""}`;
   };
   const tarjeta = (g, i = 0) => {
     const T = TIENDAS_INFO[g.tienda];
@@ -86,6 +97,11 @@ export function generarOfertas({ cfg, pagina, escribir, e, fechaLarga, anuncio }
   const horaTxt = (iso) => iso ? new Intl.DateTimeFormat("es-AR", { timeZone: "America/Argentina/Buenos_Aires", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(new Date(iso)) : "";
   const diaTxt = (iso) => iso ? new Intl.DateTimeFormat("es-AR", { timeZone: "America/Argentina/Buenos_Aires", day: "numeric", month: "long" }).format(new Date(iso)) : "";
   const actualizadoEl = (iso) => iso ? `<p class="o-upd"><span class="o-upd-dot" aria-hidden="true"></span><span>Precios actualizados el <time datetime="${iso}">${horaTxt(iso)}</time> h (hora de Argentina)</span></p>` : "";
+  // Cada tienda se actualiza por separado (PlayStation, 2 veces por día): se muestra la hora de cada una
+  const horaCorta = (iso) => new Intl.DateTimeFormat("es-AR", { timeZone: "America/Argentina/Buenos_Aires", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" }).format(new Date(iso));
+  const actualizadoTiendas = Object.keys(TIENDAS_INFO).some((k) => datos.estado?.[k]?.fecha)
+    ? `<p class="o-upd o-upd-t"><span class="o-upd-dot" aria-hidden="true"></span><span>Última actualización de cada tienda (hora de Argentina): ${Object.entries(TIENDAS_INFO).filter(([k]) => datos.estado?.[k]?.fecha).map(([k, T]) => `<b>${T.nombre}</b> <time datetime="${datos.estado[k].fecha}">${horaCorta(datos.estado[k].fecha)}</time>`).join(" · ")}. Cada tienda se lee por separado; PlayStation, dos veces por día.</span></p>`
+    : actualizadoEl(datos.actualizado);
   // Metodología con los valores reales que usa el cálculo
   const notaPrecios = `<aside class="o-metodo" aria-labelledby="o-metodo-tit"><h2 id="o-metodo-tit">Cómo calculamos el precio en pesos</h2>
 <ol class="o-formula"><li><span>Precio de la tienda</span><small>En dólares, o en pesos sin impuestos en Xbox</small></li>
@@ -112,6 +128,10 @@ ${todos.some((g) => g.minHist) ? `<p class="mini">Mínimos históricos en la mon
     // Cuántas ofertas tienen cada dato: un filtro solo aparece si sirve para una parte razonable del listado
     const attrs = lista.map((g) => atributos(g));
     const cubre = (re) => attrs.filter((x) => re.test(x)).length;
+    const conG = cubre(/data-g="[^"]+"/), conM = cubre(/data-m="[^"]+"/);
+    const cuentaG = {};
+    for (const g of lista) for (const x of generosDe(fichasInfo[claveJuego(g.titulo)] || {})) cuentaG[x] = (cuentaG[x] || 0) + 1;
+    const GENS = Object.entries(cuentaG).filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).slice(0, 12).map(([x]) => x);
     const conOs = cubre(/data-os="[^"]+"/), conEs = cubre(/data-es="[tvn]+"/), conDlc = cubre(/data-k="dlc"/), conGp = cubre(/data-gp/);
     const SO = ["Windows", "macOS", "Linux", "Steam Deck"].filter((x) => attrs.some((a) => a.includes(x)));
     const chk = (grupo, valor, texto) => `<label class="o-chk"><input type="checkbox" data-f="${grupo}" value="${e(valor)}"><span>${e(texto)}</span></label>`;
@@ -119,6 +139,8 @@ ${todos.some((g) => g.minHist) ? `<p class="mini">Mínimos históricos en la mon
     const panel = [
       grupoF("Descuento", `<select id="o-dm" aria-label="Descuento mínimo"><option value="0">Cualquiera</option><option value="50">50% o más</option><option value="75">75% o más</option><option value="90">90% o más</option></select>`),
       grupoF("Precio en pesos", `<span class="o-rango"><input type="number" id="o-pmin" inputmode="numeric" min="0" step="1000" placeholder="Mín. $" aria-label="Precio mínimo en pesos"><input type="number" id="o-pmax" inputmode="numeric" min="0" step="1000" placeholder="Máx. $" aria-label="Precio máximo en pesos"></span>`),
+      GENS.length > 1 && conG >= lista.length * 0.2 ? grupoF("Género", GENS.map((x) => chk("g", x, x)).join(""), `Lo tienen ${conG} de ${lista.length} ofertas.`) : "",
+      conM >= lista.length * 0.2 ? grupoF("Modo de juego", ["Un jugador", "Cooperativo", "Multijugador", "Local o pantalla dividida"].map((x) => chk("m", x, x)).join(""), `Según las características de la tienda. Lo tienen ${conM} de ${lista.length} ofertas.`) : "",
       plats.length > 1 ? grupoF("Plataforma", plats.map((p) => chk("pl", p, p)).join("")) : "",
       SO.length && conOs >= lista.length * 0.2 ? grupoF("Sistema operativo", SO.map((x) => chk("os", x, x === "Steam Deck" ? "Steam Deck (jugable o verificado)" : x)).join(""), `Según Steam. Lo tienen ${conOs} de ${lista.length} ofertas; las demás no aparecen con este filtro.`) : "",
       conEs >= lista.length * 0.2 ? grupoF("Idioma", `${chk("es", "t", "Con textos en español")}${chk("es", "v", "Con voces en español")}`, `Según Steam (versión de PC). Lo tienen ${conEs} de ${lista.length} ofertas.`) : "",
@@ -149,11 +171,14 @@ ${anuncio}${faqHtml(T)}
   const top = (k) => [...porTienda(k)].filter((g) => !g.gratis).slice(0, 40).sort((a, b) => b.descuento - a.descuento).slice(0, 8);
   const total = todos.filter((g) => !g.extra?.proximamente).length;
   // Mejores del día: los 2 descuentos más grandes entre los 40 juegos más populares de cada tienda
+  // No alcanza con el % de descuento: suma puntos estar en su mínimo histórico, ser popular y que el ahorro sea grande en plata
+  const enMinimo = (g) => !g.gratis && (g.minimoReal || (g.minHist && g.precio <= g.minHist.precio * 1.01));
+  const puntaje = (g, i) => g.descuento + (enMinimo(g) ? 25 : 0) + Math.max(0, 20 - i / 2) + Math.min(15, ((g.arsOrig ?? 0) - (g.ars ?? 0)) / 4000);
   const mejores = Object.keys(TIENDAS_INFO).flatMap((k) => porTienda(k).filter((g) => !g.gratis && g.descuento).slice(0, 40)
-    .sort((a, b) => b.descuento - a.descuento).slice(0, 2)).sort((a, b) => b.descuento - a.descuento);
+    .map((g, i) => ({ g, p: puntaje(g, i) })).sort((a, b) => b.p - a.p).slice(0, 2)).sort((a, b) => b.p - a.p).map((x) => x.g);
   const cuerpo = `${navTiendas(null)}<h1 class="sec-tit">Ofertas de juegos hoy: Steam, Epic, Xbox y PlayStation en pesos</h1>
-<p class="o-intro">Juntamos ${total ? `${total.toLocaleString("es-AR")} ofertas vigentes` : "las ofertas vigentes"} de las cuatro tiendas grandes y les calculamos el precio en pesos con impuestos, para que compares sin hacer cuentas. Se actualiza solo varias veces por día.</p>${actualizadoEl(datos.actualizado)}
-${mejores.length ? `<section class="o-sec o-top"><h2 class="o-h2">Mejores ofertas de hoy</h2><p class="o-sub">Los dos descuentos más grandes de cada tienda entre sus 40 juegos más populares.</p><div class="o-grilla">${mejores.map(tarjeta).join("")}</div></section>` : ""}
+<p class="o-intro">Juntamos ${total ? `${total.toLocaleString("es-AR")} ofertas vigentes` : "las ofertas vigentes"} de las cuatro tiendas grandes y les calculamos el precio en pesos con impuestos, para que compares sin hacer cuentas. Se actualiza solo varias veces por día.</p>${actualizadoTiendas}
+${mejores.length ? `<section class="o-sec o-top"><h2 class="o-h2">Mejores ofertas de hoy</h2><p class="o-sub">Dos por tienda entre sus 40 juegos más populares. No elegimos solo por el porcentaje: también pesa que esté en su precio más bajo registrado, qué tan popular es y cuánta plata ahorrás.</p><div class="o-grilla">${mejores.map(tarjeta).join("")}</div></section>` : ""}
 ${gratis.length ? `<h2 class="o-h2">Gratis ahora</h2><div class="o-grilla">${gratis.map(tarjeta).join("")}</div>` : ""}
 ${prox.length ? `<h2 class="o-h2">Próximamente gratis</h2><div class="o-grilla">${prox.map(tarjeta).join("")}</div>` : ""}
 ${anuncio}
@@ -254,6 +279,14 @@ ${faqHtml({ nombre: "cada tienda" })}`;
       }).join("\n");
 
       // Datos del juego, solo los que trae alguna fuente
+      // Mismo estudio con dos nombres (por ejemplo, "Hazelight" y "Hazelight Studios"): se deja uno solo, el más completo
+      const empresas = (xs) => {
+        const clave = (n) => String(n).toLowerCase().replace(/[.,]/g, " ").replace(/\b(studios?|games|entertainment|interactive|inc|ltd|llc|gmbh|ab|co|corp|corporation|s ?a|s ?l|limited|software|publishing)\b/g, "").replace(/[^a-z0-9]+/g, "");
+        const out = new Map();
+        for (const n of xs || []) { const k = clave(n) || n; if (!out.has(k) || n.length > out.get(k).length) out.set(k, n); }
+        return [...out.values()];
+      };
+      info.desarrolladores = empresas(info.desarrolladores); info.editores = empresas(info.editores);
       const datosJuego = [
         info.desarrolladores?.length ? ["Desarrolladora", lista(info.desarrolladores.map(e))] : null,
         info.editores?.length ? ["Editora", lista(info.editores.map(e))] : null,
@@ -266,12 +299,22 @@ ${faqHtml({ nombre: "cada tienda" })}`;
         info.edad ? ["Edad mínima (Steam)", `${info.edad} años`] : null,
       ].filter(Boolean);
       const steamR = info.resenasSteam;
-      const resenas = [
-        info.resenaXbox ? `<b>${e(info.resenaXbox.fuente)}:</b> ${String(Math.round(info.resenaXbox.puntaje * 10) / 10).replace(".", ",")}/5 (${Number(info.resenaXbox.cantidad).toLocaleString("es-AR")} valoraciones)` : "",
-        steamR ? `<b>Usuarios de Steam:</b> ${e(steamR.texto || "")}${steamR.texto ? ", " : ""}${Math.round(steamR.positivas / steamR.total * 100)}% positivas de ${Number(steamR.total).toLocaleString("es-AR")} reseñas` : "",
-        ...(info.resenas || []).filter((r) => r.puntaje != null && !(steamR && /^steam$/i.test(r.fuente))).slice(0, 3)
-          .map((r) => `<b>${e(r.fuente)}:</b> ${e(String(r.puntaje))}${/steam/i.test(r.fuente) ? "% positivas" : "/100"}${r.cantidad ? ` (${Number(r.cantidad).toLocaleString("es-AR")} reseñas)` : ""}`),
+      // Reseñas: una tarjeta por fuente, con su escala y qué mide cada una (no son comparables entre sí)
+      const miles = (n) => Number(n).toLocaleString("es-AR");
+      const coma = (n) => String(Math.round(n * 10) / 10).replace(".", ",");
+      const RES = {
+        steam: (r) => ["Usuarios de Steam", `${r.puntaje}%`, "de reseñas positivas", `Porcentaje de compradores que lo recomiendan${r.cantidad ? `, sobre ${miles(r.cantidad)} reseñas` : ""}.`],
+        metascore: (r) => ["Prensa (Metacritic)", `${r.puntaje}`, "/100", `Promedio ponderado de críticas de medios${r.cantidad ? ` (${miles(r.cantidad)} críticas)` : ""}.`],
+        "metacritic user score": (r) => ["Usuarios de Metacritic", coma(r.puntaje / 10), "/10", `Promedio de votos del público en Metacritic${r.cantidad ? ` (${miles(r.cantidad)} votos)` : ""}.`],
+        opencritic: (r) => ["Prensa (OpenCritic)", `${r.puntaje}`, "/100", `Promedio de críticas de medios${r.cantidad ? ` (${miles(r.cantidad)} críticas)` : ""}.`],
+      };
+      const resenasL = [
+        info.resenaXbox ? ["Usuarios de Microsoft Store", coma(info.resenaXbox.puntaje), "/5", `Promedio de estrellas de compradores en Xbox (${miles(info.resenaXbox.cantidad)} valoraciones).`, null] : null,
+        steamR && !(info.resenas || []).some((r) => /^steam$/i.test(r.fuente)) ? ["Usuarios de Steam", `${Math.round(steamR.positivas / steamR.total * 100)}%`, "de reseñas positivas", `Porcentaje de compradores que lo recomiendan, sobre ${miles(steamR.total)} reseñas.`, null] : null,
+        ...(info.resenas || []).filter((r) => r.puntaje != null && RES[String(r.fuente).toLowerCase()])
+          .map((r) => [...RES[String(r.fuente).toLowerCase()](r), /^https:\/\//.test(r.url || "") ? r.url : null]),
       ].filter(Boolean);
+      const resenas = resenasL.length ? [`<div class="j-res-grid">${resenasL.map(([f, v, esc, nota, url]) => `<div class="j-res"><span class="j-res-f">${url ? `<a href="${e(url)}" rel="nofollow noopener" target="_blank">${e(f)}</a>` : e(f)}</span><span class="j-res-v">${e(v)}<small>${e(esc)}</small></span><span class="j-res-n">${e(nota)}</span></div>`).join("")}</div>`] : [];
       const fuentes = (info.fuentes || []).map((x) => x === "Steam" ? "la tienda de Steam" : x);
       // Los datos de Steam (idiomas, características, requisitos) son de la versión de PC: si el juego no está en oferta en Steam, se aclara
       const deSteamPC = !ofertas.some((g) => g.tienda === "steam") ? " (versión de PC en Steam)" : "";
@@ -300,7 +343,7 @@ ${faqHtml({ nombre: "cada tienda" })}`;
 <h2 id="j-acerca-tit">Sobre ${e(nombre)}</h2>
 ${info.descripcion ? `<p class="j-lead">${e(info.descripcion)}</p>` : info.resumenEn ? `<p class="j-lead" lang="en">${e(info.resumenEn)}</p><p class="mini">Resumen en inglés de IGDB: todavía no tenemos una descripción en español de una tienda.</p>` : ""}
 ${datosJuego.length ? `<dl class="j-ficha">${datosJuego.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl>` : ""}
-${resenas.length ? `<ul class="j-resenas">${resenas.map((r) => `<li>${r}</li>`).join("")}</ul>` : ""}
+${resenas.length ? `<h3 class="j-res-tit">Reseñas y puntajes</h3>${resenas[0]}` : ""}
 ${info.avisoContenido ? `<p class="j-aviso"><b>Aviso de contenido de la editora:</b> ${e(info.avisoContenido)}</p>` : ""}
 ${info.etiquetas?.length ? `<p class="o-chips">${info.etiquetas.map((t) => `<span class="o-plat">${e(t)}</span>`).join("")}</p>` : ""}
 ${acercaLargo ? `<details class="j-mas"><summary>Leer la descripción completa</summary><div class="j-texto">${htmlBloques(acercaLargo)}</div></details>` : ""}
