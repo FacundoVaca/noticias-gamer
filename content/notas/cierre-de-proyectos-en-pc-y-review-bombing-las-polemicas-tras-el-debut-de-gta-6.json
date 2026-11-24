@@ -2,9 +2,9 @@
   "slug": "cierre-de-proyectos-en-pc-y-review-bombing-las-polemicas-tras-el-debut-de-gta-6",
   "estado": "publicada",
   "fecha": "2026-11-24T18:22:13.784Z",
-  "actualizada": "2026-11-24T18:22:13.784Z",
+  "actualizada": "2026-11-24T22:44:40.618Z",
   "titulo": "Cierre de proyectos en PC y review bombing: las polémicas tras el debut de GTA 6",
-  "bajada": "Rockstar acciona contra las adaptaciones no oficiales tras la filtración de una versión de Xbox, mientras la comunidad libra batallas de puntuación cruzada en Metacritic.",
+  "bajada": "Nuevas iniciativas comunitarias buscan adaptar la versión filtrada a Windows, Mac y Linux con progresos en shaders, mientras el fenómeno multijugador ROB RUN explota en Steam.",
   "categoria": "pc",
   "etiquetas": [
     "GTA 6",
@@ -15,9 +15,10 @@
     "PlayStation 5"
   ],
   "clave": [
-    "Rockstar y Take-Two frenaron por la vía legal el proyecto comunitario de emulación Project Leonida tras la filtración de la compilación de Xbox.",
-    "El videojuego sufrió una campaña masiva de review bombing en Metacritic que redujo la nota del público a 5,7 pese al 99 de la prensa.",
-    "Fanáticos del título respondieron atacando la calificación de clásicos históricos como The Legend of Zelda: Ocarina of Time y SoulCalibur."
+    "Nuevos proyectos como hyphennn, VIctory, Xbox2Windows y TuxBox buscan adaptar los archivos de GTA 6 a PC, Mac y Linux.",
+    "Los avances técnicos permitieron superar la etapa de menús para cargar shaders y probar desplazamientos dentro del mapa.",
+    "El código ejecutable fue liberado de forma gratuita por el filtrador CyberLeek tras completar sus campañas de recaudación.",
+    "Sin un lanzamiento oficial de Rockstar en PC, el multijugador de atracos ROB RUN rozó los 550.000 usuarios en simultáneo en Steam."
   ],
   "cuerpo": [
     {
@@ -115,6 +116,37 @@
       "medio": "Vandal",
       "titulo": "Los fans de GTA 6 la toman ahora con un m�tico juego de lucha e inician una campa�a de review bombing",
       "url": "https://vandal.elespanol.com/noticia/2026327036/los-fans-de-gta-6-la-toman-ahora-con-un-mitico-juego-de-lucha-de-dreamcast-e-inician-una-campana-de-review-bombing/"
+    },
+    {
+      "medio": "PC Gamer",
+      "titulo": "The race to port GTA 6 to PC, explained",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/"
+    },
+    {
+      "medio": "Polygon",
+      "titulo": "Catastrophic 'GTA 6' Leak Officially Kickstarts PC Port Race",
+      "url": "https://www.polygon.com/gta-6-on-pc-port-emulator-cyberleek-exe-xbox-executable-is-it-playable/"
+    },
+    {
+      "medio": "Vandal",
+      "titulo": "A falta de GTA 6 en PC, este juego de atracos est� arrasando en Steam con m�s de medio mill�n de jugadores",
+      "url": "https://vandal.elespanol.com/noticia/2026327024/a-falta-de-gta-6-en-pc-este-juego-de-atracos-esta-arrasando-en-steam-con-mas-de-medio-millon-de-jugadores/"
+    }
+  ],
+  "actualizaciones": [
+    {
+      "fecha": "2026-11-24T22:44:40.618Z",
+      "resumen": "Nuevos proyectos de recompilación para PC logran cargar shaders del juego, mientras el título gratuito ROB RUN absorbe la demanda en Steam.",
+      "bloques": [
+        {
+          "tipo": "p",
+          "texto": "Tras el cierre del proyecto Leonida, la carrera comunitaria por trasladar Grand Theft Auto VI a ordenadores sumó nuevos contendientes y avances técnicos acelerados. Grupos independientes al frente de iniciativas como hyphennn, VIctory, Xbox2Windows y TuxBox —monitoreados por la plataforma PortWatch VI— expandieron sus esfuerzos para hacer compatibles los archivos ejecutables liberados por el filtrador CyberLeek no solo en Windows, sino también en sistemas operativos Mac y Linux."
+        },
+        {
+          "tipo": "p",
+          "texto": "Las pruebas más recientes lograron ir más allá de los menús principales para procesar shaders y permitir el desplazamiento del personaje dentro del mapa con iluminación preliminar, impulsadas por herramientas de asistencia de programación. A la par de este desarrollo no oficial, la demora de una versión nativa por parte de Rockstar impulsó el éxito sorpresivo de ROB RUN, un juego gratuito de atracos en mundo abierto creado por el estudio Kefir que alcanzó un pico de 549.661 jugadores en simultáneo en Steam."
+        }
+      ]
     }
   ]
 }

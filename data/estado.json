@@ -109,30 +109,6 @@
       "categorias": []
     },
     {
-      "id": "349337e60da6a510",
-      "fuente": "IGN",
-      "idioma": "en",
-      "oficial": false,
-      "titulo": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Final Black Friday Price on Amazon",
-      "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-black-friday-sale-2026",
-      "fecha": "2026-11-22T22:15:00.000Z",
-      "resumen": "New price low.",
-      "contenido": "The most popular Apple Black Friday deal just went live. If you're hunting for a pair of AirPods this holiday season, your wait is over. Amazon has just dropped the price of the AirPods Pro 3 - Apple's best earbuds - to just $169.99 with free shipping. This is a $10 price drop from earlier this week and the lowest price ever for Apple's newest generation AirPods Pro. It still currently sells for $249 new at the Apple Store.\n32% Off the AirPods Pro 3 Noise Canceling Earbuds The AirPods Pro 3 launched late last year and is currently still the newest generation AirPods Pro. Like its predecessor, this is easily the best earbuds for anyone who uses an iPhone. Although it looks pretty similar to the 2nd gen AirPods, there are some pretty significant improvements under the hood. The most notable new feature is the built-in heart rate sensing (which means you may not need an Apple Watch anymore), but the AirPods Pro 3 improves in other subtle ways as well, including better audio quality, better noise cancelation, long battery life, and a more weatherproof IP57 shell.\nReleased alongside the AirPods Pro 3 was Apple's \"Live Translation\", which is an Apple Intelligence feature that translates other languages on the fly. First-hand user experiences have been positive, including this take from PCMag .\nHow to Follow IGN Deals Recommendations The IGN Deals team has over 30 years of combined experience finding the best discounts and preorders available online. If you want the latest updates from our trusted team, here’s how to follow our coverage:\nSign up for our IGN Deals Newsletter Set IGN as a preferred source in Google Shop on our Amazon Storefront Follow us on social media IGN Finds on X IGN Finds on Instagram IGN Finds on Facebook IGN Deals on Tiktok Eric Song is the IGN commerce manager in charge of finding the best gaming and tech deals every day. When Eric isn't hunting for deals for other people at work, he's hunting for deals for himself during his free time.",
-      "categorias": []
-    },
-    {
-      "id": "3b6e8a64b139e8c3",
-      "fuente": "IGN",
-      "idioma": "en",
-      "oficial": false,
-      "titulo": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
-      "link": "https://www.ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
-      "fecha": "2026-11-22T22:05:00.000Z",
-      "resumen": "Continuously self-cleaning mops, a self-sufficient base, and more leave floors sparkling while you enjoy the holiday season.",
-      "contenido": "The holidays are upon us. That means lots of festivities and activities, leaving you busier and your home messier. A robot vacuum can make cleanup a little easier, and for Black Friday, Ecovacs has marked down its flagship model, the Deebot X12S OmniCyclone. It’s just $899.99, $400 off the list price. A solid deal for one of the most innovative and capable robot vacuums out there. We’re talking a top-tier, unique mopping system, superior suction power, incredible edge cleaning, and a self-sufficient base station, giving you more time to enjoy the season.\nSave $400 on the Deebot X12S OmniCyclone Robot Vacuum\nEcovacs has been in the robot vacuum game for nearly two decades, and I’ve tested a few of their models. It remains one of my favorite brands because of its intuitive mapping and reliable performance. While I haven’t tried the Deebot X12S OmniCyclone, its feature set doesn’t disappoint. If you want serious cleaning power, it's the robot vacuum to get.\nUnlike other robot vacuums that just wet the mopping pads and go out to clean, essentially just spreading dirty mopping pads across your floor. The Deebot X12S packs the Ozmo Roller, which continuously cleans itself as it mops. That’s paired with incredible scrubbing power featuring 4000Pa downward pressure and 220RPM. To make things even better, a FocusJet Pre-dissolving feature can target and break down tougher spills before mopping.\nIt’s not just the mopping ability that makes the Deebot X12S a superior robot vacuum. The vacuum offers up to 18,000Pa suction power to pick up debris, making it great not just for hard floors but also carpets and rugs. The roller mop won’t get carpets and rugs wet either, as it lifts and has a cover. For edges, TruEdge 3.0 tech lets the roller extend beyond the robot vacuum’s body to reach under recessed cabinets, baseboards, and more.\nWhen needed, during cleaning, and after it finishes a job, the Deebot X12S returns to the base station. There, it hot-water power-washes and dries the mops and empties the robot’s dust box. It even offers bagless self-emptying, so you won’t need to worry about replacement bags down the road.\nThose are just a few of the highlights of the Deebot X12S OmniCyclone. Whether you buy it for yourself or give it as a gift, it’s sure to be one of your most useful purchases this holiday.",
-      "categorias": []
-    },
-    {
       "id": "889e8e371d5de561",
       "fuente": "Gematsu",
       "idioma": "en",
@@ -184,37 +160,6 @@
       ]
     },
     {
-      "id": "043272ed72f9603f",
-      "fuente": "PC Gamer",
-      "idioma": "en",
-      "oficial": false,
-      "titulo": "Nvidia released a hotfix for its driver hammering your SSD, but it doesn't actually work",
-      "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-released-a-hotfix-for-its-driver-hammering-your-ssd-but-it-doesnt-actually-work/",
-      "fecha": "2026-11-22T22:31:50.000Z",
-      "resumen": "AI isn't great at fixing problems AI created.",
-      "contenido": "Over the last couple of weeks, some Nvidia users noticed their SSDs were taking a hammering , reporting their driver's log file was being overwritten constantly, sometimes to the tune of 30 GB every hour. Which obviously isn't great for the lifespan of the valuable SSD you've got it installed on.\nGiven the problem was caused by recent driver updates, rolling back to version 621.01 was the best solution until Nvidia could do something about it. Which they did, releasing a hotfix as version 621.35 . It's not available in the GeForce app yet, but you can download it directly from Nvidia's site. Not that you should.\nAs users on the Nvidia subreddit are reporting, the problem persists. While the hotfix reduces the peak write rate and prevents it for a short while after reboot, it eventually creeps back in. One user reported that overnight the log file was still being rewritten by approximately 4.5 GB every hour.\nSo yeah, the best solution remains to roll back to version 621.01 and, as always with Nvidia drivers, to hold off on updating to the latest driver until it's been confirmed safe. If this ongoing saga sounds familiar, it's because the same thing happened to AMD's GPU drivers earlier this month. Maybe vibecoding driver updates and then vibecoding fixes for their inevitable bugs isn't the best way of doing things.",
-      "categorias": [
-        "Graphics Cards",
-        "Hardware"
-      ]
-    },
-    {
-      "id": "84c6f61783bcded9",
-      "fuente": "PC Gamer",
-      "idioma": "en",
-      "oficial": false,
-      "titulo": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
-      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
-      "fecha": "2026-11-22T21:58:17.000Z",
-      "resumen": "A choice (or two!) can lead to drastically different endings.",
-      "contenido": "Please note, this guide contains massive spoilers for some of the endings of Grand Theft Auto 6 . If you don't want to know what happens, please stop reading!\nThere are multiple endings to GTA 6, and not all the endings take place in the same location. One of the potential final scenes during the GTA 6 story mission , The End of the Road, takes place on a bridge in the Leonida Keys.\nAfter discovering the cops are onto them, Jason and Lucia drive away from Cal's house and head to Brian's marina to find an airplane. The police quickly trap them on a bridge with a roadblock ahead and multiple cars behind them. Lucia wants to keep going but Jason thinks it's all over for them. The player is then given a choice, \"Swim for it\" or \"No Surrender.\"\nAGAIN, MASSIVE SPOILERS BELOW! STOP NOW IF YOU DON'T WANT TO KNOW THE ENDINGS !\nNo Surrender Jason and Lucia decide Tomas is better off without them in his life. They drive through the roadblock, shooting at the cops. They're both shot to death and we see them dead in the front seat of the car, still holding hands. During the end credits, we see Tomas living happily with Lucia's sister and her husband and children.\nSwim for it (A, B, and C) Jason and Lucia decide to jump off the bridge and swim to freedom.\nHowever, a second choice appears once you've chosen 'Swim for it.' As Jason gets out of the car, a prompt for Lucia to 'Exit' the car appears. You can choose for Lucia to follow through with the plan by pressing the button, or change your mind and let the prompt expire.\nA: 'Swim for it' and 'Exit' : The couple will get out of the car together and walk to the edge of the bridge. Lucia jumps but Jason does not, letting himself get arrested by the cops. During the credits, Lucia signs the deal which keeps her free and sends Jason to prison. We see her bring Tomas to visit him, so Jason finally meets his son, though it's through glass.\nB: 'Swim for it' and don't 'Exit' : If you choose to swim for it but don't choose the 'Exit' prompt, Jason will get out of the car but Lucia will remain in the car. The police will open fire and kill them both. As with the No Surrender option, we see Tomas living with Lucia's sister's family.\nC: 'Swim for it' and 'Exit' (with $2 million in Buck Me savings) : If you delayed the Protective Custody mission of GTA 6 until you had deposited $2 million in savings, the Swim for it and Exit choices will show the same results, but during the credits, Lucia uses the money to get Jason released from prison. Lucia picks him up at prison, and Jason meets Tomas and holds his hand.\nNote: These are not the only endings to GTA 6. I've seen several more endings that do not take place on the bridge at all and don't involve these particular choices.\nGrand Theft Auto 6 GTA 6 guide : One-stop info shop\nGTA 6 PC release : When's it happening?\nGTA 6 online : Is it happening?\nGTA 6 characters : Characters and cast\nGTA 6 achievements : How to check off the list",
-      "categorias": [
-        "Grand Theft Auto",
-        "Games",
-        "Action"
-      ]
-    },
-    {
       "id": "fbe10ba8f75ba7d0",
       "fuente": "3DJuegos",
       "idioma": "es",
@@ -223,18 +168,6 @@
       "link": "https://www.3djuegos.com/industria-gaming/noticias/compras-videojuego-deberia-ser-tuyo-para-siempre-politico-estadounidense-quiere-proteger-juegos-que-compras",
       "fecha": "2026-11-22T23:56:00.000Z",
       "resumen": "El caso The Crew fue un antes y un después para la industria de los videojuegos. El cierre de servidores de The Crew llevó a que decenas de miles de jugadores protestaran porque esa decisión les imposibilitó jugar al juego de carreras , desapareciendo de nuestra biblioteca. Ubisoft podría haber evitado la polémica al crear un modo offline, pero decidieron cerrar todo y, con ello, provocar el nacimiento de Stop Killing Games , una propuesta europea que busca impulsar leyes que obliguen a las compañías a dejar sus videojuegos en un estado jugable cuando se le retire el soporte.\nUn congresista de Estados Unidos quiere proteger los videojuegos que ya hemos comprado En Estados Unidos están intentando hacer lo mismo , concretamente Alejandro Frost, representante demócrata por Florida, que anunció el 18 de noviembre la iniciativa Protect Our Games Act en un evento virtual sobre la propiedad de los videojuegos . \"Cuando alguien te dice que vas a comprar algo, lo estás comprando. Y deberías poder tenerlo para siempre , se apaguen o no los servidores\". Una de las medidas que plantea es que los jugadores puedan crear y gestionar sus propios servidores si cierran los oficiales.\nFrost también q",
-      "contenido": "",
-      "categorias": []
-    },
-    {
-      "id": "9c07ba2139cac0b2",
-      "fuente": "3DJuegos",
-      "idioma": "es",
-      "oficial": false,
-      "titulo": "Los jugadores de PC tienen ganas de GTA 6: la mayoría de juegos de la saga Grand Theft Auto en Steam han batido un récord de jugadores simultáneos",
-      "link": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/jugadores-pc-tienen-ganas-gta-6-mayoria-juegos-saga-grand-theft-auto-steam-han-batido-record-jugadores-simultaneos",
-      "fecha": "2026-11-22T22:16:25.000Z",
-      "resumen": "El lanzamiento de GTA 6 podría considerarse como todo un acontecimiento cultural . Ya hemos visto que ha conseguido el mayor estreno de cualquier producto de entretenimiento , con más de 32 millones de copias vendidas y casi 3.800 millones de dólares generados en su primer día de lanzamiento: el 19 de noviembre. Todo ello se ha conseguido solo en PS5 y XBOX Series X|S, por lo que hay millones de personas que están esperándolo en PC . Esta espera ya se está dejando notar en Steam .\nGTA 6 dispara los jugadores en Steam de los otros juegos de la saga\nEl lanzamiento de GTA 6 ha impulsado el regreso de miles de jugadores a las anteriores entregas de la saga. GTA III, Vice City, San Andreas y GTA IV han batido sus récords históricos de usuarios simultáneos en Steam. Fuente: SteamDB.\nTodo apunta a que será en la primera mitad de 2027 cuando GTA 6 se lance en PC , pero mientras tanto los jugadores más ansioso tienen otra alternativa para calmar sus ansias: jugar a los otros juegos de Grand Theft Auto en Steam . Lo más impresionante de todo es que GTA 6 ha causado un efecto dominó en los títulos de Rockstar que están disponibles en la tienda de Valve. Como puedes ver en la imagen de arriba,",
       "contenido": "",
       "categorias": []
     },
@@ -849,20 +782,6 @@
       "link": "https://www.eurogamer.es/las-gafas-mas-brillantes-de-viture-llegan-a-1600-nits-y-mantienen-la-nitidez-hasta-los-bordes-de-la-imagen",
       "fecha": "2026-11-23T10:30:00.000Z",
       "resumen": "Las esquinas. Ah&iacute; es donde muchas gafas de pantalla pierden la batalla (valga el pareado), con subt&iacute;tulos y minimapas que no se ven claros. Es el aspecto que VITURE ha querido pulir en las VITURE Pro 2 , el modelo con el que celebra su quinto aniversario . Tras el buen recibimiento de las Luma y las Beast, la marca vuelve a su gama Pro con unas gafas que funcionan como una pantalla externa que te pones en la cara . Conectadas a la consola, al port&aacute;til o al m&oacute;vil, muestran una pantalla virtual equivalente a 146 pulgadas .\nLeer más",
-      "contenido": "",
-      "categorias": [
-        "Tecnología"
-      ]
-    },
-    {
-      "id": "3414a3f6238c5816",
-      "fuente": "Eurogamer España",
-      "idioma": "es",
-      "oficial": false,
-      "titulo": "Como los operadores de Matrix, pero con tres pantallas 4K a 165 Hz y el portátil a un botón de distancia",
-      "link": "https://www.eurogamer.es/como-los-operadores-de-matrix-pero-con-tres-pantallas-4k-a-165-hz-y-el-portatil-a-un-boton-de-distancia",
-      "fecha": "2026-11-22T21:30:00.000Z",
-      "resumen": "En Matrix, Tank y el resto de operadores de la Nabucodonosor vigilaban el c&oacute;digo verde que ca&iacute;a por una pared de monitores mientras Neo aprend&iacute;a kung-fu. Desde luego, tu escritorio no necesita tanta emoci&oacute;n, aunque s&iacute; puede tener tres pantallas al servicio de dos ordenadores distintos. Ese es el planteamiento del AV Access iDock B23 , un dock KVM (siglas en ingl&eacute;s de teclado, v&iacute;deo y rat&oacute;n, un conmutador que reparte los mismos perif&eacute;ricos entre varios equipos) pensado para quien tiene un PC gaming y un port&aacute;til en la misma mesa.\nLeer más",
       "contenido": "",
       "categorias": [
         "Tecnología"
@@ -7272,6 +7191,188 @@
       "resumen": "Nos aproximamos al final del año y eso significa que la industria de los videojuegos se prepara para celebrar lo mejor del año . The Game Awards ya ha compartido su lista de nominados a GOTY ('Game of the Year'), en 3DJuegos ya estamos ultimando los detalles de los Premios 3DJuegos Lenovo 2026 y ahora Valve se viste de gala para iniciar los Premios Steam 2026 . Lo que, básicamente, se establece como una oportunidad para votar por los títulos más destacados del año en hasta 14 categorías; incluyendo una sección especial que sirve para festejar el 10 aniversario de la iniciativa.\nSi has estado usando Steam durante un buen tiempo, ya conocerás todos los detalles relativos a los Premios Steam. Las votaciones ya han comenzado para todos los usuarios de PC y se mantendrán abiertas hasta el 30 de noviembre ; entonces, Valve analizará los resultados y configurará un sistema de finalistas en el que los jugadores podrán elegir uno de los cinco nominados de cada categoría. Esta última selección se llevará a cabo con el inicio de las Rebajas de Invierno de Steam, previstas para el 17 de diciembre. A continuación, os dejamos un listado con las 14 categorías de los Premios Steam 2026 y un resume",
       "contenido": "",
       "categorias": []
+    },
+    {
+      "id": "dfb6bf49812b07ed",
+      "fuente": "PC Gamer",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
+      "link": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix/",
+      "fecha": "2026-11-24T22:04:28.000Z",
+      "resumen": "\"The evil is defeated.\"",
+      "contenido": "Nvidia's latest GeForce Game Ready driver, version 621.40 , is out now. \"This new Game Ready Driver provides the best gaming experience for Warhammer 40,000: Dawn of War 4, and Assetto Corsa Rally,\" the notes say, \"and the addition of DLSS 5 with 3D-Guided Neural Rendering to Where Winds Meet.\"\nWhich is kind of burying the lead. This patch is really a hotfix for a hotfix, an update that finally addresses the bug with previous driver packages that had them pointlessly rewriting a log file over and over, quickly adding up to tens of GB every hour and potentially damaging SSDs nobody can afford to replace any more.\nOver the weekend Nvidia released a hotfix that supposedly caught the bug, only for users to discover it merely delayed its onset . Rather than setting in immediately after a reboot, it would wait until your PC had been on for a while before shitting the bed. If you're one of the people who leaves your computer running overnight then I hope you stayed on version 621.01, the last safe driver package before the current one.\nForum users have been testing out version 621.40 and it seems to have not only stopped the Nvidia container service from freaking out and rewriting its log, but also caught a bug with custom cursors that would make them turn gray. Which is nice.\nI'm tempted to play it safe and stay on my old driver anyway, though I'll update for Dawn of War 4, which comes out on December 3. People with the Commander Edition can jump in early on November 30, and readers in the US and UK can enter our competition to win a Steam code for the Commander Edition right now .",
+      "categorias": [
+        "Graphics Cards",
+        "Hardware"
+      ]
+    },
+    {
+      "id": "2fe709eddeed0504",
+      "fuente": "PC Gamer",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "The race to port GTA 6 to PC, explained",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+      "fecha": "2026-11-24T21:47:58.000Z",
+      "resumen": "GTA 6 could be a PC game (illegally) in a matter of days.",
+      "contenido": "Things are moving fast. Now that an illicit Xbox build of GTA 6 is out in the wild, anonymous modders are racing to port it to PC, and the work is progressing faster than many expected. At this rate, it's possible that a static recompilation of GTA 6 will run on a PC in a matter of days. It's also possible it will take much longer to produce a playable build that's actually on par with the console versions.\nWhat we do know for sure is that Rockstar is taking notice and has already begun cracking down on the highest-profile projects. As always, downloading pirated software is illegal and can infect your PC with malware, and that last bit is doubly true in the dubious AI era we now live in.\nFor now, the only thing to do is observe and report. Here's where things stand with GTA 6 PC ports.\nDoes GTA 6 currently run on PC? No.\nSeveral projects have made it as far as booting the game and using menus, and at least one has seemingly managed to move around in-game with bugged out lighting , but it's hard to verify clips making the rounds when so many are obvious fakes .\nWho is working on GTA 6 PC recomps? Dozens of groups of anonymous modders and vibecoders. So many, in fact, that several websites dedicated to tracking the progress of GTA 6 recomp efforts have also appeared. One of the tracker sites, Portwatch VI , has a list of projects ranked by their \"playable\" completion percentage—best not to take those made up figures as an accurate estimate of when a port will be complete. The top five are:\nhyphennn VIctory XCL Xbox2Windows TuxBox Until very recently, the Leonida project was among those making impressive progress, but the group's creator (a 15-year-old) quit the project after Rockstar got its Discord server taken down.\nHow did we get here? Every GTA 6 recomp project is based on the same thing: An illicit Xbox build of GTA 6 released online by Cyberleek , the notorious leaker who previously shared video of a GTA 6 development build months before its release.\nWith GTA 6 being the biggest game in the world at the moment and not available on PC, there is an outsized motivation to get it running.\nWhat is a recomp, and why is this possible so quickly? A recomp refers to static recompilation, which is the result of reverse-engineering a game's code to make it run on other hardware (usually a PC). If you want to read further on how that's achieved, PCG alum Wes Fenlon's excellent Read Only Memo newsletter has what you're looking for.\nAs for how GTA 6 ports (and ports for other new games) are coming together so quickly, the answer is AI. The advent of AI coding tools like Claude have greatly expedited the work required to create a static recompilation of games on another platform. What used to take months to years now takes hours to days. Recomps that heavily use AI are often buggier, messier, and have fewer features than human-made fan projects, but they are fast and functional.\nWill a hypothetical GTA 6 PC recomp perform as well as an official PC port? It's way too early to speak in absolutes, but I'm comfortable assuming that the first \"playable\" recomps will require an exceptionally powerful PC.\nThat guess is based on GTA 6 being an obviously demanding game and also some recent precedent: The earliest Zelda: Ocarina of Time remake recomps that've appeared online have high system requirements to perform as well as it does natively on Switch 2—and, well, GTA 6 has a lot more happening under the hood than a 28-year-old Zelda game.\nIs Rockstar gonna release the real PC port early in response? That's the big question. My money is on no, it won't. To switch up plans on a dime would assume that Rockstar is sitting on a polished PC version that it could put out any day, and I'm not convinced that's the case. The current rumor, preceding all of this leak business, is that the PC version of GTA 6 is planned for Q1 2027 (so anytime before April).\nThat's not to say Rockstar couldn't expedite the process if it wanted to—they certainly have the resources to achieve the unlikely.\nGrand Theft Auto 6 GTA 6 guide : One-stop info shop\nGTA 6 map : The full Vice City tour\nGTA 6 cheats : A complete list\nGTA 6 radio : All the songs and stations\nGTA 6 romance : How to keep a strong bond",
+      "categorias": [
+        "Grand Theft Auto",
+        "Games",
+        "Action"
+      ]
+    },
+    {
+      "id": "c72ecd0f26c14c6c",
+      "fuente": "PC Gamer",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
+      "link": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts/",
+      "fecha": "2026-11-24T21:39:22.000Z",
+      "resumen": "Most of the secrets from the current season aren't going anywhere.",
+      "contenido": "According to every Diablo 4 player known to man, I screwed up by skipping its last season . Blizzard shoved just about every iconic Diablo 2 boss and item it could think of into the modern game, and, by all accounts, it was one of the best seasons it ever had.\nEven though the Season of Hell's Legacy is about to come to an end, Blizzard has delivered good news for me and everyone else who missed it: Most of it will remain in the game permanently.\nOn December 1, when the Season of Tyrael's Gambit begins, all of the unique Prime Evil boss fights will still be available, along with the Diablo world boss, Moophisto, and a handful of Diablo 2-inspired items, including the Hellfire Torch Charm. However, the craftable items, like the Enigma chest piece that gives you a free teleport skill, will not carry over.\nEven without all the craftable unique items, that's quite a lot of stuff to keep around. Blizzard tends to ditch seasonal additions as soon as a new season starts, and you usually have to wait a while to see them slipped back into the game in a slightly altered form. The overwhelming excitement around the Diablo 2 content must've convinced Blizzard it was worth putting in the work to keep them around.\nI would've been happy if the portal to Tristram , the rickety old town at the center of Diablo 2, was all that came back. Blizzard pulled off an incredibly faithful remake of it, complete with the old guitar theme and the voice of the blacksmith Griswold. And if you follow the hidden steps to make the Hellfire Torch, you'll be able to visit Uber Tristram, a special version of the town where you can square off against all three of the series' major villains, the Prime Evils, at once.\nDiablo 4 was always kind of light on hidden quests and bosses, so it's nice to see that Blizzard found a way to bring an important part of the series back. I'll be curious to see what else comes to the game over the next three years before Diablo 5 arrives. The Amazon class will drop next year, but no expansions are planned to fill the gap. Hopefully Blizzard will take this opportunity to experiment with more things like the Diablo 2 anniversary secrets before it moves onto the sequel.\n2026 games : All the upcoming games\nBest PC games : Our all-time favorites\nFree PC games : Freebie fest\nBest FPS games : Finest gunplay\nBest RPGs : Grand adventures\nBest co-op games : Better together",
+      "categorias": [
+        "RPG",
+        "Games"
+      ]
+    },
+    {
+      "id": "981ebfe52d2d09b1",
+      "fuente": "PC Gamer",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
+      "link": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you/",
+      "fecha": "2026-11-24T21:26:03.000Z",
+      "resumen": "Sounds great!",
+      "contenido": "We're just a couple weeks away from Marathon's Symbiosis update , a hefty overhaul patch that's aiming to inject some juice into the shooter's live service appeal with the addition of PvE roguelite and Team Deathmatch modes, new weapons, and even a social hub for hanging out with fellow runners and testing guns at the firing range.\nAnd that's all great. But today, Bungie dropped a new cinematic that presents its strongest argument for why Symbiosis should have our attention: You can play as a terrifying, sports-car scarlet robot samurai with a sword arm and jet legs.\nWhile Bungie previously revealed Bishop, the new runner shell arriving with Symbiosis, in the update's first gameplay trailer earlier this month, the new cinematic provides a strong sense of the power fantasy it's trying to capture. By which I mean Bungie clearly wants you to feel like a nightmarish apex predator. Like a xenomorph if a xenomorph was bright red and had cool space guns.\nAs the trailer progresses, we watch as a team of runners is steadily cut down by a Bishop shell's unflinching onslaught: First, one of its members is culled after taking one of Bishop's throwable hacking knives to the neck, which seems to disrupt the target's functions. The next is blasted out of midair while trying to zipline away to safety. The third is hounded by autopistol fire into a position where they can be conveniently pounced on from above.\nBut the trailer's peak moment happens as the Bishop prepares to loot one of its kills and is winged by a bullet from a nearby Rook, who evidently hoped to clean up after watching the whole fight pan out. This is proven to be a mistake, because the Bishop settles into a crouch, extending a plasma-edged sword blade from between its knuckles and engaging the jet thrusters in its calves.\nYou know that thing in samurai movies where a swordsman does a lunging slash, leaving the body of his opponent to realize that it's been cut down behind him? It's like that. But with robots and jet propulsion. Marathon's going to have iaijutsu, is what I'm saying. Something for us all to look forward to.\nMarathon's Symbiosis update lands on December 8.\n2026 games : All the upcoming games\nBest PC games : Our all-time favorites\nFree PC games : Freebie fest\nBest FPS games : Finest gunplay\nBest RPGs : Grand adventures\nBest co-op games : Better together",
+      "categorias": [
+        "FPS",
+        "Games"
+      ]
+    },
+    {
+      "id": "003f1eb0098275cf",
+      "fuente": "IGN",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Diablo 4 Season 16 Fixes One of the Biggest Problems With Helltide",
+      "link": "https://www.ign.com/articles/diablo-4-season-16-fixes-one-of-the-biggest-problems-with-helltide",
+      "fecha": "2026-11-24T21:20:50.000Z",
+      "resumen": "Diablo 4 Season 16: Season of Tyrael's Gambit officially kicks off on December 1. We finally know a bit more about what the new season holds in store, and it's going to make one of the biggest activities much less of a pain.",
+      "contenido": "Diablo 4 Season 16: Season of Tyrael's Gambit officially kicks off on December 1. We finally know a bit more about what the new season holds in store, and it's going to make one of the biggest activities much less of a pain.\nSeason 15, Hell's Legacy, is a tough act to follow. It brought in a ton of nostalgic content like the Prime Evils, runewords, and even Whimsyshire. It does seem like a lot of that Anniversary content is going to be retired (I'll miss runewords), but at least it seems like Season of Tyrael's Gambit is going to make farming Helltides a bit less annoying.\nIn the patch notes for the new season , Blizzard says one Helltide will always be up in the vanilla zones, with another active in either Nahantu or Skovos, offset by 30 minutes. In practice, that means there will always be an active Helltide. That would be good enough on its own, but Blizzard is also changing the way Abberant Cinders work. Instead of expiring at the end of each Helltide, Blizzard is introducing a cap, and will let you carry cinders between Helltides.\nFor the uninitiated, that might not seem like a big deal, but it's a massive quality-of-life change. If you're not aware, Helltide is essentially an in-game invasion event, where demons overrun an area in the open world. You go in and kill demons for 55 minutes to get Abberant Cinders, which you can then use to unlock chests scattered throughout the zone. Helltides have always been one of the best ways to farm XP, and there have been several seasons that revolve entirely around them.\nNow that War Plans, which were introduced with Lord of Hatred, are such a central part of how Diablo 4's gameplay loop works, there's always a chance that you're going to need to do bit of Helltide farming to progress. The problem was that Helltides spawned on a timer, and there was always a 5-minute gap between them. That doesn't sound too bad, but sometimes a Helltide would pop up in your to-do list and you'd either zone in with a mere 10 minutes to gather a ton of Cinders, or there simply wouldn't be a Helltide active. This new change solves both of those problems.\nNow, even if you go into a Helltide with just a few minutes remaining, you can still gather Cinders without having to worry about opening 250 Cinders worth of chests before the timer expires. You can simply farm until the Helltide moves and then teleport to the next one. Easy. It's such a seemingly small change, but it's made me more excited for the 16th season of this ARPG than anything I've heard about it so far.\nBeyond that, the Season of Tyrael's Gambit also brings changes to War Plans, where you'll be able to customize them to favor the activities you actually like doing. So, if you hate Helltide, even with the new changes, it sounds like you'll be able to make them appear a little less often in your War Plans.\nThe new season will also have a new item type called Horadric Items, which will synergize with set talismans. In the example Blizzard shared in its post, this could be as simple as adding +1 set count to your talismans to an ability that is only activated if you have a certain set of talismans equipped.\nSeasons like this are a prime example of the way Blizzard will support Diablo 4 going forward, now that Diablo 5 is in the works. Diablo 4's director has come out and reassured fans that the game will continue to get new seasons as long as people are playing , and with how different Diablo 5 sounds so far , it's possible that Diablo 4 will have a long life ahead of it.",
+      "categorias": []
+    },
+    {
+      "id": "9f678c22aefc679d",
+      "fuente": "IGN",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "The Witcher 4 Will Have a Comparable Leap From GTA 5 to GTA 6, Says CD Projekt Red",
+      "link": "https://www.ign.com/articles/the-witcher-4-will-have-a-comparable-leap-from-gta-5-to-gta-6-says-cd-projekt-red",
+      "fecha": "2026-11-24T21:15:26.000Z",
+      "resumen": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.",
+      "contenido": "CD Projekt Red expects a leap between The Witcher 3 and 4 that is comparable to the one between GTA 5 and 6.\nIn a recent earnings call (via Eurogamer ), CDPR was peppered with questions about GTA 6, since the developer also makes ambitious open-world games. CDPR joint-CEO Michał Nowakowski was asked whether or not the studio is looking at GTA for inspiration and if people can expect a similar leap between games. He noted that they have, indeed, observed the jump between GTA 5 and 6 before stating that fans can expect something comparable for The Witcher 4.\n\"We believe there's going to be a comparable leap between The Witcher 3 and The Witcher 4 — I think so, yes,\" he said. \"It's been 11 years, we are working on The Witcher 4 to make it significantly better looking and improved in terms of pretty much every possible facet of the game, so yes, you should expect us to make a much bigger jump between Witcher 3 and Witcher 4.\"\nThe leap between GTA 5 and 6 is pretty absurd. There's a significant number of more things to do, particularly for those interested in roleplaying as a criminal. You can steal drugs, rob banks, knock over virtually any store on the map, and so much more. A lot of these details were either reserved for scripted missions in GTA 5 or were underbaked as open-world activities, but are fully fleshed out for you to do however you want in GTA 6. Advancements in NPCs, interactivity, immersion, and the ability to enter hundreds of interiors also make GTA 6 feel a world apart from its predecessor.\nWill The Witcher 4 also have tons of enterable interiors or deeper interactions with random NPCs? It's too soon to tell. It's possible that the leap for CD Projekt Red could come in a number of other ways, as The Witcher is a totally different world from GTA, after all. Maybe monster hunting will be more nuanced and involved than in The Witcher 3, similar to how GTA 6 has more engaging criminal activities.\nCDPR also noted that it plans to find ways to expand the game to more mainstream audiences, like GTA 6 has. GTA 6 collaborated with major mainstream artists to create original music, in addition to bold marketing campaigns that made the game difficult to ignore.\nThe Witcher 4 is currently targeting a 2028 release , and we can probably expect more looks at the game next year. CDPR also noted that it has signed a marketing agreement with PlayStation for the game, which will also cover previous games and allow for opportunities with PlayStation Plus' services.",
+      "categorias": []
+    },
+    {
+      "id": "f43e47a2c2d63a6a",
+      "fuente": "IGN",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "'Crazy Secretive' — GTA 6 Voice Actor Reveals Details of Rockstar's 'Humongous' NDA",
+      "link": "https://www.ign.com/articles/crazy-secretive-gta-6-voice-actor-reveals-details-of-rockstars-humongous-nda",
+      "fecha": "2026-11-24T20:36:14.000Z",
+      "resumen": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”",
+      "contenido": "A voice actor who appeared in GTA 6 described the wild non-disclosure agreement she had to sign before working on the game, calling the project “crazy secretive.”\nIssa Lopez is a voice actor who plays a radio host on GTA 6’s fictional Cocoteo FM radio station, a Latin channel that plays reggaeton and dembow tracks featuring Spanish-speaking artists from the Caribbean and Latin America.\nIn a November 20 interview with Page Six , Lopez revealed that she recorded her lines for the station as recently as September 2026, and said the NDA she was made to sign before officially performing the part was comparable to the process of purchasing a home or a vehicle.\n“Have you ever signed papers to buy a house? To buy a car? You know, it’s thick! It was a pretty humongous pack of papers that came with it. But I mean, it’s worth it! And I didn’t have to wait like all these other folks. Some of these folks have been working on this for like 10–11 years, you know what I mean?” she said.\nShe went on to describe the recording process for her lines, saying that she hadn’t seen anything until the day of the performance. With no time to prepare, she was essentially “put on the spot” — but she was so excited about the opportunity that she didn’t mind.\n“In my usual voiceover gigs — let’s say you want me to do a commercial for you. I get a Zoom [link] maybe the day before, maybe the same day I get the script,” she explained. “Everything was like, popped up on the screen. It was mad cool. It was like, ‘You ready? And I’m like, ‘Uh-huh.’ You press a button and then boop, it pops on the screen, they say hello, and there’s a bunch of people in your ear. And they’re like, ‘Okay, here it is,’ and that’s when you see it. You are put on the spot. And you better bring it. And after that, I don’t know — whatever was in front of my face disappeared. “\nLopez revealed that she wasn’t told what the project was for, but figured it out based on context clues from an email titled “heard by millions,” saying she “read it and knew what it was for.” She also didn’t know that Bad Bunny would be co-hosting the Cocoteo station alongside her, leading to a wild realization once Rockstar released the radio stations before the game actually came out.\n“We knew nothing. I saw the liners, and when I saw the liners I was like, ‘Okay, I know why I got the gig.’ ‘Cause it was like Puerto Rican dot com. It was super easy. But it was so cool, because Rockstar let me be myself. …they were like, ‘Issa, we want natural. Whatever you got, we want,'\" she said.\nThe actors in GTA 6 were extremely secretive about their involvement in the project. Most notably, actress Manni L. Perez, who plays Lucia, was under immense pressure after fans sleuthed her social media accounts and figured out it was her before she could officially reveal the information. Now, she’s up for best performance at The Game Awards, which is one of eight nominations the game has secured mere weeks before the show takes place this December.\nOther performers who have finally revealed their involvement in the game are Mandy’s actress, Lexie Shoaibi , as well as the voice and performance artist for Jason Duval, Dylan Rourke . Rockstar released the full credits for the game, too, which you can check out here — just beware of spoilers if you haven’t finished it yet.\nJust getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map .\nImage Credits: Issavoice, Instagram",
+      "categorias": []
+    },
+    {
+      "id": "625682549845f960",
+      "fuente": "Rock Paper Shotgun",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Bitmap Brothers' iconic, robotic RTS game Z is unofficially back thanks to an open source, 3D remake",
+      "link": "https://www.rockpapershotgun.com/bitmap-brothers-iconic-robotic-rts-game-z-is-unofficially-back-thanks-to-an-open-source-3d-remake",
+      "fecha": "2026-11-24T21:34:40.000Z",
+      "resumen": "There can be such a wonderful charm that comes from fan games because the people that make them really are just in it for the love of the (literal) game. They ain't gonna make any money from this thing! So I'm quite tickled by OpenZ, a 3D remake of the 1996 RTS game Z from The Bitmap Brothers that's completely open source (and, thankfully, hand made).\nRead more",
+      "contenido": "",
+      "categorias": [
+        "Android",
+        "Bird view / Isometric",
+        "iOS",
+        "Mac",
+        "Multiplayer Competitive",
+        "PC",
+        "PS1",
+        "SEGA Saturn"
+      ]
+    },
+    {
+      "id": "32775e3f1755717c",
+      "fuente": "VGC",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "Cyberpunk 2’s development team has grown, with plans to get even bigger next year",
+      "link": "https://www.videogameschronicle.com/news/cyberpunk-2s-development-team-has-grown-with-plans-to-get-even-bigger-next-year/",
+      "fecha": "2026-11-24T22:14:04.000Z",
+      "resumen": "Almost 200 developers are working on Cyberpunk 2",
+      "contenido": "Almost 200 developers are working on Cyberpunk 2…\nSource",
+      "categorias": [
+        "News"
+      ]
+    },
+    {
+      "id": "87c10c7c9a5484d8",
+      "fuente": "VGC",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+      "link": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/",
+      "fecha": "2026-11-24T21:51:37.000Z",
+      "resumen": "It looks like Xbox Series X can maintain 30fps more reliably than PS5",
+      "contenido": "It looks like Xbox Series X can maintain 30fps more reliably than PS5…\nSource",
+      "categorias": [
+        "News"
+      ]
+    },
+    {
+      "id": "10a7a1454424ba5d",
+      "fuente": "3DJuegos",
+      "idioma": "es",
+      "oficial": false,
+      "titulo": "Activision ya habla de Banjo-Kazooie como una de sus \"franquicias icónicas\". Los fans no necesitan más para ilusionarse",
+      "link": "https://www.3djuegos.com/juegos/banjo-kazooie/noticias/activision-habla-banjo-kazooie-como-sus-franquicias-iconicas-fans-no-necesitan-para-ilusionarse",
+      "fecha": "2026-11-24T22:15:05.000Z",
+      "resumen": "Una vez más, los fans de Banjo-Kazooie tienen motivos para soñar. La franquicia lleva años en letargo , concretamente desde el lanzamiento de Banjo-Kazooie: Nuts & Bolts en 2008, y Rare no ha hecho ningún amago para recuperar al clásico dúo con un nuevo videojuego. Sin embargo, una nueva oferta de trabajo por parte de Activision ha insuflado el corazón de muchos jugadores de esperanza . A fin de cuentas, la compañía de Call of Duty ha reconocido públicamente que observa la IP como una de sus \" franquicias icónicas \".\nDicha definición se ha compartido en LinkedIn , concretamente en una oferta de empleo para incorporar un Gerente de Producto en el departamento de Emerging Franchises; una nueva sección dentro de Activision que se encargará de gestionar sagas míticas como Crash Bandicoot, Spyro y Tony Hawk. El post incide en todo lo que esperaríamos de una oportunidad laboral y lista las características que debería presentar el candidato ideal. Sin embargo, el detalle más destacado es la ya mencionada percepción que tiene la empresa sobre la clásica IP de Rare: \"Activision es el hogar de franquicias de juego icónicas incluyendo Call of Duty, Crash Bandicoot, Spyro y ahora… Halo, Age of",
+      "contenido": "",
+      "categorias": []
+    },
+    {
+      "id": "34b0b927bb0ed6bb",
+      "fuente": "3DJuegos",
+      "idioma": "es",
+      "oficial": false,
+      "titulo": "Los creadores de Call of Duty pensaban que el estreno de GTA VI les iba a beneficiar. De momento, son los mayores víctimas del juego de Rockstar",
+      "link": "https://www.3djuegos.com/juegos/call-of-duty-modern-warfare-4/noticias/creadores-call-of-duty-pensaban-que-estreno-gta-vi-les-iba-a-beneficiar-momento-mayores-victimas-juego-rockstar",
+      "fecha": "2026-11-24T21:31:00.000Z",
+      "resumen": "Durante su fin de semana de lanzamiento, Grand Theft Auto VI acumuló más de 39 millones de jugadores solo en PlayStation 5. Se trata de una cantidad escándalosa que ha batido todos los récords de la marca y que —a falta de datos oficiales— seguramente se haya replicado a menor escala en Xbox Series. Tanto los grandes fabricantes de consolas como Rockstar tienen mucho que celebrar, pero por supuesto en esta historia también ha habido perdedores . Resulta que los jugadores no crecen en los árboles y muchos grandes títulos han perdido un porcentaje significativo de sus usuarios tras el estreno del mundo abierto.\nLas grandes víctimas de Rockstar Un informe de la empresa de análisis Alinea Analytics ha revelado que Fortnite, Call of Duty y EA Sports FC 27 han sufrido caídas considerables en el número de usuarios diarios con motivo del lanzamiento de GTA VI. Lo ocurrido no ha sido particularmente dramático ni para el battle royale de Epic Games ni para el videojuego de fútbol de Electronic Arts . Ambos sufrieron una caída de alrededor del 27% el día del estreno del nuevo Grand Theft Auto y recuperaron jugadores progresivamente a lo largo del fin de semana dejando el descenso en torno al ",
+      "contenido": "",
+      "categorias": []
+    },
+    {
+      "id": "60b024531dbd59f1",
+      "fuente": "Push Square",
+      "idioma": "en",
+      "oficial": false,
+      "titulo": "PS5 RPG Lords of the Fallen 2 Locks on to April 2027 Release Date Following Lengthy Delay",
+      "link": "https://www.pushsquare.com/news/2026/11/ps5-rpg-lords-of-the-fallen-2-locks-on-to-april-2027-release-date-following-lengthy-delay",
+      "fecha": "2026-11-24T22:30:00.000Z",
+      "resumen": "The Game Awards teased?\nLords of the Fallen 2 is officially targeting an April 2027 release date, having been hit with a lengthy delay back in the summer.\nThe anticipated action RPG was previously eyeing an autumn / fall 2026 launch, which would have only added to an insane PS5 schedule. Shifting to a vague 'Q1 2027' window seemed a wise move at the time.\nRead the full article on pushsquare.com",
+      "contenido": "",
+      "categorias": []
     }
   ],
   "usados": [
@@ -7283,7 +7384,6 @@
     "762af648b467f24f",
     "1b133aa5535b7c0e",
     "88c299ecedb8acf2",
-    "3b6e8a64b139e8c3",
     "d0e17785e0cc0f9a",
     "a40ecd3b6beaf8d6",
     "f1d741cc94cfc647",
@@ -7302,7 +7402,6 @@
     "3ee139d9489ba788",
     "e4be52d637de98ea",
     "6b212214734c45f9",
-    "9c07ba2139cac0b2",
     "61931002cb9dae63",
     "897414a30088b576",
     "ad296ec910854e58",
@@ -7352,7 +7451,6 @@
     "04f528c95115eeac",
     "95c2419e13f966fc",
     "1552cd99821fd114",
-    "349337e60da6a510",
     "ba4aa020574142fa",
     "e451b31e59ae0bc7",
     "d96e61366cce59f5",
@@ -7419,7 +7517,12 @@
     "2338acabe5f7ad27",
     "47fad2817ec2b575",
     "fd820232be30c087",
-    "1424cde7afca672e"
+    "1424cde7afca672e",
+    "2fe709eddeed0504",
+    "852ff7cf704c1f32",
+    "c3c6cdbc0cb167f1",
+    "629d6e1c294a1b4e",
+    "be903f583b22fe76"
   ],
   "publicadasPorDia": {
     "2026-11-22": 8,
@@ -8182,7 +8285,38 @@
         "zelda",
         "vs",
         "troll",
-        "war"
+        "war",
+        "race",
+        "explained",
+        "catastrophic",
+        "leak",
+        "kickstarts",
+        "recomp",
+        "leaders",
+        "bail",
+        "take",
+        "two",
+        "cracks",
+        "illicit",
+        "efforts",
+        "running",
+        "might",
+        "play",
+        "best",
+        "hits",
+        "but",
+        "ll",
+        "played",
+        "controller",
+        "falta",
+        "este",
+        "atracos",
+        "est",
+        "arrasando",
+        "steam",
+        "medio",
+        "mill",
+        "jugadores"
       ]
     },
     {
