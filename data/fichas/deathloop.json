@@ -1,0 +1,368 @@
+{
+  "clave": "deathloop",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-49a8-73fa-9b51-350d881e3fe8",
+  "appid": "1252330",
+  "lanzamiento": "2021-09-14",
+  "desarrolladores": [
+    "Arkane Studios",
+    "Arkane® Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "FPS",
+    "Action",
+    "Stealth",
+    "Immersive Sim",
+    "First-Person"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 19979,
+      "url": "https://store.steampowered.com/app/1252330/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/deathloop/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 2177,
+      "url": "https://metacritic.com/game/deathloop/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 88,
+      "cantidad": 216,
+      "url": "https://opencritic.com/game/10993/deathloop"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "626137",
+      "nombre": "DEATHLOOP",
+      "apps": [
+        {
+          "appid": "1252330",
+          "nombre": "DEATHLOOP"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 35.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "626138",
+      "nombre": "DEATHLOOP - Edición deluxe",
+      "apps": [
+        {
+          "appid": "1252330",
+          "nombre": "DEATHLOOP"
+        },
+        {
+          "appid": "1755440",
+          "nombre": "Selección de la banda sonora original de DEATHLOOP"
+        }
+      ],
+      "usd": 9.59,
+      "antes": 47.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "1252330": {
+      "usd": 7.19,
+      "gratis": false
+    },
+    "1755440": {
+      "usd": 9.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1843490",
+      "nombre": "DEATHLOOP Deluxe Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1822570",
+      "nombre": "Banda sonora original del juego DEATHLOOP",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "DEATHLOOP es un shooter en primera persona de nueva generación desarrollado por Arkane Lyon, el galardonado estudio creador de Dishonored. Dos asesinos rivales se ven atrapados en un bucle temporal en la misteriosa isla de Blackreef, condenados a repetir una y otra vez el mismo día.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "13 SEP 2021",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/deathloop?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "DEATHLOOP",
+  "acerca": [
+    [
+      "p",
+      "DEATHLOOP es un shooter en primera persona de nueva generación desarrollado por Arkane Lyon, el galardonado estudio creador de Dishonored. Dos asesinos rivales se ven atrapados en un bucle temporal en la misteriosa isla de Blackreef, condenados a repetir una y otra vez el mismo día. Para escapar, la única esperanza de Colt es acabar con ocho objetivos clave antes de que el día se reinicie. Aprende con cada ciclo, prueba nuevas rutas, consigue información y obtén más armas y habilidades. Lo que sea con tal de romper el bucle."
+    ],
+    [
+      "h",
+      "SI NO LO CONSIGUES A LA PRIMERA... MUERE, MUERE DE NUEVO"
+    ],
+    [
+      "p",
+      "Cada bucle te dará la oportunidad de probar cosas nuevas. Sírvete de la información que hayas conseguido en intentos anteriores para adaptar tu estilo de juego y decidir si prefieres escabullirte de nivel a nivel o lanzarte al combate sin reservas. En cada ciclo descubrirás nuevos secretos e información sobre tus objetivos y sobre la isla de Blackreef, y también podrás ampliar tu arsenal. Con la ayuda de un amplio repertorio de habilidades sobrenaturales y armas destructivas, tendrás que aprovechar todas las herramientas a tu disposición para ejecutar remates tan letales como dramáticos. Personaliza tu equipamiento y arréglatelas para sobrevivir a esta letal danza entre cazador y presa."
+    ],
+    [
+      "h",
+      "LA EXPERIENCIA CLÁSICA DE UN SOLO JUGADOR CON UNA FACETA MULTIJUGADOR LETAL"
+    ],
+    [
+      "p",
+      "¿Héroe o villano? Vive la historia principal en la piel de Colt, que ha de dar caza a varios objetivos por la isla de Blackreef con el fin de romper el bucle y conseguir la libertad. Mientras tanto, Julianna, tu rival, te pisará los talones en todo momento, con la posibilidad de que sea otro jugador quien la maneje. Pero si tienes ganas de dar rienda suelta a tu maldad interior, tú también podrás meterte en el papel de la asesina e infiltrarte en la partida de otro jugador para acabar con Colt. La experiencia multijugador es totalmente opcional, e incluso se podrá establecer que la IA del juego controle a Julianna."
+    ],
+    [
+      "h",
+      "La Isla De Blackreef – Paraíso O Prisión"
+    ],
+    [
+      "p",
+      "Los mundos artísticos llenos de rutas y con una experiencia de juego envolvente son una de las claves de la reputación de Arkane. DEATHLOOP presenta un sobrecogedor entorno retrofuturista inspirado en los años 60 que parece un personaje más del amplio elenco. Y, aunque Blackreef sea una estilizada isla de las maravillas, Colt la considera su prisión: un mundo en el que impera la decadencia, en el que la muerte no significa nada y en el que los criminales van de fiesta en fiesta sin dejarle escapatoria alguna."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "HDR disponible"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10 version 1909 or higher"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 @ 2.80GHz or AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060 (6GB) or AMD Radeon RX 580 (8GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64 bit Windows 10 version 1909 or higher"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700K @ 3.60GHz or AMD Ryzen 7 2700X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia RTX 2060 (6GB) or AMD Radeon RX 5700 (8GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_26bfb9a442924c466a844086646727f5d6191810.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_26bfb9a442924c466a844086646727f5d6191810.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_b05a1ef5c5a43860f7728637c7047695d0d52236.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_b05a1ef5c5a43860f7728637c7047695d0d52236.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_b18d58a9b6a161bf3b253044b9b3edb91802be0c.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_b18d58a9b6a161bf3b253044b9b3edb91802be0c.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_75c463b64181b9607076ec65bb79e7c507a2abd4.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_75c463b64181b9607076ec65bb79e7c507a2abd4.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_20d302547995e56cb37719f216daf4858e9fee07.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_20d302547995e56cb37719f216daf4858e9fee07.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_c676a68cd1bf16216bc29138a48382bb7b3dd737.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_c676a68cd1bf16216bc29138a48382bb7b3dd737.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_83ff6db592bee2d30854a067cdfe5e4969aebd56.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_83ff6db592bee2d30854a067cdfe5e4969aebd56.1920x1080.jpg?t=1750785409"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_14b296c1c693428f94c35b83a6524fdcd7d4c574.600x338.jpg?t=1750785409",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252330/ss_14b296c1c693428f94c35b83a6524fdcd7d4c574.1920x1080.jpg?t=1750785409"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "DEATHLOOP will contain intense violence, blood and gore, sexual content, and strong language.",
+  "igdbIntentado": true,
+  "igdb": 113598,
+  "youtube": [
+    {
+      "id": "jziktWnfJcA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "cGd--oZUBlA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Rzjq6myYALo",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "-dqJptSr1FQ",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T17:46:04.265Z"
+}

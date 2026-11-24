@@ -1,0 +1,479 @@
+{
+  "clave": "lego batman 3 beyond gotham",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f8c5-7010-a344-8bec5a532421",
+  "appid": "313690",
+  "lanzamiento": "2014-11-11",
+  "desarrolladores": [
+    "Traveller's Tales",
+    "TT Games Ltd",
+    "TT Games"
+  ],
+  "editores": [
+    "Warner Bros. Interactive Entertainment",
+    "Warner Bros. Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Games Inc.",
+    "WB Games",
+    "Warner Bros."
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Multiplayer",
+    "Open World",
+    "Superhero",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 7639,
+      "url": "https://store.steampowered.com/app/313690/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 374,
+      "url": "https://metacritic.com/game/lego-batman-3-beyond-gotham/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 62,
+      "url": "https://opencritic.com/game/166/lego-batman-3-beyond-gotham"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "53403",
+      "nombre": "LEGO Batman Trilogy",
+      "apps": [
+        {
+          "appid": "213330",
+          "nombre": "LEGO® Batman™ 2: DC Super Heroes"
+        },
+        {
+          "appid": "313690",
+          "nombre": "LEGO® Batman™ 3: Beyond Gotham"
+        },
+        {
+          "appid": "21000",
+          "nombre": "LEGO® Batman™: The Videogame"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 39.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "47491",
+      "nombre": "LEGO Batman 3: Beyond Gotham",
+      "apps": [
+        {
+          "appid": "313690",
+          "nombre": "LEGO® Batman™ 3: Beyond Gotham"
+        }
+      ],
+      "usd": 4.24,
+      "antes": 16.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "52852",
+      "nombre": "LEGO Batman 3: Beyond Gotham Premium Edition",
+      "apps": [
+        {
+          "appid": "330860",
+          "nombre": "LEGO Batman 3: Beyond Gotham Season Pass"
+        },
+        {
+          "appid": "313690",
+          "nombre": "LEGO® Batman™ 3: Beyond Gotham"
+        }
+      ],
+      "usd": 5.19,
+      "antes": 25.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "466138",
+      "nombre": "Pack LEGO® Héroes y Villanos DC",
+      "apps": [
+        {
+          "appid": "313690",
+          "nombre": "LEGO® Batman™ 3: Beyond Gotham"
+        },
+        {
+          "appid": "829110",
+          "nombre": "LEGO® DC Super-Villains"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 59.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "466140",
+      "nombre": "Pack LEGO® GAMES",
+      "apps": [
+        {
+          "appid": "313690",
+          "nombre": "LEGO® Batman™ 3: Beyond Gotham"
+        },
+        {
+          "appid": "829110",
+          "nombre": "LEGO® DC Super-Villains"
+        },
+        {
+          "appid": "881320",
+          "nombre": "The LEGO Movie 2 Videogame"
+        },
+        {
+          "appid": "267530",
+          "nombre": "The LEGO® Movie - Videogame"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 99.99,
+      "descuento": 87
+    }
+  ],
+  "sueltos": {
+    "21000": {
+      "usd": 2.84,
+      "gratis": false
+    },
+    "213330": {
+      "usd": 3.79,
+      "gratis": false
+    },
+    "267530": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "313690": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "330860": {
+      "usd": 2.59,
+      "gratis": false
+    },
+    "829110": {
+      "usd": 5.99,
+      "gratis": false
+    },
+    "881320": {
+      "usd": 3.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "330860",
+      "nombre": "LEGO Batman 3: Beyond Gotham Season Pass",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 80
+    },
+    {
+      "appid": "335800",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Heroines and Villainesses Character Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "327176",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: The Squad",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 75
+    },
+    {
+      "appid": "327177",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Bizarro",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 75
+    },
+    {
+      "appid": "327174",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Rainbow Character Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "327170",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Man of Steel",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 75
+    },
+    {
+      "appid": "327171",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Batman 75th Anniversary",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 75
+    },
+    {
+      "appid": "327172",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Dark Knight",
+      "gratis": false,
+      "usd": 0.64,
+      "descuento": 75
+    },
+    {
+      "appid": "327173",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Batman of the Future Character Pack",
+      "gratis": false,
+      "usd": 0.95,
+      "descuento": 50
+    },
+    {
+      "appid": "327175",
+      "nombre": "LEGO Batman 3: Beyond Gotham DLC: Arrow",
+      "gratis": false,
+      "usd": 0.77,
+      "descuento": 70
+    }
+  ],
+  "descripcion": "El Cruzado Enmascarado une fuerzas con los superhéroes del universo DC Comics y despega rumbo al espacio exterior para impedir que el malvado Brainiac destruya la Tierra.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "11 NOV 2014",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "LEGO® Batman™ 3: Beyond Gotham",
+  "acerca": [
+    [
+      "p",
+      "¡La exitosa saga de videojuegos LEGO de Batman regresa con una aventura repleta de acción que llega fuera de este mundo! En LEGO Batman™ 3: Beyond Gotham, el Cruzado Enmascarado une fuerzas con los superhéroes del universo DC Comics y despega rumbo al espacio exterior para impedir que el malvado Brainiac destruya la Tierra. Gracias al poder de los Anillos Linterna, Brainiac es capaz de encoger mundos y añadirlos a su macabra colección de miniaturas de ciudades de todo el universo. Ahora, los mejores superhéroes y los villanos más astutos tendrán que unirse y recorrer diversos Mundos Linterna para conseguir los Anillos Linterna y detener a Brainiac antes de que sea demasiado tarde."
+    ],
+    [
+      "p",
+      "• Emocionantes combates espaciales: podrás luchar por primera vez junto a Batman y sus aliados en el espacio exterior y en numerosos Mundos Linterna, entre los que se encuentran Zamaron y Odym."
+    ],
+    [
+      "p",
+      "• Elenco espectacular de héroes y villanos de DC Comics: juega para desbloquear más de 150 personajes distintos, cada uno con sus increíbles poderes y habilidades. Entre ellos se incluyen miembros de la Liga de la Justicia y grandes figuras de LEGO como Cyborg, Solomon Grundy y muchos más."
+    ],
+    [
+      "p",
+      "• Línea argumental exclusiva con nuevas tramas y giros inesperados: los sorprendentes disfraces, la habilidad de control mental de Brainiac y el poder de los Anillos Linterna otorgan nuevas facetas a personajes que creías conocer."
+    ],
+    [
+      "p",
+      "• Piratea terminales informáticos: entra en un mundo virtual en el que tendrás que escapar de laberintos, luchar en escenarios de combate y competir para encontrar el código."
+    ],
+    [
+      "p",
+      "• Rueda de artilugios bat-tástica: tan solo con pulsar un botón, podrás seleccionar y mejorar los trajes y las habilidades de un personaje."
+    ],
+    [
+      "p",
+      "• Numerosos escenarios emblemáticos: visita el Salón de la Justicia, la Batcueva y la Atalaya de la Liga de la Justicia para acceder a tiendas, salas de trofeos y a la personalización de personajes y vehículos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows®XP SP3, Windows Vista/7/8 with latest service packs and updates installed"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo or equivalent AMD dual core CPU"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 7600GS or ATI Radeon 1950, 256 Mb RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows XP and DirectX® 9.0b and below not supported"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows XP/Vista/7/8"
+      ],
+      [
+        "Procesador",
+        "Intel i5, 4 x 2.6 GHz or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 480 or ATI Radeon HD 5850 or better, 1Gb RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Windows XP and DirectX® 9.0b and below not supported"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_67bb5a7afd535cfe43dd382a342a5964d6fc74e0.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_67bb5a7afd535cfe43dd382a342a5964d6fc74e0.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_d533f45ea1cab37689710e5125af10e70855cc5c.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_d533f45ea1cab37689710e5125af10e70855cc5c.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_08f80367bea3ea25c76b507bd3b2fd83602e0c36.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_08f80367bea3ea25c76b507bd3b2fd83602e0c36.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_bc954eff29cd033882cea9f945e6fd45fc74909a.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_bc954eff29cd033882cea9f945e6fd45fc74909a.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_be426dc622608af2917afa22026b56b63cac3180.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_be426dc622608af2917afa22026b56b63cac3180.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_2ec9794fca7b4ff8b7c4e7d019512f4435b17b52.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_2ec9794fca7b4ff8b7c4e7d019512f4435b17b52.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_b1f528335bb5d7e4b73d663c042a9dee4dd210af.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_b1f528335bb5d7e4b73d663c042a9dee4dd210af.1920x1080.jpg?t=1780597097"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_ff0e3ccefc7fbc154a712e5061d0f8db3809c10f.600x338.jpg?t=1780597097",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/313690/ss_ff0e3ccefc7fbc154a712e5061d0f8db3809c10f.1920x1080.jpg?t=1780597097"
+    }
+  ],
+  "web": "http://videogames.lego.com/en-us/lego-batman-3/about/features",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7685,
+  "youtube": [
+    {
+      "id": "y-Rm8DeSl-o",
+      "nombre": "Brainiac Trailer"
+    },
+    {
+      "id": "emdXSyjtbOo",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T17:45:57.483Z"
+}
