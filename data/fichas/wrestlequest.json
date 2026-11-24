@@ -1,0 +1,301 @@
+{
+  "clave": "wrestlequest",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-5ef2-7355-81b6-5c00cf36bd26",
+  "appid": "1867510",
+  "lanzamiento": "2023-08-21",
+  "desarrolladores": [
+    "Mega Cat Studios"
+  ],
+  "editores": [
+    "Skybound Games",
+    "Mega Cat Studios",
+    "Skybound",
+    "Skybound Game Studios"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Party-Based RPG",
+    "Wrestling",
+    "Turn-Based Combat",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 492,
+      "url": "https://store.steampowered.com/app/1867510/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 69,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/wrestlequest/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 50,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/wrestlequest/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 69,
+      "cantidad": 40,
+      "url": "https://opencritic.com/game/15329/wrestlequest"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "671889",
+      "nombre": "WrestleQuest",
+      "apps": [
+        {
+          "appid": "1867510",
+          "nombre": "WrestleQuest"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1867510": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "TAG TEAM WITH DESTINY! Pro wrestling and RPG fantasy collide in the ultimate pixel powered adventure. “Macho Man” Randy Savage and tons of other icons offer guidance as you powerbomb your way to glory beyond the ring. This hero’s journey ain’t just an epic quest, it’s WRESTLEQUEST!",
+  "generos": [
+    "Aventura",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "21 AGO 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "WrestleQuest",
+  "acerca": [
+    [
+      "p",
+      "Powerbomb and piledrive your way through a massive pixel art universe where professional wrestling and RPG fantasy collide."
+    ],
+    [
+      "p",
+      "Take a hero’s journey... in tights! Upgrade from aspiring rookie to world champ by training, learning, glamming, and SLAMMING to the top of the pro wrestling food chain."
+    ],
+    [
+      "p",
+      "Draw inspiration from wrestling icons like Jake the Snake Roberts, \"Macho Man\" Randy Savage, and even André the Giant. Explore worlds based on their lofty careers."
+    ],
+    [
+      "p",
+      "Classic RPG combat meet wrestling moves, match styles, and gimmicks galore."
+    ],
+    [
+      "p",
+      "Wild realms, exotic monsters, action figure fighters, and spandexed allies await as this fantasy goes beyond the ring."
+    ],
+    [
+      "p",
+      "Choose your moves, style, taunts, and even your entrance as you learn what it takes to be the cream of the crop in the pro wrestling world of your dreams."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11"
+      ],
+      [
+        "Procesador",
+        "Intel i5 750 or equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 670 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_f13b84526bbca99228a27fa0cfebb25d606b7327.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_f13b84526bbca99228a27fa0cfebb25d606b7327.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_b8f5c7a08a58246abb8c964383bc415493900f27.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_b8f5c7a08a58246abb8c964383bc415493900f27.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_f260bf2bcb5cb1d4a6948a7b78a9887830bb0afc.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_f260bf2bcb5cb1d4a6948a7b78a9887830bb0afc.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_fdafaf54f6680ca46e6452875093018d9a70eb1b.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_fdafaf54f6680ca46e6452875093018d9a70eb1b.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_677c73869745191b9fc6d1e68507b7dd526d862d.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_677c73869745191b9fc6d1e68507b7dd526d862d.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_a2dbbf002267980fef6518db30f8c2e066e215e9.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_a2dbbf002267980fef6518db30f8c2e066e215e9.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_eb6c1d5eb62642814a3948b5408ffbfb6e4093a3.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_eb6c1d5eb62642814a3948b5408ffbfb6e4093a3.1920x1080.jpg?t=1729701662"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_70090b781466a5cf11eb76a33c4b8631467ee816.600x338.jpg?t=1729701662",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867510/ss_70090b781466a5cf11eb76a33c4b8631467ee816.1920x1080.jpg?t=1729701662"
+    }
+  ],
+  "web": "https://wrestlequest.com/",
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.9,
+    "cantidad": 147,
+    "escala": 5
+  },
+  "xbox": "9PNWM0KB4CXP",
+  "igdbIntentado": true,
+  "igdb": 194466,
+  "youtube": [
+    {
+      "id": "RXQMkQ71F_M",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3ZpLRIwRxs0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qpJMKr9721c",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "H3Q3bxuA_0Y",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T11:37:33.843Z"
+}

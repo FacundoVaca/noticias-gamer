@@ -1,0 +1,342 @@
+{
+  "clave": "a plague tale innocence",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-2e9a-70fc-9c2e-565a87c8917b",
+  "appid": "752590",
+  "lanzamiento": "2019-05-14",
+  "desarrolladores": [
+    "Asobo Studio"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Story Rich",
+    "Adventure",
+    "Stealth",
+    "Medieval",
+    "Female Protagonist"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 64507,
+      "url": "https://store.steampowered.com/app/752590/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 33,
+      "url": "https://metacritic.com/game/a-plague-tale-innocence/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 2663,
+      "url": "https://metacritic.com/game/a-plague-tale-innocence/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 173,
+      "url": "https://opencritic.com/game/7547/a-plague-tale-innocence"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "340715",
+      "nombre": "A Plague Tale: Innocence",
+      "apps": [
+        {
+          "appid": "752590",
+          "nombre": "A Plague Tale: Innocence"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "802975",
+      "nombre": "A Plague Tale Bundle",
+      "apps": [
+        {
+          "appid": "752590",
+          "nombre": "A Plague Tale: Innocence"
+        },
+        {
+          "appid": "1182900",
+          "nombre": "A Plague Tale: Requiem"
+        }
+      ],
+      "usd": 42.99,
+      "antes": 42.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "752590": {
+      "usd": 24.99,
+      "gratis": false
+    },
+    "1182900": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "967380",
+      "nombre": "A Plague Tale: Innocence - Coats of Arms DLC",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Sigue la lúgubre historia de la joven Amicia y su hermano pequeño Hugo en un viaje por los momentos más oscuros de la historia.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "14 MAY 2019",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/a-plague-tale-innocence?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "A Plague Tale: Innocence",
+  "acerca": [
+    [
+      "p",
+      "Sigue la lúgubre historia de la joven Amicia y su hermano pequeño Hugo en un viaje por los momentos más oscuros de la historia. Perseguidos por la Inquisición y rodeados de imparables enjambres de ratas, Amicia y Hugo aprenderán a entenderse y a confiar el uno en el otro, y lucharán contra viento y marea por sobrevivir y encontrar un propósito en este mundo cruel y despiadado."
+    ],
+    [
+      "p",
+      "Corre el año 1348. La peste negra asola el Reino de Francia. La Inquisición persigue a Amicia y a su hermano pequeño Hugo a través de aldeas destrozadas por la enfermedad. En su camino, tendrán que unir fuerzas con otros niños y utilizar la luz y el fuego para escapar de los enjambres de ratas. Con el vínculo que une sus destinos como única ayuda, tendrán que enfrentarse a horrores inefables en su lucha por sobrevivir."
+    ],
+    [
+      "p",
+      "Su aventura da comienzo... y la inocencia toca a su fin."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-2120 (3.3 GHz)/AMD FX-4100 X4 (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2 GB, GeForce GTX 660/Radeon HD 7870"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690 (3.5 GHz)/AMD FX-8300 (3.3 GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4 GB, GeForce GTX 970/Radeon RX 480"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_8775c109d7303faf8aa94c532905107b75064d48.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_8775c109d7303faf8aa94c532905107b75064d48.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_8433438bf03b7f524e6cf3ac81e99e96be2188c8.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_8433438bf03b7f524e6cf3ac81e99e96be2188c8.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_a1025722ac0dce88a3e63e88a34352fb73a403db.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_a1025722ac0dce88a3e63e88a34352fb73a403db.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_d61367be06a8f92ca4331e58bd51dc1b45c9984a.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_d61367be06a8f92ca4331e58bd51dc1b45c9984a.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_a8a06fa546620d6bd6e35809c9030c4ddf5c00f0.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_a8a06fa546620d6bd6e35809c9030c4ddf5c00f0.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_6e407c3124bcd9ae87efc096a0073de8972aa73d.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_6e407c3124bcd9ae87efc096a0073de8972aa73d.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_dc1d4b2aef9ee44b300229f47fff802dd075ffc9.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_dc1d4b2aef9ee44b300229f47fff802dd075ffc9.1920x1080.jpg?t=1784712345"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_b3eee5fa907fe897c650f4720629931db65b4dbb.600x338.jpg?t=1784712345",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752590/ss_b3eee5fa907fe897c650f4720629931db65b4dbb.1920x1080.jpg?t=1784712345"
+    }
+  ],
+  "web": "https://www.focus-home.com/games/a-plague-tale-innocence",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.7,
+    "cantidad": 18450,
+    "escala": 5
+  },
+  "xbox": "BQ2NNLQPS8RS",
+  "igdbIntentado": true,
+  "igdb": 27316,
+  "youtube": [
+    {
+      "id": "djmHcNBe1Z4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "sEu7k4OeyPM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "cKeeZ0uuHBA",
+      "nombre": "E3 2017 Trailer"
+    },
+    {
+      "id": "xkD0GO0NqsQ",
+      "nombre": "E3 2018 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T11:37:27.091Z"
+}

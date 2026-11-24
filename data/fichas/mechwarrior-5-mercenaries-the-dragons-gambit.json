@@ -1,0 +1,231 @@
+{
+  "clave": "mechwarrior 5 mercenaries the dragons gambit",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-735a-716e-b14b-d86ac1c24e86",
+  "appid": "2489020",
+  "lanzamiento": "2023-09-28",
+  "desarrolladores": [
+    "Piranha Games Inc.",
+    "Piranha Games"
+  ],
+  "editores": [
+    "Piranha Games Inc.",
+    "Piranha Games",
+    "Fireshine Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Simulation",
+    "Mechs"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 70,
+      "cantidad": 124,
+      "url": "https://store.steampowered.com/app/2489020/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "784080",
+    "nombre": "MechWarrior 5: Mercenaries"
+  },
+  "ediciones": [
+    {
+      "packageid": "895794",
+      "nombre": "MechWarrior 5: Mercenaries - The Dragon's Gambit",
+      "apps": [
+        {
+          "appid": "2489020",
+          "nombre": "MechWarrior 5: Mercenaries - The Dragon's Gambit"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 14.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2489020": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "THE DRAGONS GAMBIT - Brace yourself for 15 thrilling missions and find the valuable high-tier weapon cache in every mission. Introducing the Longbow fire-support 'Mech. Unlock Izanagi Warriors Variants as exclusive campaign rewards! New Instant Action Team Combat Mode, Garrisoned and Free For All.",
+  "generos": [
+    "Acción",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "27 SEP 2023",
+  "metacritic": null,
+  "nombreSteam": "MechWarrior 5: Mercenaries - The Dragon's Gambit",
+  "acerca": [
+    [
+      "p",
+      "After dealing a devastating blow to the Capellan Confederation, Hanse Davion is eager to replicate this success against the Draconis Combine. Theodore Kurita, fully aware of the encroaching menace posed by the FedCom Alliance, has taken decisive action to fortify the Combine's defenses against an inevitable war. A unique opportunity presents itself – to unite with the Draconis Combine and rally behind Kurita's unexpected plan."
+    ],
+    [
+      "p",
+      "- Embark on an epic 15 mission quest line to safeguard the future of the Draconis Combine"
+    ],
+    [
+      "p",
+      "- The Dragon's Gambit adds the iconic Longbow BattleMech chassis with 5 variants, including the devastating Hero LGB-HS 'Hailstorm'"
+    ],
+    [
+      "p",
+      "- Unlock the exclusive \"\"Otomo\"\" elite military force Special Variant 'Mech rewards"
+    ],
+    [
+      "p",
+      "- New Instant Action Combat Modes - Garrisoned and Free For All"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-7100/AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 770/AMD Radeon R9 280X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Broadband internet connection is needed to play and host Co-op games. Internet Connection is NOT Required for Single player once the game is downloaded."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K/AMD Ryzen 7 1700"
+      ],
+      [
+        "Memoria",
+        "16 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070/AMD RX Vega 56"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Broadband internet connection is needed to play and host Co-op games. Internet Connection is NOT Required for Single player once the game is downloaded."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_5630edf4619b24a060b89c076153e7f206b1764a.600x338.jpg?t=1785537868",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_5630edf4619b24a060b89c076153e7f206b1764a.1920x1080.jpg?t=1785537868"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_44180715d7b3d692b592127309f697e657dea372.600x338.jpg?t=1785537868",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_44180715d7b3d692b592127309f697e657dea372.1920x1080.jpg?t=1785537868"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_30cfe5936c559607eca214a22cac8b15ad15baba.600x338.jpg?t=1785537868",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_30cfe5936c559607eca214a22cac8b15ad15baba.1920x1080.jpg?t=1785537868"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_3804eb502bcaef312069b796747becb11afc03a4.600x338.jpg?t=1785537868",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489020/ss_3804eb502bcaef312069b796747becb11afc03a4.1920x1080.jpg?t=1785537868"
+    }
+  ],
+  "web": "https://mw5mercs.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 260455,
+  "v": 7,
+  "consultado": "2026-11-24T11:38:03.968Z"
+}

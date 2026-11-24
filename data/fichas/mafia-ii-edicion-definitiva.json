@@ -1,0 +1,328 @@
+{
+  "clave": "mafia ii edicion definitiva",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4292-724a-a13a-1f1da1e0ad6c",
+  "appid": "1030830",
+  "lanzamiento": "2020-05-09",
+  "desarrolladores": [
+    "Hangar 13",
+    "D3T",
+    "2K Czech"
+  ],
+  "editores": [
+    "2K",
+    "2K Games",
+    "TAKE-TWO INTERACTIVE",
+    "Hangar 13"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Open World",
+    "Story Rich"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 29514,
+      "url": "https://store.steampowered.com/app/1030830/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 32,
+      "url": "https://metacritic.com/game/mafia-ii-definitive-edition/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 1261,
+      "url": "https://metacritic.com/game/mafia-ii-definitive-edition/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 64,
+      "cantidad": 52,
+      "url": "https://opencritic.com/game/9470/mafia-ii-definitive-edition"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "342913",
+      "nombre": "Mafia II: Definitive Edition",
+      "apps": [
+        {
+          "appid": "50130",
+          "nombre": "Mafia II (Classic)"
+        },
+        {
+          "appid": "1030830",
+          "nombre": "Mafia II: Edición Definitiva"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "50130": {
+      "usd": 29.99,
+      "gratis": false
+    },
+    "1030830": {
+      "usd": 11.97,
+      "gratis": false
+    }
+  },
+  "descripcion": "El héroe de guerra Vito Scaletta se mezcla con la mafia con la esperanza de pagar las deudas de su padre e intenta demostrar lo que vale y ascender en la familia a base de cometer crímenes cada vez mejor recompensados y con mayores consecuencias.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "19 MAY 2020",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Mafia II: Edición Definitiva",
+  "acerca": [
+    [
+      "h",
+      "Incluye el juego principal y sus DLC."
+    ],
+    [
+      "p",
+      "Segunda parte de la saga Mafia. Empire Bay, Nueva York. Años 40 y 50."
+    ],
+    [
+      "p",
+      "Vive como un gánster en una edad de oro del crimen organizado con esta impresionante remasterización en HD. El héroe de guerra Vito Scaletta se une a la mafia para pagar las deudas de su padre. Junto a su colega Joe, intentará ascender en la familia mediante crímenes de recompensas, importancia y consecuencias cada vez mayores."
+    ],
+    [
+      "h",
+      "Drama en la edad de oro:"
+    ],
+    [
+      "p",
+      "Inspirado en míticas pelis de mafiosos, sumérgete en el encanto de la vida sin escapatoria en la mafia."
+    ],
+    [
+      "h",
+      "Empire Bay, Nueva York:"
+    ],
+    [
+      "p",
+      "Una ciudad llena de oportunidades en la que el crimen organizado prospera gracias a las industrias surgidas en Estados Unidos tras la Segunda Guerra Mundial."
+    ],
+    [
+      "h",
+      "El juego completo y remasterizado:"
+    ],
+    [
+      "p",
+      "Disfruta por primera vez del paquete completo de Mafia II con increíbles detalles en HD."
+    ],
+    [
+      "p",
+      "Consigue Mafia II: Edición Definitiva para desbloquear la chaqueta de cuero y el coche de Vito en las ediciones definitivas de Mafia y Mafia III."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5-2500K or AMD FX-8120"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2GB NVIDIA GeForce GTX 660 or 2GB AMD Radeon HD7870"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 8.1 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7-3770 or AMD FX 8350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4GB NVIDIA GeForce GTX 780 or 4GB AMD Radeon R9 290X"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d29c8180a12271dd692e5601af95a82c0e016b98.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d29c8180a12271dd692e5601af95a82c0e016b98.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_f6d60fcb54fce33e1365861d472508a7f6350d2a.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_f6d60fcb54fce33e1365861d472508a7f6350d2a.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_dc2a279273bd3f92401bda589e3220f119c40dcb.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_dc2a279273bd3f92401bda589e3220f119c40dcb.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d95de409e6b7e123348e1c9fc42277232901e613.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_d95de409e6b7e123348e1c9fc42277232901e613.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_3422719dda375300922c14a8493235fc95beeed3.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_3422719dda375300922c14a8493235fc95beeed3.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_92384374adf9b8ed2eae7c7573b12ea60da451c6.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_92384374adf9b8ed2eae7c7573b12ea60da451c6.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_c18ea0d14b27145f8550d5a8963cf9cc7f23812f.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_c18ea0d14b27145f8550d5a8963cf9cc7f23812f.1920x1080.jpg?t=1795032851"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_7bd7a6afa135b6149afe79497475db12e8769557.600x338.jpg?t=1795032851",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030830/ss_7bd7a6afa135b6149afe79497475db12e8769557.1920x1080.jpg?t=1795032851"
+    }
+  ],
+  "web": "https://mafia.2k.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 134071,
+  "youtube": [
+    {
+      "id": "8BPUGkxTVdg",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T11:37:53.921Z"
+}
