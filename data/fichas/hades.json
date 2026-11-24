@@ -1,0 +1,326 @@
+{
+  "clave": "hades",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-33f0-7200-80fc-87f769196c84",
+  "appid": "1145360",
+  "lanzamiento": "2019-12-10",
+  "desarrolladores": [
+    "Supergiant Games"
+  ],
+  "editores": [
+    "Supergiant Games"
+  ],
+  "etiquetas": [
+    "Action Roguelike",
+    "Roguelite",
+    "Hack and Slash",
+    "Indie",
+    "Mythology"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 288118,
+      "url": "https://store.steampowered.com/app/1145360/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 93,
+      "cantidad": 58,
+      "url": "https://metacritic.com/game/hades/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 5464,
+      "url": "https://metacritic.com/game/hades/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 94,
+      "cantidad": 191,
+      "url": "https://opencritic.com/game/10181/hades"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "415372",
+      "nombre": "Hades",
+      "apps": [
+        {
+          "appid": "1145360",
+          "nombre": "Hades"
+        }
+      ],
+      "usd": 1.24,
+      "antes": 4.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1145360": {
+      "usd": 1.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1206340",
+      "nombre": "Hades Original Soundtrack",
+      "gratis": false,
+      "usd": 0.62,
+      "descuento": 75
+    }
+  ],
+  "descripcion": "Desafía al dios de los muertos y protagoniza una salvaje fuga del Inframundo en este juego de exploración de mazmorras de los creadores de Bastion, Transistor y Pyre.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "17 SEP 2020",
+  "metacritic": {
+    "puntaje": 93,
+    "url": "https://www.metacritic.com/game/pc/hades?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Hades",
+  "acerca": [
+    [
+      "p",
+      "Hades es un juego roguelike de exploración de mazmorras que combina los mejores aspectos de los aclamados títulos anteriores de Supergiant, como la acción rápida de Bastion , la atmósfera y la profundidad de Transistor y la narrativa centrada en los personajes de Pyre ."
+    ],
+    [
+      "h",
+      "COMBATE PARA ESCAPAR DEL INFIERNO"
+    ],
+    [
+      "p",
+      "Como el príncipe inmortal del Inframundo, tendrás a tu disposición los poderes y las armas míticas del Olimpo para liberarte de las garras del mismísimo dios de los muertos, al tiempo que te vas haciendo más fuerte y descubres más piezas de la historia con cada intento de fuga."
+    ],
+    [
+      "h",
+      "DESATA LA IRA DEL OLIMPO"
+    ],
+    [
+      "p",
+      "¡Los dioses del Olimpo están de tu lado! Conoce a Zeus, Atenea, Poseidón y muchos más, y elige entre decenas de poderosas bendiciones que potenciarán tus habilidades. Hay miles de arquetipos de personaje viables que irás descubriendo a medida que juegues."
+    ],
+    [
+      "h",
+      "ALÍATE CON DIOSES, FANTASMAS Y MONSTRUOS"
+    ],
+    [
+      "p",
+      "Disfruta con las voces de un elenco de personajes verdaderamente carismáticos y deseosos de conocerte. Desarrolla tus relaciones con ellos y experimenta cientos de eventos de historia únicos, a medida que vas descubriendo los secretos de esta enorme y disfuncional familia."
+    ],
+    [
+      "h",
+      "DISEÑADO PARA SER REJUGABLE"
+    ],
+    [
+      "p",
+      "Te esperan nuevas sorpresas cada vez que te adentres en el siempre cambiante Inframundo, cuyos jefes guardianes te recordarán entre partida y partida. Usa el poderoso Espejo de la Noche para adquirir mejoras permanentes y aguantar un poco más la próxima vez que intentes huir."
+    ],
+    [
+      "h",
+      "NO HAY NADA IMPOSIBLE"
+    ],
+    [
+      "p",
+      "Gracias a las mejoras permanentes, no hace falta ser un dios para experimentar la emoción de los combates y la fascinante historia. Pero si lo eres, aumenta el nivel de desafío y prepárate para una dosis de acción salvaje que pondrá a prueba tus habilidades hasta límites insospechados."
+    ],
+    [
+      "h",
+      "EL ESTILO CARACTERÍSTICO DE SUPERGIANT"
+    ],
+    [
+      "p",
+      "La cuidada presentación atmosférica y la fusión única de jugabilidad y narrativa que han formado parte de todos los juegos de Supergiant se desarrolla aquí en su máximo esplendor: los impresionantes entornos dibujados a mano y la intensa banda sonora original consiguen que el Inframundo cobre vida de forma espectacular."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Subtítulos disponibles",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 SP1"
+      ],
+      [
+        "Procesador",
+        "Dual Core 2.4 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1GB VRAM / DirectX 10+ support"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 SP1"
+      ],
+      [
+        "Procesador",
+        "Dual Core 3.0 GHz+"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2GB VRAM / DirectX 10+ support"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_71b831acfddfa631e59e57405b347fb04e9ce8d5.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_71b831acfddfa631e59e57405b347fb04e9ce8d5.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_68300459a8c3daacb2ec687adcdbf4442fcc4f47.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_68300459a8c3daacb2ec687adcdbf4442fcc4f47.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_bcb499a0dd001f4101823f99ec5094d2872ba6ee.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_bcb499a0dd001f4101823f99ec5094d2872ba6ee.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8e07e477fa7ff2f88c8984bc89b9652a655da0e9.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8e07e477fa7ff2f88c8984bc89b9652a655da0e9.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_34e6660705cfe47d2b2f95189c37f7cb77f75ca6.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_34e6660705cfe47d2b2f95189c37f7cb77f75ca6.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_217b70678a2eea71a974fba1a4cd8baa660581bb.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_217b70678a2eea71a974fba1a4cd8baa660581bb.1920x1080.jpg?t=1758127023"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_5e52844b891b54608eb51a850d6b53313eeed0f7.600x338.jpg?t=1758127023",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_5e52844b891b54608eb51a850d6b53313eeed0f7.1920x1080.jpg?t=1758127023"
+    }
+  ],
+  "web": "http://www.supergiantgames.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 113112,
+  "youtube": [
+    {
+      "id": "YZZFlcE0fWE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "593xCDfumN0",
+      "nombre": "Early Access Trailer"
+    },
+    {
+      "id": "Bz8l935Bv0Y",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "sr__hTXlDZk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T20:24:59.485Z"
+}

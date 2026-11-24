@@ -1,0 +1,278 @@
+{
+  "clave": "astario",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01a03f8d-2b1f-70d9-8056-4c104bcf1e71",
+  "appid": "1520340",
+  "lanzamiento": "2026-11-24",
+  "desarrolladores": [
+    "Ondřej Hroch"
+  ],
+  "editores": [
+    "Ondřej Hroch"
+  ],
+  "etiquetas": [
+    "Space",
+    "Building",
+    "Mining",
+    "Crafting",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 11,
+      "url": "https://store.steampowered.com/app/1520340/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "535886",
+      "nombre": "Astario",
+      "apps": [
+        {
+          "appid": "1520340",
+          "nombre": "Astario"
+        }
+      ],
+      "usd": 5.98,
+      "antes": 8.55,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "1520340": {
+      "usd": 5.98,
+      "gratis": false
+    }
+  },
+  "descripcion": "Astario is a universe in which you can build functional ships and orbital stations with automated factories. Collect materials, craft new blocks, and expand into the universe. Nothing is ever truly static, ships, stations, asteroids, planets, everything follows the laws of orbital motion.",
+  "generos": [
+    "Aventura",
+    "Indie",
+    "Simuladores",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "24 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Astario",
+  "acerca": [
+    [
+      "p",
+      "Astario is a universe in which you can build functional ships and orbital stations with automated factories."
+    ],
+    [
+      "p",
+      "Collect materials, craft new blocks, and expand into the universe."
+    ],
+    [
+      "p",
+      "Nothing is ever truly static, ships, stations, asteroids, planets, everything follows the laws of orbital motion."
+    ],
+    [
+      "p",
+      "Find and Collect ores"
+    ],
+    [
+      "p",
+      "Explore the environment for various naturally occurring materials."
+    ],
+    [
+      "p",
+      "If you don't spot asteroids from distance, like little specks of dust reflecting the sunlight, you may detect them on your radar. Approach it with your ship without crashing into it and identify which resources it contains. Trial and error, visual inspection, or use of analysis tools, if it works, it works."
+    ],
+    [
+      "p",
+      "Use the drill mounted on your ship, or other tools of your choice to extract material from the asteroid and collect it into your cargo storage."
+    ],
+    [
+      "p",
+      "Process the collected materials and craft them into the blocks that you need."
+    ],
+    [
+      "p",
+      "Build and Modify your vessels"
+    ],
+    [
+      "p",
+      "Assemble your vehicles from functional and structural blocks, connect them with cables and pipes, and create an imposing machine where all components work together to achieve your goal."
+    ],
+    [
+      "p",
+      "Plan or design your build out of armor blocks, power supplies, life support components, tools, and production machinery. Construct an orbital station with a stash of cargo containers, or anchor your production base to an asteroid and turn it's ores into more blocks, fully automatically. Equip your ship with docking ports for refueling or recharging."
+    ],
+    [
+      "p",
+      "Choose the right materials to balance mass, resilience, performance, and efficiency in a way that best suits your needs. Build complex mission plans to the moon with multistage vehicles that separate and dock again to save fuel, or create an overpowered rocket and put a cockpit on it."
+    ],
+    [
+      "p",
+      "Did your ship get damaged in a collision or became otherwise stranded? Try to salvage it by repurposing blocks and repair its critical systems."
+    ],
+    [
+      "p",
+      "You are free to build anything. Functional, artistic, both, or none, you decide how you use your resources."
+    ],
+    [
+      "p",
+      "Craft and Automate"
+    ],
+    [
+      "p",
+      "Build increasingly advanced production machinery to unlock new recipes and extend your ships with more functionality."
+    ],
+    [
+      "p",
+      "With more advanced resources, you will be able to craft more blocks with new functionalities, and use them to simplify and scale up difficult work. Each new production blocks offers new recipes, allowing you to increase power, efficiency, or unlock a whole new gameplay mechanic altogether."
+    ],
+    [
+      "p",
+      "All production blocks have input and output ports that can be automated using logistic pipes which use request-based item routing. Simply hook up your inputs to a cargo container, and the machine will pull what it needs. Mining can be temporarily automated using specialized drills, which mine until the resources within its scope are depleted."
+    ],
+    [
+      "p",
+      "Tackle the logistics of power production and resource acquisition in the void of space and watch your items move through your base."
+    ],
+    [
+      "p",
+      "Navigate and Explore"
+    ],
+    [
+      "p",
+      "Use orbital mechanics, or overwhelming thrust to reach distant places, find areas with exotic resources, and use them to advance technological progress."
+    ],
+    [
+      "p",
+      "Each planet you can visit contains unique resource distribution, and possibly rare materials which become the stepping stone in your technological progression. Settling at each planet presents different challenges to overcome. Resource abundance, sources of power, and environment hostility alter the possible paths towards conquest of the universe."
+    ],
+    [
+      "p",
+      "Nothing is ever truly static, ships, stations, asteroids, planets, everything follows the laws of orbital motion. Plan your journeys carefully, the universe never stops."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-12100F"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6600"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Any"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 4100"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1660 Super"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Any"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/c8943ce88d8f6b6d872084bd34d7f77c70622aeb/ss_c8943ce88d8f6b6d872084bd34d7f77c70622aeb.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/c8943ce88d8f6b6d872084bd34d7f77c70622aeb/ss_c8943ce88d8f6b6d872084bd34d7f77c70622aeb.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/dfc680c819d7f981e9851ab230eb49c9fa6d678f/ss_dfc680c819d7f981e9851ab230eb49c9fa6d678f.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/dfc680c819d7f981e9851ab230eb49c9fa6d678f/ss_dfc680c819d7f981e9851ab230eb49c9fa6d678f.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/cc64105774e57d2a4e55273d43bc6eee23f20378/ss_cc64105774e57d2a4e55273d43bc6eee23f20378.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/cc64105774e57d2a4e55273d43bc6eee23f20378/ss_cc64105774e57d2a4e55273d43bc6eee23f20378.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/19f81a33d0898f4cc282adcf2bb7aa804702cd33/ss_19f81a33d0898f4cc282adcf2bb7aa804702cd33.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/19f81a33d0898f4cc282adcf2bb7aa804702cd33/ss_19f81a33d0898f4cc282adcf2bb7aa804702cd33.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/101732afcd6b87eb9c36258560966f48180c42be/ss_101732afcd6b87eb9c36258560966f48180c42be.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/101732afcd6b87eb9c36258560966f48180c42be/ss_101732afcd6b87eb9c36258560966f48180c42be.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/fbdab7b95e801c026e8865ca0033a63ad509ea3e/ss_fbdab7b95e801c026e8865ca0033a63ad509ea3e.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/fbdab7b95e801c026e8865ca0033a63ad509ea3e/ss_fbdab7b95e801c026e8865ca0033a63ad509ea3e.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/fb8eb9f254b83e108afe6a851296399d89fc2c4c/ss_fb8eb9f254b83e108afe6a851296399d89fc2c4c.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/fb8eb9f254b83e108afe6a851296399d89fc2c4c/ss_fb8eb9f254b83e108afe6a851296399d89fc2c4c.1920x1080.jpg?t=1795539771"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/96b2aba8cdffb77b44f42e0d28b5a9e513286624/ss_96b2aba8cdffb77b44f42e0d28b5a9e513286624.600x338.jpg?t=1795539771",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520340/96b2aba8cdffb77b44f42e0d28b5a9e513286624/ss_96b2aba8cdffb77b44f42e0d28b5a9e513286624.1920x1080.jpg?t=1795539771"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 417155,
+  "v": 7,
+  "consultado": "2026-11-24T20:25:04.256Z"
+}

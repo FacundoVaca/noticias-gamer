@@ -1,0 +1,663 @@
+{
+  "clave": "snowrunner",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3e66-70a2-bb81-04e55ec0da54",
+  "appid": "1465360",
+  "lanzamiento": "2020-04-28",
+  "desarrolladores": [
+    "Saber Interactive"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Automobile Sim",
+    "Multiplayer",
+    "Driving",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 47801,
+      "url": "https://store.steampowered.com/app/1465360/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 15,
+      "url": "https://metacritic.com/game/snowrunner/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 72,
+      "cantidad": 400,
+      "url": "https://metacritic.com/game/snowrunner/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 69,
+      "url": "https://opencritic.com/game/9011/snowrunner"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "515992",
+      "nombre": "SnowRunner",
+      "apps": [
+        {
+          "appid": "1465360",
+          "nombre": "SnowRunner"
+        }
+      ],
+      "usd": 7.59,
+      "antes": 18.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "575626",
+      "nombre": "SnowRunner - 1-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "1465360",
+          "nombre": "SnowRunner"
+        },
+        {
+          "appid": "1533002",
+          "nombre": "SnowRunner - High Roller Pack"
+        },
+        {
+          "appid": "1533003",
+          "nombre": "SnowRunner - Loaded Dice Vinyl Wrap"
+        },
+        {
+          "appid": "1533000",
+          "nombre": "SnowRunner - Sabertooth Livery"
+        },
+        {
+          "appid": "1533004",
+          "nombre": "SnowRunner - Scorched Vinyl Wrap"
+        },
+        {
+          "appid": "1533006",
+          "nombre": "SnowRunner - Season 1: Search & Recover"
+        },
+        {
+          "appid": "1533007",
+          "nombre": "SnowRunner - Season 2: Explore & Expand"
+        },
+        {
+          "appid": "1533008",
+          "nombre": "SnowRunner - Season 3: Locate & Deliver"
+        },
+        {
+          "appid": "1533009",
+          "nombre": "SnowRunner - Season 4: New Frontiers"
+        },
+        {
+          "appid": "1533005",
+          "nombre": "SnowRunner - True Colors Vinyl Wrap"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 24.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "1465360": {
+      "usd": 7.59,
+      "gratis": false
+    },
+    "1533000": {
+      "usd": 9.99,
+      "gratis": false
+    },
+    "1533002": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1533003": {
+      "usd": 0.71,
+      "gratis": false
+    },
+    "1533004": {
+      "usd": 0.71,
+      "gratis": false
+    },
+    "1533005": {
+      "usd": 0.71,
+      "gratis": false
+    },
+    "1533006": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "1533007": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "1533008": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "1533009": {
+      "usd": 4.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 50,
+  "dlcLista": [
+    {
+      "appid": "3777630",
+      "nombre": "SnowRunner - Season 19: Research & Restore",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3777660",
+      "nombre": "SnowRunner - Mercedes-Benz Trucks Dual Pack 2",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3777620",
+      "nombre": "SnowRunner - Season 18: Patch & Power",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "3777650",
+      "nombre": "SnowRunner - Mercedes-Benz Trucks Dual Pack 1",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "3777610",
+      "nombre": "SnowRunner - Season 17: Repair & Rescue",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 25
+    },
+    {
+      "appid": "3623250",
+      "nombre": "SnowRunner - Dragon Wagons Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "2709480",
+      "nombre": "SnowRunner - Season 16: High Voltage",
+      "gratis": false,
+      "usd": 4.89,
+      "descuento": 30
+    },
+    {
+      "appid": "3623240",
+      "nombre": "SnowRunner - Freightliner & Western Star Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "2709470",
+      "nombre": "SnowRunner - Season 15: Oil & Dirt",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "3398280",
+      "nombre": "SnowRunner - Mack Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "2353723",
+      "nombre": "SnowRunner - Kenworth Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "2709460",
+      "nombre": "SnowRunner - Season 14: Reap & Sow",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "3023640",
+      "nombre": "SnowRunner - Rezvani Tank",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2709450",
+      "nombre": "SnowRunner - Season 13: Dig & Drill",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "2856380",
+      "nombre": "SnowRunner - The Atom",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2709430",
+      "nombre": "SnowRunner - Salt of the Earth Vinyl Wrap Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "2154174",
+      "nombre": "SnowRunner - Season 12: Public Energy",
+      "gratis": false,
+      "usd": 4.54,
+      "descuento": 35
+    },
+    {
+      "appid": "2353722",
+      "nombre": "SnowRunner - Jack of All Treads Tire Pack",
+      "gratis": false,
+      "usd": 1.43,
+      "descuento": 20
+    },
+    {
+      "appid": "2353721",
+      "nombre": "SnowRunner - Kenworth W990",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2154173",
+      "nombre": "SnowRunner - Season 11: Lights & Cameras",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "2154172",
+      "nombre": "SnowRunner - Season 10: Fix & Connect",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "2353720",
+      "nombre": "SnowRunner - The Mastodon",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2154171",
+      "nombre": "SnowRunner - Season 9: Renew & Rebuild",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "2154170",
+      "nombre": "SnowRunner - Save the Day Vinyl Wrap Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "1585815",
+      "nombre": "SnowRunner - Season 8: Grand Harvest",
+      "gratis": false,
+      "usd": 4.54,
+      "descuento": 35
+    },
+    {
+      "appid": "2058880",
+      "nombre": "SnowRunner - Rezvani Hercules",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "2058881",
+      "nombre": "SnowRunner - Western Star Wolf Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "1785850",
+      "nombre": "SnowRunner - Land Rover Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "1838500",
+      "nombre": "SnowRunner - Crocodile Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "1613110",
+      "nombre": "SnowRunner - Jeep Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "1585814",
+      "nombre": "SnowRunner - Season 7: Compete & Conquer",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "1585813",
+      "nombre": "SnowRunner - Season 6: Haul & Hustle",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "1585812",
+      "nombre": "SnowRunner - Season 5: Build & Dispatch",
+      "gratis": false,
+      "usd": 2.59,
+      "descuento": 35
+    },
+    {
+      "appid": "1533009",
+      "nombre": "SnowRunner - Season 4: New Frontiers",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 40
+    },
+    {
+      "appid": "1533008",
+      "nombre": "SnowRunner - Season 3: Locate & Deliver",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1533007",
+      "nombre": "SnowRunner - Season 2: Explore & Expand",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1533006",
+      "nombre": "SnowRunner - Season 1: Search & Recover",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1585811",
+      "nombre": "SnowRunner - TATRA Dual Pack",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 20
+    },
+    {
+      "appid": "1533010",
+      "nombre": "SnowRunner - Western Star 49X",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "1533011",
+      "nombre": "SnowRunner - Clasico Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "¡Prepárate para la nueva generación de esta experiencia campo a través! ¡Conduce potentes vehículos, supera a la naturaleza en entornos extremos y completa misiones solo o con hasta 3 amigos!",
+  "generos": [
+    "Aventura",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "17 MAY 2021",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "SnowRunner",
+  "acerca": [
+    [
+      "p",
+      "SnowRunner te pone al volante de potentes vehículos para ganar la lucha contra la naturaleza en entornos extremos con el mejor simulador de terreno que existe. De los creadores de MudRunner, un juego con millones de ventas."
+    ],
+    [
+      "p",
+      "Atraviesa barro, aguas torrenciales, nieve y lagos congelados con el mejor motor de simulador de terreno con física de Saber Interactive. Recorre entornos inhóspitos inspirados en la naturaleza salvaje de Norteamérica y Eurasia, que reaccionarán de forma precisa al peso, la velocidad y el impulso de tu camión."
+    ],
+    [
+      "p",
+      "Conduce 40 vehículos de marcas como Ford, Chevrolet y Freightliner, y deja tu huella en un mundo abierto y salvaje. Amplía y personaliza tu flota con un gran número de mejoras y accesorios, entre los que se incluyen tubos de escape submarino para aguas profundas y cadenas para combatir la nieve."
+    ],
+    [
+      "p",
+      "¡Conduce solo o en el modo cooperativo de 4 jugadores y amplía tu experiencia de transporte campo a través con tus amigos en todas las plataformas gracias a las funciones integradas de juego cruzado y progresión multiplataforma de SnowRunner!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i3-4130 3.4 GHz / AMD Ryzen 3 2200U 3.4 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2 GB, GeForce GTX 660 / Radeon R9 270"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i7-8700 3.2 GHz / AMD Ryzen 7 2700 3.2 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4 GB, GeForce GTX 970 / Radeon RX 580"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_940259cd3dc33743bc06f2e686f2b6878b961b14.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_e81a1d783f9f32bdb5c9ff8b3fc761fcb09ab805.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_0851d89715e625f0f316012d1d84e85a882b6099.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_b1bb888101b715fa25f730741ab044afb4858ce6.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8f0215990d1ac3afe02b0b745825245e2ada2c07.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_7d4c05e9201a8e891428b735d557b19c74f62219.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_ae2416a02c4581fd9f3a6d00ea419d7cf599fecd.1920x1080.jpg?t=1792504894"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.600x338.jpg?t=1792504894",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/ss_8b7d5be8de0e50fd27317c4faf5dbb16faf61a40.1920x1080.jpg?t=1792504894"
+    }
+  ],
+  "web": "https://community.focus-entmt.com/focus-entertainment/snow-runner?utm_source=Steam&amp;utm_medium=StorePage_SR&amp;utm_campaign=Organic",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 107215,
+  "youtube": [
+    {
+      "id": "8ZnL6NV6rMM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "P1_ty7esAnI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "ZMsX93470C8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T20:24:42.547Z"
+}

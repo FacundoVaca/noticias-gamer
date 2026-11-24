@@ -1,0 +1,684 @@
+{
+  "clave": "warhammer 40 000 inquisitor martyr",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f842-7389-a71f-cdae61dd3fd1",
+  "appid": "527430",
+  "lanzamiento": "2018-06-05",
+  "desarrolladores": [
+    "NeocoreGames"
+  ],
+  "editores": [
+    "NeocoreGames Distribution s.r.o",
+    "NeocoreGames",
+    "Neocore Games"
+  ],
+  "etiquetas": [
+    "Action RPG",
+    "Hack and Slash",
+    "RPG",
+    "Action",
+    "Loot"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 19618,
+      "url": "https://store.steampowered.com/app/527430/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 67,
+      "cantidad": 28,
+      "url": "https://metacritic.com/game/warhammer-40000-inquisitor-martyr/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 67,
+      "cantidad": 152,
+      "url": "https://metacritic.com/game/warhammer-40000-inquisitor-martyr/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 66,
+      "cantidad": 44,
+      "url": "https://opencritic.com/game/6230/warhammer-40-000-inquisitor-martyr"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "126432",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr",
+      "apps": [
+        {
+          "appid": "527430",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr"
+        }
+      ],
+      "usd": 2.29,
+      "antes": 22.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "939400",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr Definitive Edition",
+      "apps": [
+        {
+          "appid": "527430",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr"
+        },
+        {
+          "appid": "945830",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - City of Suffering"
+        },
+        {
+          "appid": "995651",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Corrosive Footprints"
+        },
+        {
+          "appid": "1028894",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Desperate Crusade"
+        },
+        {
+          "appid": "995654",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Discordant Choir"
+        },
+        {
+          "appid": "945831",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Faith Undone"
+        },
+        {
+          "appid": "995670",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Forgotten Arsenal"
+        },
+        {
+          "appid": "995652",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Grim Penance"
+        },
+        {
+          "appid": "1028895",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Herald Cherub Pet"
+        },
+        {
+          "appid": "939050",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Heresy Emote"
+        },
+        {
+          "appid": "1028892",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Hollow Bliss"
+        },
+        {
+          "appid": "1028890",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Maelstrom of Carnage"
+        },
+        {
+          "appid": "938400",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Mind Plague"
+        },
+        {
+          "appid": "945832",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Monotask Servo-skull"
+        },
+        {
+          "appid": "995650",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Occult Siege"
+        },
+        {
+          "appid": "939051",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Poisoned Souls"
+        },
+        {
+          "appid": "1028893",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Reverence Emote"
+        },
+        {
+          "appid": "1028891",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Seal of Inquisition Footprints"
+        },
+        {
+          "appid": "995653",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Servo Commissar-skull"
+        },
+        {
+          "appid": "2138210",
+          "nombre": "Warhammer 40,000: Inquisitor - Martyr - Sororitas Class"
+        },
+        {
+          "appid": "1042800",
+          "nombre": "Warhammer 40,000: Inquisitor - Prophecy"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 41.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "527430": {
+      "usd": 2.29,
+      "gratis": false
+    },
+    "938400": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "939050": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "939051": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "945830": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "945831": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "945832": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "995650": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "995651": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "995652": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "995653": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "995654": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "995670": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "1028890": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "1028891": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "1028892": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "1028893": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "1028894": {
+      "usd": 0.59,
+      "gratis": false
+    },
+    "1028895": {
+      "usd": 0.52,
+      "gratis": false
+    },
+    "1042800": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "2138210": {
+      "usd": 0.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 22,
+  "dlcLista": [
+    {
+      "appid": "1028894",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Desperate Crusade",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "1028891",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Seal of Inquisition Footprints",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "1028890",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Maelstrom of Carnage",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "995670",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Forgotten Arsenal",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "995654",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Discordant Choir",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "995653",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Servo Commissar-skull",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 60
+    },
+    {
+      "appid": "995652",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Grim Penance",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "995651",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Corrosive Footprints",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "995650",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Occult Siege",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "945831",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Faith Undone",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "945832",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Monotask Servo-skull",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "945830",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - City of Suffering",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "939051",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Poisoned Souls",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "939050",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Heresy Emote",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "938400",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Mind Plague",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "998500",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Grieving Cherub",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1028892",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Hollow Bliss",
+      "gratis": false,
+      "usd": 0.59,
+      "descuento": 70
+    },
+    {
+      "appid": "1028893",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Reverence Emote",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "1028895",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Herald Cherub Pet",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "1351990",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Charybdis Outpost",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 65
+    },
+    {
+      "appid": "2138210",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Sororitas Class",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 90
+    },
+    {
+      "appid": "3003800",
+      "nombre": "Warhammer 40,000: Inquisitor - Martyr - Hierophant Class",
+      "gratis": false,
+      "usd": 0.79,
+      "descuento": 90
+    }
+  ],
+  "descripcion": "Entra en el Sector Caligari infestado de Caos y purga a los impuros con los agentes más poderosos del Imperio del Hombre. Warhammer 40,000: Inquisidor - Martyr es un sombrío RPG de acción que presenta múltiples clases de la Inquisición que llevarán a cabo la voluntad del Emperador.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "5 JUN 2018",
+  "metacritic": {
+    "puntaje": 67,
+    "url": "https://www.metacritic.com/game/pc/warhammer-40000-inquisitor---martyr?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Warhammer 40,000: Inquisitor - Martyr",
+  "acerca": [
+    [
+      "h",
+      "UNA CAMPAÑA IMPULSADA POR LA HISTORIA DE JUGADOR INDIVIDUAL"
+    ],
+    [
+      "p",
+      "Lejos de la luz guía al Dios-Emperador, desgarrado por las tempestades asquerosas que distorsionan la realidad, el Sector Caligari se está pudriendo lentamente desde el interior, mancillado por los Dioses de Caos. ¡Purga a los impuros con los agentes más poderosos del Imperio!"
+    ],
+    [
+      "p",
+      "Warhammer 40,000: Inquisidor: Martyr es un juego sombrío de acción RPG en el violento 41º milenio, cuando la galaxia está en una guerra constante. Conviértete en un Inquisidor poderoso y lleva a cabo la voluntad del Emperador. Elige una de las múltiples clases y participa en brutales encuentros de combate: embarca en una gran variedad de misiones con tus compañeros agentes y lucha através de la campaña de historias para un jugador establecido en una fortaleza-monasterio embrujada que esconde un terrible secreto del pasado de la Inquisición."
+    ],
+    [
+      "h",
+      "EL PRÓXIMO HITO EN LA EVOLUCIÓN DE ARPGS"
+    ],
+    [
+      "p",
+      "La primer collección RPG de acción en futuro del sombrío del 41º Milenio lleva el género a su siguiente nivel: un juego de tipo arenero abierto con un universo persistente con una gran variedad de misiones, encuentros de combate tácticos y brutales en entornos destructibles y una historia influenciado por la comunidad de jugadores. ¡Utiliza el sistema de cobertura para obtener ventaja táctica, realiza ejecuciones en batallas épicas contra jefes y conviértete en el Defensor de cualquier sistema solar con tus acciones gloriosas!"
+    ],
+    [
+      "h",
+      "INQUISIDORES: AGENTES SECRETOS Y EXPERTO"
+    ],
+    [
+      "p",
+      "Forja tu estílo propio del juego con personajes de diferentes clases y especializaciones: mantén el terreno con el Inquisidor cruzado mientras tus enemigos están cerca de ti, lleva tu ingenio y tu astucia con la Especialización de asesino del culto de la muerte, o utiliza los Poderes Innombrables de la Disformidad con el fondo del Psíquico Primario. Elija entre tres especializaciones para cada clase que coincida con tu estilo del juego."
+    ],
+    [
+      "h",
+      "ATRAVESRSE A TODO DEL SECTOR GALÁCTICO"
+    ],
+    [
+      "p",
+      "Explora el Mapa estelar del vasto del Sector Caligari, viaja en diferentes subsectores y explora una inmensa cantidad de sistemas solares, visita un número creciente de puntos de interés únicos: investiga en diferentes planetas con condiciones distintivas del terreno, lucha por los pasillos de las Estaciones del Vacío infestado, Fuertes estelares abandonados y otros entornos diversos!"
+    ],
+    [
+      "h",
+      "LUCHA CONTRA LA CORRUPCIÓN"
+    ],
+    [
+      "p",
+      "Puedes irte solo como un inquisidor solitario, pero también puedes formar un equipo de amigos! ¡Juega misiones en modo cooperativo con 4 miembros y más del equipo, destruye a tus enemigos y obtén grandes recompensas, y forma cábalas para reunir a tus aliados más cercanos!"
+    ],
+    [
+      "p",
+      "Las Cábalas Inquisitivas son grupos de Inquisidores que trabajan juntos. Las cábalas pueden progresar al igual que los personajes, y ser miembro a menudo puede otorgar misiones especiales. La Inquisición tiene muchas facciones diferentes con agendas distintas, y las Cábalas a veces chocan contra a unas de otras en las sombras."
+    ],
+    [
+      "h",
+      "MEJORA TUS ARMAS, CREA MISIONES Y PERSONALIZA TUS HABILIDADES"
+    ],
+    [
+      "p",
+      "¿Buscas un botín o recompensa específico? Usa el Tarot de Uther para establecer las condiciones de tu mission próxima, colleciona Planos y usa Fabricación para mejorar tu equipamento, y utiliza Inoculador para afinar tus habilidades diferentes. ¡Elija tu carga para tu ventajas en cada misión!"
+    ],
+    [
+      "h",
+      "UN MUNDO VIVO Y AMPLIADO"
+    ],
+    [
+      "p",
+      "Warhammer 40,000: Inquisidor - Martyr es una experiencia cada vez mayor y más duradera. Las expansiones y las actualizaciones gratuitas regulares introducirán nuevas facciones enemigas, nuevas configuraciones de terreno, nuevas misiones y tipos de misiones, nuevas investigaciones guiadas por historias y nuevas características de juego. Las estaciones son grandes, actualizaciones gratuitas que presentarán arcos de historia más largos en los que los jugadores pueden formar al mundo persistente del sector de Caligari con sus acciones. Las misiones diarias, niveles y niveles de poder aseguran nuevos desafíos - ¡Siempre hay algo nuevo para explorar o recopilar!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "64-bit Windows 7+ (8 / 8.1 / 10)"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i3-2120 (3.3 GHz) / AMD CPU FX-6300 (3.5 GHz)"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 760 (2 GB) / AMD Radeon HD 7850 (2 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "64-bit Windows 7+ (8 / 8.1 / 10)"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i7-2600 (3.4 GHz) / AMD CPU FX-8320 (3.5 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1060 (3 GB) / AMD Radeon RX 480 (4 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "75 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_0d4dacd11343e9f46fcbabc4883cd2b43f92ba3f.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_0d4dacd11343e9f46fcbabc4883cd2b43f92ba3f.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_59ad3d21ec0959f21613679457abfb1ea33a524d.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_59ad3d21ec0959f21613679457abfb1ea33a524d.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_10acd786da958b590a1ca9564fd2db629e6bc0bc.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_10acd786da958b590a1ca9564fd2db629e6bc0bc.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_09cf95aca496c197b7816d91ece3a08ae0dd41b5.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_09cf95aca496c197b7816d91ece3a08ae0dd41b5.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_6ee8fe9329246a3457d5d1a8d11ebadb72b1210b.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_6ee8fe9329246a3457d5d1a8d11ebadb72b1210b.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_50a0c224f6ab645fc3324397993289843e5d2abb.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_50a0c224f6ab645fc3324397993289843e5d2abb.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_dab35841d6bc511d6d44f4383625cfda5ecca302.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_dab35841d6bc511d6d44f4383625cfda5ecca302.1920x1080.jpg?t=1731442765"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_b886521837bcc572db9cc046a848f33f9ee0ca93.600x338.jpg?t=1731442765",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527430/ss_b886521837bcc572db9cc046a848f33f9ee0ca93.1920x1080.jpg?t=1731442765"
+    }
+  ],
+  "web": "https://neocoregames.com/en/games/warhammer-40k-inquisitor-martyr",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 11364,
+  "youtube": [
+    {
+      "id": "7GstwJ7tl7g",
+      "nombre": "Gamescom 2016 Trailer"
+    },
+    {
+      "id": "Ac9QgJUDB_s",
+      "nombre": "Open world Trailer"
+    },
+    {
+      "id": "BcjYdVlApDw",
+      "nombre": "Intro Trailer"
+    },
+    {
+      "id": "vDPfpVKFGh8",
+      "nombre": "E3 2016 Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T20:25:10.339Z"
+}

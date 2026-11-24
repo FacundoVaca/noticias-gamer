@@ -1,0 +1,487 @@
+{
+  "clave": "planet coaster 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0190a21d-a0d4-72a9-bf51-893d0d974e8b",
+  "appid": "2688950",
+  "lanzamiento": "2024-11-06",
+  "desarrolladores": [
+    "Frontier Developments"
+  ],
+  "editores": [
+    "Frontier Developments"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Sandbox",
+    "Building",
+    "Strategy",
+    "City Builder"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 74,
+      "cantidad": 13636,
+      "url": "https://store.steampowered.com/app/2688950/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 76,
+      "cantidad": 39,
+      "url": "https://metacritic.com/game/planet-coaster-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 60,
+      "cantidad": 93,
+      "url": "https://metacritic.com/game/planet-coaster-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 52,
+      "url": "https://opencritic.com/game/17583/planet-coaster-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1098796",
+      "nombre": "Planet Coaster 2: Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2688950",
+          "nombre": "Planet Coaster 2"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 29.99,
+      "descuento": 65
+    },
+    {
+      "packageid": "963082",
+      "nombre": "Planet Coaster 2",
+      "apps": [
+        {
+          "appid": "2688950",
+          "nombre": "Planet Coaster 2"
+        }
+      ],
+      "usd": 22.99,
+      "antes": 22.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2688950": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "5362340",
+      "nombre": "Planet Coaster 2: Spooktacular Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4961870",
+      "nombre": "Planet Coaster 2: Silver Screen Pack",
+      "gratis": false,
+      "usd": 8.55,
+      "descuento": 0
+    },
+    {
+      "appid": "4492160",
+      "nombre": "Planet Coaster 2: Parades Pack",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4129920",
+      "nombre": "Planet Coaster 2: Toybox Pack",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3902620",
+      "nombre": "Planet Coaster 2: Sorcery Pack",
+      "gratis": false,
+      "usd": 7.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3337040",
+      "nombre": "Planet Coaster 2: Thrill-Seekers Ride Pack",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3091190",
+      "nombre": "Planet Coaster 2: Vintage Funfair Ride Pack",
+      "gratis": false,
+      "usd": 9.89,
+      "descuento": 0
+    },
+    {
+      "appid": "3091180",
+      "nombre": "Planet Coaster 2: Bonus Ride Collection",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "3299720",
+      "nombre": "The music of Planet Coaster 2: You, me & Fluidity",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Construye y personaliza emocionantes montañas rusas e increíbles toboganes acuáticos, gestiona el parque temático definitivo y comparte tus creaciones épicas. ¿Todo listo para subirte a la cresta de la ola?",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "6 NOV 2024",
+  "metacritic": {
+    "puntaje": 76,
+    "url": "https://www.metacritic.com/game/pc/planet-coaster-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Planet Coaster 2",
+  "acerca": [
+    [
+      "p",
+      "Tírate a la piscina con Planet Coaster 2, ¡la secuela del mejor simulador de parques de atracciones del mundo!"
+    ],
+    [
+      "p",
+      "Alcanza nuevas dimensiones de creatividad, gestión y participación conforme construyes los parques temáticos de tus sueños combinando atracciones acuáticas épicas y montañas rusas para deleitar y emocionar a los visitantes."
+    ],
+    [
+      "p",
+      "¡Zambúllete ya!"
+    ],
+    [
+      "h",
+      "Expande tu imaginación:"
+    ],
+    [
+      "p",
+      "Las herramientas de construcción y creación de caminos mejoradas permiten crear amplias plazas y parques temáticos espectaculares fieles a la realidad. Deja huella en el mundo modelando el terreno y poblando el parque con impresionantes piscinas y emocionantes atracciones. Nunca ha sido tan fácil dar vida al parque de tus sueños."
+    ],
+    [
+      "h",
+      "Crea el parque temático definitivo:"
+    ],
+    [
+      "p",
+      "Sumérgete en un mundo de creatividad con nueve temáticas distintas, desde las clásicas como la pirata o la del Oeste o nuevas incorporaciones como la vikinga y la mitológica.Gracias a los miles de elementos personalizables a tu disposición, tus creaciones serán totalmente únicas."
+    ],
+    [
+      "h",
+      "Personalización superior:"
+    ],
+    [
+      "p",
+      "Embárcate en una experiencia inolvidable con el parque de atracciones que lleva al límite tu creatividad como nunca. ¡Da rienda suelta a tu imaginación conforme montas las creaciones temáticas más impresionantes con herramientas de personalización sinigual! Por primera vez, añade decoración y objetos de tamaño variable intuitivamente a cada atracción para mejorar tu parque y ofrecerles a tus visitantes un día para el recuerdo."
+    ],
+    [
+      "h",
+      "Combina atracciones acuáticas y montañas rusas épicas:"
+    ],
+    [
+      "p",
+      "Crea la mejor experiencia para visitantes temerarios haciendo uso de la construcción pieza por pieza. Construye una trepidante variedad de montañas rusas y atracciones de vértigo. Diseña un parque paradisíaco perfectamente interconectado con relucientes piscinas y retorcidos toboganes acuáticos."
+    ],
+    [
+      "h",
+      "Crea experiencias inolvidables:"
+    ],
+    [
+      "p",
+      "Deja boquiabiertos a tus visitantes con detalles impresionantes de atracciones del mundo real por medio de la nueva herramienta de secuenciador de eventos, y añade una iluminación general sofisticada para que la experiencia esté repleta de elementos visuales imponentes y que rebosen veracidad."
+    ],
+    [
+      "h",
+      "Encuentra la receta del éxito:"
+    ],
+    [
+      "p",
+      "¡Consigue el equilibrio entre la fascinación de tus visitantes y la gestión del presupuesto! Coloca montones de increíbles atracciones eficientes y las tiendas necesarias para mejorar tu clasificación y convertirte en una estrella de los parques temáticos."
+    ],
+    [
+      "h",
+      "Cuida a tus visitantes:"
+    ],
+    [
+      "p",
+      "Ten presente la salud, el bienestar y la satisfacción de los visitantes para que tu parque prospere. Los nuevos parques acuáticos requieren zonas de sombra, crema solar, socorristas, vestuarios y muchas cosas más para que todo el mundo disfrute de un gran día dentro y fuera de las piscinas."
+    ],
+    [
+      "h",
+      "Satisfacción garantizada:"
+    ],
+    [
+      "p",
+      "Comprender las necesidades y exigencias de los visitantes nunca había sido tan fácil. La nueva función de mapas de calor permite comprender las necesidades generales del parque de un vistazo antes de profundizar en los detalles: solo tienes que seleccionar a un visitante para ver si este y su círculo están disfrutando del parque temático."
+    ],
+    [
+      "h",
+      "Crea en compañía:"
+    ],
+    [
+      "p",
+      "Desata tu creatividad colectiva a través del modo Creación. ¡Construye un parque por turnos con jugadores de todo el mundo por medio de una partida guardada multiplataforma!"
+    ],
+    [
+      "h",
+      "Juega en compañía:"
+    ],
+    [
+      "p",
+      "Por primera vez, podrás colaborar con amigos en el modo Franquicia para crear el mejor imperio de parques de atracciones y competir contra los demás para llegar a lo más alto de la clasificación mundial."
+    ],
+    [
+      "h",
+      "Visita conjunta:"
+    ],
+    [
+      "p",
+      "Zambúllete en la diversión y siéntelo todo de cerca disfrutando de las creaciones de otros jugadores de primera mano; ¡explora sus mundos en primera persona como visitante!"
+    ],
+    [
+      "h",
+      "Comparte creaciones:"
+    ],
+    [
+      "p",
+      "¡Compártelo todo! Sube montañas rusas, atracciones o incluso parques temáticos enteros para los demás jugadores, y descarga y disfruta de las creaciones de los demás. Accede fácilmente al sistema multiplataforma de Frontier Workshop en el juego y en la web."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "#category_playable_at_your_own_pace",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit (22H2)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-6600K / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 (6GB VRAM) / AMD Radeon RX 5600XT (6GB VRAM) / Intel Arc A750 (8GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Recommended"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10,11 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7-10700K / AMD Ryzen 7 5800"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2070 Super (8GB VRAM) / AMD Radeon RX 6700 XT (12GB VRAM) / Intel Arc A770 (16GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/2db68c93e41c8cd7312b9236010872219e5fefbe/ss_2db68c93e41c8cd7312b9236010872219e5fefbe.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/2db68c93e41c8cd7312b9236010872219e5fefbe/ss_2db68c93e41c8cd7312b9236010872219e5fefbe.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/ccbef6cc0e61fe7430e9bc7e96d2aad73114c189/ss_ccbef6cc0e61fe7430e9bc7e96d2aad73114c189.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/ccbef6cc0e61fe7430e9bc7e96d2aad73114c189/ss_ccbef6cc0e61fe7430e9bc7e96d2aad73114c189.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/cfa227deee1269e277c1e10db955ae53ce5b6b72/ss_cfa227deee1269e277c1e10db955ae53ce5b6b72.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/cfa227deee1269e277c1e10db955ae53ce5b6b72/ss_cfa227deee1269e277c1e10db955ae53ce5b6b72.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/587c98479eb40f66f0d2cdd43778293159a639f6/ss_587c98479eb40f66f0d2cdd43778293159a639f6.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/587c98479eb40f66f0d2cdd43778293159a639f6/ss_587c98479eb40f66f0d2cdd43778293159a639f6.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/5316a510d8f950e5494c5d2ebbf8175a53987477/ss_5316a510d8f950e5494c5d2ebbf8175a53987477.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/5316a510d8f950e5494c5d2ebbf8175a53987477/ss_5316a510d8f950e5494c5d2ebbf8175a53987477.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/a8328a36f34eb8011659df5dd2b9cf8b4da494b2/ss_a8328a36f34eb8011659df5dd2b9cf8b4da494b2.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/a8328a36f34eb8011659df5dd2b9cf8b4da494b2/ss_a8328a36f34eb8011659df5dd2b9cf8b4da494b2.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/397bcd3c8874c1a968b7728c8aff8517f159c8c4/ss_397bcd3c8874c1a968b7728c8aff8517f159c8c4.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/397bcd3c8874c1a968b7728c8aff8517f159c8c4/ss_397bcd3c8874c1a968b7728c8aff8517f159c8c4.1920x1080.jpg?t=1793271625"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/1945305f7c1eb70b917e9ba4084ea6caa81a6e88/ss_1945305f7c1eb70b917e9ba4084ea6caa81a6e88.600x338.jpg?t=1793271625",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/1945305f7c1eb70b917e9ba4084ea6caa81a6e88/ss_1945305f7c1eb70b917e9ba4084ea6caa81a6e88.1920x1080.jpg?t=1793271625"
+    }
+  ],
+  "web": "https://www.planetcoaster.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 308099,
+  "youtube": [
+    {
+      "id": "qGPREY4fEeo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UChxrl60x8Y",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "82gEWEdDn78",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "nQ561uC8UbE",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T20:25:27.801Z"
+}

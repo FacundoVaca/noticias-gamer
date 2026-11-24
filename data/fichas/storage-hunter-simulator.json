@@ -1,0 +1,367 @@
+{
+  "clave": "storage hunter simulator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018fba28-6aa1-7055-b07b-f165f117e7f4",
+  "appid": "1442430",
+  "lanzamiento": "2024-10-10",
+  "desarrolladores": [
+    "Raccoons Studio"
+  ],
+  "editores": [
+    "S2 Games",
+    "Astragon Entertainment",
+    "Astragon Entertainment GmbH",
+    "Raccoons Studio"
+  ],
+  "etiquetas": [
+    "Immersive Sim",
+    "Shop Keeper",
+    "Online Co-Op",
+    "Job Simulator",
+    "Capitalism"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 77,
+      "cantidad": 3937,
+      "url": "https://store.steampowered.com/app/1442430/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 55,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/storage-hunter-simulator/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "507212",
+      "nombre": "Storage Hunter",
+      "apps": [
+        {
+          "appid": "1442430",
+          "nombre": "Storage Hunter Simulator"
+        }
+      ],
+      "usd": 8.11,
+      "antes": 12.49,
+      "descuento": 35
+    },
+    {
+      "packageid": "1727083",
+      "nombre": "Storage Hunter Simulator - No Refunds Edition",
+      "apps": [
+        {
+          "appid": "1442430",
+          "nombre": "Storage Hunter Simulator"
+        }
+      ],
+      "usd": 16.49,
+      "antes": 16.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1442430": {
+      "usd": 8.11,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4840530",
+      "nombre": "Storage Hunter Simulator - Lights, Camera, Auction! Pack ",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4977710",
+      "nombre": "Storage Hunter Simulator - Backyard Starter Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    },
+    {
+      "appid": "4977720",
+      "nombre": "Storage Hunter Simulator - Expansion Pass",
+      "gratis": false,
+      "usd": 9.55,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Participa en subastas de almacenes y contenedores abandonados. Tu tarea consiste en estimar correctamente el valor de los objetos almacenados. El vencedor es el que gana más. Las ubicaciones y los postores a menudo pueden sorprender a los jugadores.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "27 NOV 2025",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Storage Hunter Simulator",
+  "acerca": [
+    [
+      "p",
+      "¡Domina el arte de la subasta y puja alto contra otros jugadores para llevarte tesoros en Storage Hunter Simulator! Toma la delantera en el competitivo mundo de las subastas de trasteros, en el que asumir grandes riesgos puede suponer grandes recompensas. Muestra tus habilidades, gana subastas en intensas guerras de apuestas y vende tus más preciados tesoros a tus clientes. ¡Asegúrate de aprovechar la mejor oferta para reportar beneficios! Maximizar tus ganancias es clave para poder mantener el negocio y labrarte un nombre en el mundillo."
+    ],
+    [
+      "p",
+      "Asume riesgos y puja por los mejores trasteros abandonados. Disfruta del viaje en coche hasta llegar a las subastas. Identifica tesoros ocultos que nadie más sabe ver y lanza la mejor oferta de todas. Lábrate tu reputación y conviértete en ese feroz rival que el resto de pujantes conocen y temen. ¿Lo tienes todo listo para la siguiente caza de trasteros?"
+    ],
+    [
+      "p",
+      "Desde cosas inservibles a tesoros: cualquiera de los trasteros abandonados que salen a subasta puede contener miles de artículos únicos que tu ojo de buen pujante detectará. Algunos podrían parecer basura y solo tus conocimientos y tu experiencia te permitirán reconocer su auténtico valor y sacarles el máximo rendimiento. Y si no lo tienes claro, puedes preguntarles a los expertos, ampliar tus conocimientos y consultar el glosario del juego. Todos los objetos tienen condiciones específicas y pertenecen a categorías diferentes. Además, encontrarás conjuntos de coleccionables."
+    ],
+    [
+      "p",
+      "¿Te has llevado la puja más alta? Pues ahora te toca llevarte tu botín e intentar venderlo. Puedes hacerlo en tu casa de empeños o tratar de que te lo compren clientes estrafalarios. Si los ayudas a completar sus extravagantes e inusuales colecciones, te ofrecerán recompensas únicas, como artículos estéticos, coches o aumentos de reputación."
+    ],
+    [
+      "p",
+      "Invierte bien tu dinero y pon en marcha tu propio negocio con una útil casa de empeños. Vende tus objetos de valor y acude con estilo a las próximas subastas. ¿Que un objeto no se vende? ¡Utiliza anuncios para aumentar la visibilidad de tu artículo y obtener ingresos más rápido! Levanta tu negocio desde cero, amplíalo y construye una red de casas de empeños. Ocúpate de la colocación de los estantes, de los clientes PNJ, de los regateos, de ascender a los empleados y de la capacidad, y especialízate en categorías de artículos. Para evitar arruinarte, deberás hacer un seguimiento de los préstamos, los costes diarios y la economía del negocio. ¡No dejes que se hunda! Los perdedores ni siquiera llegan a comprarse su propia empresa."
+    ],
+    [
+      "p",
+      "Si actúas con cabeza, en algún momento podrás salir de tu caravana cochambrosa y pasarte a casas más grandes y residencias con garajes, almacenes más sofisticados y aptos para tus objetos más valiosos. Decora y amuebla tus propiedades con el modo Arquitecto."
+    ],
+    [
+      "p",
+      "¿No te apetece ir por tu cuenta a la siguiente caza de trasteros? Invita a hasta 3 amigos y compartid un salvaje y caótico viaje cooperativo al que podrán unirse en cualquier momento. Trabajad en equipo y vivid vuestro sueño de encontrar tesoros incalculables juntos. Personaliza tu aspecto y ponte en camino. Eso sí, aseguraos de trazar un plan común antes de que empiecen las subastas, ya que cuando llega el momento de pagar, todos compartís una misma cuenta bancaria, y solo los equipos de licitadores más competentes conseguirán tener éxito. Participad en las subastas juntos o repartíos el trabajo visitando varios eventos al mismo tiempo para maximizar vuestros beneficios. Como broche final, podréis divertiros en compañía en el parque de atracciones e invertir las ganancias que tanto os ha costado obtener y desbloquear artículos exclusivos en divertidos minijuegos."
+    ],
+    [
+      "p",
+      "Vive la auténtica experiencia de las subastas de trasteros."
+    ],
+    [
+      "p",
+      "Personaliza tu aspecto con el armario."
+    ],
+    [
+      "p",
+      "Miles de objetos para comprar y vender."
+    ],
+    [
+      "p",
+      "Desbloquea cientos de objetos y artículos estéticos exclusivos."
+    ],
+    [
+      "p",
+      "Juega en modo Fácil para vivir una experiencia divertida."
+    ],
+    [
+      "p",
+      "Juega en modo Difícil para enfrentarte a un desafío mayor."
+    ],
+    [
+      "p",
+      "Consigue logros para fardar de tus éxitos."
+    ],
+    [
+      "p",
+      "Modo Individual."
+    ],
+    [
+      "p",
+      "Multijugador cooperativo de hasta 4 jugadores."
+    ],
+    [
+      "p",
+      "7 vehículos con maletero y gestión del combustible."
+    ],
+    [
+      "p",
+      "Consulta a expertos para evaluar tus tesoros."
+    ],
+    [
+      "p",
+      "Dirige tu propia red de casas de empeños."
+    ],
+    [
+      "p",
+      "Un mundo abierto con 5 distritos y secretos por descubrir."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 4590"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650/AMD Radeon RX 5500"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/50035a5b98e9f0c18e603aa139cbf1d00782990f/ss_50035a5b98e9f0c18e603aa139cbf1d00782990f.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/50035a5b98e9f0c18e603aa139cbf1d00782990f/ss_50035a5b98e9f0c18e603aa139cbf1d00782990f.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/72eb3302dcaab1a5837961c528cab6a8031c9458/ss_72eb3302dcaab1a5837961c528cab6a8031c9458.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/72eb3302dcaab1a5837961c528cab6a8031c9458/ss_72eb3302dcaab1a5837961c528cab6a8031c9458.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/2a964060f5ddc04628355b906bf9c5c917f48b3b/ss_2a964060f5ddc04628355b906bf9c5c917f48b3b.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/2a964060f5ddc04628355b906bf9c5c917f48b3b/ss_2a964060f5ddc04628355b906bf9c5c917f48b3b.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/933ae5bd2732ef87c41cfaad8650b6b6d4db826f/ss_933ae5bd2732ef87c41cfaad8650b6b6d4db826f.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/933ae5bd2732ef87c41cfaad8650b6b6d4db826f/ss_933ae5bd2732ef87c41cfaad8650b6b6d4db826f.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/661029cf00dcf57bfc04c5feab922018b5278bac/ss_661029cf00dcf57bfc04c5feab922018b5278bac.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/661029cf00dcf57bfc04c5feab922018b5278bac/ss_661029cf00dcf57bfc04c5feab922018b5278bac.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/ce0343b5bfedf5c91735c51f90e9a7ea5a7bd7af/ss_ce0343b5bfedf5c91735c51f90e9a7ea5a7bd7af.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/ce0343b5bfedf5c91735c51f90e9a7ea5a7bd7af/ss_ce0343b5bfedf5c91735c51f90e9a7ea5a7bd7af.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/f73d2f6d52037cbe10138be97b0b49b859dfcf3c/ss_f73d2f6d52037cbe10138be97b0b49b859dfcf3c.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/f73d2f6d52037cbe10138be97b0b49b859dfcf3c/ss_f73d2f6d52037cbe10138be97b0b49b859dfcf3c.1920x1080.jpg?t=1788881598"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/a7608a45b0af8829732398eff2c8e0211ef90a0b/ss_a7608a45b0af8829732398eff2c8e0211ef90a0b.600x338.jpg?t=1788881598",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442430/a7608a45b0af8829732398eff2c8e0211ef90a0b/ss_a7608a45b0af8829732398eff2c8e0211ef90a0b.1920x1080.jpg?t=1788881598"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 317979,
+  "youtube": [
+    {
+      "id": "QpqBBbwxz5M",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T20:25:21.466Z"
+}
