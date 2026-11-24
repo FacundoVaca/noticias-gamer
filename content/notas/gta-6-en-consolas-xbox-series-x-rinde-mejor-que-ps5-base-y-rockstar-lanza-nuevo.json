@@ -1,0 +1,142 @@
+{
+  "slug": "gta-6-en-consolas-xbox-series-x-rinde-mejor-que-ps5-base-y-rockstar-lanza-nuevo",
+  "estado": "publicada",
+  "fecha": "2026-11-24T18:23:16.713Z",
+  "actualizada": "2026-11-24T18:23:16.713Z",
+  "titulo": "GTA 6 en consolas: Xbox Series X rinde mejor que PS5 base y Rockstar lanza nuevo parche",
+  "bajada": "Un exhaustivo análisis de Digital Foundry ubica a Xbox Series X por encima de PlayStation 5 en estabilidad, mientras Rockstar despliega la actualización 01.002.002.",
+  "categoria": "xbox",
+  "etiquetas": [
+    "GTA 6",
+    "Rockstar Games",
+    "Xbox Series X",
+    "PS5",
+    "Digital Foundry",
+    "PS5 Pro"
+  ],
+  "clave": [
+    "Digital Foundry confirma que Xbox Series X mantiene los 30 FPS con mayor estabilidad que la PS5 estándar.",
+    "PS5 Pro lidera el rendimiento general en consolas gracias al reescalado PSSR y su GPU de mayor potencia.",
+    "El truco para desbloquear la tasa de cuadros en Xbox mediante Quick Resume acelera la velocidad del juego y promedia solo 36 FPS.",
+    "Rockstar lanzó el parche 01.002.002 para corregir fallos críticos en el autoguardado, bloqueos de historia y cuelgues del sistema."
+  ],
+  "cuerpo": [
+    {
+      "tipo": "p",
+      "texto": "A pesar de la intensa campaña publicitaria que promocionaba a Grand Theft Auto VI como una experiencia idónea en las plataformas de Sony, las comparativas técnicas posteriores al estreno arrojaron sorpresas en el terreno del hardware base. La revisión exhaustiva de rendimiento realizada por el equipo de Digital Foundry determinó que la consola Xbox Series X ofrece una mayor estabilidad de cuadros por segundo frente a la PlayStation 5 estándar."
+    },
+    {
+      "tipo": "p",
+      "texto": "El informe técnico sostiene que, si bien ambas plataformas apuntan a una tasa fija de 30 cuadros por segundo, la consola de Sony padece caídas más marcadas en momentos de alta exigencia gráfica, como el tránsito denso o las aglomeraciones complejas en la ciudad. En la máquina de Microsoft, los descensos de rendimiento resultan sustancialmente menos frecuentes y se benefician además de la compatibilidad con VRR a 120Hz, lo que suaviza las fluctuaciones en pantallas compatibles. Por su parte, la PS5 Pro lidera holgadamente el ranking gracias al reescalado PSSR y su mayor potencia gráfica, mientras que Xbox Series S queda al final de la tabla por sacrificios visuales e inestabilidad."
+    },
+    {
+      "tipo": "tabla",
+      "texto": "Comparativa de rendimiento de GTA 6 según Digital Foundry",
+      "encabezados": [
+        "Consola",
+        "Objetivo",
+        "Desempeño real",
+        "Características clave"
+      ],
+      "filas": [
+        [
+          "PlayStation 5 Pro",
+          "30 FPS",
+          "Rendimiento sólido y estable",
+          "Reescalado PSSR, ray tracing mejorado, mayor GPU"
+        ],
+        [
+          "Xbox Series X",
+          "30 FPS",
+          "Mayor estabilidad que PS5 base",
+          "Soporte VRR 120Hz, caídas menos frecuentes"
+        ],
+        [
+          "PlayStation 5 (Estándar)",
+          "30 FPS",
+          "Caídas frecuentes a los 20 FPS altos",
+          "Sufre en zonas densas y combate cargado"
+        ],
+        [
+          "Xbox Series S",
+          "30 FPS",
+          "Inestable en tasa de cuadros",
+          "Recortes visuales y fallos ocasionales de audio"
+        ]
+      ]
+    },
+    {
+      "tipo": "cita",
+      "texto": "PS5 sufre caídas de cuadros por segundo sustancialmente más frecuentes que Series X, lo que se agrava por el hecho de que la máquina de Xbox también se beneficia del soporte VRR a 120Hz para suavizar pequeños descensos. En última instancia, Series X sale significativamente mejor parada.",
+      "autor": "Digital Foundry, informe comparativo de rendimiento"
+    },
+    {
+      "tipo": "h2",
+      "texto": "La verdad detrás del supuesto truco de los 60 cuadros"
+    },
+    {
+      "tipo": "p",
+      "texto": "En paralelo al análisis de las versiones comerciales, la comunidad de jugadores descubrió un método basado en la función Quick Resume de Xbox Series que permitía eliminar el límite de cuadros en la versión 01.002.001 del título. No obstante, las pruebas de laboratorio demostraron que el juego no logra alcanzar los 60 cuadros por segundo de manera sostenida durante la partida habitual, promediando apenas 36 cuadros con fluctuaciones entre 30 y 40 FPS."
+    },
+    {
+      "tipo": "p",
+      "texto": "Digital Foundry aclaró que las lecturas de 50 o 60 cuadros reportadas por algunos usuarios se debían a una interpretación imprecisa de los contadores de los televisores con función LFC, la cual duplica la cifra mostrada cuando cae por debajo del rango de VRR. Además, desbloquear el framerate genera un efecto secundario no deseado en las animaciones y la lógica del mundo virtual, las cuales se aceleran anormalmente por depender del rendimiento del motor. Por este motivo, la llegada de un modo rendimiento formal a 60 cuadros parece estar descartada en esta generación."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Parche 01.002.002 y la polémica que sigue pendiente"
+    },
+    {
+      "tipo": "p",
+      "texto": "Para resolver diversos inconvenientes detectados durante los primeros días tras el lanzamiento oficial del 19 de noviembre de 2026, Rockstar Games desplegó la actualización 01.002.002. Con un peso de 603,8 MB en PS5 y 1,6 GB en Xbox Series X|S, la versión soluciona siete fallos críticos, entre los que destaca la corrección del autoguardado defectuoso que provocó la pérdida de horas de avance a varios usuarios."
+    },
+    {
+      "tipo": "p",
+      "texto": "El parche también repara la falta de activación de llamadas telefónicas que bloqueaban el progreso de la historia, cuelgues inesperados, bloqueos en el clima dinámico y fallos en la barra de peso muerto del gimnasio. Sin embargo, la comunidad ha reaccionado criticando la ausencia de una opción para desactivar el marcado efecto de viñeta presente en pantalla, una técnica gráfica que se intensifica cuando el personaje padece estados alterados y sobre la cual la desarrolladora aún no ha emitido respuesta."
+    }
+  ],
+  "apertura": "impacto",
+  "tipo": "noticia",
+  "formato": "estandar",
+  "preguntas": [
+    {
+      "p": "¿GTA 6 cuenta con un modo rendimiento oficial a 60 FPS?",
+      "r": "No, todas las consolas funcionan con un objetivo de 30 FPS fijados por el desarrollador para mantener la carga visual del mundo abierto."
+    },
+    {
+      "p": "¿Qué peso tiene el parche 01.002.002 de GTA 6 en cada plataforma?",
+      "r": "La actualización requiere una descarga de 603,8 MB en PlayStation 5 y de 1,6 GB en consolas Xbox Series X|S."
+    }
+  ],
+  "imagen": {
+    "archivo": "gta-6-en-consolas-xbox-series-x-rinde-mejor-que-ps5-base-y-rockstar-lanza-nuevo.webp",
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de Sunriseforever en Pixabay",
+      "url": "https://pixabay.com/photos/game-console-sony-video-games-6603120/"
+    }
+  },
+  "modelo": "gemini-3.6-flash",
+  "fuentes": [
+    {
+      "medio": "Push Square",
+      "titulo": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing"
+    },
+    {
+      "medio": "Pure Xbox",
+      "titulo": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
+      "url": "https://www.purexbox.com/news/2026/11/gta-6-comparison-reveals-two-advantages-of-xbox-series-x-over-ps5"
+    },
+    {
+      "medio": "Vandal",
+      "titulo": "�GTA 6 a 60 fps? Ponen a prueba el 'glitch' en Xbox Series y analizan su rendimiento real",
+      "url": "https://vandal.elespanol.com/noticia/2026328023/gta-6-a-60-fps-ponen-a-prueba-el-glitch-en-xbox-series-y-analizan-su-rendimiento-real/"
+    },
+    {
+      "medio": "Eurogamer",
+      "titulo": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+      "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette"
+    }
+  ]
+}
