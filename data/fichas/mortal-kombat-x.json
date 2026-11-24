@@ -1,0 +1,475 @@
+{
+  "clave": "mortal kombat x",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0c3b-716c-9b8d-b420f9850264",
+  "appid": "307780",
+  "lanzamiento": "2015-04-14",
+  "desarrolladores": [
+    "NetherRealm Studios",
+    "QLOC"
+  ],
+  "editores": [
+    "Warner Bros. Interactive Entertainment",
+    "Warner Bros. Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Games Inc.",
+    "WB Games"
+  ],
+  "etiquetas": [
+    "Fighting",
+    "Gore",
+    "Action",
+    "Multiplayer",
+    "Violent"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 39748,
+      "url": "https://store.steampowered.com/app/307780/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 76,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/mortal-kombat-x/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 77,
+      "cantidad": 1545,
+      "url": "https://metacritic.com/game/mortal-kombat-x/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 84,
+      "cantidad": 94,
+      "url": "https://opencritic.com/game/43/mortal-kombat-x"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "59818",
+      "nombre": "Mortal Kombat X",
+      "apps": [
+        {
+          "appid": "307780",
+          "nombre": "Mortal Kombat X"
+        }
+      ],
+      "usd": 2,
+      "antes": 10,
+      "descuento": 80
+    },
+    {
+      "packageid": "128345",
+      "nombre": "Mortal Kombat XL",
+      "apps": [
+        {
+          "appid": "347880",
+          "nombre": "Kombat Pack"
+        },
+        {
+          "appid": "524620",
+          "nombre": "Kombat Pack 2"
+        },
+        {
+          "appid": "307780",
+          "nombre": "Mortal Kombat X"
+        }
+      ],
+      "usd": 3,
+      "antes": 15,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "307780": {
+      "usd": 2,
+      "gratis": false
+    },
+    "347880": {
+      "usd": 2.49,
+      "gratis": false
+    },
+    "524620": {
+      "usd": 3,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 23,
+  "dlcLista": [
+    {
+      "appid": "524620",
+      "nombre": "Kombat Pack 2",
+      "gratis": false,
+      "usd": 3,
+      "descuento": 80
+    },
+    {
+      "appid": "347880",
+      "nombre": "Kombat Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 75
+    },
+    {
+      "appid": "351550",
+      "nombre": "Predator",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "354427",
+      "nombre": "Predator/Prey Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "351553",
+      "nombre": "Brazil Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "351551",
+      "nombre": "Tanya",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "351554",
+      "nombre": "Klassic Pack 1",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "351555",
+      "nombre": "Kold War Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "347150",
+      "nombre": "Jason Voorhees",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "354425",
+      "nombre": "Horror Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "347154",
+      "nombre": "Unlock all Krypt Items",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 80
+    },
+    {
+      "appid": "351556",
+      "nombre": "Samurai Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "347155",
+      "nombre": "Blue Steel Sub-Zero",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "347890",
+      "nombre": "Goro",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "351552",
+      "nombre": "Tremor",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "354426",
+      "nombre": "Klassic Pack 2",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "524260",
+      "nombre": "Triborg",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "524270",
+      "nombre": "Alien",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "524280",
+      "nombre": "Bo'Rai Cho",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "524290",
+      "nombre": "Leatherface",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 70
+    },
+    {
+      "appid": "524300",
+      "nombre": "Apocalypse Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    },
+    {
+      "appid": "524310",
+      "nombre": "Cosplay Pack",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 70
+    },
+    {
+      "appid": "524320",
+      "nombre": "Krimson Ermac",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Disfruta de la nueva generación de la franquicia de lucha n.º 1. Mortal Kombat X reúne un aspecto cinematográfico y una mecánica de juego nunca vistos.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "13 ABR 2015",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/mortal-kombat-xl?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Mortal Kombat X",
+  "acerca": [
+    [
+      "p",
+      "¿Quién es el siguiente? Disfruta de la nueva generación de la franquicia de lucha n.º 1."
+    ],
+    [
+      "p",
+      "Mortal Kombat X reúne un aspecto cinematográfico y una mecánica de juego nunca vistos. Por primera vez, los jugadores pueden elegir múltiples variantes de cada personaje con impacto tanto en la estrategia como en el estilo de lucha."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "64-bit: Vista, Win 7, Win 8, Win 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4 GHz"
+      ],
+      [
+        "Memoria",
+        "3 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 460 | AMD Radeon HD 5850"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "36 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "64-bit: Win 7, Win 8, Win 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 660 | AMD Radeon HD 7950"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "44 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_b2030dd6da12f3d366fa076dddf899d2190ea33e.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_b2030dd6da12f3d366fa076dddf899d2190ea33e.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_03f7f4582a1036cbcbca1a4c87e14c7831b5f424.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_03f7f4582a1036cbcbca1a4c87e14c7831b5f424.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_1f002ef5eb037c81e92bcbc29306fc91d4b6d26f.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_1f002ef5eb037c81e92bcbc29306fc91d4b6d26f.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_0f4f568f3a4ee49061484b5ea916d634f443b8a9.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_0f4f568f3a4ee49061484b5ea916d634f443b8a9.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_1285678caac50a441497061e05e076add2893073.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_1285678caac50a441497061e05e076add2893073.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_9f05291ab7a9e894bd4affa265a0eca6a86b7198.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_9f05291ab7a9e894bd4affa265a0eca6a86b7198.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_af737b5e797b4ccc9510201259ce010ace4e8947.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_af737b5e797b4ccc9510201259ce010ace4e8947.1920x1080.jpg?t=1761846088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_26e44be31535646f43643c03fcc94c42e4c6f099.600x338.jpg?t=1761846088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307780/ss_26e44be31535646f43643c03fcc94c42e4c6f099.1920x1080.jpg?t=1761846088"
+    }
+  ],
+  "web": "http://www.mortalkombat.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7292,
+  "youtube": [
+    {
+      "id": "EO0jAPxzi04",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "Ci6lMQNLKZU",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "KCHmqJgs1ow",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "bhu4Fu-nQKQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T01:14:53.786Z"
+}

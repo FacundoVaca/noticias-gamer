@@ -1,0 +1,293 @@
+{
+  "clave": "conan exiles enhanced isle of siptah",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019df8b5-1d88-730b-b4e5-26ac33cd92ac",
+  "appid": "1206200",
+  "lanzamiento": "2021-05-26",
+  "desarrolladores": [
+    "Funcom"
+  ],
+  "editores": [
+    "Funcom"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "RPG",
+    "Massively Multiplayer",
+    "Action",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 52,
+      "cantidad": 1431,
+      "url": "https://store.steampowered.com/app/1206200/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "440900",
+    "nombre": "Conan Exiles Enhanced"
+  },
+  "ediciones": [
+    {
+      "packageid": "583747",
+      "nombre": "Conan Exiles Enhanced: Isle of Siptah",
+      "apps": [
+        {
+          "appid": "1206200",
+          "nombre": "Conan Exiles Enhanced: Isle of Siptah"
+        }
+      ],
+      "usd": 7.34,
+      "antes": 10.49,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "1206200": {
+      "usd": 7.34,
+      "gratis": false
+    }
+  },
+  "descripcion": "Isle of Siptah es una expansión masiva de Conan Exiles, un juego de supervivencia en un mundo abierto. La expansión contiene una gran isla nueva que explorar, criaturas enormes y malvadas a las que matar, conjuntos de edificios nuevos y una gran cantidad de características nuevas.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Multijugador masivo",
+    "Rol",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "27 MAY 2021",
+  "metacritic": null,
+  "nombreSteam": "Conan Exiles Enhanced: Isle of Siptah",
+  "acerca": [
+    [
+      "p",
+      "Isle of Siptah es una expansión masiva de Conan Exiles, un juego de supervivencia en un mundo abierto. La expansión contiene una gran isla nueva que explorar, criaturas enormes y malvadas a las que matar, conjuntos de edificios nuevos y una gran cantidad de características nuevas. Lucha contra las razas antiguas en las nuevas mazmorras subterráneas. Derrota a las abominaciones demoníacas que surgen de una tormenta caótica. Domina la descarga para capturar a los esclavos poderosos invocados desde el continente."
+    ],
+    [
+      "p",
+      "Llegas a la isla completamente solo y como un náufrago. Con nada más que con los restos que llevas a tu espalda, fabricas las herramientas que necesitas para sobrevivir. Al principio, serán un simple campamento y algunas herramientas toscas de piedra, pero con el tiempo, serán una fortaleza y espadones despiadados hechos de acero endurecido u obsidiana."
+    ],
+    [
+      "p",
+      "El centro de la isla te llama la atención, donde se divisa una torre oscura sobre el paisaje. Parece que la tormenta violenta que está a su alrededor está ganando fuerza, y horrores innombrables acechan desde el interior. Pero tus enemigos más peligrosos pueden ser los otros supervivientes en la isla, ya que los recursos escasean y la lucha por sobrevivir es violenta y cruel."
+    ],
+    [
+      "p",
+      "Empieza una experiencia nueva y original en la gran Isla de Siptah. Explora las playas soleadas plagadas de naufragios, de bosques densos de grandes secuoyas, de amplios valles con ruinas aqueronias antiguas, de los restos de una colonia estigia reubicada, de campamentos amenazantes infestados de piratas y con el presagio de la torre de Siptah en el centro de la isla."
+    ],
+    [
+      "p",
+      "Descubre las cámaras caídas en el olvido que contienen restos de las razas antiguas de un pasado distante. Explora los salones ocultos, resuelve acertijos antiguos y asesina a todo tipo de demonios que ahí se encuentren. Saquea valiosos tesoros y domina el poder de las razas antiguas."
+    ],
+    [
+      "p",
+      "Una gran tormenta gira sobre la torre oscura en el centro de la isla. Alimentada por una magia siniestra, genera monstruos espeluznantes del vacío exterior, que atacan a cualquiera que se atreva a adentrarse en el interior. Derrota a estos monstruos para conseguir un novedoso recurso y recompensas únicas."
+    ],
+    [
+      "p",
+      "Poderosas descargas de magia prohibida, provenientes del antiguo dios Nyarlathotep, que brotan de la torre de Siptah. Tras ella, aparecen humanos y criaturas que son teletransportados misteriosamente desde el mundo exterior. Sé rápido para capturarlas o para dejarlas atrás mientras otros jugadores crean su ejército."
+    ],
+    [
+      "p",
+      "Adéntrate en la batalla y asesina a tus enemigos desde la feroz montura de rinoceronte. Construye una casita o una gran ciudad usando los dos nuevos conjuntos de edificios: los restos empapados de naufragios o el antiguo y majestuoso vidrio de tormenta. Encuentra y equipa objetos poderosos, incluyendo nuevos conjuntos de armaduras, herramientas y armas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Quad Core i5-2300 or AMD FX-6300"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 560 (1GB) or AMD Radeon HD 7770 (1GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64 bit"
+      ],
+      [
+        "Procesador",
+        "Intel Quad Core i7 3770K or AMD Ryzen 5 1600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "nVidia GeForce GTX 780 Ti/970 (High settings) and 1070 (Ultra settings) or AMD R9 290/AMD RX480 (High settings)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "27 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_99e3e84fee83a890027eb53f64e175f977b3c43b.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_99e3e84fee83a890027eb53f64e175f977b3c43b.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_694af98a45583c7121508664701a48f14cbb496d.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_694af98a45583c7121508664701a48f14cbb496d.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_3bd1eb6a9af5c1cc5ed7f10708fc1e1a9fc606a4.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_3bd1eb6a9af5c1cc5ed7f10708fc1e1a9fc606a4.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_f2b1f7f2305ab2a446b15da098b99850dc638f48.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_f2b1f7f2305ab2a446b15da098b99850dc638f48.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_01853b03bbe333980dcdf9da3a0693d3588c3eb6.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_01853b03bbe333980dcdf9da3a0693d3588c3eb6.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_22f37da6fa7da6f895f16603fe682bb527d794c2.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_22f37da6fa7da6f895f16603fe682bb527d794c2.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_45ef82e8f5a33bcaa0a5863bfe7b7572e7e00e43.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_45ef82e8f5a33bcaa0a5863bfe7b7572e7e00e43.1920x1080.jpg?t=1783101408"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_39315629d80eb44147afd2a85949662d3b3353ce.600x338.jpg?t=1783101408",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206200/ss_39315629d80eb44147afd2a85949662d3b3353ce.1920x1080.jpg?t=1783101408"
+    }
+  ],
+  "web": "http://www.conanexiles.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Conan Exiles has brutal combat where you can cut off limbs and heads of human opponents and blood is shown frequently. Players may choose to play the game with either no, partial or full nudity enabled. This is possible in both single and multiplayer.",
+  "igdbIntentado": true,
+  "igdb": 167762,
+  "v": 7,
+  "consultado": "2026-11-24T01:15:16.446Z"
+}

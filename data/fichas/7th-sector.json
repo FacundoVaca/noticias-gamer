@@ -1,0 +1,290 @@
+{
+  "clave": "7th sector",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-03b1-7178-bab7-a3edd0d3e2ae",
+  "appid": "749250",
+  "lanzamiento": "2019-03-05",
+  "desarrolladores": [
+    "Носков Сергей"
+  ],
+  "editores": [
+    "Носков Сергей"
+  ],
+  "etiquetas": [
+    "3D Platformer",
+    "Puzzle Platformer",
+    "Racing",
+    "PvE",
+    "Walking Simulator"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 644,
+      "url": "https://store.steampowered.com/app/749250/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 63,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/7th-sector/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 69,
+      "cantidad": 17,
+      "url": "https://opencritic.com/game/8974/7th-sector"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "220006",
+      "nombre": "7th Sector",
+      "apps": [
+        {
+          "appid": "749250",
+          "nombre": "7th Sector"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "396913",
+      "nombre": "7th Sector - Commercial License",
+      "apps": [
+        {
+          "appid": "749250",
+          "nombre": "7th Sector"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 12.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "749250": {
+      "usd": 6.29,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1060120",
+      "nombre": "7th Sector - Soundtrack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1063400",
+      "nombre": "7th Sector - Museum",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Welcome to the 7th Sector, set in a mysterious cyberpunk world. Immerse yourself on this intricate path, solving different puzzles, facing its dangers and collecting scattered information to discover the story of this world.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "5 MAR 2019",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "7th Sector",
+  "acerca": [
+    [
+      "p",
+      "Welcome to the 7th Sector , set in a mysterious cyberpunk world. Immerse yourself on this intricate path, solving different puzzles, facing its dangers and collecting scattered information to discover the story of this world. Gain control over several different characters, each with its own abilities which can help you navigate world’s devices and machinery. Some of the choices and actions done determine the final outcome."
+    ],
+    [
+      "p",
+      "FEATURES"
+    ],
+    [
+      "li",
+      "Varied and unique puzzles."
+    ],
+    [
+      "li",
+      "Control several characters."
+    ],
+    [
+      "li",
+      "Immersive soundtrack by \"Nobody's Nail Machine\""
+    ],
+    [
+      "li",
+      "Branching system of 4 different endings."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP / 7"
+      ],
+      [
+        "Procesador",
+        "Intel Dual-Core 2.4 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 275, GeForce GT"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "720 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7/10"
+      ],
+      [
+        "Procesador",
+        "Quad Core Processor"
+      ],
+      [
+        "Memoria",
+        "3 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960, GTX 970"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "720 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_85dccd1b9021b288d94c5d2cb0a1eecd43ad1d4f.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_85dccd1b9021b288d94c5d2cb0a1eecd43ad1d4f.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_c95c6f081fd171329c5f3b5bd8a5bfddd0354214.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_c95c6f081fd171329c5f3b5bd8a5bfddd0354214.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_8cf43d7d0aeb8fdd80713a3264571424095a6797.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_8cf43d7d0aeb8fdd80713a3264571424095a6797.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_93c29cd7916f4c2fac3c8bb823df430a5edafd92.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_93c29cd7916f4c2fac3c8bb823df430a5edafd92.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_b0395e513d9e5bf51be25925d5374c83ea6c432f.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_b0395e513d9e5bf51be25925d5374c83ea6c432f.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_48dcbfa995f805db9ac68ba30fadd3386023af1a.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_48dcbfa995f805db9ac68ba30fadd3386023af1a.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_64372cefe6536d8ec35c47e3617ba72fa60dfc0d.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_64372cefe6536d8ec35c47e3617ba72fa60dfc0d.1920x1080.jpg?t=1725974043"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_732ac4f34956e39b408c68fa65f92d3043a9f3a6.600x338.jpg?t=1725974043",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749250/ss_732ac4f34956e39b408c68fa65f92d3043a9f3a6.1920x1080.jpg?t=1725974043"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3.4,
+    "cantidad": 113,
+    "escala": 5
+  },
+  "xbox": "9NZ64C5B9G4X",
+  "igdbIntentado": true,
+  "igdb": 115336,
+  "youtube": [
+    {
+      "id": "gVLmXcom21U",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T01:13:41.067Z"
+}

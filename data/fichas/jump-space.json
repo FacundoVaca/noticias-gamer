@@ -1,0 +1,341 @@
+{
+  "clave": "jump space",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-32c3-72ad-8de9-940e3c0c3191",
+  "appid": "1757300",
+  "lanzamiento": "2025-09-19",
+  "desarrolladores": [
+    "Keepsake Games"
+  ],
+  "editores": [
+    "Keepsake Games"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "PvE",
+    "Space",
+    "Sci-fi",
+    "FPS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 11565,
+      "url": "https://store.steampowered.com/app/1757300/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "630170",
+      "nombre": "Jump Space",
+      "apps": [
+        {
+          "appid": "1757300",
+          "nombre": "Jump Space"
+        }
+      ],
+      "usd": 6.39,
+      "antes": 7.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1757300": {
+      "usd": 6.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4028440",
+      "nombre": "Jump Space - Supporter Upgrade",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Jump Space (anteriormente Jump Ship) es un FPS cooperativo PvE para 1-4 jugadores. Alterna entre trabajo en la nave, exploración a pie y paseos espaciales. Explora, mejora y sobrevive en el espacio profundo juntos.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "19 SEP 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Jump Space",
+  "acerca": [
+    [
+      "p",
+      "Jump Space (anteriormente Jump Ship) es un FPS cooperativo PvE basado en misiones para 1-4 jugadores en el que formarás parte de la tripulación de una nave espacial. Podrás pasar fácilmente de pilotar la nave a exploraciones a pie o paseos espaciales. Libra intensos combates tanto en tierra como en el espacio, y mejora y mantén tu nave en perfectas condiciones en todo momento. El trabajo en equipo es vital para la supervivencia y la victoria."
+    ],
+    [
+      "p",
+      "Nos encantan los juegos cooperativos y nos encanta el espacio. Con Jump Space tratamos de combinar ambos conceptos."
+    ],
+    [
+      "h",
+      "Características"
+    ],
+    [
+      "p",
+      "Recorre el universo - Escoge entre una amplia variedad de misiones hechas a mano con elementos aleatorios. No realizarás dos exploraciones que sean iguales."
+    ],
+    [
+      "p",
+      "Entra y sal de la nave fácilmente - Cuando hagas un trayecto con tu nave, podrás pasar de pilotarla a pasear por el espacio o a explorar un planeta a pie sin problemas. Es así de fácil."
+    ],
+    [
+      "p",
+      "Realiza tareas de mantenimiento, repara y mejora - Gestiona tu nave mientras buscas piezas con las que mejorarla, repararla o adaptarla a tus necesidades."
+    ],
+    [
+      "p",
+      "Vuela con una tripulación o ve en solitario - Es más divertido jugar a Jump Space con amigos, pero los aventureros que quieran ir en solitario también son bienvenidos."
+    ],
+    [
+      "h",
+      "Gestiona tu nave"
+    ],
+    [
+      "p",
+      "Mejora y personaliza tu nave mientras te enfrentas a los desafíos de la exploración espacial, y encuentra recursos para garantizar tu supervivencia. Refuerza tus defensas, produce más energía para aumentar tu velocidad o potencia las capacidades ofensivas de tu nave: tú eliges."
+    ],
+    [
+      "h",
+      "Sumérgete en el espacio"
+    ],
+    [
+      "p",
+      "Disfruta de un juego fluido mientras pasas de llevar tu nave fuera de un campo de asteroides a volar con tu mochila cohete a un navío enemigo para sabotear su núcleo. Alterna fácilmente entre exploración, combate y viaje."
+    ],
+    [
+      "h",
+      "Mejorad y adaptaos juntos"
+    ],
+    [
+      "p",
+      "Realiza misiones con tus amigos y adoptad distintas funciones, desde pilotar la nave hasta llevar a cabo tareas de ingeniería o exploraciones de campo. Trabajad juntos para afrontar los ataques enemigos, extinguid incendios en la cubierta de mando o ajustad la red eléctrica de vuestra nave sobre la marcha. En Jump Space no hay clases: improvisa y decide cómo quieres participar."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600X / Intel Core i5-8600K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB VRAM, NVIDIA GeForce GTX 1070 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "30 FPS in 1920x1080. SSD required. Download size 8GB"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit or newer"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 5800X / Intel Core i7-12700"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB VRAM, NVIDIA GeForce RTX 3060ti or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "60 FPS in 1920x1080. SSD Required. Download size 8GB"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/8c13e1107b2961ad3f06af61bf7772ce22f0a5f2/ss_8c13e1107b2961ad3f06af61bf7772ce22f0a5f2.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/8c13e1107b2961ad3f06af61bf7772ce22f0a5f2/ss_8c13e1107b2961ad3f06af61bf7772ce22f0a5f2.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/19a3c4b4d900da2fe219b36e5b72de8a9f6bc99e/ss_19a3c4b4d900da2fe219b36e5b72de8a9f6bc99e.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/19a3c4b4d900da2fe219b36e5b72de8a9f6bc99e/ss_19a3c4b4d900da2fe219b36e5b72de8a9f6bc99e.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/2f7fab5706c70e0a6e7c038471cc5757f4082649/ss_2f7fab5706c70e0a6e7c038471cc5757f4082649.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/2f7fab5706c70e0a6e7c038471cc5757f4082649/ss_2f7fab5706c70e0a6e7c038471cc5757f4082649.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/edffc9ac97312d78f159f3468f20606d074fa95c/ss_edffc9ac97312d78f159f3468f20606d074fa95c.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/edffc9ac97312d78f159f3468f20606d074fa95c/ss_edffc9ac97312d78f159f3468f20606d074fa95c.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/90d7548665e0012bb6e31339ed6bf4e86d66dea3/ss_90d7548665e0012bb6e31339ed6bf4e86d66dea3.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/90d7548665e0012bb6e31339ed6bf4e86d66dea3/ss_90d7548665e0012bb6e31339ed6bf4e86d66dea3.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/518082cc81c93e6ab34d662b069e0161b36b2b5a/ss_518082cc81c93e6ab34d662b069e0161b36b2b5a.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/518082cc81c93e6ab34d662b069e0161b36b2b5a/ss_518082cc81c93e6ab34d662b069e0161b36b2b5a.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/cc17428588398bed4bbae7cf9145558a23020bd3/ss_cc17428588398bed4bbae7cf9145558a23020bd3.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/cc17428588398bed4bbae7cf9145558a23020bd3/ss_cc17428588398bed4bbae7cf9145558a23020bd3.1920x1080.jpg?t=1789645435"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/aba5e9b40f5e7661e8b357bdd8784c90480339cd/ss_aba5e9b40f5e7661e8b357bdd8784c90480339cd.600x338.jpg?t=1789645435",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1757300/aba5e9b40f5e7661e8b357bdd8784c90480339cd/ss_aba5e9b40f5e7661e8b357bdd8784c90480339cd.1920x1080.jpg?t=1789645435"
+    }
+  ],
+  "web": "https://jumpspacegame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Violence",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 130421,
+  "youtube": [
+    {
+      "id": "xutcrdvyBm8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "njj3mmyYGJ4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "DNF4yrZJXJo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "5ONHNvZiBA8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T01:14:19.257Z"
+}

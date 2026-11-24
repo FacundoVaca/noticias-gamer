@@ -1,0 +1,269 @@
+{
+  "clave": "goetia",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937e-fec1-722f-8812-744a3408282e",
+  "appid": "421740",
+  "lanzamiento": "2016-04-14",
+  "desarrolladores": [
+    "SUSHEE"
+  ],
+  "editores": [
+    "Forever Entertainment S. A."
+  ],
+  "etiquetas": [
+    "Indie",
+    "Adventure",
+    "Point & Click",
+    "Puzzle",
+    "Gothic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 591,
+      "url": "https://store.steampowered.com/app/421740/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/goetia/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 65,
+      "cantidad": 18,
+      "url": "https://metacritic.com/game/goetia/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 11,
+      "url": "https://opencritic.com/game/2560/goetia"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "86119",
+      "nombre": "Goetia",
+      "apps": [
+        {
+          "appid": "421740",
+          "nombre": "Goetia"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "421740": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Goetia es un juego de aventuras en 2 dimensiones ambientado en Inglaterra en los años 40. Guía a Abigail Blackwood, el fantasma de una joven que murió 39 años atrás, y explora la mansión en la que se crio en busca de pistas, respuestas e indicios de su familia desaparecida.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "14 ABR 2016",
+  "metacritic": {
+    "puntaje": 79,
+    "url": "https://www.metacritic.com/game/pc/goetia?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Goetia",
+  "acerca": [
+    [
+      "p",
+      "Goetia es un juego de aventuras de tipo point and click y, como en cualquier otro, tienes que buscar pistas, encontrar objetos y averiguar cómo usarlos o combinarlos para progresar por distintas zonas, puzles y encuentros."
+    ],
+    [
+      "p",
+      "Sin embargo, hay algo que lo diferencia de los juegos de aventuras a los que estás acostumbrado. En Goetia juegas en el papel del fantasma de una jovencita llamada Abigail, y como tal puedes atravesar las paredes, volar por el techo y explorar cada rincón sin límites. Solo hay una pega: para manipular objetos tienes que poseerlos como un poltergeist, y cuando habitas un objeto ya no es posible atravesar las paredes."
+    ],
+    [
+      "p",
+      "CARACTERÍSTICAS PRINCIPALES"
+    ],
+    [
+      "li",
+      "Un misterioso entorno victoriano en 2D."
+    ],
+    [
+      "li",
+      "Más de 90 habitaciones para explorar."
+    ],
+    [
+      "li",
+      "Cinco enormes y diversas áreas para descubrir: Blackwood Manor y las ruinas, bosques, cuevas y casas abandonadas que rodean esta mansión."
+    ],
+    [
+      "li",
+      "Una banda sonora a medio camino entre el rock progresivo y la música ambiental."
+    ],
+    [
+      "li",
+      "Aprovecha tu incorporeidad para atravesar las paredes y acceder a lugares secretos."
+    ],
+    [
+      "li",
+      "Posee objetos como un poltergeist para levantarlos, utilizarlos, combinarlos, hacerlos levitar, apilarlos... Bueno, al fin y al cabo eres un fantasma, ¡actúa como tal!"
+    ],
+    [
+      "li",
+      "Resuelve puzles de distintas formas a medida que descubres habitaciones ocultas y funciones especiales, como nuevos poderes fantasmales."
+    ],
+    [
+      "li",
+      "Profundiza en la historia de Blackwood: han pasado 40 años y han cambiado muchas cosas desde la muerte de Abigail."
+    ],
+    [
+      "li",
+      "¡Explora hasta hartarte! Puedes recorrer el mundo de Goetia como quieras y, en caso de quedarte atascado, siempre puedes retroceder y explorar otra zona."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "intel core 2 DUO 2GHz +, AMD Athlon TMX2 2.2GHz +"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GT 705, AMD Radeon R7 240"
+      ],
+      [
+        "Almacenamiento",
+        "7 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 8/10"
+      ],
+      [
+        "Procesador",
+        "intel core I5-4440, AMD FX 6300"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GT 740, AMD Radeon R7 250"
+      ],
+      [
+        "Almacenamiento",
+        "7 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_a7b46805e131ae0d5b9aba88e8c19bcc7a542567.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_a7b46805e131ae0d5b9aba88e8c19bcc7a542567.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_cce08bf1ee41d618237a975462b48cb5a527bc94.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_cce08bf1ee41d618237a975462b48cb5a527bc94.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_09c10f8f8834ddbfe77548cb4953f681533ba9c5.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_09c10f8f8834ddbfe77548cb4953f681533ba9c5.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_1f43a86bd24c58caf0039fe558786604591ca02a.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_1f43a86bd24c58caf0039fe558786604591ca02a.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_e3b84fcc3f8b94df5237a74c866ba973fec9a30c.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_e3b84fcc3f8b94df5237a74c866ba973fec9a30c.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_e5c75d815f5d3de5de201288ac2ff114b0ada130.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_e5c75d815f5d3de5de201288ac2ff114b0ada130.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_27965a3254da0b0cfa7742a7306430d98529b3e3.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_27965a3254da0b0cfa7742a7306430d98529b3e3.1920x1080.jpg?t=1775042617"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_8eaa92afe8ed8f639fa8f1dacb1f5f7165ff54a6.600x338.jpg?t=1775042617",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/421740/ss_8eaa92afe8ed8f639fa8f1dacb1f5f7165ff54a6.1920x1080.jpg?t=1775042617"
+    }
+  ],
+  "web": "http://playgoetia.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 3,
+    "cantidad": 48,
+    "escala": 5
+  },
+  "xbox": "9MWFR4TFX54K",
+  "igdbIntentado": true,
+  "igdb": 18454,
+  "youtube": [
+    {
+      "id": "T9HdQnAFjdA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "p2dJLEWDqlo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4XrdceBdHWk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "v7uJVNp7ps4",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T01:14:07.810Z"
+}

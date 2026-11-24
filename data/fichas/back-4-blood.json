@@ -1,0 +1,416 @@
+{
+  "clave": "back 4 blood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4ab3-707f-ad19-abd38336f54c",
+  "appid": "924970",
+  "lanzamiento": "2021-10-12",
+  "desarrolladores": [
+    "Turtle Rock Studios"
+  ],
+  "editores": [
+    "Warner Bros. Games Inc.",
+    "Warner Games Inc.",
+    "Warner",
+    "Warner Bros Interactive Entertainment",
+    "Warner Bros. Games",
+    "Warner Bros. Interactive Entertainment",
+    "Turtle Rock Studios"
+  ],
+  "etiquetas": [
+    "Zombies",
+    "Online Co-Op",
+    "Multiplayer",
+    "FPS",
+    "Gore"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 69,
+      "cantidad": 55449,
+      "url": "https://store.steampowered.com/app/924970/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 77,
+      "cantidad": 46,
+      "url": "https://metacritic.com/game/back-4-blood/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 53,
+      "cantidad": 602,
+      "url": "https://metacritic.com/game/back-4-blood/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 139,
+      "url": "https://opencritic.com/game/12078/back-4-blood"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "298812",
+      "nombre": "Back 4 Blood",
+      "apps": [
+        {
+          "appid": "924970",
+          "nombre": "Back 4 Blood"
+        }
+      ],
+      "usd": 3,
+      "antes": 30,
+      "descuento": 90
+    },
+    {
+      "packageid": "596961",
+      "nombre": "Back 4 Blood Deluxe",
+      "apps": [
+        {
+          "appid": "924970",
+          "nombre": "Back 4 Blood"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 89.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "596962",
+      "nombre": "Back 4 Blood Ultimate",
+      "apps": [
+        {
+          "appid": "924970",
+          "nombre": "Back 4 Blood"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 99.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "924970": {
+      "usd": 3,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "1598441",
+      "nombre": "Back 4 Blood Annual Pass",
+      "gratis": false,
+      "usd": 2,
+      "descuento": 90
+    },
+    {
+      "appid": "2015180",
+      "nombre": "Back 4 Blood - Expansion 2: Children of the Worm",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    },
+    {
+      "appid": "1840320",
+      "nombre": "Back 4 Blood - Expansion 1: Tunnels of Terror",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    },
+    {
+      "appid": "1598442",
+      "nombre": "Back 4 Blood Ultimate Edition Digital Content",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2101940",
+      "nombre": "Back 4 Blood - Expansion 3: River of Blood",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 80
+    }
+  ],
+  "descripcion": "Los creadores de la aclamada saga de Left 4 Dead presentan Back 4 Blood, un emocionante juego de disparos en primera persona cooperativo.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "12 OCT 2021",
+  "metacritic": {
+    "puntaje": 77,
+    "url": "https://www.metacritic.com/game/pc/back-4-blood?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Back 4 Blood",
+  "acerca": [
+    [
+      "p",
+      "Los creadores de la aclamada saga de Left 4 Dead presentan Back 4 Blood, un emocionante juego de disparos en primera persona cooperativo. Te encuentras en medio de una guerra contra los Infectados. Estos humanos, huéspedes de un parásito letal, se han convertido en terroríficas criaturas dispuestas a devorar lo que queda de civilización. Con la humanidad a punto de extinguirse, tus amigos y tú deberéis enfrentaros al enemigo, exterminar a los Infectados y recuperar el control del mundo."
+    ],
+    [
+      "h",
+      "Campaña cooperativa"
+    ],
+    [
+      "p",
+      "Avanza en una campaña cooperativa de 4 jugadores y trabaja conjuntamente con tus compañeros para completar misiones cada vez más desafiantes. Juega con hasta 3 amigos en línea o juega en solitario y lidera tu equipo en la batalla."
+    ],
+    [
+      "p",
+      "Selecciona a uno de los 8 Exterminadores personalizables para convertirte en un superviviente inmune, elige entre una gran variedad de elementos y armas letales, y elabora tu propia estrategia para derrotar a un enemigo mutante decidido a acabar con toda la humanidad."
+    ],
+    [
+      "h",
+      "Modo multijugador competitivo"
+    ],
+    [
+      "p",
+      "Juega con tus amigos o contra ellos en modo JcJ. Conviértete en un Exterminador con ventajas especiales o en un temible Infectado. Los dos bandos incluyen habilidades, cualidades y armas únicas."
+    ],
+    [
+      "h",
+      "Rejugabilidad extrema"
+    ],
+    [
+      "p",
+      "Con el nuevo Sistema de Cartas Aleatorias tú decides cómo jugar. Cada vez que utilices este sistema, se generará una experiencia completamente diferente para que puedas personalizar tanto tu personaje como tus barajas y participar en combates mucho más difíciles."
+    ],
+    [
+      "p",
+      "El Director del Juego se adapta constantemente a las acciones del jugador para garantizar emocionantes combates, una variada experiencia de juego y legiones de Infectados mucho más difíciles de derrotar, como los jefes mutados de hasta 6 metros de altura."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 (3.3 GHz) OR AMD Ryzen 5 2600 (3.4 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050 Ti OR AMD Radeon RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / Low Quality Settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 (2.8 GHz) OR AMD Ryzen 7 1800X (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970 OR AMD Radeon RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / High Quality Settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_3329126d46bfd0cd32069508a1d37e40a1f4d92e.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_3329126d46bfd0cd32069508a1d37e40a1f4d92e.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_61ba5c1e5ff0992738255a3c6679fdbc2cd659de.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_61ba5c1e5ff0992738255a3c6679fdbc2cd659de.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_01d625277a7dc76a67f78de3a3ed1e633d205ddd.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_01d625277a7dc76a67f78de3a3ed1e633d205ddd.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_cb8d4bd7139ce8f80df16e5c7c4be906222f050b.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_cb8d4bd7139ce8f80df16e5c7c4be906222f050b.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_cff8429e91cfc960864b0652855a8458e43d476a.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_cff8429e91cfc960864b0652855a8458e43d476a.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_38fee58572e3ad66ef445bcc358ee8dcaadf06bc.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_38fee58572e3ad66ef445bcc358ee8dcaadf06bc.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_4bad592a2ed6618cdd83e646560fa4f1c2ebb965.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_4bad592a2ed6618cdd83e646560fa4f1c2ebb965.1920x1080.jpg?t=1793901590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_199c74883c9b599d968c4320766a089f50e782c2.600x338.jpg?t=1793901590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924970/ss_199c74883c9b599d968c4320766a089f50e782c2.1920x1080.jpg?t=1793901590"
+    }
+  ],
+  "web": "https://back4blood.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 116200,
+  "youtube": [
+    {
+      "id": "7RCgT-XOPr4",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "rok9-g8E0PE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Oqesvrf87DA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T01:14:47.488Z"
+}
