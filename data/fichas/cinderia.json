@@ -1,0 +1,312 @@
+{
+  "clave": "cinderia",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01978435-e942-7397-ab68-0dd63171ddf7",
+  "appid": "3214610",
+  "lanzamiento": "2026-03-30",
+  "desarrolladores": [
+    "MyACG Studio"
+  ],
+  "editores": [
+    "MyACG Studio",
+    "NPC Entertainment"
+  ],
+  "etiquetas": [
+    "Action Roguelike",
+    "Hack and Slash",
+    "Roguelite",
+    "Roguelike",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 5200,
+      "url": "https://store.steampowered.com/app/3214610/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1139653",
+      "nombre": "Cinderia",
+      "apps": [
+        {
+          "appid": "3214610",
+          "nombre": "Cinderia"
+        }
+      ],
+      "usd": 7.43,
+      "antes": 9.29,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "3214610": {
+      "usd": 7.43,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4559030",
+      "nombre": "Cinderia Soundtrack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Cinderia es un Rogue-lite de acción extremadamente frenético. Combina libremente todo lo que encuentres —habilidades, combos, pasivos y equipamiento— para crear tu propio estilo de combate. La oscuridad cubre la tierra, pero entre las ruinas aún brilla una débil luz.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "30 MAR 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Cinderia",
+  "acerca": [
+    [
+      "p",
+      "Cinderia es un roguelite de acción con estética de cuento oscuro. La noche en que la bruja incendió el mundo, el antiguo orden se derrumbó y el reino quedó reducido a cenizas. Desde entonces, solo el polvo gris cae entre las ruinas."
+    ],
+    [
+      "p",
+      "En las tierras devastadas donde brasas y sombras se entrelazan, un pequeño grupo continúa avanzando —personas capaces de resistir la corrupción. Pueden ingerir los restos de la magia negra sin quedar completamente dominados por ella."
+    ],
+    [
+      "p",
+      "Con este poder peligroso, lucharás entre las ruinas, crecerás y te acercarás poco a poco a la verdad tras la destrucción del mundo."
+    ],
+    [
+      "h",
+      "Encontrarse entre las cenizas, desafiar al destino"
+    ],
+    [
+      "p",
+      "Dagas que cortan la oscuridad, cañones que destrozan enemigos, escarcha que detiene la muerte."
+    ],
+    [
+      "p",
+      "Cada aventurero carga con su propio destino y posee un estilo de combate totalmente único."
+    ],
+    [
+      "h",
+      "Redefine tu estilo de combate"
+    ],
+    [
+      "p",
+      "Las brasas de la magia negra corrompen todo —pero no previeron que las arrebatarías para convertirlas en armas."
+    ],
+    [
+      "p",
+      "Las distintas combinaciones de brasas y cartas mágicas transforman la estructura de tus habilidades y el ritmo de tus combos, haciendo que cada partida ofrezca una ruta de construcción completamente distinta."
+    ],
+    [
+      "h",
+      "Un viaje largo, una llama que no se apaga"
+    ],
+    [
+      "p",
+      "Combatir, descansar y volver a partir."
+    ],
+    [
+      "p",
+      "Incluso en los rincones más arruinados del mundo, una luz cálida te espera."
+    ],
+    [
+      "p",
+      "Caer, sufrir, fracasar —todo forma parte del viaje."
+    ],
+    [
+      "h",
+      "Altísima rejugabilidad"
+    ],
+    [
+      "p",
+      "4 personajes, cada uno con un pool único de más de 180 habilidades"
+    ],
+    [
+      "p",
+      "Más de 130 piezas de equipamiento con combinaciones prácticamente infinitas"
+    ],
+    [
+      "p",
+      "Decenas de eventos aleatorios y tipos de salas, con rutas distintas en cada partida"
+    ],
+    [
+      "p",
+      "Actualizaciones continuas con nuevos contenidos y mecánicas de juego"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel I5-10600KF"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1066"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel I5-14600KF"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 3050 Ti"
+      ],
+      [
+        "Almacenamiento",
+        "512 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/150bdf433b7918ac8adc3359a450da9520d12516/ss_150bdf433b7918ac8adc3359a450da9520d12516.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/150bdf433b7918ac8adc3359a450da9520d12516/ss_150bdf433b7918ac8adc3359a450da9520d12516.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/e63929fdbc88fe7a004cf9bef83d7fe3a29d2028/ss_e63929fdbc88fe7a004cf9bef83d7fe3a29d2028.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/e63929fdbc88fe7a004cf9bef83d7fe3a29d2028/ss_e63929fdbc88fe7a004cf9bef83d7fe3a29d2028.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb/ss_8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb/ss_8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/a7d11bb346215ec5373947b467da70f484e0f93c/ss_a7d11bb346215ec5373947b467da70f484e0f93c.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/a7d11bb346215ec5373947b467da70f484e0f93c/ss_a7d11bb346215ec5373947b467da70f484e0f93c.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/0c732963384544cdccc5e47a7ec2522ff6e7afb7/ss_0c732963384544cdccc5e47a7ec2522ff6e7afb7.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/0c732963384544cdccc5e47a7ec2522ff6e7afb7/ss_0c732963384544cdccc5e47a7ec2522ff6e7afb7.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/43ba2e72b1f0be2c618506287c2a900d96c6436a/ss_43ba2e72b1f0be2c618506287c2a900d96c6436a.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/43ba2e72b1f0be2c618506287c2a900d96c6436a/ss_43ba2e72b1f0be2c618506287c2a900d96c6436a.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/b1355c23dc5be731f74873d2d549d78d6b055608/ss_b1355c23dc5be731f74873d2d549d78d6b055608.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/b1355c23dc5be731f74873d2d549d78d6b055608/ss_b1355c23dc5be731f74873d2d549d78d6b055608.1920x1080.jpg?t=1793878582"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/c6ea25ecab30b4c807f674d052c720be1244bc78/ss_c6ea25ecab30b4c807f674d052c720be1244bc78.600x338.jpg?t=1793878582",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/c6ea25ecab30b4c807f674d052c720be1244bc78/ss_c6ea25ecab30b4c807f674d052c720be1244bc78.1920x1080.jpg?t=1793878582"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 345962,
+  "youtube": [
+    {
+      "id": "t6xKzCJ32m4",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "xnYDyOXdezc",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:47:39.037Z"
+}

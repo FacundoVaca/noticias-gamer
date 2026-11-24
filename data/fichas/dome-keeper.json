@@ -1,0 +1,408 @@
+{
+  "clave": "dome keeper",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-5f9a-7292-9067-887184098b10",
+  "appid": "1637320",
+  "lanzamiento": "2022-09-27",
+  "desarrolladores": [
+    "Bippinbits"
+  ],
+  "editores": [
+    "Raw Fury",
+    "Bippinbits"
+  ],
+  "etiquetas": [
+    "Singleplayer",
+    "Post-apocalyptic",
+    "Roguelike",
+    "Action",
+    "Sci-fi"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 19369,
+      "url": "https://store.steampowered.com/app/1637320/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 76,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/dome-keeper/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 87,
+      "url": "https://metacritic.com/game/dome-keeper/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 20,
+      "url": "https://opencritic.com/game/13733/dome-keeper"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "581541",
+      "nombre": "Dome Keeper",
+      "apps": [
+        {
+          "appid": "1637320",
+          "nombre": "Dome Keeper"
+        }
+      ],
+      "usd": 2.32,
+      "antes": 9.29,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1637320": {
+      "usd": 2.32,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "4331610",
+      "nombre": "Dome Keeper: The Lost Keepers",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 20
+    },
+    {
+      "appid": "2152440",
+      "nombre": "Dome Keeper: Engineer Gear Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "2380060",
+      "nombre": "Dome Keeper: Assessor Gear Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 40
+    },
+    {
+      "appid": "2150000",
+      "nombre": "Dome Keeper Soundtrack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 70
+    }
+  ],
+  "descripcion": "Defiéndete de monstruos alienígenas en este juego de acción y minería tipo «roguelike». Extrae recursos, recoge artilugios y mejora tu equipo para multiplicar tus posibilidades de supervivencia. ¡Ah, y vuelve antes de que destruyan tu cúpula!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "27 SEP 2022",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Dome Keeper",
+  "acerca": [
+    [
+      "p",
+      "Defiéndete de las oleadas de monstruos alienígenas en este innovador juego de acción y minería tipo «roguelike». Aprovecha el tiempo entre ataques para excavar en busca de valiosos recursos y reliquias; después, llévalos a tu cúpula y úsalos para desbloquear potentes mejoras y artilugios nuevos de lo más prácticos."
+    ],
+    [
+      "p",
+      "Los monstruos no se rinden fácilmente, por lo que no tardarán en volver. ¿Te arriesgarás a adentrarte en las zonas más profundas de la mina o volverás a la base y te prepararás para el ataque inminente? Tú decides, pero ¡hazlo rápido!"
+    ],
+    [
+      "h",
+      "Excava"
+    ],
+    [
+      "p",
+      "Utiliza el taladro y tu equipo de cuidador para abrir túneles en un santiamén y descubrir lo que hay bajo tu cúpula. Cada partida tiene su propio mapa único, generado de forma procedimental y repleto de recursos y cuevas ocultas, además de una gran variedad de artilugios."
+    ],
+    [
+      "h",
+      "Defiende"
+    ],
+    [
+      "p",
+      "Protege tu cúpula aprendiendo a manejar unas poderosísimas armas, que te ayudarán a lidiar con las oleadas de monstruos. Mejora y repara para repeler a enemigos de todo tipo que se acercan por tierra y aire. Analiza sus ataques y patrones de movimiento para elegir la mejor respuesta."
+    ],
+    [
+      "h",
+      "Desarrolla"
+    ],
+    [
+      "p",
+      "Invierte recursos en desbloquear mejoras: refuerza las defensas de la cúpula, aumenta la potencia del taladro o acelera el movimiento. Elige con cabeza y elabora la mejor estrategia posible para multiplicar tus posibilidades de supervivencia."
+    ],
+    [
+      "h",
+      "Descubre"
+    ],
+    [
+      "p",
+      "Personaliza tu experiencia y encuentra el estilo de juego que mejor se adapte a ti. Puedes elegir entre dos tipos de cuidador, cuatro cúpulas y cuatro artilugios principales. Selecciona un modificador de partida, ajusta el nivel de dificultad y descubre decenas de artilugios secundarios mientras excavas la tierra."
+    ],
+    [
+      "h",
+      "Multijugador"
+    ],
+    [
+      "p",
+      "¡Explora el mundo de Dome Keeper junto a tus amigos! Defended la cúpula juntos en el modo cooperativo para cuatro jugadores, o bien enfrentaos los unos a los otros en una batalla por ver quién sobrevive más tiempo o quién entrega más recursos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false
+    },
+    {
+      "nombre": "Catalán",
+      "voces": false
+    },
+    {
+      "nombre": "Euskera",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 or newer"
+      ],
+      [
+        "Procesador",
+        "2.5Ghz or better"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Support for OpenGL 3.3"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_f2a52537a6dc3458eadd0cfc40b3916b4eb70bae.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_f2a52537a6dc3458eadd0cfc40b3916b4eb70bae.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_b3718daa8a5e9bc8deddf5057a4723f36d73c83f.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_b3718daa8a5e9bc8deddf5057a4723f36d73c83f.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_7622e77e182af4c84a013ef94f8b2bde05fa3bf1.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_7622e77e182af4c84a013ef94f8b2bde05fa3bf1.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_d3d7194b248504bf0c1698752d2f6335900e777e.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_d3d7194b248504bf0c1698752d2f6335900e777e.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_7e8e99ca62ac48386cfa23b846c413ce311ce6c3.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_7e8e99ca62ac48386cfa23b846c413ce311ce6c3.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_15b56378019c177ec3fd26f11b2631e81c5db2de.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_15b56378019c177ec3fd26f11b2631e81c5db2de.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_30d6cd01d0b7147021bc08dfc445753a7cc4f606.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_30d6cd01d0b7147021bc08dfc445753a7cc4f606.1920x1080.jpg?t=1793963388"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_8406a10007a2c6aeca051b8abd5ec451586c0c63.600x338.jpg?t=1793963388",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1637320/ss_8406a10007a2c6aeca051b8abd5ec451586c0c63.1920x1080.jpg?t=1793963388"
+    }
+  ],
+  "web": "https://rawfury.com/games/dome-keeper/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 200611,
+  "youtube": [
+    {
+      "id": "Rx4nzvJUjys",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qTnGtmh8eTE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UWYHV4RrXu0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "azE1zlQhevI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:47:43.619Z"
+}

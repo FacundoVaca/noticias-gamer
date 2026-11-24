@@ -1,0 +1,353 @@
+{
+  "clave": "painkiller",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1904-719d-84f8-cabf440b1b25",
+  "appid": "2300120",
+  "lanzamiento": "2025-10-21",
+  "desarrolladores": [
+    "Anshar Studios"
+  ],
+  "editores": [
+    "3D Realms",
+    "Aspyr",
+    "Aspyr Media, Inc.",
+    "Saber Interactive",
+    "Prime Matter"
+  ],
+  "etiquetas": [
+    "Shooter",
+    "Action",
+    "Gore",
+    "Fast-Paced",
+    "FPS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 53,
+      "cantidad": 1154,
+      "url": "https://store.steampowered.com/app/2300120/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 59,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/painkiller/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 36,
+      "cantidad": 54,
+      "url": "https://metacritic.com/game/painkiller/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 60,
+      "cantidad": 72,
+      "url": "https://opencritic.com/game/18946/painkiller"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1319666",
+      "nombre": "Painkiller",
+      "apps": [
+        {
+          "appid": "2300120",
+          "nombre": "Painkiller"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 23.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "1319667",
+      "nombre": "Painkiller: Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2300120",
+          "nombre": "Painkiller"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 29.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "2300120": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "3751380",
+      "nombre": "Painkiller: Demon Awakening Pack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    },
+    {
+      "appid": "3751370",
+      "nombre": "Painkiller: Metal As Hell Pack",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 50
+    },
+    {
+      "appid": "3751400",
+      "nombre": "Painkiller: Season Pass",
+      "gratis": false,
+      "usd": 4.74,
+      "descuento": 50
+    },
+    {
+      "appid": "3751360",
+      "nombre": "Painkiller: Night Watch Pack",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "¡Vuelve la clásica serie Painkiller! Atraviesa el Purgatorio con frenética acción cooperativa y blande armas infernales contra incansables hordas demoníacas. Tras recibir la condena por tus pecados, la Voz del Creador te ofrece la redención. ¿Aceptarás o sucumbirás ante la oscuridad?",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "21 OCT 2025",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Painkiller",
+  "acerca": [
+    [
+      "p",
+      "Painkiller es una reimaginación moderna de la clásica franquicia que incorpora cooperativo online para hasta tres jugadores y la opción de jugar sin conexión. Lucha contra hordas de demonios y temibles titanes en detallados entornos góticos."
+    ],
+    [
+      "p",
+      "Tus transgresiones contra el Cielo te condenan al Purgatorio, pero la Voz del Creador te ofrece la oportunidad de redimirte. Tendrás que unirte a sus otros campeones para detener al ángel caído Azazel, que se prepara para enviar sus ejércitos diabólicos a la Tierra. Lucha contra hordas de enemigos, demonios con poderes singulares y los tres monstruosos hijos de Azazel: los nefilim."
+    ],
+    [
+      "p",
+      "¿Alcanzarás el éxito y con él la salvación?"
+    ],
+    [
+      "p",
+      "Periplo por el Purgatorio: Salta, corre y usa un gancho para atravesar inmensos biomas mientras exterminas a tus enemigos con un arsenal completo de armas, tanto nuevas como clásicas de Painkiller."
+    ],
+    [
+      "p",
+      "Terrores grotescos: Te esperan toda clase de enemigos, desde hordas de demonios menores hasta verdaderos titanes."
+    ],
+    [
+      "p",
+      "Desata el dolor: Usa cartas del tarot para reforzar tus habilidades y combínalas con las de otros jugadores para aniquilar a vuestros enemigos."
+    ],
+    [
+      "p",
+      "Elige tu personaje con cabeza. Juega como uno de cuatro personajes, Ink, Void, Sol o Roch, y aprovecha sus ventajas únicas para potenciar tu energía, salud, poder y daño."
+    ],
+    [
+      "p",
+      "Modo Ángel rebelde: Más allá de la campaña principal espera un nuevo reino del Purgatorio. Forma equipo con tus amigos y luchad para sobrevivir en arenas aleatorias elaboradas a mano."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Alternativas de color",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Opciones de subtítulos",
+    "Steam Cloud",
+    "Estadísticas"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-9400F or AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660 Super or AMD Radeon RX 6600 XT or Intel Arc A750"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400 or AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6750 XT or Intel Arc A770"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/c9b0337111bb3d2950c639e575740dfc1bdb4890/ss_c9b0337111bb3d2950c639e575740dfc1bdb4890.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/c9b0337111bb3d2950c639e575740dfc1bdb4890/ss_c9b0337111bb3d2950c639e575740dfc1bdb4890.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/13c2f84c94f6e59ffd96d70ddce3394eb6150ab3/ss_13c2f84c94f6e59ffd96d70ddce3394eb6150ab3.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/13c2f84c94f6e59ffd96d70ddce3394eb6150ab3/ss_13c2f84c94f6e59ffd96d70ddce3394eb6150ab3.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/f5120a0167227ba62b8ec7d6691d5b7ada29f571/ss_f5120a0167227ba62b8ec7d6691d5b7ada29f571.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/f5120a0167227ba62b8ec7d6691d5b7ada29f571/ss_f5120a0167227ba62b8ec7d6691d5b7ada29f571.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/a223f8941a40e9576b1a86d469604a82fbed8704/ss_a223f8941a40e9576b1a86d469604a82fbed8704.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/a223f8941a40e9576b1a86d469604a82fbed8704/ss_a223f8941a40e9576b1a86d469604a82fbed8704.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/2bcab333867a979c9af66977db5b8cb5436f95bc/ss_2bcab333867a979c9af66977db5b8cb5436f95bc.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/2bcab333867a979c9af66977db5b8cb5436f95bc/ss_2bcab333867a979c9af66977db5b8cb5436f95bc.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/c89013ccc168e86b9ee180cb1f9761effaba526e/ss_c89013ccc168e86b9ee180cb1f9761effaba526e.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/c89013ccc168e86b9ee180cb1f9761effaba526e/ss_c89013ccc168e86b9ee180cb1f9761effaba526e.1920x1080.jpg?t=1790864733"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/0d731a3c38170f4772a09593777f05a358dd207d/ss_0d731a3c38170f4772a09593777f05a358dd207d.600x338.jpg?t=1790864733",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300120/0d731a3c38170f4772a09593777f05a358dd207d/ss_0d731a3c38170f4772a09593777f05a358dd207d.1920x1080.jpg?t=1790864733"
+    }
+  ],
+  "web": "https://saber.games/painkiller/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Lots of fast-paced action, violence and gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152077,
+  "youtube": [
+    {
+      "id": "WDqGyzeXg4I",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "Vy4OAxZN2hw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "16mJESrKo6A",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "airMe3up9Jg",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:47:33.975Z"
+}

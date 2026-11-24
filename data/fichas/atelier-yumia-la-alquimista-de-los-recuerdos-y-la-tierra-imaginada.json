@@ -1,9 +1,9 @@
 {
   "clave": "atelier yumia la alquimista de los recuerdos y la tierra imaginada",
-  "v": 4,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "0191d422-a4ca-7333-a9a3-26ef5495c2d6",
   "appid": "3123410",
@@ -40,7 +40,7 @@
     {
       "fuente": "Metacritic User Score",
       "puntaje": 80,
-      "cantidad": 125,
+      "cantidad": 131,
       "url": "https://metacritic.com/game/atelier-yumia-the-alchemist-of-memories-and-the/user-reviews/?platform=pc"
     },
     {
@@ -51,230 +51,249 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1223897",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "3123410",
+          "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada"
+        }
+      ],
+      "usd": 33.34,
+      "antes": 66.69,
+      "descuento": 50
+    },
+    {
+      "packageid": "1223895",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada",
+      "apps": [
+        {
+          "appid": "3123410",
+          "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada"
+        }
+      ],
+      "usd": 58.29,
+      "antes": 58.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "1223899",
+      "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada Edición Ultimate",
+      "apps": [
+        {
+          "appid": "3123410",
+          "nombre": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada"
+        }
+      ],
+      "usd": 99.99,
+      "antes": 99.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3123410": {
+      "usd": 33.34,
+      "gratis": false
+    }
+  },
   "dlcTotal": 28,
   "dlcLista": [
     {
       "appid": "3284980",
       "nombre": "Atelier Yumia - Vestuario para Yumia «Alquimista en su día libre»",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3284970",
       "nombre": "Atelier Yumia - Vestuario para Yumia: Pack de 3 camisetas",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3285020",
       "nombre": "Atelier Yumia: Marcos y poses de fotos limitados",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3285060",
       "nombre": "Pase de temporada de Atelier Yumia",
       "gratis": false,
-      "precio": "$18.74",
-      "antes": "$37.49",
+      "usd": 18.74,
       "descuento": 50
     },
     {
       "appid": "3569670",
       "nombre": "Atelier Yumia - Mapa adicional: ”Arboleda de Falbra”",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3742640",
       "nombre": "Paquete de colaboración de \"Atelier Yumia\" y la saga \"TEKKEN\"",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3668860",
       "nombre": "Atelier Yumia - Vestuario especial para Yumia en colaboración con Asbel de \"Tales of Graces f Remastered\"",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3931880",
       "nombre": "Atelier Yumia - The Red Alchemist & the White Guardian: Conjunto de vestuario",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3284990",
       "nombre": "Atelier Yumia: Conjunto de mochila",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3569690",
       "nombre": "Atelier Yumia - Paquete de música de fondo de la serie Atelier",
       "gratis": true,
-      "precio": null,
-      "antes": null,
+      "usd": null,
       "descuento": 0
     },
     {
       "appid": "3742630",
       "nombre": "Atelier Yumia - Paquete de expansión de recetas y planos «El arte de Aladiss»",
       "gratis": false,
-      "precio": "$4.10",
-      "antes": null,
+      "usd": 4.1,
       "descuento": 0
     },
     {
       "appid": "3855580",
       "nombre": "Atelier Yumia - Mapa adicional: \"Campo de entrenamiento de Idus\"",
       "gratis": false,
-      "precio": "$4.10",
-      "antes": null,
+      "usd": 4.1,
       "descuento": 0
     },
     {
       "appid": "3855590",
       "nombre": "Atelier Yumia - Mapa adicional: \"Zona de investigación secreta de Aladissia\"",
       "gratis": false,
-      "precio": "$6.50",
-      "antes": null,
+      "usd": 6.5,
       "descuento": 0
     },
     {
       "appid": "3285080",
       "nombre": "Atelier Yumia - Conjunto de ropa de baño",
       "gratis": false,
-      "precio": "$12.49",
-      "antes": null,
+      "usd": 12.49,
       "descuento": 0
     },
     {
       "appid": "3401950",
       "nombre": "Atelier Yumia - Conjunto de ropa de baño para Yumia y Flammi",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3285110",
       "nombre": "Atelier Yumia - Vestuario para Isla «¡Días de playa monísimos!»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3285120",
       "nombre": "Atelier Yumia - Vestuario para Viktor «Bañador de largas distancias de caballero»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3285130",
       "nombre": "Atelier Yumia - Vestuario para Rutger «Criminal de ébano»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3285140",
       "nombre": "Atelier Yumia - Vestuario para Nina «Corazón en flor»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3285150",
       "nombre": "Atelier Yumia - Vestuario para Lenja «Bañador de gatitos adorable»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742620",
       "nombre": "Atelier Yumia: Conjunto de vestuario «Academia de la fantasía»",
       "gratis": false,
-      "precio": "$12.49",
-      "antes": null,
+      "usd": 12.49,
       "descuento": 0
     },
     {
       "appid": "3742610",
       "nombre": "Atelier Yumia - Conjunto de vestuario «Academia de la fantasía» para Yumia y Flammi",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742560",
       "nombre": "Atelier Yumia - Vestuario para Isla «Dama novata»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742570",
       "nombre": "Atelier Yumia - Vestuario para Viktor «Mayordomo ideal»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742580",
       "nombre": "Atelier Yumia - Vestuario para Rutger «Lobo callejero»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742590",
       "nombre": "Atelier Yumia - Vestuario para Nina «Instructora fenomenal»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3742600",
       "nombre": "Atelier Yumia - Vestuario para Lenja «Recuerdos crepusculares»",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     },
     {
       "appid": "3569680",
       "nombre": "Atelier Yumia - Paquete de música de fondo extra de Gust",
       "gratis": false,
-      "precio": "$2.50",
-      "antes": null,
+      "usd": 2.5,
       "descuento": 0
     }
   ],
@@ -286,6 +305,7 @@
   ],
   "lanzamientoTexto": "20 MAR 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "Atelier Yumia: La alquimista de los recuerdos y la tierra imaginada",
   "acerca": [
     [
@@ -431,39 +451,48 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Francés",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Alemán",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Español de España",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Ruso",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino simplificado",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Chino tradicional",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Coreano",
-      "voces": false
+      "voces": false,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -587,5 +616,30 @@
     }
   ],
   "web": "https://atelier.games/yumia/",
-  "consultado": "2026-11-22T22:21:52.415Z"
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 314943,
+  "youtube": [
+    {
+      "id": "dMcg-PDRfzs",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "PPWOgx4Eh4I",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "NmWbq2QdkQ8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TQAqb03xUaY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:49.254Z"
 }

@@ -1,0 +1,335 @@
+{
+  "clave": "rematch pro edition",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01962097-8e9e-7310-ac51-d774070e6c88",
+  "appid": "2138720",
+  "lanzamiento": "2025-06-16",
+  "desarrolladores": [
+    "Sloclap"
+  ],
+  "editores": [
+    "Kepler Interactive",
+    "Sloclap, Kepler Interactive",
+    "Sloclap",
+    "Kepler Interactive Limited"
+  ],
+  "etiquetas": [
+    "Sports",
+    "Football (Soccer)",
+    "Multiplayer",
+    "PvP",
+    "eSports"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 70,
+      "cantidad": 43294,
+      "url": "https://store.steampowered.com/app/2138720/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1271536",
+      "nombre": "REMATCH - Pro Edition",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 19.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "764998",
+      "nombre": "REMATCH",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1271537",
+      "nombre": "REMATCH - Elite Edition",
+      "apps": [
+        {
+          "appid": "2138720",
+          "nombre": "REMATCH"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2138720": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4768770",
+      "nombre": "REMATCH - NV Infrared Bundle",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3743390",
+      "nombre": "REMATCH - Elite Edition Upgrade Pack",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3743380",
+      "nombre": "REMATCH - Pro Edition Upgrade Pack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Controla a un jugador en trepidantes partidos de fútbol online desde una perspectiva inmersiva en tercera persona. Forma equipo con tus amigos en grupos de 3, 4 o 5 jugadores, demuestra tu habilidad y haz que cada jugada cuente.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "19 JUN 2025",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "REMATCH",
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 3400G / Intel Core i5-9400, or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 5500 (4GB) / NVIDIA GeForce RTX 1060 (4GB), or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "DirectX12 Shader Model 5.0 / SSD required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 / Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3700x / Intel Core 11600k or better"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6700 XT (8 GB) / NVIDIA GeForce RTX 3060 TI (8 GB), or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "DirectX12 Shader Model 6.6 / SSD required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/062d2bf899be5093cfd9ceba4a0b99090fde09bb/ss_062d2bf899be5093cfd9ceba4a0b99090fde09bb.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/062d2bf899be5093cfd9ceba4a0b99090fde09bb/ss_062d2bf899be5093cfd9ceba4a0b99090fde09bb.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/194c468d8a97f86f5d8dcc00327cca928e7b0ec9/ss_194c468d8a97f86f5d8dcc00327cca928e7b0ec9.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/194c468d8a97f86f5d8dcc00327cca928e7b0ec9/ss_194c468d8a97f86f5d8dcc00327cca928e7b0ec9.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_c9fb7a8edb33440b80d4f98866e95da4c0afb819.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_c9fb7a8edb33440b80d4f98866e95da4c0afb819.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_bbe8507b799511b9008af67ac5c32115a9765abf.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_bbe8507b799511b9008af67ac5c32115a9765abf.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/5922d43109c170197ba1abd6e51973363c5ee705/ss_5922d43109c170197ba1abd6e51973363c5ee705.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/5922d43109c170197ba1abd6e51973363c5ee705/ss_5922d43109c170197ba1abd6e51973363c5ee705.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/f27b62620af398202c73f3f4990a0e3be34bba4b/ss_f27b62620af398202c73f3f4990a0e3be34bba4b.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/f27b62620af398202c73f3f4990a0e3be34bba4b/ss_f27b62620af398202c73f3f4990a0e3be34bba4b.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_406e8029ffdc787ecd8739694c946dd76c54c100.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/ss_406e8029ffdc787ecd8739694c946dd76c54c100.1920x1080.jpg?t=1792763934"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/1c2f6d9549bc352a52a351cfe77348046f15cf8d/ss_1c2f6d9549bc352a52a351cfe77348046f15cf8d.600x338.jpg?t=1792763934",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/1c2f6d9549bc352a52a351cfe77348046f15cf8d/ss_1c2f6d9549bc352a52a351cfe77348046f15cf8d.1920x1080.jpg?t=1792763934"
+    }
+  ],
+  "web": "https://www.playrematch.com/beta-environment?utm_source=Steam&amp;utm_medium=Beta+link&amp;utm_campaign=Game_Reveal&amp;utm_id=Game+reveal",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 325588,
+  "youtube": [
+    {
+      "id": "mo_RL_K891U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RsItvQSNjLI",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "RZ7UxYqzg0s",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "FxpFiokmI2c",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:30.147Z"
+}

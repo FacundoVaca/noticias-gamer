@@ -1,0 +1,430 @@
+{
+  "clave": "prison architect",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-03bd-71c2-b2ed-2d640f658e89",
+  "appid": "233450",
+  "lanzamiento": "2015-10-05",
+  "desarrolladores": [
+    "Double Eleven / Introversion Software",
+    "Double Eleven",
+    "Introversion Software"
+  ],
+  "editores": [
+    "Paradox Interactive",
+    "Paradox",
+    "Paradox Interactive AB",
+    "Introversion Software"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Building",
+    "Sandbox",
+    "Base Building",
+    "Colony Sim"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 59946,
+      "url": "https://store.steampowered.com/app/233450/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 36,
+      "url": "https://metacritic.com/game/prison-architect/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 420,
+      "url": "https://metacritic.com/game/prison-architect/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 62,
+      "url": "https://opencritic.com/game/1942/prison-architect"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "26394",
+      "nombre": "Prison Architect",
+      "apps": [
+        {
+          "appid": "233450",
+          "nombre": "Prison Architect"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 17.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "1802383",
+      "nombre": "Prison Architect: Starter Edition",
+      "apps": [
+        {
+          "appid": "233450",
+          "nombre": "Prison Architect"
+        },
+        {
+          "appid": "1948120",
+          "nombre": "Prison Architect - Gangs"
+        },
+        {
+          "appid": "1244781",
+          "nombre": "Prison Architect - Island Bound"
+        },
+        {
+          "appid": "1143650",
+          "nombre": "Prison Architect - Psych Ward: Warden's Edition"
+        }
+      ],
+      "usd": 6.12,
+      "antes": 24.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "233450": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "1143650": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1244781": {
+      "usd": 2.99,
+      "gratis": false
+    },
+    "1948120": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 12,
+  "dlcLista": [
+    {
+      "appid": "2237250",
+      "nombre": "Prison Architect - Jungle Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2184800",
+      "nombre": "Prison Architect - Future Tech Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2154010",
+      "nombre": "Prison Architect - Undead",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2085570",
+      "nombre": "Prison Architect - Free For Life",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1948120",
+      "nombre": "Prison Architect - Gangs",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1760030",
+      "nombre": "Prison Architect - Perfect Storm",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1601350",
+      "nombre": "Prison Architect - Second Chances",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1493470",
+      "nombre": "Prison Architect - Going Green",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1244781",
+      "nombre": "Prison Architect - Island Bound",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1244780",
+      "nombre": "Prison Architect - Cleared For Transfer",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1143650",
+      "nombre": "Prison Architect - Psych Ward: Warden's Edition",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1195240",
+      "nombre": "Prison Architect - Aficionado",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Solo los alcaides más despiadados pueden contener a los criminales más peligrosos. Diseña al dedillo tu penitenciaría en Prison Architect.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "6 OCT 2015",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/prison-architect?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Prison Architect",
+  "acerca": [
+    [
+      "p",
+      "¡Bienvenidos, alcaides!"
+    ],
+    [
+      "p",
+      "Solo los alcaides más despiadados pueden contener a los criminales más peligrosos. Diseña al dedillo tu penitenciaría en Prison Architect."
+    ],
+    [
+      "p",
+      "Características clave:"
+    ],
+    [
+      "h",
+      "Diseña a tu antojo"
+    ],
+    [
+      "p",
+      "Distribuye los espacios de la prisión como consideres, pero no limites demasiado a tus reclusos o correrás el riesgo de encontrarte con una inundación, un incendio, una pelea o un motín."
+    ],
+    [
+      "h",
+      "Invierte e innova"
+    ],
+    [
+      "p",
+      "Consigue subvenciones del Gobierno y dirige fondos a combatir enfermedades, bandas criminales, disputas legales y más."
+    ],
+    [
+      "h",
+      "Gestión y fuerza bruta"
+    ],
+    [
+      "p",
+      "Convierte tu prisión en el lugar más seguro a la par que «moralmente correcto» al contratar guardas armados, psicólogos, médicos, abogados y soplones."
+    ],
+    [
+      "h",
+      "Confinamiento personalizado"
+    ],
+    [
+      "p",
+      "Cada prisionero requiere tratamiento personalizado, horarios de trabajo específicos y talleres formativos a medida según su historial delictivo."
+    ],
+    [
+      "h",
+      "Modos para todos los gustos"
+    ],
+    [
+      "p",
+      "Intenta escapar de tu propia prisión de máxima seguridad en el modo Fuga o adéntrate en el modo en línea donde podrás probar una de las 12.000 prisiones creadas por otros jugadores. Expande tu imperio sin límites en el modo Libre."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Incluye editor de niveles",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Processor",
+        "Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher"
+      ],
+      [
+        "Memory",
+        "6 GB RAM"
+      ],
+      [
+        "Graphics",
+        "Nvidia 8600 / Radeon equivalent (2009 era)"
+      ],
+      [
+        "Hard Drive",
+        "400 MB HD space"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_0c13ec061d922fbe8ad518eb58487cff09d3fd40.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_0c13ec061d922fbe8ad518eb58487cff09d3fd40.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_8fd05248e9f657baea9f26d2dbd154573c29b33e.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_8fd05248e9f657baea9f26d2dbd154573c29b33e.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_bc52fdefa87f4dd54f2e0c4268ebf6d3d859d682.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_bc52fdefa87f4dd54f2e0c4268ebf6d3d859d682.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_71a9f3d9bbc42df3ed320f6072353be9dd3b65fd.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_71a9f3d9bbc42df3ed320f6072353be9dd3b65fd.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_b3380ae2e73a41723b9dd377a68a52c327762f4b.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_b3380ae2e73a41723b9dd377a68a52c327762f4b.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9409f165fe4f7b747e16e84f1c557a37c0bccfc1.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_9409f165fe4f7b747e16e84f1c557a37c0bccfc1.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_6e55db68121786b01fd3408efe024901bdded602.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_6e55db68121786b01fd3408efe024901bdded602.1920x1080.jpg?t=1759221867"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e2192114d3722f729b54caf5ca94b9d07ebf7bd8.600x338.jpg?t=1759221867",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233450/ss_e2192114d3722f729b54caf5ca94b9d07ebf7bd8.1920x1080.jpg?t=1759221867"
+    }
+  ],
+  "web": "https://www.prisonarchitect.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "Moderate Violence Sexual Nudity Strong Language",
+  "igdbIntentado": true,
+  "igdb": 1338,
+  "youtube": [
+    {
+      "id": "fBCW8svKOgE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:12.345Z"
+}

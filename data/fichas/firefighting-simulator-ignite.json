@@ -1,0 +1,520 @@
+{
+  "clave": "firefighting simulator ignite",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01958534-450e-724e-94b6-4f2ddb697796",
+  "appid": "1669480",
+  "lanzamiento": "2025-09-09",
+  "desarrolladores": [
+    "weltenbauer. Software Entwicklung GmbH"
+  ],
+  "editores": [
+    "Astragon Entertainment GmbH",
+    "Astragon Entertainment",
+    "weltenbauer. Software Entwicklung GmbH",
+    "Astragon Software GmbH"
+  ],
+  "etiquetas": [
+    "Action",
+    "Simulation",
+    "Realistic",
+    "3D",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 2151,
+      "url": "https://store.steampowered.com/app/1669480/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 16,
+      "url": "https://opencritic.com/game/19240/firefighting-simulator-ignite"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "593596",
+      "nombre": "Firefighting Simulator: Ignite",
+      "apps": [
+        {
+          "appid": "1669480",
+          "nombre": "Firefighting Simulator: Ignite"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 17.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1656126",
+      "nombre": "Firefighting Simulator: Ignite - Vehicle Rescue Edition",
+      "apps": [
+        {
+          "appid": "1669480",
+          "nombre": "Firefighting Simulator: Ignite"
+        },
+        {
+          "appid": "3743340",
+          "nombre": "Firefighting Simulator: Ignite - Motor Vehicle Accident Expansion"
+        }
+      ],
+      "usd": 10.24,
+      "antes": 20.49,
+      "descuento": 50
+    },
+    {
+      "packageid": "1334697",
+      "nombre": "Firefighting Simulator: Ignite - Year 1 Edition",
+      "apps": [
+        {
+          "appid": "1669480",
+          "nombre": "Firefighting Simulator: Ignite"
+        },
+        {
+          "appid": "3743320",
+          "nombre": "Firefighting Simulator: Ignite - Blackout Truck Edition Skins DLC"
+        },
+        {
+          "appid": "3697660",
+          "nombre": "Firefighting Simulator: Ignite - Fire Station Companion Pack"
+        },
+        {
+          "appid": "3743300",
+          "nombre": "Firefighting Simulator: Ignite - Kenworth® Fire Truck Pack"
+        },
+        {
+          "appid": "3544180",
+          "nombre": "Firefighting Simulator: Ignite - Parker's Story DLC"
+        },
+        {
+          "appid": "3544160",
+          "nombre": "Firefighting Simulator: Ignite - Rosenbauer HEROS Titan DLC "
+        },
+        {
+          "appid": "3544170",
+          "nombre": "Firefighting Simulator: Ignite - Summer Camp DLC"
+        },
+        {
+          "appid": "3743330",
+          "nombre": "Firefighting Simulator: Ignite - Turnout Gear Pack #1"
+        },
+        {
+          "appid": "3707380",
+          "nombre": "Firefighting Simulator: Ignite - Year 1 Season Pass"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 25.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1669480": {
+      "usd": 8.99,
+      "gratis": false
+    },
+    "3544160": {
+      "usd": 12.99,
+      "gratis": false
+    },
+    "3544170": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3544180": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3697660": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "3707380": {
+      "usd": 11.99,
+      "gratis": false
+    },
+    "3743300": {
+      "usd": 3.75,
+      "gratis": false
+    },
+    "3743320": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3743330": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3743340": {
+      "usd": 6.84,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "3707380",
+      "nombre": "Firefighting Simulator: Ignite - Year 1 Season Pass",
+      "gratis": false,
+      "usd": 11.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3743340",
+      "nombre": "Firefighting Simulator: Ignite - Motor Vehicle Accident Expansion",
+      "gratis": false,
+      "usd": 6.84,
+      "descuento": 20
+    },
+    {
+      "appid": "3743300",
+      "nombre": "Firefighting Simulator: Ignite - Kenworth® Fire Truck Pack",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 20
+    },
+    {
+      "appid": "3544180",
+      "nombre": "Firefighting Simulator: Ignite - Parker's Story DLC",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3544170",
+      "nombre": "Firefighting Simulator: Ignite - Summer Camp DLC",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3697660",
+      "nombre": "Firefighting Simulator: Ignite - Fire Station Companion Pack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "3544160",
+      "nombre": "Firefighting Simulator: Ignite - Rosenbauer HEROS Titan DLC ",
+      "gratis": false,
+      "usd": 12.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3743320",
+      "nombre": "Firefighting Simulator: Ignite - Blackout Truck Edition Skins DLC",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3743330",
+      "nombre": "Firefighting Simulator: Ignite - Turnout Gear Pack #1",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 20
+    },
+    {
+      "appid": "3743350",
+      "nombre": "Firefighting Simulator: Ignite - Construction Site Mission DLC",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Afronta peligros impredecibles, apaga incendios con tu equipo y salva vidas en Firefighting Simulator: Ignite. Ponte en la piel de un bombero de EE. UU. y juega con hasta 3 amigos o con el equipo de PNJ controlados por IA.",
+  "generos": [
+    "Acción",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "9 SEP 2025",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Firefighting Simulator: Ignite",
+  "acerca": [
+    [
+      "p",
+      "UNIDOS CONTRA EL FUEGO. Afronta peligros impredecibles de frente, apaga incendios con tu equipo y salva vidas en Firefighting Simulator: Ignite. Ponte en la piel de un bombero de EE. UU. en una ciudad en expansión del Medio Oeste del continente, donde cada misión llevará tus habilidades al límite. Vive la adrenalina de la extinción de incendios con una calidad visual asombrosa en un intuitivo modo multijugador cooperativo con 3 amigos o con el equipo de PNJ controlados por IA. La lucha contra las llamas, el calor y el humo, simulados en tiempo real con los avanzados sistemas gráficos y de físicas de Unreal Engine 5, te permitirán sumergirte en la extinción de incendios como nunca antes lo habías hecho."
+    ],
+    [
+      "p",
+      "A lo largo de tu carrera, deberás hacer frente a varias situaciones complicadas, como civiles atrapados, incendios eléctricos, líquidos inflamables, incendios provocados por aceite, deflagraciones, combustiones súbitas y explosiones. Equípate con herramientas auténticas para la tarea, como mangueras, sierras, barras Halligan, hachas o extintores, y aprovecha los vehículos de bomberos y los camiones con escaleras fielmente recreados. Usa la lógica y emplea métodos precisos para apagar las llamas. En cada misión se deberán aplicar estrategias reales de extinción de incendios, como ventilar para reducir la propagación del fuego, enfriar objetos sobrecalentados, usar la sierra con los obstáculos, reducir las corrientes de aire y seleccionar el agente extintor adecuado. Mantente siempre alerta a las señales que indican un peligro inminente, como el humo impenetrable que se abre paso a través de puertas cerradas, lo que puede resultar en una auténtica catástrofe."
+    ],
+    [
+      "p",
+      "Pero no te preocupes, aprenderás cómo extinguir llamas y cómo usar adecuadamente las herramientas en el parque de bomberos, una especie de cuartel general durante tus operaciones de emergencia. Relájate entre misiones, observa bien la enorme flota de vehículos, entre los que se incluyen camiones Rosenbauer fielmente recreados, y escoge tu próximo encargo."
+    ],
+    [
+      "p",
+      "Cuando salte la alarma, coge la ruta más rápida y llega cuanto antes a la escena para luchar contra las llamas y salvar vidas juntos."
+    ],
+    [
+      "p",
+      "HÉROE DEL DÍA A DÍA: ponte en la piel de un bombero de EE. UU."
+    ],
+    [
+      "p",
+      "QUE ARDA TU PASIÓN: afronta peligrosos incendios en el modo multijugador y en solitario"
+    ],
+    [
+      "p",
+      "EN EQUIPO: modo cooperativo con hasta 4 personas"
+    ],
+    [
+      "p",
+      "UNIDOS CONTRA EL FUEGO: trabaja junto al equipo de PNJ en el modo Un jugador"
+    ],
+    [
+      "p",
+      "AUTENTICIDAD: equipos de las principales marcas de EE. UU. para la extinción de incendios como HAIX®, Fire-Dex y STIHL"
+    ],
+    [
+      "p",
+      "RESPUESTA RÁPIDA: conduce camiones de bomberos Rosenbauer America con licencia, reproducidos con detalle, como el TP3® Pumper, Viper®, 68' Roadrunner y más"
+    ],
+    [
+      "p",
+      "TU CARRERA: elige entre 8 personajes y diferentes atuendos"
+    ],
+    [
+      "p",
+      "PARQUE DE BOMBEROS: el lugar donde aprender técnicas y escoger la próxima misión de emergencia"
+    ],
+    [
+      "p",
+      "SIMULACIÓN: simulaciones de fuego, calor, agua y humo realistas gracias a las físicas de Unreal Engine 5"
+    ],
+    [
+      "p",
+      "MODS PARA PC: crea mods de misiones, compártelos y juégalos en Mod io"
+    ],
+    [
+      "p",
+      "MODS PARA CONSOLA: descarga y juega a los nuevos mods de misiones en Mod io"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD - Ryzen 5 3700 / Intel - Core i7 - 9700"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8GB VRAM: NVIDIA -RTX 2060 Super / AMD - RX 5700-XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD - Ryzen 7 5700X / Intel - Core i7 12700k"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 3070 12GB (8GB) / RX 6800 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "45 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/3a8fe6e013d34bf9294402b5b526532d81ee66cc/ss_3a8fe6e013d34bf9294402b5b526532d81ee66cc.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/3a8fe6e013d34bf9294402b5b526532d81ee66cc/ss_3a8fe6e013d34bf9294402b5b526532d81ee66cc.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/56fc9c715514aac7039fd5a3fb5c653cb72208a0/ss_56fc9c715514aac7039fd5a3fb5c653cb72208a0.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/56fc9c715514aac7039fd5a3fb5c653cb72208a0/ss_56fc9c715514aac7039fd5a3fb5c653cb72208a0.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/760c40f0e283433346fbc4f1bbd04f630ebf9a0d/ss_760c40f0e283433346fbc4f1bbd04f630ebf9a0d.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/760c40f0e283433346fbc4f1bbd04f630ebf9a0d/ss_760c40f0e283433346fbc4f1bbd04f630ebf9a0d.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/57f85c24f4b6c125324b46dc5f45d769d65bc06e/ss_57f85c24f4b6c125324b46dc5f45d769d65bc06e.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/57f85c24f4b6c125324b46dc5f45d769d65bc06e/ss_57f85c24f4b6c125324b46dc5f45d769d65bc06e.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/1d81fe8a5a54920f506605dca7a4feb4a3d12998/ss_1d81fe8a5a54920f506605dca7a4feb4a3d12998.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/1d81fe8a5a54920f506605dca7a4feb4a3d12998/ss_1d81fe8a5a54920f506605dca7a4feb4a3d12998.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/ed848bf86304a9ba03739a676243b158525f5a2d/ss_ed848bf86304a9ba03739a676243b158525f5a2d.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/ed848bf86304a9ba03739a676243b158525f5a2d/ss_ed848bf86304a9ba03739a676243b158525f5a2d.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/8e8c6af804452312c19d5f4163a9fbcf7e6940e3/ss_8e8c6af804452312c19d5f4163a9fbcf7e6940e3.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/8e8c6af804452312c19d5f4163a9fbcf7e6940e3/ss_8e8c6af804452312c19d5f4163a9fbcf7e6940e3.1920x1080.jpg?t=1794473036"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/a68bbdfc549b68a1ec8c4447fe242ce809b72aed/ss_a68bbdfc549b68a1ec8c4447fe242ce809b72aed.600x338.jpg?t=1794473036",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669480/a68bbdfc549b68a1ec8c4447fe242ce809b72aed/ss_a68bbdfc549b68a1ec8c4447fe242ce809b72aed.1920x1080.jpg?t=1794473036"
+    }
+  ],
+  "web": "https://www.firefighting-simulator.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 335254,
+  "youtube": [
+    {
+      "id": "LJwXnYtQ4V8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "RgoSA4Of6KU",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "VDyQythjWMU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "U2o6pEeHUTw",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:47:55.441Z"
+}

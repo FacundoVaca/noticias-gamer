@@ -1,6 +1,5 @@
 {
   "clave": "the legend of heroes trails through daybreak ii",
-  "v": 5,
   "fuentes": [
     "IsThereAnyDeal",
     "Steam",
@@ -54,6 +53,27 @@
     }
   ],
   "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1220857",
+      "nombre": "The Legend of Heroes: Trails through Daybreak II",
+      "apps": [
+        {
+          "appid": "2668430",
+          "nombre": "The Legend of Heroes: Trails through Daybreak II"
+        }
+      ],
+      "usd": 29.24,
+      "antes": 44.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2668430": {
+      "usd": 29.24,
+      "gratis": false
+    }
+  },
   "dlcTotal": 10,
   "dlcLista": [
     {
@@ -135,6 +155,7 @@
   ],
   "lanzamientoTexto": "14 FEB 2025",
   "metacritic": null,
+  "steamDeck": "Jugable",
   "nombreSteam": "The Legend of Heroes: Trails through Daybreak II",
   "acerca": [
     [
@@ -257,11 +278,13 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     },
     {
       "nombre": "Japonés",
-      "voces": true
+      "voces": true,
+      "subtitulos": true
     }
   ],
   "requisitos": {
@@ -368,6 +391,12 @@
       "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668430/ss_fb5cecb79b94879402e4e563b3853e15a63b7b96.1920x1080.jpg?t=1793665316"
     }
   ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "Rare occurrences of violence against bound hostages. Discrimination against fictional minorities. Usage of Fantasy Drugs. Insinuation of child prostitution. Depiction of Suicide",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
   "igdb": 185864,
   "youtube": [
@@ -388,5 +417,6 @@
       "nombre": "Game Intro"
     }
   ],
-  "consultado": "2026-11-22T22:35:36.234Z"
+  "v": 7,
+  "consultado": "2026-11-24T09:48:53.782Z"
 }

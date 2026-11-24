@@ -1,0 +1,353 @@
+{
+  "clave": "stellaris galactic paragons",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6cf6-7009-81e5-51a3d57ac043",
+  "appid": "2380030",
+  "lanzamiento": "2023-05-09",
+  "desarrolladores": [
+    "Paradox",
+    "Paradox Development Studio, Paradox Arctic",
+    "Paradox Development Studio",
+    "Paradox Arctic"
+  ],
+  "editores": [
+    "Paradox Interactive",
+    "Paradox",
+    "Paradox Development Studio"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "Simulation",
+    "Space",
+    "Grand Strategy",
+    "RTS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 57,
+      "cantidad": 948,
+      "url": "https://store.steampowered.com/app/2380030/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "281990",
+    "nombre": "Stellaris"
+  },
+  "ediciones": [
+    {
+      "packageid": "856101",
+      "nombre": "Stellaris: Galactic Paragons",
+      "apps": [
+        {
+          "appid": "2380030",
+          "nombre": "Stellaris: Galactic Paragons"
+        }
+      ],
+      "usd": 5.24,
+      "antes": 10.49,
+      "descuento": 50
+    },
+    {
+      "packageid": "1583399",
+      "nombre": "Stellaris: Anniversary Edition",
+      "apps": [
+        {
+          "appid": "281990",
+          "nombre": "Stellaris"
+        },
+        {
+          "appid": "1749080",
+          "nombre": "Stellaris: Aquatics Species Pack"
+        },
+        {
+          "appid": "2380030",
+          "nombre": "Stellaris: Galactic Paragons"
+        },
+        {
+          "appid": "518910",
+          "nombre": "Stellaris: Leviathans Story Pack"
+        }
+      ],
+      "usd": 12.59,
+      "antes": 41.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "281990": {
+      "usd": 10.49,
+      "gratis": false
+    },
+    "518910": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1749080": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "2380030": {
+      "usd": 5.24,
+      "gratis": false
+    }
+  },
+  "descripcion": "Suma Galactic Paragons a tus imperios y experimenta un nuevo nivel de personajes e historia mientras los líderes te siguen a las estrellas. Con incorporaciones exclusivas a la nueva mecánica de consejo, líderes que puedes modelar para ampliar la visión de tu imperio, nuevos principios y más.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "9 MAY 2023",
+  "metacritic": null,
+  "nombreSteam": "Stellaris: Galactic Paragons",
+  "acerca": [
+    [
+      "p",
+      "¡El Consejo galáctico es amplio y está lleno de personalidad! Suma Galactic Paragons a tus imperios y experimenta un nuevo nivel de personajes e historia mientras los grandes líderes ocupan puestos de poder y te siguen a las estrellas. Con incorporaciones exclusivas a la nueva mecánica de consejos, líderes que puedes modelar para ampliar la visión de tu imperio, nuevos principios y mucho más, Galactic Paragons dará forma al futuro de una manera nunca vista antes en la galaxia."
+    ],
+    [
+      "p",
+      "Características de Galactic Paragons*:"
+    ],
+    [
+      "p",
+      "NUEVA MECÁNICA DE CONSEJO"
+    ],
+    [
+      "p",
+      "Asigna líderes a puestos fundamentales y establece objetivos para dirigir tu imperio como mejor te parezca. En Galactic Paragons, hay docenas de puestos exclusivos del consejo basados en tus principios y tipos de gobierno. ¡Además, irás desbloqueando más puestos a medida que evolucione tu imperio!"
+    ],
+    [
+      "p",
+      "NUEVOS LÍDERES DINÁMICOS"
+    ],
+    [
+      "p",
+      "¡Recluta, mejora y sigue a los líderes de tu imperio a lo largo de los siglos! Para moldearlos, puedes elegir sus rasgos, seleccionar su clase Veterano y guiarlos hacia su destino hasta que se jubilen... ¡o mueran!"
+    ],
+    [
+      "p",
+      "CONOCE A HÉROES GALÁCTICOS"
+    ],
+    [
+      "p",
+      "Atrae a paragones de renombre a tu consejo: líderes únicos con su propio arte, eventos e historias pueden unirse a tu imperio y aportar sus propios beneficios a tu gobierno. ¡O bien descubre cuatro paragones de leyenda con intrincadas cadenas de sucesos y mecánicas exclusivas!"
+    ],
+    [
+      "p",
+      "NUEVAS TRADICIONES, PRINCIPIOS Y MÁS"
+    ],
+    [
+      "p",
+      "Nuevo origen \"\"Solo un gobierno\"\" que cuenta la historia del líder que fundó tu imperio."
+    ],
+    [
+      "p",
+      "Ocho nuevos principios centrados en el liderazgo, desde la inmortalización de las personalidades de los líderes del pasado en archivos digitales hasta la selección de un consejo altamente optimizado mediante un sistema de capacidades corporativo."
+    ],
+    [
+      "p",
+      "12 nuevas clases Veterano."
+    ],
+    [
+      "p",
+      "Cientos de nuevos rasgos de líder."
+    ],
+    [
+      "p",
+      "Dos nuevos árboles de tradiciones que proporcionan a los jugadores nuevos edictos y líderes mejorados."
+    ],
+    [
+      "p",
+      "Nuevas naves, arte y contenido de historia."
+    ],
+    [
+      "p",
+      "*Es posible que algunas características requieran contenido a la venta por separado."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Multijugador multiplataforma",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows® 7 SP1 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i3-530 or AMD® FX-6350"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 460 / AMD® ATI Radeon™ HD 5870 (1GB VRAM) / AMD® Radeon™ RX Vega 11 / Intel® HD Graphics 4600"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X 9.0c- compatible sound card"
+      ],
+      [
+        "Notas adicionales",
+        "Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-3570K / AMD® Ryzen™ 5 2400G"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 560 Ti (1GB VRAM) / AMD® Radeon™ R7 370 (2GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Direct X 9.0c- compatible sound card"
+      ],
+      [
+        "Notas adicionales",
+        "Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_f0dc5b8af9d9af2d67600883c72f7200348821c0.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_f0dc5b8af9d9af2d67600883c72f7200348821c0.1920x1080.jpg?t=1716896696"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_d23181aeede50514e57cfecd11cceb6097ab003d.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_d23181aeede50514e57cfecd11cceb6097ab003d.1920x1080.jpg?t=1716896696"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_e5718410285723398663bc26a39722b97b14131b.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_e5718410285723398663bc26a39722b97b14131b.1920x1080.jpg?t=1716896696"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_202ac66ab993987543a674ee2d793da3d1e437e7.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_202ac66ab993987543a674ee2d793da3d1e437e7.1920x1080.jpg?t=1716896696"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_2f634d3bf66ad295856babcb8ffd85a277340b65.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_2f634d3bf66ad295856babcb8ffd85a277340b65.1920x1080.jpg?t=1716896696"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_118bf59d763ef6eec0476ea7df7af4e3eecc3906.600x338.jpg?t=1716896696",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380030/ss_118bf59d763ef6eec0476ea7df7af4e3eecc3906.1920x1080.jpg?t=1716896696"
+    }
+  ],
+  "web": "https://www.stellaris.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 247264,
+  "youtube": [
+    {
+      "id": "2laOf0_gbzs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:42.742Z"
+}

@@ -1,0 +1,284 @@
+{
+  "clave": "roboquest vr",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01946075-3465-733a-a8e5-6c4b987fe227",
+  "appid": "3151760",
+  "lanzamiento": "2025-11-20",
+  "desarrolladores": [
+    "RyseUp Studios",
+    "Flat2VR Studios"
+  ],
+  "editores": [
+    "Flat2VR Studios",
+    "Impact Inked"
+  ],
+  "etiquetas": [
+    "Action",
+    "VR",
+    "Roguelike",
+    "Robots",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 411,
+      "url": "https://store.steampowered.com/app/3151760/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1118729",
+      "nombre": "RoboQuest VR",
+      "apps": [
+        {
+          "appid": "3151760",
+          "nombre": "Roboquest VR"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3151760": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "The future is in flames, overrun by ruthless machines—but you’re built to fight back. Roboquest VR is a lightning-fast roguelite FPS where speed, firepower, and reflexes are your best weapons. Adapt, survive, and reboot the future!",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "20 NOV 2025",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Roboquest VR",
+  "acerca": [
+    [
+      "h",
+      "Strap In, Guardian: The Acclaimed Hyper-Speed Roguelite Explodes into VR!"
+    ],
+    [
+      "p",
+      "The \"Overwhelmingly Positive\" rated flatscreen roguelite is here, specially rebuilt for VR, Roboquest VR delivers the fastest, most fluid, and deepest roguelite FPS in VR, period."
+    ],
+    [
+      "h",
+      "TOP FEATURES:"
+    ],
+    [
+      "p",
+      "⚡ BLISTERING HYPER-MOBILITY"
+    ],
+    [
+      "p",
+      "🔫 INSANE ARSENAL & TACTILE COMBAT"
+    ],
+    [
+      "p",
+      "🛠️ DEEP ROGUELITE CUSTOMIZATION"
+    ],
+    [
+      "p",
+      "♾️ ENDLESS CHAOS"
+    ],
+    [
+      "p",
+      "💥 VIBRANT CEL-SHADED APOCALYPSE"
+    ],
+    [
+      "p",
+      "🤝 2-PLAYER \"BROBOT\" CO-OP"
+    ],
+    [
+      "h",
+      "The World is Broken. Time to Reboot It."
+    ],
+    [
+      "p",
+      "Step into the metallic boots of a rebooted Guardian and dive headfirst into a fast-paced, roguelite FPS experience like no other. With intuitive VR controls, you'll feel every shot, every dodge, and every exhilarating moment as you battle hordes of robots. Team up with a brobot and save the world!"
+    ],
+    [
+      "p",
+      "Feel the most kinetic combat available in a headset as you sprint, slide, and grind across scorched canyons and futuristic cities."
+    ],
+    [
+      "p",
+      "Total Immersion: Physically weave through bullet hell, dodge incoming plasma fire with your own body, and return the favor with pinpoint precision."
+    ],
+    [
+      "p",
+      "Fluid, High-Octane Action: The movement is buttery-smooth, the combat is explosive, and the action never stops."
+    ],
+    [
+      "p",
+      "Unleash an Insane Arsenal"
+    ],
+    [
+      "p",
+      "Your fingertips are the trigger. Every run is a new experiment in devastation."
+    ],
+    [
+      "p",
+      "Visceral Firepower: Feel the kick of high-powered shotguns, physically draw back a high-tension bow, or shred bots up close with razor-sharp melee weapons."
+    ],
+    [
+      "p",
+      "Master Your Tools: Utilize interactive weapon handling and manual reloading to stay in the fight. Mix and match your loadout and turn the robotic legion into molten slag."
+    ],
+    [
+      "p",
+      "The Chaos Never Repeats"
+    ],
+    [
+      "p",
+      "Blast through levels that shift and evolve with dynamically generated enemy encounters. The bots adapt, and so must you. Discover hidden secrets, face down colossal bosses, and uncover the mysteries of a long-forgotten civilization."
+    ],
+    [
+      "p",
+      "Are you fast enough, Guardian?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Detección de mov. en mando",
+    "Solo para RV",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA 1660 or equivalent"
+      ],
+      [
+        "Compatibilidad con RV",
+        "OpenXR. Meta Quest Touch / Valve Index controllers or better."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA 3070 or equivalent"
+      ],
+      [
+        "Compatibilidad con RV",
+        "OpenXR. Meta Quest Touch / Valve Index controllers or better."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018/ss_82e6d07f16fdb0d8dcfec4ba0a4ed93b8fe5f018.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_8546af5760864462a5b3630f35b93c9df3b30210.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_8546af5760864462a5b3630f35b93c9df3b30210.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/b2cddc8427a5299777e9de9b2b745783ef4bad43/ss_b2cddc8427a5299777e9de9b2b745783ef4bad43.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/b2cddc8427a5299777e9de9b2b745783ef4bad43/ss_b2cddc8427a5299777e9de9b2b745783ef4bad43.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/28086a3be6923e44925657e44c7158c4dc9f8514/ss_28086a3be6923e44925657e44c7158c4dc9f8514.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/28086a3be6923e44925657e44c7158c4dc9f8514/ss_28086a3be6923e44925657e44c7158c4dc9f8514.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_dd1004d7033c851fef9c1ac7f6efa6512be1b19e.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_dd1004d7033c851fef9c1ac7f6efa6512be1b19e.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0/ss_4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0/ss_4dbbd27ccc0dec6b411995d4abe5e5691a5d3ac0.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_f9c1f926373156065035fab399e714924ea66a7f.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/ss_f9c1f926373156065035fab399e714924ea66a7f.1920x1080.jpg?t=1793309881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/e1b97e36513324b2ea1c4aa12badeda73db2c825/ss_e1b97e36513324b2ea1c4aa12badeda73db2c825.600x338.jpg?t=1793309881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3151760/e1b97e36513324b2ea1c4aa12badeda73db2c825/ss_e1b97e36513324b2ea1c4aa12badeda73db2c825.1920x1080.jpg?t=1793309881"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 313774,
+  "youtube": [
+    {
+      "id": "Yc472a61Ikc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "v13eqq7HflI",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "04qVhpz8RPQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:17.229Z"
+}

@@ -1,0 +1,298 @@
+{
+  "clave": "team sonic racing",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2428-735c-80f0-55d242f3872a",
+  "appid": "785260",
+  "lanzamiento": "2019-05-21",
+  "desarrolladores": [
+    "Sumo Digital"
+  ],
+  "editores": [
+    "SEGA",
+    "Sumo Digital"
+  ],
+  "etiquetas": [
+    "Racing",
+    "Multiplayer",
+    "Great Soundtrack",
+    "Team-Based",
+    "Co-op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 73,
+      "cantidad": 2761,
+      "url": "https://store.steampowered.com/app/785260/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 383,
+      "url": "https://metacritic.com/game/team-sonic-racing/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 122,
+      "url": "https://opencritic.com/game/7124/team-sonic-racing"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "237047",
+      "nombre": "Team Sonic Racing™",
+      "apps": [
+        {
+          "appid": "785260",
+          "nombre": "Team Sonic Racing™"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 39.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "785260": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Team Sonic Racing combina lo mejor de los juegos para recreativas y los juegos de carreras competitivos y te permite enfrentarte a tus amigos en espectaculares carreras multijugador.",
+  "generos": [
+    "Carreras"
+  ],
+  "lanzamientoTexto": "21 MAY 2019",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Team Sonic Racing™",
+  "acerca": [
+    [
+      "p",
+      "Team Sonic Racing combina lo mejor de los juegos para recreativas y los juegos de carreras competitivos y te permite enfrentarte a tus amigos en espectaculares carreras multijugador. Corred juntos como un equipo compartiendo potenciadores y turbos. Elige tu propio estilo de carrera seleccionando entre tres tipos distintos de personaje y desbloquea piezas con las que podrás personalizar tu vehículo para adaptarlo a tu estilo y cambiar el curso de la competición."
+    ],
+    [
+      "p",
+      "Prepárate. Y a correr. ¡Corre con tu equipo a todo trapo!"
+    ],
+    [
+      "h",
+      "Características principales:"
+    ],
+    [
+      "li",
+      "Modos multijugador y cooperativo local. 12 jugadores por carrera, pantalla partida para 4 jugadores y varios modos de juego en línea y sin conexión, entre los que se incluyen los modos Gran Premio, Exhibición, Contrarreloj y Aventuras en equipo."
+    ],
+    [
+      "li",
+      "Carreras en equipo. Corre en equipo y vence en equipo. Usa distintas jugadas de equipo para ayudar a tus compañeros, chocar contra tus oponentes y activar tu megaturbo."
+    ],
+    [
+      "li",
+      "Personalización de apariencias y rendimiento. Altera la imagen y la conducción de tu vehículo."
+    ],
+    [
+      "li",
+      "Wisps. 14 objetos espectaculares tanto de ataque como de defensa con los que podrás vencer a tus rivales ¡y hacerte con la victoria!"
+    ],
+    [
+      "li",
+      "Modo aventura. Una historia única en la que los jugadores aprenderán las bases del juego y conocerán a sus personajes."
+    ],
+    [
+      "li",
+      "Varios tipos de personajes. 15 personajes del universo de Sonic con los que podrás jugar. Estos serán de 3 tipos distintos: velocidad, técnica y potencia."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64 Bit or newer"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 4130T (2.9GHz) / AMD FX 6300 (3.5 GHz)"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 770 (2GB) / AMD Radeon HD 7870 (2GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 64 Bit or newer"
+      ],
+      [
+        "Procesador",
+        "Intel i5 – 8600K (3.6 GHz) / AMD Ryzen 5 1600X (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 970 (4GB) / AMD Radeon RX 570 (4GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Microsoft no longer supports Windows 10 or older versions."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_42298bd9b434f85f276cb6be9286f68eabc6167c.600x338.jpg?t=1762752407",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_42298bd9b434f85f276cb6be9286f68eabc6167c.1920x1080.jpg?t=1762752407"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_2716aeff5ebc5a63af4116f3e2d30177fe667322.600x338.jpg?t=1762752407",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_2716aeff5ebc5a63af4116f3e2d30177fe667322.1920x1080.jpg?t=1762752407"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_4904445d5aa0583af0eb7deb291b7d0bd38453f2.600x338.jpg?t=1762752407",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_4904445d5aa0583af0eb7deb291b7d0bd38453f2.1920x1080.jpg?t=1762752407"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_74fb74ae48ae3a8168c629b55901fcc3365af714.600x338.jpg?t=1762752407",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_74fb74ae48ae3a8168c629b55901fcc3365af714.1920x1080.jpg?t=1762752407"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_b63b50210d26ec31bc4f04921627a243bec191f3.600x338.jpg?t=1762752407",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/ss_b63b50210d26ec31bc4f04921627a243bec191f3.1920x1080.jpg?t=1762752407"
+    }
+  ],
+  "web": "http://www.teamsonicracing.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 103018,
+  "youtube": [
+    {
+      "id": "xyuunXb4gCc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "m7OjPRW1jUs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "e-YAs4-a45U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "765jJE7HjUA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T09:48:36.321Z"
+}
