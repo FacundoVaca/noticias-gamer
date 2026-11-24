@@ -1,0 +1,504 @@
+{
+  "clave": "planet zoo",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0191-73dd-95c3-ca3fec878ba8",
+  "appid": "703080",
+  "lanzamiento": "2019-11-04",
+  "desarrolladores": [
+    "Frontier Developments"
+  ],
+  "editores": [
+    "Frontier Developments"
+  ],
+  "etiquetas": [
+    "Management",
+    "Zoo",
+    "Simulation",
+    "Building",
+    "Sandbox"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 81764,
+      "url": "https://store.steampowered.com/app/703080/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 55,
+      "url": "https://metacritic.com/game/planet-zoo/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 266,
+      "url": "https://metacritic.com/game/planet-zoo/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 67,
+      "url": "https://opencritic.com/game/7900/planet-zoo"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "368826",
+      "nombre": "Planet Zoo Deluxe Edition",
+      "apps": [
+        {
+          "appid": "703080",
+          "nombre": "Planet Zoo"
+        }
+      ],
+      "usd": 7.79,
+      "antes": 25.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "202709",
+      "nombre": "Planet Zoo",
+      "apps": [
+        {
+          "appid": "703080",
+          "nombre": "Planet Zoo"
+        }
+      ],
+      "usd": 20.99,
+      "antes": 20.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "703080": {
+      "usd": 7.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 22,
+  "dlcLista": [
+    {
+      "appid": "3586990",
+      "nombre": "Planet Zoo: Asia Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3473820",
+      "nombre": "Planet Zoo: Americas Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3146420",
+      "nombre": "Planet Zoo: Zookeepers Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2837730",
+      "nombre": "Planet Zoo: Barnyard Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2675740",
+      "nombre": "Planet Zoo: Eurasia Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2502240",
+      "nombre": "Planet Zoo: Oceania Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2436600",
+      "nombre": "Planet Zoo: Arid Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2346830",
+      "nombre": "Planet Zoo: Tropical Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2199210",
+      "nombre": "Planet Zoo: Grasslands Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2150050",
+      "nombre": "Planet Zoo: Twilight Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2013290",
+      "nombre": "Planet Zoo: Conservation Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1934140",
+      "nombre": "Planet Zoo: Wetlands Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1726150",
+      "nombre": "Planet Zoo: Europe Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1747960",
+      "nombre": "Planet Zoo: North America Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1647620",
+      "nombre": "Planet Zoo: Africa Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1567110",
+      "nombre": "Planet Zoo: Southeast Asia Animal Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1471590",
+      "nombre": "Planet Zoo: Aquatic Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1349400",
+      "nombre": "Planet Zoo: Australia Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1238440",
+      "nombre": "Planet Zoo: South America Pack ",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1196770",
+      "nombre": "Planet Zoo: Arctic Pack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "1098120",
+      "nombre": "Planet Zoo: Deluxe Upgrade Pack",
+      "gratis": false,
+      "usd": 6.59,
+      "descuento": 0
+    },
+    {
+      "appid": "1383610",
+      "nombre": "You, me & Other Animals: The music of Planet Zoo",
+      "gratis": false,
+      "usd": 6.59,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Crea un mundo de vida salvaje en Planet Zoo. De los desarrolladores de Planet Coaster y Zoo Tycoon, llega el simulador de zoológicos definitivo. Construye detallados hábitats, gestiona tu zoo y conoce auténticos animales vivos que observan, sienten y exploran el mundo que tú generes a su alrededor.",
+  "generos": [
+    "Casual",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "5 NOV 2019",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/planet-zoo?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Planet Zoo",
+  "acerca": [
+    [
+      "p",
+      "Crea un mundo de vida salvaje en Planet Zoo. De los desarrolladores de Planet Coaster y Zoo Tycoon, llega el simulador de zoológicos definitivo, con auténticos animales vivos que observan, sienten y exploran el mundo que tú generes a su alrededor. Vive una campaña por todo el mundo o deja volar tu imaginación con la libertad del modo Creación. Crea hábitats únicos y paisajes descomunales, toma decisiones importantes e influyentes, y cría tus animales durante la construcción y gestión de los zoológicos más salvajes del mundo."
+    ],
+    [
+      "h",
+      "SIMULACIÓN A LO SALVAJE"
+    ],
+    [
+      "p",
+      "Descubre un mundo de animales increíbles. Desde los traviesos cachorros de león hasta los imponentes elefantes, cada animal de Planet Zoo es un individuo inteligente y sensible con una apariencia característica y personalidad propia. Diseña hábitats con todo lujo de detalles para que tus animales se sientan como en casa, investiga y administra cada especie para impulsar su desarrollo, y ayuda a que tus animales formen familias para que transmitan sus genes a futuras generaciones."
+    ],
+    [
+      "h",
+      "GESTIÓN SIGNIFICATIVA"
+    ],
+    [
+      "p",
+      "Administra un impresionante mundo vivo que responde a cada decisión que tomes. Céntrate en los aspectos generales o implícate y controla hasta el más mínimo detalle. Emociona a tus visitantes con animales emblemáticos, desarrolla tu zoológico con nuevas investigaciones y devuelve a las futuras generaciones de tus animales a la naturaleza. Tus decisiones cobran vida en un mundo en el que lo primordial es el bienestar y la conservación de los animales."
+    ],
+    [
+      "h",
+      "CREATIVIDAD SIN LÍMITES"
+    ],
+    [
+      "p",
+      "Las potentes herramientas de construcción pieza a pieza de Planet Zoo te permiten darle un toque único a tu zoológico con facilidad. Cada decisión creativa que tomes influye en las vidas de tus animales y la experiencia de tus visitantes. Deja volar tu imaginación mientras cavas lagos y ríos, levantas colinas y montañas, labras senderos y cuevas, y erige deslumbrantes zoológicos con una serie de temáticas únicas y cientos de componentes de construcción."
+    ],
+    [
+      "h",
+      "COMPARTE E INSPIRA"
+    ],
+    [
+      "p",
+      "Únete a una comunidad conectada y comparte los hábitats, y paisajes más creativos del mundo, e incluso zoos enteros en Steam Workshop. Comprueba cómo tus propios diseños aparecen en zoológicos de todo el mundo o descubre cada día nuevos contenidos de la comunidad de Planet Zoo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 (SP1+)/8.1/10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5-2500 / AMD FX-6350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 770 (2GB) / AMD Radeon R9 270X (2GB)"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Minimum specifications may change during development"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7-4770k / AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070 (8GB) or AMD Radeon RX 580 (8GB)"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_fac76f23b1b655dd0459db1a443bc8adb02e4279.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_fac76f23b1b655dd0459db1a443bc8adb02e4279.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_275f9a046ba89aa45944a940b4a5c1baaf50c81e.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_275f9a046ba89aa45944a940b4a5c1baaf50c81e.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_6a247086e998d16983a109f2ab9567b16ddd6ec1.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_6a247086e998d16983a109f2ab9567b16ddd6ec1.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_37ad5481dcb9ba88f42ef718d0a98450a878ec34.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_37ad5481dcb9ba88f42ef718d0a98450a878ec34.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_c57319ad1fcc446a6a241b279a8477f7b741cd76.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_c57319ad1fcc446a6a241b279a8477f7b741cd76.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_80cb8f59aed7f52334556b26632dad78b3f3cdba.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_80cb8f59aed7f52334556b26632dad78b3f3cdba.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_41bb0f354ae0223c82d0c35116c1f4dbb0236333.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_41bb0f354ae0223c82d0c35116c1f4dbb0236333.1920x1080.jpg?t=1765896213"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_b63dffff1cd4a46f08f9cbccac81265336bbd852.600x338.jpg?t=1765896213",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/ss_b63dffff1cd4a46f08f9cbccac81265336bbd852.1920x1080.jpg?t=1765896213"
+    }
+  ],
+  "web": "https://www.planetzoogame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 117717,
+  "youtube": [
+    {
+      "id": "U0dKVohY8p0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wyMAUjcRvr8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T21:47:31.320Z"
+}

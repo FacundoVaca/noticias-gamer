@@ -1,0 +1,358 @@
+{
+  "clave": "guild wars reforged",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-15a7-726d-811e-1ac3417b0ecc",
+  "appid": "29720",
+  "lanzamiento": "2025-12-02",
+  "desarrolladores": [
+    "ArenaNet",
+    "ArenaNet®"
+  ],
+  "editores": [
+    "ArenaNet",
+    "NCSOFT",
+    "ArenaNet®",
+    "ArenaNet, LLC",
+    "ArenaNet LLC"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "MMORPG",
+    "Fantasy",
+    "Action",
+    "Choose Your Own Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 3411,
+      "url": "https://store.steampowered.com/app/29720/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 89,
+      "cantidad": 53,
+      "url": "https://metacritic.com/game/guild-wars/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 343,
+      "url": "https://metacritic.com/game/guild-wars/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1460281",
+      "nombre": "Guild Wars® Reforged",
+      "apps": [
+        {
+          "appid": "29720",
+          "nombre": "Guild Wars® Reforged"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 19.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "29720": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "5149500",
+      "nombre": "Guild Wars® Afterlife™",
+      "gratis": false,
+      "usd": 23.99,
+      "descuento": 20
+    },
+    {
+      "appid": "4103450",
+      "nombre": "Guild Wars® Eye of the North™",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4103460",
+      "nombre": "el paquete especial de misiones de bonificación de Guild Wars®",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Descubrid Guild Wars Reforged, el galardonado juego de rol en línea que ha cautivado a millones de usuarios y que ￼ahora toma energías con mejoras en el sistema y la verificación para Steam Deck￼. ￼Desde la caída de Ascalon hasta la desesperada resistencia contra el Anochecer.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Multijugador masivo",
+    "Rol"
+  ],
+  "lanzamientoTexto": "3 DIC 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Guild Wars® Reforged",
+  "acerca": [
+    [
+      "p",
+      "¡Vivid la experiencia del juego que inició un legado de 20 años! Guild Wars Reforged os invita, tanto a los héroes veteranos como a los aventureros recién llegados, a adentraros en el histórico pasado de Tyria, donde cada puesto avanzado conduce a una aventura, cada misión narra una historia y cada compañero tiene un nombre."
+    ],
+    [
+      "h",
+      "Bienvenidos a Tyria"
+    ],
+    [
+      "p",
+      "Uníos a héroes poderosos para hacer frente a las escuadras charr que asolan Ascalon, combatid a las bandas rivales en las calles de ciudad Kaineng, y atravesad los Páramos Sulfúreos de la Desolación a lomos de una sierpe junundu. Desencadenad los acontecimientos que definirán los siglos venideros."
+    ],
+    [
+      "p",
+      "Volved a sentir la magia impactante en esta legendaria aventura de fantasía basada en la narrativa, o adentraos en su mundo por primera vez. Cada paso dado en Guild Wars Reforged, desde la consecución de la primera habilidad hasta la de la última pieza de armadura de élite, se convierte en una experiencia inolvidable."
+    ],
+    [
+      "h",
+      "Un MMO clásico, reforjado para una nueva era"
+    ],
+    [
+      "p",
+      "Sumaos a una comunidad tan duradera como la propia Niebla, repleta de héroes veteranos deseosos de guiar a los novatos en misiones, mazmorras y desafíos en modo difícil. A cada paso hay una nueva historia por descubrir, un nuevo título por ganar y nuevos amigos con quienes compartir el camino."
+    ],
+    [
+      "p",
+      "Elegid vuestra aventura : Os aguardan increíbles historias en 3 enormes campañas paralelas. Descubrid cientos de complicadas misiones, eventos festivos sorpresa, ¡y mucho más!"
+    ],
+    [
+      "p",
+      "Elegid vuestro perfil : Cread perfiles únicos a partir de las diez profesiones y personalizad vuestra mecánica de juego combinando conjuntos de armaduras, armas y miles de habilidades. A medida que os aventuréis en nuevas tierras y conquistéis a nuevos enemigos, vuestro arsenal de habilidades irá creciendo."
+    ],
+    [
+      "p",
+      "Elegid a vuestros aliados : Agrupaos con otros jugadores, cread un equipo de leales esbirros NPC, o reclutad héroes personalizables que os acompañarán en divertidos combates tácticos."
+    ],
+    [
+      "p",
+      "Elegid vuestro desafío : Poned a prueba la valía de vuestro equipo contra otros jugadores en PvP, o completad una campaña en PvE para enfrentaros a los mapas y misiones más difíciles."
+    ],
+    [
+      "p",
+      "No es necesario abonar una cuota mensual para jugar."
+    ],
+    [
+      "p",
+      "Incluye:"
+    ],
+    [
+      "p",
+      "Acceso a las tres campañas completas: Prophecies™, Factions™ y Nightfall™"
+    ],
+    [
+      "p",
+      "Ocho casillas de personaje: Cada una se puede usar para crear un personaje solo para PvP o un personaje de rol para PvE"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Tamaño del texto ajustable",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Microsoft Windows 7 32-bit"
+      ],
+      [
+        "Procesador",
+        "Intel® Pentium® III 1.0 GHz o equivalente"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon 8500 o NVIDIA Tarjeta de vídeo de la serie GeForce 3 con 64 MB de VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "16-bit Sound Card"
+      ],
+      [
+        "Notas adicionales",
+        "Network connection required"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Microsoft Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium 4 2.0 GHz o equivalente"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon 9600 o NVIDIA Tarjeta de vídeo de la serie GeForce FX 5700 o superior"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Sound Blaster® X-FiTM series Sound Card"
+      ],
+      [
+        "Notas adicionales",
+        "Network connection required"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/5ae6f133d5de61e893d2680b42c3ce9f4d3a04d7/ss_5ae6f133d5de61e893d2680b42c3ce9f4d3a04d7.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/5ae6f133d5de61e893d2680b42c3ce9f4d3a04d7/ss_5ae6f133d5de61e893d2680b42c3ce9f4d3a04d7.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/300a60b875aff4466dea2898e396397e9cccb882/ss_300a60b875aff4466dea2898e396397e9cccb882.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/300a60b875aff4466dea2898e396397e9cccb882/ss_300a60b875aff4466dea2898e396397e9cccb882.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/4e05473f7fd992b6ac0451368c7e6cc137e00d59/ss_4e05473f7fd992b6ac0451368c7e6cc137e00d59.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/4e05473f7fd992b6ac0451368c7e6cc137e00d59/ss_4e05473f7fd992b6ac0451368c7e6cc137e00d59.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/61b1816201384ea066970043944655909fb597e3/ss_61b1816201384ea066970043944655909fb597e3.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/61b1816201384ea066970043944655909fb597e3/ss_61b1816201384ea066970043944655909fb597e3.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/963e6570341e915e6e099406269f70987400fa9c/ss_963e6570341e915e6e099406269f70987400fa9c.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/963e6570341e915e6e099406269f70987400fa9c/ss_963e6570341e915e6e099406269f70987400fa9c.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/eea4e34097ec2e7de3132179043743df35aa70d4/ss_eea4e34097ec2e7de3132179043743df35aa70d4.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/eea4e34097ec2e7de3132179043743df35aa70d4/ss_eea4e34097ec2e7de3132179043743df35aa70d4.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/0f77177492d92c2bb013afa31dbc5572d449b6e5/ss_0f77177492d92c2bb013afa31dbc5572d449b6e5.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/0f77177492d92c2bb013afa31dbc5572d449b6e5/ss_0f77177492d92c2bb013afa31dbc5572d449b6e5.1920x1080.jpg?t=1793905188"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/9772fac9c34f231351720eb678c96476b3b9655e/ss_9772fac9c34f231351720eb678c96476b3b9655e.600x338.jpg?t=1793905188",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/29720/9772fac9c34f231351720eb678c96476b3b9655e/ss_9772fac9c34f231351720eb678c96476b3b9655e.1920x1080.jpg?t=1793905188"
+    }
+  ],
+  "web": "https://www.guildwars.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 380421,
+  "youtube": [
+    {
+      "id": "ENcQ4WcRqD8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T21:47:25.022Z"
+}

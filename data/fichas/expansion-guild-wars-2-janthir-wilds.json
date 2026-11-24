@@ -1,0 +1,243 @@
+{
+  "clave": "expansion guild wars 2 janthir wilds",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0190092c-cd70-724b-9e9a-2c22b90e9a6a",
+  "appid": "2982320",
+  "lanzamiento": "2024-08-19",
+  "desarrolladores": [
+    "ArenaNet",
+    "ArenaNet®"
+  ],
+  "editores": [
+    "ArenaNet",
+    "ArenaNet®",
+    "NCSOFT",
+    "ArenaNet, LLC",
+    "ArenaNet LLC"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Massively Multiplayer",
+    "Adventure",
+    "Free to Play"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 53,
+      "cantidad": 104,
+      "url": "https://store.steampowered.com/app/2982320/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 71,
+      "cantidad": 18,
+      "url": "https://metacritic.com/game/guild-wars-2-janthir-wilds/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1284210",
+    "nombre": "Guild Wars 2®"
+  },
+  "ediciones": [
+    {
+      "packageid": "1061297",
+      "nombre": "Guild Wars 2® Janthir Wilds™ Expansion",
+      "apps": [
+        {
+          "appid": "2982320",
+          "nombre": "Expansión Guild Wars 2® Janthir Wilds™"
+        }
+      ],
+      "usd": 16.24,
+      "antes": 24.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2982320": {
+      "usd": 16.24,
+      "gratis": false
+    }
+  },
+  "descripcion": "Guild Wars 2: Janthir Wilds™ es la quinta expansión de Guild Wars 2. Comenzad una arriesgada expedición en busca de apoyo en las tierras salvajes de Janthir, donde se hallan secretos ocultos y criaturas malévolas que aguardan vuestra llegada.",
+  "generos": [
+    "Aventura",
+    "Multijugador masivo",
+    "Rol",
+    "Free to Play"
+  ],
+  "lanzamientoTexto": "20 AGO 2024",
+  "metacritic": null,
+  "nombreSteam": "Expansión Guild Wars 2® Janthir Wilds™",
+  "acerca": [
+    [
+      "p",
+      "Guild Wars 2: Janthir Wilds™ es la quinta expansión de Guild Wars 2 . Mientras el hallacaminos y sus aliados combatían a los kryptis, los líderes de Tyria trabajaban en silencio para formar la Alianza Tyriana. Ha llegado el momento de presentar al mundo el Tribunal de los Brujos y el Resguardo Astral para fortalecer así a las distintas naciones. Comenzad una arriesgada expedición en busca de apoyo en las tierras salvajes de Janthir, donde se hallan secretos ocultos y criaturas malévolas que aguardan vuestra llegada."
+    ],
+    [
+      "h",
+      "UN TERRITORIO SALVAJE POR EXPLORAR"
+    ],
+    [
+      "p",
+      "Las legendarias y aterradoras Islas de Janthir, repletas de ruinas mursaat, han sido custodiadas de forma diligente por los magos del Resguardo Astral aunque para la mayoría de los habitantes de Tyria no son más que un mito lejano. Pero los últimos acontecimientos han convencido a los líderes mundiales de formar la Alianza Tyriana y mandar al hallacaminos del Resguardo Astral (es decir, a vosotros) a conseguir nuevos aliados. Mientras buscáis por Janthir la colonia de kodan de las tierras bajas, exploraréis, lucharéis y descubriréis más detalles sobre los misterios del pasado de Tyria."
+    ],
+    [
+      "h",
+      "CONSTRUID VUESTRA HEREDAD"
+    ],
+    [
+      "p",
+      "En la aventura de Guild Wars 2: Janthir Wilds™ podréis conseguir vuestra propia heredad, una instancia personal para toda la cuenta con una estructura y un terreno que podréis decorar y cultivar. Las heredades compartirán funciones desbloqueables con vuestro hogar, como los nodos de recolección y los terrenos de jardinería."
+    ],
+    [
+      "h",
+      "UN ARMA NUEVA PARA TODAS LAS PROFESIONES"
+    ],
+    [
+      "p",
+      "Por primera vez en la historia de Guild Wars 2 , tendremos un nuevo tipo de arma para el combate terrestre: la lanza a dos manos. Inicialmente se diseñó para usarse solo en combates subacuáticos, pero Guild Wars 2: Janthir Wilds™ os dará la oportunidad de equiparla libremente en casillas de armas tanto acuáticas como terrestres, cada una con sus habilidades de arma propias. Además, todas las profesiones adquirirán la competencia con lanza terrestre, lo que os ofrecerá una interesante diversidad de combate entre profesiones y algunas formas más dinámicas de jugar. Para mejorar aún más la personalización, se ha introducido una nueva colección de reliquias. Así podréis añadir efectos únicos a vuestros ajustes."
+    ],
+    [
+      "h",
+      "DOMINAD VUESTRA GARRABÉLICA"
+    ],
+    [
+      "p",
+      "La montura garrabélica mejorada contará con su propia ruta de dominios y una nueva senda para obtenerla. Esta compañera tan formidable contará con una amplia gama de habilidades y os ayudará a acabar con algunos de los enemigos más feroces."
+    ],
+    [
+      "p",
+      "**Tened en cuenta que no se puede acceder a cuentas de jugador de Guild Wars 2 ya existentes a través de Steam."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Multijugador masivo",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Contenido descargable",
+    "Compras dentro de la aplicación",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows® 7 o superior (solo 64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel®i3 3,4 GHz / AMD Athlon x4 3,8 GHz o superior"
+      ],
+      [
+        "Memoria",
+        "8 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA® GeForce® GTX 680 / AMD Radeon HD 7970"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "70 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_62046e9a32dd26401389197b48a3a4f6cd7d7f93.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_62046e9a32dd26401389197b48a3a4f6cd7d7f93.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_71a58f3e52912e3b7ed1d27fcd99d4a7d67c7977.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_71a58f3e52912e3b7ed1d27fcd99d4a7d67c7977.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_cf1b704d8cd497d1f9be1ea33cf2a31fe1bb3567.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_cf1b704d8cd497d1f9be1ea33cf2a31fe1bb3567.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_69a7b61ef68502d91d83b414d91e82e283d656f3.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_69a7b61ef68502d91d83b414d91e82e283d656f3.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_7dad04ea23c609561e8cf61b70a2af747bc27a32.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_7dad04ea23c609561e8cf61b70a2af747bc27a32.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_d9eb98a2b893b26f43fef38959be2e9a33ad5c53.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_d9eb98a2b893b26f43fef38959be2e9a33ad5c53.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_32c7d0402ccf0495295b7f9929761b94be2c295d.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_32c7d0402ccf0495295b7f9929761b94be2c295d.1920x1080.jpg?t=1778524459"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_e07af9e895ba3008be0cd2bc52637d922661ddc3.600x338.jpg?t=1778524459",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2982320/ss_e07af9e895ba3008be0cd2bc52637d922661ddc3.1920x1080.jpg?t=1778524459"
+    }
+  ],
+  "web": "https://www.guildwars2.com/en/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 304360,
+  "youtube": [
+    {
+      "id": "EK3DCrUtjNU",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T21:47:53.337Z"
+}
