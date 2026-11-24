@@ -1,0 +1,384 @@
+{
+  "clave": "kingdom two crowns",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f969-72ed-a245-152dad151e29",
+  "appid": "701160",
+  "lanzamiento": "2018-12-11",
+  "desarrolladores": [
+    "Coatsink",
+    "Fury Studios",
+    "Stumpy🐙Squid",
+    "Stumpy Squid / Fury Studios",
+    "StumpySquid"
+  ],
+  "editores": [
+    "Raw Fury",
+    "Coatsink"
+  ],
+  "etiquetas": [
+    "Tower Defense",
+    "Minimalist",
+    "City Builder",
+    "Building",
+    "Base Building"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 33273,
+      "url": "https://store.steampowered.com/app/701160/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 135,
+      "url": "https://metacritic.com/game/kingdom-two-crowns/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 25,
+      "url": "https://opencritic.com/game/7022/kingdom-two-crowns"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "202041",
+      "nombre": "Kingdom Two Crowns",
+      "apps": [
+        {
+          "appid": "701160",
+          "nombre": "Kingdom Two Crowns"
+        }
+      ],
+      "usd": 2.09,
+      "antes": 10.49,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "701160": {
+      "usd": 2.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "2736340",
+      "nombre": "Kingdom Two Crowns: Call of Olympus",
+      "gratis": false,
+      "usd": 4.05,
+      "descuento": 30
+    },
+    {
+      "appid": "1708680",
+      "nombre": "Kingdom Two Crowns: Norse Lands",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1299270",
+      "nombre": "Kingdom Two Crowns: Dead Lands",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "980450",
+      "nombre": "Kingdom Two Crowns: Shogun",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "988810",
+      "nombre": "Kingdom Two Crowns: OST",
+      "gratis": false,
+      "usd": 1.44,
+      "descuento": 75
+    },
+    {
+      "appid": "3062350",
+      "nombre": "Kingdom Two Crowns: Regent's Royal Wardrobe",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3062360",
+      "nombre": "Kingdom Two Crowns: Archon's Royal Wardrobe",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3939430",
+      "nombre": "Kingdom Two Crowns: Decennial Royal Wardrobe",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4742120",
+      "nombre": "Kingdom Two Crowns: Pharaoh Lands",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Recoge monedas, construye defensas y recupera tu reino caído. Explora y descubre secretos, desbloquea nuevas tecnologías y protege tu corona frente a las oleadas de monstruosos ávidos. Kingdom es un juego de estrategia y defensa de torres cooperativo ambientado en un hermoso mundo pixelado.",
+  "generos": [
+    "Aventura",
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "11 DIC 2018",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Kingdom Two Crowns",
+  "acerca": [
+    [
+      "p",
+      "Construye - Explora - Defiende - Conquista"
+    ],
+    [
+      "p",
+      "Un manto de misterio envuelve estas inexploradas tierras medievales en las que convergen reliquias, monumentos antiguos y criaturas míticas. Los ecos de eras pasadas cuentan historias de grandeza y, en Kingdom Two Crowns, que pertenece a la galardonada franquicia Kingdom, puedes vivir esta aventura poniéndote en el papel de monarca. En este viaje con desplazamiento lateral a lomos de tu corcel, podrás reclutar a leales súbditos, construir tu propio reino y proteger la corona de los ávidos, unas monstruosas criaturas que intentar robar los tesoros del reino."
+    ],
+    [
+      "p",
+      "Afronta este viaje a solas o en compañía. En Kingdom Two Crowns, un dúo de monarcas puede cooperar para construir y forjar un reino que perdure por los siglos de los siglos."
+    ],
+    [
+      "p",
+      "Pon los cimientos de un poderoso reino con muros altos y torres de defensa, y hazlo prosperar construyendo granjas y reclutando aldeanos. En Kingdom Two Crowns, expandir y desarrollar tu reino te dará acceso a nuevas unidades y tecnologías."
+    ],
+    [
+      "p",
+      "Abandona la seguridad de tus fronteras y adéntrate en lo desconocido. Recorre bosques solitarios y ruinas antiguas en busca de tesoros y sabiduría oculta que te ayudarán en tu misión. ¿Qué artefactos legendarios y seres mitológicos encontrarás por el camino?"
+    ],
+    [
+      "p",
+      "Al caer la noche, las sombras cobran vida y los monstruosos ávidos atacan tu reino. Reúne a tus tropas y ármate de valor, pues todas noches deberás demostrar un nivel de habilidad estratégica mayor que el día anterior. Para resistir a las oleadas de ávidos, tendrás que desplegar arqueros, caballeros y armas de asedio, además de hacer uso de las habilidades y artefactos que solo tú posees como monarca."
+    ],
+    [
+      "p",
+      "Como monarca, deberás organizar asaltos contra el lugar de origen de los ávidos para proteger tu isla. Envía grupos de soldados para que luchen frente a frente con el enemigo. Como medida de precaución, procura asegurarte de que tus tropas estén preparadas y sean suficientes en número; los ávidos no se rinden ante nada."
+    ],
+    [
+      "p",
+      "Kingdom Two Crowns es una experiencia en constante evolución que incluye varias actualizaciones de contenido gratuitas:"
+    ],
+    [
+      "p",
+      "Shogun : Viaja a tierras inspiradas en la arquitectura y la cultura del Japón feudal. Juega como un poderoso shogun o una onna-bugeisha, consigue el apoyo de los ninja, guía a tus soldados a la batalla a lomos de un mítico quilin, e idea nuevas estrategias mientras te enfrentas a los ávidos escondidos entre los densos bosques de bambú."
+    ],
+    [
+      "p",
+      "Dead Lands : Adéntrate en las tierras más oscuras de Kingdom. Juega como varios monarcas únicos, incluida la unefragmentos Miriam, con poderosos rasgos inspirados en el RPG de acción y horror gótico Bloodstained."
+    ],
+    [
+      "p",
+      "Islas de desafíos : Hasta los monarcas curtidos en mil batallas tendrán que esforzarse al máximo para superar este reto. Acepta cinco desafíos con distintas normas y objetivos. ¿Serás capaz de sobrevivir el tiempo necesario para hacerte con la corona de oro?"
+    ],
+    [
+      "p",
+      "Tu aventura es solo el principio. Explora más historias sin contar y ubicaciones sin descubrir con todo el contenido descargable adicional disponible para el juego. ¡Oh, monarca, no bajes la guardia ni un segundo! ¡Te esperan muchas noches oscuras y es tu deber proteger la corona!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel 4th Gen Dual Core 2.0Ghz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvida GTX Series 8"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "The game can likely run on lower rated hardware, but we can't guarantee the performance or provide support."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel 7th Gen"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX Series 10"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "This recommended is based on what many of us tested the game on while in development. We're confident it supports a smooth experience."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_ca9df45386d8ead4a0cf62a16c2524095a610f6c.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_ca9df45386d8ead4a0cf62a16c2524095a610f6c.1920x1080.jpg?t=1791479063"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_fb33eeb33590f492c39c714fd673e059599895a5.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_fb33eeb33590f492c39c714fd673e059599895a5.1920x1080.jpg?t=1791479063"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_7b16a9ab8f9498ec1a28507120ab3ae7eb7c7217.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_7b16a9ab8f9498ec1a28507120ab3ae7eb7c7217.1920x1080.jpg?t=1791479063"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_55d314b0e9f6f52a34d03a5851fedbf3f13b3ff8.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_55d314b0e9f6f52a34d03a5851fedbf3f13b3ff8.1920x1080.jpg?t=1791479063"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57/ss_1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57/ss_1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57.1920x1080.jpg?t=1791479063"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_e5516ce05a5fdc5ea88e2342a568e8cc611269cd.600x338.jpg?t=1791479063",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_e5516ce05a5fdc5ea88e2342a568e8cc611269cd.1920x1080.jpg?t=1791479063"
+    }
+  ],
+  "web": "http://www.kingdomthegame.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 27436,
+  "youtube": [
+    {
+      "id": "UIpAvfgNzEA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T05:35:53.782Z"
+}

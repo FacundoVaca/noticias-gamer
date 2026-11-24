@@ -1,0 +1,370 @@
+{
+  "clave": "watch dogs legion",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1f23-73f4-b983-a2dacd7259d0",
+  "appid": "2239550",
+  "lanzamiento": "2020-10-28",
+  "desarrolladores": [
+    "Ubisoft Montreal",
+    "Ubisoft Toronto"
+  ],
+  "editores": [
+    "Ubisoft",
+    "Ubisoft Entertainment"
+  ],
+  "etiquetas": [
+    "Action",
+    "Open World",
+    "Adventure",
+    "Multiplayer",
+    "Hacking"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 56,
+      "cantidad": 12117,
+      "url": "https://store.steampowered.com/app/2239550/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 46,
+      "url": "https://metacritic.com/game/watch-dogs-legion/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 1058,
+      "url": "https://metacritic.com/game/watch-dogs-legion/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 189,
+      "url": "https://opencritic.com/game/7405/watch-dogs-legion"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "802978",
+      "nombre": "Watch Dogs: Legion",
+      "apps": [
+        {
+          "appid": "2239550",
+          "nombre": "Watch Dogs®: Legion"
+        }
+      ],
+      "usd": 7.19,
+      "antes": 47.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "802987",
+      "nombre": "Watch Dogs: Legion Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2239550",
+          "nombre": "Watch Dogs®: Legion"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 55.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "802984",
+      "nombre": "Watch Dogs: Legion Gold Edition",
+      "apps": [
+        {
+          "appid": "2239550",
+          "nombre": "Watch Dogs®: Legion"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 79.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "802993",
+      "nombre": "Watch Dogs: Legion Ultimate Edition",
+      "apps": [
+        {
+          "appid": "2239550",
+          "nombre": "Watch Dogs®: Legion"
+        }
+      ],
+      "usd": 19.19,
+      "antes": 95.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2239550": {
+      "usd": 7.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2239575",
+      "nombre": "Watch Dogs : Legion - Season Pass",
+      "gratis": false,
+      "usd": 9.59,
+      "descuento": 70
+    },
+    {
+      "appid": "2239577",
+      "nombre": "Watch Dogs Legion : Bloodline",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 70
+    }
+  ],
+  "descripcion": "En Watch Dogs: Legion, tu misión es crear una resistencia para salvar a Londres de la debacle en un futuro próximo.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "26 ENE 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Watch Dogs®: Legion",
+  "acerca": [
+    [
+      "p",
+      "Forma una resistencia con prácticamente cualquiera que te encuentres, mientras hackeas, te infiltras y luchas para salvar a Londres de la debacle en un futuro próximo. Bienvenido a la Resistencia."
+    ],
+    [
+      "p",
+      "Elige a cualquier persona como tu personaje o para reclutarla. Cada persona tiene su propia historia, personalidad y habilidades."
+    ],
+    [
+      "p",
+      "Hackea drones armados, despliega robots araña y acaba con tus enemigos empleando una capa de ocultación de realidad aumentada."
+    ],
+    [
+      "p",
+      "Explora un enorme mundo abierto urbano con escenarios famosos de Londres y divertidas actividades secundarias."
+    ],
+    [
+      "p",
+      "Conéctate con tus reclutas y forma equipo con tus amigos para completar nuevas misiones en modo coop a través de una actualización gratuita después del lanzamiento."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Subtítulos disponibles",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "HDR disponible"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460 or AMD Ryzen 5 1400 290X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970, NVIDIA GeForce GTX 1650, or AMD Radeon R9 290X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "115 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 or AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060, NVIDIA GeForce GTX 1660 S, or AMD Radeon RX 480"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "115 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_34defa8d443c27fd4c925b37841e4d3f8c08895b.600x338.jpg?t=1788548571",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_34defa8d443c27fd4c925b37841e4d3f8c08895b.1920x1080.jpg?t=1788548571"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_9662b544cefb82f3d500c911f24ed58d1d0d9d9d.600x338.jpg?t=1788548571",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_9662b544cefb82f3d500c911f24ed58d1d0d9d9d.1920x1080.jpg?t=1788548571"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_6d0a08002410c1054d76e32edfc92e926b946419.600x338.jpg?t=1788548571",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_6d0a08002410c1054d76e32edfc92e926b946419.1920x1080.jpg?t=1788548571"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_be16b7c7c36e8fe087b36e69a11c94f76ef34cc0.600x338.jpg?t=1788548571",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_be16b7c7c36e8fe087b36e69a11c94f76ef34cc0.1920x1080.jpg?t=1788548571"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_280d99f0c7bd84b12e4ac5d3b5fdd9bc4bb74d02.600x338.jpg?t=1788548571",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239550/ss_280d99f0c7bd84b12e4ac5d3b5fdd9bc4bb74d02.1920x1080.jpg?t=1788548571"
+    }
+  ],
+  "web": "https://watchdogs.ubisoft.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Players use melee weapons (e.g., pipes, crowbars) and firearms (e.g., pistols, machine guns, assault rifles) to kill enemies; combat can be frenetic, highlighted by realistic gunfire, slow-motion effects, cries of pain, and blood-splatter. Cut scenes depict further instances of violence, The game contains some sexual material.",
+  "igdbIntentado": true,
+  "igdb": 100413,
+  "youtube": [
+    {
+      "id": "E_V-YQW3Gos",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "3orYqGDSDUk",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "mqh4BX8-VR4",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Zi8k4KGyW6o",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T05:36:29.342Z"
+}

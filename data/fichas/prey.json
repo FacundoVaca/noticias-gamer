@@ -1,0 +1,373 @@
+{
+  "clave": "prey",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-00cb-710a-9a4c-f7c1c558b97d",
+  "appid": "480490",
+  "lanzamiento": "2017-05-04",
+  "desarrolladores": [
+    "Arkane Studios",
+    "Arkane® Studios"
+  ],
+  "editores": [
+    "Bethesda Softworks",
+    "Bethesda",
+    "2K Games",
+    "Bethesda Softworks LLC"
+  ],
+  "etiquetas": [
+    "Sci-fi",
+    "Immersive Sim",
+    "Space",
+    "Singleplayer",
+    "Horror"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 38048,
+      "url": "https://store.steampowered.com/app/480490/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 38,
+      "url": "https://metacritic.com/game/prey/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 1654,
+      "url": "https://metacritic.com/game/prey/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 167,
+      "url": "https://opencritic.com/game/3589/prey"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "277639",
+      "nombre": "Prey Digital Deluxe",
+      "apps": [
+        {
+          "appid": "480490",
+          "nombre": "Prey"
+        },
+        {
+          "appid": "865670",
+          "nombre": "Prey - Mooncrash"
+        },
+        {
+          "appid": "741820",
+          "nombre": "Prey: Typhon Hunter"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 23.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "107520",
+      "nombre": "Prey",
+      "apps": [
+        {
+          "appid": "480490",
+          "nombre": "Prey"
+        }
+      ],
+      "usd": 17.99,
+      "antes": 17.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "480490": {
+      "usd": 4.79,
+      "gratis": false
+    },
+    "741820": {
+      "usd": 4.79,
+      "gratis": false
+    },
+    "865670": {
+      "usd": 4.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "865670",
+      "nombre": "Prey - Mooncrash",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 60
+    },
+    {
+      "appid": "1967880",
+      "nombre": "Prey (Original Game Soundtrack)",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "En Prey os despertaréis a bordo de la Talos I, una estación espacial en órbita alrededor de la Luna en el año 2032. Sois el sujeto clave de un experimento que espera cambiar la humanidad para siempre... pero las cosas se han complicado de forma terrible.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "4 MAY 2017",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Prey",
+  "acerca": [
+    [
+      "h",
+      "Historia"
+    ],
+    [
+      "p",
+      "En Prey te despertarás a bordo de la Talos I, una estación espacial en órbita alrededor de la Luna en el año 2032. Eres el sujeto clave de un experimento que espera cambiar la humanidad para siempre... pero las cosas se han complicado de forma terrible. La estación espacial ha sido invadida por alienígenas hostiles que quieren darte caza. Mientras investigas los oscuros secretos de la Talos I y de tu propio pasado, tendrás que sobrevivir gracias a las herramientas que encuentres en la estación, así como a tu ingenio, armas e increíbles habilidades. El destino de Talos I y de todos los que están a bordo se encuentra en tus manos."
+    ],
+    [
+      "h",
+      "Características"
+    ],
+    [
+      "h",
+      "Thriller de ciencia ficción"
+    ],
+    [
+      "p",
+      "Nada es lo que parece a bordo de la Talos I. En el papel de Morgan Yu, tienes la misión de descifrar las pistas que te has dejado y desvelar la verdad sobre tu pasado. ¿Qué papel desempeñarás en los planes de TranStar y en la misteriosa amenaza que causa estragos en la estación?"
+    ],
+    [
+      "h",
+      "Un escenario singular"
+    ],
+    [
+      "p",
+      "La estación espacial Talos I, que orbita alrededor de la Luna, representa la culminación de la iniciativa espacial privada. Explora una espléndida nave diseñada para reflejar el lujo corporativo de los años 60 y recorre caminos interconectados y no lineales, construidos para ocultar innumerables secretos."
+    ],
+    [
+      "h",
+      "Una amenaza inimaginable"
+    ],
+    [
+      "p",
+      "La tenebrosa presencia extraterrestre que infesta la Talos I es una ecología viviente volcada en la aniquilación de su presa. De ti, en el papel de uno de los últimos supervivientes a bordo de la estación, depende poner fin al mortífero ataque de estos inquietantes depredadores."
+    ],
+    [
+      "h",
+      "Desafío"
+    ],
+    [
+      "p",
+      "Personaliza las opciones de juego y los ajustes de dificultad para conseguir una aventura incluso más a tu medida. Puedes lograr que la experiencia ofrezca un desafío mayor (o que sea más fácil) si cambias los múltiples parámetros relacionados con el sigilo, el movimiento y el combate."
+    ],
+    [
+      "h",
+      "Juega a tu manera"
+    ],
+    [
+      "p",
+      "Obtén habilidades alienígenas para desarrollar una combinación de poderes inconfundible y mejora tus habilidades únicas. Crea objetos cada vez más útiles con los planos, dispositivos y herramientas a bordo de la estación para superar los peligrosos obstáculos que se interpondrán en tu camino. Sobrevive a amenazas sin precedentes recurriendo a tu astucia y capacidad de improvisación."
+    ],
+    [
+      "p",
+      "Reserva Prey para recibir el exclusivo Pack de escopeta del cosmonauta, con la escopeta Margrave, una reliquia de la familia Yu, y más medios contra las amenazas a bordo de la Talos I: 3 neuromods para adquirir nuevas habilidades, 2 kits médicos, un diseño de fabricación de munición de escopeta, un kit inicial de fabricación de herramientas y armas, y una mejora única para conservar recursos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-2400, AMD FX-8320"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 660 2GB, AMD Radeon 7850 2GB"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8/10 (64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "Intel i7-2600K, AMD FX-8350"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 970 4GB, AMD R9 290 4GB"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_06b6c27c834b5639c54d470b3b5c711cf72a94af.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_06b6c27c834b5639c54d470b3b5c711cf72a94af.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_ff6b4efb3add6ea9a1d67f5c6c0fae6661ed9fd8.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_ff6b4efb3add6ea9a1d67f5c6c0fae6661ed9fd8.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_976f1d181de3dc8bc86c78fe900c98be457d0942.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_976f1d181de3dc8bc86c78fe900c98be457d0942.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_788d370761d6b3c488f4314ea2752170621573c6.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_788d370761d6b3c488f4314ea2752170621573c6.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_570af3ccb6cea896e3fb063d19ff87ce652c040b.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_570af3ccb6cea896e3fb063d19ff87ce652c040b.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_8fcc1a7b13352ad4d0b13d6b32bcd77929f0bc2b.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_8fcc1a7b13352ad4d0b13d6b32bcd77929f0bc2b.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_8f6126fa31c3cb52a77de2ff028413854e6189f6.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_8f6126fa31c3cb52a77de2ff028413854e6189f6.1920x1080.jpg?t=1784141088"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_e79a3faffdc0c289c6e1efc87ce3a94212b93e33.600x338.jpg?t=1784141088",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480490/ss_e79a3faffdc0c289c6e1efc87ce3a94212b93e33.1920x1080.jpg?t=1784141088"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19531,
+  "youtube": [
+    {
+      "id": "gnLbH0GkOj8",
+      "nombre": "E3 2016 Reveal Trailer"
+    },
+    {
+      "id": "WItcBY1jPC8",
+      "nombre": "Weapon & Power Combos Trailer"
+    },
+    {
+      "id": "fUi3DteNuZk",
+      "nombre": "Mimic Madness Trailer"
+    },
+    {
+      "id": "ZqDqaGSwzyc",
+      "nombre": "8 Minutes Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T05:36:20.848Z"
+}

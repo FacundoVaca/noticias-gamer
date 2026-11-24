@@ -1,0 +1,280 @@
+{
+  "clave": "hogwarts legacy pack de las artes oscuras",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6b1b-7392-8a45-193d0bbe1f5f",
+  "appid": "1880832",
+  "lanzamiento": "2023-02-10",
+  "desarrolladores": [
+    "Avalanche Software"
+  ],
+  "editores": [
+    "Warner Bros. Games"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Action",
+    "Adventure",
+    "Open World",
+    "Magic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 64,
+      "cantidad": 967,
+      "url": "https://store.steampowered.com/app/1880832/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "990080",
+    "nombre": "Hogwarts Legacy"
+  },
+  "ediciones": [
+    {
+      "packageid": "677214",
+      "nombre": "Hogwarts Legacy: Pack de las Artes Oscuras",
+      "apps": [
+        {
+          "appid": "1880832",
+          "nombre": "Hogwarts Legacy: Pack de las Artes Oscuras"
+        }
+      ],
+      "usd": 1,
+      "antes": 10,
+      "descuento": 90
+    },
+    {
+      "packageid": "822364",
+      "nombre": "Hogwarts Legacy: Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "1880837",
+          "nombre": " Hogwarts Legacy: Gorro de guarnición de las Artes Oscuras"
+        },
+        {
+          "appid": "990080",
+          "nombre": "Hogwarts Legacy"
+        },
+        {
+          "appid": "1880832",
+          "nombre": "Hogwarts Legacy: Pack de las Artes Oscuras"
+        }
+      ],
+      "usd": 3.99,
+      "antes": 39.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "990080": {
+      "usd": 3,
+      "gratis": false
+    },
+    "1880832": {
+      "usd": 1,
+      "gratis": false
+    },
+    "1880837": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Este pack incluye: - Montura de thestral - Conjunto cosmético de las Artes Oscuras - Arena de batalla de las Artes Oscuras",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "10 FEB 2023",
+  "metacritic": null,
+  "nombreSteam": "Hogwarts Legacy: Pack de las Artes Oscuras",
+  "acerca": [
+    [
+      "p",
+      "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico."
+    ],
+    [
+      "p",
+      "Este pack incluye:"
+    ],
+    [
+      "p",
+      "- Montura de thestral"
+    ],
+    [
+      "p",
+      "- Conjunto cosmético de las Artes Oscuras"
+    ],
+    [
+      "p",
+      "- Arena de batalla de las Artes Oscuras"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB"
+      ],
+      [
+        "Notas adicionales",
+        "SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770"
+      ],
+      [
+        "Notas adicionales",
+        "SSD, 1080p/60 fps, High Quality Settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_e954efa1684ebf6b7906b5780cec77ad5a064f44.600x338.jpg?t=1676051756",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_e954efa1684ebf6b7906b5780cec77ad5a064f44.1920x1080.jpg?t=1676051756"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_19fbd51dc6f7ec3bc2f82c893225734d0fc04553.600x338.jpg?t=1676051756",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_19fbd51dc6f7ec3bc2f82c893225734d0fc04553.1920x1080.jpg?t=1676051756"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_36b5f9ca9593ff441d9bb71b5006cce07361082e.600x338.jpg?t=1676051756",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_36b5f9ca9593ff441d9bb71b5006cce07361082e.1920x1080.jpg?t=1676051756"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_5e1d0d6962dd7f88ebd02bc219e4a523e2349f68.600x338.jpg?t=1676051756",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880832/ss_5e1d0d6962dd7f88ebd02bc219e4a523e2349f68.1920x1080.jpg?t=1676051756"
+    }
+  ],
+  "web": "https://www.hogwartslegacy.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 237565,
+  "v": 7,
+  "consultado": "2026-11-24T05:36:48.944Z"
+}
