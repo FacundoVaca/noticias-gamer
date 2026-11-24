@@ -9,18 +9,33 @@ const anotarFallo = (modelo, e) => { if (e.status >= 500) saturados.add(modelo);
 async function llamar(modelo, cuerpo, intentos = 3) {
   const clave = process.env.GEMINI_API_KEY;
   if (!clave) throw new Error("Falta GEMINI_API_KEY (secreto de GitHub)");
+  // 5xx (Google saturado) o conexión caída: hasta 2 reintentos con espera creciente y después se pasa al otro modelo
+  const reintentos5xx = Math.min(intentos, 3);
   for (let i = 1; i <= intentos; i++) {
-    const r = await fetch(`${BASE}/${modelo}:generateContent`, {
-      method: "POST",
-      headers: { "content-type": "application/json", "x-goog-api-key": clave },
-      body: JSON.stringify(cuerpo),
-    });
+    let r;
+    try {
+      r = await fetch(`${BASE}/${modelo}:generateContent`, {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-goog-api-key": clave },
+        body: JSON.stringify(cuerpo),
+        signal: AbortSignal.timeout(150000), // sin esto una conexión colgada tarda 5 min en fallar
+      });
+    } catch (e) {
+      if (i < reintentos5xx) {
+        log(`Gemini ${modelo}: sin respuesta (${e.name === "TimeoutError" ? "tiempo agotado" : e.message}), reintento en ${15 * i} s`);
+        await esperar(15000 * i);
+        continue;
+      }
+      const err = new Error(`Gemini ${modelo}: sin respuesta (${e.name === "TimeoutError" ? "tiempo agotado" : e.message})`);
+      err.status = 503; // se trata como saturado
+      throw err;
+    }
     if (r.ok) return r.json();
     const txt = await r.text();
-    // 429 = cuota/limite por minuto; 5xx = Google saturado: un solo reintento corto y se pasa al otro modelo
-    if (r.status >= 500 && i < Math.min(intentos, 2)) {
-      log(`Gemini ${modelo}: ${r.status}, reintento en 10 s`);
-      await esperar(10000);
+    // 429 = cuota/limite por minuto
+    if (r.status >= 500 && i < reintentos5xx) {
+      log(`Gemini ${modelo}: ${r.status}, reintento en ${15 * i} s`);
+      await esperar(15000 * i);
       continue;
     }
     if (r.status === 429 && i < intentos) {
