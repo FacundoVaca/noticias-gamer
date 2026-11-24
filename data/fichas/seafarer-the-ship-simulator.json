@@ -1,0 +1,377 @@
+{
+  "clave": "seafarer the ship simulator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01956079-7eb1-722b-8c2f-19c724eb825d",
+  "appid": "2582140",
+  "lanzamiento": "2025-10-07",
+  "desarrolladores": [
+    "Astragon Entertainment",
+    "astragon Development"
+  ],
+  "editores": [
+    "Astragon Entertainment",
+    "Astragon Entertainment GmbH",
+    "astragon Development"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Naval",
+    "Casual",
+    "Life Sim",
+    "Exploration"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 64,
+      "cantidad": 2084,
+      "url": "https://store.steampowered.com/app/2582140/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1493128",
+      "nombre": "Seafarer: The Ship Simulator",
+      "apps": [
+        {
+          "appid": "2582140",
+          "nombre": "Seafarer: The Ship Simulator"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 16.49,
+      "descuento": 60
+    },
+    {
+      "packageid": "1672637",
+      "nombre": "Seafarer: The Ship Simulator - Voyager Edition",
+      "apps": [
+        {
+          "appid": "4813460",
+          "nombre": "Seafarer: The Ship Sim - Voyager Pack"
+        },
+        {
+          "appid": "2582140",
+          "nombre": "Seafarer: The Ship Simulator"
+        }
+      ],
+      "usd": 8.19,
+      "antes": 20.49,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2582140": {
+      "usd": 6.59,
+      "gratis": false
+    },
+    "4813460": {
+      "usd": 3.34,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4180110",
+      "nombre": "Seafarer: The Ship Sim - Soundtrack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4813460",
+      "nombre": "Seafarer: The Ship Sim - Voyager Pack",
+      "gratis": false,
+      "usd": 3.34,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Forja tu carrera marítima en solitario o con hasta 4 jugadores. Acepta contratos en distintos puertos, pilota varios barcos y afronta transporte de carga, patrullas, rescates, extinción de incendios y sucesos inesperados.",
+  "generos": [
+    "Casual",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "24 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Seafarer: The Ship Simulator",
+  "acerca": [
+    [
+      "p",
+      "Iza las velas y embárcate en Seafarer: The Ship Simulator. Toma el timón de varias naves, explora un vasto mundo abierto inspirado en el norte de Europa y emprende en solitario o con una tripulación de hasta cuatro jugadores misiones marítimas que abarcan desde el transporte de mercancía y los rescates, hasta el control de incendios, patrullas y otros eventos inesperados. En el modo multijugador, podréis compartir las tareas de a bordo, coordinaros durante las misiones y afrontar los desafíos de la vida en alta mar."
+    ],
+    [
+      "p",
+      "Empieza tu trayectoria como capitán en ciernes y lábrate tu reputación en varios puertos y facciones diferentes. Lleva a cabo misiones, desbloquea nuevas oportunidades, amplía tu flota y da forma a tu propia trayectoria en el mar. Podrás transportar toda una variedad de cargamento entre puertos, desde mercancía a granel y contenedores hasta GNL, responder llamadas de socorro con la guardia costera, explorar el mar con un dron o simplemente dejarte llevar por la marea y disfrutar del oleaje; cada viaje te aportará algo nuevo por descubrir."
+    ],
+    [
+      "p",
+      "El juego comprende una campaña narrativa que sigue los pasos de Teddy, un capitán avezado con un pasado turbulento. A medida que el sabotaje, la piratería y secretos antiguos salen a relucir en la historia, el jugador se ve envuelto en un misterio marítimo que aborda conceptos como la culpa, la lealtad y la redención."
+    ],
+    [
+      "p",
+      "Gracias a un manejo accesible de los barcos, variadas interacciones a bordo, opciones de clima dinámico, corrientes marinas que influyen en la navegación y olas impresionantes creadas con Unreal Engine 5 y NVIDIA WaveWorks 2.0, Seafarer: The Ship Simulator promete aportar la atmósfera y la sensación de libertad y aventura de la vida en el mar a cada uno de tus viajes."
+    ],
+    [
+      "p",
+      "Juega en solitario o en multijugador con una tripulación de hasta 4 jugadores."
+    ],
+    [
+      "p",
+      "Toma el timón: controla toda una flota de naves, desde embarcaciones pequeñas a buques de transporte y barcos petroleros."
+    ],
+    [
+      "p",
+      "Erige tu carrera a través de misiones, un sistema de reputación y progreso de la flota."
+    ],
+    [
+      "p",
+      "Personaliza los barcos con nombres, colores, banderas y distintivos."
+    ],
+    [
+      "p",
+      "Disfruta de una campaña narrativa envuelta en misterio que aborda el sabotaje y la redención."
+    ],
+    [
+      "p",
+      "Embárcate en misiones de transporte, rescate y control de incendios."
+    ],
+    [
+      "p",
+      "Usa herramientas interactivas como grúas, cañones de agua, drones y equipo de rescate."
+    ],
+    [
+      "p",
+      "Reacciona a eventos dinámicos, llamadas por radio, desafíos diarios, corrientes marítimas y clima cambiante."
+    ],
+    [
+      "p",
+      "Disfruta de gráficos impresionantes que recrean la atmósfera del océano gracias a Unreal Engine 5 y NVIDIA WaveWorks 2.0."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 de 64 bits"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-12100F / AMD Ryzen 5 3600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060 6 GB / RX 5600 XT 6 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "42 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "(Atención: Se necesita una tarjeta gráfica específica)."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 de 64 bits"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 9 7900 (12 Core) o equivalente de Intel"
+      ],
+      [
+        "Memoria",
+        "64 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 4070 (12 GB) o AMD Radeon RX 7950 (16 GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "42 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "(Atención: Se necesita una tarjeta gráfica específica)."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/ee225ddb7f30541dee2027fb6cb02018e6e769b8/ss_ee225ddb7f30541dee2027fb6cb02018e6e769b8.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/ee225ddb7f30541dee2027fb6cb02018e6e769b8/ss_ee225ddb7f30541dee2027fb6cb02018e6e769b8.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/606b663eea284c6ed56f0afd202e736297287177/ss_606b663eea284c6ed56f0afd202e736297287177.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/606b663eea284c6ed56f0afd202e736297287177/ss_606b663eea284c6ed56f0afd202e736297287177.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/b05d3400bfb422d063e07df58e40ab46a30ca2d1/ss_b05d3400bfb422d063e07df58e40ab46a30ca2d1.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/b05d3400bfb422d063e07df58e40ab46a30ca2d1/ss_b05d3400bfb422d063e07df58e40ab46a30ca2d1.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/844e4d2ce548070a502b3759e55889ca014bd309/ss_844e4d2ce548070a502b3759e55889ca014bd309.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/844e4d2ce548070a502b3759e55889ca014bd309/ss_844e4d2ce548070a502b3759e55889ca014bd309.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/b14ba97ae8b82a959f2c5e94c79d91a104182413/ss_b14ba97ae8b82a959f2c5e94c79d91a104182413.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/b14ba97ae8b82a959f2c5e94c79d91a104182413/ss_b14ba97ae8b82a959f2c5e94c79d91a104182413.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/7f76f757b41382145d0a6c0447aebdff5d6875c4/ss_7f76f757b41382145d0a6c0447aebdff5d6875c4.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/7f76f757b41382145d0a6c0447aebdff5d6875c4/ss_7f76f757b41382145d0a6c0447aebdff5d6875c4.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/31e2ed5b559f905abd954b52524eccf8db68c39e/ss_31e2ed5b559f905abd954b52524eccf8db68c39e.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/31e2ed5b559f905abd954b52524eccf8db68c39e/ss_31e2ed5b559f905abd954b52524eccf8db68c39e.1920x1080.jpg?t=1795513831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/5f9bd9854fb987d544bb8aa5ffa3f16be9d6c090/ss_5f9bd9854fb987d544bb8aa5ffa3f16be9d6c090.600x338.jpg?t=1795513831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582140/5f9bd9854fb987d544bb8aa5ffa3f16be9d6c090/ss_5f9bd9854fb987d544bb8aa5ffa3f16be9d6c090.1920x1080.jpg?t=1795513831"
+    }
+  ],
+  "web": "https://www.seafarergame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 334351,
+  "youtube": [
+    {
+      "id": "i02TfGvkSkw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tYvQMSqNpkc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "58TuJ6hzgnc",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T13:45:57.496Z"
+}

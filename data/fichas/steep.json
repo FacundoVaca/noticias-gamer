@@ -1,0 +1,431 @@
+{
+  "clave": "steep",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1018-7053-bd38-d5cfb751b486",
+  "appid": "460920",
+  "lanzamiento": "2016-12-01",
+  "desarrolladores": [
+    "Ubisoft Annecy / Montpellier/ Kiev",
+    "Ubisoft Montpellier",
+    "Ubisoft Kiev",
+    "Ubisoft Annecy",
+    "Ubisoft Annecy, Ubisoft Montpellier, Ubisoft Kiev"
+  ],
+  "editores": [
+    "Ubisoft"
+  ],
+  "etiquetas": [
+    "Sports",
+    "Open World",
+    "Multiplayer",
+    "Action",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 32184,
+      "url": "https://store.steampowered.com/app/460920/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 16,
+      "url": "https://metacritic.com/game/steep/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 65,
+      "cantidad": 396,
+      "url": "https://metacritic.com/game/steep/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 71,
+      "cantidad": 84,
+      "url": "https://opencritic.com/game/3215/steep"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "142186",
+      "nombre": "Steep",
+      "apps": [
+        {
+          "appid": "460920",
+          "nombre": "Steep™"
+        }
+      ],
+      "usd": 3.59,
+      "antes": 23.99,
+      "descuento": 85
+    },
+    {
+      "packageid": "309890",
+      "nombre": "Steep - X-Games Gold Edition",
+      "apps": [
+        {
+          "appid": "460920",
+          "nombre": "Steep™"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 39.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "460920": {
+      "usd": 3.59,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 8,
+  "dlcLista": [
+    {
+      "appid": "564360",
+      "nombre": "Steep™ - Season Pass",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 85
+    },
+    {
+      "appid": "951660",
+      "nombre": "Steep - X-Games Pass",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 85
+    },
+    {
+      "appid": "951662",
+      "nombre": "Steep - X-Games DLC",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 85
+    },
+    {
+      "appid": "951666",
+      "nombre": "Steep™ - 90's DLC",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "951664",
+      "nombre": "Steep™ - Rocket Wings DLC",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "556390",
+      "nombre": "Steep™ - Welcome Pack",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 0
+    },
+    {
+      "appid": "556391",
+      "nombre": "Steep™ - Winterfest Pack",
+      "gratis": false,
+      "usd": 1.43,
+      "descuento": 85
+    },
+    {
+      "appid": "556392",
+      "nombre": "Steep™ - Extreme Pack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 85
+    }
+  ],
+  "descripcion": "Recorre un enorme mundo abierto a través de los Alpes, donde la nieve es polvo fresco y el descenso infinito. Desafía la montaña solo o con amigos, con esquís, traje de alas, tabla de snowboard o parapente. Graba y comparte tus mejores acrobacias.",
+  "generos": [
+    "Acción",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "2 DIC 2016",
+  "metacritic": {
+    "puntaje": 72,
+    "url": "https://www.metacritic.com/game/pc/steep?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Steep™",
+  "acerca": [
+    [
+      "p",
+      "Recorre un mundo abierto y enorme a través de los Alpes, donde la nieve siempre es polvo fresco y el descenso nunca termina."
+    ],
+    [
+      "p",
+      "Domina las tierras salvajes del continente americano en la actualización gratuita de Alaska, una nueva región llena de desafíos."
+    ],
+    [
+      "p",
+      "La montaña es tuya y está esperando a que la explores. Así que ponte el traje, ajusta las fijaciones y... ¡lánzate!"
+    ],
+    [
+      "p",
+      "- DESCIENDE A TU MANERA -Conquista las montañas más asombrosas del mundo en esquí, traje de alas, tabla de snowboard o parapente."
+    ],
+    [
+      "p",
+      "- VIVE MOMENTOS INOLVIDABLES CON OTROS JUGADORES -Juega solo o junto a otros compañeros para compartir descensos emocionantes y llenos de adrenalina."
+    ],
+    [
+      "p",
+      "- LA MONTAÑA ES TUYA, EXPLÓRALA -Crea tu propio camino a través del enorme escenario y comparte tus mejores recorridos personalizados con tus amigos."
+    ],
+    [
+      "p",
+      "- PON A PRUEBA TUS HABILIDADES -Demuestra que eres el rey de la montaña superando desafíos únicos y espectaculares."
+    ],
+    [
+      "p",
+      "- COMPARTE TODO -Captura tus acrobacias más locas y compártelas en las redes sociales."
+    ],
+    [
+      "p",
+      "Se necesita una conexión permanente a internet para jugar."
+    ],
+    [
+      "p",
+      "- ENFOCA TU MIRADA EN LOS ALPES"
+    ],
+    [
+      "p",
+      "Adéntrate en los terrenos de un mundo abierto cubierto de nieve. Prepárate para experimentar algunas maniobras épicas al mismo tiempo que te diriges a la cumbre de la emoción. Experimenta 360 ° de libertad visual mientras exploras los Alpes. Deja que tu mirada te sumerja en el enorme parque de juegos de invierno. Tu atención a cada detalle de lo que está sucediendo nunca había fluido tanto como con el conjunto de funciones integrado de Tobii Eye Tracking. Usando su mirada para destruir las colinas mejora su juego y le permite embarcarse en el viaje de su vida."
+    ],
+    [
+      "p",
+      "Compatible con todos los dispositivos de juego de Tobii Eye Tracking."
+    ],
+    [
+      "p",
+      "Notas adicionales:"
+    ],
+    [
+      "p",
+      "Las funciones de seguimiento visual están disponibles con Tobii Eye Tracking."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 2400S at 2.5 Ghz or AMD FX-4100 at 3.6 Ghz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 560TI or Radeon R7 260X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX® compatible sound card with latest drivers"
+      ],
+      [
+        "Notas adicionales",
+        "SUPPORTED VIDEO CARDS (at time of release): NVIDIA GeForce® GTX660 or better, GeForce® GTX700/900/1000 series, AMD Radeon R9 260X or better, AMD Radeon R9 300 series, Fury series. Laptop versions of these cards may work but are NOT officially supported. For an up-to-date list of supported chipsets, please visit the FAQ for this game on our website: . PERIPHERAL SUPPORTED: Windows®-compatible keyboard and mouse required, optional controller"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Originally released for Windows 7, the game can be played on Windows 10 and Windows 11 OS"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7 3770K at 3.5 Ghz or AMD FX-8350 at 4.0 Ghz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 970 or Radeon R9 390"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX® compatible sound card with latest drivers"
+      ],
+      [
+        "Notas adicionales",
+        "SUPPORTED VIDEO CARDS (at time of release): NVIDIA GeForce® GTX660 or better, GeForce® GTX700/900/1000 series, AMD Radeon R9 260X or better, AMD Radeon R9 300 series, Fury series. Laptop versions of these cards may work but are NOT officially supported. For an up-to-date list of supported chipsets, please visit the FAQ for this game on our website: . PERIPHERAL SUPPORTED: Windows®-compatible keyboard and mouse required, optional controller"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_871b8c0ec9fd523555e8d0d11d652f82da491894.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_871b8c0ec9fd523555e8d0d11d652f82da491894.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_d6d8b0a93a41b0230b5cd36a057b5a92b3e18188.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_d6d8b0a93a41b0230b5cd36a057b5a92b3e18188.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_926a9ba0ea6b491321cd8eacbb54c78bdaf59d20.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_926a9ba0ea6b491321cd8eacbb54c78bdaf59d20.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_cdf4da3ab42485d5edefe74bfeae33259f0b1bfc.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_cdf4da3ab42485d5edefe74bfeae33259f0b1bfc.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_da838549dac56c25434f69fe79c3a42156909e1d.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_da838549dac56c25434f69fe79c3a42156909e1d.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_4f2a23a29a81c78370481f2f47d778f6b0839e5b.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_4f2a23a29a81c78370481f2f47d778f6b0839e5b.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_3d14c33d2564b2cac04b47accb899d1b2e27e29d.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_3d14c33d2564b2cac04b47accb899d1b2e27e29d.1920x1080.jpg?t=1777994343"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_8041a63b5b6813e1477974f3e0c405c1a4e6f88a.600x338.jpg?t=1777994343",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/ss_8041a63b5b6813e1477974f3e0c405c1a4e6f88a.1920x1080.jpg?t=1777994343"
+    }
+  ],
+  "web": "http://steepgame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 19554,
+  "youtube": [
+    {
+      "id": "5N-eqfqOZbQ",
+      "nombre": "E3 2016 Walkthrough Trailer"
+    },
+    {
+      "id": "kjSfVN65kdM",
+      "nombre": "Gamescon 2016 Trailer"
+    },
+    {
+      "id": "97mkXmD3gls",
+      "nombre": "Ride It Like Luke Aikins Trailer"
+    },
+    {
+      "id": "A6YCLeYAyW0",
+      "nombre": "Winter Fest Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T13:45:16.774Z"
+}

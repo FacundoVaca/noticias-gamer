@@ -1,0 +1,399 @@
+{
+  "clave": "bus simulator 27",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0198131b-9022-73d0-9f04-3d6f44b07f58",
+  "appid": "2397320",
+  "lanzamiento": "2026-09-08",
+  "desarrolladores": [
+    "Simteract"
+  ],
+  "editores": [
+    "Astragon Entertainment",
+    "Simteract",
+    "Astragon Entertainment GmbH"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Automobile Sim",
+    "Driving",
+    "Exploration",
+    "Realistic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 65,
+      "cantidad": 773,
+      "url": "https://store.steampowered.com/app/2397320/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 65,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/bus-simulator-27/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 63,
+      "cantidad": 17,
+      "url": "https://opencritic.com/game/21309/bus-simulator-27"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1602318",
+      "nombre": "Bus Simulator 27",
+      "apps": [
+        {
+          "appid": "2397320",
+          "nombre": "Bus Simulator 27"
+        }
+      ],
+      "usd": 9.56,
+      "antes": 14.49,
+      "descuento": 34
+    },
+    {
+      "packageid": "1602319",
+      "nombre": "Bus Simulator 27 - Year 1 Edition",
+      "apps": [
+        {
+          "appid": "2397320",
+          "nombre": "Bus Simulator 27"
+        },
+        {
+          "appid": "4488260",
+          "nombre": "Bus Simulator 27 - Season Pass"
+        }
+      ],
+      "usd": 16.09,
+      "antes": 22.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "2397320": {
+      "usd": 9.56,
+      "gratis": false
+    },
+    "4488260": {
+      "usd": 13.04,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "4488260",
+      "nombre": "Bus Simulator 27 - Season Pass",
+      "gratis": false,
+      "usd": 13.04,
+      "descuento": 10
+    },
+    {
+      "appid": "4217010",
+      "nombre": "Bus Simulator 27: Deluxe Pack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    },
+    {
+      "appid": "4315960",
+      "nombre": "Bus Simulator 27: Mercedes-Benz Intouro",
+      "gratis": false,
+      "usd": 1.75,
+      "descuento": 20
+    },
+    {
+      "appid": "5360160",
+      "nombre": "Bus Simulator 27: BYD Bus Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Conduce autobuses con licencia oficial de fabricantes de renombre y haz que tu empresa de autobuses triunfe. ¡El sistema de transporte público de Felicia Bay cuenta contigo!",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "8 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Bus Simulator 27",
+  "acerca": [
+    [
+      "p",
+      "Descubre la flota de autobuses más completa y moderna de la saga. Te esperan más de 45 autobuses con licencia oficial de 13 fabricantes de renombre mundial como Solaris™, Mercedes-Benz, MAN, IVECO BUS, Scania y Volvo que podrás conducir. Si te gustan los autobuses clásicos rígidos, articulados, de dos pisos y hasta eléctricos, Bus Simulator 27 tiene todo lo que necesitas. ¡Y, por primera vez en la saga, ponte al volante de impresionantes autocares y realiza recorridos de larga distancia!"
+    ],
+    [
+      "p",
+      "Felicia Bay es el lugar perfecto para trabajar donde otros vienen de vacaciones; una región ficticia muy soleada al sur de Europa inspirada en España y Portugal. Explora las dinámicas ciudades gemelas, Alcaztelar y Mequina, con más de 20 distritos únicos repletos de lugares emblemáticos; un clima variable, ciclos diarios de día y noche, y calles bulliciosas llenas de gente que cobran vida gracias a Unreal® Engine 5. Crea y realiza rutas, gestiona horarios, contrata a conductores de autobús, asigna líneas, personaliza autobuses con diseños y publicidad, y haz que los ciudadanos y los turistas vuelvan a confiar en el transporte público."
+    ],
+    [
+      "p",
+      "Descubre tres modos de juego distintos y juega como tú quieras: historia, carrera y libre. Disfruta del tiempo en el autobús mientras interactúas con los pasajeros. Descubre eventos en el autobús y en el tráfico durante el trayecto. Y si necesitas algo más de variedad, juega como revisor o pasajero. También puedes bajarte del autobús y explorar Felicia Bay a pie para buscar los puntos de interés de la ciudad y sus coleccionables secretos."
+    ],
+    [
+      "p",
+      "Juega en solitario o con tus amigos en el modo cooperativo multijugador con hasta 4 personas sin importar la plataforma. Coordinad vuestras rutas y gestionad la flota de autobuses para hacer crecer vuestra empresa. ¡Además, podrás disfrutar mucho mejor de Bus Simulator 27 con los nuevos mods de mod.io para PC! Bus Simulator 27 es compatible con los mandos y volantes más conocidos para que tu viaje sea todavía más agradable."
+    ],
+    [
+      "p",
+      "¡Móntate en el autobús y a disfrutar del solecito!"
+    ],
+    [
+      "p",
+      "Características:"
+    ],
+    [
+      "p",
+      "LA MAYOR FLOTA DE AUTOBUSES: más de 45 autobuses de 13 fabricantes de renombre."
+    ],
+    [
+      "p",
+      "NUEVO AUTOBÚS: conduce autocares con licencia."
+    ],
+    [
+      "p",
+      "EN SOLITARIO: disfruta del juego a tu ritmo."
+    ],
+    [
+      "p",
+      "CON AMIGOS: partidas cooperativas con hasta 4 jugadores."
+    ],
+    [
+      "p",
+      "MODO COOPERATIVO EN LÍNEA: que nadie se quede fuera."
+    ],
+    [
+      "p",
+      "CROSSPLAY COMPLETO: que nadie se quede fuera."
+    ],
+    [
+      "p",
+      "3 MODOS DE JUEGO: historia, carrera y libre."
+    ],
+    [
+      "p",
+      "TU PAPEL: juega como conductor, revisor o pasajero."
+    ],
+    [
+      "p",
+      "EVENTOS DENTRO DEL AUTOBÚS: atiende a los pasajeros."
+    ],
+    [
+      "p",
+      "TRÁFICO DENSO: enfréntate a contratiempos durante tu ruta."
+    ],
+    [
+      "p",
+      "DISFRUTA DEL SOL: explora Felicia Bay, una joya al sur de Europa."
+    ],
+    [
+      "p",
+      "MAPA ENORME: con 2 ciudades, 20 distritos y paisajes impresionantes."
+    ],
+    [
+      "p",
+      "GESTIONA: dirige tu propia empresa y disfruta de una amplia variedad de opciones de gestión."
+    ],
+    [
+      "p",
+      "MODDING: Ampliable con mods de mod.IO en PC"
+    ],
+    [
+      "p",
+      "PERIFÉRICOS: compatible con los mandos y volantes más conocidos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Core i3-12100 / Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060 / AMD Radeon RX 580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Core i3-14100KF / Ryzen 5 9600X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia RTX 2080Ti / AMD Radeon RX 7800 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/506f1eda0fddd5b76b4cbf41101268795c96db64/ss_506f1eda0fddd5b76b4cbf41101268795c96db64.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/506f1eda0fddd5b76b4cbf41101268795c96db64/ss_506f1eda0fddd5b76b4cbf41101268795c96db64.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/3bc9acf955cc887a7c16dff62ca781811096f71b/ss_3bc9acf955cc887a7c16dff62ca781811096f71b.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/3bc9acf955cc887a7c16dff62ca781811096f71b/ss_3bc9acf955cc887a7c16dff62ca781811096f71b.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/d2bd22c05099f390cb849a5ffdb4a920c96d65ef/ss_d2bd22c05099f390cb849a5ffdb4a920c96d65ef.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/d2bd22c05099f390cb849a5ffdb4a920c96d65ef/ss_d2bd22c05099f390cb849a5ffdb4a920c96d65ef.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/44da8ccb7c96fe1e12dda6c6d35aa027cb3c53bd/ss_44da8ccb7c96fe1e12dda6c6d35aa027cb3c53bd.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/44da8ccb7c96fe1e12dda6c6d35aa027cb3c53bd/ss_44da8ccb7c96fe1e12dda6c6d35aa027cb3c53bd.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/dd35339f5d8f1c553542e3c4ba7d623ae32d2ba6/ss_dd35339f5d8f1c553542e3c4ba7d623ae32d2ba6.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/dd35339f5d8f1c553542e3c4ba7d623ae32d2ba6/ss_dd35339f5d8f1c553542e3c4ba7d623ae32d2ba6.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/7f9b6cd18bf58b5c799649c28bca6cd2024304ca/ss_7f9b6cd18bf58b5c799649c28bca6cd2024304ca.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/7f9b6cd18bf58b5c799649c28bca6cd2024304ca/ss_7f9b6cd18bf58b5c799649c28bca6cd2024304ca.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/0c6ba058e13df7713220353ef0c0f5cbb1e1ad7e/ss_0c6ba058e13df7713220353ef0c0f5cbb1e1ad7e.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/0c6ba058e13df7713220353ef0c0f5cbb1e1ad7e/ss_0c6ba058e13df7713220353ef0c0f5cbb1e1ad7e.1920x1080.jpg?t=1795086194"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/6d8fc59460cda98cad50fc0cf95037c84f7e1199/ss_6d8fc59460cda98cad50fc0cf95037c84f7e1199.600x338.jpg?t=1795086194",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397320/6d8fc59460cda98cad50fc0cf95037c84f7e1199/ss_6d8fc59460cda98cad50fc0cf95037c84f7e1199.1920x1080.jpg?t=1795086194"
+    }
+  ],
+  "web": "https://www.bussimulator.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 355086,
+  "youtube": [
+    {
+      "id": "MR1913Q0uSk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "nb2RMb2XB4c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QKlr9vRFF2U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "PZZN_tf2NCo",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T13:45:28.543Z"
+}

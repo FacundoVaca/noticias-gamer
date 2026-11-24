@@ -1,0 +1,357 @@
+{
+  "clave": "dishonored",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f96f-71e5-aa80-352cbee965b9",
+  "appid": "205100",
+  "lanzamiento": "2012-10-09",
+  "desarrolladores": [
+    "Arkane Studios",
+    "Arkane® Studios"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks"
+  ],
+  "etiquetas": [
+    "Stealth",
+    "Action",
+    "First-Person",
+    "Story Rich",
+    "Steampunk"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 12555,
+      "url": "https://store.steampowered.com/app/217980/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 91,
+      "cantidad": 29,
+      "url": "https://metacritic.com/game/dishonored/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 2306,
+      "url": "https://metacritic.com/game/dishonored/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "17207",
+      "nombre": "Dishonored",
+      "apps": [
+        {
+          "appid": "205100",
+          "nombre": "Dishonored"
+        }
+      ],
+      "usd": 1.49,
+      "antes": 5.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "31292",
+      "nombre": "Dishonored GOTY",
+      "apps": [
+        {
+          "appid": "205100",
+          "nombre": "Dishonored"
+        },
+        {
+          "appid": "208575",
+          "nombre": "Dishonored - The Knife of Dunwall"
+        },
+        {
+          "appid": "212893",
+          "nombre": "Dishonored - Void Walker Arsenal"
+        },
+        {
+          "appid": "208570",
+          "nombre": "Dishonored: Dunwall City Trials"
+        },
+        {
+          "appid": "212894",
+          "nombre": "Dishonored: The Brigmore Witches"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 11.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "205100": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "208570": {
+      "usd": 0.71,
+      "gratis": false
+    },
+    "208575": {
+      "usd": 1.19,
+      "gratis": false
+    },
+    "212893": {
+      "usd": 0.47,
+      "gratis": false
+    },
+    "212894": {
+      "usd": 1.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "212894",
+      "nombre": "Dishonored: The Brigmore Witches",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    },
+    {
+      "appid": "212893",
+      "nombre": "Dishonored - Void Walker Arsenal",
+      "gratis": false,
+      "usd": 0.47,
+      "descuento": 61
+    },
+    {
+      "appid": "208575",
+      "nombre": "Dishonored - The Knife of Dunwall",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 60
+    },
+    {
+      "appid": "208570",
+      "nombre": "Dishonored: Dunwall City Trials",
+      "gratis": false,
+      "usd": 0.71,
+      "descuento": 60
+    },
+    {
+      "appid": "455050",
+      "nombre": "Dishonored Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Dishonored es un juego de acción en primera persona al que te entregarás por completo encarnando a un asesino sobrenatural movido por la sed de venganza.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "8 OCT 2012",
+  "metacritic": {
+    "puntaje": 91,
+    "url": "https://www.metacritic.com/game/pc/dishonored?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Dishonored",
+  "acerca": [
+    [
+      "p",
+      "Dishonored es un juego de acción en primera persona al que te entregarás por completo encarnando a un asesino sobrenatural movido por la sed de venganza. Un sistema de combate flexible te permitirá combinar una gran variedad de poderes sobrenaturales, armas y enrevesados artilugios para eliminar a tus enemigos desplegando toda tu creatividad. Tú decides si quieres perseguir a tus víctimas ocultándote en las sombras o si quieres acabar con ellas a cara descubierta y mostrando tus armas. Da igual lo que hagas: las decisiones que tomes tendrán consecuencias en el resultado de las misiones."
+    ],
+    [
+      "h",
+      "Historia:"
+    ],
+    [
+      "p",
+      "La historia de Dishonored se desarrolla en Dunwall, una ciudad industrial ballenera en la que el más oscuro misticismo coexiste con el uso de extrañas tecnologías. Tras ser acusado falsamente del asesinato de la querida emperatriz, pasas de ser su guardaespaldas de confianza a convertirte en un temible asesino, conocido únicamente por la perturbadora máscara que has convertido en tu tarjeta de visita. La ciudad vive un periodo de incertidumbre y se encuentra asediada por la peste y por un régimen opresor armado con tecnologías neoindustriales. En este trasfondo, fuerzas oscuras conspiran para ofrecerte poderes que ningún otro ser humano jamás podría imaginar, pero… ¿cuál es el precio? La verdad tras tu traición es tan turbia como las aguas que rodean la ciudad y la vida que antes conocieras se ha desvanecido para siempre."
+    ],
+    [
+      "h",
+      "Características Principales:"
+    ],
+    [
+      "li",
+      "Improvisa e innova"
+    ],
+    [
+      "p",
+      "Enfréntate a cada asesinato con tu propio estilo de juego; puedes optar por pasar desapercibido aprovechando el sonido y las sombras en tu propio beneficio, o por atacar a tus enemigos de frente con toda tu agresividad. Un sistema de combate flexible te permite desplegar tu creatividad y combinar tus habilidades, poderes sobrenaturales y artilugios para abrirte camino en los diferentes niveles y acabar con tus adversarios. Improvisa y trata de innovar para crear el estilo de juego que mejor te defina."
+    ],
+    [
+      "li",
+      "Acción con mucho sentido"
+    ],
+    [
+      "p",
+      "El mundo que te rodea en Dishonored reacciona ante tus actos; tanto si decides moverte como un fantasma como si decides no caer en la corrupción, o no mostrar ningún tipo de piedad y dejar un reguero de sangre a tu paso. Decide cómo quieres enfrentarte en cada misión y verás como el resultado de cada una de ellas cambiará en función de tus acciones."
+    ],
+    [
+      "li",
+      "Poderes sobrenaturales"
+    ],
+    [
+      "p",
+      "Teletranspórtate para acercarte furtivamente a tus víctimas, métete en el cuerpo de cualquier criatura o detén el tiempo para orquestar ejecuciones sobrehumanas. Combina tus poderes sobrenaturales y las armas para disfrutar de innumerables formas de superar los obstáculos y acabar con tus enemigos. Un elaborado sistema de mejoras te permitirá dominar nuevas habilidades letales e insólitos artilugios."
+    ],
+    [
+      "li",
+      "Una ciudad única"
+    ],
+    [
+      "p",
+      "Descubre un mundo original fruto de la visión del director artístico de Half-Life 2, Viktor Antonov. Arkane y Bethesda te ofrecen un universo en el que la industria y el misticismo chocan creando una atmósfera llena de intriga. En Dishonored tienes todo un mundo por descubrir."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Alternativas de color",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows Vista / Windows 7"
+      ],
+      [
+        "Procesador",
+        "Dual Core a 3.0 GHz o superior"
+      ],
+      [
+        "Memoria",
+        "3 GB de RAM"
+      ],
+      [
+        "Disco Duro",
+        "9 GB de espacio libre"
+      ],
+      [
+        "Gráficos",
+        "512 MB de VRAM, compatible con DirectX 9 o superior (nVidia GeForce GTX 460 / ATI Radeon HD 5850)"
+      ],
+      [
+        "Sonido",
+        "Dispositivo compatible con Windows"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows Vista / Windows 7 (mejorado para sistemas de 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Quad Core a 2.4 GHz o superior (mejorado para procesadores multinúcleo)"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Disco Duro",
+        "9 GB de espacio libre"
+      ],
+      [
+        "Tarjeta de Vídeo",
+        "768 MB de VRAM, compatible con DirectX 9 o superior (nVidia GeForce GTX 460 / ATI Radeon HD 5850)"
+      ],
+      [
+        "Sonido",
+        "Dispositivo compatible con Windows"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_409bb8591d4c8278815510d9be737b57dfc57e06.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_409bb8591d4c8278815510d9be737b57dfc57e06.1920x1080.jpg?t=1789050056"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_32d76a6ff4b216410b90ff2cdb7107a28a1baed2.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_32d76a6ff4b216410b90ff2cdb7107a28a1baed2.1920x1080.jpg?t=1789050056"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_fd7613fa1b8f19674cc0b4cd53db39c9618641fd.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_fd7613fa1b8f19674cc0b4cd53db39c9618641fd.1920x1080.jpg?t=1789050056"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_8d26f4f83fb598eed36bdb0c6ecb41962a64ccf7.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_8d26f4f83fb598eed36bdb0c6ecb41962a64ccf7.1920x1080.jpg?t=1789050056"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_e6f960fda9132baa23aca305359064dbc1b6f507.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_e6f960fda9132baa23aca305359064dbc1b6f507.1920x1080.jpg?t=1789050056"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_30e0328295a5d208283e69eb382fac2fa94809a8.600x338.jpg?t=1789050056",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/ss_30e0328295a5d208283e69eb382fac2fa94809a8.1920x1080.jpg?t=1789050056"
+    }
+  ],
+  "web": "http://www.dishonored.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 533,
+  "youtube": [
+    {
+      "id": "TeQDBBi8MdU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "JZDYq6HufNs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "E1HlYTukh9A",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-24T13:45:51.121Z"
+}
