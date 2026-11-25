@@ -1,0 +1,310 @@
+{
+  "clave": "paper trail",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6194-7111-a189-c706f53d97cd",
+  "appid": "1889740",
+  "lanzamiento": "2024-05-20",
+  "desarrolladores": [
+    "Newfangled Games"
+  ],
+  "editores": [
+    "Newfangled Games",
+    "Netflix",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Puzzle",
+    "Indie",
+    "2D",
+    "Cozy",
+    "Wholesome"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 750,
+      "url": "https://store.steampowered.com/app/1889740/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/paper-trail/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 87,
+      "cantidad": 118,
+      "url": "https://metacritic.com/game/paper-trail/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 35,
+      "url": "https://opencritic.com/game/16726/paper-trail"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "680558",
+      "nombre": "Paper Trail",
+      "apps": [
+        {
+          "appid": "1889740",
+          "nombre": "Paper Trail"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1889740": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "3002320",
+      "nombre": "Paper Trail Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Paper Trail es una aventura rompecabezas de vista cenital acerca de la emancipación y que se desarrolla en un mundo plegable hecho de papel.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "21 MAY 2024",
+  "metacritic": {
+    "puntaje": 80,
+    "url": "https://www.metacritic.com/game/pc/paper-trail?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Paper Trail",
+  "acerca": [
+    [
+      "p",
+      "Paper Trail es una aventura rompecabezas de vista cenital acerca de la emancipación y que se desarrolla en un mundo plegable hecho de papel. Tomarás el papel de Paige, una académica en ciernes que se va de casa por primera vez para proseguir sus estudios. Durante tu viaje, aprenderás a doblar el mundo y combinar dos caras para resolver rompecabezas, explorarás nuevas zonas y descubrirás secretos perdidos hace ya mucho tiempo."
+    ],
+    [
+      "h",
+      "Dobla el mundo, página a página"
+    ],
+    [
+      "p",
+      "Si bien al principio puede parecer sencillo doblar y unir los caminos para explorar y avanzar en tu viaje, ¡enseguida se torna extremadamente complicado! Gira, contorsiona, tuerce y dobla el tejido del mundo para resolver los rompecabezas de Paper Trail."
+    ],
+    [
+      "h",
+      "Rompecabezas y personas interesantes"
+    ],
+    [
+      "p",
+      "Resuelve rompecabezas que pondrán a prueba tu ingenio al mismo tiempo que te llevan a través del mundo de Paper Trail. Durante su viaje por los pliegues, Paige conocerá a un singular elenco de personajes que le contarán sus historias y de las que aprenderá sobre el resto del mundo."
+    ],
+    [
+      "h",
+      "Preciosos entornos hechos a mano"
+    ],
+    [
+      "p",
+      "Desde oscuras cuevas intactas desde hace años, hasta las más altas copas de los árboles zarandeadas por la lluvia. Explora todo tipo de entornos hechos a mano a lo largo del viaje de Paige hacia la universidad y disfruta de las vistas y de las maravillas de allá donde vaya."
+    ],
+    [
+      "h",
+      "Un estilo artístico fascinante"
+    ],
+    [
+      "p",
+      "Disfruta del arte de Paper Trail, inspirado en otros estilos planos como el grabado o las acuarelas, que se han combinado para crear un estilo único que acompaña a la perfección a la ambientación en papel del juego."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compatible con Steam Input",
+    "Sonido estéreo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 SP1+"
+      ],
+      [
+        "Procesador",
+        "Intel or AMD Dual Core at 2 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Geforce GT 420, Radeon HD 7400G"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_1469a801a268e771e65b1c58f2930a9b33614e5d.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_1469a801a268e771e65b1c58f2930a9b33614e5d.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_7b97126bf1e6de78626d89f36055dc3e4ba70d59.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_7b97126bf1e6de78626d89f36055dc3e4ba70d59.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_a1a611020f74862495fa0777a6d5da84a0c061a2.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_a1a611020f74862495fa0777a6d5da84a0c061a2.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_45d405974a6023d5f9bdacb74283fa0cd870f20e.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_45d405974a6023d5f9bdacb74283fa0cd870f20e.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_d28cf0892fe40d3721d6810dbdbd711914789f53.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_d28cf0892fe40d3721d6810dbdbd711914789f53.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_f1ea715db09be919e58d92e06d631f37954b0080.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_f1ea715db09be919e58d92e06d631f37954b0080.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_50b0da54571564f35a6c46956cd79b0d63ab7071.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_50b0da54571564f35a6c46956cd79b0d63ab7071.1920x1080.jpg?t=1750783735"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_9775e51da937f32d838b3cd9a84d0d36bd968b2a.600x338.jpg?t=1750783735",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889740/ss_9775e51da937f32d838b3cd9a84d0d36bd968b2a.1920x1080.jpg?t=1750783735"
+    }
+  ],
+  "web": "https://www.papertrailgame.com/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 142561,
+  "youtube": [
+    {
+      "id": "WPVPOZ7RDpU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "OjOu-YsrJ8Q",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "O07UAd7_qFY",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "JhZP9VxI-m8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T17:45:16.975Z"
+}

@@ -1,0 +1,353 @@
+{
+  "clave": "prohibeast",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01953c48-58fc-732e-b7a5-317d4ec76f03",
+  "appid": "3503790",
+  "lanzamiento": "2026-06-03",
+  "desarrolladores": [
+    "SUPER AC"
+  ],
+  "editores": [
+    "SUPER AC"
+  ],
+  "etiquetas": [
+    "Real Time Tactics",
+    "Strategy",
+    "Stealth",
+    "RTS",
+    "Action-Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 60,
+      "cantidad": 133,
+      "url": "https://store.steampowered.com/app/3503790/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1237179",
+      "nombre": "PROHIBEAST",
+      "apps": [
+        {
+          "appid": "3503790",
+          "nombre": "PROHIBEAST"
+        }
+      ],
+      "usd": 10.79,
+      "antes": 17.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3503790": {
+      "usd": 10.69,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4464210",
+      "nombre": "PROHIBEAST Soundtrack",
+      "gratis": false,
+      "usd": 3.47,
+      "descuento": 40
+    }
+  ],
+  "descripcion": "Sumérgete en el Chicago de los años 30, asolado por la corrupción y el tráfico ilegal de carne. En este juego de infiltración táctica, controla a Eliot Ness y su equipo. Aprovecha el entorno y golpea a la mafia desde las sombras para desmantelar el imperio criminal de Al Capone.",
+  "generos": [
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "3 JUN 2026",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "PROHIBEAST",
+  "acerca": [
+    [
+      "h",
+      "Prohibeast – Infiltración táctica en el corazón de la Prohibición"
+    ],
+    [
+      "p",
+      "En Prohibeast , un juego de infiltración táctica en tiempo real, sumérgete en un Chicago de los años 30 , dominado por la corrupción y el contrabando de carne."
+    ],
+    [
+      "p",
+      "Mientras el consumo de carne está prohibido, Al Capone expande su imperio criminal en un despiadado mercado negro. Ante una corrupción omnipresente, Eliot Ness y su equipo de los Intocables están listos para atacar desde las sombras y acabar con el crimen desde dentro."
+    ],
+    [
+      "h",
+      "Infiltración y estrategia: impón tu propio estilo"
+    ],
+    [
+      "p",
+      "Cada misión pondrá a prueba tu capacidad estratégica y tu habilidad para moverte con discreción."
+    ],
+    [
+      "p",
+      "◆ Planifica tus operaciones – Elige tu enfoque: infiltración silenciosa, neutralización discreta o distracción inteligente."
+    ],
+    [
+      "p",
+      "◆ Aprovecha el entorno a tu favor – Escondites, rutas alternativas, distracciones… Cada misión ofrece múltiples soluciones."
+    ],
+    [
+      "p",
+      "◆ Engaña los sentidos agudos de los enemigos – Vista afilada, oído fino, olfato agudo… Descubre una nueva forma de jugar: ¡infiltrarse ya no significa solo esconderse!"
+    ],
+    [
+      "h",
+      "Toma el control de los Intocables"
+    ],
+    [
+      "p",
+      "Al mando de los Intocables, toma el control de Eliot Ness y los miembros de su equipo, un grupo con habilidades complementarias donde cada uno juega un papel clave en las operaciones de infiltración:"
+    ],
+    [
+      "p",
+      "◆ Eliot Ness – Líder intrépido y versátil, capaz de adaptarse a cualquier situación para completar las misiones más arriesgadas."
+    ],
+    [
+      "p",
+      "◆ Malone B. Clonan – Fiel mano derecha y veterano resistente, que prefiere un enfoque más directo e implacable."
+    ],
+    [
+      "p",
+      "◆ Frank E. Eager – Francotirador metódico y discreto, eliminando a sus objetivos con una precisión letal."
+    ],
+    [
+      "p",
+      "Otros especialistas también se unirán a tu equipo para perfeccionar tus estrategias."
+    ],
+    [
+      "p",
+      "Aprende a aprovechar las fortalezas y debilidades de cada uno para desarrollar tácticas únicas y sorprender a la mafia donde menos se lo espere."
+    ],
+    [
+      "h",
+      "Infiltra lugares emblemáticos"
+    ],
+    [
+      "p",
+      "Cada misión te lleva al corazón de Chicago, a lugares donde el crimen y la corrupción prosperan."
+    ],
+    [
+      "p",
+      "Observa, planifica y adapta tu enfoque para alcanzar tus objetivos sin dejar rastro."
+    ],
+    [
+      "p",
+      "Desde el Loop , el icónico barrio de Chicago y centro del poder corrupto, hasta la residencia del alcalde , donde se forjan alianzas criminales, pasando por los muelles brumosos del Lago Míchigan , el epicentro del contrabando – cada ubicación está llena de peligros y oportunidades, exigiendo estrategias adaptadas para sobrevivir."
+    ],
+    [
+      "p",
+      "Pero aún quedan muchos otros escondites del crimen, donde el más mínimo error puede ser fatal."
+    ],
+    [
+      "p",
+      "Solo los mejores estrategas lograrán infiltrarse sin dejar rastro."
+    ],
+    [
+      "p",
+      "¿Serás capaz de operar desde las sombras y derribar el imperio criminal de Al Capone?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 950 | RX 5600 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "30 fps in 1080p, SFAA, no SSGI, low shadows, low textures map size"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7 or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce RTX 3060 | RX 6600 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High Quality Setting, in 1080p, Average performance, SSD recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/625771cf7137a1180420206a39135ada06308d5f/ss_625771cf7137a1180420206a39135ada06308d5f.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/625771cf7137a1180420206a39135ada06308d5f/ss_625771cf7137a1180420206a39135ada06308d5f.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/fe9b09c58aeb0a78204c4f39a60dbd2b665fb2da/ss_fe9b09c58aeb0a78204c4f39a60dbd2b665fb2da.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/fe9b09c58aeb0a78204c4f39a60dbd2b665fb2da/ss_fe9b09c58aeb0a78204c4f39a60dbd2b665fb2da.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/bdb929dd228d26755e154a24743dc173b4376f5e/ss_bdb929dd228d26755e154a24743dc173b4376f5e.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/bdb929dd228d26755e154a24743dc173b4376f5e/ss_bdb929dd228d26755e154a24743dc173b4376f5e.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/4f3f0cd29a1500ba6aa599e0a202e80b5f7241c5/ss_4f3f0cd29a1500ba6aa599e0a202e80b5f7241c5.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/4f3f0cd29a1500ba6aa599e0a202e80b5f7241c5/ss_4f3f0cd29a1500ba6aa599e0a202e80b5f7241c5.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/1037b8e8c49effff0919aa796f6855e4f0fbecca/ss_1037b8e8c49effff0919aa796f6855e4f0fbecca.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/1037b8e8c49effff0919aa796f6855e4f0fbecca/ss_1037b8e8c49effff0919aa796f6855e4f0fbecca.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/f831b5444caa5a3f412f9c3a9d94fa213de04d11/ss_f831b5444caa5a3f412f9c3a9d94fa213de04d11.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/f831b5444caa5a3f412f9c3a9d94fa213de04d11/ss_f831b5444caa5a3f412f9c3a9d94fa213de04d11.1920x1080.jpg?t=1795351587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/bc0b9e88fe69ae4b941453ecf27ae8802f7e3a56/ss_bc0b9e88fe69ae4b941453ecf27ae8802f7e3a56.600x338.jpg?t=1795351587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3503790/bc0b9e88fe69ae4b941453ecf27ae8802f7e3a56/ss_bc0b9e88fe69ae4b941453ecf27ae8802f7e3a56.1920x1080.jpg?t=1795351587"
+    }
+  ],
+  "web": "https://www.superacgames.com/produit/prohibeast/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood appears when enemies are killed with guns and firearm.",
+  "igdbIntentado": true,
+  "igdb": 343266,
+  "youtube": [
+    {
+      "id": "RzMuu6DDsp0",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "OGshsVVyzk4",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "JbeXOxy_ogc",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T17:45:27.132Z"
+}

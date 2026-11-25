@@ -1,0 +1,1278 @@
+{
+  "clave": "insurgency sandstorm",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2f29-7309-915c-f4b3603fb866",
+  "appid": "581320",
+  "lanzamiento": "2018-12-11",
+  "desarrolladores": [
+    "New World Interactive",
+    "New World Interactive LLC"
+  ],
+  "editores": [
+    "Focus Home Interactive",
+    "Focus Entertainment"
+  ],
+  "etiquetas": [
+    "FPS",
+    "Realistic",
+    "Shooter",
+    "Military",
+    "Tactical"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 104630,
+      "url": "https://store.steampowered.com/app/581320/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 30,
+      "url": "https://metacritic.com/game/insurgency-sandstorm/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 331,
+      "url": "https://metacritic.com/game/insurgency-sandstorm/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 59,
+      "url": "https://opencritic.com/game/6762/insurgency-sandstorm"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "329018",
+      "nombre": "Insurgency: Sandstorm",
+      "apps": [
+        {
+          "appid": "581320",
+          "nombre": "Insurgency: Sandstorm"
+        }
+      ],
+      "usd": 3.79,
+      "antes": 18.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "632434",
+      "nombre": "Insurgency: Sandstorm - 1-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "581320",
+          "nombre": "Insurgency: Sandstorm"
+        },
+        {
+          "appid": "1590711",
+          "nombre": "Insurgency: Sandstorm - Bad Day Gear Set"
+        },
+        {
+          "appid": "1590713",
+          "nombre": "Insurgency: Sandstorm - Bear Claw Weapon Skin Set"
+        },
+        {
+          "appid": "1409140",
+          "nombre": "Insurgency: Sandstorm - Desert Hex Weapon Skin Set"
+        },
+        {
+          "appid": "1308183",
+          "nombre": "Insurgency: Sandstorm - Ghillie Gear Set"
+        },
+        {
+          "appid": "1481112",
+          "nombre": "Insurgency: Sandstorm - Hunter Weapon Skin Set"
+        },
+        {
+          "appid": "1308181",
+          "nombre": "Insurgency: Sandstorm - Midnight Blue Weapon Skin Set"
+        },
+        {
+          "appid": "1308182",
+          "nombre": "Insurgency: Sandstorm - Nightstalker Gear Set"
+        },
+        {
+          "appid": "1308180",
+          "nombre": "Insurgency: Sandstorm - Red Dark Weapon Skin Set"
+        },
+        {
+          "appid": "1409142",
+          "nombre": "Insurgency: Sandstorm - Rogue Spec Ops Gear Set"
+        },
+        {
+          "appid": "1481110",
+          "nombre": "Insurgency: Sandstorm - Sasquatch Gear Set"
+        },
+        {
+          "appid": "1590712",
+          "nombre": "Insurgency: Sandstorm - True Grit Weapon Skin Set"
+        },
+        {
+          "appid": "1590710",
+          "nombre": "Insurgency: Sandstorm - Upriser Gear Set"
+        },
+        {
+          "appid": "1409141",
+          "nombre": "Insurgency: Sandstorm - Urban Digital Weapon Skin Set"
+        },
+        {
+          "appid": "1409143",
+          "nombre": "Insurgency: Sandstorm - Urban Warden Gear Set"
+        },
+        {
+          "appid": "1481113",
+          "nombre": "Insurgency: Sandstorm - Whiteout Weapon Skin Set"
+        },
+        {
+          "appid": "1481111",
+          "nombre": "Insurgency: Sandstorm - Yeti Gear Set"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 24.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "628880",
+      "nombre": "Insurgency: Sandstorm - Commercial License",
+      "apps": [
+        {
+          "appid": "581320",
+          "nombre": "Insurgency: Sandstorm"
+        }
+      ],
+      "usd": 44.99,
+      "antes": 44.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1362427",
+      "nombre": "Insurgency: Sandstorm -  Year 4 Pass",
+      "apps": [
+        {
+          "appid": "3801240",
+          "nombre": "Insurgency: Sandstorm -  Dragon Skin Weapon Skin Set"
+        },
+        {
+          "appid": "3801250",
+          "nombre": "Insurgency: Sandstorm -  Wheat Weapon Skin Set"
+        },
+        {
+          "appid": "3951930",
+          "nombre": "Insurgency: Sandstorm - Canyon Weapon Skin Set"
+        },
+        {
+          "appid": "3801230",
+          "nombre": "Insurgency: Sandstorm - Climber Gear Set"
+        },
+        {
+          "appid": "4210900",
+          "nombre": "Insurgency: Sandstorm - Endurance Weapon Skin Set"
+        },
+        {
+          "appid": "3951910",
+          "nombre": "Insurgency: Sandstorm - GRS Operator Gear Set"
+        },
+        {
+          "appid": "3951900",
+          "nombre": "Insurgency: Sandstorm - Jackal Gear Set"
+        },
+        {
+          "appid": "3951920",
+          "nombre": "Insurgency: Sandstorm - Jezzail Weapon Skin Set"
+        },
+        {
+          "appid": "4210880",
+          "nombre": "Insurgency: Sandstorm - Rapid Assault Gear Set"
+        },
+        {
+          "appid": "4210890",
+          "nombre": "Insurgency: Sandstorm - Scavenger Gear Set"
+        },
+        {
+          "appid": "3801220",
+          "nombre": "Insurgency: Sandstorm - Vandal Gear Set"
+        },
+        {
+          "appid": "4210910",
+          "nombre": "Insurgency: Sandstorm - War Torn Weapon Skin Set"
+        }
+      ],
+      "usd": 16.79,
+      "antes": 20.99,
+      "descuento": 20
+    },
+    {
+      "packageid": "1362435",
+      "nombre": "Insurgency: Sandstorm - 4-Year Anniversary Edition",
+      "apps": [
+        {
+          "appid": "581320",
+          "nombre": "Insurgency: Sandstorm"
+        },
+        {
+          "appid": "3801240",
+          "nombre": "Insurgency: Sandstorm -  Dragon Skin Weapon Skin Set"
+        },
+        {
+          "appid": "3801250",
+          "nombre": "Insurgency: Sandstorm -  Wheat Weapon Skin Set"
+        },
+        {
+          "appid": "1763080",
+          "nombre": "Insurgency: Sandstorm - Assault Pack"
+        },
+        {
+          "appid": "1590711",
+          "nombre": "Insurgency: Sandstorm - Bad Day Gear Set"
+        },
+        {
+          "appid": "1590713",
+          "nombre": "Insurgency: Sandstorm - Bear Claw Weapon Skin Set"
+        },
+        {
+          "appid": "2062374",
+          "nombre": "Insurgency: Sandstorm - Biker Gear Set"
+        },
+        {
+          "appid": "2062371",
+          "nombre": "Insurgency: Sandstorm - Black Powder Weapon Skin"
+        },
+        {
+          "appid": "2606140",
+          "nombre": "Insurgency: Sandstorm - Bloodwood Weapon Skin Set"
+        },
+        {
+          "appid": "1763083",
+          "nombre": "Insurgency: Sandstorm - Brute Gear Set"
+        },
+        {
+          "appid": "3951930",
+          "nombre": "Insurgency: Sandstorm - Canyon Weapon Skin Set"
+        },
+        {
+          "appid": "1763081",
+          "nombre": "Insurgency: Sandstorm - Carbon Fiber Weapon Skin Set"
+        },
+        {
+          "appid": "2606030",
+          "nombre": "Insurgency: Sandstorm - Chemical Combat Gear Set"
+        },
+        {
+          "appid": "1711180",
+          "nombre": "Insurgency: Sandstorm - Chrome Weapon Skin Set"
+        },
+        {
+          "appid": "3801230",
+          "nombre": "Insurgency: Sandstorm - Climber Gear Set"
+        },
+        {
+          "appid": "2062370",
+          "nombre": "Insurgency: Sandstorm - Damascus Weapon Skin Set"
+        },
+        {
+          "appid": "2062372",
+          "nombre": "Insurgency: Sandstorm - Dealer Gear Set"
+        },
+        {
+          "appid": "2606080",
+          "nombre": "Insurgency: Sandstorm - Desert Corpsman Gear Set"
+        },
+        {
+          "appid": "1409140",
+          "nombre": "Insurgency: Sandstorm - Desert Hex Weapon Skin Set"
+        },
+        {
+          "appid": "2606050",
+          "nombre": "Insurgency: Sandstorm - Desert Veteran Weapon Skin Set"
+        },
+        {
+          "appid": "2432522",
+          "nombre": "Insurgency: Sandstorm - Digital Splatter Weapon Skin Set"
+        },
+        {
+          "appid": "2606100",
+          "nombre": "Insurgency: Sandstorm - Duct Taped Weapon Skin Set"
+        },
+        {
+          "appid": "2606060",
+          "nombre": "Insurgency: Sandstorm - Dusty Weapon Skin Set"
+        },
+        {
+          "appid": "2606120",
+          "nombre": "Insurgency: Sandstorm - Forest Warden Gear Set"
+        },
+        {
+          "appid": "1308183",
+          "nombre": "Insurgency: Sandstorm - Ghillie Gear Set"
+        },
+        {
+          "appid": "1711183",
+          "nombre": "Insurgency: Sandstorm - Gray Man Gear Set"
+        },
+        {
+          "appid": "2606130",
+          "nombre": "Insurgency: Sandstorm - Green Recon Weapon Skin Set"
+        },
+        {
+          "appid": "3951910",
+          "nombre": "Insurgency: Sandstorm - GRS Operator Gear Set"
+        },
+        {
+          "appid": "1575020",
+          "nombre": "Insurgency: Sandstorm - High Resolution Texture Pack"
+        },
+        {
+          "appid": "1481112",
+          "nombre": "Insurgency: Sandstorm - Hunter Weapon Skin Set"
+        },
+        {
+          "appid": "3951900",
+          "nombre": "Insurgency: Sandstorm - Jackal Gear Set"
+        },
+        {
+          "appid": "3951920",
+          "nombre": "Insurgency: Sandstorm - Jezzail Weapon Skin Set"
+        },
+        {
+          "appid": "1308181",
+          "nombre": "Insurgency: Sandstorm - Midnight Blue Weapon Skin Set"
+        },
+        {
+          "appid": "2432521",
+          "nombre": "Insurgency: Sandstorm - Mountain Nomad Gear Set"
+        },
+        {
+          "appid": "2432520",
+          "nombre": "Insurgency: Sandstorm - Mountain Tactical Gear Set"
+        },
+        {
+          "appid": "2606090",
+          "nombre": "Insurgency: Sandstorm - Night Raven Weapon Skin Set"
+        },
+        {
+          "appid": "1308182",
+          "nombre": "Insurgency: Sandstorm - Nightstalker Gear Set"
+        },
+        {
+          "appid": "2606110",
+          "nombre": "Insurgency: Sandstorm - Phantom Gear Set"
+        },
+        {
+          "appid": "2062375",
+          "nombre": "Insurgency: Sandstorm - Pilot Gear Set"
+        },
+        {
+          "appid": "1711182",
+          "nombre": "Insurgency: Sandstorm - PMC Gear Set"
+        },
+        {
+          "appid": "2606040",
+          "nombre": "Insurgency: Sandstorm - Protective Gear Set"
+        },
+        {
+          "appid": "1308180",
+          "nombre": "Insurgency: Sandstorm - Red Dark Weapon Skin Set"
+        },
+        {
+          "appid": "1409142",
+          "nombre": "Insurgency: Sandstorm - Rogue Spec Ops Gear Set"
+        },
+        {
+          "appid": "2062376",
+          "nombre": "Insurgency: Sandstorm - Rust & Wrap Weapon Skin Set"
+        },
+        {
+          "appid": "1836470",
+          "nombre": "Insurgency: Sandstorm - S.O.R.T. Gear Set"
+        },
+        {
+          "appid": "1481110",
+          "nombre": "Insurgency: Sandstorm - Sasquatch Gear Set"
+        },
+        {
+          "appid": "2606070",
+          "nombre": "Insurgency: Sandstorm - Tactical Doc Gear Set"
+        },
+        {
+          "appid": "2062373",
+          "nombre": "Insurgency: Sandstorm - Technician Gear Set"
+        },
+        {
+          "appid": "1590712",
+          "nombre": "Insurgency: Sandstorm - True Grit Weapon Skin Set"
+        },
+        {
+          "appid": "1711181",
+          "nombre": "Insurgency: Sandstorm - Two-Tone Weapon Skin Set"
+        },
+        {
+          "appid": "1590710",
+          "nombre": "Insurgency: Sandstorm - Upriser Gear Set"
+        },
+        {
+          "appid": "1409141",
+          "nombre": "Insurgency: Sandstorm - Urban Digital Weapon Skin Set"
+        },
+        {
+          "appid": "1409143",
+          "nombre": "Insurgency: Sandstorm - Urban Warden Gear Set"
+        },
+        {
+          "appid": "3801220",
+          "nombre": "Insurgency: Sandstorm - Vandal Gear Set"
+        },
+        {
+          "appid": "1481113",
+          "nombre": "Insurgency: Sandstorm - Whiteout Weapon Skin Set"
+        },
+        {
+          "appid": "2432523",
+          "nombre": "Insurgency: Sandstorm - Woodburn Weapon Skin Set"
+        },
+        {
+          "appid": "1763082",
+          "nombre": "Insurgency: Sandstorm - Woodland Weapon Skin Set"
+        },
+        {
+          "appid": "2062377",
+          "nombre": "Insurgency: Sandstorm - Worn Veteran Weapon Skin Set"
+        },
+        {
+          "appid": "1481111",
+          "nombre": "Insurgency: Sandstorm - Yeti Gear Set"
+        }
+      ],
+      "usd": 24.74,
+      "antes": 54.99,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "581320": {
+      "usd": 3.79,
+      "gratis": false
+    },
+    "1308180": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1308181": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1308182": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1308183": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1409140": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1409141": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1409142": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1409143": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1481110": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1481111": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1481112": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1481113": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1575020": {
+      "usd": null,
+      "gratis": true
+    },
+    "1590710": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1590711": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1590712": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1590713": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1711180": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1711181": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1711182": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1711183": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1763080": {
+      "usd": 7.49,
+      "gratis": false
+    },
+    "1763081": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1763083": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "1836470": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062370": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062371": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062372": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062373": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062374": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062375": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2062376": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2432520": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2432521": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2432522": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606030": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606040": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606050": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606060": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606070": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606080": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606090": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606100": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606110": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606120": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606130": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2606140": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3801220": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3801230": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3801240": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3801250": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3951900": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3951910": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3951920": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "3951930": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "4210880": {
+      "usd": 1.79,
+      "gratis": false
+    },
+    "4210890": {
+      "usd": 1.79,
+      "gratis": false
+    },
+    "4210900": {
+      "usd": 1.79,
+      "gratis": false
+    },
+    "4210910": {
+      "usd": 1.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 67,
+  "dlcLista": [
+    {
+      "appid": "4771920",
+      "nombre": "Insurgency: Sandstorm - Reclaimed Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4771930",
+      "nombre": "Insurgency: Sandstorm - Woodwork Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4771940",
+      "nombre": "Insurgency: Sandstorm - Remnant Gear Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4771950",
+      "nombre": "Insurgency: Sandstorm - Seasoned Warrior Gear Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4210910",
+      "nombre": "Insurgency: Sandstorm - War Torn Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4210900",
+      "nombre": "Insurgency: Sandstorm - Endurance Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4210890",
+      "nombre": "Insurgency: Sandstorm - Scavenger Gear Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "4210880",
+      "nombre": "Insurgency: Sandstorm - Rapid Assault Gear Set",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 0
+    },
+    {
+      "appid": "3951910",
+      "nombre": "Insurgency: Sandstorm - GRS Operator Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3951900",
+      "nombre": "Insurgency: Sandstorm - Jackal Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3951920",
+      "nombre": "Insurgency: Sandstorm - Jezzail Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3951930",
+      "nombre": "Insurgency: Sandstorm - Canyon Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3801250",
+      "nombre": "Insurgency: Sandstorm -  Wheat Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3801240",
+      "nombre": "Insurgency: Sandstorm -  Dragon Skin Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3801230",
+      "nombre": "Insurgency: Sandstorm - Climber Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3801220",
+      "nombre": "Insurgency: Sandstorm - Vandal Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606110",
+      "nombre": "Insurgency: Sandstorm - Phantom Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606140",
+      "nombre": "Insurgency: Sandstorm - Bloodwood Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606130",
+      "nombre": "Insurgency: Sandstorm - Green Recon Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606120",
+      "nombre": "Insurgency: Sandstorm - Forest Warden Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606100",
+      "nombre": "Insurgency: Sandstorm - Duct Taped Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606090",
+      "nombre": "Insurgency: Sandstorm - Night Raven Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606080",
+      "nombre": "Insurgency: Sandstorm - Desert Corpsman Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606030",
+      "nombre": "Insurgency: Sandstorm - Chemical Combat Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606040",
+      "nombre": "Insurgency: Sandstorm - Protective Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606050",
+      "nombre": "Insurgency: Sandstorm - Desert Veteran Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2606060",
+      "nombre": "Insurgency: Sandstorm - Dusty Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432523",
+      "nombre": "Insurgency: Sandstorm - Woodburn Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432522",
+      "nombre": "Insurgency: Sandstorm - Digital Splatter Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432521",
+      "nombre": "Insurgency: Sandstorm - Mountain Nomad Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432520",
+      "nombre": "Insurgency: Sandstorm - Mountain Tactical Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062374",
+      "nombre": "Insurgency: Sandstorm - Biker Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062375",
+      "nombre": "Insurgency: Sandstorm - Pilot Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062376",
+      "nombre": "Insurgency: Sandstorm - Rust & Wrap Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062377",
+      "nombre": "Insurgency: Sandstorm - Worn Veteran Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062370",
+      "nombre": "Insurgency: Sandstorm - Damascus Weapon Skin Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062371",
+      "nombre": "Insurgency: Sandstorm - Black Powder Weapon Skin",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062372",
+      "nombre": "Insurgency: Sandstorm - Dealer Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2062373",
+      "nombre": "Insurgency: Sandstorm - Technician Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1763083",
+      "nombre": "Insurgency: Sandstorm - Brute Gear Set",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Insurgency: Sandstorm es un juego de disparos táctico en primera persona que destaca por su combate a corta distancia y su brutal intensidad. Cada bala cuenta, cada paso importa, y trabajar en equipo es la única forma de sobrevivir a la barbarie de la guerra moderna.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "12 DIC 2018",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/insurgency-sandstorm?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Insurgency: Sandstorm",
+  "acerca": [
+    [
+      "p",
+      "Insurgency: Sandstorm ofrece un intenso combate táctico donde la muerte es instantánea, la munición es un bien preciado y para vencer se requiere habilidad y coordinación. Vive la cruda violencia de la guerra moderna, con una balística letal, ataques de artillería devastadores, vehículos de ataque ligeros y un sonido de alto rango dinámico que te helará la sangre."
+    ],
+    [
+      "p",
+      "Atraviesa calles asoladas por la guerra, asegura objetivos y sobrevive a mortíferos tiroteos. Al carecer de retícula y disponer de un HUD mínimo y daños realistas, la precisión y la percepción táctica resultan vitales en cada intercambio. Gestiona con cuidado la munición, ponte bien a cubierto y coordínate con tu equipo, porque en Sandstorm no hay segundas oportunidades."
+    ],
+    [
+      "p",
+      "El combate moderno recompensa a quienes se comunican y adaptan. Elige una clase especializada, coordina ataques de apoyo demoledores con tu observador y responde a vanguardias en constante cambio. La destreza individual es importante, pero el trabajo en equipo es decisivo."
+    ],
+    [
+      "p",
+      "Libra intensas partidas multijugador de hasta 14 contra 14 jugadores o enfréntate a una IA implacable en misiones cooperativas que requieren precisión táctica y trabajo en equipo. Tanto si lo tuyo son los tiroteos competitivos como si prefieres la supervivencia cooperativa bajo presión, Sandstorm está a la altura."
+    ],
+    [
+      "p",
+      "Con unos efectos visuales impactantes y un paisaje sonoro incomparable, el caos del combate cobra vida sin confusión ni distracciones. No se trata de un juego de disparos al uso, sino de la guerra tal y como es: violenta, despiadada e inolvidable."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Estadísticas",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4440 (3.10GHz)/AMD FX-6300 (3.50GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 760/AMD Radeon HD 7970"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700 (3.20GHz)/AMD Ryzen 7 2700 (3.20GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 980/AMD Radeon R9 390X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD is recommended."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ec2d4b16ce9b4567f7ae867cf1dd78d9c23991d1/ss_ec2d4b16ce9b4567f7ae867cf1dd78d9c23991d1.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ec2d4b16ce9b4567f7ae867cf1dd78d9c23991d1/ss_ec2d4b16ce9b4567f7ae867cf1dd78d9c23991d1.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_bbd902e510ef8b24b78d94b16e807c223e39e5e1.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_bbd902e510ef8b24b78d94b16e807c223e39e5e1.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_0b92e7b5f6e0e4cf18f3153137c993dc5785a6fc.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_0b92e7b5f6e0e4cf18f3153137c993dc5785a6fc.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_192cd45d586026563fc752c779ba20c11b5bb03b.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_192cd45d586026563fc752c779ba20c11b5bb03b.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_f5a20f9b8c9e9ede697893070a79dd457882a950.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_f5a20f9b8c9e9ede697893070a79dd457882a950.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_b6737a8332b9ec1a0532ff377efe37cddf882940.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_b6737a8332b9ec1a0532ff377efe37cddf882940.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_344d11682f0667378bbc162e2eb59a18e795cd9e.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_344d11682f0667378bbc162e2eb59a18e795cd9e.1920x1080.jpg?t=1791994390"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_4194bb51ef814006fae75cffb0d4f9258ccc4d7b.600x338.jpg?t=1791994390",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/ss_4194bb51ef814006fae75cffb0d4f9258ccc4d7b.1920x1080.jpg?t=1791994390"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/insurgency-sandstorm",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Gameplay consists of frequent combat scenarios with characters using their weapons to shoot enemies.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 18088,
+  "youtube": [
+    {
+      "id": "dHHy6CiHMhg",
+      "nombre": "E3 2018 TRAILER"
+    },
+    {
+      "id": "6DheJOeInks",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fkoxRm_sydM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "3T70_4iP6T0",
+      "nombre": "E3 2017: Story Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T17:46:04.611Z"
+}

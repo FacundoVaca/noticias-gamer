@@ -1,0 +1,265 @@
+{
+  "clave": "gangsters way",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0196ac73-a618-7000-8a2d-789dcadca200",
+  "appid": "3724680",
+  "lanzamiento": "2026-03-17",
+  "desarrolladores": [
+    "Whale Rock Games"
+  ],
+  "editores": [
+    "Whale Rock Games"
+  ],
+  "etiquetas": [
+    "Beat 'em up",
+    "3D Fighter",
+    "Action",
+    "Combat",
+    "Crime"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1311299",
+      "nombre": "Gangsters Way",
+      "apps": [
+        {
+          "appid": "3724680",
+          "nombre": "Gangsters Way"
+        }
+      ],
+      "usd": 6.59,
+      "antes": 10.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "3724680": {
+      "usd": 6.59,
+      "gratis": false
+    }
+  },
+  "descripcion": "Gánate un puesto en la mafia en un juego de peleas en tercera persona para un jugador. Esquiva golpes, encadena combos y usa ataques especiales contra los mejores luchadores de la mafia, cara a cara o contra varios a la vez.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "16 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Gangsters Way",
+  "acerca": [
+    [
+      "h",
+      "Planta cara a la mafia, pelea a pelea"
+    ],
+    [
+      "p",
+      "Gangsters Way es un juego de peleas en tercera persona para un jugador. Ponte en la piel del luchador callejero John Brown y enfréntate a los mejores luchadores de la mafia en duelos y peleas en inferioridad numérica."
+    ],
+    [
+      "h",
+      "Esquiva, contraataca y encadena golpes"
+    ],
+    [
+      "p",
+      "Fíjate en cómo se mueven tus rivales, esquiva sus golpes y aprovecha cualquier hueco para iniciar un combo. Cuando te rodeen, vigila quién se acerca mientras te ocupas del rival que tienes delante."
+    ],
+    [
+      "h",
+      "Usa tus ataques especiales en el momento justo"
+    ],
+    [
+      "p",
+      "Lanza un ataque especial cuando el rival baje la guardia. Un golpe bien dado puede darte tiempo para girarte y plantar cara al siguiente."
+    ],
+    [
+      "h",
+      "Gánate un puesto en la familia"
+    ],
+    [
+      "p",
+      "John Brown se cruzó con el jefe mafioso Victor «Colmillo» Lorenzo. Ahora Lorenzo le ofrece la oportunidad de entrar en la familia. Para conseguirlo, John tendrá que derrotar a los mejores luchadores del jefe."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4590 / AMD FX 8350"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4590 / AMD FX 8350"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660 SUPER / AMD Radeon RX 5600 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/adc27e8b0321a48c8a82a76ebe2cba76dba1e1dc/ss_adc27e8b0321a48c8a82a76ebe2cba76dba1e1dc.600x338.jpg?t=1794869417",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/adc27e8b0321a48c8a82a76ebe2cba76dba1e1dc/ss_adc27e8b0321a48c8a82a76ebe2cba76dba1e1dc.1920x1080.jpg?t=1794869417"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/0821ccc4bbd44a5c453d6810984ea2c104450c0d/ss_0821ccc4bbd44a5c453d6810984ea2c104450c0d.600x338.jpg?t=1794869417",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/0821ccc4bbd44a5c453d6810984ea2c104450c0d/ss_0821ccc4bbd44a5c453d6810984ea2c104450c0d.1920x1080.jpg?t=1794869417"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/2612fd8f7824defe8db1f0b73dbe419dacd05ec8/ss_2612fd8f7824defe8db1f0b73dbe419dacd05ec8.600x338.jpg?t=1794869417",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/2612fd8f7824defe8db1f0b73dbe419dacd05ec8/ss_2612fd8f7824defe8db1f0b73dbe419dacd05ec8.1920x1080.jpg?t=1794869417"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/5807598b057afec272e77d8df30a14b4eb221aac/ss_5807598b057afec272e77d8df30a14b4eb221aac.600x338.jpg?t=1794869417",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/5807598b057afec272e77d8df30a14b4eb221aac/ss_5807598b057afec272e77d8df30a14b4eb221aac.1920x1080.jpg?t=1794869417"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/335e6a9efad394180f24363a0d54430fadd4bd7b/ss_335e6a9efad394180f24363a0d54430fadd4bd7b.600x338.jpg?t=1794869417",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724680/335e6a9efad394180f24363a0d54430fadd4bd7b/ss_335e6a9efad394180f24363a0d54430fadd4bd7b.1920x1080.jpg?t=1794869417"
+    }
+  ],
+  "web": "https://store.steampowered.com/app/395570/We_Are_The_Dwarves/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 361989,
+  "v": 7,
+  "consultado": "2026-11-25T17:45:11.735Z"
+}
