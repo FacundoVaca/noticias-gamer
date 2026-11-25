@@ -1,0 +1,255 @@
+{
+  "clave": "iracing studios nascar 26",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019fae9b-060b-72e3-ac32-df3651ad51d1",
+  "appid": "4883590",
+  "lanzamiento": "2026-09-18",
+  "desarrolladores": [
+    "iRacing.com Motorsport Simulations, LLC"
+  ],
+  "editores": [
+    "iRacing.com Motorsport Simulations, LLC"
+  ],
+  "etiquetas": [
+    "Racing",
+    "Simulation",
+    "Driving",
+    "Automobile Sim",
+    "Sports"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 499,
+      "url": "https://store.steampowered.com/app/4883590/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1734194",
+      "nombre": "iRacing® Studios NASCAR 26 Standard Edition",
+      "apps": [
+        {
+          "appid": "4883590",
+          "nombre": "iRacing® Studios NASCAR 26"
+        }
+      ],
+      "usd": 28.25,
+      "antes": 28.25,
+      "descuento": 0
+    },
+    {
+      "packageid": "1734195",
+      "nombre": "iRacing® Studios NASCAR 26 Gold Edition",
+      "apps": [
+        {
+          "appid": "4883590",
+          "nombre": "iRacing® Studios NASCAR 26"
+        }
+      ],
+      "usd": 36.99,
+      "antes": 36.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4883590": {
+      "usd": 28.25,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "4899550",
+      "nombre": "NASCAR 26 - Season Pass",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4899500",
+      "nombre": "NASCAR 26 - September Pack",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4899510",
+      "nombre": "NASCAR 26 - October Pack",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4899530",
+      "nombre": "NASCAR 26 - November Pack",
+      "gratis": false,
+      "usd": 5.69,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "The official game of NASCAR is back and better than ever with NASCAR 26! Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase!",
+  "generos": [
+    "Carreras",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "17 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "iRacing® Studios NASCAR 26",
+  "acerca": [
+    [
+      "p",
+      "The official game of NASCAR is back and better than ever with NASCAR 26."
+    ],
+    [
+      "p",
+      "Battle your way through all four NASCAR National Series in Career, Quick Race, Championship, Multiplayer, or our all new mode featuring The Chase! And, with all the laser scanned assets of iRacing, the level of authenticity has never been higher with dynamic track, an all new peak performance training mode, and enhanced driving physics across every chassis. And, with our new cross-play multiplayer feature, you can take on all your friends and show them who's best!"
+    ],
+    [
+      "p",
+      "NASCAR 26 brings all the thrills and excitement of race day, right to your living room. Are you ready to start your engine?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Logros de Steam",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Compat. parcial con mando"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit, Windows 11 64-Bit"
+      ],
+      [
+        "Procesador",
+        "4 core CPU or better – Some examples (but not limited to): AMD FX-6300, Intel Core i5-4430, Intel Core i5-2320, AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "A gaming graphics card with at least 4GB of DEDICATED memory – Some examples (but not limited to): Nvidia GeForce GTX 1060 or AMD Radeon 570 or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "65 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "A physical PC running windows is required. A PC emulation on a MAC or other types of Virtual Machines are not supported."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-Bit, Windows 11 64-Bit"
+      ],
+      [
+        "Procesador",
+        "8 core or more CPU (some examples but not limited to: Intel Core 9-10980XE @ 3.0GHz, Intel Core i9-9900KS @ 4.00GHz, AMD Ryzen 9 3900X, or AMD Ryzen 9 3950X)"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Gaming graphics card with at least 8GB of DEDICATED memory (some examples but not limited to Nvidia 2080 TI or AMD Radeon VII)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/2e33fe22276d6cdf72ca721f1ee0782fcb50a68d/ss_2e33fe22276d6cdf72ca721f1ee0782fcb50a68d.600x338.jpg?t=1789943763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/2e33fe22276d6cdf72ca721f1ee0782fcb50a68d/ss_2e33fe22276d6cdf72ca721f1ee0782fcb50a68d.1920x1080.jpg?t=1789943763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/ff39a780c86ac8b431101073c7b76f35283daabf/ss_ff39a780c86ac8b431101073c7b76f35283daabf.600x338.jpg?t=1789943763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/ff39a780c86ac8b431101073c7b76f35283daabf/ss_ff39a780c86ac8b431101073c7b76f35283daabf.1920x1080.jpg?t=1789943763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/4b7abe74788c846b28f5415140f5e6d731773ad2/ss_4b7abe74788c846b28f5415140f5e6d731773ad2.600x338.jpg?t=1789943763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/4b7abe74788c846b28f5415140f5e6d731773ad2/ss_4b7abe74788c846b28f5415140f5e6d731773ad2.1920x1080.jpg?t=1789943763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/a4b0fbc4dc0f6bd242809639267e3a4f1c797c08/ss_a4b0fbc4dc0f6bd242809639267e3a4f1c797c08.600x338.jpg?t=1789943763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/a4b0fbc4dc0f6bd242809639267e3a4f1c797c08/ss_a4b0fbc4dc0f6bd242809639267e3a4f1c797c08.1920x1080.jpg?t=1789943763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/3f1b10984c0c29987717a3c3bbc8898b94cb7b24/ss_3f1b10984c0c29987717a3c3bbc8898b94cb7b24.600x338.jpg?t=1789943763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883590/3f1b10984c0c29987717a3c3bbc8898b94cb7b24/ss_3f1b10984c0c29987717a3c3bbc8898b94cb7b24.1920x1080.jpg?t=1789943763"
+    }
+  ],
+  "web": "https://nascar26.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 412990,
+  "youtube": [
+    {
+      "id": "f_h_LPYH7iM",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T04:39:46.884Z"
+}

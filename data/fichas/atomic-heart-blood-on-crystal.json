@@ -1,0 +1,245 @@
+{
+  "clave": "atomic heart blood on crystal",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019d96dc-5d99-7095-b946-a1266a2d1531",
+  "appid": "2214824",
+  "lanzamiento": "2026-04-16",
+  "desarrolladores": [
+    "Mundfish"
+  ],
+  "editores": [
+    "Focus Entertainment"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Action",
+    "Adventure",
+    "Gore",
+    "Violent"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 1147,
+      "url": "https://store.steampowered.com/app/2214824/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 72,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/atomic-heart-blood-on-crystal/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "668580",
+    "nombre": "Atomic Heart"
+  },
+  "ediciones": [
+    {
+      "packageid": "793330",
+      "nombre": "Atomic Heart - Blood On Crystal",
+      "apps": [
+        {
+          "appid": "2214824",
+          "nombre": "Atomic Heart - Blood On Crystal"
+        }
+      ],
+      "usd": 4.49,
+      "antes": 5.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "2214824": {
+      "usd": 4.49,
+      "gratis": false
+    }
+  },
+  "descripcion": "El DLC 4, Sangre en Cristal, está incluido en el Atomic Pass y en las ediciones Gold y Ultimate. Se necesita el juego básico de Atomic Heart para ejecutarlo. Experimenta la apasionante conclusión de Atomic Heart con el DLC 4, Sangre en Cristal.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "16 ABR 2026",
+  "metacritic": null,
+  "nombreSteam": "Atomic Heart - Blood On Crystal",
+  "acerca": [
+    [
+      "p",
+      "El DLC 4, Sangre en Cristal, está incluido en el Atomic Pass y en las ediciones Gold y Ultimate. Se necesita el juego básico de Atomic Heart para ejecutarlo."
+    ],
+    [
+      "p",
+      "Experimenta la apasionante conclusión por todo lo alto de Atomic Heart en el DLC 4, Sangre en Cristal, que prepara el camino para las futuras historias de The CUBE y Atomic Heart 2. P-3, la Gemela y sus camaradas deben adentrarse en el Complejo Cristal, el más secreto de todos, para combatir a CHAR-les y tratar a la desesperada de salvar a la humanidad de la aniquilación total. Comienza un enfrentamiento sangriento contra el implacable poderío robótico de la Instalación 3826."
+    ],
+    [
+      "p",
+      "- Completa la historia y visita alucinantes ubicaciones nuevas: Explora la inquietante plataforma Ola con la Gemela, Yaya Zina y otros personajes que regresan, y da caza a CHAR-les en el Complejo Cristal secreto, donde revelaciones atroces aguardan a ser descubiertas."
+    ],
+    [
+      "p",
+      "- Nuevos enemigos y combates contra jefes demenciales: Combate a los jefes más temibles que jamás te hayas encontrado en la Instalación 3826 y enfréntate a los polimorfos, un nuevo elenco de seres formidables que son fruto de los horrendos experimentos del propio CHAR-les. Debido a su capacidad de emplear las propiedades del polímero para adoptar formas elementales, te obligarán a adaptarte y aprovechar al máximo tu arsenal."
+    ],
+    [
+      "p",
+      "- Blande las habilidades del guante y las armas más potentes: Desbloquea el acceso a las armas a distancia y cuerpo a cuerpo más potentes para sobrevivir a la acometida definitiva. Emplea los módulos CHANCE punteros para cambiar las habilidades de tu guante polimérico sobre la marcha en el Complejo Cristal y llevar el combate a un nuevo nivel."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/dd34e5cb5e35277a00ff9f8c7632e1a3b3ccbd35/ss_dd34e5cb5e35277a00ff9f8c7632e1a3b3ccbd35.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/dd34e5cb5e35277a00ff9f8c7632e1a3b3ccbd35/ss_dd34e5cb5e35277a00ff9f8c7632e1a3b3ccbd35.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/7f52c60cadf2199deee03a1eb088efd65c0571ad/ss_7f52c60cadf2199deee03a1eb088efd65c0571ad.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/7f52c60cadf2199deee03a1eb088efd65c0571ad/ss_7f52c60cadf2199deee03a1eb088efd65c0571ad.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/a69d69e3323eeba3be48bb5094b2f8667ef4e898/ss_a69d69e3323eeba3be48bb5094b2f8667ef4e898.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/a69d69e3323eeba3be48bb5094b2f8667ef4e898/ss_a69d69e3323eeba3be48bb5094b2f8667ef4e898.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/46c6d57c338298c714ad33cff02511c17a6ba50f/ss_46c6d57c338298c714ad33cff02511c17a6ba50f.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/46c6d57c338298c714ad33cff02511c17a6ba50f/ss_46c6d57c338298c714ad33cff02511c17a6ba50f.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/3bec04c276381afc2d5b21d7871fa529ddf4d74f/ss_3bec04c276381afc2d5b21d7871fa529ddf4d74f.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/3bec04c276381afc2d5b21d7871fa529ddf4d74f/ss_3bec04c276381afc2d5b21d7871fa529ddf4d74f.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/0ea94be6db031811448c3177e9f588853215671a/ss_0ea94be6db031811448c3177e9f588853215671a.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/0ea94be6db031811448c3177e9f588853215671a/ss_0ea94be6db031811448c3177e9f588853215671a.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/35b253695db518bf8b25ad81c504189e2cdd2879/ss_35b253695db518bf8b25ad81c504189e2cdd2879.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/35b253695db518bf8b25ad81c504189e2cdd2879/ss_35b253695db518bf8b25ad81c504189e2cdd2879.1920x1080.jpg?t=1785772311"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/82dba0850cf388dad4d491b9f71bc44e8f868065/ss_82dba0850cf388dad4d491b9f71bc44e8f868065.600x338.jpg?t=1785772311",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214824/82dba0850cf388dad4d491b9f71bc44e8f868065/ss_82dba0850cf388dad4d491b9f71bc44e8f868065.1920x1080.jpg?t=1785772311"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/atomic-heart",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Blood and Gore Intense Violence Language Nudity",
+  "igdbIntentado": true,
+  "igdb": 395854,
+  "youtube": [
+    {
+      "id": "cP7hymx85Hc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "LXaZTR0klf4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "CsVj3lHDPjQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "21ez-mz0RRY",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T04:39:52.642Z"
+}
