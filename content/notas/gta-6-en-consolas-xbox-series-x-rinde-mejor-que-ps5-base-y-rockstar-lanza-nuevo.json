@@ -2,7 +2,7 @@
   "slug": "gta-6-en-consolas-xbox-series-x-rinde-mejor-que-ps5-base-y-rockstar-lanza-nuevo",
   "estado": "publicada",
   "fecha": "2026-11-24T18:23:16.713Z",
-  "actualizada": "2026-11-24T18:23:16.713Z",
+  "actualizada": "2026-11-25T08:53:02.688Z",
   "titulo": "GTA 6 en consolas: Xbox Series X rinde mejor que PS5 base y Rockstar lanza nuevo parche",
   "bajada": "Un exhaustivo análisis de Digital Foundry ubica a Xbox Series X por encima de PlayStation 5 en estabilidad, mientras Rockstar despliega la actualización 01.002.002.",
   "categoria": "xbox",
@@ -15,10 +15,10 @@
     "PS5 Pro"
   ],
   "clave": [
-    "Digital Foundry confirma que Xbox Series X mantiene los 30 FPS con mayor estabilidad que la PS5 estándar.",
-    "PS5 Pro lidera el rendimiento general en consolas gracias al reescalado PSSR y su GPU de mayor potencia.",
-    "El truco para desbloquear la tasa de cuadros en Xbox mediante Quick Resume acelera la velocidad del juego y promedia solo 36 FPS.",
-    "Rockstar lanzó el parche 01.002.002 para corregir fallos críticos en el autoguardado, bloqueos de historia y cuelgues del sistema."
+    "PS5 y Xbox Series X ejecutan GTA 6 a 1440p reescalados a 4K mediante TAA.",
+    "Xbox Series S reescala de 720p a 1080p con FSR 4.1 y sufre caídas por debajo de los 20 FPS.",
+    "PS5 Pro incluye sombras por trazado de rayos como ventaja visual exclusiva frente al resto de versiones.",
+    "Xbox Series X sostiene con mayor consistencia la meta de 30 FPS respecto a la PS5 estándar."
   ],
   "cuerpo": [
     {
@@ -137,6 +137,37 @@
       "medio": "Eurogamer",
       "titulo": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
       "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette"
+    },
+    {
+      "medio": "Vandal",
+      "titulo": "GTA 6 funciona mejor en XBOX Series X que en PS5: Digital Foundry compara las cuatro versiones del juego",
+      "url": "https://vandal.elespanol.com/noticia/2026329005/gta-6-funciona-mejor-en-xbox-series-x-que-en-ps5-digital-foundry-compara-las-cuatro-versiones-del-juego/"
+    },
+    {
+      "medio": "3DJuegos",
+      "titulo": "PlayStation ha protagonizado la campaña de marketing de GTA 6, pero Digital Foundry ha encontrado una ventaja en Xbox Series X",
+      "url": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/playstation-ha-protagonizado-campana-marketing-gta-6-digital-foundry-ha-encontrado-ventaja-xbox-series-x"
+    },
+    {
+      "medio": "VGC",
+      "titulo": "GTA 6 has more framerate drops on PS5 than Xbox Series X, according to analysis",
+      "url": "https://www.videogameschronicle.com/news/gta-6-has-more-framerate-drops-on-ps5-than-xbox-series-x-according-to-analysis/"
+    }
+  ],
+  "actualizaciones": [
+    {
+      "fecha": "2026-11-25T08:53:02.688Z",
+      "resumen": "Nuevos datos técnicos revelan que GTA 6 funciona a 1440p en PS5 y Series X, mientras que Series S usa FSR 4.1 desde 720p con caídas a menos de 20 FPS.",
+      "bloques": [
+        {
+          "tipo": "p",
+          "texto": "El informe técnico detalló los datos precisos de resolución y motor gráfico de cada plataforma. Tanto PlayStation 5 como Xbox Series X ejecutan el juego a una resolución interna de 1440p reescalada a 4K mediante TAA, compartiendo los mismos ajustes en distancia de dibujado, iluminación global y reflejos por trazado de rayos. Asimismo, se confirmó que PlayStation 5 Pro incluye sombras generadas por trazado de rayos como característica visual exclusiva."
+        },
+        {
+          "tipo": "p",
+          "texto": "En lo que respecta a Xbox Series S, el desglose especificó que la consola de menor potencia de Microsoft recurre al reescalado FSR 4.1 para llevar la imagen desde una resolución base de 720p hasta 1080p. Esta versión padece caídas severas de rendimiento que se ubican por debajo de los 20 cuadros por segundo en situaciones de alta carga gráfica, sumado a problemas puntuales en la reproducción de sonido."
+        }
+      ]
     }
   ]
 }
