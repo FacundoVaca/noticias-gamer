@@ -1,0 +1,363 @@
+{
+  "clave": "riven",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-ea58-70ef-95df-fdd61d61e00f",
+  "appid": "1712350",
+  "lanzamiento": "2024-06-25",
+  "desarrolladores": [
+    "Cyan Worlds, Inc.",
+    "Cyan Worlds"
+  ],
+  "editores": [
+    "Cyan Worlds, Inc.",
+    "Cyan Worlds"
+  ],
+  "etiquetas": [
+    "Puzzle",
+    "Adventure",
+    "Exploration",
+    "First-Person",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 2808,
+      "url": "https://store.steampowered.com/app/1712350/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 86,
+      "cantidad": 30,
+      "url": "https://metacritic.com/game/riven/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 79,
+      "cantidad": 75,
+      "url": "https://metacritic.com/game/riven/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 85,
+      "cantidad": 43,
+      "url": "https://opencritic.com/game/16911/riven"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "613165",
+      "nombre": "Riven",
+      "apps": [
+        {
+          "appid": "1712350",
+          "nombre": "Riven"
+        }
+      ],
+      "usd": 9.89,
+      "antes": 16.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "1712350": {
+      "usd": 9.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3060810",
+      "nombre": "The Art of Riven",
+      "gratis": false,
+      "usd": 4.27,
+      "descuento": 50
+    },
+    {
+      "appid": "3060820",
+      "nombre": "The Riven Companion",
+      "gratis": false,
+      "usd": 3.14,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Uncover a story of intrigue, betrayal, and a civilization teetering on the brink of collapse as you solve intricate puzzles to unlock the secrets of Riven. Built from the ground-up and expanded from the award-winning original game released in 1997.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "25 JUN 2024",
+  "metacritic": {
+    "puntaje": 86,
+    "url": "https://www.metacritic.com/game/pc/riven?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Riven",
+  "acerca": [
+    [
+      "p",
+      "“I know what he’s doing… He’s watching you.”"
+    ],
+    [
+      "p",
+      "Travel to Riven , a beautiful and mysterious world on the verge of collapse. Explore this mysterious place, solve its puzzles, reveal its mysteries, make a daring rescue, and escape."
+    ],
+    [
+      "h",
+      "VISIT A MYSTERIOUS WORLD"
+    ],
+    [
+      "p",
+      "“I am Gehn. I assume you’ve heard of me.”"
+    ],
+    [
+      "p",
+      "Riven takes you on a journey through dense jungles, awe-inspiring caverns, and monolithic structures. Explore a world bent to the whims of a man who sees himself as a god and where every corner will immerse you in an otherworldly adventure."
+    ],
+    [
+      "h",
+      "IMMERSE YOURSELF IN A SURREAL LANDSCAPE"
+    ],
+    [
+      "p",
+      "“There’s a great deal of history that you should know…”"
+    ],
+    [
+      "p",
+      "Riven rewards careful observation. Challenge Riven’s cunning puzzles, deftly woven throughout its narrative. The environment of Riven will reveal the story of this world as you make meaning from seemingly disparate bits of information and learn everything you need to know about this world."
+    ],
+    [
+      "h",
+      "UNRAVEL RIVEN’S SECRETS"
+    ],
+    [
+      "p",
+      "“...it may be time to give this inexplicable mystery a second look.”"
+    ],
+    [
+      "p",
+      "Who are the mysterious island dwellers you encounter during your exploration? What purpose does the giant golden dome serve? Why is this world on the verge of collapse? Play Riven and discover the answers to these mysteries- and more."
+    ],
+    [
+      "h",
+      "ABOUT THIS REMAKE"
+    ],
+    [
+      "p",
+      "Created by the legendary indie developer Cyan Worlds and based on the smash-hit original released in 1997, Riven has been lovingly revisited by its key original visionaries to expand the epic narrative of the Myst universe."
+    ],
+    [
+      "p",
+      "Experience Riven like never before - with free movement through a real-time 3D environment. This brand-new, re-imagined, and expanded version of Riven offers a deeper story, new captivating visuals, and a journey that stays true to the original release while also expanding on Riven’s breathtaking world."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Detección de mov. en mando",
+    "Compatible con RV",
+    "Subtítulos descriptivos disponibles",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 2700X Eight-Core Processor (16 CPUs), ~3.7GHz; Intel i5 7000 series"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 5700XT; NVIDIA GeForce GTX 1070 8GB; at least 6GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "Quest 2 over Airlink or Link cable, HTC Vive Pro, Valve Index"
+      ],
+      [
+        "Notas adicionales",
+        "Note that laptops with a 3050 or 3050 Ti GPU do not fit the requirements of the above. We recommend checking your preferred PC Benchmark site to confirm if your specs meet or exceed the above."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 3800X 8-Core Processor (16 CPUs), ~3.9GHz; Intel i5 11000 series"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6800XT; NVIDIA GeForce GTX 1080 Ti 11GB; at least 8GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "Quest 3 over Airlink or Link cable, HTC Vive Pro, Valve Index"
+      ],
+      [
+        "Notas adicionales",
+        "Note that laptops with a 3050 or 3050 Ti GPU do not fit the requirements of the above. We recommend checking your preferred PC Benchmark site to confirm if your specs meet or exceed the above."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/664ec5dc228a2e5bbef6868d5875356130d6c0d6/ss_664ec5dc228a2e5bbef6868d5875356130d6c0d6.600x338.jpg?t=1795456471",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/664ec5dc228a2e5bbef6868d5875356130d6c0d6/ss_664ec5dc228a2e5bbef6868d5875356130d6c0d6.1920x1080.jpg?t=1795456471"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/291437a470f1f991496a2fa8656f9d74a63e6d68/ss_291437a470f1f991496a2fa8656f9d74a63e6d68.600x338.jpg?t=1795456471",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/291437a470f1f991496a2fa8656f9d74a63e6d68/ss_291437a470f1f991496a2fa8656f9d74a63e6d68.1920x1080.jpg?t=1795456471"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/0e67375fdc80561fc37e6e197fb85fd90904a075/ss_0e67375fdc80561fc37e6e197fb85fd90904a075.600x338.jpg?t=1795456471",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/0e67375fdc80561fc37e6e197fb85fd90904a075/ss_0e67375fdc80561fc37e6e197fb85fd90904a075.1920x1080.jpg?t=1795456471"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/fd549c77c2a8eecfb7cc99f52a2fc2f0ac29f176/ss_fd549c77c2a8eecfb7cc99f52a2fc2f0ac29f176.600x338.jpg?t=1795456471",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/fd549c77c2a8eecfb7cc99f52a2fc2f0ac29f176/ss_fd549c77c2a8eecfb7cc99f52a2fc2f0ac29f176.1920x1080.jpg?t=1795456471"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/8cdb28438e081a72e8bc8f8b94855c2f94ab814b/ss_8cdb28438e081a72e8bc8f8b94855c2f94ab814b.600x338.jpg?t=1795456471",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712350/8cdb28438e081a72e8bc8f8b94855c2f94ab814b/ss_8cdb28438e081a72e8bc8f8b94855c2f94ab814b.1920x1080.jpg?t=1795456471"
+    }
+  ],
+  "web": "https://cyan.com/riven/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 223112,
+  "youtube": [
+    {
+      "id": "7pEb6wSpCks",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "tDuX2uvSN2o",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "LN1TQm942_U",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Ap6fnRLXk20",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T22:46:19.343Z"
+}

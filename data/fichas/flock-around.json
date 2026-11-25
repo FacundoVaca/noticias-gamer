@@ -1,0 +1,253 @@
+{
+  "clave": "flock around",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019a0e7b-c351-7140-a45d-4d532500224a",
+  "appid": "3618030",
+  "lanzamiento": "2026-04-24",
+  "desarrolladores": [
+    "Friend Shaped Games"
+  ],
+  "editores": [
+    "Outersloth",
+    "Friend Shaped Games"
+  ],
+  "etiquetas": [
+    "Multiplayer",
+    "Online Co-Op",
+    "Creature Collector",
+    "Birds",
+    "Casual"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 98,
+      "cantidad": 2326,
+      "url": "https://store.steampowered.com/app/3618030/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1275647",
+      "nombre": "Flock Around",
+      "apps": [
+        {
+          "appid": "3618030",
+          "nombre": "Flock Around"
+        }
+      ],
+      "usd": 2.09,
+      "antes": 2.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "3618030": {
+      "usd": 2.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "5097020",
+      "nombre": "Flock Around - Cardinal Cove Expansion Pack",
+      "gratis": false,
+      "usd": 2.69,
+      "descuento": 0
+    },
+    {
+      "appid": "4867080",
+      "nombre": "Flock Around - Emu Island (Australia) Expansion Pack",
+      "gratis": false,
+      "usd": 2.15,
+      "descuento": 20
+    },
+    {
+      "appid": "4585870",
+      "nombre": "Flock Around Supporter Pack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Flock Around es un juego multijugador de observación de aves. ¡Explora un santuario natural con tus amigos, haz fotos de aves y completa la guía!",
+  "generos": [
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "24 ABR 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Flock Around",
+  "acerca": [
+    [
+      "p",
+      "Flock Around es un juego cooperativo de observación de aves en el que exploras un santuario natural. ¡Haz fotos de aves en solitario o con amigos y completa la guía del parque!"
+    ],
+    [
+      "p",
+      "¡Hazles fotos a todos!"
+    ],
+    [
+      "p",
+      "El santuario del lago del Ganso alberga muchas especies de aves, y puedes sacarles fotos a todas las que veas. Completa la guía con fotos de cada ave en sus distintas poses, desde el petirrojo común hasta aves más raras y exóticas. Explora diversos biomas, haz acciones y usa objetos para atraer especies, ¡y diviértete con tus amigos!"
+    ],
+    [
+      "p",
+      "¡Juega en bandada!"
+    ],
+    [
+      "p",
+      "Flock Around está diseñado para ser un espacio social compartido en que tus amigos y tú podéis colaborar para hacer fotos a aves o a vosotros. Como observar aves es mejor en compañía, ¡puedes jugar con hasta 10 amigos!"
+    ],
+    [
+      "p",
+      "¡Personaliza tu observador!"
+    ],
+    [
+      "p",
+      "Colecciona personalizaciones estéticas y haz que tu observador de aves sea único mientras les muestras a tus amigos tu personalidad y tu mirada de águila. Después de hacer fotos, ¡revélalas para conseguir dinero y compra mejoras y atuendos para observar aves con estilo!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10+"
+      ],
+      [
+        "Procesador",
+        "2Ghz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1060"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/f008f232623019b3fd29f1b31bb791902a4aac2f/ss_f008f232623019b3fd29f1b31bb791902a4aac2f.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/f008f232623019b3fd29f1b31bb791902a4aac2f/ss_f008f232623019b3fd29f1b31bb791902a4aac2f.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/68b0b11f215600eddea7ccc6f06093a2764d3846/ss_68b0b11f215600eddea7ccc6f06093a2764d3846.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/68b0b11f215600eddea7ccc6f06093a2764d3846/ss_68b0b11f215600eddea7ccc6f06093a2764d3846.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/833a1b212c5e4c4740a62b08f79ca3e18a43e388/ss_833a1b212c5e4c4740a62b08f79ca3e18a43e388.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/833a1b212c5e4c4740a62b08f79ca3e18a43e388/ss_833a1b212c5e4c4740a62b08f79ca3e18a43e388.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/1fe14fcf5b6d92d537d407e70a03ffe05f9462bb/ss_1fe14fcf5b6d92d537d407e70a03ffe05f9462bb.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/1fe14fcf5b6d92d537d407e70a03ffe05f9462bb/ss_1fe14fcf5b6d92d537d407e70a03ffe05f9462bb.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/c701b1e51c643e9ad32426ebfcf57b8f45d4d3fc/ss_c701b1e51c643e9ad32426ebfcf57b8f45d4d3fc.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/c701b1e51c643e9ad32426ebfcf57b8f45d4d3fc/ss_c701b1e51c643e9ad32426ebfcf57b8f45d4d3fc.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/71ed38a66c3cf0580f657ba9b549f074cdd373c5/ss_71ed38a66c3cf0580f657ba9b549f074cdd373c5.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/71ed38a66c3cf0580f657ba9b549f074cdd373c5/ss_71ed38a66c3cf0580f657ba9b549f074cdd373c5.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/70796921d5937c9d966b1120c264a2e5407c6359/ss_70796921d5937c9d966b1120c264a2e5407c6359.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/70796921d5937c9d966b1120c264a2e5407c6359/ss_70796921d5937c9d966b1120c264a2e5407c6359.1920x1080.jpg?t=1794867332"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/336dfa98fa7754ca856eca6e6d65dc19e544cca2/ss_336dfa98fa7754ca856eca6e6d65dc19e544cca2.600x338.jpg?t=1794867332",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618030/336dfa98fa7754ca856eca6e6d65dc19e544cca2/ss_336dfa98fa7754ca856eca6e6d65dc19e544cca2.1920x1080.jpg?t=1794867332"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 378224,
+  "youtube": [
+    {
+      "id": "H5Tpn1dv3x0",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T22:46:09.252Z"
+}

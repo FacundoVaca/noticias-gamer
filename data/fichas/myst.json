@@ -1,0 +1,374 @@
+{
+  "clave": "myst",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-47a2-7353-9fbe-ec25f387eef8",
+  "appid": "1255560",
+  "lanzamiento": "1993-09-24",
+  "desarrolladores": [
+    "Cyan Worlds",
+    "Cyan Worlds, Inc."
+  ],
+  "editores": [
+    "Cyan Worlds",
+    "Cyan Worlds, Inc."
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Puzzle",
+    "Exploration",
+    "First-Person",
+    "VR"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 2032,
+      "url": "https://store.steampowered.com/app/1255560/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/myst/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 44,
+      "url": "https://metacritic.com/game/myst/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 21,
+      "url": "https://opencritic.com/game/10684/myst"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "436024",
+      "nombre": "Myst",
+      "apps": [
+        {
+          "appid": "1255560",
+          "nombre": "Myst"
+        }
+      ],
+      "usd": 9.89,
+      "antes": 16.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "1255560": {
+      "usd": 9.89,
+      "gratis": false
+    }
+  },
+  "descripcion": "Welcome to Myst: a starkly beautiful island, eerily tinged with mystery and shrouded in intrigue. Built from the ground up to play in 2D & VR, explore Myst in a whole new dimension! Journey to the Ages, unravel puzzles, and be a part of the surrealistic adventure that will become your own.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "26 AGO 2021",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/myst?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Myst",
+  "acerca": [
+    [
+      "h",
+      "ABOUT THIS GAME"
+    ],
+    [
+      "p",
+      "Welcome to Myst: a starkly beautiful island, eerily tinged with mystery and shrouded in intrigue."
+    ],
+    [
+      "p",
+      "Journey to Myst Island and other stunning, long dormant locations - called “Ages”- and begin to unravel the mystery you have been thrust into. As you learn what happened on the island, you will find that you are playing a key role in an epic story whose ending has not yet been written. Explore deeper connections in these stunning and surreal Ages, uncover a story of ruthless family betrayal, and make choices that will affect both you, and the world of Myst itself."
+    ],
+    [
+      "p",
+      "Cyan, the indie studio that created the beloved classic, has reimagined Myst."
+    ],
+    [
+      "p",
+      "Built from the ground up to play both in VR as well as traditional flatscreen displays, Myst is teeming with new art, new sound, re-imagined interactions, and even optional puzzle randomization. Finally... the highly anticipated Myst 2D/VR experience has arrived!"
+    ],
+    [
+      "p",
+      "Now you can explore the Ages of Myst in a new dimension!"
+    ],
+    [
+      "h",
+      "BUILT FOR BOTH VR AND 2D DISPLAYS"
+    ],
+    [
+      "p",
+      "Designed and built from the ground up in Unreal Engine, this newly-reimagined version of Myst includes fresh takes on the visuals in every area in the game. With both VR and 2D play experiences in mind, this definitive, modern edition of Myst will immerse you in the world in a way that has never been possible before."
+    ],
+    [
+      "p",
+      "Additionally, Myst includes many “comfort level” features for both new and experienced VR users, including the option to enable smooth or snap turning, quick travel up stairs and ladders, vertical height quantization, and more!"
+    ],
+    [
+      "h",
+      "NEW AND REQUESTED FEATURES"
+    ],
+    [
+      "p",
+      "For the first time in Myst’s history, enjoy the game in many different languages through localized UI, including dialogue and gameplay-context subtitles."
+    ],
+    [
+      "p",
+      "- A variety of accessibility options to assist in gameplay."
+    ],
+    [
+      "p",
+      "- Tired of taking notes? Now you can take photo captures in-game to keep track of what you’ve encountered!"
+    ],
+    [
+      "p",
+      "- A large number of graphics options to choose from, such as supersampling options and Ray Tracing to bring the best Myst experience out of the hardware you have."
+    ],
+    [
+      "h",
+      "FREQUENTLY ASKED QUESTIONS"
+    ],
+    [
+      "p",
+      "Q: Do I need a VR headset to play Myst?"
+    ],
+    [
+      "p",
+      "A: You do not need a VR headset to play Myst. Myst is playable with or without a VR headset."
+    ],
+    [
+      "p",
+      "Q: I bought Myst when it first came out in 1993. Can I get a free upgrade to this new version?"
+    ],
+    [
+      "p",
+      "A: Thank you for your support over the years! We are not giving out free upgrades to previous purchasers of the original Myst. We put a lot of effort into making this new version of Myst and would appreciate your financial support again!"
+    ],
+    [
+      "p",
+      "Q: I want to play Myst, but am concerned about my computer not meeting the minimum requirements. What should I do?"
+    ],
+    [
+      "p",
+      "A: If your machine does not meet the minimum requirements and you still want to try Myst out, we recommend enabling one of our supersampling options through the graphics settings menu to see if it alleviates performance concerns. Depending on the storefront you purchase Myst from, you may be able to qualify for a refund through the store (not through Cyan support) if Myst does not run well on your platform. Please review each store platform refund policy for details."
+    ],
+    [
+      "p",
+      "Q: Will Myst support [insert language here] one day?"
+    ],
+    [
+      "p",
+      "A: Possibly! We’d love to hear from you through our support team about any languages you’d like for us to support."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Detección de mov. en mando",
+    "Compatible con RV",
+    "Subtítulos descriptivos disponibles",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11"
+      ],
+      [
+        "Procesador",
+        "Intel i3-6100 / AMD Ryzen 3 1200, FX4350 or greater"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1050 Ti / AMD Radeon RX 570 or greater"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "NA"
+      ],
+      [
+        "Compatibilidad con RV",
+        "Quest 2 over Airlink or Link cable, HTC Vive Pro, Valve Index"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or 11"
+      ],
+      [
+        "Procesador",
+        "Intel i5-4590 / AMD Ryzen 5 1500X or greater"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1070 / AMD Radeon Vega 56 or greater"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "NA"
+      ],
+      [
+        "Compatibilidad con RV",
+        "Quest 2 over Airlink or Link cable, HTC Vive Pro, Valve Index"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_5d8c01be7f86daeff25aada94b6f2defec2e487e.600x338.jpg?t=1784069699",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_5d8c01be7f86daeff25aada94b6f2defec2e487e.1920x1080.jpg?t=1784069699"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_254d4b2d3432e24df05a737fb64cc41ff1692f64.600x338.jpg?t=1784069699",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_254d4b2d3432e24df05a737fb64cc41ff1692f64.1920x1080.jpg?t=1784069699"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_749f09c0da139a3dcd0085ff6e08e6c645ef5515.600x338.jpg?t=1784069699",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_749f09c0da139a3dcd0085ff6e08e6c645ef5515.1920x1080.jpg?t=1784069699"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_73211ba42e9e2c13ea81d8a410c3dc46093ba4fb.600x338.jpg?t=1784069699",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_73211ba42e9e2c13ea81d8a410c3dc46093ba4fb.1920x1080.jpg?t=1784069699"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_fdc850f5977f44b433613dc94c03b3deb3b973d1.600x338.jpg?t=1784069699",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255560/ss_fdc850f5977f44b433613dc94c03b3deb3b973d1.1920x1080.jpg?t=1784069699"
+    }
+  ],
+  "web": "https://cyan.com/myst",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 141568,
+  "youtube": [
+    {
+      "id": "lSjitylRmLI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "mtkJkQ3JztY",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T22:46:24.700Z"
+}
