@@ -2,9 +2,9 @@
   "slug": "el-motivo-detras-del-perfil-silencioso-de-jason-en-grand-theft-auto-6",
   "estado": "publicada",
   "fecha": "2026-11-22T17:07:43.649Z",
-  "actualizada": "2026-11-24T06:21:38.681Z",
+  "actualizada": "2026-11-25T19:30:59.453Z",
   "titulo": "El motivo detrás del perfil silencioso de Jason en Grand Theft Auto 6",
-  "bajada": "Nuevos datos oficiales de Sony revelan récords de usuarios únicos y horas jugadas en PlayStation 5 durante los primeros días.",
+  "bajada": "El estreno de GTA_6 genera nuevos reportes sobre errores de progreso, intentos de ports en la comunidad de PC y un fuerte impacto en las métricas de jugadores de competidores como Call_of_Duty.",
   "categoria": "playstation",
   "etiquetas": [
     "Grand Theft Auto 6",
@@ -13,9 +13,10 @@
     "Xbox Series X|S"
   ],
   "clave": [
-    "Más de 39 millones de usuarios únicos en PS5 al 22 de noviembre.",
-    "Récord histórico de jugadores simultáneos y horas jugadas en la plataforma.",
-    "Un promedio de 17,4 horas de juego por usuario desde su estreno."
+    "Reportan un error crítico en el capítulo 3 que bloquea el cambio de personaje",
+    "Call_of_Duty registra una caída de hasta el 42% en sus usuarios activos diarios tras el estreno",
+    "Comunidades de modders intentan portear el juego a PC utilizando herramientas de inteligencia artificial",
+    "Rockstar_Games emite avisos de baja por copyright contra repositorios y servidores vinculados al proyecto"
   ],
   "cuerpo": [
     {
@@ -103,9 +104,47 @@
       "medio": "Gematsu",
       "titulo": "Grand Theft Auto VI for PS5 tops 39 million players",
       "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players"
+    },
+    {
+      "medio": "Polygon",
+      "titulo": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+      "url": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/"
+    },
+    {
+      "medio": "IGN",
+      "titulo": "GTA 6: Breaking Down The Cleanest Bank Robbery We've Seen So Far",
+      "url": "https://www.ign.com/articles/gta-6-breaking-down-the-cleanest-bank-robbery-weve-seen-so-far"
+    },
+    {
+      "medio": "Eurogamer",
+      "titulo": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts"
+    },
+    {
+      "medio": "PC Gamer",
+      "titulo": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+      "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/"
     }
   ],
   "actualizaciones": [
+    {
+      "fecha": "2026-11-25T19:30:59.453Z",
+      "resumen": "Nuevos reportes sobre un error crítico en el capítulo 3 de GTA 6, el impacto del juego en la base de usuarios de Call_of_Duty y los primeros intentos de port no oficial a PC.",
+      "bloques": [
+        {
+          "tipo": "p",
+          "texto": "A pocos días del lanzamiento de Grand Theft Auto 6 en PlayStation_5 y Xbox_Series_X|S, la comunidad reportó un error crítico del tipo softlock en el capítulo 3, el cual impide alternar entre Lucia y Jason para continuar con la historia tras la misión Missing_Persons."
+        },
+        {
+          "tipo": "p",
+          "texto": "En paralelo, firmas de análisis de mercado como Alinea_Analytics señalaron que la llegada del título afectó notablemente a otros gigantes de la industria, provocando caídas significativas en la cantidad de usuarios activos diarios de juegos como Call_of_Duty, Fortnite y EA_Sports_FC_27."
+        },
+        {
+          "tipo": "p",
+          "texto": "Por otro lado, grupos de desarrolladores independientes comenzaron a experimentar con la descompilación de una supuesta versión filtrada de consola para llevar el título a PC, mientras Rockstar_Games avanza con solicitudes de retirada por derechos de autor."
+        }
+      ]
+    },
     {
       "fecha": "2026-11-24T06:21:38.681Z",
       "resumen": "Grand Theft Auto VI supera los 39 millones de usuarios únicos en PS5 y rompe récords históricos de jugadores simultáneos y horas acumuladas en la consola de Sony.",
