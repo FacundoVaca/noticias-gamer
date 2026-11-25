@@ -1,0 +1,169 @@
+{
+  "clave": "fleshborn",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019ae3a7-f8a8-706d-bb44-9aac9fddf078",
+  "appid": "4193300",
+  "lanzamiento": "2026-11-25",
+  "desarrolladores": [
+    "Castitatis Games"
+  ],
+  "editores": [
+    "Castitatis Games"
+  ],
+  "etiquetas": [
+    "incremental",
+    "Casual",
+    "Strategy",
+    "Simulation",
+    "Resource Management"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1468604",
+      "nombre": "Fleshborn",
+      "apps": [
+        {
+          "appid": "4193300",
+          "nombre": "Fleshborn"
+        }
+      ],
+      "usd": 3.86,
+      "antes": 4.29,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4193300": {
+      "usd": 3.86,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5524970",
+      "nombre": "Fleshborn - Supporter Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "A short incremental game where you are tasked to clean a lab from fleshy growths using your flamethrower. Collect resources and spend them in a vast upgrade tree to unlock new abilities.",
+  "generos": [
+    "Casual",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "25 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Fleshborn",
+  "acerca": [
+    [
+      "p",
+      "A short incremental game where you must purge a derelict research facility overrun by creeping fleshy growths. Armed with your flamethrower , you'll burn through spreading biohazards, uncover secrets and grow ever more powerful as you progress."
+    ],
+    [
+      "p",
+      "Collect the blood dropped by these organic growths and spend it in a vast upgrade tree to unlock new abilities to change the course of your runs."
+    ],
+    [
+      "p",
+      "As you clear rooms and progress through floors, uncover the eerie secrets behind the research facility and unravel the mystery of what really happened to you."
+    ],
+    [
+      "p",
+      "Explore and clear all five levels to contain the growth."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Guardar en cualquier momento",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/125a4da69f195629a9a5929b03eb822cf5737a27/ss_125a4da69f195629a9a5929b03eb822cf5737a27.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/125a4da69f195629a9a5929b03eb822cf5737a27/ss_125a4da69f195629a9a5929b03eb822cf5737a27.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/7efe4bb006a734dee026bda0b5b124c8d2a38a97/ss_7efe4bb006a734dee026bda0b5b124c8d2a38a97.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/7efe4bb006a734dee026bda0b5b124c8d2a38a97/ss_7efe4bb006a734dee026bda0b5b124c8d2a38a97.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/766d3fbf3d007fe869447596c3890aaaeef99f64/ss_766d3fbf3d007fe869447596c3890aaaeef99f64.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/766d3fbf3d007fe869447596c3890aaaeef99f64/ss_766d3fbf3d007fe869447596c3890aaaeef99f64.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/1b8a2bbc59ee4f131d40c38a5c688a62bce59c02/ss_1b8a2bbc59ee4f131d40c38a5c688a62bce59c02.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/1b8a2bbc59ee4f131d40c38a5c688a62bce59c02/ss_1b8a2bbc59ee4f131d40c38a5c688a62bce59c02.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/59d48ccc4b468b25ea58f4277f936279b47b40c9/ss_59d48ccc4b468b25ea58f4277f936279b47b40c9.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/59d48ccc4b468b25ea58f4277f936279b47b40c9/ss_59d48ccc4b468b25ea58f4277f936279b47b40c9.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/adac6768dfe4bbe26290ba189214c8dc9f416a2a/ss_adac6768dfe4bbe26290ba189214c8dc9f416a2a.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/adac6768dfe4bbe26290ba189214c8dc9f416a2a/ss_adac6768dfe4bbe26290ba189214c8dc9f416a2a.1920x1080.jpg?t=1795625760"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/1a87ada993916bc7b9e99a5bb81c63f4d1b2a64f/ss_1a87ada993916bc7b9e99a5bb81c63f4d1b2a64f.600x338.jpg?t=1795625760",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193300/1a87ada993916bc7b9e99a5bb81c63f4d1b2a64f/ss_1a87ada993916bc7b9e99a5bb81c63f4d1b2a64f.1920x1080.jpg?t=1795625760"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 393299,
+  "v": 7,
+  "consultado": "2026-11-25T19:39:52.467Z"
+}

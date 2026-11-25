@@ -1,0 +1,785 @@
+{
+  "clave": "squad",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2861-7301-8c3f-a612e91bbb07",
+  "appid": "393380",
+  "lanzamiento": "2015-12-15",
+  "desarrolladores": [
+    "Offworld Industries Ltd.",
+    "Offworld",
+    "Offworld Industries Ltd"
+  ],
+  "editores": [
+    "Offworld Industries Ltd.",
+    "Offworld Industries",
+    "Offworld",
+    "Offworld Industries Ltd"
+  ],
+  "etiquetas": [
+    "Military",
+    "Realistic",
+    "FPS",
+    "Multiplayer",
+    "PvP"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 182787,
+      "url": "https://store.steampowered.com/app/393380/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 117,
+      "url": "https://metacritic.com/game/squad/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1603731",
+      "nombre": "Squad Fireteam Edition",
+      "apps": [
+        {
+          "appid": "1123920",
+          "nombre": "Canadian Armed Forces"
+        },
+        {
+          "appid": "393380",
+          "nombre": "Squad"
+        },
+        {
+          "appid": "4012030",
+          "nombre": "Squad - Fireteam "
+        }
+      ],
+      "usd": 13.99,
+      "antes": 34.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1147923",
+      "nombre": "Squad Commander Edition",
+      "apps": [
+        {
+          "appid": "1123920",
+          "nombre": "Canadian Armed Forces"
+        },
+        {
+          "appid": "393380",
+          "nombre": "Squad"
+        },
+        {
+          "appid": "453400",
+          "nombre": "Squad - Original Soundtrack Vol. 1 & 2"
+        },
+        {
+          "appid": "2417351",
+          "nombre": "Squad Emotes - Attitude Pack"
+        },
+        {
+          "appid": "2417350",
+          "nombre": "Squad Emotes - Free PT Pack"
+        },
+        {
+          "appid": "2222340",
+          "nombre": "Squad Emotes - Free Recruit Pack"
+        },
+        {
+          "appid": "2222341",
+          "nombre": "Squad Emotes - Grunt Pack"
+        },
+        {
+          "appid": "2826950",
+          "nombre": "Squad Emotes - Outpost Pack"
+        },
+        {
+          "appid": "2222342",
+          "nombre": "Squad Emotes - R&R Pack"
+        },
+        {
+          "appid": "2598380",
+          "nombre": "Squad Emotes - Stand Off Pack"
+        },
+        {
+          "appid": "2974490",
+          "nombre": "Squad Weapon Skins - Clash Pack"
+        },
+        {
+          "appid": "2584870",
+          "nombre": "Squad Weapon Skins - Desert Camo Pack"
+        },
+        {
+          "appid": "2820320",
+          "nombre": "Squad Weapon Skins - Jungle Assault Pack"
+        },
+        {
+          "appid": "2521990",
+          "nombre": "Squad Weapon Skins - Precision Strike Pack"
+        },
+        {
+          "appid": "2522000",
+          "nombre": "Squad Weapon Skins - Woodland Camo Pack"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "1537375",
+      "nombre": "Squad Ultimate Edition",
+      "apps": [
+        {
+          "appid": "1123920",
+          "nombre": "Canadian Armed Forces"
+        },
+        {
+          "appid": "393380",
+          "nombre": "Squad"
+        },
+        {
+          "appid": "4012030",
+          "nombre": "Squad - Fireteam "
+        },
+        {
+          "appid": "453400",
+          "nombre": "Squad - Original Soundtrack Vol. 1 & 2"
+        },
+        {
+          "appid": "2417351",
+          "nombre": "Squad Emotes - Attitude Pack"
+        },
+        {
+          "appid": "3165860",
+          "nombre": "Squad Emotes - Barracks Pack"
+        },
+        {
+          "appid": "4062350",
+          "nombre": "Squad Emotes - Downtime Pack"
+        },
+        {
+          "appid": "2417350",
+          "nombre": "Squad Emotes - Free PT Pack"
+        },
+        {
+          "appid": "2222340",
+          "nombre": "Squad Emotes - Free Recruit Pack"
+        },
+        {
+          "appid": "2222341",
+          "nombre": "Squad Emotes - Grunt Pack"
+        },
+        {
+          "appid": "2826950",
+          "nombre": "Squad Emotes - Outpost Pack"
+        },
+        {
+          "appid": "2598380",
+          "nombre": "Squad Emotes - Stand Off Pack"
+        },
+        {
+          "appid": "2974490",
+          "nombre": "Squad Weapon Skins - Clash Pack"
+        },
+        {
+          "appid": "3165850",
+          "nombre": "Squad Weapon Skins - Contractors Pack"
+        },
+        {
+          "appid": "2584870",
+          "nombre": "Squad Weapon Skins - Desert Camo Pack"
+        },
+        {
+          "appid": "3486070",
+          "nombre": "Squad Weapon Skins - Insurgent Pack"
+        },
+        {
+          "appid": "2820320",
+          "nombre": "Squad Weapon Skins - Jungle Assault Pack"
+        },
+        {
+          "appid": "4044570",
+          "nombre": "Squad Weapon Skins - Kobzar Pack"
+        },
+        {
+          "appid": "2521990",
+          "nombre": "Squad Weapon Skins - Precision Strike Pack"
+        },
+        {
+          "appid": "3925370",
+          "nombre": "Squad Weapon Skins - Second Tour Pack"
+        },
+        {
+          "appid": "2522000",
+          "nombre": "Squad Weapon Skins - Woodland Camo Pack"
+        }
+      ],
+      "usd": 23.99,
+      "antes": 59.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "78726",
+      "nombre": "Squad",
+      "apps": [
+        {
+          "appid": "393380",
+          "nombre": "Squad"
+        }
+      ],
+      "usd": 24.99,
+      "antes": 24.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1153713",
+      "nombre": "Squad Commander Edition Upgrade",
+      "apps": [
+        {
+          "appid": "1123920",
+          "nombre": "Canadian Armed Forces"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 13.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "393380": {
+      "usd": 13.99,
+      "gratis": false
+    },
+    "453400": {
+      "usd": 3.49,
+      "gratis": false
+    },
+    "1123920": {
+      "usd": null,
+      "gratis": true
+    },
+    "2222340": {
+      "usd": null,
+      "gratis": true
+    },
+    "2222341": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2222342": {
+      "usd": 1.99,
+      "gratis": false
+    },
+    "2417350": {
+      "usd": null,
+      "gratis": true
+    },
+    "2417351": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "2521990": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "2522000": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "2584870": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "2598380": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "2820320": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "2826950": {
+      "usd": 1.24,
+      "gratis": false
+    },
+    "2974490": {
+      "usd": 1.49,
+      "gratis": false
+    },
+    "3165850": {
+      "usd": 2.24,
+      "gratis": false
+    },
+    "3165860": {
+      "usd": 1.79,
+      "gratis": false
+    },
+    "3486070": {
+      "usd": 2.89,
+      "gratis": false
+    },
+    "3925370": {
+      "usd": 3.29,
+      "gratis": false
+    },
+    "4012030": {
+      "usd": 3.74,
+      "gratis": false
+    },
+    "4044570": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "4062350": {
+      "usd": 2.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 25,
+  "dlcLista": [
+    {
+      "appid": "4841320",
+      "nombre": "Squad Weapon Skins - Recon Team Pack ",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5043520",
+      "nombre": "Squad Weapon Skins - Scout Team Pack",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4012030",
+      "nombre": "Squad - Fireteam ",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "4326750",
+      "nombre": "Squad Weapon Skins - Dragon Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 50
+    },
+    {
+      "appid": "4044570",
+      "nombre": "Squad Weapon Skins - Kobzar Pack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4686020",
+      "nombre": "Squad Weapon Skins - Sliva Pack",
+      "gratis": false,
+      "usd": 1.64,
+      "descuento": 50
+    },
+    {
+      "appid": "4062350",
+      "nombre": "Squad Emotes - Downtime Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 50
+    },
+    {
+      "appid": "3486070",
+      "nombre": "Squad Weapon Skins - Insurgent Pack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "3925370",
+      "nombre": "Squad Weapon Skins - Second Tour Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 50
+    },
+    {
+      "appid": "3165860",
+      "nombre": "Squad Emotes - Barracks Pack",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 50
+    },
+    {
+      "appid": "3165850",
+      "nombre": "Squad Weapon Skins - Contractors Pack",
+      "gratis": false,
+      "usd": 2.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2974490",
+      "nombre": "Squad Weapon Skins - Clash Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2826950",
+      "nombre": "Squad Emotes - Outpost Pack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2521990",
+      "nombre": "Squad Weapon Skins - Precision Strike Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "453400",
+      "nombre": "Squad - Original Soundtrack Vol. 1 & 2",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2598380",
+      "nombre": "Squad Emotes - Stand Off Pack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2820320",
+      "nombre": "Squad Weapon Skins - Jungle Assault Pack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2522000",
+      "nombre": "Squad Weapon Skins - Woodland Camo Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2584870",
+      "nombre": "Squad Weapon Skins - Desert Camo Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2222341",
+      "nombre": "Squad Emotes - Grunt Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2222342",
+      "nombre": "Squad Emotes - R&R Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2417351",
+      "nombre": "Squad Emotes - Attitude Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2417350",
+      "nombre": "Squad Emotes - Free PT Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2222340",
+      "nombre": "Squad Emotes - Free Recruit Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1123920",
+      "nombre": "Canadian Armed Forces",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Squad es un FPS táctico que ofrece experiencias de combate auténticas a través del trabajo en equipo, la comunicación y el combate realista. Cierra la brecha entre el shooter arcade y el realismo militar con batallas de 100 jugadores, guerra con armas combinadas y construcción de bases.v",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Multijugador masivo",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "23 SEP 2020",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Squad",
+  "acerca": [
+    [
+      "p",
+      "Squad es la encarnación de la acción militar táctica. Compite en batallas a gran escala de 50 contra 50 en el shooter en primera persona más realista con armas combinadas. Squad enfatiza el realismo del combate a través del trabajo en equipo, las tácticas y la guerra auténtica. Una amplia selección de armas y vehículos específicos de cada facción permite a los jugadores crear sus propios equipamientos que mejor se adapten a sus tácticas preferidas. Y con las miras únicas Picture-in-Picture de Squad, es como si realmente estuvieras apuntando al enemigo a través de visores militares reales."
+    ],
+    [
+      "p",
+      "Con 13 facciones, 24 mapas enormes y un vasto arsenal de armas y vehículos, Squad crea una experiencia de shooter visceral y emocionante que requiere decisiones en una fracción de segundo en intensos y realistas tiroteos."
+    ],
+    [
+      "h",
+      "Nuevo en la Actualización 10.1: Fireteam"
+    ],
+    [
+      "p",
+      "Fireteam es el nuevo modo PvE de Squad que se lanzó con la Actualización 10.1. Este modo cooperativo PvE para hasta 5 jugadores condensa los momentos más memorables del juego en misiones tácticas más cortas e intensas. Seis misiones están disponibles para todos los jugadores de Squad, y si deseas apoyar el diseño y desarrollo continuo de Fireteam puedes optar por adquirir el paquete Supporter o Founder, disponible en esta página."
+    ],
+    [
+      "h",
+      "Batallas Masivas 50 vs. 50"
+    ],
+    [
+      "p",
+      "Squad crea experiencias de combate auténticas enfrentando facciones convencionales y no convencionales entre sí. Como parte de un equipo de 50 personas, únete a un escuadrón de nueve personas para enfrentarte a facciones opuestas en intensos combates en grandes entornos del mundo real. Squad presenta 13 facciones de todo el mundo, incluyendo el Cuerpo de Marines de los Estados Unidos, la Fuerza de Defensa Australiana y el Ejército Canadiense, entre muchos otros."
+    ],
+    [
+      "h",
+      "Combate de Infantería Ultra-Realista"
+    ],
+    [
+      "p",
+      "El combate en Squad está diseñado para ofrecer la experiencia de infantería más divertida, inmersiva y auténtica posible. Con los principios fundamentales de Squad basados en el trabajo en equipo y las tácticas, tendrás que colaborar para superar a tus enemigos con miras realistas Picture-in-Picture y el sistema único de Supresión de Squad. Trabaja con tu escuadrón para abrumar al enemigo y arrebatar la victoria de las fauces de la derrota."
+    ],
+    [
+      "h",
+      "Sistema de Construcción y Logística"
+    ],
+    [
+      "p",
+      "Adáptate a las necesidades cambiantes del campo de batalla. Construyendo fortificaciones y emplazamientos o proporcionando municiones y materiales a tu equipo, puedes darle a tu escuadrón una ventaja. Ya sea colocando ametralladoras pesadas (HMG) y cañones antitanque (AT) o fortificando una posición con sacos de arena, alambre de púas y municiones tan necesarias, el campo de batalla está en tus manos para cambiarlo, si tienes el valor de hacerlo."
+    ],
+    [
+      "h",
+      "Comunicación"
+    ],
+    [
+      "p",
+      "Una sólida comunicación es el mejor amigo de un soldado cuando se enfrenta al enemigo. Para ayudar a facilitar la navegación en la complejidad de la comunicación en el campo de batalla, Squad ofrece un sistema de VoIP de clase mundial que permite a los jugadores hablar con otros soldados localmente, dentro del escuadrón, entre líderes de escuadrón o incluso con el comandante general del equipo. Las herramientas de mapa y los marcadores en el mundo ayudan a los líderes de equipo y a los líderes de escuadrón a informar a sus soldados sobre tácticas de combate improvisadas."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Con sist. antitrampas de Valve"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (x64)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400, AMD Ryzen 3600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060 6GB, AMD Radeon RX 580 with at least 6GB of VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "65 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "A teamwork oriented mindset"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-12400, AMD Ryzen 5600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 3060, AMD Radeon RX 6600 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "65 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "A microphone"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_646857af730262e7f6f92e67bf2d8b47bf0c662c.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_646857af730262e7f6f92e67bf2d8b47bf0c662c.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0ca9f1167852de187a7f929da20421ddb08fc752.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_0ca9f1167852de187a7f929da20421ddb08fc752.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a50882d54e8fdf8478bbbe5cd8df4bd086fc1a0f.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_a50882d54e8fdf8478bbbe5cd8df4bd086fc1a0f.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b256c427c3dc178a04fb54c92d563aae12c0ea36.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_b256c427c3dc178a04fb54c92d563aae12c0ea36.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6b6aa0741b6e65f34b153f0e6468412e104dbc64.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6b6aa0741b6e65f34b153f0e6468412e104dbc64.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6fabf783d6897ad15486b2051c997d9f9a8f2ab0.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_6fabf783d6897ad15486b2051c997d9f9a8f2ab0.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_62314ae7cc786d5f4ce67f191d37e9a1520d4cb4.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_62314ae7cc786d5f4ce67f191d37e9a1520d4cb4.1920x1080.jpg?t=1792423549"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_602d31a8254112c1f0fb9deba558b7eff3739831.600x338.jpg?t=1792423549",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/ss_602d31a8254112c1f0fb9deba558b7eff3739831.1920x1080.jpg?t=1792423549"
+    }
+  ],
+  "web": "http://joinsquad.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9495,
+  "youtube": [
+    {
+      "id": "oVA7OL4QrCk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "TjITHPQsGQ0",
+      "nombre": "Early Access Trailer: The Raid"
+    },
+    {
+      "id": "xDUOAqq8g_Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "SHeLfkKEggE",
+      "nombre": "Development Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T19:39:46.614Z"
+}

@@ -1,0 +1,376 @@
+{
+  "clave": "foundation",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3294-7015-a1a5-3e279739c3cc",
+  "appid": "690830",
+  "lanzamiento": "2025-01-31",
+  "desarrolladores": [
+    "Polymorph Games"
+  ],
+  "editores": [
+    "Polymorph Games"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Simulation",
+    "Medieval",
+    "Strategy",
+    "Sandbox"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 23543,
+      "url": "https://store.steampowered.com/app/690830/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 84,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/foundation/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 25,
+      "url": "https://metacritic.com/game/foundation/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "198018",
+      "nombre": "Foundation",
+      "apps": [
+        {
+          "appid": "690830",
+          "nombre": "Foundation"
+        }
+      ],
+      "usd": 10.79,
+      "antes": 17.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "690830": {
+      "usd": 10.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "4713280",
+      "nombre": "Foundation: Harvest Festival",
+      "gratis": false,
+      "usd": 6.74,
+      "descuento": 10
+    },
+    {
+      "appid": "3482250",
+      "nombre": "Foundation Guivre Garden",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 40
+    },
+    {
+      "appid": "1015460",
+      "nombre": "Foundation Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 40
+    }
+  ],
+  "descripcion": "Foundation es un juego de construcción de ciudades medievales relajado, sin cuadrículas y centrado en el desarrollo natural, la construcción de monumentos y la gestión de recursos.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "31 ENE 2025",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/foundation?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Foundation",
+  "acerca": [
+    [
+      "p",
+      "Foundation es un juego de construcción de ciudades medievales sin cuadrículas, en el que crearás edificaciones modulares, darás forma a ciudades que crecerán de forma natural y organizarás la vida de los habitantes."
+    ],
+    [
+      "p",
+      "CONSTRUYE LA CIUDAD MEDIEVAL DE TUS SUEÑOS Y OBSÉRVALA CRECER DE FORMA NATURAL"
+    ],
+    [
+      "p",
+      "Foundation combina herramientas de construcción libre y generación procedimental para crear la mejor experiencia de construcción de ciudades que se desarrollan de forma natural."
+    ],
+    [
+      "p",
+      "GESTIONA TU VILLA Y HAZ QUE COBRE VIDA"
+    ],
+    [
+      "p",
+      "Asigna oficios, crea cadenas de producción y establece el comercio. En Foundation, ¡tus creaciones cobrarán vida!"
+    ],
+    [
+      "p",
+      "JUEGA A TU RITMO, RELÁJATE Y DISFRUTA LAS VISTAS"
+    ],
+    [
+      "p",
+      "Foundation te ofrece una amplia variedad de niveles de dificultad para que juegues como quieras. Puedes elegir una aspiración y explorar nuevos estilos de juego, o relajarte y disfrutar del escenario con el modo Creativo."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS"
+    ],
+    [
+      "li",
+      "Una experiencia avanzada de construcción de ciudades sin cuadrículas, con generación de mapas ilimitada y un sistema de construcción prácticamente sin restricciones."
+    ],
+    [
+      "li",
+      "Herramienta de construcción libre: crea edificaciones modulares a partir de piezas individuales, embellécelas y transfórmalas en majestuosos monumentos."
+    ],
+    [
+      "li",
+      "Desarrollo orgánico con nuestra exclusiva herramienta de pintado: guía a tus habitantes definiendo zonas residenciales, decide dónde pavimentar caminos y establecer patrullas, designa zonas de extracción forestal y mucho más."
+    ],
+    [
+      "li",
+      "Administra tu villa: desarrolla cadenas de producción, cobra impuestos a tus habitantes, comercia con las poblaciones cercanas o lucha en nombre del rey. ¡Hay muchas formas de crear una economía próspera!"
+    ],
+    [
+      "li",
+      "Avanza a lo largo de tres rutas distintas, una por cada estamento: el Pueblo , el Clero y el Reino . Puedes especializarte en uno o combinar los tres."
+    ],
+    [
+      "li",
+      "Personaliza la experiencia de juego a tu medida: elige una aspiración, ajusta el nivel de dificultad a tu antojo o construye sin limitaciones en el modo Creativo."
+    ],
+    [
+      "li",
+      "¡Integración completa de mods!"
+    ],
+    [
+      "li",
+      "Banda sonora original de Foundation: sumérgete en más de 100 minutos de música ambiental medieval, creada por los galardonados compositores de Audinity."
+    ],
+    [
+      "li",
+      "¡Y mucho más!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 960 / R9 290 - 3 GB Video Memory"
+      ],
+      [
+        "Notas adicionales",
+        "OpenGL 4.3"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_2a8289eaca31fa5b81f379b42c47010bb8070f15.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_2a8289eaca31fa5b81f379b42c47010bb8070f15.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_942d0a44b1e5bb5caf601feb082f8b14124c8209.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_942d0a44b1e5bb5caf601feb082f8b14124c8209.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_dbc1c23ffd249f0c8b07aae6312f33aa63a0e8eb.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_dbc1c23ffd249f0c8b07aae6312f33aa63a0e8eb.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_e9eb10e68eab982bbcfb36be9a3bc1799fb6e958.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_e9eb10e68eab982bbcfb36be9a3bc1799fb6e958.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_679df9d3d1d03a934afb3e36ba26b8b1fb90159c.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_679df9d3d1d03a934afb3e36ba26b8b1fb90159c.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_c16b9212e4494a6cc7bef79ad764d1b889f5bbd2.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_c16b9212e4494a6cc7bef79ad764d1b889f5bbd2.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_224e90a83430312190a9dc1d8b7cb29c90674bf6.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_224e90a83430312190a9dc1d8b7cb29c90674bf6.1920x1080.jpg?t=1795024869"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_6b91a2c788608ec1148c9196678677d3b552107e.600x338.jpg?t=1795024869",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690830/ss_6b91a2c788608ec1148c9196678677d3b552107e.1920x1080.jpg?t=1795024869"
+    }
+  ],
+  "web": "https://www.polymorph.games",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 88392,
+  "youtube": [
+    {
+      "id": "sC-GvaLJ-xI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "nxahmfa9608",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "6aB4ddFPMLE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "AMozhImo67U",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T19:40:10.753Z"
+}

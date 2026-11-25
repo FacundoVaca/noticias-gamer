@@ -1,0 +1,387 @@
+{
+  "clave": "garrys mod",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0a0e-7329-8025-9daca67610a4",
+  "appid": "4000",
+  "lanzamiento": "2006-11-29",
+  "desarrolladores": [
+    "Facepunch Studios",
+    "Facepunch Studios Limited"
+  ],
+  "editores": [
+    "Valve",
+    "Facepunch Studios Limited"
+  ],
+  "etiquetas": [
+    "Sandbox",
+    "Moddable",
+    "Multiplayer",
+    "Physics",
+    "Building"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 96,
+      "cantidad": 1102765,
+      "url": "https://store.steampowered.com/app/4000/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 88,
+      "cantidad": 1342,
+      "url": "https://metacritic.com/game/garrys-mod/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "218",
+      "nombre": "Garry's Mod",
+      "apps": [
+        {
+          "appid": "4000",
+          "nombre": "Garry's Mod"
+        }
+      ],
+      "usd": 2.89,
+      "antes": 5.79,
+      "descuento": 50
+    },
+    {
+      "packageid": "295508",
+      "nombre": "Garry's Mod - Commercial License",
+      "apps": [
+        {
+          "appid": "4000",
+          "nombre": "Garry's Mod"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "4000": {
+      "usd": 2.89,
+      "gratis": false
+    }
+  },
+  "descripcion": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "29 NOV 2006",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Garry's Mod",
+  "acerca": [
+    [
+      "p",
+      "Garry's Mod es un entorno que te permite jugar libremente con el motor físico. Al contrario que en la mayoría de juegos, no hay metas u objetivos predeterminados. Te proporcionamos las herramientas y te damos libertad para jugar."
+    ],
+    [
+      "p",
+      "Tú generas los objetos y los unes para crear tus propios artefactos: ya sea un coche, un cohete, una catapulta o algo aún por inventar. Tú decides."
+    ],
+    [
+      "p",
+      "Si no eres un experto en construcción, no te desanimes. Puedes colocar una gran variedad de objetos en posiciones absurdas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Subtítulos descriptivos disponibles",
+    "Steam Workshop",
+    "Alternativas de color"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Croata",
+      "voces": false
+    },
+    {
+      "nombre": "Estonio",
+      "voces": false
+    },
+    {
+      "nombre": "Hebreo",
+      "voces": false
+    },
+    {
+      "nombre": "Lituano",
+      "voces": false
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows® 10"
+      ],
+      [
+        "Procesador",
+        "2 GHz Processor or better"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1GB dedicated VRAM or better"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX® 9 compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Mouse, Keyboard, Monitor"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows® 10/11"
+      ],
+      [
+        "Procesador",
+        "2.5 GHz Processor or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4GB dedicated VRAM or better"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_af060d0a9aeb6598e154c9704ce250b0e63b2266.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_d314d7dba0987b3e7f49154964bda0ae74ee5161.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_3d320f333fb74413911cbc2bffae9bdda683e2ec.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_12741a4344b5cfee33726ae219476c8634517f7d.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_74a181b4584a04c88ee316df31a850ab2810fb79.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_a6133770663ff34d535adf050f2af64ab47a6974.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/ss_ff27d52a103d1685e4981673c4f700b860cb23de.1920x1080.jpg?t=1776868682"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.600x338.jpg?t=1776868682",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/0000000826.1920x1080.jpg?t=1776868682"
+    }
+  ],
+  "web": "https://gmod.facepunch.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 3278,
+  "youtube": [
+    {
+      "id": "kgXVLw6qpFM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T19:39:36.240Z"
+}
