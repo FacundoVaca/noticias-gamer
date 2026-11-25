@@ -1,0 +1,311 @@
+{
+  "clave": "hearth and hamlet",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019c05fc-e518-7132-b45e-7b10a9bb79b2",
+  "appid": "4315040",
+  "lanzamiento": "2026-08-19",
+  "desarrolladores": [
+    "Phorust Studios"
+  ],
+  "editores": [
+    "Gamersky Games",
+    "Pythia Games"
+  ],
+  "etiquetas": [
+    "incremental",
+    "City Builder",
+    "Base Building",
+    "Casual",
+    "Idler"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 2431,
+      "url": "https://store.steampowered.com/app/4315040/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/hearth-and-hamlet/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1508846",
+      "nombre": "Hearth and Hamlet",
+      "apps": [
+        {
+          "appid": "4315040",
+          "nombre": "Hearth and Hamlet"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 4.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "4315040": {
+      "usd": 3.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4951750",
+      "nombre": "Hearth and Hamlet Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Start with a campfire. Build a kingdom. Hearth and Hamlet is a medieval Incremental where you build a city, that blends resource management and relaxing idle gameplay. Build your empire by researching new technologies, passing new laws, trading with far-off lands, and more.",
+  "generos": [
+    "Casual",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "19 AGO 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Hearth and Hamlet",
+  "acerca": [
+    [
+      "p",
+      "From Campfire to Kingdom. Citybuilder Clicker."
+    ],
+    [
+      "p",
+      "Hearth and Hamlet is a cozy incremental citybuilder set in a magic-filled medieval pixel art world. Gather resources, assign workers, construct buildings and slowly, steadily turn a quiet frontier camp into a magnificent, thriving kingdom."
+    ],
+    [
+      "p",
+      "From humble beginnings to magical new heights, you’ll grow your settlement one decision at a time and discover more of what the world has to offer along the way."
+    ],
+    [
+      "h",
+      "RUN YOUR KINGDOM YOUR WAY"
+    ],
+    [
+      "p",
+      "Building is only the beginning. As your settlement grows, managing it becomes just as important as expanding it. Set laws and policies to shape how your kingdom operates, including taxation rules to boost income, rules for workers that keep morale high, city guard drafts to protect your population and civic decisions that change the character of your kingdom."
+    ],
+    [
+      "p",
+      "Every upgrade feeds into a research tree that permanently unlocks new technologies, from more advanced buildings and new policies, to stronger magic to experiment with. There’s always something worth working toward."
+    ],
+    [
+      "h",
+      "EXPLORE MAGIC AND TRADE WITH FARAWAY LANDS"
+    ],
+    [
+      "p",
+      "Unlock magic as your city advances and discover wild new possibilities, such as alchemical labs and magical academies that add a whole new dimension to how your kingdom operates."
+    ],
+    [
+      "p",
+      "Trade with strange new lands to build resources and grow your economy. Recruit soldiers as your realm expands to protect what you’ve built. There’s a world of wonder to discover as your empire grows."
+    ],
+    [
+      "h",
+      "FEATURES"
+    ],
+    [
+      "p",
+      "Incremental idle kingdom builder. A cozy, satisfying gameplay loop that rewards patience and planning.."
+    ],
+    [
+      "p",
+      "Medieval pixel art world. Lakes and rivers, magical swamps, faraway lands, and more. All rendered in a charming pixel style."
+    ],
+    [
+      "p",
+      "Deep building system. From simple tents to taverns, castles, magical academies, defensive fortifications, and much more."
+    ],
+    [
+      "p",
+      "Manage resources, workers and policies. Assign your population to gather resources like food, wood, stone and gold. Set policies and laws that shape how your kingdom grows."
+    ],
+    [
+      "p",
+      "Research new technologies. Permanently unlock new buildings, magic and upgrades as your civilization advances. Discover magic, alchemy and more."
+    ],
+    [
+      "p",
+      "Trade with faraway lands. Grow your economy beyond what your local terrain provides by establishing trade routes with neighbouring kingdoms."
+    ],
+    [
+      "p",
+      "Relax, build and grow. Gameplay is engineered to be relaxing and satisfying. Watch your kingdom grow on your terms, at your pace."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 @ 3.2 GHz or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650 (2 GB VRAM) / AMD Radeon HD 7770 (2 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX-compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2400 @ 3.1 GHz or AMD equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti (2 GB VRAM) / AMD Radeon R7 260X (2 GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX-compatible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9deb163ff5b397ed63af098a85ec560fa7846db0/ss_9deb163ff5b397ed63af098a85ec560fa7846db0.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9deb163ff5b397ed63af098a85ec560fa7846db0/ss_9deb163ff5b397ed63af098a85ec560fa7846db0.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1a84967c27432055b44fc130be0d75b9480bcc3f/ss_1a84967c27432055b44fc130be0d75b9480bcc3f.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1a84967c27432055b44fc130be0d75b9480bcc3f/ss_1a84967c27432055b44fc130be0d75b9480bcc3f.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/66fd3440db004bbe90041c292eae2c933ce8435f/ss_66fd3440db004bbe90041c292eae2c933ce8435f.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/66fd3440db004bbe90041c292eae2c933ce8435f/ss_66fd3440db004bbe90041c292eae2c933ce8435f.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1d0085de64491697288c56fca712aad8193cdfa6/ss_1d0085de64491697288c56fca712aad8193cdfa6.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/1d0085de64491697288c56fca712aad8193cdfa6/ss_1d0085de64491697288c56fca712aad8193cdfa6.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/bcd615b69b17896f3146c10275b3d4724b720ea3/ss_bcd615b69b17896f3146c10275b3d4724b720ea3.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/bcd615b69b17896f3146c10275b3d4724b720ea3/ss_bcd615b69b17896f3146c10275b3d4724b720ea3.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4/ss_77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4/ss_77e4f1fe5c7e67bf8657eea1e5e40f375ce4dfd4.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9d70114f7436508a64b1894cd143bcb08c0fce6a/ss_9d70114f7436508a64b1894cd143bcb08c0fce6a.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/9d70114f7436508a64b1894cd143bcb08c0fce6a/ss_9d70114f7436508a64b1894cd143bcb08c0fce6a.1920x1080.jpg?t=1794583633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/dbba7f1bc96bf392b156c7223c558129ad5f7f41/ss_dbba7f1bc96bf392b156c7223c558129ad5f7f41.600x338.jpg?t=1794583633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/dbba7f1bc96bf392b156c7223c558129ad5f7f41/ss_dbba7f1bc96bf392b156c7223c558129ad5f7f41.1920x1080.jpg?t=1794583633"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 392964,
+  "youtube": [
+    {
+      "id": "OidnO9knPR8",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T13:45:19.071Z"
+}

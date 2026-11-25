@@ -1,0 +1,356 @@
+{
+  "clave": "mudrunner",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f4c6-7399-b42a-224b210363d8",
+  "appid": "675010",
+  "lanzamiento": "2017-10-31",
+  "desarrolladores": [
+    "Saber Interactive"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Offroad",
+    "Simulation",
+    "Multiplayer",
+    "Automobile Sim",
+    "Driving"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 38258,
+      "url": "https://store.steampowered.com/app/675010/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "192205",
+      "nombre": "MudRunner",
+      "apps": [
+        {
+          "appid": "675010",
+          "nombre": "MudRunner"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 11.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "308246",
+      "nombre": "MudRunner - American Wilds Edition",
+      "apps": [
+        {
+          "appid": "675010",
+          "nombre": "MudRunner"
+        },
+        {
+          "appid": "891810",
+          "nombre": "MudRunner - American Wilds Expansion"
+        },
+        {
+          "appid": "816790",
+          "nombre": "MudRunner - The Ridge DLC"
+        },
+        {
+          "appid": "782230",
+          "nombre": "MudRunner - The Valley DLC"
+        }
+      ],
+      "usd": 3.19,
+      "antes": 15.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "675010": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "782230": {
+      "usd": null,
+      "gratis": true
+    },
+    "816790": {
+      "usd": null,
+      "gratis": true
+    },
+    "891810": {
+      "usd": 1.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "782230",
+      "nombre": "MudRunner - The Valley DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "816790",
+      "nombre": "MudRunner - The Ridge DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "891810",
+      "nombre": "MudRunner - American Wilds Expansion",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 80
+    },
+    {
+      "appid": "1024110",
+      "nombre": "MudRunner - Old-timers DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "MudRunner es la experiencia todoterreno definitiva en la que los jugadores estarán en el asiento del conductor y asumirán el desafío de conducir increíbles vehículos todoterreno y recorrer parajes siberianos extremos... ¡Y sus únicas ayudas serán un mapa y una brújula!",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "30 OCT 2017",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "MudRunner",
+  "acerca": [
+    [
+      "p",
+      "MudRunner es la experiencia todoterreno definitiva en la que los jugadores estarán en el asiento del conductor y asumirán el desafío de conducir increíbles vehículos todoterreno y recorrer parajes siberianos extremos... ¡Y sus únicas ayudas serán un mapa y una brújula!"
+    ],
+    [
+      "p",
+      "Conduce 19 potentes vehículos todoterreno, cada uno con sus propias características y equipamiento. Completa tus objetivos y entregas soportando situaciones peligrosas a través de salvajes e indómitos entornos en condiciones extremas con ciclos dinámicos de noche y día. Explora un entorno envolvente de mundo abierto, con gráficos mejorados. Supera terreno embarrado, ríos bravos y otros obstáculos que reaccionan de manera realista al peso y movimiento de tu vehículo gracias al avanzado motor de física del juego."
+    ],
+    [
+      "p",
+      "Tu mapa, tu brújula, tu cabrestante y tus habilidades al volante serán tus mejores aliados. Puedes ir por tu cuenta o unirte con hasta tres jugadores más en el multijugador cooperativo. Descarga mods creados por comunidad de aficionados y disfruta de una gran carga de contenido y una experiencia MudRunner que evoluciona constantemente."
+    ],
+    [
+      "li",
+      "La experiencia todoterreno definitiva"
+    ],
+    [
+      "li",
+      "Una selección más amplia de 19 increíbles vehículos todoterreno"
+    ],
+    [
+      "li",
+      "Explora un inmenso, indómito entorno de mundo abierto"
+    ],
+    [
+      "li",
+      "Gráficos mejorados y un avanzado motor de física para un realismo extremo"
+    ],
+    [
+      "li",
+      "Completa peligrosos objetivos y entregas en condiciones extremas"
+    ],
+    [
+      "li",
+      "¡Juega de forma individual o en multijugador cooperativo de hasta 4 personas!"
+    ],
+    [
+      "li",
+      "Descarga mods para una experiencia que no cesa de evolucionar"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows Vista/7/8/10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel® Pentium Dual Core 2.0GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 9600 GT or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION AND ONLINE GAME. Gamepad Microsoft Xbox Controller for Windows. Confirmed Steering Wheel support for Logitech G25/G27 - Other models have not been tested."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows Vista/7/8/10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core 2 Duo 2.5GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 470 or equivalent"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION AND ONLINE GAME. Gamepad Microsoft Xbox Controller for Windows. Confirmed Steering Wheel support for Logitech G25/G27 - Other models have not been tested."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_95b0985dd1aaa652c69fb0f2ae046177838c319a.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_95b0985dd1aaa652c69fb0f2ae046177838c319a.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_cdb67d33a04c4987f67e9c0d6991f7aee0225a88.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_cdb67d33a04c4987f67e9c0d6991f7aee0225a88.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_15b9797151b58d28c0d4e4251c164ee74b80d350.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_15b9797151b58d28c0d4e4251c164ee74b80d350.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_b6de7ed6b8a7628985bd98a58ab1a6b4b50ccd4a.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_b6de7ed6b8a7628985bd98a58ab1a6b4b50ccd4a.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_24846b82bb21886dec0970e818a8155ddccd59e5.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_24846b82bb21886dec0970e818a8155ddccd59e5.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_06a211b2c74b30ff539339e9a87f69f2272c5dbb.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_06a211b2c74b30ff539339e9a87f69f2272c5dbb.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_b7287b6ea0214ccd6ba4d99609d9285f44c0bbb7.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_b7287b6ea0214ccd6ba4d99609d9285f44c0bbb7.1920x1080.jpg?t=1784714181"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_91e2f33ec02c937652e917c37fbc84619ba816ef.600x338.jpg?t=1784714181",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675010/ss_91e2f33ec02c937652e917c37fbc84619ba816ef.1920x1080.jpg?t=1784714181"
+    }
+  ],
+  "web": "https://www.focus-home.com/games/mudrunner-mobile",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 54789,
+  "youtube": [
+    {
+      "id": "CNwQPwX373w",
+      "nombre": "The Ultimate Off Road Experience Trailer"
+    },
+    {
+      "id": "F5TzAwb6NmA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "8jn0oYpFuME",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "haaGpiHrNWM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T13:45:13.576Z"
+}
