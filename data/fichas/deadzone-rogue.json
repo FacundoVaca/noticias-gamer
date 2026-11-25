@@ -1,0 +1,333 @@
+{
+  "clave": "deadzone rogue",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019207c0-29d6-7304-95e0-59713d5b7ccf",
+  "appid": "3228590",
+  "lanzamiento": "2025-04-29",
+  "desarrolladores": [
+    "Prophecy Games"
+  ],
+  "editores": [
+    "Prophecy Games"
+  ],
+  "etiquetas": [
+    "Roguelike",
+    "FPS",
+    "Online Co-Op",
+    "PvE",
+    "Roguelite"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 15438,
+      "url": "https://store.steampowered.com/app/3228590/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/deadzone-rogue/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1144483",
+      "nombre": "Deadzone: Rogue",
+      "apps": [
+        {
+          "appid": "3228590",
+          "nombre": "Deadzone: Rogue"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 12.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "3228590": {
+      "usd": 6.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "3897660",
+      "nombre": "Deadzone: Rogue - Operative Pack",
+      "gratis": false,
+      "usd": 3.09,
+      "descuento": 50
+    },
+    {
+      "appid": "4208730",
+      "nombre": "Deadzone: Rogue - MARK II Pack",
+      "gratis": false,
+      "usd": 3.09,
+      "descuento": 50
+    },
+    {
+      "appid": "3883890",
+      "nombre": "Deadzone: Rogue - Original Soundtrack",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Deadzone: Rogue es un shooter en primera persona roguelite ambientado en el espacio. Ábrete paso entre enjambres de máquinas hostiles, combina poderosas mejoras y elementos para forjar tu configuración, y hazte más fuerte con cada partida — en solitario o en cooperativo.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "11 AGO 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Deadzone: Rogue",
+  "acerca": [
+    [
+      "p",
+      "Aventúrate en solitario o conquista la nave en un equipo cooperativo de hasta 3 jugadores. Marca a los enemigos para disparar con precisión, sincroniza ataques con granadas y arrasa con una fuerza abrumadora. Ajusta la dificultad de cada misión a tu estado de ánimo: de una experiencia relajada a un modo pesadilla."
+    ],
+    [
+      "p",
+      "Lucha contra jefes biomecánicos gigantes que exigen puntería firme y reflejos rápidos. Aniquila oleadas de drones cazadores, arañas robóticas, seres sin mente y decenas de enemigos más para sobrevivir a cada partida. Combate por todos los sectores de la nave, desde las salas de máquinas hasta las celdas de detención."
+    ],
+    [
+      "p",
+      "Domina más de 30 armas poderosas, cada una modificable con afijos elementales y mejoras. Convierte una escopeta en un rompehordas que esparce el vacío, o una ametralladora en una tormenta de hielo que limpia una sala. De cañones de plasma a rifles de francotirador, tu arsenal se adapta a cualquier escenario de combate."
+    ],
+    [
+      "p",
+      "Incinera drones con fuego, congela enjambres con hielo, encadena rayos a los enemigos con descargas eléctricas o envíalos al vacío con un disparo a la cabeza en el momento justo."
+    ],
+    [
+      "p",
+      "Transforma tu estrategia de combate con decenas de mejoras, ventajas y objetos. Domina desde lejos, ataca desde las sombras con sigilo o entra de lleno con combate cuerpo a cuerpo potenciado. Tus decisiones brindan una experiencia única frente al asalto mecánico."
+    ],
+    [
+      "p",
+      "Usa mejoras permanentes para convertirte en una máquina de matar. Refuerza tus escudos, amplifica el caos elemental y destroza robots con una furia satisfactoria. Forja un camino que se adapte a tu estilo de juego."
+    ],
+    [
+      "p",
+      "Explora una nave espacial invadida por criaturas biomecánicas, disfruta de banda sonora y arte originales y descubre tu verdadera misión y origen."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5-4690 or AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 6GB or Radeon RX 6500XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7-11700 or AMD Ryzen 5 5600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 2080 or Radeon RX6700"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005/ss_57a7caca638ae6f17a8f39f6aa9ea4d93b3d8005.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/763bf7d7ac576f77f078e2ff3e9997bb0a19faf6/ss_763bf7d7ac576f77f078e2ff3e9997bb0a19faf6.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/763bf7d7ac576f77f078e2ff3e9997bb0a19faf6/ss_763bf7d7ac576f77f078e2ff3e9997bb0a19faf6.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd/ss_920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd/ss_920b1a94b8be19a220dbbca5fe6244f4b5cc6dcd.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/f0c37e8c1504cfac3302ab79b72e4a1bc54639c1/ss_f0c37e8c1504cfac3302ab79b72e4a1bc54639c1.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/f0c37e8c1504cfac3302ab79b72e4a1bc54639c1/ss_f0c37e8c1504cfac3302ab79b72e4a1bc54639c1.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/b5f8b9eab87397aad92884df892b59613f2d3221/ss_b5f8b9eab87397aad92884df892b59613f2d3221.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/b5f8b9eab87397aad92884df892b59613f2d3221/ss_b5f8b9eab87397aad92884df892b59613f2d3221.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/36e67d12e155526ba0d1a98ea8079ac42b642fea/ss_36e67d12e155526ba0d1a98ea8079ac42b642fea.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/36e67d12e155526ba0d1a98ea8079ac42b642fea/ss_36e67d12e155526ba0d1a98ea8079ac42b642fea.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/942f41de85325d4b80045e3e57e6fbb83d898c74/ss_942f41de85325d4b80045e3e57e6fbb83d898c74.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/942f41de85325d4b80045e3e57e6fbb83d898c74/ss_942f41de85325d4b80045e3e57e6fbb83d898c74.1920x1080.jpg?t=1784756793"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/17d2265321d05d7d8629db9b6b94c8376ef60602/ss_17d2265321d05d7d8629db9b6b94c8376ef60602.600x338.jpg?t=1784756793",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/17d2265321d05d7d8629db9b6b94c8376ef60602/ss_17d2265321d05d7d8629db9b6b94c8376ef60602.1920x1080.jpg?t=1784756793"
+    }
+  ],
+  "web": "https://www.deadzonerogue.com/support",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 316979,
+  "youtube": [
+    {
+      "id": "n5C_eaquy24",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "gzip4t7v2Rg",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T21:47:52.793Z"
+}
