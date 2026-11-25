@@ -1,0 +1,103 @@
+{
+  "slug": "xbox-reconsideraria-liberar-el-multijugador-pago-en-su-proxima-consola-project",
+  "estado": "publicada",
+  "fecha": "2026-11-25T09:24:56.403Z",
+  "actualizada": "2026-11-25T09:24:56.403Z",
+  "titulo": "Xbox reconsideraría liberar el multijugador pago en su próxima consola Project Helix",
+  "bajada": "Un reporte señala que Microsoft planeaba eliminar la suscripción para jugar en línea en su nuevo hardware, pero los altos costos de producción obligaron a revisar la decisión.",
+  "categoria": "xbox",
+  "etiquetas": [
+    "Xbox",
+    "Project Helix",
+    "Microsoft",
+    "Game Pass Core",
+    "id Software",
+    "PS5"
+  ],
+  "clave": [
+    "Informes periodísticos afirman que el proyecto Helix contemplaba multijugador en línea sin cuota mensual.",
+    "El incremento en el costo de memorias RAM elevó la estimación de producción de la consola a entre 1.200 y 1.800 dólares.",
+    "La nueva conducción de la división evalúa mantener las suscripciones de Xbox Game Pass Core para amortiguar el valor final.",
+    "Desarrolladores revelaron que entregas como DOOM: The Dark Ages sufrieron cambios similares al perder su exclusividad inicial."
+  ],
+  "cuerpo": [
+    {
+      "tipo": "p",
+      "texto": "Un sacudón en el modelo de negocios de Microsoft podría alterar los planes para la futura generación de hardware de la marca. Según trascendió a través de reportes no confirmados oficialmente, la firma de Redmond analizaba eliminar la cuota para jugar en línea en su próxima consola, conocida bajo el código Project Helix. Sin embargo, la coyuntura del mercado tecnológico actual obligó a la cúpula directiva a revisar esta postura."
+    },
+    {
+      "tipo": "h2",
+      "texto": "El concepto de consola híbrida y el acceso al multijugador"
+    },
+    {
+      "tipo": "p",
+      "texto": "El proyecto gestado bajo la antigua conducción de la división apuntaba a construir un sistema híbrido entre consola de sobremesa y computadora de escritorio, similar a lo visto en dispositivos portátiles como la Xbox Ally. La visión contemplaba que los usuarios pudieran alternar entre la interfaz habitual y un escritorio de Windows tradicional para utilizar tiendas como Steam. Dado que en las computadoras personales no se exige un pago mensual para disfrutar del juego en red, la empresa planeaba eliminar el cobro de Xbox Game Pass Core para no quedar en desventaja."
+    },
+    {
+      "tipo": "cita",
+      "texto": "Buscamos explorar modelos de negocio radicalmente diferentes para la plataforma.",
+      "autor": "Asha Sharma, CEO de Xbox"
+    },
+    {
+      "tipo": "h2",
+      "texto": "La presión de los costos de hardware y la falta de insumos"
+    },
+    {
+      "tipo": "p",
+      "texto": "Sin embargo, el relevo institucional que posicionó a Asha Sharma al frente de la compañía en febrero de 2026 coincidió con un escenario económico adverso. La fuerte demanda de componentes por el auge de la inteligencia artificial encareció notablemente el precio de la memoria RAM y otros chips. De acuerdo con fuentes de la industria, el costo de producción de la futura Helix podría oscilar entre los 1.200 y 1.800 dólares, lo que empuja a los ejecutivos a retener la suscripción multijugador como vía para subsidiar el elevado precio inicial de la consola."
+    },
+    {
+      "tipo": "h2",
+      "texto": "Viraje estratégico en el catálogo y los lanzamientos de software"
+    },
+    {
+      "tipo": "p",
+      "texto": "Este ajuste en el modelo de negocio coincide con otros giros de estrategia en la división de juegos. Recientemente, exfuncionarios del estudio id Software expusieron que proyectos de gran calibre como DOOM: The Dark Ages se concibieron inicialmente como exclusivos de Xbox, antes de dar el salto a PlayStation 5 en etapas avanzadas de su producción. La búsqueda de ingresos tradicionales en consolas rivales responde a la misma necesidad de sostener la rentabilidad frente a presupuestos cada vez más abultados."
+    },
+    {
+      "tipo": "p",
+      "texto": "Aunque la empresa mantendrá la idea de que la consola de próxima generación —prevista hacia finales de 2028— funcione como un puente para ejecutar títulos de PC, la presencia de tiendas de terceros o la gratuidad del multijugador continúan bajo un halo de incertidumbre. Por el momento, la directiva sopesa cada variante financiera antes de cerrar el diseño comercial definitivo de su nuevo hardware."
+    }
+  ],
+  "apertura": "impacto",
+  "tipo": "noticia",
+  "formato": "rumor",
+  "rumor": {
+    "confirmado": [],
+    "sinConfirmar": [
+      "La eliminación definitiva de la tarifa de suscripción para el multijugador en la próxima generación.",
+      "La integración completa de la plataforma Steam dentro del entorno de la consola Helix.",
+      "El precio final de fabricación fijado en la horquilla de 1.200 a 1.800 dólares.",
+      "Confirmado"
+    ],
+    "confiabilidad": "media",
+    "motivo": "El reporte surge de fuentes periodísticas citadas por Windows Central y concuerda con declaraciones de directivos sobre reestructuraciones comerciales."
+  },
+  "preguntas": [],
+  "imagen": {
+    "archivo": "xbox-reconsideraria-liberar-el-multijugador-pago-en-su-proxima-consola-project.webp",
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de AlohaWorld en Pixabay",
+      "url": "https://pixabay.com/photos/video-game-game-controller-2159117/"
+    }
+  },
+  "modelo": "gemini-3.6-flash",
+  "fuentes": [
+    {
+      "medio": "Polygon",
+      "titulo": "New Xbox Was Originally Planned to Ditch Paid Multiplayer",
+      "url": "https://www.polygon.com/xbox-project-helix-ditching-paid-multiplayer/"
+    },
+    {
+      "medio": "Eurogamer",
+      "titulo": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership"
+    },
+    {
+      "medio": "Pure Xbox",
+      "titulo": "DOOM: The Dark Ages Was Originally Planned As Xbox Exclusive",
+      "url": "https://www.purexbox.com/news/2026/11/doom-the-dark-ages-was-originally-planned-as-xbox-exclusive"
+    }
+  ]
+}
