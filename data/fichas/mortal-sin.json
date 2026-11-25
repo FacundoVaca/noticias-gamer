@@ -1,0 +1,332 @@
+{
+  "clave": "mortal sin",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4a20-71f0-9583-233e75ffbf87",
+  "appid": "1494810",
+  "lanzamiento": "2025-08-29",
+  "desarrolladores": [
+    "Nikola Todorovic"
+  ],
+  "editores": [
+    "Nikola Todorovic"
+  ],
+  "etiquetas": [
+    "First-Person",
+    "Action Roguelike",
+    "Dungeon Crawler",
+    "Hack and Slash",
+    "RPG"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 5604,
+      "url": "https://store.steampowered.com/app/1494810/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/mortal-sin/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "526997",
+      "nombre": "Mortal Sin",
+      "apps": [
+        {
+          "appid": "1494810",
+          "nombre": "Mortal Sin"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 12.49,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1494810": {
+      "usd": 6.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2493860",
+      "nombre": "Mortal Sin Soundtrack",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Mortal Sin es un roguelike caótico que rezuma sangre, donde la pericia es poder - y el exceso de confianza la muerte. Ábrete paso a través de pesadillas generadas proceduralmente con un sistema de combate brutal y combos llamativos y satisfactorios.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "29 AGO 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Mortal Sin",
+  "acerca": [
+    [
+      "p",
+      "Los ojos fijos en tu presa."
+    ],
+    [
+      "p",
+      "Matas sin remordimientos."
+    ],
+    [
+      "p",
+      "Al fin y al cabo, o ellos o tú."
+    ],
+    [
+      "p",
+      "La conciencia se desvanece. Este momento es tu liberación."
+    ],
+    [
+      "h",
+      "COMBATE CUERPO A CUERPO GRATIFICANTE"
+    ],
+    [
+      "p",
+      "Mortal Sin se basa en un combate corporal rápido y visceral, en el que cada golpe cuenta. Encadena cortes, golpes y patadas en remates devastadores mientras vuelan extremidades y la sangre pinta las paredes. El combate se basa en el impulso: muévete rápido, golpea fuerte y no des a tus enemigos ni un respiro."
+    ],
+    [
+      "h",
+      "REJUGABILIDAD INFINITA."
+    ],
+    [
+      "p",
+      "Sumérgete en una pesadilla surrealista y en constante cambio. Los niveles generados de forma procedural, las misiones aleatorias y las cientos de salas diseñadas a mano hacen que cada partida sea única. Desbloquea una lista cada vez mayor de clases distintas: desde el berserker que empuña una gran espada hasta el pirata armado con pistolas. Cada uno tiene su propio estilo de juego y sinergias salvajes."
+    ],
+    [
+      "h",
+      "GRÁFICOS PECAMINOSOS"
+    ],
+    [
+      "p",
+      "Sumérgete en un mundo audaz inspirado en las novelas gráficas, tan elegante como mortal. ¿Prefieres un aspecto diferente? Mortal Sin cuenta con múltiples modos visuales y paletas de colores: tu pesadilla, a tu manera."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS PRINCIPALES"
+    ],
+    [
+      "p",
+      "Combates cuerpo a cuerpo brutales basados en la habilidad, con combos llamativos y satisfactorios."
+    ],
+    [
+      "p",
+      "Preciosos gráficos de cómic, totalmente personalizables."
+    ],
+    [
+      "p",
+      "Docenas de enemigos únicos que reaccionan a cada uno de tus movimientos."
+    ],
+    [
+      "p",
+      "Más de una docena de clases jugables, cada una con sus propias armas y habilidades."
+    ],
+    [
+      "p",
+      "Un enorme arsenal: espadas grandes, lanzas, pistolas, garras y magia."
+    ],
+    [
+      "p",
+      "Cientos de salas creadas a mano en mapas procedurales."
+    ],
+    [
+      "p",
+      "Zonas secretas con botines raros y horrores ocultos."
+    ],
+    [
+      "p",
+      "Misiones generadas aleatoriamente con poderosas recompensas."
+    ],
+    [
+      "p",
+      "Múltiples paletas de colores para adaptarse a tu estilo y estado de ánimo."
+    ],
+    [
+      "p",
+      "Partidas infinitas y actualizaciones futuras para mantener el caos vivo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Microsoft Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2500K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 670"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Microsoft Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/9aa5df4c238dfd11109bb1e7fda29a3553a158e1/ss_9aa5df4c238dfd11109bb1e7fda29a3553a158e1.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/a1e48116ed282c67d53c1c844d2e7ef0db6aa987/ss_a1e48116ed282c67d53c1c844d2e7ef0db6aa987.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/a1e48116ed282c67d53c1c844d2e7ef0db6aa987/ss_a1e48116ed282c67d53c1c844d2e7ef0db6aa987.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/c0243e42a2c2072b20af22471c73bf17ea001268/ss_c0243e42a2c2072b20af22471c73bf17ea001268.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/c0243e42a2c2072b20af22471c73bf17ea001268/ss_c0243e42a2c2072b20af22471c73bf17ea001268.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/3955db355438bcaedc27dc08f0b4c4ff523f6063/ss_3955db355438bcaedc27dc08f0b4c4ff523f6063.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/3955db355438bcaedc27dc08f0b4c4ff523f6063/ss_3955db355438bcaedc27dc08f0b4c4ff523f6063.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/dded6592a1f8a474028d940270edc1d2f8213aba/ss_dded6592a1f8a474028d940270edc1d2f8213aba.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/dded6592a1f8a474028d940270edc1d2f8213aba/ss_dded6592a1f8a474028d940270edc1d2f8213aba.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb/ss_50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb/ss_50ed9b7a52bad1979cc0cf7bdeaf1206b082bbcb.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/6f97ce6b3b01c3c35e06994123b2bc06935153f5/ss_6f97ce6b3b01c3c35e06994123b2bc06935153f5.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/6f97ce6b3b01c3c35e06994123b2bc06935153f5/ss_6f97ce6b3b01c3c35e06994123b2bc06935153f5.1920x1080.jpg?t=1795150592"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/ss_6d4cc2b5fcd9e9183f5b001c23d4819db0b69ecc.600x338.jpg?t=1795150592",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1494810/ss_6d4cc2b5fcd9e9183f5b001c23d4819db0b69ecc.1920x1080.jpg?t=1795150592"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Desmembramientos frecuentes de los monstruos, mucha sangre. Imaginería mórbida tal como cadáveres, huesos ensangrentados y demás temática de Fantasía Oscura.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 148700,
+  "youtube": [
+    {
+      "id": "YDbmN_DJT0Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4Iyzi35wOcI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T01:45:09.791Z"
+}

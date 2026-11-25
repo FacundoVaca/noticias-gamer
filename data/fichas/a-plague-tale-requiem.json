@@ -1,0 +1,385 @@
+{
+  "clave": "a plague tale requiem",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-51d0-71f8-bae2-7721981a7eb0",
+  "appid": "1182900",
+  "lanzamiento": "2022-07-01",
+  "desarrolladores": [
+    "Asobo Studio",
+    "Asobo Studio SARL"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "Focus Home Interactive"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Action",
+    "Action-Adventure",
+    "Cinematic",
+    "Exploration"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 21698,
+      "url": "https://store.steampowered.com/app/1182900/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 32,
+      "url": "https://metacritic.com/game/a-plague-tale-requiem/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 2047,
+      "url": "https://metacritic.com/game/a-plague-tale-requiem/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 163,
+      "url": "https://opencritic.com/game/13346/a-plague-tale-requiem"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "802975",
+      "nombre": "A Plague Tale Bundle",
+      "apps": [
+        {
+          "appid": "752590",
+          "nombre": "A Plague Tale: Innocence"
+        },
+        {
+          "appid": "1182900",
+          "nombre": "A Plague Tale: Requiem"
+        }
+      ],
+      "usd": 10.74,
+      "antes": 42.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "780486",
+      "nombre": "A Plague Tale: Requiem",
+      "apps": [
+        {
+          "appid": "1182900",
+          "nombre": "A Plague Tale: Requiem"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "752590": {
+      "usd": 10.74,
+      "gratis": false
+    },
+    "1182900": {
+      "usd": 10.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1906530",
+      "nombre": "A Plague Tale: Requiem - Protector Pack DLC",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Vive una aventura desgarradora por un mundo asombroso y despiadado, y descubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras o desata un infierno con armas, herramientas y poderes sobrenaturales.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "17 OCT 2022",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/a-plague-tale-requiem?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "A Plague Tale: Requiem",
+  "acerca": [
+    [
+      "p",
+      "Más allá del mar, una isla llama…"
+    ],
+    [
+      "p",
+      "Vive una aventura desgarradora por un mundo asombroso y despiadado, retorcido por las fuerzas sobrenaturales."
+    ],
+    [
+      "p",
+      "Tras huir de su hogar devastado, Amicia y Hugo viajan al sur, hacia nuevas regiones y bulliciosas ciudades, para comenzar de nuevo y controlar la maldición."
+    ],
+    [
+      "p",
+      "Pero cuando los poderes de Hugo resurgen, la muerte y la destrucción regresan con un aluvión de ratas devoradoras. Obligados a huir otra vez, los hermanos apuntan a una isla prometida que puede albergar la respuesta para salvar a Hugo."
+    ],
+    [
+      "p",
+      "Descubre el precio de salvar a tus seres queridos en una lucha por la supervivencia. Ataca desde las sombras, vence a tus enemigos y supera desafíos con distintas armas, herramientas y poderes sobrenaturales."
+    ],
+    [
+      "p",
+      "● La secuela de la premiada aventura A Plague Tale: Innocence"
+    ],
+    [
+      "p",
+      "● Una historia increíble retorcida por las fuerzas sobrenaturales"
+    ],
+    [
+      "p",
+      "● Usa herramientas, escabúllete, lucha o desata un infierno de ratas"
+    ],
+    [
+      "p",
+      "● Gráficos increíbles y una música cautivadora"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Sonido envolvente",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (20H1 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690K (3.5 GHz)/AMD FX-8300 (3.3 GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4 GB, GeForce GTX 970/Radeon RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "30 FPS, 1920x1080 in low. DirectX 12 Feature Level 12 and Shader Model 6.0 are needed."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (20H1 64 bits)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-8700K (3.7 GHz) / AMD Ryzen 5 3600 (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB, GeForce RTX 3070/Radeon RX 6800 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "60 FPS, 1920x1080 in ultra. SSD storage is recommended."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_9cbcd6b81cc32ecf75b36f40b92157da78a19598.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_9cbcd6b81cc32ecf75b36f40b92157da78a19598.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_1429300fd4c86bac7a5abfd31c3e14a4115bf641.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_1429300fd4c86bac7a5abfd31c3e14a4115bf641.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_a8ce48e34efa5b0bbb4fbe6efa601ed7a33f6c23.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_a8ce48e34efa5b0bbb4fbe6efa601ed7a33f6c23.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_3a36ec0873d4c9be584c99a2a62a41e712bb5e6a.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_3a36ec0873d4c9be584c99a2a62a41e712bb5e6a.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_40fb9ef42c571d8adfd7d750525e6ee61c94eaed.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_40fb9ef42c571d8adfd7d750525e6ee61c94eaed.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_fa576728d10fa09f16aa129dcad8b46e8b743ec4.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_fa576728d10fa09f16aa129dcad8b46e8b743ec4.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_029c5cfa427cf6d5f0d9f96ae7ea0f3e69f2e88d.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_029c5cfa427cf6d5f0d9f96ae7ea0f3e69f2e88d.1920x1080.jpg?t=1784712272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_7a82b164803c773f1b38038d04b7a1d9b9a0ed7a.600x338.jpg?t=1784712272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1182900/ss_7a82b164803c773f1b38038d04b7a1d9b9a0ed7a.1920x1080.jpg?t=1784712272"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/a-plague-tale-requiem",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "A Plague Tale: Requiem will contain intense violence, blood and gore content.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152242,
+  "youtube": [
+    {
+      "id": "Y-Q5wHtguZI",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "jN1VgU__NpU",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "K6trXEz1YvM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "qIbzwb8vzNI",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T01:45:26.552Z"
+}

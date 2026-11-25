@@ -1,0 +1,354 @@
+{
+  "clave": "root",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d979a-79bb-7397-a03b-5420a0c11a15",
+  "appid": "965580",
+  "lanzamiento": "2020-09-24",
+  "desarrolladores": [
+    "Dire Wolf"
+  ],
+  "editores": [
+    "Dire Wolf"
+  ],
+  "etiquetas": [
+    "Board Game",
+    "Tabletop",
+    "Strategy",
+    "War",
+    "Wargame"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 5154,
+      "url": "https://store.steampowered.com/app/965580/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/root/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 6,
+      "url": "https://opencritic.com/game/1978/root"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "316071",
+      "nombre": "Root",
+      "apps": [
+        {
+          "appid": "965580",
+          "nombre": "Root"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "965580": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "3874110",
+      "nombre": "Root: Hirelings & Landmarks",
+      "gratis": false,
+      "usd": 5.21,
+      "descuento": 10
+    },
+    {
+      "appid": "3346620",
+      "nombre": "Root: The Marauder Expansion",
+      "gratis": false,
+      "usd": 4.63,
+      "descuento": 20
+    },
+    {
+      "appid": "2253060",
+      "nombre": "Root: The Underworld Expansion",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 30
+    },
+    {
+      "appid": "1462460",
+      "nombre": "Root - The Clockwork Expansion",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 30
+    },
+    {
+      "appid": "1586100",
+      "nombre": "Root: The Riverfolk Expansion",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 30
+    },
+    {
+      "appid": "1935900",
+      "nombre": "Root: Exiles & Partisans & Vagabonds",
+      "gratis": false,
+      "usd": 5.59,
+      "descuento": 30
+    },
+    {
+      "appid": "1605810",
+      "nombre": "Root Soundtrack",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 30
+    }
+  ],
+  "descripcion": "Un juego de mesa digital de guerras en el bosque.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "24 SEP 2020",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Root",
+  "acerca": [
+    [
+      "p",
+      "Juega a la adaptación digital del popular juego de mesa. Root es un juego de aventuras y guerra en el que entre 2 y 4 jugadores lucharán por controlar el bosque."
+    ],
+    [
+      "p",
+      "El malvado Marquesado Gatuno se ha apoderado del gran bosque, con intención de cosechar sus riquezas. Bajo su gobierno, muchas de las criaturas del bosque se han aliado. Esta Alianza busca reforzar los recursos y trastocar el reinado de los gatos. Para ello, es posible que la Alianza necesite la ayuda de los errantes Vagabundos , que pueden moverse a través de los caminos del bosque más peligrosos. Aunque muchos de ellos simpatizan con las esperanzas y los sueños de la Alianza, estos seres errantes llevan aquí tanto tiempo que aún se acuerdan de las grandes aves de presa que otrora controlaban el bosque."
+    ],
+    [
+      "p",
+      "Mientras tanto, en los acantilados de la región, el orgulloso y contencioso Nido de Águilas ha encontrado un nuevo líder con la esperanza de devolverle a su facción el antiguo derecho del que gozaban."
+    ],
+    [
+      "p",
+      "Ya está todo preparado para una competición que decidirá el destino del gran bosque. Depende de los jugadores decidir qué grupo al final se hará con el control."
+    ],
+    [
+      "p",
+      "Los conquistadores más recientes del bosque, el Marquesado Gatuno juega una partida basada en los edificios y la logística mientras vigila la amplia naturaleza. Al recoger madera, pueden construir talleres, aserraderos y reclutadores que le ayudará a conseguir puntos de victoria. El Marquesado Gatuno tiene el mayor ejército de ROOT, pero no podrá controlar el bosque solo con unos números..."
+    ],
+    [
+      "p",
+      "El Marquesado Gatuno construye una poderosa máquina de guerra industrial con la que someter al bosque. Cada vez que el Marquesado Gatuno construye un taller, un aserradero o un reclutador, consigues puntos de victoria. Cuantos más edificios del mismo tipo haya en el mapa, más puntos consigues. Sin embargo, para poder continuar con la construcción, el Marquesado Gatuno debe mantener y proteger una economía basada en la madera poderosa e interconectada. Aunque es tentador aplastar a los oponentes con unos números superiores, corres el riesgo de expandirte con una fuerza insuficiente, y al final es posible que no puedas seguir el ritmo."
+    ],
+    [
+      "p",
+      "\"El Nido de Águilas gobernaba el bosque en la antigüedad, antes de la llegada de los Gatos. Para recuperar el control, tendrá que capturar el territorio y construir nidos antes de que vuelvan los conflictos. El Nido de Águilas es orgulloso y debe obedecer a los decretos de sus líderes. Cada líder le otorga especialidades y ventajas diferentes. El líder adecuado en el momento adecuado te puede llevar hasta la victoria, pero el líder equivocado podría mermar tus probabilidades de hacerte con el bosque."
+    ],
+    [
+      "p",
+      "Durante la Noche, el Nido de Águilas consigue puntos de victoria en función del número de nidos en el mapa. Cuanta mayor sea su presencia en el bosque, más puntos ganará. Sin embargo, el Nido de Águilas se ve obligado a cumplir con los decretos, una serie de acciones obligatorias promulgadas por su líder. Cada turno, deben realizar todas las acciones de los decretos o caerán en un profundo caos."
+    ],
+    [
+      "p",
+      "A la Alianza del bosque no le gustan los déspotas, nuevos o viejos. El Marquesado Gatuno o el Nido de Águilas, todos cojean de la misma pata. ¡Este bosque solo se puede gobernar con la voluntad del pueblo! La Alianza del bosque es experta en la guerra de guerrillas. Comienzan poco a poco pero pueden convertirse en una gran potencia a lo largo de la partida, solo si se gestionan correctamente para derrocar a esos que quieren hacerse con el poder por el camino."
+    ],
+    [
+      "p",
+      "La Alianza del bosque se esfuerza en ganarse la simpatía de las diferentes criaturas del bosque. Cada vez que la Alianza coloca una ficha de simpatía, gana puntos de victoria. Cuantas más fichas de simpatía tenga repartidas en el mapa, más puntos gana. Para ganarse la simpatía del pueblo, se necesitan simpatizantes. Estos simpatizantes también pueden causar revueltas violentas, al incitar a la rebelión total por todo el bosque. Cuando tiene lugar una revuelta, la Alianza establece una base. Las bases permiten que la Alianza entrene oficiales, lo que aumenta su fuerza y flexibilidad militar."
+    ],
+    [
+      "p",
+      "\"El Vagabundo es un aventurero para algunos, mientras que para otros, un comerciante, e incluso un ladrón para terceros, pero todos coinciden en que es un bribón. Como Vagabundo, explorarás todo el mapa, más allá de los claros, y podrás adentrarte en los densos bosques para encontrar ruinas y objetos. Puedes comerciar y ayudar a las facciones del bosque en guerra para avanzar en tus misiones secretas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Notificaciones de turnos de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7, Windows 8.1, Windows 10 (64bit version only)"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium D or AMD Athlon 64 X2"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Graphics card with DX11 or OpenGL 3.x capabilities"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64bit version only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo E6600 or AMD Athlon 64 X2 5000+ or better"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Graphics card with DX11 or OpenGL 3.x capabilities"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_9511d912013f77330cf13acd878967caa5ecfded.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_9511d912013f77330cf13acd878967caa5ecfded.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_d58a29047e8823d73078d65e27b62cecb95fb95f.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_d58a29047e8823d73078d65e27b62cecb95fb95f.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_e17f9737430bc432305568c6eb7f0eb395901390.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_e17f9737430bc432305568c6eb7f0eb395901390.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_e17f9737430bc432305568c6eb7f0eb395901390.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_e17f9737430bc432305568c6eb7f0eb395901390.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_c5ae39e13835d9be18fc5a2f7190fd91f82c7b1b.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_c5ae39e13835d9be18fc5a2f7190fd91f82c7b1b.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_b3cef590389b581431f72ab47532b2113089a764.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_b3cef590389b581431f72ab47532b2113089a764.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_fbd9e3b970e129ae4d92fff145eaa68e45bed1df.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_fbd9e3b970e129ae4d92fff145eaa68e45bed1df.1920x1080.jpg?t=1767902987"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_5243bafa2b10af31449d3428e83734b45054811c.600x338.jpg?t=1767902987",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965580/ss_5243bafa2b10af31449d3428e83734b45054811c.1920x1080.jpg?t=1767902987"
+    }
+  ],
+  "web": "https://www.direwolfdigital.com/root/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 139145,
+  "youtube": [
+    {
+      "id": "0D1thV6RF5A",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-25T01:45:14.867Z"
+}
