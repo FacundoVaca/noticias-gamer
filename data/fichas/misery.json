@@ -1,0 +1,357 @@
+{
+  "clave": "misery",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-782e-70e2-ad38-0f0c5ede4fac",
+  "appid": "2119830",
+  "lanzamiento": "2025-10-23",
+  "desarrolladores": [
+    "Platypus Entertainment"
+  ],
+  "editores": [
+    "Ytopia"
+  ],
+  "etiquetas": [
+    "Survival",
+    "Online Co-Op",
+    "Open World Survival Craft",
+    "Post-apocalyptic",
+    "Survival Horror"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 21254,
+      "url": "https://store.steampowered.com/app/2119830/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 79,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/misery/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "758228",
+      "nombre": "MISERY",
+      "apps": [
+        {
+          "appid": "2119830",
+          "nombre": "MISERY"
+        }
+      ],
+      "usd": 5.99,
+      "antes": 9.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2119830": {
+      "usd": 5.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4119690",
+      "nombre": "MISERY - Zaslavie Supporter Pack",
+      "gratis": false,
+      "usd": 3.47,
+      "descuento": 40
+    }
+  ],
+  "descripcion": "MISERY es un juego cooperativo de supervivencia para 1–10 jugadores en una zona de desastre nuclear. Busca recursos en ruinas radiactivas, construye tu búnker, fabrica armas y explora un mundo generado procedimentalmente con amigos. Cuidado con las anomalías, los monstruos y los bandidos armados.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Multijugador masivo",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "23 OCT 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "MISERY",
+  "acerca": [
+    [
+      "h",
+      "MISERY es un juego rogue-lite cooperativo de supervivencia."
+    ],
+    [
+      "p",
+      "Jugarás como miembro de una empresa militar privada que custodia un instituto de investigación secreto en la República de Zaslavie."
+    ],
+    [
+      "p",
+      "El Instituto Científico para la Investigación de la Zona de Exclusión de Zaslavie (ICIZEZ) se construyó antes de la guerra para estudiar anomalías y artefactos. Con el tiempo, estos artefactos se convirtieron en el detonante de un conflicto entre bloques militares internacionales. Ninguno de los bandos podía permitir que los artefactos cayeran en manos enemigas, lo que acabó desembocando en una guerra nuclear."
+    ],
+    [
+      "p",
+      "Suena una sirena: ¡se acerca una bomba nuclear! Tienes 60 segundos para coger todo lo que puedas y llegar al búnker."
+    ],
+    [
+      "p",
+      "Luego comienza la supervivencia. Cada día, te adentrarás en la Zona de Exclusión para buscar recursos en ubicaciones generadas procedimentalmente: bases militares y centros de investigación abandonados, páramos radiactivos y ciudades en ruinas."
+    ],
+    [
+      "p",
+      "La Zona está llena de secretos y trampas letales, y la radiación dista mucho de ser la única amenaza."
+    ],
+    [
+      "p",
+      "Encontrarás a otros supervivientes dispuestos a matar por comida y recursos, extrañas criaturas mutantes con comportamientos únicos y diversas anomalías."
+    ],
+    [
+      "p",
+      "La Zona está llena de secretos y trampas letales, y la radiación dista mucho de ser la única amenaza."
+    ],
+    [
+      "p",
+      "Encontrarás a otros supervivientes dispuestos a matar por comida y recursos, extrañas criaturas mutantes con comportamientos únicos y diversas anomalías."
+    ],
+    [
+      "p",
+      "El búnker es tu nuevo hogar."
+    ],
+    [
+      "p",
+      "Amplíalo sala a sala: instala generadores (de gas, solares o alimentados mediante una rueda impulsada por gnomos), construye puestos de creación, cultiva comida, prepara comidas y decora tu refugio con lo que te traigas de las incursiones: una mesa, una cómoda, un sofá ajado o incluso una alfombra acogedora. No te preocupes, los anteriores dueños ya no necesitan nada de eso."
+    ],
+    [
+      "p",
+      "Después de cada incursión, puedes relajarte y pasar el rato en el bar del sótano del instituto: tómate una copa, habla con otros supervivientes e intercambia tu botín y tus artefactos raros con el mercader."
+    ],
+    [
+      "p",
+      "Recuerda, vigila tus constantes vitales."
+    ],
+    [
+      "p",
+      "En la Zona, la gente puede morir fácilmente de hambre, sed o envenenamiento radiactivo, o bien puede perder la cabeza y volverse contra sus compañeros de equipo. Sal a saquear durante el día y vuelve al búnker antes de que anochezca."
+    ],
+    [
+      "p",
+      "Una última cosa: la Zona juega con tu mente. Demasiado estrés provocará que empieces a oír susurros, a ver cosas que no están ahí y a sentir que alguien te observa. Si pierdes la cordura, ni siquiera el búnker podrá salvarte. Nada lo hará."
+    ],
+    [
+      "p",
+      "La vida en MISERY no es fácil."
+    ],
+    [
+      "p",
+      "Pero no hay nada mejor que afrontarlo todo en compañía."
+    ],
+    [
+      "p",
+      "Explorar casas abandonadas con amigos, cubriros las espaldas mutuamente, sentaros en torno al fuego, beber lo que quede y exhalar humo bajo la lluvia fría... En momentos como estos, ¡vuelves a sentirte vivo!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Logros de Steam",
+    "Controles de volumen personalizados",
+    "Opción solo teclado",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Widows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 3240 CPU"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GForce GTX 1650"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "7 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "7 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/80a7139cb118ff49ab102cbbdbe2cd58b8a48b9d/ss_80a7139cb118ff49ab102cbbdbe2cd58b8a48b9d.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/80a7139cb118ff49ab102cbbdbe2cd58b8a48b9d/ss_80a7139cb118ff49ab102cbbdbe2cd58b8a48b9d.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/b854bb803bcc6f09ad1eb2e8877bd6fd246e9525/ss_b854bb803bcc6f09ad1eb2e8877bd6fd246e9525.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/b854bb803bcc6f09ad1eb2e8877bd6fd246e9525/ss_b854bb803bcc6f09ad1eb2e8877bd6fd246e9525.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/5f7a0b00b50256a0a61100126928d958695720cf/ss_5f7a0b00b50256a0a61100126928d958695720cf.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/5f7a0b00b50256a0a61100126928d958695720cf/ss_5f7a0b00b50256a0a61100126928d958695720cf.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/f1609fdce4bbef560e73155551b196ea705548ad/ss_f1609fdce4bbef560e73155551b196ea705548ad.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/f1609fdce4bbef560e73155551b196ea705548ad/ss_f1609fdce4bbef560e73155551b196ea705548ad.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/73c4991ffe63c827adaea9b4a35f76a2d196f8fa/ss_73c4991ffe63c827adaea9b4a35f76a2d196f8fa.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/73c4991ffe63c827adaea9b4a35f76a2d196f8fa/ss_73c4991ffe63c827adaea9b4a35f76a2d196f8fa.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/6f06248ac369ac6335f5f37005a144cad878e107/ss_6f06248ac369ac6335f5f37005a144cad878e107.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/6f06248ac369ac6335f5f37005a144cad878e107/ss_6f06248ac369ac6335f5f37005a144cad878e107.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/b31ff8f5a4317157058de180ce574278b793ae08/ss_b31ff8f5a4317157058de180ce574278b793ae08.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/b31ff8f5a4317157058de180ce574278b793ae08/ss_b31ff8f5a4317157058de180ce574278b793ae08.1920x1080.jpg?t=1795470454"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/d05326b95cc6f8f24fbed64d84daa83f59d2673f/ss_d05326b95cc6f8f24fbed64d84daa83f59d2673f.600x338.jpg?t=1795470454",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2119830/d05326b95cc6f8f24fbed64d84daa83f59d2673f/ss_d05326b95cc6f8f24fbed64d84daa83f59d2673f.1920x1080.jpg?t=1795470454"
+    }
+  ],
+  "web": "https://www.youtube.com/@PlatypusEntertainment69",
+  "sistemas": [
+    "Windows",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 342489,
+  "youtube": [
+    {
+      "id": "qXjq_8UuoCI",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "15qS2rTVh-Q",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "BLMcHh2-cDQ",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T17:45:52.298Z"
+}

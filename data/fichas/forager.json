@@ -1,0 +1,301 @@
+{
+  "clave": "forager",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f03f-7340-bd14-4dc1d8890684",
+  "appid": "751780",
+  "lanzamiento": "2019-04-17",
+  "desarrolladores": [
+    "HopFrog"
+  ],
+  "editores": [
+    "Humble Games",
+    "Humble Bundle Inc.",
+    "Humble Bundle",
+    "Balor Games",
+    "GMG Label Limited",
+    "HopFrog"
+  ],
+  "etiquetas": [
+    "Open World Survival Craft",
+    "Pixel Graphics",
+    "Survival",
+    "Crafting",
+    "Indie"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 35674,
+      "url": "https://store.steampowered.com/app/751780/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/forager/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 220,
+      "url": "https://metacritic.com/game/forager/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 28,
+      "url": "https://opencritic.com/game/7599/forager"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "220956",
+      "nombre": "Forager",
+      "apps": [
+        {
+          "appid": "751780",
+          "nombre": "Forager"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 9.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "751780": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "El popular y estrafalario \"juego idle que no quieres dejar de jugar\". Explora, craftea, junta y administra recursos, encuentra tesoros y secretos y construye tu base desde la nada! ¡Compra tierras para explorar y expandirte!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "18 ABR 2019",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/forager?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Forager",
+  "acerca": [
+    [
+      "p",
+      "Forager es un juego 2D a mundo abierto inspirado en juegos de exploración, agricultura y crafteo como Stardew Valley, Terraria y Zelda."
+    ],
+    [
+      "li",
+      "Junta, colecciona y administra diversos recursos."
+    ],
+    [
+      "li",
+      "Craftea numerosos objetos y construye edificios."
+    ],
+    [
+      "li",
+      "Construye y crece tu base desde la nada. ¡Compra tierras para explorar y expandirte!"
+    ],
+    [
+      "li",
+      "Sube de nivel para aprender nuevas habilidades y recetas."
+    ],
+    [
+      "li",
+      "¡Descrifra acertijos, encuentra secretos y aventúrate en calabozos a lo Zelda!"
+    ],
+    [
+      "li",
+      "¡Logra todo lo que te propongas! La elección es tuya... ¡Tu creas tus propios objetivos!"
+    ],
+    [
+      "p",
+      "Empieza de a poco y mejora tu base, habilidades, red de amigos (¡y enemigos!) y construye to futuro como tú te lo propongas. Puedes jugar Forager en una muy variada cantidad de estilos de juego..."
+    ],
+    [
+      "h",
+      "CONVIÉRTETE EN... UN COLECCIONADOR"
+    ],
+    [
+      "h",
+      "CONVIÉRTETE EN... UN GRANJERO"
+    ],
+    [
+      "h",
+      "CONVIÉRTETE EN... UN COMERCIANTE"
+    ],
+    [
+      "h",
+      "CONVIÉRTETE EN... UN AVENTURERO"
+    ],
+    [
+      "h",
+      "CONVIÉRTETE EN... UN CONSTRUCTOR"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Comentario disponible",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP and above"
+      ],
+      [
+        "Procesador",
+        "1.2Ghz"
+      ],
+      [
+        "Memoria",
+        "1024 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "512MB"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_288c1647ffd3639358505e4e0e5a74214a9a9a23.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_288c1647ffd3639358505e4e0e5a74214a9a9a23.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_f16f8a367daf470f242543c80fd5dc0ec69104da.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_f16f8a367daf470f242543c80fd5dc0ec69104da.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_e2c17107d5896b8a5ecc01b26f5f4dc358e9edf6.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_e2c17107d5896b8a5ecc01b26f5f4dc358e9edf6.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_c66e6e5abdadbf32899f54efdcf1104381fbc36a.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_c66e6e5abdadbf32899f54efdcf1104381fbc36a.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_d88521fbcbf66e7e8ca9b920c379ec5356c85d5d.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_d88521fbcbf66e7e8ca9b920c379ec5356c85d5d.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_e05ced0345672a214f8d48fa96b68f18cf3524fd.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_e05ced0345672a214f8d48fa96b68f18cf3524fd.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_ecfc9e7ec0be9c6ebc64b85b7db31408b363c782.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_ecfc9e7ec0be9c6ebc64b85b7db31408b363c782.1920x1080.jpg?t=1794346279"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_3d02565e1349a3231828ca6a941dec2dda3c087a.600x338.jpg?t=1794346279",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/ss_3d02565e1349a3231828ca6a941dec2dda3c087a.1920x1080.jpg?t=1794346279"
+    }
+  ],
+  "web": "https://hopfrogsa.net/forager",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 25580,
+  "youtube": [
+    {
+      "id": "RcmEI2A0vds",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fZOz4rRTlI8",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "6yS-QZ71OpE",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "lQbhm2naopQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T17:46:23.825Z"
+}

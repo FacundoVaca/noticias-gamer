@@ -1,0 +1,640 @@
+{
+  "clave": "payday 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2947-726f-ab1e-7bf149096fff",
+  "appid": "218620",
+  "lanzamiento": "2013-08-13",
+  "desarrolladores": [
+    "OVERKILL  a Starbreeze Studio.",
+    "OVERKILL a Starbreeze Studio.",
+    "Overkill Studios",
+    "OVERKILL - a Starbreeze Studio.",
+    "Sidetrack Games"
+  ],
+  "editores": [
+    "Starbreeze Publishing AB",
+    "Deep Silver (PP)",
+    "New Starbreeze Publishing AB",
+    "OVERKILL - a Starbreeze Studio.",
+    "Starbreeze Publishing",
+    "Starbreeze Studios",
+    "Starbreeze Entertainment"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Action",
+    "FPS",
+    "Heist",
+    "Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 446913,
+      "url": "https://store.steampowered.com/app/218620/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 51,
+      "url": "https://metacritic.com/game/payday-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 42,
+      "cantidad": 4421,
+      "url": "https://metacritic.com/game/payday-2/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1128161",
+      "nombre": "PAYDAY 2",
+      "apps": [
+        {
+          "appid": "218620",
+          "nombre": "PAYDAY 2"
+        }
+      ],
+      "usd": 2.49,
+      "antes": 4.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "218620": {
+      "usd": 2.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 78,
+  "dlcLista": [
+    {
+      "appid": "5149580",
+      "nombre": "PAYDAY 2: Under the Hammer Heist",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4543600",
+      "nombre": "PAYDAY 2: Espionage Weapon Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "3188980",
+      "nombre": "PAYDAY 2: Jacket Character Pack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    },
+    {
+      "appid": "2353512",
+      "nombre": "PAYDAY 2: Crude Awakening Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "2353511",
+      "nombre": "PAYDAY 2: Chinatown Music Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "2353510",
+      "nombre": "PAYDAY 2: McShay Weapon Pack 4",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "2352300",
+      "nombre": "PAYDAY 2: Lawless Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "2215010",
+      "nombre": "PAYDAY 2: Hostile Takeover Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "2200970",
+      "nombre": "PAYDAY 2: McShay Weapon Pack 3",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "2218650",
+      "nombre": "PAYDAY 2: McShay Mod Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "2200971",
+      "nombre": "PAYDAY 2: Street Smart Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "2074240",
+      "nombre": "PAYDAY 2: Lost in Transit Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "2074230",
+      "nombre": "PAYDAY 2: McShay Weapon Pack 2",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "2074220",
+      "nombre": "PAYDAY 2: High Octane Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "2076560",
+      "nombre": "PAYDAY 2: Tijuana Music Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1945681",
+      "nombre": "PAYDAY 2: Midland Ranch Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1945682",
+      "nombre": "PAYDAY 2: McShay Weapon Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1945680",
+      "nombre": "PAYDAY 2: Southbound Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1906240",
+      "nombre": "PAYDAY 2: Mountain Master Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1907080",
+      "nombre": "PAYDAY 2: Golden Dagger Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1901420",
+      "nombre": "PAYDAY 2: Jiu Feng Smuggler Pack 4",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1824880",
+      "nombre": "PAYDAY 2: Winter Ghosts Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1778790",
+      "nombre": "PAYDAY 2: Black Cat Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1778791",
+      "nombre": "PAYDAY 2: Mega City Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1746580",
+      "nombre": "PAYDAY 2: Jiu Feng Smuggler Pack 3",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1654480",
+      "nombre": "PAYDAY 2: The Ukrainian Prisoner Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1654481",
+      "nombre": "PAYDAY 2: Guardians Tailor Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1619070",
+      "nombre": "PAYDAY 2: Jiu Feng Smuggler Pack 2",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1555040",
+      "nombre": "PAYDAY 2: Dragon Pack",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1555050",
+      "nombre": "PAYDAY 2: Jiu Feng Smuggler Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 25
+    },
+    {
+      "appid": "1449450",
+      "nombre": "PAYDAY 2: Buluc's Mansion Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1449440",
+      "nombre": "PAYDAY 2: Tailor Pack 3",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1449442",
+      "nombre": "PAYDAY 2: Weapon Color Pack 3",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1449441",
+      "nombre": "PAYDAY 2: Gunslinger Weapon Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1347750",
+      "nombre": "PAYDAY 2: Breakfast in Tijuana Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1347751",
+      "nombre": "PAYDAY 2: Weapon Color Pack 2",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1351060",
+      "nombre": "PAYDAY 2: Fugitive Weapon Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1252200",
+      "nombre": "PAYDAY 2: San Martín Bank Heist",
+      "gratis": false,
+      "usd": 2.12,
+      "descuento": 29
+    },
+    {
+      "appid": "1255151",
+      "nombre": "PAYDAY 2: Federales Weapon Pack",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    },
+    {
+      "appid": "1255150",
+      "nombre": "PAYDAY 2: Tailor Pack 2",
+      "gratis": false,
+      "usd": 1.33,
+      "descuento": 33
+    }
+  ],
+  "descripcion": "PAYDAY 2 es un juego de acción cooperativo para cuatro jugadores que, una vez más, permite a los jugadores ponerse en la piel del equipo original de PAYDAY - Dallas, Hoxton, Wolf y Chains - mientras descienden por Washington DC en una épica ola de crímenes.",
+  "generos": [
+    "Acción",
+    "Rol"
+  ],
+  "lanzamientoTexto": "13 AGO 2013",
+  "metacritic": {
+    "puntaje": 79,
+    "url": "https://www.metacritic.com/game/pc/payday-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "PAYDAY 2",
+  "acerca": [
+    [
+      "p",
+      "PAYDAY 2 es un juego de acción cooperativo para cuatro jugadores que, una vez más, permite a los jugadores ponerse en la piel del equipo original de PAYDAY - Dallas, Hoxton, Wolf y Chains - mientras descienden por Washington DC en una épica ola de crímenes."
+    ],
+    [
+      "p",
+      "La red CRIMENET ofrece una amplia gama de contratos dinámicos, y los jugadores son libres de elegir cualquier cosa, desde pequeños atracos a tiendas de conveniencia o secuestros, hasta grandes ciberdelitos o vaciar importantes cámaras acorazadas para ese épico PAYDAY. Y mientras estás en DC, ¿por qué no participas en la comunidad local y haces algunos encargos políticos?"
+    ],
+    [
+      "p",
+      "Hasta cuatro amigos cooperan en los golpes y, a medida que el equipo avanza, los trabajos se hacen más grandes, mejores y más gratificantes. Además de ganar más dinero y convertirse en un criminal legendario, existe un sistema de personalización y creación de personajes que permite a los equipos construir y personalizar sus propias armas y equipamiento."
+    ],
+    [
+      "h",
+      "Características principales"
+    ],
+    [
+      "li",
+      "Atraca bancos, recibe una paga - Los jugadores deben elegir a su equipo con cuidado, ya que necesitarán la combinación correcta de habilidades de su lado cuando el trabajo comience."
+    ],
+    [
+      "li",
+      "CRIMENET - La base de datos dinámica de contratos permite a los jugadores escoger entre los trabajos disponibles al conectarse con contactos locales como Vlad el ucraniano, el político sombrío \"El Elefante\" y el narcotraficante sudamericano Héctor, todos con su propia agenda y sus propios intereses en mente."
+    ],
+    [
+      "li",
+      "PAYDAY, disparos y mecánicas a un nuevo nivel - Disparar armas y atacar a civiles nunca se sintió tan bien."
+    ],
+    [
+      "li",
+      "Escenarios dinámicos - Ningún atraco se juega de la misma manera dos veces. Cada escenario tiene una geometría aleatoria o incluso eventos raros."
+    ],
+    [
+      "li",
+      "Elige tus habilidades - A medida que los jugadores progresan, pueden invertir en cualquiera de los cinco árboles de habilidades especiales: Mente Maestra, Matón, Fantasma, Técnico y Fugitivo. Cada uno presenta un árbol de personalización de habilidades y equipos asociados para dominar, y se pueden mezclar y combinar para crear el mejor asaltante."
+    ],
+    [
+      "li",
+      "Más máscaras que nunca - PAYDAY 2 presenta un sistema de máscaras completamente nuevo, que brinda a los jugadores la capacidad de crear su propia máscara única con un patrón y un color a elección, lo que resulta en millones de combinaciones diferentes."
+    ],
+    [
+      "li",
+      "Armas y modificaciones - Un nuevo arsenal para el asaltante serio, que abarca desde fusiles de francotirador y asalto, hasta armas de defensa personal y subfusiles. Una vez que hayas elegido alguno de estos, puedes modificarlo con ópticas, supresores, empuñaduras, retículas, barriles, culatas, cargadores y más, lo cual afectará el rendimiento de tu arma. También hay mejoras puramente estéticas - ¿Por qué no optar por el aspecto del capo de la droga con culata de nogal pulido para tu arma?"
+    ],
+    [
+      "li",
+      "Juega a tu manera - Cada trabajo permite múltiples estrategias, como emboscadas lentas y sigilosas o correr con armas de fuego. Alcanza el objetivo de la forma que quieras. Cada estrategia proporcionará una experiencia diferente."
+    ],
+    [
+      "li",
+      "Una larga historia de contenido adicional - Más de 70 actualizaciones desde su lanzamiento, incluidos nuevos atracos, personajes, armas y otras características de juego como conducir automóviles y vehículos de carga."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Detección de mov. en mando",
+    "Compatible con RV",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "2 GHz Intel Dual Core 64-bit Processor"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA & AMD (1GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "SteamVR. Standing or Room Scale. Requires installing the free VR DLC."
+      ],
+      [
+        "Notas adicionales",
+        "Requires a CPU which supports the SSE4.1 instruction set"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "2.3 GHz Intel Quad Core 64-bit Processor"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA & AMD (2GB VRAM)"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ],
+      [
+        "Compatibilidad con RV",
+        "SteamVR. Standing or Room Scale. Requires installing the free VR DLC."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_67979091e0441e3df7aa885eaa107e2032973869.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_67979091e0441e3df7aa885eaa107e2032973869.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_b26f1852b68ab0af7fdd4932b1c9f78dc87a0325.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_b26f1852b68ab0af7fdd4932b1c9f78dc87a0325.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_2799a1fde932e739138de91f0910ada013ddfca3.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_2799a1fde932e739138de91f0910ada013ddfca3.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_34fae5a836f589c13d08262657b292f028cd87b1.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_34fae5a836f589c13d08262657b292f028cd87b1.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_01fdd60d88bc24f48f688b6624dc42ce493bd76a.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_01fdd60d88bc24f48f688b6624dc42ce493bd76a.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_368c3d770ff6949226420cbcb47a599979302bfc.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_368c3d770ff6949226420cbcb47a599979302bfc.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_a907ef769cf2b1c02075401e215b635f2cf247c2.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_a907ef769cf2b1c02075401e215b635f2cf247c2.1920x1080.jpg?t=1795005310"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_05b366f478d4a665ca60d5cd6d3f36f4193993eb.600x338.jpg?t=1795005310",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/ss_05b366f478d4a665ca60d5cd6d3f36f4193993eb.1920x1080.jpg?t=1795005310"
+    }
+  ],
+  "web": "https://www.paydaythegame.com/payday2/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 18,
+  "avisoContenido": "PAYDAY 2 is a bank robbing game that glorifies clearly villanous acts. It contains high levels of violence, often against police officers or other law enforcement agencies. It does not go out of its way to be gory or gruesome, but can appear that way in chance situations.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2058,
+  "youtube": [
+    {
+      "id": "AsEigjyLKHo",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "O90W_yKFqsc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Hmp1da7pXTw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4uaPImEg13s",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T17:46:02.504Z"
+}

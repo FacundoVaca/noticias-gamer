@@ -1,0 +1,336 @@
+{
+  "clave": "mirrorbane",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01a013fe-3eda-726c-bb3e-663676885eea",
+  "appid": "4679490",
+  "lanzamiento": "2026-11-26",
+  "desarrolladores": [
+    "Dekovir Ltd"
+  ],
+  "editores": [
+    "Dekovir Ltd"
+  ],
+  "etiquetas": [
+    "Party-Based RPG",
+    "Roguelike Deckbuilder",
+    "Card Battler",
+    "Roguelite",
+    "Deckbuilding"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1628890",
+      "nombre": "Mirrorbane",
+      "apps": [
+        {
+          "appid": "4679490",
+          "nombre": "Mirrorbane"
+        }
+      ],
+      "usd": 8.91,
+      "antes": 10.49,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4679490": {
+      "usd": 8.91,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5185370",
+      "nombre": "Mirrorbane Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Un roguelike táctico de construcción de mazos ambientado en un mundo de fantasía oscura, con un pixel art lleno de atmósfera. Contrata héroes únicos, combina sus cartas en un único mazo y haz crecer a tu equipo en la ciudad entre expediciones.",
+  "generos": [
+    "Indie",
+    "Rol",
+    "Estrategia",
+    "Acceso anticipado"
+  ],
+  "lanzamientoTexto": "26 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Mirrorbane",
+  "acerca": [
+    [
+      "h",
+      "ADÉNTRATE EN UN MUNDO DE FANTASÍA OSCURA"
+    ],
+    [
+      "p",
+      "La lúgubre ciudad te recibe con lluvia. En la oscuridad, las ventanas de una vieja taberna brillan acogedoras: ahí es justo adonde tienes que ir."
+    ],
+    [
+      "p",
+      "Aquí puedes contratar a cualquiera: desde un severo paladín hasta una bruja aventurera ávida de oro. Forma un escuadrón de cinco mercenarios; sus personalidades y rasgos definirán tu mazo para esta expedición."
+    ],
+    [
+      "p",
+      "La composición de tu escuadrón define tu mazo: cada clase aporta sus propias cartas y, además, cada héroe tiene una carta personal. Reúne a cinco héroes y el mazo se construirá solo."
+    ],
+    [
+      "p",
+      "Guerreros, Tiradores y Magos tienen tácticas de combate distintas y eligen su posición en la formación ronda a ronda. Tú, por tu parte, diriges tu estrategia con las cartas: unas recurren a un héroe concreto; otras, a toda una clase o a todo el escuadrón a la vez."
+    ],
+    [
+      "h",
+      "CAMBIA LA COMPOSICIÓN DE TU ESCUADRÓN EN LA CIUDAD"
+    ],
+    [
+      "p",
+      "Entre expedición y expedición, regresas a la ciudad. Contrata nuevos héroes en la Taberna, visita la tienda del Mercader en busca de cartas y pociones raras, estudia los objetos y conocimientos que hayas conseguido en la Sala de trofeos y prepárate para la siguiente expedición."
+    ],
+    [
+      "p",
+      "Cura a los héroes heridos en el Hospital. Y a los que necesiten hacerse más fuertes, envíalos al Arsenal: el entrenamiento no solo mejora sus estadísticas, sino que también desbloquea una carta de Talento o un artefacto único."
+    ],
+    [
+      "h",
+      "LAS DECISIONES DE LOS HÉROES MARCAN TU CAMINO"
+    ],
+    [
+      "p",
+      "La personalidad de cada personaje influye en las elecciones que hace. Algunas decisiones pueden resultar un regalo del destino; otras, todo lo contrario…"
+    ],
+    [
+      "p",
+      "Lleva a otros héroes y tendrás otras opciones."
+    ],
+    [
+      "h",
+      "BATALLAS PvP"
+    ],
+    [
+      "p",
+      "Enfréntate a otro jugador en un combate táctico por turnos. Antes de la batalla, date prisa en contratar a los héroes que necesitas en una subasta en tiempo real."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS"
+    ],
+    [
+      "p",
+      "Un escuadrón, un mazo. Dirige un escuadrón de hasta cinco héroes con un único mazo compartido, sin una mano propia para cada personaje."
+    ],
+    [
+      "p",
+      "Cartas para héroes concretos y para todo el escuadrón. Moviliza a un solo combatiente, a toda una clase o a todo el grupo con una sola jugada."
+    ],
+    [
+      "p",
+      "Rotación de héroes. Arma una nueva composición mientras los héroes heridos se recuperan y otros ascienden."
+    ],
+    [
+      "p",
+      "Progresión individual de los héroes. Mejora sus estadísticas y desbloquea una carta de Talento o un artefacto único con un efecto pasivo."
+    ],
+    [
+      "p",
+      "Eventos según la composición. Tus compañeros proponen sus propias decisiones, así que un mismo encuentro puede tener desenlaces distintos."
+    ],
+    [
+      "p",
+      "La ciudad es tu base entre expediciones. Contrata, cura, asciende, mejora cartas y prepárate para tu próxima expedición."
+    ],
+    [
+      "p",
+      "Pixel art expresivo con una estética de fantasía sombría. Los personajes, los enemigos y los efectos de combate se distinguen con claridad incluso en el fragor de la batalla."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bits)"
+      ],
+      [
+        "Procesador",
+        "Doble núcleo a 2,0 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Compatible con DirectX 12 o Vulkan, 1 GB de VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Quad-core 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX 12 or Vulkan compatible, 2 GB VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/897d74821ef7c74f62122a54a1174f48f9b88d34/ss_897d74821ef7c74f62122a54a1174f48f9b88d34.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/897d74821ef7c74f62122a54a1174f48f9b88d34/ss_897d74821ef7c74f62122a54a1174f48f9b88d34.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/8fecb837a1542a73ede8f42bfd0b741186de14cb/ss_8fecb837a1542a73ede8f42bfd0b741186de14cb.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/8fecb837a1542a73ede8f42bfd0b741186de14cb/ss_8fecb837a1542a73ede8f42bfd0b741186de14cb.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/f6ca7b5f1636fbb20be8bbe4c3c607980be5cea7/ss_f6ca7b5f1636fbb20be8bbe4c3c607980be5cea7.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/f6ca7b5f1636fbb20be8bbe4c3c607980be5cea7/ss_f6ca7b5f1636fbb20be8bbe4c3c607980be5cea7.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/e059cb207bbfd527d5b4bc716d3c40087a65fa9e/ss_e059cb207bbfd527d5b4bc716d3c40087a65fa9e.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/e059cb207bbfd527d5b4bc716d3c40087a65fa9e/ss_e059cb207bbfd527d5b4bc716d3c40087a65fa9e.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/455116f6a26e37cd0bbcdf327badd4021a95dbba/ss_455116f6a26e37cd0bbcdf327badd4021a95dbba.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/455116f6a26e37cd0bbcdf327badd4021a95dbba/ss_455116f6a26e37cd0bbcdf327badd4021a95dbba.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/d0ec55f05399549c9341fdf743d581d514b90b52/ss_d0ec55f05399549c9341fdf743d581d514b90b52.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/d0ec55f05399549c9341fdf743d581d514b90b52/ss_d0ec55f05399549c9341fdf743d581d514b90b52.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/949f6e09fbd45e3e84fbfe9f792767b65feee780/ss_949f6e09fbd45e3e84fbfe9f792767b65feee780.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/949f6e09fbd45e3e84fbfe9f792767b65feee780/ss_949f6e09fbd45e3e84fbfe9f792767b65feee780.1920x1080.jpg?t=1795701648"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/fd7d37d97dfe3dc11ea2087847c281392e1a5579/ss_fd7d37d97dfe3dc11ea2087847c281392e1a5579.600x338.jpg?t=1795701648",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4679490/fd7d37d97dfe3dc11ea2087847c281392e1a5579/ss_fd7d37d97dfe3dc11ea2087847c281392e1a5579.1920x1080.jpg?t=1795701648"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 423375,
+  "v": 7,
+  "consultado": "2026-11-26T17:46:18.694Z"
+}

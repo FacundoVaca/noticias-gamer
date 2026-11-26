@@ -1,0 +1,348 @@
+{
+  "clave": "slime rancher",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "018d937f-2dc7-7313-be22-b5404d99a6c4",
+  "appid": "433340",
+  "lanzamiento": "2017-08-01",
+  "desarrolladores": [
+    "Monomi Park"
+  ],
+  "editores": [
+    "MONOMI PARK LLC",
+    "Monomi Park, LLC",
+    "Monomi Park"
+  ],
+  "etiquetas": [
+    "Cute",
+    "Exploration",
+    "Adventure",
+    "Singleplayer",
+    "Open World"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 98,
+      "cantidad": 140649,
+      "url": "https://store.steampowered.com/app/433340/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/slime-rancher/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 581,
+      "url": "https://metacritic.com/game/slime-rancher/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 27,
+      "url": "https://opencritic.com/game/4688/slime-rancher"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "90214",
+      "nombre": "Slime Rancher",
+      "apps": [
+        {
+          "appid": "433340",
+          "nombre": "Slime Rancher"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 8.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "433340": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "1079180",
+      "nombre": "Slime Rancher: Secret Style Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    },
+    {
+      "appid": "671160",
+      "nombre": "Slime Rancher: Original Soundtrack",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 0
+    },
+    {
+      "appid": "982310",
+      "nombre": "Slime Rancher: Galactic Bundle",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "939480",
+      "nombre": "Slime Rancher: VR Playground",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1207000",
+      "nombre": "Slime Rancher: Original Soundtrack II + The Casey Sessions",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Slime Rancher es la historia de Beatrix LeBeau, una intrépida y joven ranchera que se prepara para una vida a mil años luz de la Tierra en la ‘Lejana, Lejana Pradera’ donde prueba su suerte para ganarse la vida lidiando con slimes.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "1 AGO 2017",
+  "metacritic": {
+    "puntaje": 81,
+    "url": "https://www.metacritic.com/game/pc/slime-rancher?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Slime Rancher",
+  "acerca": [
+    [
+      "h",
+      "Bienvenido a la Lejana, Lejana Pradera"
+    ],
+    [
+      "p",
+      "Slime Rancher es una cautivadora experiencia de juego. Juega como Beatrix LeBeau: una intrépida joven ranchera que se aventura a una vida a mil años luz de la Tierra en la ‘Lejana, Lejana Pradera.’"
+    ],
+    [
+      "p",
+      "Cada día presenta nuevos retos y riesgosas oportunidades mientras intentas amasar una gran fortuna en el negocio de la crianza de slimes. Recolecta coloridos slimes, haz crecer cultivos, cosecha recursos y explora indómitas zonas salvajes al dominar tu vacpack multiusos."
+    ],
+    [
+      "p",
+      "Reclama tu derecho"
+    ],
+    [
+      "p",
+      "El reconocido ranchero Hobson Twillgers te ha pasado su rancho. Ponlo de nuevo en marcha, descubre los secretos escondidos en este misterioso planeta y domina el Mercado de Plorts."
+    ],
+    [
+      "li",
+      "Cultiva tus cosechas y cría pollitos para alimentar tu colección de hambrientos slimes."
+    ],
+    [
+      "li",
+      "Completa solicitudes diarias de otros rancheros para obtener recompensas adicionales."
+    ],
+    [
+      "li",
+      "Gana dinero para mejorar tu vacpack y construir más corrales o expandir tu rancho."
+    ],
+    [
+      "li",
+      "Usa Ciencia Slime para encontrar raros recursos, crear decoraciones y manufacturar artefactos que te ayudarán en tus aventuras."
+    ],
+    [
+      "li",
+      "Explora un extenso mundo lleno de muchos secretos y tesoros escondidos."
+    ],
+    [
+      "h",
+      "Características slimetásticas:"
+    ],
+    [
+      "li",
+      "Elije entre 3 modos de juego: Aventura, Casual y Acelerado"
+    ],
+    [
+      "li",
+      "Ponte creativo y combina slimes para crear más de 150 slimes híbridos"
+    ],
+    [
+      "li",
+      "Toma ventaja de nuestro respaldo total al controlador si piensas que los teclados son para tocar música en lugar de juegos"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7+"
+      ],
+      [
+        "Procesador",
+        "2.2GHz Dual Core"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "512MB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_5339a74c4563d40a1d8a5638db2a9ed59c5b883b.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_5339a74c4563d40a1d8a5638db2a9ed59c5b883b.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d0e6a30325a9f7ff4fb3d6ba344c4131bb5f98cb.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d0e6a30325a9f7ff4fb3d6ba344c4131bb5f98cb.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_58bea16c1d3147c47b0b36cef82008b949c18d97.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_58bea16c1d3147c47b0b36cef82008b949c18d97.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_e03a3526536a7da15dc1b89dc4e6285a87e8e2db.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_e03a3526536a7da15dc1b89dc4e6285a87e8e2db.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d923566424cee1c6d82ccde7336b02057d3409fc.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d923566424cee1c6d82ccde7336b02057d3409fc.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_633faaacb74e2da5baa356e0f18f9f73e777c4d2.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_633faaacb74e2da5baa356e0f18f9f73e777c4d2.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_e43a384a5d5ab9bcb943423c1e264a54ce840c43.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_e43a384a5d5ab9bcb943423c1e264a54ce840c43.1920x1080.jpg?t=1758651509"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d8956627f92cd7b2b17ea024ac0fcbbaad6bdeb7.600x338.jpg?t=1758651509",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433340/ss_d8956627f92cd7b2b17ea024ac0fcbbaad6bdeb7.1920x1080.jpg?t=1758651509"
+    }
+  ],
+  "web": "http://slimerancher.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "xboxIntentado": true,
+  "resenaXbox": {
+    "fuente": "Usuarios de Microsoft Store",
+    "puntaje": 4.6,
+    "cantidad": 20214,
+    "escala": 5
+  },
+  "xbox": "C2NC88M7NWZ1",
+  "igdbIntentado": true,
+  "igdb": 16287,
+  "youtube": [
+    {
+      "id": "oOL-dsa79Xs",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "mdMqb5ARmgM",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "TqB1Nyl0rxs",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "0kZFrSvNRZ8",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T17:45:25.899Z"
+}

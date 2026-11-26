@@ -1,0 +1,580 @@
+{
+  "clave": "city transport simulator 2026 bus tram",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019cfbef-c22b-7056-bd16-de6133507e9d",
+  "appid": "4148530",
+  "lanzamiento": "2026-04-14",
+  "desarrolladores": [
+    "ViewApp"
+  ],
+  "editores": [
+    "ViewApp - CTS"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Driving",
+    "Automobile Sim",
+    "Transportation",
+    "Trains"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 73,
+      "cantidad": 641,
+      "url": "https://store.steampowered.com/app/4148530/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1453418",
+      "nombre": "City Transport Simulator 2026 - Bus & Tram",
+      "apps": [
+        {
+          "appid": "4148530",
+          "nombre": "City Transport Simulator 2026 - Bus & Tram"
+        }
+      ],
+      "usd": 9.49,
+      "antes": 18.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "4148530": {
+      "usd": 9.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 15,
+  "dlcLista": [
+    {
+      "appid": "4399970",
+      "nombre": "CTS 2026 - Vienna Expansion",
+      "gratis": false,
+      "usd": 22.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4428130",
+      "nombre": "CTS 2026 - Season Pass",
+      "gratis": false,
+      "usd": 29.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4399560",
+      "nombre": "CTS 2026 - Bus DLC: Citybus C2",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4399600",
+      "nombre": "CTS: 2026 - Tram DLC: Flexity Graz",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4399570",
+      "nombre": "CTS 2026 - Tram DLC: Tatra KT4D",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4427800",
+      "nombre": "CTS 2026 - Expert Upgrade",
+      "gratis": false,
+      "usd": 14.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4399530",
+      "nombre": "CTS 2026 - Bus DLC: MAN New Lion's City",
+      "gratis": false,
+      "usd": 12.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4399540",
+      "nombre": "CTS 2026 - Bus DLC: MAN Lion's City A26 & A47",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "4399590",
+      "nombre": "CTS 2026 - Map DLC: Depot + Southern Route",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "4399470",
+      "nombre": "CTS 2026 - Tram DLC: Flexity Vienna",
+      "gratis": false,
+      "usd": 9.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4399490",
+      "nombre": "CTS 2026 - Tram DLC: StadtRegioTram",
+      "gratis": false,
+      "usd": 9.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4399500",
+      "nombre": "CTS 2026 - Tram DLC: E1 Vienna",
+      "gratis": false,
+      "usd": 9.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4399510",
+      "nombre": "CTS 2026 - Tram DLC: GT8N Mannheim",
+      "gratis": false,
+      "usd": 9.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4399520",
+      "nombre": "CTS 2026 - Tram DLC: GT6",
+      "gratis": false,
+      "usd": 9.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4399550",
+      "nombre": "CTS 2026 - Cosmetic DLC: Basel Style",
+      "gratis": false,
+      "usd": 0.89,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "City Transport Simulator 2026 combines a detailed bus simulator and tram simulator in one game. Drive realistic buses and trams, create routes and timetables, manage your fleet, and build your own public transport network in a dynamic European-inspired city.",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "14 ABR 2026",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "City Transport Simulator 2026 - Bus & Tram",
+  "acerca": [
+    [
+      "p",
+      "Step into the next generation of urban public transport with City Transport Simulator 2026 , a combined bus simulator and tram simulator set in a dynamic European-inspired city. Drive in CTS detailed buses and trams, manage your fleet, create routes and timetables, and build a public transport network that responds to your decisions."
+    ],
+    [
+      "p",
+      "City Transport Simulator 2026 is FREE for all previous CTS owners! Transfer your DLCs at no cost and enjoy them upgraded with all the new features, including dynamic weather, free roam mode, realistic ticketing, and much more."
+    ],
+    [
+      "p",
+      "City Transport Simulator 2026 introduces fully dynamic weather and seasonal changes, creating a living, evolving city environment:"
+    ],
+    [
+      "p",
+      "Seasonal city transformation – trees, foliage, and cityscape adapt to spring, summer, autumn, and winter"
+    ],
+    [
+      "p",
+      "Sunny, fog, rain, snow, or thunderstorms – dynamically changing throughout the day"
+    ],
+    [
+      "p",
+      "Temperature changes affect vehicle heating and cooling systems"
+    ],
+    [
+      "p",
+      "All vehicles, buses and trams, feature realistic heating, cooling, and window operations"
+    ],
+    [
+      "p",
+      "Fully operational wipers respond to rain and adverse weather conditions"
+    ],
+    [
+      "p",
+      "Every bus now includes a fully functional ticket machine:"
+    ],
+    [
+      "p",
+      "Sell tickets to passengers directly"
+    ],
+    [
+      "p",
+      "Accept both cash and contactless payments"
+    ],
+    [
+      "p",
+      "Integrated pay table ensures correct change is given"
+    ],
+    [
+      "p",
+      "Add an extra layer of realism to your public transport management"
+    ],
+    [
+      "p",
+      "Explore the city like never before in the new free roam mode:"
+    ],
+    [
+      "p",
+      "Walk as a pedestrian and board AI buses and trams as a passenger"
+    ],
+    [
+      "p",
+      "Take control of vehicles at any time and switch dynamically between passenger, bus driver, and tram driver"
+    ],
+    [
+      "p",
+      "Hand over vehicles at endpoints without breaking immersion"
+    ],
+    [
+      "p",
+      "The new dynamic lighting system brings the city to life:"
+    ],
+    [
+      "p",
+      "Realistic day/night cycle with atmospheric lighting"
+    ],
+    [
+      "p",
+      "Enhanced interior and exterior lighting for all vehicles"
+    ],
+    [
+      "p",
+      "Shadows, reflections, and ambient effects updated for maximum realism"
+    ],
+    [
+      "p",
+      "Every vehicle features:"
+    ],
+    [
+      "p",
+      "Precise real-world physics"
+    ],
+    [
+      "p",
+      "Authentic engine and ambient sounds"
+    ],
+    [
+      "p",
+      "Interactive cockpits with fully simulated controls"
+    ],
+    [
+      "p",
+      "Keyboard, gamepad, joystick, and steering wheel support , with preconfigured profiles for popular wheels"
+    ],
+    [
+      "p",
+      "Custom control mapping to play your way"
+    ],
+    [
+      "p",
+      "Plan and optimize your public transport empire:"
+    ],
+    [
+      "p",
+      "Line Editor and Timetable Generator let you create custom tram and bus lines in just a few clicks"
+    ],
+    [
+      "p",
+      "Assign vehicles and let AI trams and buses follow your schedule in real time"
+    ],
+    [
+      "p",
+      "Monitor and optimize as your network grows alongside the city’s needs"
+    ],
+    [
+      "h",
+      "Career or Sandbox – Play Your Way"
+    ],
+    [
+      "h",
+      "👨‍💼 Career Mode"
+    ],
+    [
+      "p",
+      "Start small and grow your operation: transport passengers, maintain timetables, earn XP, unlock new vehicles and upgrades, and increase passenger satisfaction . Expand your network across the city and become a transport tycoon."
+    ],
+    [
+      "h",
+      "🎮 Sandbox Mode"
+    ],
+    [
+      "p",
+      "No restrictions, full freedom: explore the city, drive any vehicle, and manage lines as you like. Play with up to 15 pre-made tram and bus lines or create your own."
+    ],
+    [
+      "h",
+      "Deep Customization"
+    ],
+    [
+      "p",
+      "Name your operation, city, stations, and routes"
+    ],
+    [
+      "p",
+      "Choose from multiple liveries, logos, and station designs"
+    ],
+    [
+      "p",
+      "Customize branding on vehicles, buildings, signs, and announcements"
+    ],
+    [
+      "p",
+      "Automated multi-language station announcements with through-line integration"
+    ],
+    [
+      "p",
+      "Full control over station styles, routes, line colors, and naming"
+    ],
+    [
+      "h",
+      "A Living, Breathing City"
+    ],
+    [
+      "p",
+      "Drive across 50+ km of routes and 80+ unique stations in a city inspired by southern Germany. Enjoy a bustling open-world city center, scenic old towns, and quiet suburbs with a fully dynamic passenger system and licensed AI vehicles, including DHL vans, and familiar stores like REWE, Tegut, MediaMarkt, and Deutsche Post."
+    ],
+    [
+      "h",
+      "Play Your Way"
+    ],
+    [
+      "p",
+      "Full simulation mode with every button and system realistically modeled"
+    ],
+    [
+      "p",
+      "Easy mode for relaxed gameplay"
+    ],
+    [
+      "p",
+      "Full input support: keyboard, mouse, gamepad, joystick, steering wheel (with many preconfigured setups)"
+    ],
+    [
+      "p",
+      "Custom control layouts for every device"
+    ],
+    [
+      "h",
+      "Long-Term Support & Expansion"
+    ],
+    [
+      "p",
+      "City Transport Simulator 2026 is built for long-term support with ongoing updates, new vehicles, cities, and features. This is a living simulation that keeps evolving."
+    ],
+    [
+      "p",
+      "Are you ready to take control of the city and drive into the future?"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "from 2.9 GHz AMD Ryzen 5 3600 or Intel Core i5-10400F or newer"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070 or AMD Radeon RX 6600 XT, each with 8 GB VRAM or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated or dedicated compatible soundcard"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller The system requirements mentioned here cannot cover all systems and configurations, so that in individual cases there may be compatibility problems that prevent or impact the game's run ability or performance."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "from 3.6 GHz, 8 cores"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2080 TI or AMD Radeon RX 6800 XT, each with 11 GB VRAM or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated or dedicated compatible soundcard"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller The system requirements mentioned here cannot cover all systems and configurations, so that in individual cases there may be compatibility problems that prevent or impact the game's run ability or performance."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/0b20f479fb2c4e73ebc29ca595ae0addc42b4dee/ss_0b20f479fb2c4e73ebc29ca595ae0addc42b4dee.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/0b20f479fb2c4e73ebc29ca595ae0addc42b4dee/ss_0b20f479fb2c4e73ebc29ca595ae0addc42b4dee.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/feeb6913966942d306354b9f7f742d4c904b690a/ss_feeb6913966942d306354b9f7f742d4c904b690a.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/feeb6913966942d306354b9f7f742d4c904b690a/ss_feeb6913966942d306354b9f7f742d4c904b690a.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/f3cce9a76327e9a76d0f0a2405f01b3448317feb/ss_f3cce9a76327e9a76d0f0a2405f01b3448317feb.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/f3cce9a76327e9a76d0f0a2405f01b3448317feb/ss_f3cce9a76327e9a76d0f0a2405f01b3448317feb.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/85b446f1b43b30799162741b6dee5f434737dbcf/ss_85b446f1b43b30799162741b6dee5f434737dbcf.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/85b446f1b43b30799162741b6dee5f434737dbcf/ss_85b446f1b43b30799162741b6dee5f434737dbcf.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/ec485bfb1992bf608f6385ec4530439d5ba5e62a/ss_ec485bfb1992bf608f6385ec4530439d5ba5e62a.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/ec485bfb1992bf608f6385ec4530439d5ba5e62a/ss_ec485bfb1992bf608f6385ec4530439d5ba5e62a.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/5d2ff43ba5e4aa856ceaf2f6d5802ef651a936a7/ss_5d2ff43ba5e4aa856ceaf2f6d5802ef651a936a7.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/5d2ff43ba5e4aa856ceaf2f6d5802ef651a936a7/ss_5d2ff43ba5e4aa856ceaf2f6d5802ef651a936a7.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/76aee06b396b6ac0bf2997bd8287fad09bde4151/ss_76aee06b396b6ac0bf2997bd8287fad09bde4151.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/76aee06b396b6ac0bf2997bd8287fad09bde4151/ss_76aee06b396b6ac0bf2997bd8287fad09bde4151.1920x1080.jpg?t=1795524827"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/c3e81843e9d49e14b58b85f9758c1437a4b1697b/ss_c3e81843e9d49e14b58b85f9758c1437a4b1697b.600x338.jpg?t=1795524827",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148530/c3e81843e9d49e14b58b85f9758c1437a4b1697b/ss_c3e81843e9d49e14b58b85f9758c1437a4b1697b.1920x1080.jpg?t=1795524827"
+    }
+  ],
+  "web": "https://citytransportsimulator.net",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 397389,
+  "youtube": [
+    {
+      "id": "fcUOQDrkiYI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "2SD-EEidRG0",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T17:46:08.118Z"
+}

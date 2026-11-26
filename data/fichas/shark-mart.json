@@ -1,0 +1,278 @@
+{
+  "clave": "shark mart",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019e1b5c-df77-7329-9fee-68db4eb5ccb3",
+  "appid": "4704000",
+  "lanzamiento": "2026-11-26",
+  "desarrolladores": [
+    "stre1itzia",
+    "Andryash"
+  ],
+  "editores": [
+    "Polden Publishing"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Online Co-Op",
+    "Multiplayer",
+    "Funny",
+    "Immersive Sim"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1636956",
+      "nombre": "Shark Mart",
+      "apps": [
+        {
+          "appid": "4704000",
+          "nombre": "Shark Mart"
+        }
+      ],
+      "usd": 4.62,
+      "antes": 5.78,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "4704000": {
+      "usd": 4.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5295640",
+      "nombre": "Shark Mart - Supporter Pack",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Shark Mart es un alocado simulador cooperativo sobre tiburones infiltrados disfrazados de simpáticos delfines. ¡Lleva la tienda y frota ballenas para secuestrar en secreto a peces incautos y cocinar sabrosos manjares! Pero cuidado: la Policía de Peces quiere destapar tu secreto dentudo...",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "26 NOV 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Shark Mart",
+  "acerca": [
+    [
+      "h",
+      "TIBURONES INFILTRADOS"
+    ],
+    [
+      "p",
+      "Tus amigos y tú sois tiburones que se hacen pasar por delfines para engañar y atrapar a los peces despistados que se cuelan en vuestra tienda. ¡Mantened la farsa y que no se os vean los dientes!"
+    ],
+    [
+      "h",
+      "GESTIONA TU TIENDA"
+    ],
+    [
+      "p",
+      "Llena las estanterías de esponjas y agua embotellada, atiende a los vecinos y deja el local como los chorros del oro. Déjate las aletas trabajando para ganarte su confianza: ¡es la tapadera perfecta para tus turbios negocios en el fondo del océano!"
+    ],
+    [
+      "h",
+      "DEJA A LAS BALLENAS RELUCIENTES"
+    ],
+    [
+      "p",
+      "Gánate la confianza de los gigantes del océano sacando brillo a sus barrigas y aletas hasta que reluzcan. ¡La lealtad de las ballenas es tu billete para meterte en el bolsillo a los peces pequeños!"
+    ],
+    [
+      "h",
+      "LA COCINA SECRETA DEL DEPREDADOR"
+    ],
+    [
+      "p",
+      "Rapta a tus propios clientes y conviértelos en delicias gourmet en el sótano oculto bajo tu tienda. ¡La tienda es el cebo y ellos, el plato principal!"
+    ],
+    [
+      "h",
+      "LA POLICÍA DE PECES OS VIGILA"
+    ],
+    [
+      "p",
+      "¡Los polis submarinos te pisan los talones! Limpia la escena del crimen, miente como un bellaco en los interrogatorios y no dejes que la pasma se huela lo que se cuece en tu cocina."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600 or Intel Core i5-9400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 1050 Ti or AMD Radeon RX 470"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600X or Intel Core i5-12400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA RTX 3060 or AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/ae22f9537bcb9ea4ba9884a9bb0001bcee7f6f29/ss_ae22f9537bcb9ea4ba9884a9bb0001bcee7f6f29.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/ae22f9537bcb9ea4ba9884a9bb0001bcee7f6f29/ss_ae22f9537bcb9ea4ba9884a9bb0001bcee7f6f29.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/7162edb85beb65fda27326f848423f5f3dc7cbc6/ss_7162edb85beb65fda27326f848423f5f3dc7cbc6.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/7162edb85beb65fda27326f848423f5f3dc7cbc6/ss_7162edb85beb65fda27326f848423f5f3dc7cbc6.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/14a78f1e8727c6ee28ed9db1a4848fd9bfaea0fa/ss_14a78f1e8727c6ee28ed9db1a4848fd9bfaea0fa.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/14a78f1e8727c6ee28ed9db1a4848fd9bfaea0fa/ss_14a78f1e8727c6ee28ed9db1a4848fd9bfaea0fa.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/05aa6af3cf2fbe0817c9c22b8e801bc55591d9e4/ss_05aa6af3cf2fbe0817c9c22b8e801bc55591d9e4.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/05aa6af3cf2fbe0817c9c22b8e801bc55591d9e4/ss_05aa6af3cf2fbe0817c9c22b8e801bc55591d9e4.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/ef4a9b4bdbde57c9f6ae20f1e668f5598d40a0d1/ss_ef4a9b4bdbde57c9f6ae20f1e668f5598d40a0d1.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/ef4a9b4bdbde57c9f6ae20f1e668f5598d40a0d1/ss_ef4a9b4bdbde57c9f6ae20f1e668f5598d40a0d1.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/36f2caded8702abdd420421aadff1f121a6c8025/ss_36f2caded8702abdd420421aadff1f121a6c8025.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/36f2caded8702abdd420421aadff1f121a6c8025/ss_36f2caded8702abdd420421aadff1f121a6c8025.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/25be9e4ff304b54bf0a323cc5f7e9d07c605129e/ss_25be9e4ff304b54bf0a323cc5f7e9d07c605129e.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/25be9e4ff304b54bf0a323cc5f7e9d07c605129e/ss_25be9e4ff304b54bf0a323cc5f7e9d07c605129e.1920x1080.jpg?t=1795708918"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/c8b9c416c3392c30adf2d79088433a0989117174/ss_c8b9c416c3392c30adf2d79088433a0989117174.600x338.jpg?t=1795708918",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/c8b9c416c3392c30adf2d79088433a0989117174/ss_c8b9c416c3392c30adf2d79088433a0989117174.1920x1080.jpg?t=1795708918"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 402445,
+  "v": 7,
+  "consultado": "2026-11-26T17:45:19.454Z"
+}
