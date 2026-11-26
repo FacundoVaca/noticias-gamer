@@ -1,0 +1,380 @@
+{
+  "clave": "no body no problem",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019f7121-297f-7042-b79a-912dcb6f184d",
+  "appid": "4954970",
+  "lanzamiento": "2026-11-26",
+  "desarrolladores": [
+    "Crime Cleanup Co."
+  ],
+  "editores": [
+    "Red Axe Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Casual",
+    "Action-Adventure",
+    "Arcade",
+    "Party Game"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 0,
+      "cantidad": 3,
+      "url": "https://store.steampowered.com/app/4954970/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1719589",
+      "nombre": "No Body No Problem!",
+      "apps": [
+        {
+          "appid": "4954970",
+          "nombre": "No Body No Problem!"
+        }
+      ],
+      "usd": 4.13,
+      "antes": 4.59,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "4954970": {
+      "usd": 4.13,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4962020",
+      "nombre": "No Body No Problem! Playtest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Uno de vosotros es el policía. Los demás sois sospechosos dominados por el pánico. Esconded el cadáver, limpiad las pruebas, no os delatéis y hacedlo desaparecer todo antes de que vuestro amigo policía llame a la puerta. Solo hay una regla: si encuentra el cadáver, estáis acabados.",
+  "generos": [
+    "Acción",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "26 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "No Body No Problem!",
+  "acerca": [
+    [
+      "p",
+      "No Body, No Problem es un juego de sigilo social asimétrico para 4 jugadores, basado en físicas y repleto de momentos divertidos, en el que tú y tus amigos intentaréis cometer el crimen perfecto."
+    ],
+    [
+      "p",
+      "Se ha cometido un asesinato. Hay un cadáver que debe ser escondido. Alguien ha avisado a la policía y ya está de camino."
+    ],
+    [
+      "p",
+      "Tres jugadores controlan a los sospechosos, mientras que otro interpreta al policía que acude al lugar tras recibir el aviso. Los sospechosos deben esconder el cadáver, eliminar las pruebas y abandonar la escena sin levantar sospechas. El objetivo del policía es registrar cada rincón, seguir los comportamientos sospechosos y encontrar el cadáver que demuestre el asesinato."
+    ],
+    [
+      "p",
+      "El tiempo es vuestro peor enemigo. La policía puede llamar a la puerta en cualquier momento y un error aparentemente insignificante puede arruinar todo el plan en cuestión de segundos."
+    ],
+    [
+      "h",
+      "El Crimen Perfecto No Existe"
+    ],
+    [
+      "p",
+      "Cada partida se desarrolla mediante la improvisación."
+    ],
+    [
+      "p",
+      "Uno de vuestros amigos podría entrar en pánico mientras transporta el cadáver, el armario elegido podría no ser tan seguro como esperabais o una pequeña pista olvidada podría llamar la atención del policía. Los planes suelen venirse abajo durante los primeros minutos y, a partir de ese momento, tendréis que actuar bajo presión."
+    ],
+    [
+      "p",
+      "Y ahí es precisamente donde comienza la diversión."
+    ],
+    [
+      "h",
+      "La Policía Intenta Verlo Todo"
+    ],
+    [
+      "p",
+      "El policía no busca únicamente el cadáver."
+    ],
+    [
+      "p",
+      "Una puerta abierta, un objeto roto, un suelo recién limpiado o incluso un comportamiento extraño por parte de los jugadores pueden despertar sospechas. Examinad cuidadosamente la escena del crimen, registrad las habitaciones y aprovechad hasta el más pequeño error cometido por los sospechosos."
+    ],
+    [
+      "p",
+      "En cualquier momento puede aparecer una nueva pista."
+    ],
+    [
+      "h",
+      "Cada Escenario Es un Puzle Diferente"
+    ],
+    [
+      "p",
+      "Ninguna partida se desarrolla de la misma manera."
+    ],
+    [
+      "p",
+      "La escena del crimen puede ser un pequeño apartamento, una tienda abarrotada, un aparcamiento de varias plantas o un lugar completamente diferente. Cada mapa ofrece sus propios escondites, objetos interactivos y oportunidades inesperadas."
+    ],
+    [
+      "p",
+      "Un método que funciona en un mapa podría delataros en otro."
+    ],
+    [
+      "h",
+      "Caos Basado en Físicas"
+    ],
+    [
+      "p",
+      "Casi todos los objetos del juego interactúan mediante físicas."
+    ],
+    [
+      "p",
+      "Mientras transportáis el cadáver, podéis derribar muebles, quedaros atrapados en pasillos estrechos, llamar la atención accidentalmente o ponerlo todo patas arriba sin haberlo planeado."
+    ],
+    [
+      "p",
+      "Incluso el mejor plan puede convertirse en un desastre divertidísimo por culpa de un único error."
+    ],
+    [
+      "h",
+      "¿Cuánto Confiáis en Vuestros Amigos?"
+    ],
+    [
+      "p",
+      "Los sospechosos deben trabajar juntos."
+    ],
+    [
+      "p",
+      "Una buena coordinación puede eliminar todas las pruebas antes de que llegue la policía. Sin embargo, cuando aumenta la presión, comienza el pánico. Un amigo puede tomar una decisión equivocada, delataros o culparos de todo para salvarse."
+    ],
+    [
+      "h",
+      "Cada Partida Cuenta una Historia Nueva"
+    ],
+    [
+      "p",
+      "Ninguna partida es igual a otra."
+    ],
+    [
+      "p",
+      "Los diferentes mapas, métodos para esconder el cadáver, interacciones basadas en físicas y decisiones de los jugadores hacen que cada partida cree su propia historia divertida, caótica e inolvidable."
+    ],
+    [
+      "p",
+      "Una partida puede terminar con el crimen perfecto, mientras que en otra todo el plan puede derrumbarse segundos después de que el policía abra la puerta."
+    ],
+    [
+      "p",
+      "Porque a veces no es la policía quien arruina el plan perfecto..."
+    ],
+    [
+      "p",
+      "Son vuestros amigos."
+    ],
+    [
+      "p",
+      "Sin cadáver, no hay problema."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows (64-bit) 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 5600 / 5600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GeForce RTX 2060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows (64-bit) 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-12400"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GeForce RTX 4060"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/aa44297cd8dfc23d7643d89b60b118b2affe248d/ss_aa44297cd8dfc23d7643d89b60b118b2affe248d.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/aa44297cd8dfc23d7643d89b60b118b2affe248d/ss_aa44297cd8dfc23d7643d89b60b118b2affe248d.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/0f5e6a094144c221a888bac1a9124646196f1632/ss_0f5e6a094144c221a888bac1a9124646196f1632.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/0f5e6a094144c221a888bac1a9124646196f1632/ss_0f5e6a094144c221a888bac1a9124646196f1632.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/5eb3fc727b74ae64c5373ffd5e407baa99d0c53a/ss_5eb3fc727b74ae64c5373ffd5e407baa99d0c53a.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/5eb3fc727b74ae64c5373ffd5e407baa99d0c53a/ss_5eb3fc727b74ae64c5373ffd5e407baa99d0c53a.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/7f4d8e35f31f3336d6ffac7816b55e8bbc80af4e/ss_7f4d8e35f31f3336d6ffac7816b55e8bbc80af4e.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/7f4d8e35f31f3336d6ffac7816b55e8bbc80af4e/ss_7f4d8e35f31f3336d6ffac7816b55e8bbc80af4e.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/1bddbce98533617b5c7af846d9e65ca9c238a5e0/ss_1bddbce98533617b5c7af846d9e65ca9c238a5e0.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/1bddbce98533617b5c7af846d9e65ca9c238a5e0/ss_1bddbce98533617b5c7af846d9e65ca9c238a5e0.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/12d7b6138cb16d96375eeae6d77f83d5a6abb8cd/ss_12d7b6138cb16d96375eeae6d77f83d5a6abb8cd.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/12d7b6138cb16d96375eeae6d77f83d5a6abb8cd/ss_12d7b6138cb16d96375eeae6d77f83d5a6abb8cd.1920x1080.jpg?t=1795692763"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/e9213c52fe3b03be2b6344b4a6d570f4b8cc2c5c/ss_e9213c52fe3b03be2b6344b4a6d570f4b8cc2c5c.600x338.jpg?t=1795692763",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954970/e9213c52fe3b03be2b6344b4a6d570f4b8cc2c5c/ss_e9213c52fe3b03be2b6344b4a6d570f4b8cc2c5c.1920x1080.jpg?t=1795692763"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 424522,
+  "v": 7,
+  "consultado": "2026-11-26T13:45:11.895Z"
+}

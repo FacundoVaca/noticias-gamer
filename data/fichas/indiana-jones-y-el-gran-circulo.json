@@ -1,7 +1,384 @@
 {
   "clave": "indiana jones y el gran circulo",
-  "fuentes": [],
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-7b13-7325-845c-6f7e319f1a5a",
+  "appid": "2677660",
+  "lanzamiento": "2024-12-09",
+  "desarrolladores": [
+    "MachineGames"
+  ],
+  "editores": [
+    "Bethesda",
+    "Bethesda Softworks",
+    "Microsoft",
+    "Bethesda Softworks LLC"
+  ],
+  "etiquetas": [
+    "Action-Adventure",
+    "First-Person",
+    "Story Rich",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 13405,
+      "url": "https://store.steampowered.com/app/2677660/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 72,
+      "url": "https://metacritic.com/game/indiana-jones-and-the-great-circle/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 2598,
+      "url": "https://metacritic.com/game/indiana-jones-and-the-great-circle/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 86,
+      "cantidad": 241,
+      "url": "https://opencritic.com/game/17732/indiana-jones-and-the-great-circle"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "959247",
+      "nombre": "Indiana Jones y el Gran Círculo ",
+      "apps": [
+        {
+          "appid": "2677660",
+          "nombre": "Indiana Jones y el Gran Círculo "
+        }
+      ],
+      "usd": 25.79,
+      "antes": 42.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1115063",
+      "nombre": "Indiana Jones and the Great Circle: Premium Edition",
+      "apps": [
+        {
+          "appid": "2677660",
+          "nombre": "Indiana Jones y el Gran Círculo "
+        }
+      ],
+      "usd": 30.99,
+      "antes": 61.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "1185436",
+      "nombre": "Indiana Jones and the Great Circle: Digital Premium Upgrade",
+      "apps": [
+        {
+          "appid": "3138470",
+          "nombre": "Indiana Jones and the Great Circle: Digital Premium Upgrade"
+        },
+        {
+          "appid": "2830500",
+          "nombre": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 21.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "2677660": {
+      "usd": 25.79,
+      "gratis": false
+    },
+    "2830500": {
+      "usd": 9.79,
+      "gratis": false
+    },
+    "3138470": {
+      "usd": 10.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2830500",
+      "nombre": "Indiana Jones y el Gran Círculo™: La Orden de los Gigantes",
+      "gratis": false,
+      "usd": 9.79,
+      "descuento": 30
+    }
+  ],
+  "descripcion": "Descifra uno de los misterios más insondables de la historia en esta aventura individual en primera persona. Corre el año 1937 y fuerzas abyectas recorren el planeta para hacerse con el poder secreto del Gran Círculo. Solo hay una persona capaz de pararles los pies: Indiana Jones™.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "8 DIC 2024",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/indiana-jones-and-the-great-circle?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Indiana Jones y el Gran Círculo ",
+  "acerca": [
+    [
+      "p",
+      "Descifra uno de los misterios más insondables de la historia en Indiana Jones y el Gran Círculo™, una aventura individual en primera persona que se desarrolla entre Indiana Jones: en busca del arca perdida™ e Indiana Jones y la última cruzada™ . Corre el año 1937 y fuerzas abyectas recorren el planeta para hacerse con el poder secreto del Gran Círculo. Solo hay una persona capaz de pararles los pies: Indiana Jones™. Ponte en la piel del legendario arqueólogo en este trepidante juego cinemático de acción y aventura de MachineGames, el galardonado estudio que lleva las riendas de la saga Wolfenstein y que en esta ocasión cuenta con el aclamadísimo diseñador Todd Howard como productor ejecutivo."
+    ],
+    [
+      "h",
+      "Eres Indiana Jones"
+    ],
+    [
+      "p",
+      "Vive las aventuras del mismísimo Indy en una sobrecogedora historia llena de exploración, acción inmersiva y rompecabezas fabulosos. En la piel del brillante arqueólogo, famoso por su intelecto, audacia y característico humor, viajarás por todo el mundo para tratar de descubrir, antes que tus viles enemigos, los secretos de uno de los mayores misterios que han existido jamás."
+    ],
+    [
+      "h",
+      "Un Mundo repleto De Misterios"
+    ],
+    [
+      "p",
+      "Explora las aulas de la Universidad Marshall, el corazón del Vaticano, las pirámides de Egipto, los templos sumergidos de Sukhothai y mucho más. Tras un encontronazo con un misterioso allanador gigantesco en plena noche, emprenderás la búsqueda de una pieza robada que, pese a su apariencia inocente, esconde un secreto capaz de poner al mundo entero en jaque. Forja alianzas nuevas, enfréntate a enemigos ya conocidos, interactúa con personajes fascinantes y sírvete de tu astucia e instinto para resolver enigmas ancestrales y salir con vida de apuros vertiginosos."
+    ],
+    [
+      "h",
+      "Acción A Latigazos"
+    ],
+    [
+      "p",
+      "El clásico látigo de Indiana sigue siendo tu más fiel compañero, y podrás empuñarlo para distraer, desarmar y atacar a los enemigos. Sin embargo, el látigo no solo es un arma, sino también la herramienta principal de Indy a la hora de avanzar e interactuar con el entorno. Balancéate sobre enemigos desprevenidos y escala paredes para abrirte paso por un mundo asombroso. Recurre al sigilo y el camuflaje, pelea cuerpo a cuerpo y dispara con precisión para hacer frente al enemigo y desentrañar el misterio."
+    ],
+    [
+      "h",
+      "Un Alma Intrépida"
+    ],
+    [
+      "p",
+      "Déjate llevar por una sorprendente combinación de narrativa lineal y grandes mapas en los que perderte. Da rienda suelta a tu faceta más exploradora y zambúllete en un mundo de secretos arrolladores, trampas letales e intrincados rompecabezas en el que a cada paso podrías toparte con la siguiente pieza clave del misterio... o con serpientes. Serpientes tenían que ser..."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Subtítulos descriptivos disponibles",
+    "Alternativas de color",
+    "#category_contrast_controls",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700K @ 3.8 GHz or better or AMD Ryzen 5 3600 @ 3.6 GHz or better"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 SUPER 8 GB or AMD Radeon RX 6600 8 GB or Intel Arc A580"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required; GPU Hardware Ray Tracing Required; Graphic Preset: Low / Resolution: 1080p (Native) / Target FPS: 60"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-12700K @ 3.6 GHz or better or AMD Ryzen 7 7700 @ 3.8 GHz or better"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3080Ti 12 GB or AMD Radeon RX 7700XT 12 GB"
+      ],
+      [
+        "Almacenamiento",
+        "120 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD required; GPU Hardware Ray Tracing Required; Graphic Preset: High / Resolution: 1440p (Native) / Target FPS: 60"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_8221cf729bc6491919a8532679be64f1c67dcdaf.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_8221cf729bc6491919a8532679be64f1c67dcdaf.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_ef822ff1dca1f8badda449656bc4c969b60a784f.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_ef822ff1dca1f8badda449656bc4c969b60a784f.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_993951f7591595daa6e121d8f5aa77d61080efbd.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_993951f7591595daa6e121d8f5aa77d61080efbd.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_e95faa8f895e21296c5dcb35842e5480657148bc.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_e95faa8f895e21296c5dcb35842e5480657148bc.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_499e0d79f86e532e40c1b93f9442cb52653a5d15.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_499e0d79f86e532e40c1b93f9442cb52653a5d15.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_ad5ca5a90a2c5cd70f62e6b8d286b794b33c38d5.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_ad5ca5a90a2c5cd70f62e6b8d286b794b33c38d5.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_b397707c84a109bfc8168beae1986b8afda5543f.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_b397707c84a109bfc8168beae1986b8afda5543f.1920x1080.jpg?t=1778168392"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_576db5457dc79208944e8f68aeb983834e68432e.600x338.jpg?t=1778168392",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/ss_576db5457dc79208944e8f68aeb983834e68432e.1920x1080.jpg?t=1778168392"
+    }
+  ],
+  "web": "https://indianajones.bethesda.net/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
+  "igdb": 142415,
+  "youtube": [
+    {
+      "id": "htGnW6YNPjs",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "U0ZkoYuHxyo",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "z2aqnWFpRAY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "sq97d1RkdRM",
+      "nombre": "Launch Trailer"
+    }
+  ],
   "v": 7,
-  "consultado": "2026-11-23T12:52:19.921Z"
+  "consultado": "2026-11-26T13:46:08.583Z"
 }

@@ -1,7 +1,391 @@
 {
   "clave": "mafia el viejo continente",
-  "fuentes": [],
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0191716e-0f12-7015-8a6a-ed2950f0519b",
+  "appid": "1941540",
+  "lanzamiento": "2025-08-07",
+  "desarrolladores": [
+    "Hangar 13"
+  ],
+  "editores": [
+    "2K",
+    "2K Games",
+    "TAKE-TWO INTERACTIVE",
+    "Hangar 13"
+  ],
+  "etiquetas": [
+    "Story Rich",
+    "Atmospheric",
+    "Stealth",
+    "Action",
+    "Third-Person Shooter"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 71,
+      "cantidad": 21473,
+      "url": "https://store.steampowered.com/app/1941540/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 73,
+      "cantidad": 81,
+      "url": "https://metacritic.com/game/mafia-the-old-country/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 1931,
+      "url": "https://metacritic.com/game/mafia-the-old-country/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 154,
+      "url": "https://opencritic.com/game/18399/mafia-the-old-country"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "699541",
+      "nombre": "Mafia: El Viejo Continente",
+      "apps": [
+        {
+          "appid": "1941540",
+          "nombre": "Mafia: El Viejo Continente"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 49.99,
+      "descuento": 40
+    },
+    {
+      "packageid": "1687573",
+      "nombre": "Mafia: The Old Country Definitive Edition",
+      "apps": [
+        {
+          "appid": "1941540",
+          "nombre": "Mafia: El Viejo Continente"
+        }
+      ],
+      "usd": 64.99,
+      "antes": 64.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1941540": {
+      "usd": 29.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "4492700",
+      "nombre": "Mafia: El Viejo Continente - Hombre de Honor",
+      "gratis": false,
+      "usd": 9.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3269260",
+      "nombre": "Mafia: El Viejo Continente - Pack Padrino",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3269270",
+      "nombre": "Mafia: El Viejo Continente - Pack Gatto Nero",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3269280",
+      "nombre": "Mafia: El Viejo Continente - Banda sonora y Libro de Arte digital",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3262000",
+      "nombre": "Mafia: El Viejo Continente - Pack Soldato",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Descubre los orígenes del crimen organizado en Mafia: El Viejo Continente, una cruda historia de mafiosos ambientada en el brutal submundo de la Sicilia de principios del siglo XX. Lucha por sobrevivir con Enzo Favara y demuestra tu valía a la familia en esta aventura de acción en tercera persona.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "7 AGO 2025",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Mafia: El Viejo Continente",
+  "acerca": [
+    [
+      "p",
+      "Descubre los orígenes del crimen organizado en Mafia: El Viejo Continente, una cruda historia de mafiosos ambientada en el brutal submundo de la Sicilia de principios del siglo XX. Lucha por sobrevivir en la piel de Enzo Favara y demuestra tu valía a la Familia en esta inmersiva aventura de acción en tercera persona ambientada en una época peligrosa e implacable."
+    ],
+    [
+      "p",
+      "Enzo hará cualquier cosa por una vida mejor. Tras una infancia brutal de trabajos forzados, está dispuesto a arriesgarlo todo para convertirse en un hombre de honor en la familia criminal Torrisi."
+    ],
+    [
+      "p",
+      "Su juramento a la mafia, con todo el poder, la tentación y las dificultades que conlleva, es un recordatorio candente de esta simple verdad:"
+    ],
+    [
+      "p",
+      "La familia exige sacrificios."
+    ],
+    [
+      "p",
+      "Esta emocionante historia cobra vida gracias a unos efectos visuales impresionantes, una narración cinematográfica y el auténtico realismo por el que es conocida la aclamada serie Mafia. La historia de Enzo se desarrolla en una época en la que la habilidad con el estilete era una baza letal, la escopeta recortada Lupara era el arma de fuego habitual, las venganzas asesinas se prolongaban durante décadas y los mafiosos patrullaban sus redes de protección a pie, a caballo o al volante de coches de principios de siglo."
+    ],
+    [
+      "p",
+      "La ruda belleza de la campiña siciliana contrasta con la suciedad de los callejones urbanos, pero la traición y la violencia de este mundo de bandas son igual de intensas. Las familias rivales y sus despiadados líderes libran interminables guerras territoriales en la sombra, ocultas a la mirada pública. La confianza es una rareza efímera, y vale la pena matar por lealtad."
+    ],
+    [
+      "p",
+      "Tú eres el antihéroe de esta emocionante historia de 1900, viviendo cada momento tenso del descenso de Enzo al submundo criminal clandestino de Sicilia. Enfréntate cara a cara con un grupo de aliados impredecibles y enemigos despiadados en este drama criminal clásico, rico en detalles auténticos de época que te sumergirán en este traicionero escenario mediterráneo."
+    ],
+    [
+      "p",
+      "Participa en combates a vida o muerte, ya sea de cerca con una espada o desde lejos con diversas armas de fuego. Hazles emboscadas a tus enemigos para derribarlos con sigilo o rebanarlos en duelos cuerpo a cuerpo. Si prefieres las armas de fuego, empuña pistolas, rifles y escopetas auténticos de la época para superar cualquier adversidad y eliminar tenazmente a los enemigos del Don."
+    ],
+    [
+      "p",
+      "Atraviesa una amplia gama de entornos sicilianos, desde criptas subterráneas y ruinas en ruinas hasta abundantes viñedos y ornamentados teatros de ópera. Para alcanzar tu próximo objetivo o emprender una huida apresurada, tendrás que galopar a caballo por calles adoquinadas y campos abiertos, o recorrer a toda velocidad caminos de tierra en auténticos automóviles de principios de siglo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Sonido envolvente",
+    "HDR disponible",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 / 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 2700X / Intel Core i7-9700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 5700 XT / NVIDIA RTX 2070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and operating system. Requires SSD ; Graphic Preset: Medium ; Resolution: 1080p"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 / 11"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7 5800X / Intel Core i7-12700K"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon RX 6950 XT / NVIDIA RTX 3080 Ti"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "55 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and operating system. Requires SSD ; Graphic Preset: High ; Resolution: 1440p"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/abe3b20e3bdddb8dad947828efbf7f7110c3cae5/ss_abe3b20e3bdddb8dad947828efbf7f7110c3cae5.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/abe3b20e3bdddb8dad947828efbf7f7110c3cae5/ss_abe3b20e3bdddb8dad947828efbf7f7110c3cae5.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/a6ab7a19e69f59d741072c089ca7ad9f6bb60814/ss_a6ab7a19e69f59d741072c089ca7ad9f6bb60814.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/a6ab7a19e69f59d741072c089ca7ad9f6bb60814/ss_a6ab7a19e69f59d741072c089ca7ad9f6bb60814.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_3bc232192813ab9250abafd627333f1d8bd53bb9.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_3bc232192813ab9250abafd627333f1d8bd53bb9.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_8c5af3a1b47337fe9d2f4f48d21975964eb23ccb.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_8c5af3a1b47337fe9d2f4f48d21975964eb23ccb.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_44047e62744c4a7201a0238994d23f3ca72649cb.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_44047e62744c4a7201a0238994d23f3ca72649cb.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_b0790cd935e11df0aca08f947c6e90ddce39e683.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_b0790cd935e11df0aca08f947c6e90ddce39e683.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_d76f955486c5c2a46c06a8ef41079abca11874ff.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_d76f955486c5c2a46c06a8ef41079abca11874ff.1920x1080.jpg?t=1788898865"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_ecfbf9a220417bb61285a981a8a6630d98d56d27.600x338.jpg?t=1788898865",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/ss_ecfbf9a220417bb61285a981a8a6630d98d56d27.1920x1080.jpg?t=1788898865"
+    }
+  ],
+  "web": "https://mafia.2k.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Intense Violence or Gore, Suggestive Themes, Strong Language, General Mature Content.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
+  "igdb": 314276,
+  "youtube": [
+    {
+      "id": "lkdV6NxPOLc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UOIg2lFVsJE",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "BgXBQdusXxc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "dd93ZZLYrCU",
+      "nombre": "Launch Trailer"
+    }
+  ],
   "v": 7,
-  "consultado": "2026-11-23T13:01:01.440Z"
+  "consultado": "2026-11-26T13:46:25.120Z"
 }
