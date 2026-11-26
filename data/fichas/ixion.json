@@ -1,0 +1,308 @@
+{
+  "clave": "ixion",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-51d0-71f8-bae2-7721999c5f3d",
+  "appid": "1113120",
+  "lanzamiento": "2022-12-07",
+  "desarrolladores": [
+    "Bulwark Studios"
+  ],
+  "editores": [
+    "Kasedo Games",
+    "Kasedo Games Ltd",
+    "Kalypso Media Digital Ltd (Kasedo Games)",
+    "SEGA"
+  ],
+  "etiquetas": [
+    "Space",
+    "City Builder",
+    "Strategy",
+    "Survival",
+    "Resource Management"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 77,
+      "cantidad": 15508,
+      "url": "https://store.steampowered.com/app/1113120/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/ixion/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 71,
+      "cantidad": 62,
+      "url": "https://metacritic.com/game/ixion/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 23,
+      "url": "https://opencritic.com/game/14096/ixion"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "376746",
+      "nombre": "IXION",
+      "apps": [
+        {
+          "appid": "1113120",
+          "nombre": "IXION"
+        }
+      ],
+      "usd": 5.03,
+      "antes": 17.99,
+      "descuento": 72
+    }
+  ],
+  "sueltos": {
+    "1113120": {
+      "usd": 5.03,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2115940",
+      "nombre": "IXION - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.31,
+      "descuento": 60
+    },
+    {
+      "appid": "2115950",
+      "nombre": "IXION - Artbook",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "IXION es una odisea de construcción de ciudades por las estrellas. Al administrar Tiqqun, la estación espacial prototipo de DOLOS, tienes que equilibrar conservación y exploración, y administrar infraestructura, recursos y tripulación. ¿Mantendrás encendida la llama de la humanidad en la oscuridad?",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "7 DIC 2022",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "IXION",
+  "acerca": [
+    [
+      "p",
+      "Con la Tierra al borde del colapso ecosistémico, DOLOS A.E.C. lidera los esfuerzos para encontrar un nuevo hogar para la raza humana. Ya sea por casualidad o por el destino, su prototipo de estación espacial, el Tiqqun, se encuentra a la deriva, un arca en desintegración en la que lo que queda de la humanidad deben encontrar refugio, y tú, Administrador, estás al mando."
+    ],
+    [
+      "p",
+      "IXION es un constructor de ciudades que requiere que estés atento, que evalúes y reevalúes constantemente, que aprendas y te adaptes. Si tú y su tripulación váis a resistir, debéis enfrentar los peligros del espacio, al mismo tiempo que descubrís sus secretos y extraéis sus recursos. El peligro, sin embargo, vendrá tanto de dentro como de fuera; deberás establecer, mantener y desarrollar la infraestructura de Tiqqun mientras gestionas la población de la estación, decidiendo la mejor manera de responder a sus súplicas para mantener su confianza en ti y en la misión."
+    ],
+    [
+      "p",
+      "No hay soluciones simples; tus acciones tendrán repercusiones, ahora o más adelante. La forma en que lidies con esas repercusiones será la diferencia entre la supervivencia y la extinción."
+    ],
+    [
+      "p",
+      "Deberás gestionar una población en la que no todos son tripulación voluntaria, no todos están desde el despegue inicial, algunos recién salen de criogénesis... Mantén la confianza en la corporación que inició este emprendimiento o enfréntate al fracaso y al motín. Podrás desbloquear seis sectores dentro de la estación, cada uno de los cuales puede albergar más personas, permitir nuevos trabajos y ofrecer oportunidades de monitorear a la tripulación con el Servicio de escucha de datos. ¿Serás capaz de traer esperanza a tu gente?"
+    ],
+    [
+      "p",
+      "¿Quién dijo que vosotros erais los únicos que habíais logrado escapar del destino de la Tierra? Compite con otros bolsones de sobrevivientes, navega aprovechando los fracasos y restos de las naves de otros... IXION lleva al jugador por una atrapante historia, en la que aparecen nuevas amenazas y oportunidades con las que habrá que lidiar para llegar al destino final: un nuevo hogar."
+    ],
+    [
+      "p",
+      "DOLOS es famosa por su tecnología innovadora y sus científicos, pero la Tiqqun ahora ha quedado aislada. Junta los recursos que puedas, investiga para obtener lo que te falte. Encuentra nuevas formas de sustentar a tu población, construye nuevos edificios para crear lo que necesites. Modifica la estación Tiqqun, mejórala y avanza en esta odisea."
+    ],
+    [
+      "p",
+      "El espacio es un lugar peligroso. Fisuras en el casco, fuentes de alimentación sobrecargadas, incendios eléctricos... deberás hacerte cargo de gestionar estos riesgos, lidiar con emergencias, crear soluciones de alimentación de respaldo y habilitar la actividad extravehicular..."
+    ],
+    [
+      "p",
+      "Hay mapas estelares totalmente nuevos para explorar. Envía sondas a explorar lo oculto, crea naves de minería y de carga para encontrar recursos y comerciar, despacha expediciones científicas para descubrir los secretos y amenazas que hay en el espacio. Encuentra a otros supervivientes y súmalos a tu misión. El objetivo: sobrevivir."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3570K or AMD FX-8310"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1060 4GB or Radeon RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 or AMD Ryzen 3 3200G"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060 6GB or Radeon RX 5700"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_1e633861f899ece1221ce6da6c892a9a706ac359.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_1e633861f899ece1221ce6da6c892a9a706ac359.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_236f68d8b1a0c891b401689fcd0e9030f6550b74.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_236f68d8b1a0c891b401689fcd0e9030f6550b74.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_0302d226d4f0bbe6f2c732e7c5f642cc9d27350c.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_0302d226d4f0bbe6f2c732e7c5f642cc9d27350c.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_5d9f0e595f6874d6237fcd28fa69b2c5549ed8f0.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_5d9f0e595f6874d6237fcd28fa69b2c5549ed8f0.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_70ca08c9126adcb2b8c0410b3462fcf46d269884.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_70ca08c9126adcb2b8c0410b3462fcf46d269884.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_ac7de417babf56f6d68a85a380c5ba714c70cd78.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_ac7de417babf56f6d68a85a380c5ba714c70cd78.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_197b73acb2316dd7289edd31024bba6b17375040.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_197b73acb2316dd7289edd31024bba6b17375040.1920x1080.jpg?t=1733140180"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_c7afbe99cf5df9b5c3788dd3a667a794f765e42c.600x338.jpg?t=1733140180",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_c7afbe99cf5df9b5c3788dd3a667a794f765e42c.1920x1080.jpg?t=1733140180"
+    }
+  ],
+  "web": "http://dolos.org",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Hay referencias (en casos limitados y en forma de texto) a la violencia, el crimen y las autolesiones.",
+  "igdbIntentado": true,
+  "igdb": 152258,
+  "youtube": [
+    {
+      "id": "FZcyqzcJVYM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "rma5nWwmpXY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QU5eYqtXvCE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T22:36:26.503Z"
+}

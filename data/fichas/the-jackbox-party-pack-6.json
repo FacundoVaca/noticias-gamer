@@ -1,0 +1,274 @@
+{
+  "clave": "the jackbox party pack 6",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3826-7095-b912-aafdb8059401",
+  "appid": "1005300",
+  "lanzamiento": "2019-10-17",
+  "desarrolladores": [
+    "Jackbox Games Inc",
+    "Jackbox Games",
+    "Jackbox Games, Inc.",
+    "Jackbox Games Inc."
+  ],
+  "editores": [
+    "Jackbox Games, Inc.",
+    "Jackbox Games Inc",
+    "Jackbox Games",
+    "Jackbox Games Inc."
+  ],
+  "etiquetas": [
+    "Trivia",
+    "Casual",
+    "Multiplayer",
+    "Indie",
+    "Local Multiplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 2355,
+      "url": "https://store.steampowered.com/app/1005300/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/the-jackbox-party-pack-6/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/the-jackbox-party-pack-6/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 21,
+      "url": "https://opencritic.com/game/8441/the-jackbox-party-pack-6"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "332424",
+      "nombre": "The Jackbox Party Pack 6",
+      "apps": [
+        {
+          "appid": "1005300",
+          "nombre": "The Jackbox Party Pack 6"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 14.99,
+      "descuento": 50
+    }
+  ],
+  "sueltos": {
+    "1005300": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1176900",
+      "nombre": "The Jackbox Party Pack 6 - Soundtrack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "It’s the wildest Party Pack yet, with the absurd deathmatch Trivia Murder Party 2, the weird word circus Dictionarium, the hidden identity game Push The Button, the comedy contest Joke Boat and the offbeat personality test Role Models.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "16 OCT 2019",
+  "metacritic": {
+    "puntaje": 80,
+    "url": "https://www.metacritic.com/game/pc/the-jackbox-party-pack-6?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "The Jackbox Party Pack 6",
+  "acerca": [
+    [
+      "p",
+      "It’s the wildest Party Pack yet with five hilarious new games!"
+    ],
+    [
+      "p",
+      "1) The popular trivia deathmatch Trivia Murder Party 2 (1-8 players). Try to survive the bizarre new minigames."
+    ],
+    [
+      "p",
+      "2) The weird word circus Dictionarium (3-8 players). May the funniest definition win."
+    ],
+    [
+      "p",
+      "3) The hidden identity game Push The Button (4-10 players) . Can you discover the aliens in time?"
+    ],
+    [
+      "p",
+      "4) The comedy contest Joke Boat (3-8 players). Craft one-liners for a cruise ship talent show."
+    ],
+    [
+      "p",
+      "5) The offbeat personality test Role Models (3-6 players). Find out who you really are. (Or at least what your friends think of you.)"
+    ],
+    [
+      "p",
+      "Play using your phones, tablets or computers. No extra controllers needed!"
+    ],
+    [
+      "p",
+      "NOTE: The Jackbox Party Pack 6 is in English only."
+    ],
+    [
+      "p",
+      "NOTE: The game is local multiplayer but can be enjoyed over streams with remote players."
+    ],
+    [
+      "p",
+      "How to Play Remotely"
+    ],
+    [
+      "p",
+      "Players use any web-enabled device (like a smartphone or tablet) to join the game and play along. When playing with remote players, you can use a video conferencing tool like Zoom, Steam Broadcast, Google Hangouts, Discord, and more to connect with others! Just share your screen while on a call and make sure you look for prompts to share audio."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7+"
+      ],
+      [
+        "Procesador",
+        "2.66 Ghz Core 2 Duo or Greater"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 500+ / Radeon 5000+ or Greater"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 8.1+"
+      ],
+      [
+        "Procesador",
+        "2.33 GHz Quad Core or Greater"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 600+ / Radeon 6000+"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_4c25f34da41061341d3edb0f5b7423f9d7fd1314.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_4c25f34da41061341d3edb0f5b7423f9d7fd1314.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_13537f74c9181f352c6b447d223a43a49b701659.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_13537f74c9181f352c6b447d223a43a49b701659.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_5522a68f8e6c11a4dd536774da96c63774396c93.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_5522a68f8e6c11a4dd536774da96c63774396c93.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_116fe1764f767cf2c3fff86aa1f0a0467ea79cac.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_116fe1764f767cf2c3fff86aa1f0a0467ea79cac.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_2bac14f3e85f6b71f86ed2ff8b290ecfcae54e4f.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_2bac14f3e85f6b71f86ed2ff8b290ecfcae54e4f.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_1984ec5d895f3da8e33b05922d2fc85d1be975d3.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_1984ec5d895f3da8e33b05922d2fc85d1be975d3.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_81c88ed0d817faeff9adcc53cf9decc0caf48079.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_81c88ed0d817faeff9adcc53cf9decc0caf48079.1920x1080.jpg?t=1728584590"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_789dc3e530c66947534093de2f4bc6ad6543cabb.600x338.jpg?t=1728584590",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/ss_789dc3e530c66947534093de2f4bc6ad6543cabb.1920x1080.jpg?t=1728584590"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 125021,
+  "youtube": [
+    {
+      "id": "1W6cr9GnaRc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T22:36:41.565Z"
+}

@@ -1,0 +1,342 @@
+{
+  "clave": "crimson moon",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019c5431-0ecd-7003-80a7-6c239a096394",
+  "appid": "4317690",
+  "lanzamiento": "2026-09-01",
+  "desarrolladores": [
+    "ProbablyMonsters"
+  ],
+  "editores": [
+    "ProbablyMonsters"
+  ],
+  "etiquetas": [
+    "Action RPG",
+    "Online Co-Op",
+    "Souls-like",
+    "Action",
+    "Roguelike"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 58,
+      "cantidad": 2909,
+      "url": "https://store.steampowered.com/app/4317690/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 71,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/crimson-moon/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 67,
+      "cantidad": 36,
+      "url": "https://metacritic.com/game/crimson-moon/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 21,
+      "url": "https://opencritic.com/game/21221/crimson-moon"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1509757",
+      "nombre": "Crimson Moon",
+      "apps": [
+        {
+          "appid": "4317690",
+          "nombre": "Crimson Moon"
+        }
+      ],
+      "usd": 9.09,
+      "antes": 13.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "4317690": {
+      "usd": 9.09,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4859730",
+      "nombre": "Crimson Moon Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4984080",
+      "nombre": "Crimson Moon: Deluxe Edition Upgrade",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Eres un nefilim: un híbrido de humano y ángel creado para defender a la humanidad. Lucha a solas o acompañado para aniquilar demonios y enfréntate a jefes en combates cuerpo a cuerpo. Álzate, criatura violenta. La profecía recae sobre ti.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "1 SEP 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Crimson Moon",
+  "acerca": [
+    [
+      "p",
+      "La ciudad de Gildenarch ha caído. La que antaño fue una joya sagrada, ahora está invadida por demonios, muertos vivientes, vampiros y abominaciones infernales. La última esperanza de la humanidad es la Orden de la Luna Carmesí, y tú eres su arma más temible."
+    ],
+    [
+      "p",
+      "Ponte en la piel de un nefilim, un híbrido de ángel y humano creado para defender el mundo del infierno. Domina poderes y armas sobrenaturales, combates cuerpo a cuerpo y transformaciones angelicales para luchar en brutales misiones y sobrevivir a los encuentros contra los Dioses Muertos."
+    ],
+    [
+      "p",
+      "La profecía recae sobre ti, ya sea en solitario o con la ayuda de un amigo."
+    ],
+    [
+      "p",
+      "Sangrientos combates cuerpo a cuerpo : lucha contra hordas de abominaciones en implacables combates viscerales."
+    ],
+    [
+      "p",
+      "Un jugador o cooperativo : Completa la cruzada en solitario o caza en compañía."
+    ],
+    [
+      "p",
+      "Misiones de alto riesgo y grandes recompensas : Cada partida realizada con éxito te ofrece nuevas misiones, modificadores y desafíos que pondrán a prueba tu habilidad."
+    ],
+    [
+      "p",
+      "Conviértete en un superhumano : los poderes evolutivos de un nefilim te otorgan habilidades temporales para realizar devastadores ataques."
+    ],
+    [
+      "p",
+      "Busca refugio entre partida y partida : la Iglesia es tu base inicial, donde realizarás mejoras, interaccionarás con PNJ y planificarás en la Mesa de Guerra."
+    ],
+    [
+      "p",
+      "Elige tu dificultad : El escalado dinámico de la dificultad permite que cada misión se adapte a tu habilidad; cuanto mayor sea la dificultad, mejores serán las recompensas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1070 / AMD Radeon RX 5700 / Intel Arc A580"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Surround Sound"
+      ],
+      [
+        "Compatibilidad con RV",
+        "No"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and Operating System"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-10700K / AMD Ryzen 5 5600X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce RTX 3070 / AMD Radeon RX 6700 XT / Intel Arc A770"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Surround Sound"
+      ],
+      [
+        "Compatibilidad con RV",
+        "No"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and Operating System"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/502b19767c897c6da3a1b870cbcc4617f039cd7d/ss_502b19767c897c6da3a1b870cbcc4617f039cd7d.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/502b19767c897c6da3a1b870cbcc4617f039cd7d/ss_502b19767c897c6da3a1b870cbcc4617f039cd7d.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/926365812665e480281690d2c58d2e1f80825b8c/ss_926365812665e480281690d2c58d2e1f80825b8c.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/926365812665e480281690d2c58d2e1f80825b8c/ss_926365812665e480281690d2c58d2e1f80825b8c.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/3be98f7aa5571d947067dea8c8bc0d6652979faf/ss_3be98f7aa5571d947067dea8c8bc0d6652979faf.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/3be98f7aa5571d947067dea8c8bc0d6652979faf/ss_3be98f7aa5571d947067dea8c8bc0d6652979faf.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/9f8f8ec601a8acacc8e61b7e61feff249c23f942/ss_9f8f8ec601a8acacc8e61b7e61feff249c23f942.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/9f8f8ec601a8acacc8e61b7e61feff249c23f942/ss_9f8f8ec601a8acacc8e61b7e61feff249c23f942.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/2bdfb368cc503771ac480da30b7edc5caf25081e/ss_2bdfb368cc503771ac480da30b7edc5caf25081e.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/2bdfb368cc503771ac480da30b7edc5caf25081e/ss_2bdfb368cc503771ac480da30b7edc5caf25081e.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/e7d7e828e5c2144ed75ca99a47bb418a5750f3f5/ss_e7d7e828e5c2144ed75ca99a47bb418a5750f3f5.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/e7d7e828e5c2144ed75ca99a47bb418a5750f3f5/ss_e7d7e828e5c2144ed75ca99a47bb418a5750f3f5.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/9f134839fea9ce52cb286268a862ce0c152e27fd/ss_9f134839fea9ce52cb286268a862ce0c152e27fd.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/9f134839fea9ce52cb286268a862ce0c152e27fd/ss_9f134839fea9ce52cb286268a862ce0c152e27fd.1920x1080.jpg?t=1790179831"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/7783043f016ff8dd624f31b5279ef0d4fe27f708/ss_7783043f016ff8dd624f31b5279ef0d4fe27f708.600x338.jpg?t=1790179831",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317690/7783043f016ff8dd624f31b5279ef0d4fe27f708/ss_7783043f016ff8dd624f31b5279ef0d4fe27f708.1920x1080.jpg?t=1790179831"
+    }
+  ],
+  "web": "https://www.playcrimsonmoon.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Da rienda suelta a tu sed de venganza con ejecuciones viscerales, elegantes y sangrientas mientras te abres camino a través de demonios, muertos vivientes, vampiros y monstruosidades surgidas del infierno. El combate es rápido, cruento y expresivo.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 389428,
+  "youtube": [
+    {
+      "id": "YmqR8Ad14N8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "9A8GHJY3KXY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "iuIXOSbqwPw",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "QD-T1mRJaGU",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T22:36:51.625Z"
+}
