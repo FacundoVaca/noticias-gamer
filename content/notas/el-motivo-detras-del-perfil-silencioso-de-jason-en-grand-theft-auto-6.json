@@ -2,7 +2,7 @@
   "slug": "el-motivo-detras-del-perfil-silencioso-de-jason-en-grand-theft-auto-6",
   "estado": "publicada",
   "fecha": "2026-11-22T17:07:43.649Z",
-  "actualizada": "2026-11-25T19:30:59.453Z",
+  "actualizada": "2026-11-26T03:43:04.274Z",
   "titulo": "El motivo detrás del perfil silencioso de Jason en Grand Theft Auto 6",
   "bajada": "El estreno de GTA_6 genera nuevos reportes sobre errores de progreso, intentos de ports en la comunidad de PC y un fuerte impacto en las métricas de jugadores de competidores como Call_of_Duty.",
   "categoria": "playstation",
@@ -13,10 +13,9 @@
     "Xbox Series X|S"
   ],
   "clave": [
-    "Reportan un error crítico en el capítulo 3 que bloquea el cambio de personaje",
-    "Call_of_Duty registra una caída de hasta el 42% en sus usuarios activos diarios tras el estreno",
-    "Comunidades de modders intentan portear el juego a PC utilizando herramientas de inteligencia artificial",
-    "Rockstar_Games emite avisos de baja por copyright contra repositorios y servidores vinculados al proyecto"
+    "El mapa del juego diferencia los edificios accesibles mediante tonos de gris.",
+    "Los edificios marcados en gris oscuro cuentan con interiores detallados e ingresables.",
+    "Las construcciones en gris claro indican que no se puede entrar a los inmuebles."
   ],
   "cuerpo": [
     {
@@ -124,9 +123,24 @@
       "medio": "PC Gamer",
       "titulo": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
       "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/"
+    },
+    {
+      "medio": "Push Square",
+      "titulo": "GTA 6's Map Has a Useful Feature I've Only Just Noticed",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-map-has-a-useful-feature-ive-only-just-noticed"
     }
   ],
   "actualizaciones": [
+    {
+      "fecha": "2026-11-26T03:43:04.274Z",
+      "resumen": "Jugadores descubren que el mapa de Grand Theft Auto 6 diferencia con tonos de gris los edificios accesibles.",
+      "bloques": [
+        {
+          "tipo": "p",
+          "texto": "A medida que los usuarios profundizan en las primeras semanas junto a Grand Theft Auto 6, la comunidad descubrió un detalle de diseño muy útil en la interfaz del mapa. Los edificios con interiores explorables se diferencian mediante un tono de gris oscuro, mientras que aquellas construcciones en las que no es posible ingresar se marcan con un color gris claro."
+        }
+      ]
+    },
     {
       "fecha": "2026-11-25T19:30:59.453Z",
       "resumen": "Nuevos reportes sobre un error crítico en el capítulo 3 de GTA 6, el impacto del juego en la base de usuarios de Call_of_Duty y los primeros intentos de port no oficial a PC.",
