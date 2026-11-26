@@ -1,7 +1,480 @@
 {
   "clave": "the quarry",
-  "fuentes": [],
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3888-70b2-8427-52bcef02805a",
+  "appid": "1577120",
+  "lanzamiento": "2022-06-10",
+  "desarrolladores": [
+    "Supermassive Games",
+    "Supermassive"
+  ],
+  "editores": [
+    "2K",
+    "2K Games",
+    "TAKE-TWO INTERACTIVE",
+    "Supermassive Games"
+  ],
+  "etiquetas": [
+    "Choices Matter",
+    "Multiple Endings",
+    "Horror",
+    "Multiplayer",
+    "Cinematic"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 16886,
+      "url": "https://store.steampowered.com/app/1577120/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 87,
+      "url": "https://metacritic.com/game/the-quarry/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 1019,
+      "url": "https://metacritic.com/game/the-quarry/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 160,
+      "url": "https://opencritic.com/game/13226/the-quarry"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "727611",
+      "nombre": "The Quarry - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "1577120",
+          "nombre": "The Quarry"
+        },
+        {
+          "appid": "1891950",
+          "nombre": "The Quarry - Desbloqueo del Juego Completo"
+        },
+        {
+          "appid": "1877111",
+          "nombre": "The Quarry - Paquete de contenido extra Deluxe"
+        },
+        {
+          "appid": "1877110",
+          "nombre": "The Quarry - Paquete de filtros visuales Historia de terror"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 69.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "727612",
+      "nombre": "The Quarry",
+      "apps": [
+        {
+          "appid": "1577120",
+          "nombre": "The Quarry"
+        },
+        {
+          "appid": "1891950",
+          "nombre": "The Quarry - Desbloqueo del Juego Completo"
+        }
+      ],
+      "usd": 59.99,
+      "antes": 59.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1577120": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "1877110": {
+      "usd": 4.99,
+      "gratis": false
+    },
+    "1877111": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "1891950": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2101870",
+      "nombre": "THE QUARRY - Trajes de personajes de los años 50 ",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1877111",
+      "nombre": "The Quarry - Paquete de contenido extra Deluxe",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 90
+    },
+    {
+      "appid": "1877110",
+      "nombre": "The Quarry - Paquete de filtros visuales Historia de terror",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Cuando oscurece en el último día de campamento, nueve monitores se ven envueltos en una noche terrorífica. Solo hay una cosa más horrible que los lugareños cubiertos de sangre y las criaturas que les dan caza... las decisiones que tendrás que tomar si quieres que sobrevivan.",
+  "generos": [
+    "Aventura"
+  ],
+  "lanzamientoTexto": "9 JUN 2022",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "The Quarry",
+  "acerca": [
+    [
+      "p",
+      "El sol se pone en el último día del campamento y los monitores de Hackett's Quarry lo celebran con una fiesta. Sin niños. Sin adultos. Sin reglas."
+    ],
+    [
+      "p",
+      "Pero las cosas se tuercen rápidamente."
+    ],
+    [
+      "p",
+      "Perseguidos por lugareños ensangrentados y algo mucho más siniestro, la fiesta se convierte en una noche de puro terror. Las bromas y los coqueteos dan paso a decisiones de vida o muerte, y las relaciones avanzan o se desmoronan bajo la tensión de elecciones impensables."
+    ],
+    [
+      "p",
+      "Juega como cada uno de los nueve monitores del campamento en un relato cinematográfico en el que cada decisión da forma a tu historia única entre una maraña de posibilidades. Cualquier personaje puede ser la estrella... o morir antes del amanecer."
+    ],
+    [
+      "p",
+      "¿Cómo se desarrollará tu historia?"
+    ],
+    [
+      "h",
+      "TU HISTORIA, SU DESTINO"
+    ],
+    [
+      "p",
+      "¿Te atreverás a comprobar qué hay tras esa trampilla? ¿Investigarás los gritos que resuenan por el bosque? ¿Salvarás a tus amigos o saldrás por patas? Cada decisión es importante y determinará quién vivirá para contarlo."
+    ],
+    [
+      "h",
+      "UNA EXPERIENCIA CINEMATOGRÁFICA SIN IGUAL"
+    ],
+    [
+      "p",
+      "Las innovadoras técnicas de captura facial y de iluminación, combinadas con las actuaciones de grandes talentos de Hollywood, dan vida a los horrores de Hackett's Quarry en un trepidante y emocionante viaje cinematográfico."
+    ],
+    [
+      "h",
+      "PÁSALO DE MIEDO CON TUS AMIGOS"
+    ],
+    [
+      "p",
+      "Juega en línea* y fíate de hasta 7 amigos que verán la partida y votarán en decisiones clave, ¡crearéis una historia juntos! O juega con tus amigos en cooperativo local, cada uno elegiréis y controlaréis a un monitor."
+    ],
+    [
+      "h",
+      "PERSONALIZA LA EXPERIENCIA"
+    ],
+    [
+      "p",
+      "Como la dificultad de los elementos del juego es ajustable, la experiencia es apta para todo tipo de jugadores. Y, si prefieres mirar en vez de jugar, el Modo película de The Quarry no dejará que te levantes del sofá. ¡Selecciona cómo quieres que se desarrolle la historia, relájate y come palomitas mientras los personajes gritan!"
+    ],
+    [
+      "h",
+      "ELENCO:"
+    ],
+    [
+      "p",
+      "David Arquette como Chris"
+    ],
+    [
+      "p",
+      "Ariel Winter como Abigail"
+    ],
+    [
+      "p",
+      "Brenda Song como Kaitlyn"
+    ],
+    [
+      "p",
+      "Evan Evagora como Nick"
+    ],
+    [
+      "p",
+      "Halston Sage como Emma"
+    ],
+    [
+      "p",
+      "Justice Smith como Ryan"
+    ],
+    [
+      "p",
+      "Miles Robbins como Dylan"
+    ],
+    [
+      "p",
+      "Siobhan Williams como Laura"
+    ],
+    [
+      "p",
+      "Skyler Gisondo como Max"
+    ],
+    [
+      "p",
+      "Zach Tinker como Jacob"
+    ],
+    [
+      "p",
+      "Ethan Suplee como Bobby"
+    ],
+    [
+      "p",
+      "Grace Zabriskie como Eliza"
+    ],
+    [
+      "p",
+      "Lance Henriksen como Jedediah"
+    ],
+    [
+      "p",
+      "Lin Shaye como Constance"
+    ],
+    [
+      "p",
+      "Ted Raimi como Travis"
+    ],
+    [
+      "p",
+      "*El multijugador online estará disponible después del lanzamiento el 8 de julio de 2022 o antes."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD FX-8350 \\ Intel i5-3570"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 780 / Radeon RX 470"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 7-3800XT \\ Intel i9-10900K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia RTX 2060 / Radeon RX 5700"
+      ],
+      [
+        "Almacenamiento",
+        "50 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_6bc90067dc39209a30b981e7a84559e7e0f9ae11.600x338.jpg?t=1730303267",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_6bc90067dc39209a30b981e7a84559e7e0f9ae11.1920x1080.jpg?t=1730303267"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_a3bffb7f9dfdb600e2f42bbe8acde38f77915b80.600x338.jpg?t=1730303267",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_a3bffb7f9dfdb600e2f42bbe8acde38f77915b80.1920x1080.jpg?t=1730303267"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_79feecbc3c4097c516cbb0f11f928e29fac84b00.600x338.jpg?t=1730303267",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_79feecbc3c4097c516cbb0f11f928e29fac84b00.1920x1080.jpg?t=1730303267"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_94fe3b01d8e2a1f7a8f231523b03597405211889.600x338.jpg?t=1730303267",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_94fe3b01d8e2a1f7a8f231523b03597405211889.1920x1080.jpg?t=1730303267"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_8e7720649353401c04224405c344efc558b267dc.600x338.jpg?t=1730303267",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1577120/ss_8e7720649353401c04224405c344efc558b267dc.1920x1080.jpg?t=1730303267"
+    }
+  ],
+  "web": "http://www.QuarryGame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "The game contains scenes with intense violence, blood and gore, mild sexual themes, and strong language.",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
-  "v": 6,
-  "consultado": "2026-11-22T22:49:37.495Z"
+  "igdb": 194404,
+  "youtube": [
+    {
+      "id": "Zh2K7SxRHmo",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "M_arwDL1x08",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T01:45:55.866Z"
 }

@@ -1,0 +1,289 @@
+{
+  "clave": "witchkeeping",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01a11529-df8f-73aa-93ab-5b598ec09e0b",
+  "appid": "5169710",
+  "lanzamiento": "2026-11-25",
+  "desarrolladores": [
+    "Longtail Worlds"
+  ],
+  "editores": [
+    "Longtail Worlds"
+  ],
+  "etiquetas": [
+    "Organizing",
+    "Cozy",
+    "Puzzle",
+    "Story Rich",
+    "Relaxing"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1789504",
+      "nombre": "Witchkeeping",
+      "apps": [
+        {
+          "appid": "5169710",
+          "nombre": "Witchkeeping"
+        }
+      ],
+      "usd": 5.11,
+      "antes": 6.39,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "5169710": {
+      "usd": 5.11,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5378900",
+      "nombre": "Witchkeeping Demo",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Witchkeeping es un juego acogedor de organización con historia: eres una bruja nombrada de urgencia para la biblioteca de una academia. Vuela en escoba y ordena libros resolviendo acertijos. Abre las cartas que el búho aún trae para Madam Vesper y resuelve los extraños problemas del valle.",
+  "generos": [
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "25 NOV 2026",
+  "metacritic": null,
+  "nombreSteam": "Witchkeeping",
+  "acerca": [
+    [
+      "p",
+      "La biblioteca lleva un mes cerrada y las cartas siguen sin respuesta. La Academia Witchkeeping te ha enviado con una misión urgente: volver a abrir sus puertas esta noche."
+    ],
+    [
+      "p",
+      "El puesto es temporal. Al menos, eso dice la carta de nombramiento."
+    ],
+    [
+      "p",
+      "Coloca los libros que llevas en la estantería, uno a uno. Cuando el dibujo de sus lomos esté completo, sabrás que has encontrado el orden correcto."
+    ],
+    [
+      "p",
+      "Completa una serie y tira de la cuerda con nudos. La bruja que la escribió se despierta. Puede que no te lo agradezca."
+    ],
+    [
+      "p",
+      "Vuela a los pisos superiores y llega a las estanterías más altas. A la vuelta, tú decides si das un rodeo entre las velas."
+    ],
+    [
+      "p",
+      "A algunos libros no les gustan las estanterías. Súbete a la escoba, persíguelos y no los sueltes hasta que se calmen."
+    ],
+    [
+      "p",
+      "Las cartas siguen llegando a nombre de Madam Vesper. Recoge el correo del búho: ahora te toca leerlo a ti."
+    ],
+    [
+      "p",
+      "¿Qué libro ayudaría a quien te ha escrito? Recorre las estanterías y pregunta a las brujas despiertas. Todas tienen una opinión. No todas tienen razón."
+    ],
+    [
+      "p",
+      "Te escriben tanto brujas como gente corriente. Elige el libro que encaje con su problema y envíalo con Abracargo: sale una copia y el libro se queda contigo. Después, espera la respuesta."
+    ],
+    [
+      "p",
+      "¿Qué series has terminado, cuáles van por la mitad, quién ha pedido qué? Lee las contraportadas y consulta las peticiones pendientes. Todo está en el Diario de la Bruja."
+    ],
+    [
+      "p",
+      "Tómate tu tiempo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-6100 / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8192 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 960 (2 GB) / AMD RX 560"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16384 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1060 6 GB / RX 580"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/1a32143f4aee94e427c181ca575de7c026870803/ss_1a32143f4aee94e427c181ca575de7c026870803.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/1a32143f4aee94e427c181ca575de7c026870803/ss_1a32143f4aee94e427c181ca575de7c026870803.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/639e103f026c44750e1bf160f7e231652b145828/ss_639e103f026c44750e1bf160f7e231652b145828.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/639e103f026c44750e1bf160f7e231652b145828/ss_639e103f026c44750e1bf160f7e231652b145828.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/258b462a732729e6b5876e0b93efd2cd0b34dc6d/ss_258b462a732729e6b5876e0b93efd2cd0b34dc6d.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/258b462a732729e6b5876e0b93efd2cd0b34dc6d/ss_258b462a732729e6b5876e0b93efd2cd0b34dc6d.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/9b7fd9bdccc8151b199a24634d7ceda5419f6c6a/ss_9b7fd9bdccc8151b199a24634d7ceda5419f6c6a.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/9b7fd9bdccc8151b199a24634d7ceda5419f6c6a/ss_9b7fd9bdccc8151b199a24634d7ceda5419f6c6a.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/10620fc8df1d87162e8e2bd814fda5146403de5d/ss_10620fc8df1d87162e8e2bd814fda5146403de5d.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/10620fc8df1d87162e8e2bd814fda5146403de5d/ss_10620fc8df1d87162e8e2bd814fda5146403de5d.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/fd01c5fd9da2f35f136d3af35c0287234f06d1aa/ss_fd01c5fd9da2f35f136d3af35c0287234f06d1aa.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/fd01c5fd9da2f35f136d3af35c0287234f06d1aa/ss_fd01c5fd9da2f35f136d3af35c0287234f06d1aa.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/4afabbc61f83bf4990a5b05b5cce89c1072676e6/ss_4afabbc61f83bf4990a5b05b5cce89c1072676e6.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/4afabbc61f83bf4990a5b05b5cce89c1072676e6/ss_4afabbc61f83bf4990a5b05b5cce89c1072676e6.1920x1080.jpg?t=1795641404"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/1a3c1b6c135a0dbe2343c80323fe573333cd222b/ss_1a3c1b6c135a0dbe2343c80323fe573333cd222b.600x338.jpg?t=1795641404",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169710/1a3c1b6c135a0dbe2343c80323fe573333cd222b/ss_1a3c1b6c135a0dbe2343c80323fe573333cd222b.1920x1080.jpg?t=1795641404"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 430428,
+  "youtube": [
+    {
+      "id": "wdbLYM9aUvY",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T01:45:16.823Z"
+}

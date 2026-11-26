@@ -1,9 +1,9 @@
 {
   "clave": "the jackbox party pack 3",
-  "v": 3,
   "fuentes": [
     "IsThereAnyDeal",
-    "Steam"
+    "Steam",
+    "IGDB"
   ],
   "itad": "018d937f-0847-73f1-9fe3-5b8f1b715f12",
   "appid": "434170",
@@ -47,6 +47,38 @@
       "url": "https://opencritic.com/game/3458/the-jackbox-party-pack-3"
     }
   ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "90559",
+      "nombre": "The Jackbox Party Pack 3",
+      "apps": [
+        {
+          "appid": "434170",
+          "nombre": "The Jackbox Party Pack 3"
+        }
+      ],
+      "usd": 6.86,
+      "antes": 12.49,
+      "descuento": 45
+    }
+  ],
+  "sueltos": {
+    "434170": {
+      "usd": 6.86,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "577810",
+      "nombre": "The Jackbox Party Pack 3 - Soundtrack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
   "descripcion": "The threequel to the party game phenomenon features the deadly quiz show Trivia Murder Party, the say-anything sequel Quiplash 2, the surprising survey game Guesspionage, the t-shirt slugfest Tee K.O., and the sneaky trickster game Fakin’ It.",
   "generos": [
     "Casual",
@@ -55,6 +87,7 @@
   ],
   "lanzamientoTexto": "17 OCT 2016",
   "metacritic": null,
+  "steamDeck": "Verificado",
   "nombreSteam": "The Jackbox Party Pack 3",
   "acerca": [
     [
@@ -149,7 +182,8 @@
   "idiomas": [
     {
       "nombre": "Inglés",
-      "voces": true
+      "voces": true,
+      "subtitulos": false
     }
   ],
   "requisitos": {
@@ -216,5 +250,20 @@
     }
   ],
   "web": "http://www.jackboxgames.com",
-  "consultado": "2026-11-22T22:15:53.696Z"
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 19082,
+  "youtube": [
+    {
+      "id": "B_ULE7TezoE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T01:45:42.609Z"
 }
