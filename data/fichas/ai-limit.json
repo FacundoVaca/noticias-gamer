@@ -1,0 +1,395 @@
+{
+  "clave": "ai limit",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-7b1a-728b-8c90-012b9d8b3031",
+  "appid": "2407270",
+  "lanzamiento": "2025-03-27",
+  "desarrolladores": [
+    "Sense Games"
+  ],
+  "editores": [
+    "CE Asia Hong Kong Limited",
+    "CE-Asia",
+    "CE Asia"
+  ],
+  "etiquetas": [
+    "Souls-like",
+    "Female Protagonist",
+    "Anime",
+    "Action RPG",
+    "Combat"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 92,
+      "cantidad": 23254,
+      "url": "https://store.steampowered.com/app/2407270/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 20,
+      "url": "https://metacritic.com/game/ai-limit/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 205,
+      "url": "https://metacritic.com/game/ai-limit/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 69,
+      "cantidad": 57,
+      "url": "https://opencritic.com/game/18252/ai-limit"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1176074",
+      "nombre": "AI Limit",
+      "apps": [
+        {
+          "appid": "2407270",
+          "nombre": "AI LIMIT"
+        }
+      ],
+      "usd": 16.24,
+      "antes": 24.99,
+      "descuento": 35
+    },
+    {
+      "packageid": "1176075",
+      "nombre": "AI Limit - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "2407270",
+          "nombre": "AI LIMIT"
+        }
+      ],
+      "usd": 20.79,
+      "antes": 31.99,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2407270": {
+      "usd": 16.24,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3813800",
+      "nombre": "AI LIMIT Fragua de Guerra de Eirene",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3391010",
+      "nombre": "AI LIMIT - Deluxe Edition Upgrade Pack",
+      "gratis": false,
+      "usd": 4.54,
+      "descuento": 35
+    }
+  ],
+  "descripcion": "En este ARPG post-apocalíptico de ciencia ficción, el papel suyo será una Bio-Androide que se llama ”Alisa”, que posee la capacidad de regeneración, que explora ruinas de la ciudad “Haven’s Well”, que infestados de monstruos y descubre la verdad del apocalipsis mientras busca una nueva esperanza.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "27 MAR 2025",
+  "metacritic": {
+    "puntaje": 75,
+    "url": "https://www.metacritic.com/game/pc/ai-limit?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "AI LIMIT",
+  "acerca": [
+    [
+      "h",
+      "Explorata un mundo post-apocalíptico desconocido"
+    ],
+    [
+      "p",
+      "Después de que el ecosistema artificial se había colapsado repentinamente por razones desconocidas, los desastres naturales y las guerras siguieron, la civilización fue destruida en un instante… Y durante cientos de años, una anormal sustancia llamada “El Fluido” se extendió por todas partes, y varios tipos de monstruos emergieron en la tierra."
+    ],
+    [
+      "p",
+      "Se adentrará en la última ciudad humana, Haven’s Well, y explorará los sombríos y húmedos túneles subterráneos, los intrincados barrios y la ciudad flotante sobre el lago… Buscará las verdaderas razones de la destrucción de la civilización en las ruinas infestadas de monstruos. Atravesará diversos fenómenos anormales enfrentando a enemigos misteriosos y peligrosos, poniendo punto final a una historia extraña y desesperada."
+    ],
+    [
+      "h",
+      "Emprende un viaje con una misteriosa misión con gran compromiso."
+    ],
+    [
+      "p",
+      "Los “Bio-Androides” tienen apariencia humana, pero son una nueva forma de vida creada a través de una tecnología misteriosa. Con sus propias misiones, ellas comienzan sus viajes solitarios y peligrosos, y con la ayuda de “Ramas de cristal ”, pueden renacer una y otra vez."
+    ],
+    [
+      "p",
+      "Pero ahora, Ramas de cristal ya han sido destruidas y una de los Bio-Androides, usted debe buscar y reparar las Ramas de cristal en diferentes partes de la ciudad. Se encontrará con humanos y compañeros Bio-Androides que también están en situaciones desesperadas y experimentará sus alegrías, tristezas y las creencias que mantienen incluso en la desesperación, descubriendo así la verdad oculta detrás de los desastres y los fenómenos anormales."
+    ],
+    [
+      "h",
+      "Enfrenta a enemigos misteriosos y poderosos."
+    ],
+    [
+      "p",
+      "Guerreros que se han perdido a sí mismos y se han convertido en bestias salvajes locas;"
+    ],
+    [
+      "p",
+      "Soldados que caminan por el cielo cubiertos de agudos filos en todo su cuerpo;"
+    ],
+    [
+      "p",
+      "Enormes monstruos que masacran y destrozan la ciudad con embestidas y explosiones…"
+    ],
+    [
+      "p",
+      "En las innumerables muertes y renacimientos, deberá desafiar a enemigos poderosos y monstruos anormales de múltiples facciones, encontrar los debilidades bajo sus violentos ataques y luchar con todas las fuerzas para lograr la victoria y continuar el viaje en el apocalipsis."
+    ],
+    [
+      "h",
+      "Experimenta un combate de acción emocionante y variada."
+    ],
+    [
+      "p",
+      "◆ Con amplia variedad de armas y másabundancia de tipos!"
+    ],
+    [
+      "p",
+      "◆ Las habilidades de combate con armas pueden sustituirse libremente y combinarse con flexibilidad!"
+    ],
+    [
+      "p",
+      "◆ El sistema de “Sincronización” que mejora con el comportamiento en batalla, le permiten más acciones en la batalla para que sea cada vez más poderoso en ataque y defensa!"
+    ],
+    [
+      "p",
+      "◆ El dispositivo de teconología en tu mano izquierda puede aplicar hasta docenas de “Spell” para realizar habilidades de ataque, defensa y apoyo!"
+    ],
+    [
+      "p",
+      "◆ Con varios sistemas exclusivos para conseguir una rica combinación de movimientos y aprovecha la primera oportunidad de ataques y defensas en cada batalla!"
+    ],
+    [
+      "h",
+      "Explora ruinas de la ciudad y obtiene poderosas armas, armaduras y artefactos de antigua civilización."
+    ],
+    [
+      "p",
+      "Avance paso a paso en las ruinas misteriosas y magníficas de la ciudad, y busque armas y armaduras con diferentes estilos y capacidades: algunas ya están dominadas por poderosos monstruos y otras se encuentran en lo más profundo pasaje complejo. Aparte de sus atributos de combate, estas armas y armaduras también proporcionan cambios únicos en sus apariencias, ¡así que luche con una postura única!"
+    ],
+    [
+      "p",
+      "Además, durante su exploración, también encontrará artefactos de antigua civilización dispersos por todas partes. Utiliza las habilidades de los Bio-Androides para leer los recuerdos conservados en ellos y obtener una visión de la historia de la ciudad de Haven’s Well."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 580 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Audio Device"
+      ],
+      [
+        "Notas adicionales",
+        "HDD Supported, SSD Recommended."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700 / AMD Ryzen 5 5500"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 / AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Audio Device"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Required."
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/da65005f698d917178c337079c16e215cd9dc97b/ss_da65005f698d917178c337079c16e215cd9dc97b.600x338.jpg?t=1795143596",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/da65005f698d917178c337079c16e215cd9dc97b/ss_da65005f698d917178c337079c16e215cd9dc97b.1920x1080.jpg?t=1795143596"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/390a04e9807fcc76147695bdc0de33391a952b03/ss_390a04e9807fcc76147695bdc0de33391a952b03.600x338.jpg?t=1795143596",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/390a04e9807fcc76147695bdc0de33391a952b03/ss_390a04e9807fcc76147695bdc0de33391a952b03.1920x1080.jpg?t=1795143596"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/a946f09333f2498081ea438d2fa2e554aa744822/ss_a946f09333f2498081ea438d2fa2e554aa744822.600x338.jpg?t=1795143596",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/a946f09333f2498081ea438d2fa2e554aa744822/ss_a946f09333f2498081ea438d2fa2e554aa744822.1920x1080.jpg?t=1795143596"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/f43cad827df1f40566e6aeae4e4d78e34d4d6288/ss_f43cad827df1f40566e6aeae4e4d78e34d4d6288.600x338.jpg?t=1795143596",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/f43cad827df1f40566e6aeae4e4d78e34d4d6288/ss_f43cad827df1f40566e6aeae4e4d78e34d4d6288.1920x1080.jpg?t=1795143596"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/6c54c0fb13369aae7fc5d4be4639d94100c37633/ss_6c54c0fb13369aae7fc5d4be4639d94100c37633.600x338.jpg?t=1795143596",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2407270/6c54c0fb13369aae7fc5d4be4639d94100c37633/ss_6c54c0fb13369aae7fc5d4be4639d94100c37633.1920x1080.jpg?t=1795143596"
+    }
+  ],
+  "web": "https://www.ailimit.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 115846,
+  "youtube": [
+    {
+      "id": "wJx4bN_Od7g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "1rKAe7QVfrY",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "2K8_oUBDV78",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T05:45:13.031Z"
+}
