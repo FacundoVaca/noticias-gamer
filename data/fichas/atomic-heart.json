@@ -1,7 +1,419 @@
 {
   "clave": "atomic heart",
-  "fuentes": [],
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1805-71ae-b2fa-8d8c2c8f8342",
+  "appid": "668580",
+  "lanzamiento": "2023-02-20",
+  "desarrolladores": [
+    "Mundfish"
+  ],
+  "editores": [
+    "Focus Entertainment",
+    "4Divinity",
+    "5124",
+    "Focus Home Interactive",
+    "Focus Entertainment, 4Divinity",
+    "Mundfish"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "FPS",
+    "Sexual Content",
+    "Action",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 82,
+      "cantidad": 46659,
+      "url": "https://store.steampowered.com/app/668580/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 76,
+      "cantidad": 39,
+      "url": "https://metacritic.com/game/atomic-heart/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 1756,
+      "url": "https://metacritic.com/game/atomic-heart/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 145,
+      "url": "https://opencritic.com/game/14171/atomic-heart"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "778151",
+      "nombre": "Atomic Heart",
+      "apps": [
+        {
+          "appid": "668580",
+          "nombre": "Atomic Heart"
+        }
+      ],
+      "usd": 7.39,
+      "antes": 36.99,
+      "descuento": 80
+    },
+    {
+      "packageid": "778152",
+      "nombre": "Atomic Heart - Gold Edition",
+      "apps": [
+        {
+          "appid": "668580",
+          "nombre": "Atomic Heart"
+        }
+      ],
+      "usd": 10.99,
+      "antes": 54.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "668580": {
+      "usd": 7.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 9,
+  "dlcLista": [
+    {
+      "appid": "2214824",
+      "nombre": "Atomic Heart - Blood On Crystal",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 25
+    },
+    {
+      "appid": "2214823",
+      "nombre": "Atomic Heart - Enchantment Under the Sea",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 40
+    },
+    {
+      "appid": "2214822",
+      "nombre": "Atomic Heart - Trapped in Limbo",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2214821",
+      "nombre": "Atomic Heart - Annihilation Instinct",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "2303120",
+      "nombre": "Atomic Heart - Original Soundtrack",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 30
+    },
+    {
+      "appid": "2214826",
+      "nombre": "Atomic Heart - Digital Artbook",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 30
+    },
+    {
+      "appid": "2214820",
+      "nombre": "Atomic Heart - Midas Glove Skin",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 30
+    },
+    {
+      "appid": "2214825",
+      "nombre": "Atomic Heart - Golden Age Weapon Skin Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "2214830",
+      "nombre": "Atomic Heart - Labor & Science Weapon Skin Pack",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    }
+  ],
+  "descripcion": "Ten encuentros explosivos en un delirante y sublime mundo utópico. Adapta tu estilo de combate a cada rival, aprovecha el entorno y mejora el equipamiento para cumplir la misión. El precio de averiguar la verdad tendrás que pagarlo con sangre.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "20 FEB 2023",
+  "metacritic": {
+    "puntaje": 76,
+    "url": "https://www.metacritic.com/game/pc/atomic-heart?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Atomic Heart",
+  "acerca": [
+    [
+      "p",
+      "Te damos la bienvenida a un mundo utópico, maravilloso y perfecto, en el que los humanos viven en armonía con leales y complacientes robots."
+    ],
+    [
+      "p",
+      "Bueno, al menos, hasta ahora. Apenas quedan unos días para el lanzamiento del más moderno sistema de control de robots y solo un trágico accidente o una conspiración mundial podrían impedirlo..."
+    ],
+    [
+      "p",
+      "El imparable avance de la tecnología y el desarrollo de experimentos secretos han dado lugar a criaturas mutantes, máquinas aterradoras y robots superpoderosos que, de repente, se han rebelado contra sus creadores. Solo tú puedes detenerlos y averiguar qué hay más allá de este mundo ideal."
+    ],
+    [
+      "p",
+      "Emplea las habilidades de combate que te otorgan tu guante eléctrico experimental y tu arsenal de armas de filo y de fuego avanzadas para luchar a vida o muerte en encuentros explosivos y frenéticos. Adapta tu estilo de combate a cada rival, combina habilidades y recursos, aprovecha el entorno y mejora el equipamiento para superar retos y luchar por el bien."
+    ],
+    [
+      "p",
+      "• Un mundo utópico, tan delirante como sublime"
+    ],
+    [
+      "p",
+      "• Combates viscerales, espectaculares y despiadados"
+    ],
+    [
+      "p",
+      "• Revienta mutantes y máquinas gigantes con diversas habilidades y armas de tecnología punta"
+    ],
+    [
+      "p",
+      "• Mejora tu arsenal y equipamiento"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (20H1 version or newer, 64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 1200 or Intel Core i5-2500"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "90 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "30 FPS, 1920x1080 in low"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (20H1 version or newer, 64-bit versions)"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 2600X or Intel Core i7-7700K"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "8 GB VRAM, AMD RX 6700 XT or NVIDIA GeForce RTX 2070"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "90 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD recommended, 60 FPS, 1920x1080 in ultra"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_1dc8661cde295efc2d1ff8612e079f5c74803748.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_1dc8661cde295efc2d1ff8612e079f5c74803748.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_9dedae959672ac7d7f2db16638a5b65f80bfe125.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_9dedae959672ac7d7f2db16638a5b65f80bfe125.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_2fce9ef441a18361b9ab8f1b1ac70160c8226577.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_2fce9ef441a18361b9ab8f1b1ac70160c8226577.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_19b14ddac88c1f0d24c8061c1f38bebabfbbdff3.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_19b14ddac88c1f0d24c8061c1f38bebabfbbdff3.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_1edcb9e8de3f513645678de19879cb02ecf07764.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_1edcb9e8de3f513645678de19879cb02ecf07764.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_91b040e19e14baa32684a588c20246a305ae336e.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_91b040e19e14baa32684a588c20246a305ae336e.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_0e4b3349f2124cdba1df885ac3cdabfba87b22fb.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_0e4b3349f2124cdba1df885ac3cdabfba87b22fb.1920x1080.jpg?t=1786632138"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_5b70e08d5afa8f3df574852f77fa2347eefd2a57.600x338.jpg?t=1786632138",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/ss_5b70e08d5afa8f3df574852f77fa2347eefd2a57.1920x1080.jpg?t=1786632138"
+    }
+  ],
+  "web": "https://www.focus-entmt.com/games/atomic-heart",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "Blood and Gore Intense Violence Language Nudity",
+  "controles": "Compatibilidad total con mando",
   "igdbIntentado": true,
+  "igdb": 76747,
+  "youtube": [
+    {
+      "id": "_tEgeZrOOHM",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "AyHkMK3cT_c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "kxdWSyoBcH0",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "FndjDVw72sg",
+      "nombre": "Trailer"
+    }
+  ],
   "v": 7,
-  "consultado": "2026-11-23T03:45:03.487Z"
+  "consultado": "2026-11-26T03:50:32.105Z"
 }
