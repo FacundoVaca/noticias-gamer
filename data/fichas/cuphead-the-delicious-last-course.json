@@ -1,0 +1,292 @@
+{
+  "clave": "cuphead the delicious last course",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-35d8-735b-a287-81baa4c66aca",
+  "appid": "1117850",
+  "lanzamiento": "2022-06-30",
+  "desarrolladores": [
+    "StudioMDHR Entertainment Inc.",
+    "Studio MDHR Entertainment Inc.",
+    "StudioMDHR"
+  ],
+  "editores": [
+    "Studio MDHR Entertainment Inc.",
+    "StudioMDHR Entertainment Inc.",
+    "StudioMDHR",
+    "Studio MDHR"
+  ],
+  "etiquetas": [
+    "Indie",
+    "Action",
+    "Difficult",
+    "Cartoon",
+    "Great Soundtrack"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 4752,
+      "url": "https://store.steampowered.com/app/1117850/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 88,
+      "cantidad": 80,
+      "url": "https://opencritic.com/game/13323/cuphead-the-delicious-last-course"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "268910",
+    "nombre": "Cuphead"
+  },
+  "ediciones": [
+    {
+      "packageid": "378492",
+      "nombre": "Cuphead - The Delicious Last Course",
+      "apps": [
+        {
+          "appid": "1117850",
+          "nombre": "Cuphead - The Delicious Last Course"
+        }
+      ],
+      "usd": 5.59,
+      "antes": 7.99,
+      "descuento": 30
+    },
+    {
+      "packageid": "736589",
+      "nombre": "Cuphead & The Delicious Last Course",
+      "apps": [
+        {
+          "appid": "268910",
+          "nombre": "Cuphead"
+        },
+        {
+          "appid": "1117850",
+          "nombre": "Cuphead - The Delicious Last Course"
+        }
+      ],
+      "usd": 18.89,
+      "antes": 26.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "268910": {
+      "usd": 13.99,
+      "gratis": false
+    },
+    "1117850": {
+      "usd": 5.59,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Te espera un segundo plato de Cuphead aderezado con sabrosa acción! ¡Descubre una nueva Isla Tintero repleta de jefes finales, secretos y aventuras por doquier!",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "30 JUN 2022",
+  "metacritic": null,
+  "nombreSteam": "Cuphead - The Delicious Last Course",
+  "acerca": [
+    [
+      "p",
+      "Cuphead - The Delicious Last Course es un contenido descargable, en el que Cuphead y Mugman ¡vivirán aventuras en una nueva isla en compañía de la señorita Cáliz! Gracias a las nuevas armas, los nuevos amuletos y las nuevas habilidades de señorita Cáliz, podrás enfrentarte a nuevos jefes que ocuparán toda la pantalla y presentarán varias caras. ¡Ayuda al Chef Saleroso en la última y desafiante aventura de Cuphead!"
+    ],
+    [
+      "p",
+      "• Se incluye a la señorita Cáliz como nuevo personaje jugable, con nuevas habilidades y una lista de movimientos modificada. Una vez obtenida, ¡podrás usarla tanto en el contenido descargable como en la aventura original de Cuphead!"
+    ],
+    [
+      "p",
+      "• ¡Recorre una nueva Isla Tintero y descubre a los jefes más alocados y monstruosos a los que se haya enfrentado Cuphead hasta la fecha!"
+    ],
+    [
+      "p",
+      "• Consigue nuevas armas y amuletos, que te ayudarán a superar los nuevos desafíos y a conseguir nuevos récords en los viejos jefes."
+    ],
+    [
+      "p",
+      "• ¡Ayuda al Chef Saleroso en una nueva aventura en la que se desvelará el misterio de la misión secreta del Cáliz Legendario!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core2 Duo E8400"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "2GB VRAM or higher"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_3c81588432c009ffaa418d3a7db73c22fe01398c.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_3c81588432c009ffaa418d3a7db73c22fe01398c.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_4a8ed7eff13e6686246f8eabcf881621bc1931c2.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_4a8ed7eff13e6686246f8eabcf881621bc1931c2.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_49d4b71302bd2bb55becbcdd8b8e6952fddfa548.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_49d4b71302bd2bb55becbcdd8b8e6952fddfa548.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_00a75339a821b3ca9abe389662f590a61349d9e2.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_00a75339a821b3ca9abe389662f590a61349d9e2.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_7e4eddbf5c78aa9faf08c0843b79a3d0beac02b0.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_7e4eddbf5c78aa9faf08c0843b79a3d0beac02b0.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_1bcb239fd89010fc55e20a479397030fde722ed8.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_1bcb239fd89010fc55e20a479397030fde722ed8.1920x1080.jpg?t=1709232767"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_fc5fdf4dd53969bb78ea9341feb19b9098a70d64.600x338.jpg?t=1709232767",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/ss_fc5fdf4dd53969bb78ea9341feb19b9098a70d64.1920x1080.jpg?t=1709232767"
+    }
+  ],
+  "web": "http://www.cupheadgame.com/dlc",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 103287,
+  "youtube": [
+    {
+      "id": "3hk50ueWS5E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ibDx3ueg90U",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bskUa1jX0Gg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "M_p-BAcDMX0",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T19:21:41.226Z"
+}

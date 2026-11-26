@@ -1,0 +1,467 @@
+{
+  "clave": "warhammer 40 000 darktide",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4443-7255-babb-a2a154f84dd0",
+  "appid": "1361210",
+  "lanzamiento": "2022-11-30",
+  "desarrolladores": [
+    "Fatshark"
+  ],
+  "editores": [
+    "Fatshark"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "PvE",
+    "FPS",
+    "Class-Based",
+    "Combat"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 72,
+      "cantidad": 110505,
+      "url": "https://store.steampowered.com/app/1361210/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 69,
+      "url": "https://metacritic.com/game/warhammer-40000-darktide/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 55,
+      "cantidad": 291,
+      "url": "https://metacritic.com/game/warhammer-40000-darktide/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 83,
+      "url": "https://opencritic.com/game/13376/warhammer-40-000-darktide"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "807591",
+      "nombre": "Warhammer 40,000: Darktide",
+      "apps": [
+        {
+          "appid": "1361210",
+          "nombre": "Warhammer 40,000: Darktide"
+        }
+      ],
+      "usd": 6.24,
+      "antes": 24.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "938125",
+      "nombre": "Warhammer 40,000: Darktide - Imperial Edition",
+      "apps": [
+        {
+          "appid": "1361210",
+          "nombre": "Warhammer 40,000: Darktide"
+        },
+        {
+          "appid": "1981790",
+          "nombre": "Warhammer 40,000: Darktide - Imperial Edition Upgrade"
+        },
+        {
+          "appid": "2216070",
+          "nombre": "Warhammer 40,000: Darktide Soundtrack"
+        }
+      ],
+      "usd": 9.37,
+      "antes": 37.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1361210": {
+      "usd": 6.24,
+      "gratis": false
+    },
+    "1981790": {
+      "usd": 4.49,
+      "gratis": false
+    },
+    "2216070": {
+      "usd": 9.37,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 13,
+  "dlcLista": [
+    {
+      "appid": "5026140",
+      "nombre": "Warhammer 40,000: Darktide - Sisters Novitiate Class",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "5026150",
+      "nombre": "Warhammer 40,000: Darktide - Sisters Novitiate Class Deluxe Edition",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4355570",
+      "nombre": "Warhammer 40,000: Darktide - Skitarii Class",
+      "gratis": false,
+      "usd": 5.61,
+      "descuento": 25
+    },
+    {
+      "appid": "4355580",
+      "nombre": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4013290",
+      "nombre": "Warhammer 40,000: Darktide - Hive Scum Class",
+      "gratis": false,
+      "usd": 4.86,
+      "descuento": 35
+    },
+    {
+      "appid": "3710910",
+      "nombre": "Warhammer 40,000: Darktide - Arbites Class",
+      "gratis": false,
+      "usd": 3.74,
+      "descuento": 50
+    },
+    {
+      "appid": "1981790",
+      "nombre": "Warhammer 40,000: Darktide - Imperial Edition Upgrade",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 70
+    },
+    {
+      "appid": "3710950",
+      "nombre": "Warhammer 40,000: Darktide - Arbites Class Deluxe Edition",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "4013310",
+      "nombre": "Warhammer 40,000: Darktide - Hive Scum Class Deluxe Edition",
+      "gratis": false,
+      "usd": 7.79,
+      "descuento": 35
+    },
+    {
+      "appid": "3710980",
+      "nombre": "Warhammer 40,000: Darktide - Arbites Class Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.74,
+      "descuento": 45
+    },
+    {
+      "appid": "4013300",
+      "nombre": "Warhammer 40,000: Darktide - Hive Scum Class Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 3.49,
+      "descuento": 30
+    },
+    {
+      "appid": "4355590",
+      "nombre": "Warhammer 40,000: Darktide - Skitarii Class Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 20
+    },
+    {
+      "appid": "5026160",
+      "nombre": "Warhammer 40,000: Darktide - Sisters Novitiate Class Cosmetic Upgrade",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Recupera Tertium de las hordas de enemigos sanguinarios en este despiadado juego de disparos y acción salvaje. Warhammer 40,000: Darktide es la nueva experiencia cooperativa del galardonado equipo creador de la saga Vermintide. Mientras Tertium cae, los marginados se alzarán.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "30 NOV 2022",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Warhammer 40,000: Darktide",
+  "acerca": [
+    [
+      "p",
+      "Recupera Tertium de las hordas de enemigos sanguinarios en este despiadado juego de disparos y acción salvaje. Warhammer 40,000: Darktide es la nueva experiencia cooperativa del galardonado equipo creador de la saga Vermintide."
+    ],
+    [
+      "p",
+      "En las profundidades de la colmena, las semillas de la corrupción amenazan con convertirse en una marea abrumadora de oscuridad. Una nueva fuerza misteriosa y siniestra quiere apoderarse de la ciudad entera. Depende de ti y tus aliados en la Inquisición erradicar al enemigo antes de que la ciudad sucumba ante el Caos."
+    ],
+    [
+      "p",
+      "Mientras Tertium cae, los marginados se alzarán."
+    ],
+    [
+      "h",
+      "Combate híbrido a todo trapo"
+    ],
+    [
+      "p",
+      "Construido sobre los cimientos del mejor sistema de combate cuerpo a cuerpo de Vermintide 2, Warhammer 40,000: Darktide introduce un intenso combate con pistolas de Warhammer 40,000. Domina el equilibrio entre el combate a distancia y el cuerpo a cuerpo mientras te enfrentas a un montón de enemigos. Siente el impacto de cada golpe de tu espada sierra o los ardientes disparos de tu láser imperial."
+    ],
+    [
+      "h",
+      "Muere en soledad o sufre en compañía"
+    ],
+    [
+      "p",
+      "Darktide es un juego cooperativo. Si te alejas demasiado, te arriesgas a que te castiguen los enemigos que buscan inmovilizar o capturar a los marginados que han perdido el rumbo, como los voraces caosabuesos o la trampera moebiana. ¡Cuando hayas caído presa de estos enemigos, solo tus compañeros podrán salvarte! Es más, tu dureza innata, la determinación para avanzar a pesar del dolor, solo se recarga cuando estás cerca de tu equipo de asalto."
+    ],
+    [
+      "h",
+      "Tu personaje, tu estilo de juego"
+    ],
+    [
+      "p",
+      "Crea tu personaje único y personaliza su apariencia física, voz y origen. Elige una clase para determinar qué características y habilidades únicas se usarán en batalla. ¿Quieres jugar como veterano experimentado del ejército imperial, forastero mordaz o ferviente exaltado? Tú eliges."
+    ],
+    [
+      "h",
+      "Tertium: una ciudad colmena al borde del colapso"
+    ],
+    [
+      "p",
+      "Adéntrate en el violento mundo distópico de Warhammer 40,000. Tertium es un lugar despiadado e implacable incluso en el mejor de los tiempos: encontrarás desde fábricas industriales ardientes hasta zonas putrefactas de mantenimiento de los depósitos de agua afectados por la lluvia ácida constante. Tu papel es el de servir a la ferviente Inquisición al embarcarte en misiones para exterminar las amenazas que merodean por las profundidades de la ciudad colmena, o morir en el intento."
+    ],
+    [
+      "h",
+      "El Caos nunca duerme"
+    ],
+    [
+      "p",
+      "Adáptate a la veleidad errática del Caos mediante las circunstancias: unos mutadores que añaden un desafío espontáneo a la misión. Tu equipo tendrá que aprender a adaptarse, adoptar nuevas tácticas y cambiar de plantilla de equipamiento para enfrentarse a estos desafíos implacables."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Subtítulos descriptivos disponibles",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit) / Windows 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-6600 (3.30GHz) OR AMD Ryzen 2400G (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970 OR AMD Radeon RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit) / Windows 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i7-9700K (3.70GHz) OR AMD Ryzen 5 3600 (4.2GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 / RTX 2060 OR AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "100 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "An SSD storage device is highly recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_e5bfe858d549cb4c488f9f755587496deca96082.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_e5bfe858d549cb4c488f9f755587496deca96082.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_623eb17524442b7a908511fb46fef3366609dbd3.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_623eb17524442b7a908511fb46fef3366609dbd3.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_bb7caeef3cb174a55f6ba87b2fbeb9eb53db2dc9.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_bb7caeef3cb174a55f6ba87b2fbeb9eb53db2dc9.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_d932c7e464f32ab6d1380091d1752ab6b3c4b45b.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_d932c7e464f32ab6d1380091d1752ab6b3c4b45b.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_1e057a298746ba08f0e9e5f102b5625d577ea389.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_1e057a298746ba08f0e9e5f102b5625d577ea389.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_eea5f1aae5032babe3f1cdbd0c8e32272f4787c5.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_eea5f1aae5032babe3f1cdbd0c8e32272f4787c5.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_09770c728cb7d208eec817bbbccd2887056ac0bf.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_09770c728cb7d208eec817bbbccd2887056ac0bf.1920x1080.jpg?t=1795527711"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_93650972b56461922dbe1eb2613b4f84bab59389.600x338.jpg?t=1795527711",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/ss_93650972b56461922dbe1eb2613b4f84bab59389.1920x1080.jpg?t=1795527711"
+    }
+  ],
+  "web": "http://www.playdarktide.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Includes bloody violence and gore.",
+  "igdbIntentado": true,
+  "igdb": 135998,
+  "youtube": [
+    {
+      "id": "2MNYZK0Sw9s",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "4JUsHpTWVa0",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "GR7I2D6ENrA",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "D0Z53bk4lvc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T19:20:12.564Z"
+}

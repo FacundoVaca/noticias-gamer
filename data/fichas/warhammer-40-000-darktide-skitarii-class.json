@@ -1,0 +1,299 @@
+{
+  "clave": "warhammer 40 000 darktide skitarii class",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019e4b52-1744-721a-a97c-7d6dbc912361",
+  "appid": "4355570",
+  "lanzamiento": "2026-06-23",
+  "desarrolladores": [
+    "Fatshark"
+  ],
+  "editores": [
+    "Fatshark"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Violent",
+    "PvE",
+    "Gore",
+    "FPS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 57,
+      "cantidad": 1334,
+      "url": "https://store.steampowered.com/app/4355570/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1361210",
+    "nombre": "Warhammer 40,000: Darktide"
+  },
+  "ediciones": [
+    {
+      "packageid": "1522196",
+      "nombre": "Warhammer 40,000: Darktide - Skitarii Class",
+      "apps": [
+        {
+          "appid": "4355570",
+          "nombre": "Warhammer 40,000: Darktide - Skitarii Class"
+        }
+      ],
+      "usd": 5.61,
+      "antes": 7.49,
+      "descuento": 25
+    },
+    {
+      "packageid": "1522199",
+      "nombre": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition",
+      "apps": [
+        {
+          "appid": "4355580",
+          "nombre": "Warhammer 40,000: Darktide - Skitarii Class Deluxe Edition"
+        }
+      ],
+      "usd": 8.99,
+      "antes": 11.99,
+      "descuento": 25
+    }
+  ],
+  "sueltos": {
+    "4355570": {
+      "usd": 5.61,
+      "gratis": false
+    },
+    "4355580": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "El Adeptus Mechanicus no permitirá que los secretos de la Colmena Tertium caigan en manos de herejes. Los Skitarii Alpha Primus son soldados de élite, dedicados a cumplir la voluntad del Omnissiah y eliminarán a todo aquel que se interponga en su camino.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol"
+  ],
+  "lanzamientoTexto": "23 JUN 2026",
+  "metacritic": null,
+  "nombreSteam": "Warhammer 40,000: Darktide - Skitarii Class",
+  "acerca": [
+    [
+      "h",
+      "Ira del Dios Máquina"
+    ],
+    [
+      "p",
+      "El Adeptus Mechanicus no permitirá que los secretos de la Colmena Tertium caigan en manos de herejes. Los Skitarii Alpha Primus son soldados de élite, dedicados a cumplir la voluntad del Omnissiah y eliminarán a todo aquel que se interponga en su camino."
+    ],
+    [
+      "h",
+      "Mecanismos Divinos de Guerra"
+    ],
+    [
+      "p",
+      "Los Skitarii sirven al Dios Máquina con devoción absoluta y portan instrumentos sagrados de precisión y destrucción para garantizar que cada disparo alcance su objetivo. Sus sistemas de poder central permiten una variedad de habilidades de combate, cada una disponible en diferentes niveles y fortalecidas a medida que se les asigna más poder."
+    ],
+    [
+      "p",
+      "Junto a ellos está el servo-cráneo adaptable equipado con pistola láser, que no solo ataca enemigos, sino que también puede ejecutar protocolos de interrogación de datos. Al mejorar la habilidad de bombardeo, desbloquearás más servo-cráneos con funciones especializadas para ampliar y reforzar la letalidad de los Skitarii contra la herejía."
+    ],
+    [
+      "h",
+      "La carne es débil, el metal es fuerte"
+    ],
+    [
+      "p",
+      "Los Skitarii Alpha Primus son soldados especiales, elegidos por el Dios Máquina y bendecidos con mejoras mentales y físicas que superan a sus compañeros. Su árbol de talentos no lineal permite un nivel de personalización sin precedentes. Ya sea que crees un Skitarii asesino de largo alcance, un devoto frenético del Omnissiah que desgarra carne con una hoja transónica o una tormenta eléctrica viviente, todos temblarán al verte."
+    ],
+    [
+      "h",
+      "Construidos para la guerra"
+    ],
+    [
+      "p",
+      "Aunque siguen las doctrinas del Adeptus Mechanicus, ningún Skitarii es idéntico. Personaliza tu Skitarii eligiendo materiales, patrones de aumento y el Mundo Forja de origen. Escoge entre cuatro voces distintas y ajusta la modulación para definir tu configuración autorizada."
+    ],
+    [
+      "h",
+      "Arsenal Sagrado del Omnissiah"
+    ],
+    [
+      "p",
+      "Los Skitarii cuentan con un arsenal legendario, celosamente guardado por los armeros del Adeptus Mechanicus. Su equipo avanzado incluye armas de arco,, deslumbrantes blásters de fósforo, filosas hojas transónicas y rifles galvánicos de alto poder. Tal poder es incomprensible, y a menudo mortal, para los no aumentados."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Subtítulos descriptivos disponibles",
+    "Compras dentro de la aplicación",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit) / Windows 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i5-6600 (3.30GHz) OR AMD Ryzen 2400G (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970 OR AMD Radeon RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64 bit) / Windows 11 (64 bit)"
+      ],
+      [
+        "Procesador",
+        "Intel i7-9700K (3.70GHz) OR AMD Ryzen 5 3600 (4.2GHz)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 3060 / RTX 2060 OR AMD Radeon RX 5700 XT"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/ffe52904427fa8a91e531131a37c722bd9921596/ss_ffe52904427fa8a91e531131a37c722bd9921596.600x338.jpg?t=1794993971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/ffe52904427fa8a91e531131a37c722bd9921596/ss_ffe52904427fa8a91e531131a37c722bd9921596.1920x1080.jpg?t=1794993971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/fd64503a3a7d9cf011804b374eb96467ba9d33e6/ss_fd64503a3a7d9cf011804b374eb96467ba9d33e6.600x338.jpg?t=1794993971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/fd64503a3a7d9cf011804b374eb96467ba9d33e6/ss_fd64503a3a7d9cf011804b374eb96467ba9d33e6.1920x1080.jpg?t=1794993971"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/4a10bb37d721554771607ac6a843394b222e918c/ss_4a10bb37d721554771607ac6a843394b222e918c.600x338.jpg?t=1794993971",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355570/4a10bb37d721554771607ac6a843394b222e918c/ss_4a10bb37d721554771607ac6a843394b222e918c.1920x1080.jpg?t=1794993971"
+    }
+  ],
+  "web": "http://www.playdarktide.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Includes bloody violence and gore.",
+  "igdbIntentado": true,
+  "igdb": 402515,
+  "youtube": [
+    {
+      "id": "VAyHtRzMYdk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "Zv-r0XbsL9M",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T19:21:52.946Z"
+}

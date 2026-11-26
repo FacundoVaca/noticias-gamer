@@ -1,0 +1,412 @@
+{
+  "clave": "the impossible",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d9596-8cd4-7282-a82c-d0125560b17e",
+  "appid": "1363850",
+  "lanzamiento": "2020-07-20",
+  "desarrolladores": [
+    "AIREM",
+    "IMPOSSIBLE INC"
+  ],
+  "editores": [
+    "AIREM"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Comic Book",
+    "RPG",
+    "Puzzle Platformer",
+    "2D Platformer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 519,
+      "url": "https://store.steampowered.com/app/1363850/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "478288",
+      "nombre": "THE IMPOSSIBLE",
+      "apps": [
+        {
+          "appid": "1363850",
+          "nombre": "LO IMPOSIBLE"
+        }
+      ],
+      "usd": 0.49,
+      "antes": 2.99,
+      "descuento": 84
+    },
+    {
+      "packageid": "484322",
+      "nombre": "THE IMPOSSIBLE - Commercial License",
+      "apps": [
+        {
+          "appid": "1363850",
+          "nombre": "LO IMPOSIBLE"
+        }
+      ],
+      "usd": 4.99,
+      "antes": 4.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1363850": {
+      "usd": 0.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1381180",
+      "nombre": "THE IMPOSSIBLE SOUNDTRACK (+Patch autograph)",
+      "gratis": false,
+      "usd": 0.49,
+      "descuento": 45
+    }
+  ],
+  "descripcion": "THE IMPOSSIBLE es un juego de rompecabezas de ilusión de perspectiva minimalista. Usted controla un pequeño cuadrado en el mundo IMPOSIBLE y recuerde: nada es IMPOSIBLE.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "24 JUL 2020",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "LO IMPOSIBLE",
+  "acerca": [
+    [
+      "h",
+      "INFORMACIÓN"
+    ],
+    [
+      "p",
+      "THE IMPOSSIBLE es un juego de rompecabezas de ilusión de perspectiva minimalista. Usted controla un pequeño cuadrado en el mundo IMPOSIBLE y recuerde: nada es IMPOSIBLE."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS"
+    ],
+    [
+      "p",
+      "Control sencillo. Juegue usando el teclado (las flechas o W, A, S, D), teclado numérico, soporte completo para gamepad (vibraciones) o deslizar el mouse o hacer clic."
+    ],
+    [
+      "p",
+      "Después de completar la prueba, verá su puntaje de CI (coeficiente intelectual) ..."
+    ],
+    [
+      "p",
+      "Música relajante"
+    ],
+    [
+      "p",
+      "Tamaño de aplicación pequeño"
+    ],
+    [
+      "p",
+      "Obedezca las reglas"
+    ],
+    [
+      "p",
+      "30 niveles (nuevos niveles y editor próximamente en actualización gratuita)"
+    ],
+    [
+      "p",
+      "Hermoso diseño de gráficos minimalista"
+    ],
+    [
+      "p",
+      "Compatibilidad con Linux, Windows y Mac OS"
+    ],
+    [
+      "p",
+      "Todos los soportes de resolución (21: 9, Ultrawide, etc.)"
+    ],
+    [
+      "p",
+      "Lo están observando"
+    ],
+    [
+      "p",
+      "Logros"
+    ],
+    [
+      "p",
+      "Nubes de vapor"
+    ],
+    [
+      "p",
+      "Cromos de Steam"
+    ],
+    [
+      "p",
+      "Sistema de pistas"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Opción solo teclado",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Opción solo táctil",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Bielorruso",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Microsoft Windows 7 32/64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo 1,66 GHz"
+      ],
+      [
+        "Memoria",
+        "512 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Radeon HD 7500G/Intel HD Graphics 3000"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "don't let PATH enter your computer!!!"
+      ],
+      [
+        "Notas adicionales",
+        "Support all resolutions (21:9, ultrawide, potatoWide, potatoUltraWide etc.), Belarusian language is supported"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_3c4c0bb77f7b87ad99d08360541bf6273617fd32.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_3c4c0bb77f7b87ad99d08360541bf6273617fd32.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_048a7934b40ee8185ca03dc7884ead7081dd0963.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_048a7934b40ee8185ca03dc7884ead7081dd0963.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_b3fa902cca370596410ddc73c12090911b8839d0.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_b3fa902cca370596410ddc73c12090911b8839d0.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_0aeaa2d0cbf810895a0d9b7d8e5cbab015631fac.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_0aeaa2d0cbf810895a0d9b7d8e5cbab015631fac.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_4c1581e6a46f12510aa16f3073b046be827f9120.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_4c1581e6a46f12510aa16f3073b046be827f9120.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_eaf026eeede1229c97e22c9c723764ea17a39b40.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_eaf026eeede1229c97e22c9c723764ea17a39b40.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_5468bf00ce861fa1820160e052e32c06c7fe3f62.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_5468bf00ce861fa1820160e052e32c06c7fe3f62.1920x1080.jpg?t=1795300618"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_510d5f9bcaec07e04758cc9c70bec439aa0646e9.600x338.jpg?t=1795300618",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1363850/ss_510d5f9bcaec07e04758cc9c70bec439aa0646e9.1920x1080.jpg?t=1795300618"
+    }
+  ],
+  "web": "http://airem.pl",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 174012,
+  "youtube": [
+    {
+      "id": "tf-5_q-sCkI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T19:20:35.258Z"
+}

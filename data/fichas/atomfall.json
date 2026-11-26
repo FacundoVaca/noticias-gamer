@@ -1,0 +1,381 @@
+{
+  "clave": "atomfall",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01900c88-cec4-7115-9387-a48bf8d67eae",
+  "appid": "801800",
+  "lanzamiento": "2025-03-27",
+  "desarrolladores": [
+    "Rebellion"
+  ],
+  "editores": [
+    "Rebellion",
+    "Rebellion Developments"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Action",
+    "Post-apocalyptic",
+    "Open World",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 4685,
+      "url": "https://store.steampowered.com/app/801800/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 45,
+      "url": "https://metacritic.com/game/atomfall/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 339,
+      "url": "https://metacritic.com/game/atomfall/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 131,
+      "url": "https://opencritic.com/game/17764/atomfall"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "244021",
+      "nombre": "Atomfall",
+      "apps": [
+        {
+          "appid": "801800",
+          "nombre": "Atomfall"
+        }
+      ],
+      "usd": 6.89,
+      "antes": 22.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "1180080",
+      "nombre": "Atomfall Deluxe Edition",
+      "apps": [
+        {
+          "appid": "801800",
+          "nombre": "Atomfall"
+        }
+      ],
+      "usd": 13.19,
+      "antes": 32.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "801800": {
+      "usd": 6.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "3252020",
+      "nombre": "Atomfall Story Expansion Pack: The Red Strain",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 60
+    },
+    {
+      "appid": "3607720",
+      "nombre": "Atomfall Deluxe Upgrade",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 60
+    },
+    {
+      "appid": "3047140",
+      "nombre": "Atomfall: Story Expansion Pack Wicked Isle",
+      "gratis": false,
+      "usd": 4.19,
+      "descuento": 60
+    },
+    {
+      "appid": "3047130",
+      "nombre": "Atomfall: Basic Supply Bundle",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 60
+    },
+    {
+      "appid": "3047150",
+      "nombre": "Atomfall: Enhanced Supply Bundle",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Atomfall, un juego de acción y supervivencia inspirado en hechos reales, se desarrolla cinco años después del desastre nuclear de Windscale, en el norte de Inglaterra.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "27 MAR 2025",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Atomfall",
+  "acerca": [
+    [
+      "p",
+      "Reserva la edición estándar de Atomfall para recibir:"
+    ],
+    [
+      "p",
+      "• «Lote básico de suministros»: los suministros escasean en la zona de cuarentena. Mejora tus opciones de supervivencia con más objetos que descubrir, como un arma exclusiva que te ayudará en los brutales enfrentamientos cuerpo a cuerpo."
+    ],
+    [
+      "p",
+      "• Versión exclusiva del arma cuerpo a cuerpo."
+    ],
+    [
+      "p",
+      "• Más alijos de botín."
+    ],
+    [
+      "p",
+      "• Receta de objeto."
+    ],
+    [
+      "p",
+      "Reserva la edición deluxe de Atomfall para recibir:"
+    ],
+    [
+      "p",
+      "• El juego «Atomfall» completo."
+    ],
+    [
+      "p",
+      "• Acceso anticipado de 3 días."
+    ],
+    [
+      "p",
+      "• Paquete de expansión de la historia (* no disponible el primer día)."
+    ],
+    [
+      "p",
+      "oPaquete «Lote básico de suministros»."
+    ],
+    [
+      "p",
+      "• Paquete «Lote mejorado de suministros»."
+    ],
+    [
+      "p",
+      "Atomfall, un juego de acción y supervivencia inspirado en hechos reales, se desarrolla cinco años después del desastre nuclear de Windscale, en el norte de Inglaterra."
+    ],
+    [
+      "p",
+      "Explora la zona ficticia de cuarentena, rebusca, fabrica, realiza intercambios, lucha y ábrete paso a través de un paisaje rural británico lleno de personajes extraños, misticismo, sectas y agencias gubernamentales corruptas."
+    ],
+    [
+      "p",
+      "Atomfoll es un videojuego desarrollado por Rebellion, el estudio encargado de Sniper Elite y Zombie Army, que te retará a resolver el oscuro misterio de lo que realmente ocurrió."
+    ],
+    [
+      "p",
+      "Misterio dirigido por el jugador: desentraña un entramado de historias entrelazadas mientras exploras, entablas conversaciones, investigas y luchas. Cada decisión que tomes tendrá consecuencias."
+    ],
+    [
+      "p",
+      "Explora las tierras verdes e inhóspitas: en la pintoresca campiña británica, con sus colinas verdes escalonadas, sus valles exuberantes y sus pueblos rurales, se esconden los peligros que te aguardan."
+    ],
+    [
+      "p",
+      "Investiga, rebusca, sobrevive: ¡tendrás que buscar provisiones, fabricar armas y objetos, y luchar a muerte para conseguir salir con vida!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compras dentro de la aplicación",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Dificultad ajustable",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Opciones de subtítulos"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or later"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i5-9400f or equivalent"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia 2060 6GB or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/e4698e882129dec06db625543b63208f4efc44e5/ss_e4698e882129dec06db625543b63208f4efc44e5.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/e4698e882129dec06db625543b63208f4efc44e5/ss_e4698e882129dec06db625543b63208f4efc44e5.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/8e6c4162573016c74239e02b9c4d8af27d6be3c3/ss_8e6c4162573016c74239e02b9c4d8af27d6be3c3.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/8e6c4162573016c74239e02b9c4d8af27d6be3c3/ss_8e6c4162573016c74239e02b9c4d8af27d6be3c3.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/21761d56204196440d420614a2cee0a3311c0337/ss_21761d56204196440d420614a2cee0a3311c0337.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/21761d56204196440d420614a2cee0a3311c0337/ss_21761d56204196440d420614a2cee0a3311c0337.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/d23355642fe38dff81ef9a4fad53429a4988c956/ss_d23355642fe38dff81ef9a4fad53429a4988c956.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/d23355642fe38dff81ef9a4fad53429a4988c956/ss_d23355642fe38dff81ef9a4fad53429a4988c956.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/a6e132016734338dfa0d5679f4eb2ac92108ea4b/ss_a6e132016734338dfa0d5679f4eb2ac92108ea4b.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/a6e132016734338dfa0d5679f4eb2ac92108ea4b/ss_a6e132016734338dfa0d5679f4eb2ac92108ea4b.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/9b42c5521c8ad58bc16bbb1f86a96b6611d5bd6d/ss_9b42c5521c8ad58bc16bbb1f86a96b6611d5bd6d.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/9b42c5521c8ad58bc16bbb1f86a96b6611d5bd6d/ss_9b42c5521c8ad58bc16bbb1f86a96b6611d5bd6d.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/aacb5c4cbeb7350b725a33f0da22148891582260/ss_aacb5c4cbeb7350b725a33f0da22148891582260.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/aacb5c4cbeb7350b725a33f0da22148891582260/ss_aacb5c4cbeb7350b725a33f0da22148891582260.1920x1080.jpg?t=1776701587"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/978c2a73cefed70c472682b6c71f9c637f67282d/ss_978c2a73cefed70c472682b6c71f9c637f67282d.600x338.jpg?t=1776701587",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/978c2a73cefed70c472682b6c71f9c637f67282d/ss_978c2a73cefed70c472682b6c71f9c637f67282d.1920x1080.jpg?t=1776701587"
+    }
+  ],
+  "web": "https://atomfall.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Our game contains: Violence: The ability to kill characters with fists, melee weapons, throwables, guns and a bow. Blood splatter on hands and enemies after killing. Blood trails as environment decoration. People/monsters impaled on stakes (though not gory). Alcohol reference but not use or consumption of alcohol: Visible alcohol bottles used as crafting materials. There's a pub that can be found in the Village Implied Nudity: A \"Feral\" character with covered genitals. Their torso is showing but there are no nipples. Potential Suicide Depiction: An ambiguous scene where the player jumps into a pit, potentially a form of suicide, though not definitively death. Cultist Rituals: The presence of the staked people/monsters indicates cultist rituals.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 305159,
+  "youtube": [
+    {
+      "id": "Nm-ERw349d4",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "fz-9EF0iZ8c",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "KcGbyD8OnW8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "YVodeYXYKt4",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T19:21:06.740Z"
+}
