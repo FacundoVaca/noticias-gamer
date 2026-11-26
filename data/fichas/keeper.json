@@ -1,0 +1,365 @@
+{
+  "clave": "keeper",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d9745-2d4b-72d2-941d-25e85feb3be7",
+  "appid": "3043580",
+  "lanzamiento": "2025-10-17",
+  "desarrolladores": [
+    "Double Fine Productions"
+  ],
+  "editores": [
+    "Xbox Game Studios",
+    "Double Fine Productions"
+  ],
+  "etiquetas": [
+    "Atmospheric",
+    "Walking Simulator",
+    "Emotional",
+    "Surreal",
+    "Lovecraftian"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 1082,
+      "url": "https://store.steampowered.com/app/3043580/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 81,
+      "cantidad": 38,
+      "url": "https://metacritic.com/game/keeper/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 250,
+      "url": "https://metacritic.com/game/keeper/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 115,
+      "url": "https://opencritic.com/game/19381/keeper"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1081929",
+      "nombre": "Keeper",
+      "apps": [
+        {
+          "appid": "3043580",
+          "nombre": "Keeper"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3043580": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
+  "descripcion": "Keeper es una historia contada sin palabras en la que un faro largamente olvidado se despierta de su letargo y se embarca en un viaje sorprendente hacia reinos más allá del entendimiento.",
+  "generos": [
+    "Aventura"
+  ],
+  "lanzamientoTexto": "17 OCT 2025",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Keeper",
+  "acerca": [
+    [
+      "p",
+      "Keeper, de Lee Petty y Double Fine Productions, es una aventura mística, hermosa y surrealista; una historia contada sin palabras."
+    ],
+    [
+      "p",
+      "En una isla situada en medio de un mar sumido en el pasado, un faro olvidado se alza a la sombra de un lejano pico de montaña. Al roce de unas raíces marchitas que se funden con su piedra, el faro despierta de su letargo. Impulsado por un misterioso sentido del propósito, el faro se embarca junto a una vivaz ave marina en un entrañable relato de amistad, una odisea de metamorfosis mística y en un sorprendente viaje hacia reinos más allá del entendimiento."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Se recomienda usar un mando",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Griego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-7700K / AMD Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070 / AMD Radeon RX 5700, VRAM: 8 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Shader Model: 6"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-13700K / AMD Ryzen 9 7900X"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 4080 / AMD Radeon RX 7900 XT, VRAM: 16 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Shader Model: 6"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/11e0d589997badbcc6d62c672df126e49df95523/ss_11e0d589997badbcc6d62c672df126e49df95523.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/11e0d589997badbcc6d62c672df126e49df95523/ss_11e0d589997badbcc6d62c672df126e49df95523.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/0f0c1c70409fcc93b1968fb3898897bc8db5f8d2/ss_0f0c1c70409fcc93b1968fb3898897bc8db5f8d2.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/0f0c1c70409fcc93b1968fb3898897bc8db5f8d2/ss_0f0c1c70409fcc93b1968fb3898897bc8db5f8d2.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/f59a65d88c5c9fdc7580d6c09eb11cc129a5bd18/ss_f59a65d88c5c9fdc7580d6c09eb11cc129a5bd18.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/f59a65d88c5c9fdc7580d6c09eb11cc129a5bd18/ss_f59a65d88c5c9fdc7580d6c09eb11cc129a5bd18.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/a3e156650f61b4b181d9635d8c03135f6fec1440/ss_a3e156650f61b4b181d9635d8c03135f6fec1440.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/a3e156650f61b4b181d9635d8c03135f6fec1440/ss_a3e156650f61b4b181d9635d8c03135f6fec1440.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/2960f4e9f71d70a36059aedd636514d05b6a560a/ss_2960f4e9f71d70a36059aedd636514d05b6a560a.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/2960f4e9f71d70a36059aedd636514d05b6a560a/ss_2960f4e9f71d70a36059aedd636514d05b6a560a.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/c82cc02865d5d4b092f21682e5ceace7c4b616ff/ss_c82cc02865d5d4b092f21682e5ceace7c4b616ff.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/c82cc02865d5d4b092f21682e5ceace7c4b616ff/ss_c82cc02865d5d4b092f21682e5ceace7c4b616ff.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/4760e36c8df83176427e39afec2013d36d3bfbfa/ss_4760e36c8df83176427e39afec2013d36d3bfbfa.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/4760e36c8df83176427e39afec2013d36d3bfbfa/ss_4760e36c8df83176427e39afec2013d36d3bfbfa.1920x1080.jpg?t=1793144574"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/0e9cedef7a9ecf6f62d28554dab1a4733da20196/ss_0e9cedef7a9ecf6f62d28554dab1a4733da20196.600x338.jpg?t=1793144574",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3043580/0e9cedef7a9ecf6f62d28554dab1a4733da20196/ss_0e9cedef7a9ecf6f62d28554dab1a4733da20196.1920x1080.jpg?t=1793144574"
+    }
+  ],
+  "web": "https://www.doublefine.com/games/keeper",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 348217,
+  "youtube": [
+    {
+      "id": "AWAwVgTsFfk",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "cTjCk55-Dg4",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "CDmvkGUSWzI",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "PilyJu1DDEo",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T09:48:04.897Z"
+}

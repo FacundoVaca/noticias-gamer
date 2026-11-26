@@ -1,0 +1,307 @@
+{
+  "clave": "inside",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-164a-71af-aabe-21230f3f3f4e",
+  "appid": "304430",
+  "lanzamiento": "2016-06-29",
+  "desarrolladores": [
+    "Playdead"
+  ],
+  "editores": [
+    "Playdead"
+  ],
+  "etiquetas": [
+    "2.5D",
+    "Puzzle Platformer",
+    "Atmospheric",
+    "Dark",
+    "Horror"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 70405,
+      "url": "https://store.steampowered.com/app/304430/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 22,
+      "url": "https://metacritic.com/game/inside/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 2181,
+      "url": "https://metacritic.com/game/inside/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 91,
+      "cantidad": 170,
+      "url": "https://opencritic.com/game/2848/inside"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "45025",
+      "nombre": "INSIDE",
+      "apps": [
+        {
+          "appid": "304430",
+          "nombre": "INSIDE"
+        }
+      ],
+      "usd": 13.39,
+      "antes": 13.39,
+      "descuento": 0
+    },
+    {
+      "packageid": "374630",
+      "nombre": "INSIDE - Commercial License",
+      "apps": [
+        {
+          "appid": "304430",
+          "nombre": "INSIDE"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "304430": {
+      "usd": 13.39,
+      "gratis": false
+    }
+  },
+  "descripcion": "Perseguido y solo, un niño se encuentra, sin comerlo ni beberlo, en medio de un proyecto oscuro.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "7 JUL 2016",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/inside?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "INSIDE",
+  "acerca": [
+    [
+      "p",
+      "Perseguido y solo, un niño se encuentra, sin comerlo ni beberlo, en medio de un proyecto oscuro."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Opción solo teclado",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "100% DirectX 9.0c compatible sound card"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 or later (64-bit OS required)"
+      ],
+      [
+        "Procesador",
+        "Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 660, Radeon R9-270"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "3 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "100% DirectX 9.0c compatible sound card"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_d23769199f1e3d498f8293892f0456696458c717.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_d23769199f1e3d498f8293892f0456696458c717.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_b15d0a5c037198b5b9db6a82fedf5018f1b43de5.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_b15d0a5c037198b5b9db6a82fedf5018f1b43de5.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_ebeba62a8d2141b4fd36760500529fb2d9a29190.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_ebeba62a8d2141b4fd36760500529fb2d9a29190.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_8b67b9a40e620c7316df60cb5a783820f77b935c.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_8b67b9a40e620c7316df60cb5a783820f77b935c.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_82584c66b8ff7d935481e753596ab36d9b5e9fb7.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_82584c66b8ff7d935481e753596ab36d9b5e9fb7.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_5fa85af6a5041f4671ce148cf3d768d5bfbd51b7.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_5fa85af6a5041f4671ce148cf3d768d5bfbd51b7.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_272578bb9b90c54609d7071765caa6de3eecdd39.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_272578bb9b90c54609d7071765caa6de3eecdd39.1920x1080.jpg?t=1793958852"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_a99d452b35944307eee85ff3fb9fe5ec8b32a23e.600x338.jpg?t=1793958852",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304430/ss_a99d452b35944307eee85ff3fb9fe5ec8b32a23e.1920x1080.jpg?t=1793958852"
+    }
+  ],
+  "web": "http://www.playdead.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 7342,
+  "youtube": [
+    {
+      "id": "op4G1--kb-g",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "zX5laIHx2Oo",
+      "nombre": "Switch Launch Trailer"
+    },
+    {
+      "id": "E0V2rPVQWfM",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T09:48:19.098Z"
+}

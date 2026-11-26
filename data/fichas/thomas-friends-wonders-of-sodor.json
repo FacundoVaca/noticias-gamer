@@ -1,0 +1,365 @@
+{
+  "clave": "thomas friends wonders of sodor",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019c2f04-9ab2-7046-b0a3-eef4ef2f580e",
+  "appid": "3743790",
+  "lanzamiento": "2026-03-17",
+  "desarrolladores": [
+    "Dovetail Games"
+  ],
+  "editores": [
+    "Dovetail Games"
+  ],
+  "etiquetas": [
+    "Trains",
+    "Simulation",
+    "Exploration",
+    "Adventure",
+    "3D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 885,
+      "url": "https://store.steampowered.com/app/3743790/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 83,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/thomas-and-friends-wonders-of-sodor/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1317733",
+      "nombre": "Thomas & Friends™: Wonders of Sodor",
+      "apps": [
+        {
+          "appid": "3743790",
+          "nombre": "Thomas y sus amigos™: las maravillas de Sodor"
+        }
+      ],
+      "usd": 18.99,
+      "antes": 18.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1491661",
+      "nombre": "Thomas & Friends™: Wonders of Sodor - Deluxe Edition",
+      "apps": [
+        {
+          "appid": "3743790",
+          "nombre": "Thomas y sus amigos™: las maravillas de Sodor"
+        },
+        {
+          "appid": "4262440",
+          "nombre": "Thomas y sus amigos™: las maravillas de Sodor – Expansión James"
+        }
+      ],
+      "usd": 22.99,
+      "antes": 22.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3743790": {
+      "usd": 18.99,
+      "gratis": false
+    },
+    "4262440": {
+      "usd": 8.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4262440",
+      "nombre": "Thomas y sus amigos™: las maravillas de Sodor – Expansión James",
+      "gratis": false,
+      "usd": 8.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Únete a Thomas y sus amigos en un viaje por Sodor! Sube a las cabinas del equipo clásico a vapor del North Western Railway para disfrutar de nostálgicas historias y nuevos relatos directamente desde el puesto de maquinista. Explora las maravillas de Sodor, ¡la magia y la diversión te esperan!",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "17 MAR 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Thomas y sus amigos™: las maravillas de Sodor",
+  "acerca": [
+    [
+      "p",
+      "¡Únete a Thomas y sus amigos en un viaje especial por la Isla de Sodor! Sube a las cabinas del equipo clásico a vapor del North Western Railway, y disfruta de nostálgicas historias y nuevas narrativas directamente desde el puesto de maquinista. ¡Embárcate en un viaje mágico y explora las maravillas de Sodor como nunca las has visto!"
+    ],
+    [
+      "p",
+      "Toma el mando de Thomas, Percy, Gordon, Emily y Diesel para explorar los lugares icónicos de la Isla de Sodor. A pedido del Señor Topham Hatt, transporta viajeros a bordo de Annie y Clarabel en el ramal de línea de Thomas, lleva al expreso y sus pasajeros por lo alto de la Colina de Gordon, o carga mercancías con los vagones traviesos."
+    ],
+    [
+      "p",
+      "Thomas y sus amigos™: Las maravillas de Sodor cuenta relatos clásicos y originales inspirados en los libros de la Serie ferroviaria y la serie de televisión, narrados por primera vez desde una perspectiva de primera persona interactiva, ¡la primera recreación fidedigna de Sodor en un juego!"
+    ],
+    [
+      "p",
+      "Descubre las vistas, sonidos y sensaciones de Sodor mientras exploras los icónicos lugares de Thomas y sus amigos™ como nunca antes los has visto, incluidas las Cocheras de Tidmouth, la estación de Knapford y los famosos Molinos de viento. Te espera un total de 8 historias, incluidas Thomas y Gordon, La gran carrera de Thomas y Bertie, El día ajetreado de Percy, y más. Cada una de las historias presenta una narración completa realizada por el legendario Mark Moraghan para lograr así una inmersión sin igual."
+    ],
+    [
+      "p",
+      "¡Pero eso no es todo! Ayuda a que Thomas y sus amigos sean trenes útiles en una programación completa en la Isla de Sodor. ¡Observa a todos los trenes circulando por la isla mientras realizan sus tareas diarias, conduce a Thomas en su ramal de línea, o viaja como pasajero! ¡Busca los coleccionables escondidos mientras exploras la isla!"
+    ],
+    [
+      "p",
+      "Presta atención a las novedades y actualizaciones de Thomas y sus amigos™: las maravillas de Sodor en el Dovetail Discord y nuestras demás redes sociales."
+    ],
+    [
+      "p",
+      "Thomas y sus amigos™: Las maravillas de Sodor fue desarrollado por Train Sim World, y combina el detalle y el realismo incomparables de Unreal Engine y Simugraph. Usa controles accesibles para crear una experiencia nostálgica que cualquier fan de Thomas y sus amigos™ puede disfrutar."
+    ],
+    [
+      "h",
+      "Características clave"
+    ],
+    [
+      "li",
+      "Únete a Thomas, Diesel, Gordon, Percy y Emily en aventuras ferroviarias en su hogar: la Isla de Sodor"
+    ],
+    [
+      "p",
+      "Puedes jugar de cuatro modos diferentes:"
+    ],
+    [
+      "li",
+      "Historias: una selección de historias centradas en los diferentes personajes y basadas en relatos originales."
+    ],
+    [
+      "li",
+      "Minijuego: ¿podrás dominar el Desafío de maniobras?"
+    ],
+    [
+      "li",
+      "Programación: conduce trenes en días normales en uno y otro sentido de la línea, haciendo lo que hacen los trenes a diario."
+    ],
+    [
+      "li",
+      "Recorrido libre: un modo más creativo que te permite colocar los trenes donde plazcas y hacer lo que quieras con ellos."
+    ],
+    [
+      "p",
+      "En tus aventuras…"
+    ],
+    [
+      "li",
+      "Busca los coleccionables escondidos"
+    ],
+    [
+      "li",
+      "Visita lugares icónicos como la Colina de Gordon, las Cocheras de Tidmouth y el Molino de viento"
+    ],
+    [
+      "li",
+      "Date prisa y acelera en la North Western Main Line desde Knapford a Vicarstown"
+    ],
+    [
+      "li",
+      "Y haz sonar tu silbato por el ramal de línea de Thomas desde Tidmouth a Ffarquhar"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Sonido estéreo",
+    "Opciones de subtítulos",
+    "Compat. parcial con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4690 @ 3.5 GHz or AMD Ryzen 5 1500X @ 3.7 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti or AMD Radeon RX 460 with 2 GB VRAM or more"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10 or Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-9600K @ 3.7 GHz or AMD Ryzen 5 3600 @ 3.6 GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2060 6 GB or AMD Radeon RX 5700 with 8 GB VRAM or more"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX Compatible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires mouse and keyboard or Xbox Controller"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/653995424086d9dbb814a22af2ad66d1db7176e5/ss_653995424086d9dbb814a22af2ad66d1db7176e5.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/653995424086d9dbb814a22af2ad66d1db7176e5/ss_653995424086d9dbb814a22af2ad66d1db7176e5.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/9997946cbef352a0045319f98a8b4c422fbeaa6e/ss_9997946cbef352a0045319f98a8b4c422fbeaa6e.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/9997946cbef352a0045319f98a8b4c422fbeaa6e/ss_9997946cbef352a0045319f98a8b4c422fbeaa6e.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/cc201c586e1a9e188ebf9c89c02ccf4d2df12ebd/ss_cc201c586e1a9e188ebf9c89c02ccf4d2df12ebd.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/cc201c586e1a9e188ebf9c89c02ccf4d2df12ebd/ss_cc201c586e1a9e188ebf9c89c02ccf4d2df12ebd.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/695882099ccc65e663b4daf59ac71217f1da7082/ss_695882099ccc65e663b4daf59ac71217f1da7082.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/695882099ccc65e663b4daf59ac71217f1da7082/ss_695882099ccc65e663b4daf59ac71217f1da7082.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/323bf91cd9ddcb7ad5f0193bd5e4eedd655af40d/ss_323bf91cd9ddcb7ad5f0193bd5e4eedd655af40d.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/323bf91cd9ddcb7ad5f0193bd5e4eedd655af40d/ss_323bf91cd9ddcb7ad5f0193bd5e4eedd655af40d.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/b19a1956c344784541aa1a2cb2771a1161ad6a97/ss_b19a1956c344784541aa1a2cb2771a1161ad6a97.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/b19a1956c344784541aa1a2cb2771a1161ad6a97/ss_b19a1956c344784541aa1a2cb2771a1161ad6a97.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/cb5325ef828bcbf1a0ec6c4da4b99b9d03a54256/ss_cb5325ef828bcbf1a0ec6c4da4b99b9d03a54256.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/cb5325ef828bcbf1a0ec6c4da4b99b9d03a54256/ss_cb5325ef828bcbf1a0ec6c4da4b99b9d03a54256.1920x1080.jpg?t=1775813113"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/12a0905eeccff851e305b986229e531cdeab8583/ss_12a0905eeccff851e305b986229e531cdeab8583.600x338.jpg?t=1775813113",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743790/12a0905eeccff851e305b986229e531cdeab8583/ss_12a0905eeccff851e305b986229e531cdeab8583.1920x1080.jpg?t=1775813113"
+    }
+  ],
+  "web": "http://wondersofsodor.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 388501,
+  "youtube": [
+    {
+      "id": "6uxh5at-VWU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "xrewDJRrMUY",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "0KbiRMIYYbc",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "xvTa0eA6xMQ",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T09:47:40.177Z"
+}
