@@ -1,0 +1,335 @@
+{
+  "clave": "castle crashers",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0bcf-7125-af41-d2931db714d6",
+  "appid": "204360",
+  "lanzamiento": "2012-09-26",
+  "desarrolladores": [
+    "The Behemoth"
+  ],
+  "editores": [
+    "The Behemoth"
+  ],
+  "etiquetas": [
+    "2D",
+    "Online Co-Op",
+    "Co-op",
+    "Beat 'em up",
+    "Hack and Slash"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 96,
+      "cantidad": 110475,
+      "url": "https://store.steampowered.com/app/204360/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 84,
+      "cantidad": 387,
+      "url": "https://metacritic.com/game/castle-crashers/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "16675",
+      "nombre": "Castle Crashers",
+      "apps": [
+        {
+          "appid": "204360",
+          "nombre": "Castle Crashers®"
+        }
+      ],
+      "usd": 2.39,
+      "antes": 7.99,
+      "descuento": 70
+    },
+    {
+      "packageid": "43401",
+      "nombre": "Can't Stop Laughing Bundle",
+      "apps": [
+        {
+          "appid": "238460",
+          "nombre": "BattleBlock Theater®"
+        },
+        {
+          "appid": "204360",
+          "nombre": "Castle Crashers®"
+        }
+      ],
+      "usd": 4.24,
+      "antes": 12.49,
+      "descuento": 66
+    }
+  ],
+  "sueltos": {
+    "204360": {
+      "usd": 2.39,
+      "gratis": false
+    },
+    "238460": {
+      "usd": 2.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "3133920",
+      "nombre": "Castle Crashers - Painter Boss Paradise",
+      "gratis": false,
+      "usd": 2.47,
+      "descuento": 61
+    },
+    {
+      "appid": "204372",
+      "nombre": "Castle Crashers - Blacksmith Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    },
+    {
+      "appid": "204371",
+      "nombre": "Castle Crashers - Pink Knight Pack",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Ábrete paso golpeando, acuchillando y machacando hasta la victoria en esta aventura arcade en 2D de The Behemoth!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "26 SEP 2012",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Castle Crashers®",
+  "acerca": [
+    [
+      "p",
+      "¡Ábrete paso golpeando, acuchillando y machacando hasta la victoria en esta aventura arcade en 2D de The Behemoth! Castle Crashers Incluye personajes dibujados a mano e ilustraciones visuales de alta resolución jamás vistas hasta ahora. ¡Pueden jugar cuatro amigos en casa u online para salvar a la princesa, defiende el reino y destruir varios castillos!"
+    ],
+    [
+      "h",
+      "Características Principales:"
+    ],
+    [
+      "li",
+      "¡Más de 25 personajes y de 40 armas para desbloquear!"
+    ],
+    [
+      "li",
+      "Sistema intuitivo de combo y magia: desbloquea un montón de ataques nuevos a medida que progresas en el juego"
+    ],
+    [
+      "li",
+      "Puedes mejorar al personaje y ajustar la Fuerza, la Magia, la Defensa y la Agilidad"
+    ],
+    [
+      "li",
+      "Te acompañan los adorables animalitos. Cada uno aporta distintas habilidades que te ayudan en tu viaje"
+    ],
+    [
+      "li",
+      "Modo arena: ¡lucha contra otros jugadores en combates abiertos o de equipo!"
+    ],
+    [
+      "li",
+      "Modo insane: pon a prueba tu habilidad en el desafío de campaña definitivo"
+    ],
+    [
+      "li",
+      "Necromantic Booster Pack (incluye los personajes Necromancer y Cult Minion)"
+    ],
+    [
+      "li",
+      "King Booster Pack (incluye The King y Open-Faced Gray Knight)"
+    ],
+    [
+      "li",
+      "Mini juego All You Can Quaff"
+    ],
+    [
+      "li",
+      "También incluye: personaje jugable Alien Hominid"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS",
+        "Microsoft® Windows® 10"
+      ],
+      [
+        "Processor",
+        "Intel Core 2 Duo 2GHz+ or better"
+      ],
+      [
+        "Memory",
+        "8 GB RAM"
+      ],
+      [
+        "Graphics",
+        "2GB RAM"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Hard Drive",
+        "512 MB HD space"
+      ],
+      [
+        "Sound",
+        "DirectX compatible"
+      ],
+      [
+        "Other Requirements",
+        "Broadband Internet connection"
+      ],
+      [
+        "Additional",
+        "Supports Direct Input compatible controllers"
+      ],
+      [
+        "Additional",
+        "Ultra Graphics Mode requires a 64-bit OS, at least 8GB of RAM, and 2GB VRAM."
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_a800d5bc5b31d84fb940c7d0449f1aea05ac3e0e.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_a800d5bc5b31d84fb940c7d0449f1aea05ac3e0e.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_aa619ba113280fd78ddb6a6c36a435a1bd673773.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_aa619ba113280fd78ddb6a6c36a435a1bd673773.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_bc95c01b383d89fea75ccc9c661c66f9d56b8330.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_bc95c01b383d89fea75ccc9c661c66f9d56b8330.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_9cf7ff6ba267da33e140f66c29f50fd2ed391da2.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_9cf7ff6ba267da33e140f66c29f50fd2ed391da2.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_2f53c16cb83d492cae0421ca090d2591f863e448.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_2f53c16cb83d492cae0421ca090d2591f863e448.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_64bbb9c30da14f931480c57b0ae0a6d0eedc29f4.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_64bbb9c30da14f931480c57b0ae0a6d0eedc29f4.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_160054c7e25b974feeac34c8e6406a6326ffe603.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_160054c7e25b974feeac34c8e6406a6326ffe603.1920x1080.jpg?t=1764096331"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_64f2fc9c6f0bda493bb61979f352e5250e575e3a.600x338.jpg?t=1764096331",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/ss_64f2fc9c6f0bda493bb61979f352e5250e575e3a.1920x1080.jpg?t=1764096331"
+    }
+  ],
+  "web": "https://www.thebehemoth.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 3153,
+  "youtube": [
+    {
+      "id": "BsLHvg93bX4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T21:47:21.901Z"
+}

@@ -1,0 +1,293 @@
+{
+  "clave": "quasimorph",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ed9-71ca-8010-4baa971bf6ba",
+  "appid": "2059170",
+  "lanzamiento": "2023-10-02",
+  "desarrolladores": [
+    "Magnum Scriptum"
+  ],
+  "editores": [
+    "HypeTrain Digital",
+    "HYPETRAIN DIGITAL LTD"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Turn-Based Combat",
+    "Strategy",
+    "Turn-Based Strategy",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 8068,
+      "url": "https://store.steampowered.com/app/2059170/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "735646",
+      "nombre": "Quasimorph",
+      "apps": [
+        {
+          "appid": "2059170",
+          "nombre": "Quasimorph"
+        }
+      ],
+      "usd": 9.41,
+      "antes": 14.49,
+      "descuento": 35
+    }
+  ],
+  "sueltos": {
+    "2059170": {
+      "usd": 9.41,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2522910",
+      "nombre": "Quasimorph - Supporter Pack",
+      "gratis": false,
+      "usd": 6.49,
+      "descuento": 35
+    }
+  ],
+  "descripcion": "Ponte en la piel del agente aguerrido de la PMC en un sombrío juego de rol de extracción por turnos. Participa de combates implacables, dirige tu nave y colecciona los cadáveres de tus clones para desvelar el misterio siniestro que se esconde tras la amenaza que acecha a la vida.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "31 JUL 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Quasimorph",
+  "acerca": [
+    [
+      "p",
+      "Quasimorph es una mezcla de RPG de calabozos por turnos clásico con un giro de extracción único:"
+    ],
+    [
+      "p",
+      "Si mueres, pierdes todo lo que consigas en la misión."
+    ],
+    [
+      "p",
+      "Si sobrevives, te quedas con todo lo que saquees."
+    ],
+    [
+      "p",
+      "Sin excepciones. Sin excusas. Sin piedad."
+    ],
+    [
+      "h",
+      "Nada en este espacio infinito te pertenece."
+    ],
+    [
+      "p",
+      "En un futuro lejano, el propio espacio se privatiza. Las corporaciones toman el control del Sistema Solar e intentan extender su alcance mucho más allá de sus fronteras. De ti dependerá descubrir la verdad y las cosas imperdonables que la humanidad cometió en las profundidades del espacio."
+    ],
+    [
+      "h",
+      "Iguala las condiciones. A cualquier costo."
+    ],
+    [
+      "p",
+      "Conviértete en el jefe de tu propia Empresa Militar Privada: lleva a cabo órdenes de corporaciones y gana una reputación con tu propio sudor y sangre. Explora bases planetarias, laboratorios secretos y los restos de naves para encontrar nuevas tecnologías, habilidades y otros objetos que te ayudarán a igualar las condiciones en las operaciones."
+    ],
+    [
+      "h",
+      "Equivócate. Supérate y mejora."
+    ],
+    [
+      "p",
+      "Recuerda que tienes una ventaja: clona a los mejores empleados y envíalos a una muerte segura para descubrir las debilidades de tus oponentes. No es necesario arriesgar un recurso humano valioso y exponer a tu PMC a riesgos legales innecesarios. A nadie le importa el destino de un clon."
+    ],
+    [
+      "h",
+      "Desvela el misterio de la cuasimorfosis."
+    ],
+    [
+      "p",
+      "Una extraña enfermedad se está extendiendo por las estaciones espaciales. Los miembros de la tripulación están contrayendo una fiebre desconocida y las grietas están abriendo el paso de los demonios de Bramfatura hacia nuestra dimensión. Descubre el secreto siniestro que se esconde tras esta amenaza que acecha a la vida y amontona los cuerpos de tus clones para vencer a cualquiera que se interponga en tu camino."
+    ],
+    [
+      "h",
+      "No te dejes acribillar por el fuego cruzado."
+    ],
+    [
+      "p",
+      "Las corporaciones contratan a mercenarios despiadados para llevar a cabos sus operaciones encubiertas. Los demonios corrompen la naturaleza humana y pervierten la evolución humana."
+    ],
+    [
+      "p",
+      "Reúne un equipo de profesionales, cuenta tu munición y presta atención a tu equipamiento para no caer ante ninguna de las perversiones de esta matanza espacial."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Workshop",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Incluye editor de niveles",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7, 8, 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 760 / AMD Radeon R9 280X"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_d77952a24e517255182bb7213dcc15fa2bbd0174.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_d77952a24e517255182bb7213dcc15fa2bbd0174.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/a2f664f9fa891c64b55499f20ea8e768b56798e0/ss_a2f664f9fa891c64b55499f20ea8e768b56798e0.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/a2f664f9fa891c64b55499f20ea8e768b56798e0/ss_a2f664f9fa891c64b55499f20ea8e768b56798e0.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/9abcda4de0461f02ad14879db59e75480b02ad85/ss_9abcda4de0461f02ad14879db59e75480b02ad85.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/9abcda4de0461f02ad14879db59e75480b02ad85/ss_9abcda4de0461f02ad14879db59e75480b02ad85.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/7777bd8e0c21b7f64e2b7fa2375e46f0d2d762d3/ss_7777bd8e0c21b7f64e2b7fa2375e46f0d2d762d3.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/7777bd8e0c21b7f64e2b7fa2375e46f0d2d762d3/ss_7777bd8e0c21b7f64e2b7fa2375e46f0d2d762d3.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2853756f3fcdb602c8a7a60451016e9833ad02d2/ss_2853756f3fcdb602c8a7a60451016e9833ad02d2.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/2853756f3fcdb602c8a7a60451016e9833ad02d2/ss_2853756f3fcdb602c8a7a60451016e9833ad02d2.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_17e20c881c58336a24784f9d214ad080aaa912d0.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_17e20c881c58336a24784f9d214ad080aaa912d0.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_44b6bb68491070e8bdad0be0138c0c101cf9588b.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_44b6bb68491070e8bdad0be0138c0c101cf9588b.1920x1080.jpg?t=1794506272"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_3e2fc65813bcf8fc5b36ca6cab1298c04556f9c1.600x338.jpg?t=1794506272",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2059170/ss_3e2fc65813bcf8fc5b36ca6cab1298c04556f9c1.1920x1080.jpg?t=1794506272"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 216947,
+  "youtube": [
+    {
+      "id": "nD7BnyQugJg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "7fg4oZ4wXJQ",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "w88iYceBaPU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "Uo1ArIRCby0",
+      "nombre": "Dev Diary"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T21:47:32.373Z"
+}

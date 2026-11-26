@@ -1,0 +1,332 @@
+{
+  "clave": "rubinite",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-74c4-72c4-8bed-60e92c69a9b2",
+  "appid": "1845250",
+  "lanzamiento": "2026-07-23",
+  "desarrolladores": [
+    "Cup Dog Games",
+    "GameWorks Ventures"
+  ],
+  "editores": [
+    "Cup Dog Games"
+  ],
+  "etiquetas": [
+    "Boss Rush",
+    "Difficult",
+    "Pixel Graphics",
+    "Female Protagonist",
+    "Souls-like"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 4586,
+      "url": "https://store.steampowered.com/app/1845250/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/rubinite/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 91,
+      "cantidad": 15,
+      "url": "https://metacritic.com/game/rubinite/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "663975",
+      "nombre": "Rubinite",
+      "apps": [
+        {
+          "appid": "1845250",
+          "nombre": "Rubinite"
+        }
+      ],
+      "usd": 10.39,
+      "antes": 12.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1845250": {
+      "usd": 10.06,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4854050",
+      "nombre": "Rubinite Soundtrack",
+      "gratis": false,
+      "usd": 2.63,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Usa los ojos carmesíes de Ruby para exponer los puntos débiles de los Sanguiserables, atraviésalos y acaba con ellos en esta avalancha de jefes de fantasía oscura. Ábrete camino hasta tu hogar a través de las ruinas del Reino Escarlata y enfréntate a la Bruja que te lo arrebató todo.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "22 JUL 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Rubinite",
+  "acerca": [
+    [
+      "p",
+      "Rubinite es un juego de acción y combates contra jefes ambientado en un mundo de fantasía oscura."
+    ],
+    [
+      "p",
+      "La clave del combate se basa en una mecánica principal única: la concentración. Úsala para percibir al enemigo, exponer su punto débil y asestar una acometida letal."
+    ],
+    [
+      "p",
+      "Encarnas a Ruby, una princesa que se embarca en un viaje de venganza para reclamar su hogar: el Reino Escarlata."
+    ],
+    [
+      "h",
+      "Lucha a muerte contra los Sanguiserables"
+    ],
+    [
+      "p",
+      "No podrás hacerles casi nada solamente con el cuchillo de Ruby. Encuentra sus puntos débiles, asesta una acometida letal y trata de salir con vida."
+    ],
+    [
+      "h",
+      "Tu linaje: una bendición y una maldición"
+    ],
+    [
+      "p",
+      "Para recuperar el Reino Escarlata, Ruby debe enfrentarse a las distintas formas que adoptan los Sanguiserables, tanto si es una antigua secta secreta, parásitos inmortales o el origen de una plaga mortífera. Agarra tu cuchillo con firmeza y desafía a estos enemigos que se vuelven más letales a cada paso."
+    ],
+    [
+      "h",
+      "Un mundo desdibujado en la ruina"
+    ],
+    [
+      "p",
+      "Estos peligrosos combates se desarrollan en escenarios de pixel art tan bellos como letales, dibujados para plasmar la melancolía y el esplendor del Reino Escarlata."
+    ],
+    [
+      "h",
+      "Absorbe sangre pura y forja amuletos"
+    ],
+    [
+      "p",
+      "Cada Sanguiserable que matas te entrega su poder. Absórbelo y hazte más fuerte para la siguiente pelea, fabrica una amplia variedad de amuletos y construye tu propio estilo de combate."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Requires a 64-bit processor and operating system"
+      ],
+      [
+        "Procesador",
+        "AMD Athlon X4 | Intel Core i5 4460"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 950 | AMD R7 370"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Requires a 64-bit processor and operating system"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 3 | Intel i5 Skylake"
+      ],
+      [
+        "Memoria",
+        "8 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 970 | AMD RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_654b9bfbd9ed7a1edc2d86128161edf0334efcae.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_654b9bfbd9ed7a1edc2d86128161edf0334efcae.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_194ad9fa7368833302eadbce2b95db8e0f3f2359.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_194ad9fa7368833302eadbce2b95db8e0f3f2359.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_f90fa81fa1792762913b6f87f07ea9906ba9a323.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_f90fa81fa1792762913b6f87f07ea9906ba9a323.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_667c410e3f5f5c5a8dffa4cd32bcd5cf66b72cd7.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_667c410e3f5f5c5a8dffa4cd32bcd5cf66b72cd7.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_aabf89f9e3068792dabbe3a93a863b804ba319c2.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_aabf89f9e3068792dabbe3a93a863b804ba319c2.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/55476cbaa59fd72fb991399c49b99b8ff544e063/ss_55476cbaa59fd72fb991399c49b99b8ff544e063.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/55476cbaa59fd72fb991399c49b99b8ff544e063/ss_55476cbaa59fd72fb991399c49b99b8ff544e063.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_d3af68eea33fb861a0e0bef9f7a8f352a46bccb4.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_d3af68eea33fb861a0e0bef9f7a8f352a46bccb4.1920x1080.jpg?t=1794937506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_5eb352255493b283d26c872fb53fbf24fc056541.600x338.jpg?t=1794937506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845250/ss_5eb352255493b283d26c872fb53fbf24fc056541.1920x1080.jpg?t=1794937506"
+    }
+  ],
+  "web": "https://www.cupdoggames.com/en",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 265796,
+  "youtube": [
+    {
+      "id": "WlKHtBKE_x0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HCN0noYDqf8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EhXi4Q_Rx_U",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "_XhDYcH3dgU",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-26T21:47:53.125Z"
+}
