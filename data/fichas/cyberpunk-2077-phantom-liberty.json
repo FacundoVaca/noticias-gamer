@@ -1,0 +1,332 @@
+{
+  "clave": "cyberpunk 2077 phantom liberty",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ed7-7164-8fc3-5390f976e531",
+  "appid": "2138330",
+  "lanzamiento": "2023-09-26",
+  "desarrolladores": [
+    "CD PROJEKT RED",
+    "CD Project Red"
+  ],
+  "editores": [
+    "CD PROJEKT RED",
+    "CD Project Red"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Sexual Content",
+    "Open World",
+    "Cyberpunk",
+    "Story Rich"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 22836,
+      "url": "https://store.steampowered.com/app/2138330/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 89,
+      "cantidad": 54,
+      "url": "https://metacritic.com/game/cyberpunk-2077-phantom-liberty/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 89,
+      "cantidad": 4204,
+      "url": "https://metacritic.com/game/cyberpunk-2077-phantom-liberty/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 89,
+      "cantidad": 148,
+      "url": "https://opencritic.com/game/15196/cyberpunk-2077-phantom-liberty"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "1091500",
+    "nombre": "Cyberpunk 2077"
+  },
+  "ediciones": [
+    {
+      "packageid": "938169",
+      "nombre": "Cyberpunk 2077: Phantom Liberty",
+      "apps": [
+        {
+          "appid": "2138330",
+          "nombre": "Cyberpunk 2077: Phantom Liberty"
+        }
+      ],
+      "usd": 13.49,
+      "antes": 22.49,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "2138330": {
+      "usd": 13.49,
+      "gratis": false
+    }
+  },
+  "descripcion": "Phantom Liberty es una nueva expansión de suspense y espionaje para el RPG de aventura, acción y mundo abierto Cyberpunk 2077. Encarna a V, merc a sueldo con cibermejoras, y desentraña con el agente secreto Solomon Reed una red de traiciones e intrigas políticas.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "25 SEP 2023",
+  "metacritic": null,
+  "nombreSteam": "Cyberpunk 2077: Phantom Liberty",
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Core i7-6700 or Ryzen 5 1600"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Attention: see upcoming change to the requirements. Storage: 35 GB SSD. In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately."
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Core i7-12700 or Ryzen 7 7800X3D"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Storage: 35 GB SSD"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_5c4b46c61d7d1d5903835a68eac6582b4e62367f.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_5c4b46c61d7d1d5903835a68eac6582b4e62367f.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_0976dd58d12a6faf07cbd2c7713a2fdb4d151896.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_0976dd58d12a6faf07cbd2c7713a2fdb4d151896.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_2d24468f7ca6dfe4cb79017db119e14f76ad9886.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_2d24468f7ca6dfe4cb79017db119e14f76ad9886.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_3ab6296c6827b4f2fd825f52be317b748ccce079.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_3ab6296c6827b4f2fd825f52be317b748ccce079.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_02c440c80edb9b5ec5008bb9031530cce79a880e.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_02c440c80edb9b5ec5008bb9031530cce79a880e.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_7bbae8adf0c05471dfea2ebb1dc2611ee0f72835.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_7bbae8adf0c05471dfea2ebb1dc2611ee0f72835.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_e6d03e7adf4c9a0dceb86eddb876da28d06f56df.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_e6d03e7adf4c9a0dceb86eddb876da28d06f56df.1920x1080.jpg?t=1794474915"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_36dd158f7fb3d6a0ac30ad67dae3ce6cddfe1ac9.600x338.jpg?t=1794474915",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/ss_36dd158f7fb3d6a0ac30ad67dae3ce6cddfe1ac9.1920x1080.jpg?t=1794474915"
+    }
+  ],
+  "web": "https://www.cyberpunk.net",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "avisoContenido": "Cyberpunk 2077 contains strong language, intense violence, blood and gore, as well as nudity and sexual material.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 215769,
+  "youtube": [
+    {
+      "id": "sJbexcm4Trk",
+      "nombre": "Cinematic Trailer"
+    },
+    {
+      "id": "zBrkG3aeWCc",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "FSCJ0xqH8L4",
+      "nombre": "Accolades Trailer"
+    },
+    {
+      "id": "kfX9n_G0N2Y",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:46:23.444Z"
+}

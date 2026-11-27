@@ -1,0 +1,241 @@
+{
+  "clave": "atomfall story expansion pack the red strain",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0199529f-21e5-7257-8468-6291e1659ebc",
+  "appid": "3252020",
+  "lanzamiento": "2025-09-16",
+  "desarrolladores": [
+    "Rebellion"
+  ],
+  "editores": [
+    "Rebellion"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Gore",
+    "Violent",
+    "Action"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 69,
+      "cantidad": 66,
+      "url": "https://store.steampowered.com/app/3252020/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "801800",
+    "nombre": "Atomfall"
+  },
+  "ediciones": [
+    {
+      "packageid": "1152584",
+      "nombre": "Atomfall Story Expansion Pack: The Red Strain",
+      "apps": [
+        {
+          "appid": "3252020",
+          "nombre": "Atomfall Story Expansion Pack: The Red Strain"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 10.49,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "3252020": {
+      "usd": 4.19,
+      "gratis": false
+    }
+  },
+  "descripcion": "Continue the adventure of Atomfall with \"The Red Strain” Story Expansion Pack, introducing a new location, enemies, quests, characters, items, weapons, and more. • Investigate Test Site Moriah • Enhance your Arsenal • Fight for Survival",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "16 SEP 2025",
+  "metacritic": null,
+  "nombreSteam": "Atomfall Story Expansion Pack: The Red Strain",
+  "acerca": [
+    [
+      "p",
+      "Continúa la aventura de Atomfall en la expansión «The Red Strain», que incluye una nueva ubicación, enemigos, misiones, personajes, objetos, armas y mucho más."
+    ],
+    [
+      "p",
+      "El centro de pruebas Moriah se encuentra en las colinas, lejos de las miradas indiscretas de los lugareños. Se trata de una estación de investigación secreta construida en lo que antes era una antigua base de pruebas de misiles y ha estado envuelta en un halo de misterio desde su inauguración. No obstante, algo cambió cuando se declaró la cuarentena y las instalaciones pasaron a manos de gente sin escrúpulos que busca utilizar sus secretos en su beneficio. Ahora que se ha localizado una ruta de acceso a las instalaciones, existe la oportunidad de obtener respuestas por fin."
+    ],
+    [
+      "p",
+      "Investiga el centro de pruebas Moriah"
+    ],
+    [
+      "p",
+      "Antes del desastre de Windscale, el centro de investigación albergaba proyectos gubernamentales de alto secreto, tan confidenciales que ni siquiera los altos mandos de BARD sabían de su existencia. Ahora las instalaciones están en el olvido, aisladas a propósito del resto de la zona de cuarentena. ¿Qué secretos se esconden tras esas puertas? Solo tú puedes descubrirlo."
+    ],
+    [
+      "p",
+      "The Red Strain es una nueva historia completa que ofrece pistas originales que se entrelazan con la narrativa central de Atomfall, lo que expande la historia y desbloquea nuevos finales para tu aventura."
+    ],
+    [
+      "p",
+      "Mejora tu arsenal"
+    ],
+    [
+      "p",
+      "Mejora tu experiencia con una gran variedad de habilidades y equipo nuevos. Ataca desde las sombras con las nuevas armas de fuego silenciadas o desbloquea la habilidad de equiparte con el armamento pesado de los robots desactivados y lanza ataques devastadores contra tus enemigos."
+    ],
+    [
+      "p",
+      "Lucha por sobrevivir"
+    ],
+    [
+      "p",
+      "Te espera una amenaza nueva y aterradora, enemigos nunca antes vistos y obstáculos desafiantes, para que disfrutes de un reto de enormes proporciones. Tendrás que estar alerta si quieres salir de allí con vida."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 or later"
+      ],
+      [
+        "Procesador",
+        "Intel CPU Core i5-9400f or equivalent"
+      ],
+      [
+        "Gráficos",
+        "Nvidia 2060, Intel Arc A750, AMD Radeon RX 6600 or equivalent (6GB minimum)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/8107d24ff65b8a9a11711a2dc048173fb440f004/ss_8107d24ff65b8a9a11711a2dc048173fb440f004.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/8107d24ff65b8a9a11711a2dc048173fb440f004/ss_8107d24ff65b8a9a11711a2dc048173fb440f004.1920x1080.jpg?t=1760528601"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/ad5d04ad44f2559f30e15a53fdea4444d7b4186c/ss_ad5d04ad44f2559f30e15a53fdea4444d7b4186c.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/ad5d04ad44f2559f30e15a53fdea4444d7b4186c/ss_ad5d04ad44f2559f30e15a53fdea4444d7b4186c.1920x1080.jpg?t=1760528601"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/589ed694ad20dfb193e39f28a637445dac825b69/ss_589ed694ad20dfb193e39f28a637445dac825b69.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/589ed694ad20dfb193e39f28a637445dac825b69/ss_589ed694ad20dfb193e39f28a637445dac825b69.1920x1080.jpg?t=1760528601"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/6b86de71b58eb1d2963e8d0004858d0286c47530/ss_6b86de71b58eb1d2963e8d0004858d0286c47530.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/6b86de71b58eb1d2963e8d0004858d0286c47530/ss_6b86de71b58eb1d2963e8d0004858d0286c47530.1920x1080.jpg?t=1760528601"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/1a7b27e88fcb0c5fb471331450ee694d937a4b7b/ss_1a7b27e88fcb0c5fb471331450ee694d937a4b7b.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/1a7b27e88fcb0c5fb471331450ee694d937a4b7b/ss_1a7b27e88fcb0c5fb471331450ee694d937a4b7b.1920x1080.jpg?t=1760528601"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/9229ab6f54393bc8e527a752dd1107c49e01a09f/ss_9229ab6f54393bc8e527a752dd1107c49e01a09f.600x338.jpg?t=1760528601",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252020/9229ab6f54393bc8e527a752dd1107c49e01a09f/ss_9229ab6f54393bc8e527a752dd1107c49e01a09f.1920x1080.jpg?t=1760528601"
+    }
+  ],
+  "web": "https://atomfall.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Our game contains: Violence: The ability to kill characters with fists, melee weapons, throwables, guns and a bow. Blood splatter on hands and enemies after killing. Blood trails as environment decoration. People/monsters impaled on stakes (though not gory). Alcohol reference but not use or consumption of alcohol: Visible alcohol bottles used as crafting materials. There's a pub that can be found in the Village Implied Nudity: A \"Feral\" character with covered genitals. Their torso is showing but there are no nipples. Potential Suicide Depiction: An ambiguous scene where the player jumps into a pit, potentially a form of suicide, though not definitively death. Cultist Rituals: The presence of the staked people/monsters indicates cultist rituals.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 364002,
+  "youtube": [
+    {
+      "id": "_Ti8cwDNGxI",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:46:29.012Z"
+}

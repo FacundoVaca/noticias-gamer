@@ -1,0 +1,502 @@
+{
+  "clave": "warhammer vermintide 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f85d-703b-aa5d-a38a1c1f5bc2",
+  "appid": "552500",
+  "lanzamiento": "2018-03-07",
+  "desarrolladores": [
+    "Fatshark"
+  ],
+  "editores": [
+    "Fatshark",
+    "312"
+  ],
+  "etiquetas": [
+    "Co-op",
+    "Dark Fantasy",
+    "Hack and Slash",
+    "Multiplayer",
+    "Online Co-Op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 91270,
+      "url": "https://store.steampowered.com/app/552500/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 82,
+      "cantidad": 54,
+      "url": "https://metacritic.com/game/warhammer-vermintide-2/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 478,
+      "url": "https://metacritic.com/game/warhammer-vermintide-2/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 69,
+      "url": "https://opencritic.com/game/5673/warhammer-vermintide-2"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "259128",
+      "nombre": "Warhammer: Vermintide 2",
+      "apps": [
+        {
+          "appid": "552500",
+          "nombre": "Warhammer: Vermintide 2"
+        }
+      ],
+      "usd": 1.49,
+      "antes": 14.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "280520",
+      "nombre": "Warhammer: Vermintide 2 - Commercial License",
+      "apps": [
+        {
+          "appid": "552500",
+          "nombre": "Warhammer: Vermintide 2"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "552500": {
+      "usd": 1.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 21,
+  "dlcLista": [
+    {
+      "appid": "3283450",
+      "nombre": "Warhammer: Vermintide 2 - Versus",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2585630",
+      "nombre": "Warhammer: Vermintide 2 - Necromancer Career",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "2585640",
+      "nombre": "Warhammer: Vermintide 2 - Necromancer Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 50
+    },
+    {
+      "appid": "1782450",
+      "nombre": "Warhammer: Vermintide 2 - Warrior Priest Career",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1782451",
+      "nombre": "Warhammer: Vermintide 2 - Warrior Priest Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 50
+    },
+    {
+      "appid": "1629000",
+      "nombre": "Warhammer: Vermintide 2 - Sister of the Thorn",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1629010",
+      "nombre": "Warhammer: Vermintide 2 - Sister of the Thorn Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 50
+    },
+    {
+      "appid": "1601550",
+      "nombre": "Warhammer: Vermintide 2 - Chaos Wastes",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "1592630",
+      "nombre": "Warhammer: Vermintide 2 - Forgotten Relics Pack",
+      "gratis": false,
+      "usd": 1.79,
+      "descuento": 50
+    },
+    {
+      "appid": "1443790",
+      "nombre": "Warhammer: Vermintide 2 - Outcast Engineer Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 50
+    },
+    {
+      "appid": "1443780",
+      "nombre": "Warhammer: Vermintide 2 - Outcast Engineer Career",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1345990",
+      "nombre": "Warhammer: Vermintide 2 - Grail Knight Cosmetic Upgrade",
+      "gratis": false,
+      "usd": 2.87,
+      "descuento": 50
+    },
+    {
+      "appid": "1343500",
+      "nombre": "Warhammer: Vermintide 2 - Grail Knight Career",
+      "gratis": false,
+      "usd": 1.24,
+      "descuento": 50
+    },
+    {
+      "appid": "1033060",
+      "nombre": "Warhammer: Vermintide 2 - Winds of Magic",
+      "gratis": false,
+      "usd": 5.24,
+      "descuento": 50
+    },
+    {
+      "appid": "975400",
+      "nombre": "Warhammer: Vermintide 2 - Back to Ubersreik",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "737040",
+      "nombre": "Warhammer: Vermintide 2 - Collector's Edition Upgrade",
+      "gratis": false,
+      "usd": 0.84,
+      "descuento": 90
+    },
+    {
+      "appid": "828790",
+      "nombre": "Warhammer: Vermintide 2 - Shadows Over Bögenhafen",
+      "gratis": false,
+      "usd": 2.89,
+      "descuento": 50
+    },
+    {
+      "appid": "2199500",
+      "nombre": "Warhammer: Vermintide 2 - A Treacherous Adventure",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2445960",
+      "nombre": "Warhammer: Vermintide 2 - Karak Azgaraz",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3283440",
+      "nombre": "Warhammer: Vermintide 2 - Verminous Dreams",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4040200",
+      "nombre": "Warhammer: Vermintide 2 - Return to the Reik",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "La secuela del aclamado Vermintide es un innovador juego de acción de combates cuerpo a cuerpo con impresionantes gráficos que supera los límites del género cooperativo en primera persona. ¡Únete ya a la lucha!",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "8 MAR 2018",
+  "metacritic": {
+    "puntaje": 82,
+    "url": "https://www.metacritic.com/game/pc/warhammer-vermintide-2?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "No compatible",
+  "nombreSteam": "Warhammer: Vermintide 2",
+  "acerca": [
+    [
+      "p",
+      "Vermintide ha vuelto, ¡y ahora es más sangriento, intenso y oscuro que nunca!"
+    ],
+    [
+      "p",
+      "Warhammer: Vermintide 2 es la secuela del aclamado Vermintide. Ha llegado el momento de revisitar este feroz festival de matanzas cooperativo en primera persona con acción cuerpo a cuerpo visceral e innovadora, ambientado en el apocalíptico Fin de los tiempos del mundo azotado por la guerra de Warhammer Fantasy Battles."
+    ],
+    [
+      "p",
+      "Nuestros 5 héroes han vuelto para enfrentarse a una amenaza aún mayor: las fuerzas conjuntas de un malvado y destructivo ejército del Caos y las masivas hordas de Skaven. Prepárate para enfrentarte a un desafío único mientras tu equipo y tú intentáis sobrevivir desesperadamente a la matanza sin fin. Elige entre 15 profesiones diferentes, avanza por los árboles de talentos, personaliza tu arsenal para que se adapte a tu estilo de juego único, pelea en montones de niveles increíbles y ponte a prueba con nuestro nuevo sistema de hazañas heroicas. La único que se interpone entre una derrota absoluta y la victoria sois tus aliados y tú. Si caéis, también lo hará el Imperio."
+    ],
+    [
+      "h",
+      "Características principales"
+    ],
+    [
+      "p",
+      "• Modo cooperativo interminable para 4 jugadores"
+    ],
+    [
+      "p",
+      "• 5 héroes"
+    ],
+    [
+      "p",
+      "• 15 profesiones"
+    ],
+    [
+      "p",
+      "• 15 árboles de talentos"
+    ],
+    [
+      "p",
+      "• +20 tipos de enemigos"
+    ],
+    [
+      "p",
+      "• +50 tipos de armas diferentes"
+    ],
+    [
+      "p",
+      "• Un amplio abanico de niveles increíbles"
+    ],
+    [
+      "p",
+      "• El sistema de hazañas heroicas"
+    ],
+    [
+      "p",
+      "• Habilidades de profesión activas y pasivas"
+    ],
+    [
+      "p",
+      "• Sistema de botines específico para cada héroe"
+    ],
+    [
+      "p",
+      "• Soporte para mods (solo en PC)[/IMG]"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2300 @ 2.80 GHz / AMD FX-4350 @ 4.2 GHz"
+      ],
+      [
+        "Memoria",
+        "6 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 460 or AMD Radeon HD 5870"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970/1060 or ATI Radeon R9 series"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "60 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_6b459fcf2c685275b0963d056113a23b538d1bdf.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_6b459fcf2c685275b0963d056113a23b538d1bdf.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_39dc495d3db6f8734550447ab3f22a1ef032aba1.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_39dc495d3db6f8734550447ab3f22a1ef032aba1.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_82f6e4be1711f1fcd5e6c15687df03a9d96d8f32.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_82f6e4be1711f1fcd5e6c15687df03a9d96d8f32.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_70bcfe361ea570b0617f0bf0d2604124f9a263e5.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_70bcfe361ea570b0617f0bf0d2604124f9a263e5.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_4362d3bdded6bd2e6aaac773753c29cb7f60be3b.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_4362d3bdded6bd2e6aaac773753c29cb7f60be3b.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_a82e096cfe8e6b87fc194cd320731cfbb49ac8a8.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_a82e096cfe8e6b87fc194cd320731cfbb49ac8a8.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_f38b39ee77576af242fd57933863d86e206e18e4.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_f38b39ee77576af242fd57933863d86e206e18e4.1920x1080.jpg?t=1764008361"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_ed6a44942d80613b16e2312fd6c5263d35bfd1ba.600x338.jpg?t=1764008361",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_ed6a44942d80613b16e2312fd6c5263d35bfd1ba.1920x1080.jpg?t=1764008361"
+    }
+  ],
+  "web": "http://www.vermintide.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Includes bloody violence and gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 55189,
+  "youtube": [
+    {
+      "id": "7Rv8cBG8FZE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "8ZK2Tz94n-Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "QXS7SsoBBDw",
+      "nombre": "Reveal Trailer"
+    },
+    {
+      "id": "lxIJU7op9Dk",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:46:00.605Z"
+}

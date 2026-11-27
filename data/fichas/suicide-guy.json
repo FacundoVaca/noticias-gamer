@@ -1,0 +1,350 @@
+{
+  "clave": "suicide guy",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-0686-7187-9bf1-c96d47cbd4ba",
+  "appid": "303610",
+  "lanzamiento": "2017-06-14",
+  "desarrolladores": [
+    "Fabio Ferrara",
+    "Chubby Pixel"
+  ],
+  "editores": [
+    "Chubby Pixel"
+  ],
+  "etiquetas": [
+    "Funny",
+    "Action",
+    "Comedy",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 2847,
+      "url": "https://store.steampowered.com/app/303610/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 59,
+      "cantidad": 32,
+      "url": "https://metacritic.com/game/suicide-guy/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 62,
+      "cantidad": 15,
+      "url": "https://opencritic.com/game/5597/suicide-guy"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "44772",
+      "nombre": "Suicide Guy",
+      "apps": [
+        {
+          "appid": "303610",
+          "nombre": "Suicide Guy"
+        }
+      ],
+      "usd": 3.59,
+      "antes": 3.59,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "303610": {
+      "usd": 3.55,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1249990",
+      "nombre": "Suicide Guy Soundtrack",
+      "gratis": false,
+      "usd": 2.19,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Suicide Guy se pone en el incredibile y sueños extraordinarios con su protagonista. ¿Qué haría a fin de salvar la cosa que ama más? Sumérjase en sus sueños extraños y ayúdele a despertarse antes de que sea demasiado tarde.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "14 JUL 2017",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Suicide Guy",
+  "acerca": [
+    [
+      "p",
+      "Suicide Guy es un primer grupo del rompecabezas de la acción de personas en un mundo de sueños."
+    ],
+    [
+      "p",
+      "Asumirá el papel de un tipo grande agradable incapaz de despertarse de sus sueños. Su tarea es ayudarle a andar de ellos."
+    ],
+    [
+      "p",
+      "Rasgos:"
+    ],
+    [
+      "p",
+      "• 25 juego de niveles dentro de la mente del El Suicidio Tio"
+    ],
+    [
+      "p",
+      "• Juego conducido por la historia"
+    ],
+    [
+      "p",
+      "• Física niveles basados"
+    ],
+    [
+      "p",
+      "• Movimientos últimos: esté capaz de recoger artículos, lanzarlos, activar mecanismos y hasta eructar."
+    ],
+    [
+      "p",
+      "• Criaturas graciosas para enojar"
+    ],
+    [
+      "p",
+      "• Vehículos para conducir"
+    ],
+    [
+      "p",
+      "• Una misión importante de llevar a cabo"
+    ],
+    [
+      "p",
+      "• Artículos coleccionables para encontrar"
+    ],
+    [
+      "p",
+      "Los jugadores tendrán que usar artículos diferentes en cada clase de la situación solucionando a bromistas cerebrales originales."
+    ],
+    [
+      "p",
+      "A pesar del título, el juego no es en Absoluto sobre suicidio o depresión."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatibilidad con RV",
+    "Controles de volumen personalizados",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Steam Cloud",
+    "Estadísticas",
+    "Tablas de clasificación de Steam",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP SP3"
+      ],
+      [
+        "Procesador",
+        "Intel Dual-Core 2.6 GHz / AMD Dual-Core Athlon 3.0 GHz"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "SM 3.0 with 512MB VRAM; NVIDIA GeForce 8500 GT / AMD Radeon HD 4650 or greater"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 or higher"
+      ],
+      [
+        "Procesador",
+        "Quad-Core Processor"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "SM 3.0 with 1GB VRAM; NVIDIA GeForce GTX 280 / AMD Radeon HD 4830 or greater"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_c0ef6eddda050d837d0d338bc612a58be4964a46.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_c0ef6eddda050d837d0d338bc612a58be4964a46.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_1e2534cdba492964716a61e2acb2dfcc4245c311.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_1e2534cdba492964716a61e2acb2dfcc4245c311.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_1ee10cbaf09675f97c6228b4f297ae56419a200d.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_1ee10cbaf09675f97c6228b4f297ae56419a200d.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_ea3e2cf9ea0011cfe9d369502b6fd1c2219bd04f.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_ea3e2cf9ea0011cfe9d369502b6fd1c2219bd04f.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_302b0cc1789f95b07a98175634e980c6b69f428f.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_302b0cc1789f95b07a98175634e980c6b69f428f.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_5316c439e2ea6143f2bd584e3e0533d3be4b16d4.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_5316c439e2ea6143f2bd584e3e0533d3be4b16d4.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_4d55945b471349e979dfe8172c46da26642e3179.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_4d55945b471349e979dfe8172c46da26642e3179.1920x1080.jpg?t=1795693494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_53b27a677a612a4f83eed54004cfaea5da372e60.600x338.jpg?t=1795693494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303610/ss_53b27a677a612a4f83eed54004cfaea5da372e60.1920x1080.jpg?t=1795693494"
+    }
+  ],
+  "web": "https://chubbypixel.com/games/suicide-guy/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 51467,
+  "youtube": [
+    {
+      "id": "vU6Fxi-l-54",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "gnQc2JUSdGY",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9KtEf6yK-tU",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:45:22.228Z"
+}

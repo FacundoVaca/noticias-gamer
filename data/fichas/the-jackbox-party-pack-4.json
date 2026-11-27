@@ -1,0 +1,265 @@
+{
+  "clave": "the jackbox party pack 4",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1938-73c6-bf62-3b9bcc81965c",
+  "appid": "610180",
+  "lanzamiento": "2017-10-19",
+  "desarrolladores": [
+    "Jackbox Games Inc",
+    "Jackbox Games, Inc.",
+    "Jackbox Games",
+    "Jackbox Games Inc."
+  ],
+  "editores": [
+    "Jackbox Games, Inc.",
+    "Jackbox Games Inc",
+    "Jackbox Games",
+    "Jackbox Games Inc."
+  ],
+  "etiquetas": [
+    "Trivia",
+    "Casual",
+    "Local Multiplayer",
+    "Indie",
+    "Strategy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 2495,
+      "url": "https://store.steampowered.com/app/610180/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/the-jackbox-party-pack-4/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 22,
+      "url": "https://opencritic.com/game/4945/the-jackbox-party-pack-4"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "162843",
+      "nombre": "The Jackbox Party Pack 4",
+      "apps": [
+        {
+          "appid": "610180",
+          "nombre": "The Jackbox Party Pack 4"
+        }
+      ],
+      "usd": 5.62,
+      "antes": 12.49,
+      "descuento": 55
+    }
+  ],
+  "sueltos": {
+    "610180": {
+      "usd": 5.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "714760",
+      "nombre": "The Jackbox Party Pack 4 - Soundtrack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "The fourth pack in this storied party game franchise features Fibbage 3 and its new game mode, Fibbage: Enough About You; the twisted web game Survive the Internet; the dating contest Monster Seeking Monster; the deranged debate match Bracketeering; and the one-up art game Civic Doodle.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "18 OCT 2017",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "The Jackbox Party Pack 4",
+  "acerca": [
+    [
+      "p",
+      "The biggest and fourthiest addition to this storied party game franchise features not five but FIVE AND A HALF crowd-slaying games!"
+    ],
+    [
+      "h",
+      "Fibbage 3 (2-8 players)"
+    ],
+    [
+      "p",
+      "The blanking fun sequel. Play all-new question types and the game mode Fibbage: Enough About You (3-8 players). Guess the weird facts about your friends."
+    ],
+    [
+      "h",
+      "Survive the Internet (3-8 players)"
+    ],
+    [
+      "p",
+      "The web-based frame game. Twist your friends’ “online” comments in hilarious ways."
+    ],
+    [
+      "h",
+      "Monster Seeking Monster (3-7 players)"
+    ],
+    [
+      "p",
+      "The spooky date-a-thon game. Message and date fellow monsters with special powers."
+    ],
+    [
+      "h",
+      "Bracketeering (3-16 players)"
+    ],
+    [
+      "p",
+      "The deranged debate match game. Place smart bets on stupid arguments."
+    ],
+    [
+      "h",
+      "Civic Doodle (3-8 players)"
+    ],
+    [
+      "p",
+      "The one-up art game. Compete to improve the town murals."
+    ],
+    [
+      "p",
+      "Play using your phones, tablets or computers. No extra controllers needed!"
+    ],
+    [
+      "p",
+      "Plus EVEN MORE features just for streamers!"
+    ],
+    [
+      "p",
+      "NOTE: The Jackbox Party Pack 4 is in English only."
+    ],
+    [
+      "p",
+      "NOTE: The game is local multiplayer but can be enjoyed over streams with remote players."
+    ],
+    [
+      "p",
+      "How to Play Remotely"
+    ],
+    [
+      "p",
+      "Players use any web-enabled device (like a smartphone or tablet) to join the game and play along. When playing with remote players, you can use a video conferencing tool like Zoom, Steam Broadcast, Google Hangouts, Discord, and more to connect with others! Just share your screen while on a call and make sure you look for prompts to share audio."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Coop. a pantalla (com)partida",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Remote Play Together",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7+"
+      ],
+      [
+        "Procesador",
+        "2.0 Ghz Quad Core or higher"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Integrated"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_1c2c90a799b1d321d896f737e8c10b8e53ce0889.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_1c2c90a799b1d321d896f737e8c10b8e53ce0889.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_96928ad17bb79ff52638eb1c5ed239b0add3aa56.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_96928ad17bb79ff52638eb1c5ed239b0add3aa56.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_fac6a96c0447f98c5d8787db26d8731b764a26ec.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_fac6a96c0447f98c5d8787db26d8731b764a26ec.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_206f6e638f289fb18301abbd4493918d3b7b4ee1.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_206f6e638f289fb18301abbd4493918d3b7b4ee1.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_951c9e8c7f20beac0439a4b1a367f0329b86f986.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_951c9e8c7f20beac0439a4b1a367f0329b86f986.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_3f1b02faff3226e5c6fcbc93bf9ebf4859c11771.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_3f1b02faff3226e5c6fcbc93bf9ebf4859c11771.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_de341892dc9dd12aba18c11db31b7a7634dade34.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_de341892dc9dd12aba18c11db31b7a7634dade34.1920x1080.jpg?t=1728584458"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_c0d0af2a17478d29041efd870fb5cfce99b03bc0.600x338.jpg?t=1728584458",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610180/ss_c0d0af2a17478d29041efd870fb5cfce99b03bc0.1920x1080.jpg?t=1728584458"
+    }
+  ],
+  "web": "http://www.jackboxgames.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 28213,
+  "youtube": [
+    {
+      "id": "uo1WXgBe0rA",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:45:41.047Z"
+}

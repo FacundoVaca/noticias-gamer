@@ -1,0 +1,295 @@
+{
+  "clave": "the last cat in the universe",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "Microsoft Store",
+    "IGDB"
+  ],
+  "itad": "019bd178-5cbe-71e7-949f-2ac076f1324e",
+  "appid": "4197890",
+  "lanzamiento": "2026-04-23",
+  "desarrolladores": [
+    "Apamate Studio",
+    "Diora"
+  ],
+  "editores": [
+    "Apamate Studio"
+  ],
+  "etiquetas": [
+    "incremental",
+    "Emotional",
+    "Story Rich",
+    "Relaxing",
+    "Casual"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 1324,
+      "url": "https://store.steampowered.com/app/4197890/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1470197",
+      "nombre": "The Last Cat in the Universe",
+      "apps": [
+        {
+          "appid": "4197890",
+          "nombre": "The Last Cat in the Universe"
+        }
+      ],
+      "usd": 2.79,
+      "antes": 3.99,
+      "descuento": 30
+    }
+  ],
+  "sueltos": {
+    "4197890": {
+      "usd": 2.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "4530730",
+      "nombre": "The Last Cat in the Universe - Supporter Pack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 10
+    },
+    {
+      "appid": "4530670",
+      "nombre": "The Last Cat in the Universe Soundtrack",
+      "gratis": false,
+      "usd": 3.59,
+      "descuento": 10
+    }
+  ],
+  "descripcion": "Reúne los restos de una estación espacial moribunda para construir un hogar acogedor para el último gato del universo. Un juego incremental narrativo corto sobre hallar la paz en medio de la oscuridad.",
+  "generos": [
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "23 ABR 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "The Last Cat in the Universe",
+  "acerca": [
+    [
+      "p",
+      "Eres una IA en una estación espacial en decadencia. La humanidad ha desaparecido. Todo lo que queda es polvo, silencio y una pequeña y asustada criatura ."
+    ],
+    [
+      "p",
+      "Tu única instrucción: Cuida de ella."
+    ],
+    [
+      "p",
+      "The Last Cat in the Universe es un juego incremental narrativo corto. Tu directriz es clara: recupera lo que queda de una nave moribunda para construir un hogar cálido para la superviviente final."
+    ],
+    [
+      "h",
+      "Características Principales"
+    ],
+    [
+      "p",
+      "Encuentra tu Ritmo: Experimenta una mecánica de minería diseñada para la relajación. Pasa el ratón sobre los campos de escombros en un flujo rítmico y satisfactorio. Sin clics frenéticos."
+    ],
+    [
+      "p",
+      "Progresión Significativa: Cada mejora importa. Desbloquea aumentos tangibles de poder que te permitirán atravesar capas más profundas de la nave al instante. A medida que la estación se deteriora, deberás equilibrar constantemente tu deseo de herramientas más fuertes con el coste creciente de mantener el aire respirable y el nido caliente."
+    ],
+    [
+      "p",
+      "Recupera la Nana Perdida: Descubre la historia de la estación y su tripulación, mientras recolectas los fragmentos de una canción muy importante."
+    ],
+    [
+      "p",
+      "Una Banda Sonora Conmovedora: La música es el núcleo emocional de esta experiencia. La banda sonora original, compuesta en colaboración con la cantautora venezolana Diora Salazar , evoluciona de ritmos meditativos a una profunda emoción, íntimamente ligada al clímax de la narrativa."
+    ],
+    [
+      "h",
+      "Una Experiencia Centrada"
+    ],
+    [
+      "p",
+      "Este juego está diseñado para jugarse en una o dos sesiones (aprox. 2-3 horas) . No presenta bucles de prestigio infinitos ni grindeo inactivo. Es una historia completa sobre la alegría silenciosa de cuidar una vida en circunstancias extremas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Controles de volumen personalizados",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-3225 @ 3.30GHz o equivalente"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD 520 / AMD Radeon Vega 3"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 / 11 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6400 / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 Ti / AMD Radeon R7 260X"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/194af5cc3588e01ce1493025586f69224e1e4e68/ss_194af5cc3588e01ce1493025586f69224e1e4e68.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/194af5cc3588e01ce1493025586f69224e1e4e68/ss_194af5cc3588e01ce1493025586f69224e1e4e68.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/a52b33c547092de92eb63b599b3c97f8b0a34813/ss_a52b33c547092de92eb63b599b3c97f8b0a34813.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/a52b33c547092de92eb63b599b3c97f8b0a34813/ss_a52b33c547092de92eb63b599b3c97f8b0a34813.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/532b6fd4c1b88a948e8b17a39f6b24fcf56ae3be/ss_532b6fd4c1b88a948e8b17a39f6b24fcf56ae3be.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/532b6fd4c1b88a948e8b17a39f6b24fcf56ae3be/ss_532b6fd4c1b88a948e8b17a39f6b24fcf56ae3be.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/c2ebcd569bae7e14e8699ce760157209df721e6d/ss_c2ebcd569bae7e14e8699ce760157209df721e6d.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/c2ebcd569bae7e14e8699ce760157209df721e6d/ss_c2ebcd569bae7e14e8699ce760157209df721e6d.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/ff2024e4e71839604cbee677cbcbb027343e77ff/ss_ff2024e4e71839604cbee677cbcbb027343e77ff.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/ff2024e4e71839604cbee677cbcbb027343e77ff/ss_ff2024e4e71839604cbee677cbcbb027343e77ff.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/517d9ec84f05c6777e514518c8b637a02ec497e0/ss_517d9ec84f05c6777e514518c8b637a02ec497e0.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/517d9ec84f05c6777e514518c8b637a02ec497e0/ss_517d9ec84f05c6777e514518c8b637a02ec497e0.1920x1080.jpg?t=1788451511"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/1664a293b384b5d74efe195cb90315af85b80981/ss_1664a293b384b5d74efe195cb90315af85b80981.600x338.jpg?t=1788451511",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4197890/1664a293b384b5d74efe195cb90315af85b80981/ss_1664a293b384b5d74efe195cb90315af85b80981.1920x1080.jpg?t=1788451511"
+    }
+  ],
+  "web": "https://apamatestudio.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "xboxIntentado": true,
+  "xbox": "9P3FJ21JH844",
+  "igdbIntentado": true,
+  "igdb": 388671,
+  "youtube": [
+    {
+      "id": "-yl796O1tiI",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:45:12.495Z"
+}

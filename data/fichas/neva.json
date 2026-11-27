@@ -1,0 +1,348 @@
+{
+  "clave": "neva",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6eed-717e-a3ee-586c7dbb7cb0",
+  "appid": "2420660",
+  "lanzamiento": "2024-10-15",
+  "desarrolladores": [
+    "Nomada Studio"
+  ],
+  "editores": [
+    "Devolver Digital"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Atmospheric",
+    "Platformer",
+    "Indie",
+    "Emotional"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 9669,
+      "url": "https://store.steampowered.com/app/2420660/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 43,
+      "url": "https://metacritic.com/game/neva/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 82,
+      "cantidad": 355,
+      "url": "https://metacritic.com/game/neva/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 87,
+      "cantidad": 114,
+      "url": "https://opencritic.com/game/17456/neva"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "871173",
+      "nombre": "Neva",
+      "apps": [
+        {
+          "appid": "2420660",
+          "nombre": "Neva"
+        }
+      ],
+      "usd": 4.19,
+      "antes": 10.49,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2420660": {
+      "usd": 4.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "3905410",
+      "nombre": "Neva: Prologue",
+      "gratis": false,
+      "usd": 1.31,
+      "descuento": 34
+    },
+    {
+      "appid": "2482520",
+      "nombre": "Neva Soundtrack",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 20
+    },
+    {
+      "appid": "3160860",
+      "nombre": "Neva Digital Artbook",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 20
+    },
+    {
+      "appid": "4437840",
+      "nombre": "Neva: Prologue Soundtrack",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Vive la emocionante historia de una joven y su vínculo eterno con una gloriosa loba en un viaje lleno de emocionantes aventuras a través de un mundo en decadencia.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "15 OCT 2024",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/neva?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Neva",
+  "acerca": [
+    [
+      "p",
+      "Neva es una emotiva aventura de acción del equipo visionario a cargo de GRIS, videojuego aclamado por la crítica."
+    ],
+    [
+      "p",
+      "Neva narra la historia de Alba, una joven cuyo destino se entrelaza con el de una curiosa lobata tras un traumático suceso con ciertas fuerzas oscuras. Las dos juntas se aventuran en un peligroso viaje a través de un mundo en decadencia que poco a poco pierde su belleza."
+    ],
+    [
+      "p",
+      "Con el tiempo, su relación evolucionará mientras aprenden a cooperar y a ayudarse mutuamente para superar situaciones cada vez más peligrosas. La lobata pasará de ser un cachorro rebelde a una imponente loba en busca de una identidad propia, lo que pone a prueba el amor de Alba y la relación de compromiso que las une."
+    ],
+    [
+      "p",
+      "Ante un mundo maldito que amenaza con acabar con ellas, Alba y su valiente compañera harán todo lo posible por sobrevivir y construir un nuevo hogar juntas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Se recomienda usar un mando",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Catalán",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4570T / AMD FX-4350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 650 (1024 MB) / Radeon HD 7750 (1024 MB) / Intel UHD Graphics 620"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low Quality setting, in 720p, producing 120 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600K / AMD FX-8370"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1050 Ti (4096 MB) / Radeon RX 470 (4096 MB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High Quality setting, in 1080p, producing 120 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_62a1d600f868ac02023335d29a4c744f71fc4f97.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_62a1d600f868ac02023335d29a4c744f71fc4f97.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_25875a2bbb2656d449ce512ffcfad6fd7c66807a.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_25875a2bbb2656d449ce512ffcfad6fd7c66807a.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_835f96b38d13781397beb6ca5a0046ff23b692ee.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_835f96b38d13781397beb6ca5a0046ff23b692ee.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_f8c9358149ccd86f1046d031bc749b6ff13bc64e.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_f8c9358149ccd86f1046d031bc749b6ff13bc64e.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_78c8c22f665548d1d8557a35136ee61e81e97cb9.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_78c8c22f665548d1d8557a35136ee61e81e97cb9.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_52acca00d787f0f0c3a830904024e48f0a1e0e17.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_52acca00d787f0f0c3a830904024e48f0a1e0e17.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_2c112088eb5d3ed2e1376fe34a22afa96110daa6.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_2c112088eb5d3ed2e1376fe34a22afa96110daa6.1920x1080.jpg?t=1771587898"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_bfe21ed7ce40011fa0a83e3d112ef3b95abd4e99.600x338.jpg?t=1771587898",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420660/ss_bfe21ed7ce40011fa0a83e3d112ef3b95abd4e99.1920x1080.jpg?t=1771587898"
+    }
+  ],
+  "web": "http://www.neva.game",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 250621,
+  "youtube": [
+    {
+      "id": "oBbSZEv82K4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "EP7FnoXEX34",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "iWyEgkFQI60",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T01:46:11.872Z"
+}
