@@ -1,0 +1,391 @@
+{
+  "clave": "rimworld royalty",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3e88-718b-b99d-9a45bb69be55",
+  "appid": "1149640",
+  "lanzamiento": "2020-02-24",
+  "desarrolladores": [
+    "Ludeon Studios"
+  ],
+  "editores": [
+    "Ludeon Studios"
+  ],
+  "etiquetas": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 2436,
+      "url": "https://store.steampowered.com/app/1149640/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 12,
+      "url": "https://metacritic.com/game/rimworld-royalty/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "294100",
+    "nombre": "RimWorld"
+  },
+  "ediciones": [
+    {
+      "packageid": "391757",
+      "nombre": "RimWorld - Royalty",
+      "apps": [
+        {
+          "appid": "1149640",
+          "nombre": "RimWorld - Royalty"
+        }
+      ],
+      "usd": 8.39,
+      "antes": 10.49,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "1149640": {
+      "usd": 8.39,
+      "gratis": false
+    }
+  },
+  "descripcion": "El Imperio ha llegado. Obtén títulos reales a través de misiones y rituales y recibirás poderes psíquicos, tecnologías únicas y el apoyo de tropas reales. Sé un buen anfitrión para el emperador y él te llevará a las estrellas.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "24 FEB 2020",
+  "metacritic": null,
+  "nombreSteam": "RimWorld - Royalty",
+  "acerca": [
+    [
+      "p",
+      "El Imperio ha llegado. Su flota de refugiados se asienta en un rimworld y busca aliados. Su cultura, ligada al honor, utiliza tecnología hiperavanzada, aunque se somete a las antiguas tradiciones de reyes y reinas."
+    ],
+    [
+      "h",
+      "Títulos reales"
+    ],
+    [
+      "p",
+      "Los colonos pueden completar misiones para ganar honor del Imperio. El honor otorga títulos imperiales como Caballero o Barón. Construye grandes salas del trono para tus nobles al ascender. Vísteles con ropa elegante para un monarca, o armaduras prestigiosas para un gran guerrero. Los colonos darán discursos desde el trono, inspirando a tus colonos, además de tocar el piano, el arpa o el clavecín."
+    ],
+    [
+      "p",
+      "Cada título te permite escoger o mejorar un permiso:"
+    ],
+    [
+      "li",
+      "Soldados, jenízaros y catafractos acudirán en tu ayuda cuando lo necesites."
+    ],
+    [
+      "li",
+      "Ataques orbitales que destruirán a tus enemigos desde arriba."
+    ],
+    [
+      "li",
+      "Lanzaderas te llevarán donde quieras ir."
+    ],
+    [
+      "li",
+      "Equipos de trabajo te ayudarán cuando necesites manos extra."
+    ],
+    [
+      "h",
+      "Poderes psíquicos"
+    ],
+    [
+      "p",
+      "Hay varias formas de desarrollar poderes psíquicos. Aquellos que obtengan títulos reales obtendrán poderes psíquicos durante la ceremonia de ascensión. Los colonos tribales podrán usar el misterioso árbol ánima para desarrollar su enlace psíquico. O, te puedes enfrentar al Imperio usando tecnología robada a través de misiones."
+    ],
+    [
+      "p",
+      "Hay una gran variedad de poderes psíquicos. Algunos para el combate:"
+    ],
+    [
+      "li",
+      "Teletransportación, caoskinesis, caoskinesis múltiple, psicokinesis y psicomuro mueven objetos o personas a bastante distancia para ganar ventaja táctica. Salva aliados incapacitados, cruzar zonas inaccesibles, mueve a los enemigos a zonas de combate cuerpo a cuerpo, crea coberturas donde quieras."
+    ],
+    [
+      "li",
+      "La concentración y el supresor de dolor modifican la mente durante el combate."
+    ],
+    [
+      "li",
+      "El pulso cegador y el pulso de vértigo harán vomitar a los enemigos descontroladamente."
+    ],
+    [
+      "li",
+      "El neurosismo sobrecarga cualquier consciencia del mapa generando una gran ola de energía psíquica."
+    ],
+    [
+      "li",
+      "Enloquecer, pulso enloquecedor y pulso cazahombres descontrolarán a personas o animales."
+    ],
+    [
+      "li",
+      "La invisibilidad evita a tus colonos ser detectados durante asaltos o fugas."
+    ],
+    [
+      "li",
+      "Cargar y aturdir ralentizan y desorientan a los enemigos."
+    ],
+    [
+      "li",
+      "La nube de humo bloquea la visión durante el combate."
+    ],
+    [
+      "li",
+      "El psicoescudo crea una pequeña zona para atacar o retirarse."
+    ],
+    [
+      "li",
+      "La tormenta eléctrica invocará una tormenta lluviosa."
+    ],
+    [
+      "li",
+      "La acuákinesis mojará una zona, extinguiendo cualquier fuego."
+    ],
+    [
+      "li",
+      "Atraer provocará que los enemigos se acerquen hacia tí."
+    ],
+    [
+      "li",
+      "La neurodescarga reduce el calentamiento neural del usuario para que pueda seguir usando sus poderes."
+    ],
+    [
+      "p",
+      "Otros poderes son utilizados para la gestión de la colonia:"
+    ],
+    [
+      "li",
+      "El ojo solar crea una duradera fuente de luz y calor."
+    ],
+    [
+      "li",
+      "Las palabras de confianza ayudan al reclutamiento."
+    ],
+    [
+      "li",
+      "Las palabras de alegría hacen a la gente feliz."
+    ],
+    [
+      "li",
+      "Las palabras de amor aumentan la atracción romántica."
+    ],
+    [
+      "li",
+      "Las palabras de serenidad finalizan los colapsos mentales."
+    ],
+    [
+      "li",
+      "Las palabras de inspiración aumentan la creatividad."
+    ],
+    [
+      "p",
+      "Los poderes psíquicos requieren meditación. Cada colono medita de una forma distinta, en función de su título, trasfondo y rasgos:"
+    ],
+    [
+      "li",
+      "Los colonos con título meditan en sus tronos, de acuerdo a su tradición imperial."
+    ],
+    [
+      "li",
+      "Los tribales meditan en la naturaleza, con el árbol de ánima o en santuarios."
+    ],
+    [
+      "li",
+      "Los colonos mórbidos , con rasgos caníbales, psicópatas o sanguinarios meditan en tumbas. Es más efectivo si la tumba contiene a alguien conocido."
+    ],
+    [
+      "li",
+      "Los ascéticos meditan en paredes vacías."
+    ],
+    [
+      "li",
+      "Los pirómanos meditan en llamas controladas, como campamentos, braseros o antorchas."
+    ],
+    [
+      "li",
+      "Todo el mundo puede meditar en esculturas."
+    ],
+    [
+      "h",
+      "Misiones"
+    ],
+    [
+      "p",
+      "Tener títulos reales supone tener que completar misiones. Ya que RimWorld genera su propia historia, las misiones no son fijas como en otros juegos. En cambio, genera misiones únicas para cada partida. Diferentes objetivos, enemigos, invitados, recompensas, apoyo, amenazas especiales y condiciones planetarias para crear un sinfín de historias variadas y retos. En ocasiones, las personas que otorgan misiones pueden brindar apoyo especial, por ejemplo, una misión puede pedirte que acabes con un asentamiento mecanoide, a la vez que te proporcionará catafractos del Imperio para equilibrar la batalla."
+    ],
+    [
+      "p",
+      "Las misiones te recompensarán con nuevos aliados, implantes únicos, artefactos arqueotécnicos, equipo, títulos reales, buena relación entre facciones, y mucho más."
+    ],
+    [
+      "li",
+      "Las misiones de hospitalidad imperial requieren alojar un grupo de imperiales. Los huéspedes pueden estar heridos o saludables, ser útiles o inservibles, pocos o numerosos. Pueden estar siendo perseguidos por mercenarios, piratas, mecanoides, u otros. Puede que tengas que llevar a los refugiados a una lanzadera durante la batalla."
+    ],
+    [
+      "li",
+      "Las misiones de hospitalidad de refugiados presentan un grupo de viajeros en peligro. Hay muchos desenlaces. Pueden recompensarte más tarde por tu ayuda, o traicionarte en plena noche. Una tercera parte puede ofrecerte una recompensa por traicionarlos. Si los tratas bien, también pueden unirse a tu colonia. Al no ser de ninguna facción, puedes tratarlos con amabilidad o brutalidad."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Core 2 Duo"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 4000 or other shader model 4.0"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/1231af92dfcb1195579094b8a4b055d68fb6d290/ss_1231af92dfcb1195579094b8a4b055d68fb6d290.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/1231af92dfcb1195579094b8a4b055d68fb6d290/ss_1231af92dfcb1195579094b8a4b055d68fb6d290.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/10956e11b865a9d3d6ff762909093690fc17b7e6/ss_10956e11b865a9d3d6ff762909093690fc17b7e6.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/10956e11b865a9d3d6ff762909093690fc17b7e6/ss_10956e11b865a9d3d6ff762909093690fc17b7e6.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/35d6cea2f8d0e9f5fe7bfffd39592eb0ccecf53f/ss_35d6cea2f8d0e9f5fe7bfffd39592eb0ccecf53f.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/35d6cea2f8d0e9f5fe7bfffd39592eb0ccecf53f/ss_35d6cea2f8d0e9f5fe7bfffd39592eb0ccecf53f.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/0faf066a1fa3aa018debe39f80d73d9cab552185/ss_0faf066a1fa3aa018debe39f80d73d9cab552185.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/0faf066a1fa3aa018debe39f80d73d9cab552185/ss_0faf066a1fa3aa018debe39f80d73d9cab552185.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/283c6615ea7740f960d8a86bb50e8479cdf99632/ss_283c6615ea7740f960d8a86bb50e8479cdf99632.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/283c6615ea7740f960d8a86bb50e8479cdf99632/ss_283c6615ea7740f960d8a86bb50e8479cdf99632.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/5d3a7f9420878f391290027124dbd0eb3fbfd6ef/ss_5d3a7f9420878f391290027124dbd0eb3fbfd6ef.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/5d3a7f9420878f391290027124dbd0eb3fbfd6ef/ss_5d3a7f9420878f391290027124dbd0eb3fbfd6ef.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/ffcd2fbe51eb0777e4216fa705630621213f28d7/ss_ffcd2fbe51eb0777e4216fa705630621213f28d7.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/ffcd2fbe51eb0777e4216fa705630621213f28d7/ss_ffcd2fbe51eb0777e4216fa705630621213f28d7.1920x1080.jpg?t=1779288400"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/f1ef4953346f7347c12e179f4c06e520f6d3a715/ss_f1ef4953346f7347c12e179f4c06e520f6d3a715.600x338.jpg?t=1779288400",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/f1ef4953346f7347c12e179f4c06e520f6d3a715/ss_f1ef4953346f7347c12e179f4c06e520f6d3a715.1920x1080.jpg?t=1779288400"
+    }
+  ],
+  "web": "https://ludeon.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 131676,
+  "youtube": [
+    {
+      "id": "ex5_XpQ-uJk",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T21:47:47.647Z"
+}
