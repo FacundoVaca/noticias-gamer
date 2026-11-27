@@ -1,0 +1,283 @@
+{
+  "clave": "viewfinder",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-694e-707e-aa51-e9230816771b",
+  "appid": "1382070",
+  "lanzamiento": "2023-07-18",
+  "desarrolladores": [
+    "Sad Owl Studios"
+  ],
+  "editores": [
+    "Thunderful Publishing",
+    "Thunderful Games",
+    "Thunderful Publishing AB"
+  ],
+  "etiquetas": [
+    "Puzzle Platformer",
+    "Puzzle",
+    "First-Person",
+    "Singleplayer",
+    "Abstract"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 12438,
+      "url": "https://store.steampowered.com/app/1382070/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 84,
+      "cantidad": 31,
+      "url": "https://metacritic.com/game/viewfinder/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 258,
+      "url": "https://metacritic.com/game/viewfinder/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 83,
+      "cantidad": 95,
+      "url": "https://opencritic.com/game/15228/viewfinder"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "484840",
+      "nombre": "Viewfinder",
+      "apps": [
+        {
+          "appid": "1382070",
+          "nombre": "Viewfinder"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 12.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1382070": {
+      "usd": 12.49,
+      "gratis": false
+    }
+  },
+  "descripcion": "Desafía la percepción, redefine la realidad y transforma el mundo que te rodea con tu cámara instantánea. Viewfinder es una nueva experiencia de un jugador que ofrece horas de vivencias interesantes y divertidas en la búsqueda de la verdad tras los misterios del pasado.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "18 JUL 2023",
+  "metacritic": {
+    "puntaje": 84,
+    "url": "https://www.metacritic.com/game/pc/viewfinder?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Viewfinder",
+  "acerca": [
+    [
+      "p",
+      "Desafía la percepción, redefine la realidad y transforma el mundo que te rodea con tu cámara instantánea. Viewfinder es una nueva experiencia de un jugador que ofrece horas de vivencias interesantes y divertidas en la búsqueda de la verdad tras los misterios del pasado."
+    ],
+    [
+      "p",
+      "Viewfinder es un juego de aventura en primera persona que desafía a la mente, en el que puedes hacer que las fotos cobren vida colocándolas por el mundo."
+    ],
+    [
+      "li",
+      "Transforma la realidad. No solo fotos: haz que pinturas, bocetos, capturas y postales cobren vida mientras le das forma al mundo..."
+    ],
+    [
+      "li",
+      "Aprende mientras exploras. Descubre la libertad de crear y los secretos del mundo, junto con la misma razón de su existencia. Adéntrate en diferentes mundos que, a pesar de estar interconectados, se diferencian intrínsecamente"
+    ],
+    [
+      "li",
+      "Vive la experiencia a tu manera. Viewfinder es un juego narrativo basado en el jugador que cumplirá con las expectativas tanto de los jugadores que simplemente quieran explorar y resolver rompecabezas, como de los que quieran saber más sobre la historia de este mundo rico y complejo"
+    ],
+    [
+      "li",
+      "Encuentra las respuestas de lo imposible adentrándote en el mundo de Viewfinder"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i5-9600K / AMD Ryzen 5"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 970"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "20 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_504c7776817cb8a36104b31d803d18acf52b669f.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_504c7776817cb8a36104b31d803d18acf52b669f.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_6ab66f69441e3168c97bbe8020603faa75fffa48.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_6ab66f69441e3168c97bbe8020603faa75fffa48.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_1392613d4ff0f7c3f989cc899cb40ce93b3ff8fb.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_1392613d4ff0f7c3f989cc899cb40ce93b3ff8fb.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_080379206cfd1972567fce770bb79ee4b6b35d6c.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_080379206cfd1972567fce770bb79ee4b6b35d6c.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_d1a7f46de9bee3cf60f938f82ca80046802f17ca.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_d1a7f46de9bee3cf60f938f82ca80046802f17ca.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_9c9a0cdfda4c09caa0e01db6d78dbafcae657291.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_9c9a0cdfda4c09caa0e01db6d78dbafcae657291.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_101672d3c7696af1735e314eef94d6a24d803d82.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_101672d3c7696af1735e314eef94d6a24d803d82.1920x1080.jpg?t=1764842475"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_8b6ebaa1da4aef08d74c48614332e30c7d3746ca.600x338.jpg?t=1764842475",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1382070/ss_8b6ebaa1da4aef08d74c48614332e30c7d3746ca.1920x1080.jpg?t=1764842475"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 142549,
+  "youtube": [
+    {
+      "id": "ran_yU65Xmg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "k_lIQ2EZRH8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "g12CwzybuGQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "pVw_5S7P-Kw",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:48:53.201Z"
+}

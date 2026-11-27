@@ -1,0 +1,353 @@
+{
+  "clave": "sintopia",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "0192e204-e26e-7366-ae72-33ee35035aa5",
+  "appid": "2213700",
+  "lanzamiento": "2026-04-16",
+  "desarrolladores": [
+    "Piraknights Games"
+  ],
+  "editores": [
+    "Team17",
+    "Team 17",
+    "Team17 Digital",
+    "Piraknights Games"
+  ],
+  "etiquetas": [
+    "Management",
+    "God Game",
+    "Automation",
+    "Simulation",
+    "Base Building"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 1004,
+      "url": "https://store.steampowered.com/app/2213700/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/sintopia/critic-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1524313",
+      "nombre": "Sintopia - Chairman Edition",
+      "apps": [
+        {
+          "appid": "2213700",
+          "nombre": "Sintopia"
+        },
+        {
+          "appid": "3497180",
+          "nombre": "Sintopia - Digital Artbook"
+        },
+        {
+          "appid": "3497160",
+          "nombre": "Sintopia Original Soundtrack"
+        }
+      ],
+      "usd": 16.99,
+      "antes": 33.99,
+      "descuento": 50
+    },
+    {
+      "packageid": "792905",
+      "nombre": "Sintopia",
+      "apps": [
+        {
+          "appid": "2213700",
+          "nombre": "Sintopia"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2213700": {
+      "usd": 16.99,
+      "gratis": false
+    },
+    "3497160": {
+      "usd": 3.99,
+      "gratis": false
+    },
+    "3497180": {
+      "usd": 3.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3497180",
+      "nombre": "Sintopia - Digital Artbook",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3497160",
+      "nombre": "Sintopia Original Soundtrack",
+      "gratis": false,
+      "usd": 3.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Gestiona el infierno. Manipula la superficie. ¡Crea el negocio de resurrección de tus sueños! En Sintopia, tú estás al mando de las gestiones burocráticas infernales: «reeduca» a las almas pecadoras, genera beneficios, juega a ser Dios y expande tu imperio. ¡Ese es tu trabajo en Hell Incorporated!",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "16 ABR 2026",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "Sintopia",
+  "acerca": [
+    [
+      "p",
+      "El infierno está lleno. La burocracia es eterna. Y tú estás al mando. Sintopia es un juego de gestión y estrategia con un humor oscuro donde administras las instalaciones de castigo más disfuncionales del inframundo. Tu nuevo empleo en Hell Incorporated es sencillo: «reeducar» a los pecadores, resucitar a los dignos y convertir la condenación eterna en un negocio boyante."
+    ],
+    [
+      "p",
+      "Construye centros de procesamiento de pecados, perfecciona su automatización, gestiona malignócratas infernales y vela por la prosperidad de la superficie... u ostenta tu poder divino para demostrar a los humus quién manda. Da forma a tu imperio en las diversas capas del infierno y decide qué clase de deidad quieres ser: misericordiosa y eficiente, o deliciosamente mezquina."
+    ],
+    [
+      "h",
+      "Características clave:"
+    ],
+    [
+      "p",
+      "El infierno a tu gusto"
+    ],
+    [
+      "p",
+      "Construye un inframundo endiabladamente eficaz donde gestionar un sinfín de almas pecaminosas llegadas de la superficie. Castiga esas almas para generar beneficios y expandir tus capacidades o tu influencia divina. Contrata malignócratas eclécticos para que se encarguen del papeleo y asegúrate de pagar sus nóminas a tiempo (por tu propio bien)."
+    ],
+    [
+      "p",
+      "El mundo a tu merced"
+    ],
+    [
+      "p",
+      "Mantén la prosperidad en la superficie para que el ciclo de resurrecciones siga su curso. Como entidad a cargo del infierno, puedes usar tus poderes divinos para «motivar» a los vivos a que cumplan tus designios. Nada como un rayo o un incendio espontáneo para que la población de humus pase a la acción."
+    ],
+    [
+      "p",
+      "Siete pecados capitales"
+    ],
+    [
+      "p",
+      "Las almas acumulan pecados a lo largo de sus muchas vidas. No pierdas de vista los niveles de corrupción y construye centros especializados para evitar que la cosa se salga de madre. De lo contrario, puede que tengas que lidiar con un demonio monstruoso o, peor aún, con un tremendo golpe a tu eficacia… Eso sí que sería infernal."
+    ],
+    [
+      "p",
+      "Una carrera profesional diabólica"
+    ],
+    [
+      "p",
+      "¡Los embrollos laborales nunca han sido tan peligrosos! Vive intrigas corporativas bíblicas en la historia del modo Campaña y pon a prueba tu habilidad organizativa en el modo Desafío. Perfecciona el arte de la construcción infernal u holgazanea en el modo Libre totalmente personalizable."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "i5 10400 (6 x 2.9GHz) / Ryzen 5 3600 (6 x 3.6GHz)"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 2060 SUPER (8 GB) / RX 5700 XT (8 GB)"
+      ],
+      [
+        "Notas adicionales",
+        "1080p @ 30fps"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 x64"
+      ],
+      [
+        "Procesador",
+        "i7 11700k (8 x 3.6GHz) / Ryzen 7 5800x (8 x 3.8GHz)"
+      ],
+      [
+        "Memoria",
+        "32 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "RTX 4080 (8GB) / RX 7900 XT (16GB)"
+      ],
+      [
+        "Notas adicionales",
+        "1080p @ 60fps"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/886af6d0c78f5b758234b997e21b6d34254e65e3/ss_886af6d0c78f5b758234b997e21b6d34254e65e3.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/886af6d0c78f5b758234b997e21b6d34254e65e3/ss_886af6d0c78f5b758234b997e21b6d34254e65e3.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/72b233c9555d2d92b0894e47e1a6896a3bb4fcb7/ss_72b233c9555d2d92b0894e47e1a6896a3bb4fcb7.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/72b233c9555d2d92b0894e47e1a6896a3bb4fcb7/ss_72b233c9555d2d92b0894e47e1a6896a3bb4fcb7.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/09597a16a4510b699fd4356f88d5683fd4be64c8/ss_09597a16a4510b699fd4356f88d5683fd4be64c8.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/09597a16a4510b699fd4356f88d5683fd4be64c8/ss_09597a16a4510b699fd4356f88d5683fd4be64c8.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/08f19056159b94966f502d90a59722a0d3ef7b85/ss_08f19056159b94966f502d90a59722a0d3ef7b85.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/08f19056159b94966f502d90a59722a0d3ef7b85/ss_08f19056159b94966f502d90a59722a0d3ef7b85.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/f62e23f0fd490f338dffe14212901a212856c465/ss_f62e23f0fd490f338dffe14212901a212856c465.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/f62e23f0fd490f338dffe14212901a212856c465/ss_f62e23f0fd490f338dffe14212901a212856c465.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/5abba81ab9a0858be7cf214f27ea7f48f62d4ea8/ss_5abba81ab9a0858be7cf214f27ea7f48f62d4ea8.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/5abba81ab9a0858be7cf214f27ea7f48f62d4ea8/ss_5abba81ab9a0858be7cf214f27ea7f48f62d4ea8.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/39b3d92b45622025826f5c580b3800986142cdbc/ss_39b3d92b45622025826f5c580b3800986142cdbc.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/39b3d92b45622025826f5c580b3800986142cdbc/ss_39b3d92b45622025826f5c580b3800986142cdbc.1920x1080.jpg?t=1785921001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/b21b41ca4fe80a5a93ff9d9a8e482892af8afeb9/ss_b21b41ca4fe80a5a93ff9d9a8e482892af8afeb9.600x338.jpg?t=1785921001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213700/b21b41ca4fe80a5a93ff9d9a8e482892af8afeb9/ss_b21b41ca4fe80a5a93ff9d9a8e482892af8afeb9.1920x1080.jpg?t=1785921001"
+    }
+  ],
+  "web": "https://sintopia-game.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Este título contiene alusiones al alcohol, al tabaco y las drogas, violencia leve e insinuaciones y referencias sexuales. El título incluye temáticas para adultos que podrían no ser apropiadas para todos los públicos.",
+  "igdbIntentado": true,
+  "igdb": 325531,
+  "youtube": [
+    {
+      "id": "kKDAXqyKEkA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "ylelyAVp7xg",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "IlJm4LUZCO8",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "6aKf7hFuIBE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:50:02.384Z"
+}

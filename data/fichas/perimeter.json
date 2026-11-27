@@ -1,0 +1,237 @@
+{
+  "clave": "perimeter",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-284e-72f0-816f-4bd1609ef903",
+  "appid": "289440",
+  "lanzamiento": "2004-05-21",
+  "desarrolladores": [
+    "K-D Lab",
+    "K-D Lab Game Development",
+    "KD Lab"
+  ],
+  "editores": [
+    "Fulqrum Games",
+    "1C Online Games Ltd.",
+    "Fulqrum Publishing",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "K-D Lab"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "RTS",
+    "Sci-fi",
+    "Classic",
+    "Space"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 193,
+      "url": "https://store.steampowered.com/app/289440/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 77,
+      "cantidad": 39,
+      "url": "https://metacritic.com/game/perimeter/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 37,
+      "url": "https://metacritic.com/game/perimeter/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "40494",
+      "nombre": "Perimeter",
+      "apps": [
+        {
+          "appid": "289440",
+          "nombre": "Perimeter"
+        }
+      ],
+      "usd": 2.69,
+      "antes": 2.69,
+      "descuento": 0
+    },
+    {
+      "packageid": "44287",
+      "nombre": "Perimeter + Perimeter: Emperor's Testament",
+      "apps": [
+        {
+          "appid": "289440",
+          "nombre": "Perimeter"
+        },
+        {
+          "appid": "289240",
+          "nombre": "Perimeter: Emperor's Testament"
+        }
+      ],
+      "usd": 4.69,
+      "antes": 4.69,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "289240": {
+      "usd": 2.69,
+      "gratis": false
+    },
+    "289440": {
+      "usd": 2.69,
+      "gratis": false
+    }
+  },
+  "descripcion": "Perimeter is an innovative Real-Time-Strategy game that pits players against each other or AI opponents in a life and death struggle to seize territory and establish crucial protective “perimeters.” Players will be introduced to the game’s unique terraforming feature, allowing them to move, build, construct and destroy the map...",
+  "generos": [
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "3 ABR 2014",
+  "metacritic": {
+    "puntaje": 77,
+    "url": "https://www.metacritic.com/game/pc/perimeter?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Perimeter",
+  "acerca": [
+    [
+      "p",
+      "Perimeter is an innovative Real-Time-Strategy game that pits players against each other or AI opponents in a life and death struggle to seize territory and establish critical protective “perimeters.” Players will be introduced to the game’s unique “terraforming” feature, allowing them to move, build, construct and destroy the map environment. Set in a future where the Exodus civilization has abandoned the dying Earth, the game offers a well-balanced combination of new terraforming principles and territorial wars with traditional strategy elements."
+    ],
+    [
+      "h",
+      "Key features:"
+    ],
+    [
+      "li",
+      "Fast paced Real-Time-Strategy action"
+    ],
+    [
+      "li",
+      "Introduces principles of terraforming in which players can construct or destroy the very gameworld environments themselves"
+    ],
+    [
+      "li",
+      "State-of-the-art engine and graphics that deliver powerful gameplay and solid audio and visuals"
+    ],
+    [
+      "li",
+      "Detailed science fiction universe with original soundtrack, including high quality electronic music"
+    ],
+    [
+      "p",
+      "Perimeter is affected by the GameSpy shutdown on the 31st of May. You can continue to play the game through LAN, DirectIP and GameRanger."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows XP/7/8"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium 4+ or AMD Athlon XP 2GHz and faster"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "nVidia or AMD video card with 128Mb VRAM or more"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Online play no longer supported, LAN play is possible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_df79a2011efc99092f1ebb9be188a27a7bb24354.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_df79a2011efc99092f1ebb9be188a27a7bb24354.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_c08437222eaae59f3d4f8270059c3f255c5af1a6.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_c08437222eaae59f3d4f8270059c3f255c5af1a6.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_12a0b626a696252b73ae2d0e97fb78006c1968dc.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_12a0b626a696252b73ae2d0e97fb78006c1968dc.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_84d3b2dbe49906669d1e36d090d90c1bde442aef.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_84d3b2dbe49906669d1e36d090d90c1bde442aef.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_592086829bdd309eddd910e91a511f2fc6ba395c.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_592086829bdd309eddd910e91a511f2fc6ba395c.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_3e9a7e00f6af60d7ec512c32b85af1524dc0f50e.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_3e9a7e00f6af60d7ec512c32b85af1524dc0f50e.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_e60b1784564ab90949df5dc301723a40fc30322c.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_e60b1784564ab90949df5dc301723a40fc30322c.1920x1080.jpg?t=1752584620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_91064cc5b267b01d800f2683f36235400a29d2e5.600x338.jpg?t=1752584620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289440/ss_91064cc5b267b01d800f2683f36235400a29d2e5.1920x1080.jpg?t=1752584620"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 8964,
+  "youtube": [
+    {
+      "id": "NUYjLgw7fII",
+      "nombre": "Gameplay video"
+    },
+    {
+      "id": "Dqc0piWl9jw",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:48:36.327Z"
+}

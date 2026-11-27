@@ -1,0 +1,311 @@
+{
+  "clave": "saints row the third remastered",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-406a-726e-9068-3b28d077c5c5",
+  "appid": "978300",
+  "lanzamiento": "2020-05-22",
+  "desarrolladores": [
+    "Sperasoft",
+    "Deep Silver Volition",
+    "Deep Silver Volition, Sperasoft"
+  ],
+  "editores": [
+    "Deep Silver",
+    "Plaion",
+    "Deep Silver (PP)"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Open World",
+    "Action-Adventure",
+    "Comedy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 73,
+      "cantidad": 4121,
+      "url": "https://store.steampowered.com/app/978300/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 70,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/saints-row-the-third-remastered/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 190,
+      "url": "https://metacritic.com/game/saints-row-the-third-remastered/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 87,
+      "url": "https://opencritic.com/game/9276/saints-row-the-third-remastered"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "321376",
+      "nombre": "Saints Row The Third Remastered",
+      "apps": [
+        {
+          "appid": "978300",
+          "nombre": "Saints Row®: The Third™ Remastered"
+        }
+      ],
+      "usd": 2.29,
+      "antes": 22.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "978300": {
+      "usd": 2.29,
+      "gratis": false
+    }
+  },
+  "descripcion": "The Full Package Remastered: con gráficos, iluminación, entornos y efectos visuales modificados y mejorados, Steelport y los Third Street Saints tienen mejor aspecto que nunca.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "21 MAY 2021",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Saints Row®: The Third™ Remastered",
+  "acerca": [
+    [
+      "p",
+      "Saints Row®: The Third™ Remastered te permite controlar a los Saints en el cénit de su poder y viviendo la vida que se merecen. Esta es tu ciudad. Estas son tus reglas."
+    ],
+    [
+      "p",
+      "Steelport, la ciudad del pecado original, ha sido remasterizada con mejores gráficos y luce de forma impresionante, sumergida en sexo, drogas y armas."
+    ],
+    [
+      "p",
+      "Años después de conquistar Stilwater, los Third Street Saints han pasado de ser una banda callejera a una famosa marca: tienen zapatillas, bebidas energéticas..., hasta muñecos cabezones de Johnny Gat, todo disponible en tu tienda más cercana. Los Saints son los reyes de Stilwater pero, como famosos, no han pasado desapercibidos: el Sindicato, una legendaria hermandad criminal cuyos tentáculos se extienden por todo el mundo, se ha fijado en los Saints, y demanda tributos."
+    ],
+    [
+      "p",
+      "Tras negarte a hincar la rodilla ante el Sindicato, has comenzado la lucha en Steelport, una orgullosa metrópolis convertida en ciudad del pecado bajo el control del Sindicato. Haz paracaidismo en un tanque, pide un ataque aéreo guiado por satélite sobre una banda de luchadores mexicanos o defiéndete tú solo de un ejército bien entrenado en los escenarios más extravagantes que hayas visto nunca en un juego."
+    ],
+    [
+      "p",
+      "The Full Package Remastered: con gráficos, iluminación, entornos y efectos visuales modificados y mejorados, Steelport y los Third Street Saints tienen mejor aspecto que nunca."
+    ],
+    [
+      "p",
+      "La ciudad del pecado : detén al Sindicato y desmantela su dominio sobre las armas, el crimen cibernético y el mercado del sexo. Descubre los secretos de Steelport, en donde siempre pasa algo en cada esquina, ya sea para bien o, muy probablemente, para mal."
+    ],
+    [
+      "p",
+      "Armas de destrucción grosera : derrotar a tus enemigos está bien, pero humillarlos es mucho mejor. ¡Diviértete con aviones de despegue vertical o coches con balas de cañón humanas y haz la guerra con armas cuerpo a cuerpo estrafalarias!"
+    ],
+    [
+      "p",
+      "Personalización de personajes al máximo : crea los personajes más extravagantes nunca vistos, desde viejos famosos a piratas ninja sin máscara. En cada pecador se esconde un santo. ¿Quién serás?"
+    ],
+    [
+      "p",
+      "Cooperación disparatada : juega solo o en línea con un colega. Quizás uno se puede tirar en paracaídas para aterrizar en la furgoneta en llamas de su compañero y hacer una incursión suicida en una base armada del Sindicato. Steelport siempre es más divertida con un amigo."
+    ],
+    [
+      "p",
+      "Todos los DLC incluidos : los tres paquetes de misiones y más de 30 objetos descargables* de la versión original."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (720p on Low Settings)"
+      ],
+      [
+        "Procesador",
+        "AMD / Intel CPU, running at 3.4 GHz or higher: AMD FX 6000 series or Intel Core i5-3000 series or newer is recommended."
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD/NVIDIA dedicated graphic card, with at least 4GB of dedicated VRAM and with at least DirectX 11 and Shader Model 6.0 support: AMD Radeon 500 series or NVIDIA GeForce GTX 660 or newer."
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (1080p on High Settings)"
+      ],
+      [
+        "Procesador",
+        "AMD / Intel processor running at 3.5 GHz (AMD FX 8000 series or Intel Core i5 4000 series or newer is recommended)."
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD/NVIDIA dedicated graphic card, with at least 6GB of dedicated VRAM (or more) and with at least DirectX 11 and Shader Model 6.1 support. (AMD Radeon RX 5700 and NVIDIA GeForce GTX 1000 series or newer."
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "25 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_8d6a6a6c1c00e3478d45858fc916ce4958db94c6.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_8d6a6a6c1c00e3478d45858fc916ce4958db94c6.1920x1080.jpg?t=1764671001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_6ecdd9ae6067d91432c2b5fa2aeccf4ad9c69e9a.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_6ecdd9ae6067d91432c2b5fa2aeccf4ad9c69e9a.1920x1080.jpg?t=1764671001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_e60ce1cef3550df65e8042388749969930eb97df.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_e60ce1cef3550df65e8042388749969930eb97df.1920x1080.jpg?t=1764671001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_11ec9a56586f1a715d49e283c53b1ef4e9868fb4.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_11ec9a56586f1a715d49e283c53b1ef4e9868fb4.1920x1080.jpg?t=1764671001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_35757a750dc93d28fb8fd5c403b2ff91cdb5f999.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_35757a750dc93d28fb8fd5c403b2ff91cdb5f999.1920x1080.jpg?t=1764671001"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_797583446b86caf5d3ab23c104b5b61f7c3260cb.600x338.jpg?t=1764671001",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978300/ss_797583446b86caf5d3ab23c104b5b61f7c3260cb.1920x1080.jpg?t=1764671001"
+    }
+  ],
+  "web": "https://saintsrow.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 132097,
+  "youtube": [
+    {
+      "id": "G4Z1qGoY0BU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "374Yny37oYY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:49:52.544Z"
+}

@@ -1,0 +1,516 @@
+{
+  "clave": "arma 3",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1775-7390-8ad5-8a3d0ae6007a",
+  "appid": "107410",
+  "lanzamiento": "2013-09-12",
+  "desarrolladores": [
+    "Bohemia Interactive"
+  ],
+  "editores": [
+    "Bohemia Interactive",
+    "Bohemia Interactive Studio"
+  ],
+  "etiquetas": [
+    "Military",
+    "Action",
+    "Multiplayer",
+    "Shooter",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 229930,
+      "url": "https://store.steampowered.com/app/107410/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 38,
+      "url": "https://metacritic.com/game/arma-3/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 1224,
+      "url": "https://metacritic.com/game/arma-3/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1178731",
+      "nombre": "Arma 3 Gold Edition",
+      "apps": [
+        {
+          "appid": "107410",
+          "nombre": "Arma 3"
+        }
+      ],
+      "usd": 7.49,
+      "antes": 29.99,
+      "descuento": 75
+    },
+    {
+      "packageid": "1544395",
+      "nombre": "Arma 3 Platinum Edition",
+      "apps": [
+        {
+          "appid": "107410",
+          "nombre": "Arma 3"
+        }
+      ],
+      "usd": 12.49,
+      "antes": 49.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "107410": {
+      "usd": 7.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 22,
+  "dlcLista": [
+    {
+      "appid": "4198200",
+      "nombre": "Arma 3 Pass",
+      "gratis": false,
+      "usd": 4.49,
+      "descuento": 50
+    },
+    {
+      "appid": "2647830",
+      "nombre": "Arma 3 Creator DLC: Expeditionary Forces",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 20
+    },
+    {
+      "appid": "2647760",
+      "nombre": "Arma 3 Creator DLC: Reaction Forces",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 20
+    },
+    {
+      "appid": "395180",
+      "nombre": "Arma 3 Apex",
+      "gratis": false,
+      "usd": 4.28,
+      "descuento": 67
+    },
+    {
+      "appid": "1021790",
+      "nombre": "Arma 3 Contact",
+      "gratis": false,
+      "usd": 4.61,
+      "descuento": 67
+    },
+    {
+      "appid": "601670",
+      "nombre": "Arma 3 Jets",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 67
+    },
+    {
+      "appid": "304380",
+      "nombre": "Arma 3 Helicopters",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 67
+    },
+    {
+      "appid": "288520",
+      "nombre": "Arma 3 Karts",
+      "gratis": false,
+      "usd": 0.99,
+      "descuento": 50
+    },
+    {
+      "appid": "332350",
+      "nombre": "Arma 3 Marksmen",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 67
+    },
+    {
+      "appid": "571710",
+      "nombre": "Arma 3 Laws of War",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 67
+    },
+    {
+      "appid": "639600",
+      "nombre": "Arma 3 Malden",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "275700",
+      "nombre": "Arma 3 Zeus",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "744950",
+      "nombre": "Arma 3 Tac-Ops Mission Pack",
+      "gratis": false,
+      "usd": 1.48,
+      "descuento": 67
+    },
+    {
+      "appid": "249860",
+      "nombre": "Arma 3 Soundtrack",
+      "gratis": false,
+      "usd": 2.79,
+      "descuento": 60
+    },
+    {
+      "appid": "798390",
+      "nombre": "Arma 3 Tanks",
+      "gratis": false,
+      "usd": 2.3,
+      "descuento": 67
+    },
+    {
+      "appid": "1042220",
+      "nombre": "Arma 3 Creator DLC: Global Mobilization - Cold War Germany",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 60
+    },
+    {
+      "appid": "1227700",
+      "nombre": "Arma 3 Creator DLC: S.O.G. Prairie Fire",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 50
+    },
+    {
+      "appid": "1616620",
+      "nombre": "Arma 3 Creator DLC: S.O.G. Prairie Fire Soundtrack",
+      "gratis": false,
+      "usd": 2.39,
+      "descuento": 40
+    },
+    {
+      "appid": "1294440",
+      "nombre": "Arma 3 Creator DLC: CSLA Iron Curtain",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 60
+    },
+    {
+      "appid": "1175380",
+      "nombre": "Arma 3 Creator DLC: Spearhead 1944",
+      "gratis": false,
+      "usd": 6.29,
+      "descuento": 30
+    },
+    {
+      "appid": "1681170",
+      "nombre": "Arma 3 Creator DLC: Western Sahara",
+      "gratis": false,
+      "usd": 4.79,
+      "descuento": 40
+    },
+    {
+      "appid": "1325500",
+      "nombre": "Arma 3 Art of War Charity Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Disfruta de un sistema de combate realista en un enorme mundo abierto militar. Multitud de escenarios para uno o varios jugadores, un gran arsenal de armas y vehículos modernos y oportunidades sin límites para crear contenido. Auténtico, diverso, abierto... Con Arma 3 vas a vivir la guerra.",
+  "generos": [
+    "Acción",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "12 SEP 2013",
+  "metacritic": {
+    "puntaje": 74,
+    "url": "http://www.metacritic.com/game/pc/arma-iii?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Arma 3",
+  "acerca": [
+    [
+      "p",
+      "Auténtico, diverso, abierto... Con Arma 3 vas a vivir la guerra. La tercera entrega de la legendaria franquicia Arma, el mundo abierto militar de referencia para PC, ofrece conflictos con armas combinadas, recursos y armamentos auténticos y una amplia variedad de contenido para uno o varios jugadores. Arma 3 ahora incluye las expansiones Apex y Contact, que proporcionan cientos de horas de juego adicionales en un mismo producto. Y, para quienes quieren todo el contenido oficial disponible desde el primer momento, Arma 3 Platinum ofrece el juego básico y todas las expansiones y contenidos descargables oficiales."
+    ],
+    [
+      "p",
+      "Despliégate en enormes mundos abiertos donde la balística es realista, la maniobrabilidad te mantiene con vida y el trabajo en equipo es la mejor arma. Conduce tanques, pilota jets, lidera escuadrones o desempeña diversas funciones de infantería: Arma 3 te da toda la libertad para abrirte paso a sangre y fuego en el mundo abierto militar más completo para PC, que ahora viene mejorado con las expansiones Apex y Contact."
+    ],
+    [
+      "p",
+      "Desde las batallas en las áridas islas de Altis y Stratis en la campaña «El viento del este» hasta la infiltración en las indómitas selvas de Tanoa en la campaña cooperativa «Protocolo Apex», pasando por el encuentro de la humanidad con una especie alienígena en «Primer contacto», Arma 3 ofrece innumerables horas de contenido rejugable para un jugador o cooperativo que incluye campañas, escenarios, misiones de presentación, desafíos, arsenal y garaje virtuales y mucho más."
+    ],
+    [
+      "p",
+      "Combate en línea en el enorme mundo abierto militar de Arma 3. Forma un escuadrón y lucha en equipo contra el enemigo en los escenarios multijugador oficiales Combat Patrol, Escape y Warlords o lánzate a uno de los muchos modos de juego no oficiales desarrollados por la comunidad de Arma 3. Disfruta de atractivos escenarios multijugador con Arma 3 Zeus, donde los directores de partida pueden gestionar e influir en tiempo real en el campo de batalla de otros jugadores. Sácale el máximo partido a esta experiencia de simulación militar multijugador uniéndote a alguna de las unidades veteranas y dedicadas de la comunidad multijugador."
+    ],
+    [
+      "p",
+      "Personaliza tu equipamiento hasta el más mínimo detalle para cualquier misión y enfrentamiento. Arma 3 Gold Edition cuenta con más de 80 armas, arsenales personalizables con accesorios para corta y larga distancia y un amplio abanico de recursos, ropas y equipamientos que abren las puertas de un mundo de oportunidades tácticas."
+    ],
+    [
+      "p",
+      "Entra en combate a pie, conduce diversos tipos de blindados ligeros y pesados, maneja vehículos autónomos o echa a volar con helicópteros y jets. Lleva a cabo operaciones con armas combinadas por tierra, mar y aire con más de 40 vehículos modelados y simulados con exquisita precisión."
+    ],
+    [
+      "p",
+      "Domina la guerra con armas combinadas en las calurosas islas mediterráneas de Altis, Stratis y Malden, oriéntate por las tupidas y hostiles selvas del Pacífico Sur en Tanoa y sobrevive en los bosques templados militarizados de Livonia. Arma 3 cuenta con unos enormes mapas de más de 610 km² de mundo abierto."
+    ],
+    [
+      "p",
+      "Explora los más de 160 000 objetos creados por usuarios que se pueden descargar en Steam Workshop, desde armas y vehículos personalizados hasta intensos escenarios para un jugador y modos de juego multijugador completamente nuevos. Crea tus propios escenarios intrincados e inmersivos con Eden Editor, el completo e intuitivo editor de Arma 3, y comparte tu contenido con la comunidad."
+    ],
+    [
+      "p",
+      "Arma 3 puede mejorarse con una vasta biblioteca de contenido descargable que proporciona nuevos recursos y capacidades y te transporta a frentes de batalla completamente nuevos. Hay armas, tanques, jets, helicópteros y mucho más, disponible mediante compra como contenido descargable oficial o de creadores, para expandir y personalizar la experiencia de Arma 3. Extensos mapas te transportan a las traicioneras selvas de Vietnam, los campos y bosques de la Alemania de la Guerra Fría, el abrasador desierto del Sáhara y muchos más lugares donde podrás disfrutar de miles de horas de juego adicionales. Y, para quienes quieren todo el contenido oficial disponible desde el primer momento, Arma 3 Platinum ofrece el juego básico y todas las expansiones y contenidos descargables oficiales."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Cooperativo en LAN",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Subtítulos descriptivos disponibles",
+    "Steam Workshop",
+    "Estadísticas",
+    "Tablas de clasificación de Steam"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Búlgaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Eslovaco",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "OS",
+        "Windows 10 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core quad-core o AMD Athlon quad-core"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Tarjeta gráfica",
+        "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850 / Intel HD Graphics 4000 con 1 GB de VRAM"
+      ],
+      [
+        "DirectX®",
+        "10"
+      ],
+      [
+        "Disco duro",
+        "50 GB de espacio libre"
+      ],
+      [
+        "Sonido",
+        "compatible con DirectX®"
+      ]
+    ],
+    "recomendado": [
+      [
+        "OS",
+        "Windows 10 / 11 (64-bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-7700K o AMD Ryzen 3 3300X o superior"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Tarjeta gráfica",
+        "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580 con 6 GB de VRAM"
+      ],
+      [
+        "DirectX®",
+        "11"
+      ],
+      [
+        "Disco duro",
+        "80 GB de espacio libre (almacenamiento SSD)"
+      ],
+      [
+        "Sonido",
+        "compatible con DirectX®"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e9220742c6b786efc9145c58ce7b276af891e9d5.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_e9220742c6b786efc9145c58ce7b276af891e9d5.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_089dfd05121614ca3a887f49e89c14fa210847ac.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_089dfd05121614ca3a887f49e89c14fa210847ac.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d6ac5531165a238499e1bf7ad71ee23dcfcbcf78.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_1e3cd97e67e8bba23a6bb40d41a543b1b29c9b5a.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d705d125b0bf4e8d934c8743ef1a26e851fe6cf4.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_d705d125b0bf4e8d934c8743ef1a26e851fe6cf4.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_f394156f7bd6f643c004d6810b63547277f44fb0.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_f394156f7bd6f643c004d6810b63547277f44fb0.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_de3d649293bf035ae7c1d9cf35235ea2ec36beee.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_de3d649293bf035ae7c1d9cf35235ea2ec36beee.1920x1080.jpg?t=1786458620"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_c7a3a29b107c344adcf2be2763f9bdfde4be34ba.600x338.jpg?t=1786458620",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/ss_c7a3a29b107c344adcf2be2763f9bdfde4be34ba.1920x1080.jpg?t=1786458620"
+    }
+  ],
+  "web": "https://www.arma3.com",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent and Intense Violence, Bad Language, General Mature Content.",
+  "igdbIntentado": true,
+  "igdb": 1881,
+  "youtube": [
+    {
+      "id": "1VcfRVTIRwU",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "VRp_1UWWFv0",
+      "nombre": "Ground vehicle Trailer"
+    },
+    {
+      "id": "og-MkfnOZmE",
+      "nombre": "Bootcamp update Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:49:19.434Z"
+}

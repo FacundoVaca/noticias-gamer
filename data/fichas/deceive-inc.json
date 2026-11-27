@@ -1,0 +1,340 @@
+{
+  "clave": "deceive inc",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3e95-71c3-9fee-0b0955757dcd",
+  "appid": "820520",
+  "lanzamiento": "2023-03-21",
+  "desarrolladores": [
+    "Sweet Bandits Studios"
+  ],
+  "editores": [
+    "Iceberg Interactive",
+    "Tripwire Presents",
+    "Tripwire Interactive"
+  ],
+  "etiquetas": [
+    "Social Deduction",
+    "Heist",
+    "Battle Royale",
+    "Hero Shooter",
+    "Extraction Shooter"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 4783,
+      "url": "https://store.steampowered.com/app/820520/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/deceive-inc/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 58,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/deceive-inc/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 72,
+      "cantidad": 17,
+      "url": "https://opencritic.com/game/14480/deceive-inc-"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "820666",
+      "nombre": "Deceive Inc.",
+      "apps": [
+        {
+          "appid": "820520",
+          "nombre": "Deceive Inc."
+        }
+      ],
+      "usd": 1.99,
+      "antes": 19.99,
+      "descuento": 90
+    }
+  ],
+  "sueltos": {
+    "820520": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 4,
+  "dlcLista": [
+    {
+      "appid": "2851380",
+      "nombre": "Deceive Inc. - Catalog 1 Misery Empire",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2851390",
+      "nombre": "Deceive Inc. - Catalog 2 Neon Nights",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2851400",
+      "nombre": "Deceive Inc. - Catalog 3 Of Queens and Kings",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3038170",
+      "nombre": "Deceive Inc. - Catalog 4 World's Finest",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Ponte en la piel de los mejores agentes secretos del mundo en este juego multijugador de sigilo y subterfugio sociales. Cuando trabajas para DECEIVE INC., no existe el juego sucio.",
+  "generos": [
+    "Acción",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "21 MAR 2023",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Deceive Inc.",
+  "acerca": [
+    [
+      "p",
+      "Te damos la bienvenida a DECEIVE INC. , agente."
+    ],
+    [
+      "p",
+      "Ponte en la piel de los mejores agentes secretos del mundo en este juego multijugador de sigilo y subterfugio sociales. Utiliza tu habilidad con el disfraz para mezclarte entre la multitud, haz uso de artilugios de alta tecnología para obtener ventaja y extrae el paquete antes de que los rivales se hagan con él. Cuando trabajas para DECEIVE INC. , no existe el juego sucio."
+    ],
+    [
+      "p",
+      "Características del juego:"
+    ],
+    [
+      "p",
+      "CONOCE A LOS ESPÍAS. Desarrolla tu estilo de juego con una lista de diversos agentes, cada uno con su propia arma y conjunto de habilidades personalizables: desde ladrones de renombre mundial hasta nuevas promesas del espionaje. DECEIVE INC. presume de ofrecer total igualdad de oportunidades."
+    ],
+    [
+      "p",
+      "HAZ LOS PREPARATIVOS. Crea tu arsenal con una infinidad de artilugios increíblemente versátiles, incluidos algunos de los favoritos de los agentes como la colchoneta hinchable (Inflatable mat), el holomímico (holo-mimic) y el paraguas antibalas (bulletproof umbrella). Nuestro avanzadísimo departamento de I+D te armará hasta los dientes. Literalmente."
+    ],
+    [
+      "p",
+      "LA MAGIA DEL DISFRAZ. Infíltrate en zonas restringidas utilizando tu fiel reloj holográfico para disfrazarte de uno de los distintos tipos de PNJ. También podrás ocultarte gracias al holomímico, que te permitirá adoptar la forma de objetos inanimados como retretes, sillas, plantas y mucho más."
+    ],
+    [
+      "p",
+      "VISITA LUGARES DE LO MÁS EXÓTICOS. Mientras trabajes para DECEIVE INC. , visitarás muchas localizaciones por todo el mundo. Alíate con sofisticados PNJ que celan mil y un secretos que tendrás que descubrir. Cada mapa cobra vida en el instante en que cargas una partida."
+    ],
+    [
+      "p",
+      "ELIGE TU MODO. Alíate con otros agentes y prepara el atraco perfecto en el modo Equipos (Teams) o aplasta a la competencia como un lobo solitario en el modo Individual (Solos)."
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "OS: Windows 10 64-bit, Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Core i5-6500 or AMD Ryzen 3 3300U"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750 or AMD Radeon R7 265"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "OS: Windows 10 64-bit, Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Core i7-6700 or AMD Ryzen 5 3550H"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070 or AMD RX Vega-56"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "8 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_9ac4eaf44467ac54a4a4d4ad89dcaedc74177a55.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_9ac4eaf44467ac54a4a4d4ad89dcaedc74177a55.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_f28d7f9e7d9ff46c7fa2214485e4b546d56feb03.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_f28d7f9e7d9ff46c7fa2214485e4b546d56feb03.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_12bd9e6924807d601dea76157439c38a4850763c.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_12bd9e6924807d601dea76157439c38a4850763c.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_a672eeac6d37416cb75423fc86c65cd781f690d2.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_a672eeac6d37416cb75423fc86c65cd781f690d2.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_c487ceccf8f8b4e5763fb9d021e37eef00281039.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_c487ceccf8f8b4e5763fb9d021e37eef00281039.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_101fa4f5fb44208c6b167c0b4767c31e9aba939d.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_101fa4f5fb44208c6b167c0b4767c31e9aba939d.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_d0fb658362057b8843b38218bf43f270e13cef95.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_d0fb658362057b8843b38218bf43f270e13cef95.1920x1080.jpg?t=1789672974"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_d0937e6139341758849745062b0005e1163f555c.600x338.jpg?t=1789672974",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820520/ss_d0937e6139341758849745062b0005e1163f555c.1920x1080.jpg?t=1789672974"
+    }
+  ],
+  "web": "https://deceiveinc.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 123192,
+  "youtube": [
+    {
+      "id": "Gh0YYFgLIEg",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "XgQZ3uxK-FM",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "JoBIi8Si1iw",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:45:59.142Z"
+}

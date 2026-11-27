@@ -1,0 +1,276 @@
+{
+  "clave": "wavetale",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6639-70fc-aae3-d14d28de16db",
+  "appid": "1823930",
+  "lanzamiento": "2022-12-12",
+  "desarrolladores": [
+    "Thunderful Games",
+    "Thunderful Development"
+  ],
+  "editores": [
+    "Plug In Digital",
+    "Thunderful Games",
+    "Thunderful Publishing AB",
+    "Thunderful",
+    "Thunderful Publishing"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "3D Platformer",
+    "Action-Adventure",
+    "Platformer",
+    "3D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 2657,
+      "url": "https://store.steampowered.com/app/1823930/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/wavetale/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 63,
+      "cantidad": 29,
+      "url": "https://metacritic.com/game/wavetale/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 36,
+      "url": "https://opencritic.com/game/12515/wavetale"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "655881",
+      "nombre": "Wavetale",
+      "apps": [
+        {
+          "appid": "1823930",
+          "nombre": "Wavetale"
+        }
+      ],
+      "usd": 14.99,
+      "antes": 14.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1823930": {
+      "usd": 14.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Surfea encima de una ciudad sumergida! Enfréntate a gigantescos monstruos marinos, rescata a tus vecinos y desvela los secretos que oculta el gran azul.",
+  "generos": [
+    "Aventura"
+  ],
+  "lanzamientoTexto": "12 DIC 2022",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Wavetale",
+  "acerca": [
+    [
+      "p",
+      "En «Wavetale» protagonizarás una historia repleta de aventuras en alta mar mientras exploras Villaorillas, un archipiélago donde habitan pescadores hasta el gorro de todo, ermitaños sigilosos y... algún que otro pirata. Surca aguas tranquilas y olas impetuosas en la piel de Sigrid, una joven que entabla amistad con una enigmática sombra que le otorga el don de caminar sobre el agua."
+    ],
+    [
+      "p",
+      "Cabalga las olas, colúmpiate de un tejado a otro con tu cazachispas y derrota a enemigos abominables para salvar a los habitantes de las islas. Y todo, con la ayuda de las sombras del inframundo... y una abuela cascarrabias."
+    ],
+    [
+      "li",
+      "Atraviesa a toda velocidad el mar abierto y balancéate entre los edificios en esta aventura vertiginosa"
+    ],
+    [
+      "li",
+      "Experimenta una historia conmovedora sobre la pérdida y la reconciliación"
+    ],
+    [
+      "li",
+      "Conoce al diverso elenco de isleños de Strandville, desde una encantadora y orgullosa surfista hasta un viejo pescador convertido en diseñador de moda"
+    ],
+    [
+      "li",
+      "Cambia tu apariencia con sombreros, tintes de pelo y atuendos coleccionables"
+    ],
+    [
+      "li",
+      "Rellena las páginas del álbum de recortes de Sigrid con dibujos especiales para saber más sobre su mundo"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "WIndows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i3-4170 / Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 660 2GB / AMD RX 560"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_48df92b1abb85f5382eed4cd45853aea136b1263.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_48df92b1abb85f5382eed4cd45853aea136b1263.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_d47c7354a80b94157995a00b7f3f05c92ea47ce2.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_d47c7354a80b94157995a00b7f3f05c92ea47ce2.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_f4c433d8775b1cfee9ae678bb5594835f6fd6099.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_f4c433d8775b1cfee9ae678bb5594835f6fd6099.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_343ee4f6d86aa035603fd96afce4febc9c710bc1.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_343ee4f6d86aa035603fd96afce4febc9c710bc1.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_9e451a175230b2c2748fdb3feefc4ebe7046d4a4.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_9e451a175230b2c2748fdb3feefc4ebe7046d4a4.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_0b194084e8b633029049350258cc135ca488aab8.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_0b194084e8b633029049350258cc135ca488aab8.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_017561fca15c5201215205d6edc463670acec088.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_017561fca15c5201215205d6edc463670acec088.1920x1080.jpg?t=1759330606"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_dfeb1eafe2badf4c649675f2ca16e174f0606f82.600x338.jpg?t=1759330606",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823930/ss_dfeb1eafe2badf4c649675f2ca16e174f0606f82.1920x1080.jpg?t=1759330606"
+    }
+  ],
+  "web": "https://thunderfulgames.com/games/wavetale/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 165309,
+  "youtube": [
+    {
+      "id": "eoolKcMCyGQ",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "F72KjcR3TUc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "WdXxsuo3LtY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:45:47.805Z"
+}

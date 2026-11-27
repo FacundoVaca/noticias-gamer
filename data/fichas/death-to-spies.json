@@ -1,0 +1,255 @@
+{
+  "clave": "death to spies",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f7eb-728c-9b75-d110e72110ec",
+  "appid": "9800",
+  "lanzamiento": "2007-09-27",
+  "desarrolladores": [
+    "Haggard Games"
+  ],
+  "editores": [
+    "Fulqrum Publishing Ltd.",
+    "1C Online Games Ltd.",
+    "Fulqrum Publishing",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "Haggard Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Stealth",
+    "Adventure",
+    "World War II",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 802,
+      "url": "https://store.steampowered.com/app/9800/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 69,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/death-to-spies/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 41,
+      "url": "https://metacritic.com/game/death-to-spies/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "47377",
+      "nombre": "Death to Spies",
+      "apps": [
+        {
+          "appid": "9800",
+          "nombre": "Death to Spies"
+        }
+      ],
+      "usd": 3.29,
+      "antes": 3.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "2821",
+      "nombre": "Death to Spies: Gold",
+      "apps": [
+        {
+          "appid": "9800",
+          "nombre": "Death to Spies"
+        },
+        {
+          "appid": "34410",
+          "nombre": "Death to Spies: Moment of Truth"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "9800": {
+      "usd": 3.29,
+      "gratis": false
+    },
+    "34410": {
+      "usd": 4.69,
+      "gratis": false
+    }
+  },
+  "descripcion": "Smersh es una palabra rusa que significa \"muerte a los espías\" y fue el nombre de una serie de departamentos de contraespionaje creados en el Ejército Soviético durante la Segunda Guerra Mundial. Su misión era asegurar la retaguardia del Ejército Rojo activo arrestando a traidores, desertores, espías y células criminales.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "12 MAR 2008",
+  "metacritic": {
+    "puntaje": 69,
+    "url": "https://www.metacritic.com/game/pc/death-to-spies?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Death to Spies",
+  "acerca": [
+    [
+      "p",
+      "Smersh es una palabra rusa que significa \"muerte a los espías\" y fue el nombre de una serie de departamentos de contraespionaje creados en el Ejército Soviético durante la Segunda Guerra Mundial. Su misión era asegurar la retaguardia del Ejército Rojo activo arrestando a traidores, desertores, espías y células criminales. Durante la guerra, aquellos agentes se convirtieron en la fuerza principal para combatir al servicio de espionaje alemán."
+    ],
+    [
+      "p",
+      "Como capitán del 4º departamento de Smersh, tu trabajo consiste en ejecutar esas operaciones en el corazón del territorio enemigo. Prepárate para completar varias misiones, que incluyen robar documentos importantes, eliminar o secuestrar a oficiales de alto rango y sabotear los planes del enemigo."
+    ],
+    [
+      "li",
+      "La acción sigilosa en tercera persona sumerge al jugador en la atmósfera de las operaciones de espionaje militar de la Segunda Guerra Mundial"
+    ],
+    [
+      "li",
+      "Diferentes tipos de misiones basadas en operaciones históricas de espionaje y contraespionaje"
+    ],
+    [
+      "li",
+      "Libertad para elegir el modo de completar una misión"
+    ],
+    [
+      "li",
+      "Extensas ubicaciones interiores y exteriores de la vida real"
+    ],
+    [
+      "li",
+      "Diversas habilidades de espía a disposición del jugador, que incluyen moverse de forma sigilosa, esconderse, transportar cadáveres, cambiarse de ropa, poner minas en los objetos, lanzar cuchillos, disparar con armas de francotirador, abrir cerraduras, colocar trampas y muchas más"
+    ],
+    [
+      "li",
+      "Armas y vehículos auténticos de la Segunda Guerra Mundial"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows® 2000 / XP"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium 4 a 1.7 GHz o AMD Athlon a 1.8 GHz (Intel Pentium 4 a 2.4 GHz o AMD Athlon a 2.4 GHz o superior recomendado)"
+      ],
+      [
+        "Memoria",
+        "512 MB de RAM (1 GB de RAM recomendado)"
+      ],
+      [
+        "Gráficos",
+        "nVidia GeForce 5200 / ATI Radeon 9500 con 128 MB de RAM o superior (nVidia GeForce 6800 / ATI Radeon X800 con 256 MB de RAM o superior recomendada)*"
+      ],
+      [
+        "Versión de DirectX",
+        "DirectX® 9.0 (incluido) o posterior"
+      ],
+      [
+        "Sonido",
+        "Dispositivo de sonido compatible con DirectX® 9.0"
+      ],
+      [
+        "Disco Duro",
+        "3 GB de espacio libre"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002835.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002835.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002836.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002836.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002837.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002837.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002838.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002838.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002839.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002839.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002840.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002840.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002841.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002841.1920x1080.jpg?t=1759139774"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002842.600x338.jpg?t=1759139774",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9800/0000002842.1920x1080.jpg?t=1759139774"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 9376,
+  "youtube": [
+    {
+      "id": "dyjJx9hPQG0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:48:18.801Z"
+}

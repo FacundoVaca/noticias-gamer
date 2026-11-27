@@ -1,0 +1,302 @@
+{
+  "clave": "war hospital",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4d35-7174-adf4-9a395fc51bd4",
+  "appid": "1553000",
+  "lanzamiento": "2024-01-11",
+  "desarrolladores": [
+    "Brave Lamb Studio S.A.",
+    "Brave Lamb"
+  ],
+  "editores": [
+    "Nacon",
+    "Brave Lamb Studio S.A.",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Management",
+    "Medical Sim",
+    "Military",
+    "Strategy",
+    "Historical"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 60,
+      "cantidad": 1044,
+      "url": "https://store.steampowered.com/app/1553000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 67,
+      "cantidad": 16,
+      "url": "https://metacritic.com/game/war-hospital/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 44,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/war-hospital/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 62,
+      "cantidad": 22,
+      "url": "https://opencritic.com/game/16047/war-hospital"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "548449",
+      "nombre": "War Hospital",
+      "apps": [
+        {
+          "appid": "1553000",
+          "nombre": "War Hospital"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 19.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1553000": {
+      "usd": 19.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2465850",
+      "nombre": "War Hospital - Original Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2465860",
+      "nombre": "War Hospital - Digital Artbook",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2556920",
+      "nombre": "War Hospital - X-ray",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Diriges un hospital de campaña en plena Primera Guerra Mundial y tienes que tomar las decisiones necesarias para asegurar la vida de los soldados y apoyar al frente. En este juego de gestión narrativo, eres el último bastión de humanidad.",
+  "generos": [
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "11 ENE 2024",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "War Hospital",
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770 or AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750, 2 GB or AMD Radeon R7 360, 2 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low 720p @ 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 or AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970, 4 GB or AMD Radeon R9 290X, 4 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "30 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High 1080p @ 45 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_65ba38ed228eb8bd5e593dc87329e3e80815e383.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_65ba38ed228eb8bd5e593dc87329e3e80815e383.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_b71f99b69390765d188c5ff634f8bc1771141646.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_b71f99b69390765d188c5ff634f8bc1771141646.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_2a0b4b0c9a248a39a3dddce23fc2a3d63d305e51.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_2a0b4b0c9a248a39a3dddce23fc2a3d63d305e51.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_4aae586a95a3f5cb823f1bab65607c273066a87d.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_4aae586a95a3f5cb823f1bab65607c273066a87d.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_888154bb74fec6a90c0f4149b18acf0f7fefa8d2.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_888154bb74fec6a90c0f4149b18acf0f7fefa8d2.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_17603b9cc824608da92d1668d338e80a85753e29.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_17603b9cc824608da92d1668d338e80a85753e29.1920x1080.jpg?t=1764149578"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_e04820c99264f896787d32efeb1aa27f4ba6340d.600x338.jpg?t=1764149578",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/ss_e04820c99264f896787d32efeb1aa27f4ba6340d.1920x1080.jpg?t=1764149578"
+    }
+  ],
+  "web": "https://warhospitalgame.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "This game features violence, blood and bad language.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 145074,
+  "youtube": [
+    {
+      "id": "KRSqHsIxrsI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "VVnXbAd8u4U",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "unLUFJFvOt0",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "Ot9yIxAwEyM",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:45:53.259Z"
+}

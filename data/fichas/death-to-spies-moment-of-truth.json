@@ -1,0 +1,275 @@
+{
+  "clave": "death to spies moment of truth",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-1b24-736b-89e5-6a4a4a8c609a",
+  "appid": "34410",
+  "lanzamiento": "2009-08-07",
+  "desarrolladores": [
+    "Haggard Games"
+  ],
+  "editores": [
+    "Fulqrum Games",
+    "1C Online Games Ltd.",
+    "Fulqrum Publishing",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "Haggard Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Stealth",
+    "World War II",
+    "Third Person",
+    "Shooter"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 422,
+      "url": "https://store.steampowered.com/app/34410/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 73,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/death-to-spies-moment-of-truth/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 78,
+      "cantidad": 35,
+      "url": "https://metacritic.com/game/death-to-spies-moment-of-truth/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1964",
+      "nombre": "Death to Spies: Moment of Truth",
+      "apps": [
+        {
+          "appid": "34410",
+          "nombre": "Death to Spies: Moment of Truth"
+        }
+      ],
+      "usd": 4.69,
+      "antes": 4.69,
+      "descuento": 0
+    },
+    {
+      "packageid": "2821",
+      "nombre": "Death to Spies: Gold",
+      "apps": [
+        {
+          "appid": "9800",
+          "nombre": "Death to Spies"
+        },
+        {
+          "appid": "34410",
+          "nombre": "Death to Spies: Moment of Truth"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "9800": {
+      "usd": 3.29,
+      "gratis": false
+    },
+    "34410": {
+      "usd": 4.69,
+      "gratis": false
+    }
+  },
+  "descripcion": "El servicio secreto más misterioso de la Segunda Guerra Mundial Este juego en tercera persona describe las actividades del SMERSH, el servicio secreto más misterioso de la Segunda Guerra Mundial. Moment of Truth es la secuela del popular título de acción y sigilo Death to Spies.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "7 AGO 2009",
+  "metacritic": {
+    "puntaje": 73,
+    "url": "https://www.metacritic.com/game/pc/death-to-spies-moment-of-truth?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Death to Spies: Moment of Truth",
+  "acerca": [
+    [
+      "p",
+      "El servicio secreto más misterioso de la Segunda Guerra Mundial"
+    ],
+    [
+      "p",
+      "Este juego en tercera persona describe las actividades del SMERSH, el servicio secreto más misterioso de la Segunda Guerra Mundial."
+    ],
+    [
+      "p",
+      "Moment of Truth es la secuela del popular título de acción y sigilo Death to Spies. El protagonista del juego es el Semion Strogov, un capitán del 4º departamento del servicio de contrainteligencia soviético SMERSH (un acrónimo ruso que significa \"Muerte a los Espías\")."
+    ],
+    [
+      "p",
+      "El héroe posee las habilidades necesarias para llevar a cabo peligrosas misiones que incluyen la recopilación de información sobre la ubicación de unidades militares y civiles hostiles o el asesinato de agentes enemigos, incluyendo los oficiales de alto rango de la Wehrmacht. Su trabajo consiste en capturar espías y saboteadores y reunir información sobre sus acciones utilizando tecnologías y dispositivos exclusivos."
+    ],
+    [
+      "li",
+      "Nuevas misiones en Europa Occidental y Oriental, EE.UU., Reino Unido y en el territorio de la antigua URSS"
+    ],
+    [
+      "li",
+      "Nuevos vehículos y armas"
+    ],
+    [
+      "li",
+      "Animaciones y efectos visuales mejorados"
+    ],
+    [
+      "li",
+      "Nuevos efectos gráficos: nuevo texturizado de paisajes con una mayor resolución y efectos bump mapping, así como un renderizado mejorado con HDR y sombras difuminadas"
+    ],
+    [
+      "li",
+      "Interfaz mejorada"
+    ],
+    [
+      "li",
+      "Moment of Truth incluye un montón de mejoras basadas en las peticiones de la comunidad de jugadores"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows XP SP3 / Windows Vista SP1"
+      ],
+      [
+        "Procesador",
+        "Intel Dual Core a 2.0 GHz o AMD Athlon 4000+"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM (XP), 2 GB de RAM (Vista)"
+      ],
+      [
+        "Gráficos",
+        "Necesaria aceleradora 3D por hardware – 100% compatible con DirectX 9.0c y con 256 MB de VRAM. ATI Radeon X800, nVidia GeForce 6800"
+      ],
+      [
+        "Disco Duro",
+        "4.5 GB de espacio libre + 1 GB para el archivo de intercambio"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX 9.0c"
+      ]
+    ],
+    "recomendado": [
+      [
+        "Procesador",
+        "Intel Core 2 Duo a 2.4 GHz o AMD Athlon Dual Core 5200+"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Aceleradora 3D por hardware con 256 MB y soporte para Shader 3.0. ATI Radeon HD 3870, nVidia Geforce 8800 GT"
+      ],
+      [
+        "",
+        "ATI RADEON X800, ATI RADEON X1300, ATI RADEON X1600, ATI RADEON X1900, ATI RADEON X1950, ATI RADEON HD 2400, ATI RADEON HD 2600, ATI RADEON HD 2900, ATI RADEON HD 3450, ATI RADEON HD 3850, ATI RADEON HD 3870, ATI RADEON HD 4850, NVIDIA GEFORCE 6800, NVIDIA GEFORCE 7300, NVIDIA GEFORCE 7600, NVIDIA GEFORCE 7800, NVIDIA GEFORCE 7900, NVIDIA GEFORCE 8400, NVIDIA GEFORCE 8500, NVIDIA GEFORCE 8600, NVIDIA GEFORCE 8800, NVIDIA GEFORCE 9600 y NVIDIA GEFORCE 260"
+      ],
+      [
+        "",
+        "NVIDIA GEFORCE GO 7600 (sólo XP), NVIDIA GEFORCE GO 7900, NVIDIA GEFORCE GO 7950 y NVIDIA GEFORCE GO 8400"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_7c0871e2319c34b876e8a4227c648df3450b4bfb.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_7c0871e2319c34b876e8a4227c648df3450b4bfb.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_f7feb56f9cf14c33ec9105235b1b8df444f7c09e.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_f7feb56f9cf14c33ec9105235b1b8df444f7c09e.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_64e4126c1b5124b79e07625b392e4f5bc95cb79b.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_64e4126c1b5124b79e07625b392e4f5bc95cb79b.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_02879a4c7c9a2b8eac138796780187da56964b40.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_02879a4c7c9a2b8eac138796780187da56964b40.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_59c78538b491950ea42410e85f6aebd357d761a8.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_59c78538b491950ea42410e85f6aebd357d761a8.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_6e0036884ca13727db790cb07a4b6c72cd60bbdb.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_6e0036884ca13727db790cb07a4b6c72cd60bbdb.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_47de005d35334a185354b0e573137fa9d2452bd0.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_47de005d35334a185354b0e573137fa9d2452bd0.1920x1080.jpg?t=1759140467"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_770e4d68f3159c25fa7ce6e48deae58e866e68cd.600x338.jpg?t=1759140467",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34410/ss_770e4d68f3159c25fa7ce6e48deae58e866e68cd.1920x1080.jpg?t=1759140467"
+    }
+  ],
+  "web": "http://www.aspyr.com/product/info/114",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "igdbIntentado": true,
+  "igdb": 9377,
+  "youtube": [
+    {
+      "id": "4oLNyNQTIbU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:47:20.473Z"
+}

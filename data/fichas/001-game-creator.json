@@ -1,0 +1,411 @@
+{
+  "clave": "001 game creator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam"
+  ],
+  "itad": "018d937f-11aa-71d8-ac47-85deb01eca13",
+  "appid": "347400",
+  "lanzamiento": "2005-08-31",
+  "desarrolladores": [
+    "SoftWeir Inc."
+  ],
+  "editores": [
+    "SoftWeir Inc."
+  ],
+  "etiquetas": [
+    "Game Development",
+    "Design & Illustration",
+    "Utilities",
+    "Animation & Modeling",
+    "Education"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 76,
+      "cantidad": 250,
+      "url": "https://store.steampowered.com/app/347400/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "59780",
+      "nombre": "001 Game Creator",
+      "apps": [
+        {
+          "appid": "347400",
+          "nombre": "001 Game Creator: 2026 Edition"
+        }
+      ],
+      "usd": 7.39,
+      "antes": 36.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "347400": {
+      "usd": 7.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 13,
+  "dlcLista": [
+    {
+      "appid": "564680",
+      "nombre": "001 Game Creator - MMORPG Kit",
+      "gratis": false,
+      "usd": 12.36,
+      "descuento": 25
+    },
+    {
+      "appid": "564681",
+      "nombre": "001 Game Creator - 3D FPS / Survival Horror Kit",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "977250",
+      "nombre": "001 Game Creator - Enhanced RPG (Turn-Based Battles)",
+      "gratis": false,
+      "usd": 10.86,
+      "descuento": 25
+    },
+    {
+      "appid": "2598260",
+      "nombre": "001 Game Creator - 3D Step Dungeon Maze Kit",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "1042950",
+      "nombre": "001 Game Creator - Visual Novel Kit",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "567360",
+      "nombre": "001 Game Creator - Point & Click Adventure Kit",
+      "gratis": false,
+      "usd": 8.24,
+      "descuento": 25
+    },
+    {
+      "appid": "1144120",
+      "nombre": "001 Game Creator - Dragon's Den Resource Pack",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "951950",
+      "nombre": "001 Game Creator - Retro Fantasy Music Pack Volume 1",
+      "gratis": false,
+      "usd": 6.41,
+      "descuento": 25
+    },
+    {
+      "appid": "1450840",
+      "nombre": "001 Game Creator - Sound Effects Pack Volume 1",
+      "gratis": false,
+      "usd": 6.41,
+      "descuento": 25
+    },
+    {
+      "appid": "736530",
+      "nombre": "001 Game Creator - Free Add-On Music Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2221110",
+      "nombre": "E-Book - STEM Course for 001 Game Creator: Basics",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "2221111",
+      "nombre": "E-Book - STEM Course for 001 Game Creator: Resources",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    },
+    {
+      "appid": "2221112",
+      "nombre": "E-Book - SoftWeir Game Design Worksheets",
+      "gratis": false,
+      "usd": 9.36,
+      "descuento": 25
+    }
+  ],
+  "descripcion": "001 Game Creator es un motor de juegos asistido con programación gráfica tanto para usuarios principiantes como avanzados. Los desarrolladores pueden rápidamente prototipar sus ideas, probar sistemas complejos y construir experiencias de un jugador y multijugador online/locales para Windows PC, html5, android y IOS.",
+  "generos": [
+    "Animación y modelado",
+    "Diseño e ilustración",
+    "Educación",
+    "Edición fotográfica",
+    "Formación en software",
+    "Utilidades",
+    "Producción de vídeo",
+    "Publicación web",
+    "Desarrollo de juegos"
+  ],
+  "lanzamientoTexto": "13 JUL 2015",
+  "metacritic": null,
+  "steamDeck": "No compatible",
+  "nombreSteam": "001 Game Creator: 2026 Edition",
+  "acerca": [
+    [
+      "p",
+      "Crea juegos sin limites"
+    ],
+    [
+      "p",
+      "001 Game Creator se enorgullece de si mismo en ofrecer a los usuarios un diverso conjunto de herramientas y características para crear cualquier tipo de juego que te puedas imaginar:"
+    ],
+    [
+      "li",
+      "Pc, Steam, Android, IOS, HTML5 con gestos multi táctiles y prueba por medio de red."
+    ],
+    [
+      "li",
+      "Multijugador Online/LAN/Red (soporta tanto TCP como UDP)"
+    ],
+    [
+      "li",
+      "Editor de capas múltiples del mapa con paralajes"
+    ],
+    [
+      "li",
+      "Sistema de cámara 2D/3D con audio 7.1 3D HD"
+    ],
+    [
+      "li",
+      "Juegos de Pantalla dividida con soporte múltiple para controles"
+    ],
+    [
+      "li",
+      "Sistemas de capas de sprites, modelos 3D y efectos de partículas"
+    ],
+    [
+      "li",
+      "Carga y descarga dinámica de recursos para mejorar el rendimiento/reducción de uso de memoria para juegos largos"
+    ],
+    [
+      "li",
+      "Diseñador de interfaces"
+    ],
+    [
+      "li",
+      "Diseñador de gráficos integrado"
+    ],
+    [
+      "li",
+      "Mecánicas de inteligencia artificial para batallas y rutas de actor"
+    ],
+    [
+      "li",
+      "Editor de programación gráfica o textual a elección con un depurador de juego, que incluye visibilidad de variables y estadísticas."
+    ],
+    [
+      "p",
+      "Programación Gráfica asistida"
+    ],
+    [
+      "p",
+      "001 Game Creator ofrece a los creadores la habilidad de crear juegos intuitivos e imaginativos sin tener conocimientos sobre escribir código. Esto es especialmente beneficioso para los artistas y diseñadores que prefieren un enfoque mas práctico y visual, o para los desarrolladores que no desean pasar horas golpeando su cabeza contra la pared. A diferencia de las aplicaciones tradicionales de programación guiadas por eventos, 001 Game Creator ofrece un gran conjunto de eventos pre elaborados, con la habilidad también de crear eventos personalizados para funciones especificas hechas a la medida para tus juegos."
+    ],
+    [
+      "p",
+      "PC, Steam Html5 y desarrollo móvil todo en uno"
+    ],
+    [
+      "p",
+      "001 Game Creator permite a los desarrolladores construir sus propios juegos para computadoras con Windows (exe) – con soporte para el API de Steam (logros, estadísticas, etc.), HTML5 (js/html) y dispositivos móviles (apk), ¡Todo en uno! A diferencia de otros motores similares, 001 Game Creator provee a los desarrolladores con la libertad para crear sus juegos para todas las plataformas disponibles sin pagar nada adicional. Y lo mejor de todo, es que no hay una licencia adicional o honorarios con tus ingresos para vender tus juegos – de modo que si tu compraste una copia de 001 Game Creator puedes vender tus juegos ¡Sin tener que compartir ganancias con nosotros!"
+    ],
+    [
+      "p",
+      "Juega videojuegos con todos"
+    ],
+    [
+      "p",
+      "001 Game Creator da a los desarrolladores herramientas para crear ambiciosas experiencias online multijugador/cooperativo con las características de red integradas (TCP/IP). Adicional a eso, 001 Game Creator también permite a los desarrolladores crear experiencias multijugador locales de hasta 4 jugadores - con soporte de controles múltiples incluido."
+    ],
+    [
+      "p",
+      "Las posibilidades son infinitas"
+    ],
+    [
+      "p",
+      "001 Game Creator desbloquea las puertas a un amplio rango de posibilidades, con la posibilidad de hacer cualquier juego que te imagines. Incluyendo (pero no limitado a) RPGs, dispara todo, juegos de carreras, juegos de pelea, juegos de simulación, plataformas, defensa de la torre, juegos de cartas e incluso ¡Juegos 3D!, si puedes imaginarlo, puedes crearlo con 001 Game Creator."
+    ],
+    [
+      "p",
+      "Tenga en cuenta: Nuestra documentación sólo está disponible en inglés en este momento"
+    ]
+  ],
+  "caracteristicas": [
+    "Logros de Steam",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Chat de texto convertido a voz",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón",
+    "Menús narrados",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Sonido envolvente",
+    "Opción solo táctil"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Microsoft® Windows® XP / Vista / 7 / 8 / 10 (32-bit/64-bit)"
+      ],
+      [
+        "Procesador",
+        "2.0 GHZ o mas rápido"
+      ],
+      [
+        "Memoria",
+        "512 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1024 x 769 píxeles o una mas alta resolución de escritorio"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "OpenGL v 2.1 o superior"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Microsoft® Windows® 7 / 8 / 10 (32-bit/64-bit)"
+      ],
+      [
+        "Procesador",
+        "2.0 GHZ o mas rápido"
+      ],
+      [
+        "Memoria",
+        "512 MB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1024 x 769 píxeles o una mas alta resolución de escritorio"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "OpenGL v3.0 o superior"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_87457afe34eb09040d6a7835442824b874a8e935.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_87457afe34eb09040d6a7835442824b874a8e935.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_e8c8c14e0f57d1fa3820144b7df796f8728ebedb.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_e8c8c14e0f57d1fa3820144b7df796f8728ebedb.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_461007f4945e16cb75d280a9623ab9ed963505a4.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_461007f4945e16cb75d280a9623ab9ed963505a4.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_5efecc2165bc4ddc45d1b1cebfff3117aecd978f.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_5efecc2165bc4ddc45d1b1cebfff3117aecd978f.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_a3ea06507f1a5de537d85b76ed4d77f43f6c06d2.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_a3ea06507f1a5de537d85b76ed4d77f43f6c06d2.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_5e5f240e9f50cc042f5cd9cd648407da9d489786.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_5e5f240e9f50cc042f5cd9cd648407da9d489786.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_6c5489250512470b349efe4a82fcfab3797b2563.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_6c5489250512470b349efe4a82fcfab3797b2563.1920x1080.jpg?t=1787603881"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_b41ae7eb0947e3afc276e251211dadcc1b195cd2.600x338.jpg?t=1787603881",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/347400/ss_b41ae7eb0947e3afc276e251211dadcc1b195cd2.1920x1080.jpg?t=1787603881"
+    }
+  ],
+  "web": "https://001gamecreator.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "v": 7,
+  "consultado": "2026-11-27T17:45:17.785Z"
+}

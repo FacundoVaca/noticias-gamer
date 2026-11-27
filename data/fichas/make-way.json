@@ -1,0 +1,334 @@
+{
+  "clave": "make way",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d954a-f9b1-72b6-a5b3-23b745b7f074",
+  "appid": "1445790",
+  "lanzamiento": "2023-12-03",
+  "desarrolladores": [
+    "Ice BEAM",
+    "Secret Mode"
+  ],
+  "editores": [
+    "Secret Mode",
+    "Secret Mode Limited",
+    "Ice BEAM"
+  ],
+  "etiquetas": [
+    "Multiplayer",
+    "Funny",
+    "Local Multiplayer",
+    "Action",
+    "Level Editor"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 91,
+      "cantidad": 1664,
+      "url": "https://store.steampowered.com/app/1445790/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/make-way/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/make-way/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 6,
+      "url": "https://opencritic.com/game/15926/make-way"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "509691",
+      "nombre": "Make Way",
+      "apps": [
+        {
+          "appid": "1445790",
+          "nombre": "Make Way"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 6.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1445790": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "4060690",
+      "nombre": "Make Way: Legends Pack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Acelera por los bucles, pasa volando por los cruces de tren, derrapa alrededor de toboganes en espiral y saca a relucir tu descabellado armamento en esta versión moderna del clásico juego de carreras multijugador con desplazamiento vertical de arriba abajo. ¿La novedad? Tú construyes la pista.",
+  "generos": [
+    "Acción",
+    "Casual",
+    "Indie",
+    "Carreras"
+  ],
+  "lanzamientoTexto": "4 DIC 2023",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/make-way?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Make Way",
+  "acerca": [
+    [
+      "p",
+      "Make Way es un título clásico de carreras multijugador con desplazamiento vertical de arriba abajo y muchas marchas subidas."
+    ],
+    [
+      "p",
+      "Coge tramos de pista en un menú para elegir y combinar, y únelos con el fin de crear tu primer circuito. Esquiva peligros, usa tu armamento y evitar caer por el borde en esta caótica carrera hasta la meta, y luego junta nuevos tramos de pista para la siguiente ronda."
+    ],
+    [
+      "p",
+      "Písale a fondo por circuitos en constante crecimiento y con características cada vez más peligrosas hasta que se corone al ganador antes de empezar otra vez con un circuito totalmente nuevo."
+    ],
+    [
+      "h",
+      "Construye tu circuito"
+    ],
+    [
+      "p",
+      "Colabora (o compite) para construir pistas rápidamente empleando un repertorio de piezas disparatadas, como bucles, balancines, tirabuzones e incluso cruces de tren. Y luego añádele obstáculos y potenciadores. Tira por tierra la carrera de tus amigos con una barrera oportuna o tíralos por el exterior de la curva con un panel de aceleración."
+    ],
+    [
+      "h",
+      "Lanza por los aires a los rivales"
+    ],
+    [
+      "p",
+      "Seis pilotos se empujan y apartan para pasar por los puntos de control y llegar a la línea de meta. Aniquila a los oponentes con una serie de alocadas armas, como cañones de pegotes viscosos y bobinas Tesla, pero mucho ojo: cada punto de control sirve de punto de reaparición y la venganza es un plato que se sirve frío con un martillo gigante o una escopeta sobre el techo..."
+    ],
+    [
+      "h",
+      "Sigue adelante"
+    ],
+    [
+      "p",
+      "¡La cosa no acaba en la línea de meta! Añade más tramos de pista después de cada ronda para crear circuitos de dimensiones monstruosas y consigue puntos de bonificación por tu rendimiento para llevarte a casa el trofeo."
+    ],
+    [
+      "h",
+      "Aumenta tu colección"
+    ],
+    [
+      "p",
+      "Desbloquea nuevos tramos de pista y peligros para crear diseños de circuitos más peligrosos. Añade nuevos vehículos a tu garaje para acelerar hasta la victoria con estilo."
+    ],
+    [
+      "h",
+      "Características clave"
+    ],
+    [
+      "p",
+      "Tramos de pista exclusivos para mezclar y combinar, y peligros para crear configuraciones de circuitos prácticamente interminables."
+    ],
+    [
+      "p",
+      "Lucha por conseguir armas y potenciadores, y así sacar ventaja."
+    ],
+    [
+      "p",
+      "Desbloquea nuevos tramos de pista y vehículos para disputar carreras más chifladas."
+    ],
+    [
+      "p",
+      "Pueden participar hasta seis jugadores, en la misma pantalla o bien online en multijugador entre plataformas."
+    ],
+    [
+      "p",
+      "Activa o desactiva las trampas y los quitamiedos para facilitar (o complicar) la conducción en los tramos sinuosos con conjuntos de reglas totalmente personalizables."
+    ],
+    [
+      "p",
+      "Ahora incluye la actualización World Tour, que añade ocho vehículos adicionales, tres entornos de circuito, el modo Equipo ¡y mucho más!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Comodidad de la cámara",
+    "Alternativas de color",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel i3-2100 / AMD A8-5600k"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 630 / Radeon HD 6570"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-Bit"
+      ],
+      [
+        "Procesador",
+        "Intel i5-650 / AMD A10-5800K"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 650 / Radeon HD 7510"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/a77e8c727e97148885d2484df70ad1bfbd954d65/ss_a77e8c727e97148885d2484df70ad1bfbd954d65.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/a77e8c727e97148885d2484df70ad1bfbd954d65/ss_a77e8c727e97148885d2484df70ad1bfbd954d65.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ed2ece0f2178adc91bd85cfd7c4013a3030121b4/ss_ed2ece0f2178adc91bd85cfd7c4013a3030121b4.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ed2ece0f2178adc91bd85cfd7c4013a3030121b4/ss_ed2ece0f2178adc91bd85cfd7c4013a3030121b4.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_31f6317b63e7c996b9b169cb4fa3c07df47043d8.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_31f6317b63e7c996b9b169cb4fa3c07df47043d8.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_451ef9356047338c53912a8ba7f2deebe3281276.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_451ef9356047338c53912a8ba7f2deebe3281276.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_e4f46401f70010bd5b46f18d9c03e9269239263c.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_e4f46401f70010bd5b46f18d9c03e9269239263c.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_d51759289a7e72f9b46236977cf32abbe4ee792e.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_d51759289a7e72f9b46236977cf32abbe4ee792e.1920x1080.jpg?t=1790865580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_9a9ebe7f0533157be2f3f8d8bab4146a8db699d9.600x338.jpg?t=1790865580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/ss_9a9ebe7f0533157be2f3f8d8bab4146a8db699d9.1920x1080.jpg?t=1790865580"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 258230,
+  "youtube": [
+    {
+      "id": "4OAqRoU7lPg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "O3ms-INT2T8",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:48:48.060Z"
+}

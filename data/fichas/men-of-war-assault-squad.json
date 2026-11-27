@@ -1,0 +1,387 @@
+{
+  "clave": "men of war assault squad",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f502-709e-b174-147a69915fab",
+  "appid": "64000",
+  "lanzamiento": "2011-02-24",
+  "desarrolladores": [
+    "Digitalmindsoft",
+    "IMG Publishing Ltd."
+  ],
+  "editores": [
+    "Fulqrum Games",
+    "Fulqrum Publishing",
+    "1C Online Games Ltd.",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "Digitalmindsoft"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "World War II",
+    "War",
+    "Tactical",
+    "RTS"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 87,
+      "cantidad": 4035,
+      "url": "https://store.steampowered.com/app/64000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 77,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/men-of-war-assault-squad/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 80,
+      "cantidad": 124,
+      "url": "https://metacritic.com/game/men-of-war-assault-squad/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "7452",
+      "nombre": "Men of War: Assault Squad",
+      "apps": [
+        {
+          "appid": "64000",
+          "nombre": "Men of War: Assault Squad"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "13358",
+      "nombre": "Men of War: Assault Squad - Game of the Year Edition",
+      "apps": [
+        {
+          "appid": "64000",
+          "nombre": "Men of War: Assault Squad"
+        },
+        {
+          "appid": "64005",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Alpha"
+        },
+        {
+          "appid": "64014",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Bravo"
+        },
+        {
+          "appid": "64016",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Charlie"
+        },
+        {
+          "appid": "64013",
+          "nombre": "Men of War: Assault Squad - Skirmish Pack"
+        },
+        {
+          "appid": "64017",
+          "nombre": "Men of War: Assault Squad - Skirmish Pack 2"
+        }
+      ],
+      "usd": 8.55,
+      "antes": 8.55,
+      "descuento": 0
+    },
+    {
+      "packageid": "13471",
+      "nombre": "Men of War: Assault Squad - DLC Pack",
+      "apps": [
+        {
+          "appid": "64005",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Alpha"
+        },
+        {
+          "appid": "64014",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Bravo"
+        },
+        {
+          "appid": "64016",
+          "nombre": "Men of War: Assault Squad - MP Supply Pack Charlie"
+        },
+        {
+          "appid": "64013",
+          "nombre": "Men of War: Assault Squad - Skirmish Pack"
+        },
+        {
+          "appid": "64017",
+          "nombre": "Men of War: Assault Squad - Skirmish Pack 2"
+        }
+      ],
+      "usd": 3.29,
+      "antes": 3.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "64000": {
+      "usd": 6.29,
+      "gratis": false
+    },
+    "64005": {
+      "usd": 1.5,
+      "gratis": false
+    },
+    "64013": {
+      "usd": 1.5,
+      "gratis": false
+    },
+    "64014": {
+      "usd": 1.5,
+      "gratis": false
+    },
+    "64016": {
+      "usd": 1.5,
+      "gratis": false
+    },
+    "64017": {
+      "usd": 1.5,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "64005",
+      "nombre": "Men of War: Assault Squad - MP Supply Pack Alpha",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    },
+    {
+      "appid": "64013",
+      "nombre": "Men of War: Assault Squad - Skirmish Pack",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    },
+    {
+      "appid": "64014",
+      "nombre": "Men of War: Assault Squad - MP Supply Pack Bravo",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    },
+    {
+      "appid": "64016",
+      "nombre": "Men of War: Assault Squad - MP Supply Pack Charlie",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    },
+    {
+      "appid": "64017",
+      "nombre": "Men of War: Assault Squad - Skirmish Pack 2",
+      "gratis": false,
+      "usd": 1.5,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Men of War: Assault Squad ofrece una experiencia táctica de la Segunda Guerra Mundial, combinando estrategia a gran escala con combate directo e intenso. Lucha en varios frentes, de Europa al Pacífico, y controla cada unidad y cada disparo.",
+  "generos": [
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "24 FEB 2011",
+  "metacritic": {
+    "puntaje": 77,
+    "url": "https://www.metacritic.com/game/pc/men-of-war-assault-squad?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Men of War: Assault Squad",
+  "acerca": [
+    [
+      "p",
+      "Lidera la batalla. Ordena cada unidad. Gana la guerra."
+    ],
+    [
+      "p",
+      "Men of War: Assault Squad ofrece una experiencia de la Segunda Guerra Mundial profundamente táctica, combinando estrategia a gran escala con el combate directo e intenso. Adéntrate en el corazón del conflicto en varios teatros – desde la Europa rural hasta las junglas del Pacífico – y controla cada detalle de tu ejército hasta la última bala."
+    ],
+    [
+      "p",
+      "Controla cinco facciones únicas – EE. UU., la URSS, Alemania, la Commonwealth y Japón – cada una con sus propias unidades, vehículos y doctrinas. Usa el Control Directo para manejar personalmente cualquier soldado, tanque o pieza de artillería, cambiando el rumbo de la batalla con precisión y habilidad. Cada proyectil cuenta, cada posición importa, y cada error puede costarte la victoria."
+    ],
+    [
+      "p",
+      "Men of War: Assault Squad ofrece realismo, variedad y libertad táctica pocas veces vista en los juegos de estrategia en tiempo real. Las batallas son impredecibles, la IA es implacable, y la victoria pertenece solo a quienes saben adaptarse bajo fuego."
+    ],
+    [
+      "h",
+      "Características principales:"
+    ],
+    [
+      "p",
+      "Combate táctico en tiempo real – controla escuadras completas o toma el control directo de cualquier unidad en plena acción."
+    ],
+    [
+      "p",
+      "Cinco facciones únicas – cada una con estrategias, vehículos y equipamiento distintos."
+    ],
+    [
+      "p",
+      "Entornos dinámicos y destructibles – remodela el campo de batalla con explosivos, artillería y fuego de tanques."
+    ],
+    [
+      "p",
+      "Simulación avanzada de combate – gestiona munición, combustible, penetración de blindaje, línea de visión y moral."
+    ],
+    [
+      "p",
+      "Escaramuzas cooperativas y multijugador – lucha junto a hasta 4 aliados o enfréntate a jugadores de todo el mundo."
+    ],
+    [
+      "p",
+      "Unidades héroe únicas – con habilidades potentes que aumentan el daño, el valor o proporcionan ventajas decisivas."
+    ],
+    [
+      "p",
+      "IA mejorada y dinámica – ninguna misión se desarrolla igual, cada batalla ofrece algo nuevo."
+    ],
+    [
+      "p",
+      "Realismo de combate mejorado – infantería revisada, física de armas mejorada, sistema de artillería reestructurado y munición especializada para mayor potencia de fuego de tanques."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en LAN",
+    "Logros de Steam",
+    "Tablas de clasificación de Steam",
+    "Incluye editor de niveles",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows XP / Vista / 7"
+      ],
+      [
+        "Procesador",
+        "2.6 GHz o superior"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Compatible con DX9c"
+      ],
+      [
+        "DirectX®",
+        "DX9c"
+      ],
+      [
+        "Disco Duro",
+        "4 GB de espacio libre"
+      ],
+      [
+        "Sonido",
+        "Compatible con Windows"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_ecef5fc64347f316eef9a4223c4d7e2b26d5ca17.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_ecef5fc64347f316eef9a4223c4d7e2b26d5ca17.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_a2d9544ee79c17851598e91df16655c1dadc2247.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_a2d9544ee79c17851598e91df16655c1dadc2247.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_a4918e3f0b03bd836dc66ff84fde2bb27fd5c5b1.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_a4918e3f0b03bd836dc66ff84fde2bb27fd5c5b1.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_8378d228ca39455fca0a23f6db4984033e40d8cf.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_8378d228ca39455fca0a23f6db4984033e40d8cf.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_550f5480c2447c172a9dbecbebfe13f859924bcd.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_550f5480c2447c172a9dbecbebfe13f859924bcd.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_d9c66ce751b524d1672fca434dd92b461c10312a.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_d9c66ce751b524d1672fca434dd92b461c10312a.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_9f2c519ad14dbe9b2811d4d7124474503c5f333e.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_9f2c519ad14dbe9b2811d4d7124474503c5f333e.1920x1080.jpg?t=1773656168"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_e2a66013f0ffa8fee265c971ea988e267c2ec10c.600x338.jpg?t=1773656168",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/64000/ss_e2a66013f0ffa8fee265c971ea988e267c2ec10c.1920x1080.jpg?t=1773656168"
+    }
+  ],
+  "web": "http://www.menofwargame.com/assault/",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 1144,
+  "youtube": [
+    {
+      "id": "Y8WgcvpjHII",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:45:42.060Z"
+}

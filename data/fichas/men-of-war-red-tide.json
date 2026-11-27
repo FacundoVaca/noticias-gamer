@@ -1,0 +1,272 @@
+{
+  "clave": "men of war red tide",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-2b43-72b3-8a32-bf82afcc0474",
+  "appid": "3130",
+  "lanzamiento": "2009-10-30",
+  "desarrolladores": [
+    "IMG Publishing Ltd.",
+    "1C Company",
+    "Fulqrum Publishing"
+  ],
+  "editores": [
+    "Fulqrum Games",
+    "1C Online Games Ltd.",
+    "Fulqrum Publishing",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "1C Company"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "World War II",
+    "RTS",
+    "Historical",
+    "War"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 771,
+      "url": "https://store.steampowered.com/app/3130/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 77,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/men-of-war-red-tide/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 81,
+      "cantidad": 41,
+      "url": "https://metacritic.com/game/men-of-war-red-tide/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "2365",
+      "nombre": "Men of War: Red Tide",
+      "apps": [
+        {
+          "appid": "3130",
+          "nombre": "Men of War: Red Tide"
+        }
+      ],
+      "usd": 3.29,
+      "antes": 3.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "3130": {
+      "usd": 3.29,
+      "gratis": false
+    }
+  },
+  "descripcion": "Red Tide combina tácticas profundas de RTS con la intensidad del combate en tercera persona. Creada con el autor Alexander Zorich, esta expansión independiente narra la historia de los Abrigos Negros, infantería naval soviética famosa por su precisión implacable en el Mar Negro.",
+  "generos": [
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "1 NOV 2009",
+  "metacritic": {
+    "puntaje": 77,
+    "url": "https://www.metacritic.com/game/pc/men-of-war-red-tide?ftag=MCD-06-10aaa1f"
+  },
+  "nombreSteam": "Men of War: Red Tide",
+  "acerca": [
+    [
+      "p",
+      "Vive la guerra donde la tierra se encuentra con el mar."
+    ],
+    [
+      "p",
+      "Men of War: Red Tide combina la profundidad táctica de la estrategia en tiempo real con la intensidad cruda del combate directo en tercera persona. Desarrollada en colaboración con el escritor y autor conceptual Alexander Zorich, esta expansión independiente narra la historia de los “Abrigos Negros”, la Infantería Naval soviética, una fuerza de élite reconocida por su precisión implacable durante las campañas del mar Negro en la Segunda Guerra Mundial."
+    ],
+    [
+      "p",
+      "Lidera a tus tropas a través de 23 misiones que recrean las batallas más feroces del Frente Oriental – desde Odesa y Sebastopol hasta Nikolaev y Constanza. Coordina asaltos anfibios, captura fortificaciones enemigas y dirige trenes blindados, flotas navales y aviones mientras el caos de la guerra estalla a tu alrededor."
+    ],
+    [
+      "p",
+      "Men of War: Red Tide ofrece una atmósfera auténtica, misiones desafiantes y la combinación perfecta de tácticas a gran escala y control personal. Su campaña proporciona variedad y profundidad histórica, mezclando operaciones amplias con heroísmo intenso a corta distancia – la esencia de la experiencia Men of War."
+    ],
+    [
+      "h",
+      "Características:"
+    ],
+    [
+      "p",
+      "Amplia campaña narrativa para un jugador – más de 20 misiones artesanales que abarcan seis grandes operaciones históricas entre 1941 y 1945."
+    ],
+    [
+      "p",
+      "Cuatro facciones jugables – dirige fuerzas soviéticas, alemanas, rumanas e italianas en una variedad de campos de batalla."
+    ],
+    [
+      "p",
+      "Más de 100 unidades militares auténticas – incluidos tanques, artillería, cañones autopropulsados, vehículos blindados, buques de guerra y aviones."
+    ],
+    [
+      "p",
+      "Sistema de control directo – toma el mando de cualquier soldado o vehículo en cualquier momento, alternando sin esfuerzo entre la vista estratégica y el combate directo."
+    ],
+    [
+      "p",
+      "Apoyo naval y aéreo – despliega cruceros, destructores, lanchas torpederas, bombarderos e hidroaviones para cambiar el rumbo de la batalla."
+    ],
+    [
+      "p",
+      "Inmersión cinematográfica en el campo de batalla – clima dinámico, entornos destructibles y un modelado de daños realista dan vida a cada enfrentamiento."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en LAN",
+    "Cooperativo",
+    "Cooperativo en LAN",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows XP (service pack 1)"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium 4 a 2,6 GHz (Athlon 3000+)"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 6200 o ATI Radeon 9600 (128 MB de RAM)"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Disco Duro",
+        "5 GB de espacio libre en disco"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX 9.0c"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows XP (service pack 1) / Windows Vista"
+      ],
+      [
+        "Procesador",
+        "Core 2 Duo a 2,33 GHz"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce 8600 o ATI Radeon HD 2600 (256 MB)"
+      ],
+      [
+        "DirectX®",
+        "9.0c"
+      ],
+      [
+        "Disco Duro",
+        "5 GB de espacio libre en disco"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX 9.0c"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ede21ded0a3c72fe32e4b0714909243a2b285c91.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ede21ded0a3c72fe32e4b0714909243a2b285c91.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_0127df518a985149aed6d7735e1b40142a77cdce.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_0127df518a985149aed6d7735e1b40142a77cdce.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ad1b79792cb118afedf2a2748d5426a9476a50af.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ad1b79792cb118afedf2a2748d5426a9476a50af.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_55b88121a203be04da57ec62dd44f6e85c949fbf.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_55b88121a203be04da57ec62dd44f6e85c949fbf.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_d29fd6d8db595f6a6cc55563579d3f14875c0b45.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_d29fd6d8db595f6a6cc55563579d3f14875c0b45.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_585c269b861a1b530aa3c07e35f351b05561b12d.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_585c269b861a1b530aa3c07e35f351b05561b12d.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ad006e16cb13c89cf17711911dc0fba6a70f0024.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_ad006e16cb13c89cf17711911dc0fba6a70f0024.1920x1080.jpg?t=1773656494"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_5a33e0b4d41f04ea23c967feb7168bf35dc44fce.600x338.jpg?t=1773656494",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3130/ss_5a33e0b4d41f04ea23c967feb7168bf35dc44fce.1920x1080.jpg?t=1773656494"
+    }
+  ],
+  "web": "http://www.menofwargame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 8387,
+  "youtube": [
+    {
+      "id": "smioFHNOYPQ",
+      "nombre": null
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:47:00.722Z"
+}

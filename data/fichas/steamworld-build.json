@@ -1,0 +1,356 @@
+{
+  "clave": "steamworld build",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6983-7219-be6a-15ccaea0cf60",
+  "appid": "2134770",
+  "lanzamiento": "2023-12-01",
+  "desarrolladores": [
+    "The Station",
+    "Thunderful Development"
+  ],
+  "editores": [
+    "Thunderful Publishing",
+    "Thunderful Games",
+    "Thunderful Publishing AB"
+  ],
+  "etiquetas": [
+    "City Builder",
+    "Casual",
+    "Relaxing",
+    "Economy",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 83,
+      "cantidad": 1906,
+      "url": "https://store.steampowered.com/app/2134770/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 29,
+      "url": "https://metacritic.com/game/steamworld-build/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 42,
+      "url": "https://metacritic.com/game/steamworld-build/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 76,
+      "cantidad": 55,
+      "url": "https://opencritic.com/game/15732/steamworld-build"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "763640",
+      "nombre": "SteamWorld Build",
+      "apps": [
+        {
+          "appid": "2134770",
+          "nombre": "SteamWorld Build"
+        }
+      ],
+      "usd": 8.49,
+      "antes": 8.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2134770": {
+      "usd": 7.51,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2744630",
+      "nombre": "SteamWorld Build Mechanized DLC",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    },
+    {
+      "appid": "2672410",
+      "nombre": "SteamWorld Build Soundtrack",
+      "gratis": false,
+      "usd": 5.79,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "SteamWorld Build es un juego híbrido de construcción de ciudades y gestión de mazmorras en el universo de SteamWorld. Construye y dirige una ciudad en un planeta agonizante. Equilibra los recursos, la construcción y la exploración de las profundidades para que tu gente sobreviva y logre escapar.",
+  "generos": [
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "1 DIC 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "SteamWorld Build",
+  "acerca": [
+    [
+      "p",
+      "Innova en una nueva frontera mientras el planeta agoniza a tu alrededor..."
+    ],
+    [
+      "p",
+      "¡El mundo se acaba y debes escapar! Por suerte, Astrid sabe que hay tecnología nuevecita y muy útil en las profundidades de las minas. Amplía la ciudad, gestiona los recursos, abre minas y explora las oscuras profundidades para obtenerla. ¿Tienes lo que hay que tener para escapar de este mundo que se desmorona?"
+    ],
+    [
+      "p",
+      "SteamWorld Build es un juego híbrido de construcción de ciudades y gestión de mazmorras que se desarrolla en el [adorado] universo de SteamWorld. Te permite disfrutar de una experiencia única y accesible de ambos géneros, arte precioso dibujado a mano y una banda sonora exquisita."
+    ],
+    [
+      "li",
+      "Construcción de ciudades intuitiva: Construye y gestiona la ciudad con controles simples y una interfaz fácil de usar."
+    ],
+    [
+      "li",
+      "Exploración de mazmorras: Recorre minas creadas a mano, resuelve rompecabezas y obtén tesoros valiosos. Pero ¡cuidado! Muchos peligros acechan en la oscuridad."
+    ],
+    [
+      "li",
+      "Gestión estratégica de recursos: Equilibra los recursos para que la ciudad prospere y los habitantes sean productivos."
+    ],
+    [
+      "li",
+      "Estética encantadora de SteamWorld: Adéntrate en el adorado universo de SteamWorld, con su estilo artístico distintivo y personajes extravagantes."
+    ],
+    [
+      "li",
+      "Experiencia de juego relajante: Disfruta de una experiencia relajada y satisfactoria con cuatro niveles de dificultad, cinco mapas base y seis mapas temáticos adicionales para explorar que incluyen:"
+    ],
+    [
+      "li",
+      "Jingle Bolts"
+    ],
+    [
+      "li",
+      "Dorado Quest"
+    ],
+    [
+      "li",
+      "Mechanical Meadows"
+    ],
+    [
+      "li",
+      "Crash Site"
+    ],
+    [
+      "li",
+      "Steam Wave"
+    ],
+    [
+      "li",
+      "Skull Valley"
+    ],
+    [
+      "li",
+      "Steam Fright"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 8400"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 1050"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and operating system"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-9700F @ 3.00GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_288cc5974d8ed5cc4daf2f9bbb69517b221dd064.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_288cc5974d8ed5cc4daf2f9bbb69517b221dd064.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_d848414138d38cc8360832bfd71800eb0227ad13.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_d848414138d38cc8360832bfd71800eb0227ad13.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_327ce110f7c6e647a8cccb2134fc740cf17c51fd.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_327ce110f7c6e647a8cccb2134fc740cf17c51fd.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_5d45d2f7a99c80a5b01df06302c95b267ed0d0e6.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_5d45d2f7a99c80a5b01df06302c95b267ed0d0e6.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_9e30a0b4796eac6ecaeb90013db9f785bbcc0026.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_9e30a0b4796eac6ecaeb90013db9f785bbcc0026.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_d4d34887cf81f052dad029009b3109c3efef1fa2.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_d4d34887cf81f052dad029009b3109c3efef1fa2.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_95ed4a4e83aad2d35df0be49fb1a04a2e23d7a11.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_95ed4a4e83aad2d35df0be49fb1a04a2e23d7a11.1920x1080.jpg?t=1759330706"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_ee641ae2a49254ea4a15b170dcb35ac19a93d42b.600x338.jpg?t=1759330706",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2134770/ss_ee641ae2a49254ea4a15b170dcb35ac19a93d42b.1920x1080.jpg?t=1759330706"
+    }
+  ],
+  "web": "https://steamworldgames.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 232908,
+  "youtube": [
+    {
+      "id": "Fd_ZTJtAW88",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "U-2yvUWFU34",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "fmKF7F0VE7E",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "gz0V9Z9SPgk",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T17:47:44.139Z"
+}
