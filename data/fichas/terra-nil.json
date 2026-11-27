@@ -1,0 +1,353 @@
+{
+  "clave": "terra nil",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-50c5-71d1-a970-bda9d84dccdf",
+  "appid": "1593030",
+  "lanzamiento": "2023-03-28",
+  "desarrolladores": [
+    "Free Lives",
+    "Free Lives, Clockwork Acorn",
+    "Clockwork Acorn"
+  ],
+  "editores": [
+    "Devolver Digital"
+  ],
+  "etiquetas": [
+    "Nature",
+    "Strategy",
+    "Relaxing",
+    "Puzzle",
+    "City Builder"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 86,
+      "cantidad": 8292,
+      "url": "https://store.steampowered.com/app/1593030/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 45,
+      "url": "https://metacritic.com/game/terra-nil/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 58,
+      "url": "https://metacritic.com/game/terra-nil/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 53,
+      "url": "https://opencritic.com/game/14483/terra-nil"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "563998",
+      "nombre": "Terra Nil",
+      "apps": [
+        {
+          "appid": "1593030",
+          "nombre": "Terra Nil"
+        }
+      ],
+      "usd": 3.12,
+      "antes": 12.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1593030": {
+      "usd": 3.12,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2321920",
+      "nombre": "Terra Nil Soundtrack",
+      "gratis": false,
+      "usd": 4.34,
+      "descuento": 25
+    },
+    {
+      "appid": "2321930",
+      "nombre": "Terra Nil Digital Artbook",
+      "gratis": false,
+      "usd": 6.72,
+      "descuento": 59
+    }
+  ],
+  "descripcion": "Terra Nil es un complejo juego de estrategia medioambiental cuyo objetivo es transformar un páramo desolado en un ecosistema próspero y equilibrado. Devuélvele la vida a este planeta, después, márchate sin dejar rastro.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "28 MAR 2023",
+  "metacritic": {
+    "puntaje": 79,
+    "url": "https://www.metacritic.com/game/pc/terra-nil?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Terra Nil",
+  "acerca": [
+    [
+      "p",
+      "Terra Nil es un juego sobre la transformación de un paraje desolado y sin vida en un ecosistema vivo y próspero. Convierte la tierra muerta en una pradera fértil, limpia océanos contaminados, planta extensos bosques y crea el hábitat ideal para los animales. Después, recicla tus edificios y márchate sin dejar rastro de que hayas pasado por allí. Recupera el páramo."
+    ],
+    [
+      "h",
+      "Construcción a la inversa"
+    ],
+    [
+      "p",
+      "Usa tecnologías ecológicas avanzadas para purificar la tierra y crear llanuras, humedales, playas, bosques pluviales y flores silvestres, entre otras cosas. Después, recicla todo lo que has construido para dejar el entorno impoluto para los nuevos habitantes, los animales."
+    ],
+    [
+      "h",
+      "Mapas distintos cada vez"
+    ],
+    [
+      "p",
+      "Los paisajes generados de modo procedural hacen que cada partida de Terra Nil sea diferente. Planea tus construcciones en un terreno aleatorio, desafiante e impredecible que incluye ríos serpenteantes, montañas, tierras bajas y mares."
+    ],
+    [
+      "h",
+      "Un ciclo natural"
+    ],
+    [
+      "p",
+      "Cada región de Terra Nil progresa por diferentes fases, con el objetivo final de dejar una tierra salvaje impoluta. Los niveles no tratan del crecimiento infinito, sino de equilibrar y nutrir el entorno antes de dejarlo en paz."
+    ],
+    [
+      "h",
+      "Disfruta de la tranquilidad"
+    ],
+    [
+      "p",
+      "Los entornos pintados a mano, la música relajante y los ambientes sonoros evocadores convierten Terra Nil en una experiencia apacible y relajante. Cuando termines, usa el modo Apreciar para disfrutar de la belleza natural del ecosistema que has restaurado."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4590 / AMD FX-8350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 760 / Radeon RX 560X"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-6950X / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1080 / Radeon RX 5700 XT"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_6cd1cb55eaa724b291f669f8d9d17b88ecb1f2e9.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_6cd1cb55eaa724b291f669f8d9d17b88ecb1f2e9.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_f0d9c194f5889a0c2f4a847dd74ed8a229706662.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_f0d9c194f5889a0c2f4a847dd74ed8a229706662.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_14c9c35fca02d892c1279f904dcd2806a6429932.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_14c9c35fca02d892c1279f904dcd2806a6429932.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8b51d705d39e7c910484d8bf1176e1978d822dcc.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8b51d705d39e7c910484d8bf1176e1978d822dcc.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8f514c29e5d93da9366a2a68199eb1ca69a98fb3.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_8f514c29e5d93da9366a2a68199eb1ca69a98fb3.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_065eec4af801201fbcbc522876f3ddbe02ac875d.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_065eec4af801201fbcbc522876f3ddbe02ac875d.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_b53dbcc0689719d564036ca2250b6343d030e6ab.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_b53dbcc0689719d564036ca2250b6343d030e6ab.1920x1080.jpg?t=1776447714"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_a32ef41734f009758224e4b58258653ce1c12a14.600x338.jpg?t=1776447714",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593030/ss_a32ef41734f009758224e4b58258653ce1c12a14.1920x1080.jpg?t=1776447714"
+    }
+  ],
+  "web": "https://freelives.net/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 152424,
+  "youtube": [
+    {
+      "id": "F8eYqNNxICE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "DdSgOmPm1e8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "wpX9MsuUmow",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "nui_kUMr_dU",
+      "nombre": "Gameplay Video"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T09:47:22.037Z"
+}
