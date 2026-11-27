@@ -1,0 +1,274 @@
+{
+  "clave": "shame legacy",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6e48-7367-b239-cef27463f1fe",
+  "appid": "2014690",
+  "lanzamiento": "2023-05-30",
+  "desarrolladores": [
+    "Fairyship Games / Revenant Games",
+    "Fairyship, Revenant Games",
+    "Fairyship Games",
+    "Revenant Games"
+  ],
+  "editores": [
+    "Destructive Creations"
+  ],
+  "etiquetas": [
+    "Action-Adventure",
+    "Survival Horror",
+    "First-Person",
+    "Atmospheric",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 52,
+      "cantidad": 67,
+      "url": "https://store.steampowered.com/app/2014690/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 66,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/shame-legacy/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "727396",
+      "nombre": "Shame Legacy",
+      "apps": [
+        {
+          "appid": "2014690",
+          "nombre": "Shame Legacy"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2014690": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "«Shame Legacy» es un juego de terror en primera persona ambientado en un pueblo ocupado por una secta. Tendrás que valerte del sigilo para sobrevivir. Descubre el misterio de la maldición que te acecha resolviendo puzles.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "30 MAY 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Shame Legacy",
+  "acerca": [
+    [
+      "p",
+      "«Shame Legacy» es un juego de terror en primera persona ambientado en un pueblo ocupado por una secta durante el siglo XIX. Tendrás que intentar sobrevivir mediante el sigilo y escapando de tus enemigos. Mientras resuelves los puzles, descubrirás la relación que tienes con este macabro asunto. Pero no te distraigas, pues un oscuro peligro acecha..."
+    ],
+    [
+      "p",
+      "Te has despertado en lo que parece ser un centro psiquiátrico de la época y no tardas en darte cuenta de que se está celebrando una cacería. Y lo que es peor, tú eres la presa."
+    ],
+    [
+      "p",
+      "Parece ser que por fin has recibido la herencia familiar, pero no en la forma tradicional, aquí no te esperan yates o chalés de lujo."
+    ],
+    [
+      "p",
+      "Si quieres llegar al fondo del asunto, tendrás que moverte con el mayor sigilo. Los aldeanos están por todas partes, tratando de encontrarte, y no se lo pensarán dos veces si te ven o te escuchan..."
+    ],
+    [
+      "p",
+      "Tu sagacidad te ayudará a resolver los puzles, pero también tu báculo, que será tu línea de defensa para defenderte de los aldeanos. Eso sí que es eficiencia."
+    ],
+    [
+      "p",
+      "Que te detecten no significa el fin de la aventura, pero solo si eres lo bastante rápido y consigues mantener la calma. Acabas de despertarte, y el doctor del pueblo no tiene muy buenas noticias sobre tu salud y tu resistencia al estrés. Cuando sientas que no puedes más, siempre hay una forma u otra de aliviarse. Nota: esto no es un anuncio de drogas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "WINDOWS 7, 8, 8.1, 10 (64-bit Required)"
+      ],
+      [
+        "Procesador",
+        "Intel®Core i3-3220, 3.30 GHz or AMD FX-6300 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 750ti or AMD Radeon R7 260x with 2 GB Video RAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "WINDOWS 7, 8, 8.1, 10 (64-bit Required)"
+      ],
+      [
+        "Procesador",
+        "Intel®Core i7-3770 or AMD FX-9590 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 or AMD Radeon RX 480 with 3GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_7d4405c2bbe9914d050563920070f88fc86f5dac.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_7d4405c2bbe9914d050563920070f88fc86f5dac.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_770b17290a6e768f1b68ac2e6de16594b952be45.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_770b17290a6e768f1b68ac2e6de16594b952be45.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_7f602f09343ba8e2ca6640fc2a53c9aa8fb37223.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_7f602f09343ba8e2ca6640fc2a53c9aa8fb37223.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_a99dfabf54e1e88d7aac33f137d2fc79be50056c.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_a99dfabf54e1e88d7aac33f137d2fc79be50056c.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_ffd2339111d18d4d318fb0a71fa25e06e800667b.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_ffd2339111d18d4d318fb0a71fa25e06e800667b.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_e24c0c7b6e3e1f3877cc16542aa151087230b0fd.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_e24c0c7b6e3e1f3877cc16542aa151087230b0fd.1920x1080.jpg?t=1778152902"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_63060ced0dbe361cbb7225e14aa095bba69c4a7f.600x338.jpg?t=1778152902",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2014690/ss_63060ced0dbe361cbb7225e14aa095bba69c4a7f.1920x1080.jpg?t=1778152902"
+    }
+  ],
+  "web": "http://www.shamelegacy.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game contains scary and disturbing themes, sounds and images. It often contains blood, gore, torture and mutilation, which the player has no control of nor direct connection with.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 241959,
+  "v": 7,
+  "consultado": "2026-11-27T19:20:51.604Z"
+}

@@ -1,0 +1,432 @@
+{
+  "clave": "gas station simulator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-381e-7054-a93d-b7d05f9977f1",
+  "appid": "1149620",
+  "lanzamiento": "2021-09-14",
+  "desarrolladores": [
+    "DRAGO Ent.",
+    "DRAGO entertainment"
+  ],
+  "editores": [
+    "DRAGO entertainment",
+    "Green Man Gaming",
+    "Plug In Digital",
+    "HeartBeat Games",
+    "DRAGO Entertainment SA",
+    "GMG Label Limited",
+    "Shochiku",
+    "DRAGO entertainmentHeartBeat Games",
+    "Movie Games S.A."
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Economy",
+    "Management",
+    "Singleplayer",
+    "Building"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 24154,
+      "url": "https://store.steampowered.com/app/1149620/"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 73,
+      "cantidad": 11,
+      "url": "https://opencritic.com/game/12003/gas-station-simulator"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "391750",
+      "nombre": "Gas Station Simulator",
+      "apps": [
+        {
+          "appid": "1149620",
+          "nombre": "Gas Station Simulator"
+        }
+      ],
+      "usd": 5.75,
+      "antes": 5.75,
+      "descuento": 0
+    },
+    {
+      "packageid": "791425",
+      "nombre": "Gas Station Simulator - Commercial License",
+      "apps": [
+        {
+          "appid": "1149620",
+          "nombre": "Gas Station Simulator"
+        }
+      ],
+      "usd": 5.75,
+      "antes": 5.75,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1149620": {
+      "usd": 5.66,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 7,
+  "dlcLista": [
+    {
+      "appid": "2782920",
+      "nombre": "Gas Station Simulator - Car Junkyard DLC",
+      "gratis": false,
+      "usd": 4.89,
+      "descuento": 0
+    },
+    {
+      "appid": "2600880",
+      "nombre": "Gas Station Simulator - Tidal Wave DLC",
+      "gratis": false,
+      "usd": 2.58,
+      "descuento": 40
+    },
+    {
+      "appid": "3543920",
+      "nombre": "Gas Station Simulator - RV Camp DLC",
+      "gratis": false,
+      "usd": 3.45,
+      "descuento": 0
+    },
+    {
+      "appid": "2137370",
+      "nombre": "Gas Station Simulator - Airstrip DLC",
+      "gratis": false,
+      "usd": 1.38,
+      "descuento": 40
+    },
+    {
+      "appid": "1940030",
+      "nombre": "Gas Station Simulator - Can Touch This DLC",
+      "gratis": false,
+      "usd": 2.09,
+      "descuento": 30
+    },
+    {
+      "appid": "3014630",
+      "nombre": "Gas Station Simulator - Drive-In Cinema DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2126170",
+      "nombre": "Gas Station Simulator - Party Time DLC",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Compra una gasolinera abandonada y devuélvele toda su gloria. Renueva, mejora y expande todos los servicios para estar al tanto de las demandas de tus clientes.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "15 SEP 2021",
+  "metacritic": {
+    "puntaje": 72,
+    "url": "https://www.metacritic.com/game/pc/gas-station-simulator?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Gas Station Simulator",
+  "acerca": [
+    [
+      "p",
+      "Gas Station Simulator va sobre renovar, expandir y llevar una gasolinera en una autopista en medio del desierto. La libertad de decidir y las múltiples opciones que tendrás para dirigir tu negocio y lidiar con la presión son ingredientes claves en este juego."
+    ],
+    [
+      "p",
+      "Compra una gasolinera abandonada en la mitad de la nada y devuélvele toda su gloria. Desházte del escombro y del mobiliario roto, arregla las paredes, pinta y decora el lugar como desees. Pero no gastes todo tu dinero en la apariencia nada más empezar; has comprado una gasolinera, al fin y al cabo. Repara el equipo, compra lo que no puedas reparar y empieza a servir a tus clientes para ganar dinero para más reformas y mejoras."
+    ],
+    [
+      "p",
+      "No hace falta que pienses en pequeño. Puedes expandir tu gasolinera para poder servir a más clientes. Además, una gasolinera no solo se trata de vender gasolina. Puedes expandir la lista de servicios que ofreces a tus clientes y así, atraer a una variedad mayor. Tienes varias opciones de expansión a tu disposición, desde las más pequeñas como aseos o como una simple tienda para cumplimentar tus ganancias, hasta las más grandes como un taller para reparar coches o incluso un lavacoches. Hay unas cuantas opciones y la mayoría de expansiones pueden ser, a su vez, expandidas. Tienes mucho que hacer aquí."
+    ],
+    [
+      "p",
+      "Restaurar tu gasolinera es una cosa, pero darle un toque personal es otra. El juego ofrece una gran lista de opciones para personalizar lo que construyas y muchas decoraciones para realzar la singularidad del lugar. Algunas decoraciones se pueden comprar, otras se adquieren a través del gameplay. No solo se trata de hacer que la gasolinera esté bonita. Cuanto más impresionante sea tu gasolinera, más clientes se fijarán en ella."
+    ],
+    [
+      "p",
+      "Atender a tus clientes es clave para dirigir tu gasolinera con éxito. Todos esperan que sus coches sean repuestos, sus compras hechas al momento, y no son muy pacientes ni siquiera cuando se trata de reparar sus vehículos. Vas a estar lidiando con mucha presión debido al tiempo en las horas clave, y tendrás que organizar varias tareas para cuando haya menos caos. Manejar bien tu tiempo y elegir las prioridades de manera correcta te será muy importante para poder mantener a tus clientes felices."
+    ],
+    [
+      "p",
+      "Aunque lo puedes intentar, en la mayoría de los casos, dirigir una gasolinera que ha sido expandida y mejorada, y que ofrece muchos servicios diferentes, puede que termine siendo demasiado solo para ti. Aquí es donde los empleados entran. Puedes contratar incluso a múltiples empleados para que te ayuden en varias tareas en la gasolinera. Los empleados tienen diferentes habilidades y algunos son mejores en algunas tareas que otras. Los empleados también subirán de nivel según las tareas que hagan, y mejorarán con el tiempo."
+    ],
+    [
+      "p",
+      "No puedes vender lo que no tienes. Estar al tanto de tu inventario es importante, y pedir cosas en el momento adecuado por el precio adecuado te ayudará a mantener las ganancias. Para aprovecharte mejor de las oportunidades de precio bajo, puedes construir un almacén y expandirlo para poder tener mayor almacenamiento. Vigilar de cerca tu inventario es crucial, ya que los pedidos toman su tiempo y no vas a querer quedarte sin nada que vender, o incluso peor, sin gasolina."
+    ],
+    [
+      "p",
+      "Creamos el juego para que si te gusta, puedas entrar de lleno en las características de gestión y microgestiones lo que quieras. Sin embargo, si la gestión no es de tu interés, no te forzamos a lidiar con ello de lleno. Eso sí, microgestionar alguno de los aspectos como los suministros o los empleados puede recompensarte, tanto como en cuanto a finanzas como en cuanto a entretenimiento."
+    ],
+    [
+      "h",
+      "Características clave"
+    ],
+    [
+      "p",
+      "Renueva, dirige y expande una gasolinera en el desierto."
+    ],
+    [
+      "p",
+      "Construye nuevos servicios como una taller, una tienda, un almacén o un lavacoches."
+    ],
+    [
+      "p",
+      "Intenta manejar todo tú solo o contrata empleados para que te ayuden."
+    ],
+    [
+      "p",
+      "Eventos interesantes aparte del gameplay base."
+    ],
+    [
+      "p",
+      "Gran cantidad de opciones de personalización y decoración."
+    ],
+    [
+      "p",
+      "Gran cantidad de clientes diferentes, con necesidades y expectaciones varias."
+    ],
+    [
+      "p",
+      "Gran cantidad de opciones de gestión en las que sumergirse."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3 3.0 GHz or Ryzen 3xxx"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GeForce GTX 960 4GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 (recent generation)"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GeForce GTX 1070 or better 6GB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_4707569d03521819ff41362e0923c36c58839b26.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_4707569d03521819ff41362e0923c36c58839b26.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_94aa6330dab81dc306e55166f002c8840c4408de.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_94aa6330dab81dc306e55166f002c8840c4408de.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1f470c0c30f67b895c2caed1cae983d0fbb53a54.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1f470c0c30f67b895c2caed1cae983d0fbb53a54.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_33d03da735eb77872c25169e1f3e1d70f4461b59.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_33d03da735eb77872c25169e1f3e1d70f4461b59.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_76e87c290054a6e7f41913db743c420e401391a3.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_76e87c290054a6e7f41913db743c420e401391a3.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_12a84e32f0a195efccdc4ab76e7af308b939e0f1.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_12a84e32f0a195efccdc4ab76e7af308b939e0f1.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1e70a6346a33237ad8c5e72ce820ea133eb05d0b.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_1e70a6346a33237ad8c5e72ce820ea133eb05d0b.1920x1080.jpg?t=1793204580"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_0f44902e25e8282a375f86ea4543bd592e2887dd.600x338.jpg?t=1793204580",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149620/ss_0f44902e25e8282a375f86ea4543bd592e2887dd.1920x1080.jpg?t=1793204580"
+    }
+  ],
+  "web": "https://gasstationsimulatorthegame.com/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 122522,
+  "youtube": [
+    {
+      "id": "M01zRvKlijA",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "EQQbqDBpm_0",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "zDYVQ_-rCUE",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "fyWZTYsrzR0",
+      "nombre": "Teaser"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:20:05.161Z"
+}

@@ -1,0 +1,485 @@
+{
+  "clave": "rimworld",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-12e9-71ca-a5d5-f31985870694",
+  "appid": "294100",
+  "lanzamiento": "2018-10-17",
+  "desarrolladores": [
+    "Ludeon Studios"
+  ],
+  "editores": [
+    "Ludeon Studios"
+  ],
+  "etiquetas": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Sandbox"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 212506,
+      "url": "https://store.steampowered.com/app/294100/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 87,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/rimworld/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 88,
+      "cantidad": 968,
+      "url": "https://metacritic.com/game/rimworld/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 86,
+      "cantidad": 11,
+      "url": "https://opencritic.com/game/6905/rimworld"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "41602",
+      "nombre": "RimWorld",
+      "apps": [
+        {
+          "appid": "294100",
+          "nombre": "RimWorld"
+        }
+      ],
+      "usd": 14.39,
+      "antes": 17.99,
+      "descuento": 20
+    },
+    {
+      "packageid": "361969",
+      "nombre": "RimWorld - Commercial License",
+      "apps": [
+        {
+          "appid": "294100",
+          "nombre": "RimWorld"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "294100": {
+      "usd": 14.39,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 10,
+  "dlcLista": [
+    {
+      "appid": "3022790",
+      "nombre": "RimWorld - Odyssey",
+      "gratis": false,
+      "usd": 11.24,
+      "descuento": 10
+    },
+    {
+      "appid": "2380740",
+      "nombre": "RimWorld - Anomaly",
+      "gratis": false,
+      "usd": 10.61,
+      "descuento": 15
+    },
+    {
+      "appid": "1826140",
+      "nombre": "RimWorld - Biotech",
+      "gratis": false,
+      "usd": 10.61,
+      "descuento": 15
+    },
+    {
+      "appid": "1392840",
+      "nombre": "RimWorld - Ideology",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 20
+    },
+    {
+      "appid": "1149640",
+      "nombre": "RimWorld - Royalty",
+      "gratis": false,
+      "usd": 8.39,
+      "descuento": 20
+    },
+    {
+      "appid": "367680",
+      "nombre": "RimWorld Name in Game Access",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "990430",
+      "nombre": "RimWorld Soundtrack",
+      "gratis": false,
+      "usd": 7.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3689230",
+      "nombre": "RimWorld - Odyssey Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2914900",
+      "nombre": "RimWorld - Anomaly Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1244270",
+      "nombre": "RimWorld - Royalty Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Un simulador de colonias de ciencia ficción dirigido por una brillante Inteligencia Artificial que narrará la historia. Genera historias al simular psicología, ecología, combate, clima, biomas, diplomacia, relaciones interpersonales, arte, medicina, comercio y mucho más.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "17 OCT 2018",
+  "metacritic": {
+    "puntaje": 87,
+    "url": "https://www.metacritic.com/game/pc/rimworld?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "RimWorld",
+  "acerca": [
+    [
+      "p",
+      "RimWorld es un simulador de colonias de ciencia ficción dirigido por una brillante Inteligencia Artificial que narrará la historia. Inspirado por Dwarf Fortress, Firefly, y Dune."
+    ],
+    [
+      "p",
+      "Comenzarás con tres colonos que han sobrevivido una catástrofe en un mundo distante."
+    ],
+    [
+      "li",
+      "Tendrás que llevar un control del estado de ánimo, necesidades, heridas, enfermedades y adicciones de tus colonos."
+    ],
+    [
+      "li",
+      "Construye en el bosque, desierto, jungla, tundra y más."
+    ],
+    [
+      "li",
+      "Observa cómo los colonos desarrollan y terminan relaciones con familia, amantes y parejas."
+    ],
+    [
+      "li",
+      "Reemplaza extremidades y órganos lesionados con prótesis, partes biónicas, o partes biológicas extraídas de otros."
+    ],
+    [
+      "li",
+      "Pelea contra piratas, tribus, animales salvajes, insectos gigantes y antiguas máquinas de matar."
+    ],
+    [
+      "li",
+      "Crea estructuras, armas, y utensilios utilizando metal, madera, piedra, textiles y materiales futuristas."
+    ],
+    [
+      "li",
+      "Domina y entrena bellas mascotas, animales de granja y mortales bestias de ataque."
+    ],
+    [
+      "li",
+      "Comercia con naves que van de paso y caravanas."
+    ],
+    [
+      "li",
+      "Crea caravanas para completar misiones, comerciar, atacar otras facciones, o migrar a otra colonia."
+    ],
+    [
+      "li",
+      "Atraviesa nieve, fuertes tormentas y combate contra incendios."
+    ],
+    [
+      "li",
+      "Captura refugiados o prisioneros y conviértelos a tu facción o véndelos como esclavos."
+    ],
+    [
+      "li",
+      "Descubre un nuevo mundo generado cada vez que juegas."
+    ],
+    [
+      "li",
+      "Explora cientos de mods locos e interesantes en el Steam Workshop."
+    ],
+    [
+      "li",
+      "Aprende a jugar fácilmente con la ayuda de una inteligente y discreta IA."
+    ],
+    [
+      "p",
+      "RimWorld es un generador de historias. Está diseñado para ser co-autor de historias trágicas, alocadas y llenas de triunfos, relatando la vida de piratas, colonos desesperados, gente muriendo de hambre y supervivencia IA Narradora . Hay varios narradores a elegir. Randy Random hace cosas locas, Cassandra Classic prefiere que vaya subiendo la tensión poco a poco, y Phoebe Chillax prefiere relajarse."
+    ],
+    [
+      "p",
+      "Tus colonos no son colonizadores expertos - son supervivientes de una catástrofe, cuando se encontraban en un transbordador de pasajeros que fue destruido en órbita. Podrías terminar con un noble, un contable, y una ama de casa. Obtendrás más colonos al capturarlos en combate y convertirlos a tu facción, comprarlos de comerciantes de esclavos, o simplemente al aceptar refugiados. Así que tu colonia siempre será un equipo variopinto."
+    ],
+    [
+      "p",
+      "Los antecedentes de la persona serán registrados y esto afectará la forma en que se juegan. Un noble será perfecto para situaciones sociales (reclutando prisioneros, negociando precios con comerciantes), pero se negará a hacer trabajo físico. Un granjero sabrá como cosechar alimento para esas largas temporadas, pero no es bueno investigando. Un científico será un excelente investigador, pero no cuenta con habilidades sociales. Un asesino genéticamente modificado sólo sabrá matar - pero al menos será muy bueno en esto."
+    ],
+    [
+      "p",
+      "Los colonos desarrollarán - y destruirán - relaciones. Cada uno tiene una opinión distinta de los demás, lo que determina si se harán amantes, se casarán, habrá engaños, o pelearán. Quizás tus mejores dos colonos se encuentren felizmente casados - hasta que ella se enamore de ese atractivo cirujano que la salvó de una herida de bala."
+    ],
+    [
+      "p",
+      "El juego genera un nuevo planeta del polo al ecuador. Puedes elegir si aterrizar tus cápsulas de escape en una fría tundra al norte, una planicie en el desierto, un bosque templado, o una cálida jungla en el ecuador. Cada área cuenta con animales, plantas, enfermedades, temperaturas, lluvias, recursos minerales y terrenos distintos. Los retos para sobrevivir en una jungla caliente llena de enfermedades son muy distintos a estar en un desierto árido o una tundra congelada con una temporada de cosecha de tan sólo dos meses."
+    ],
+    [
+      "p",
+      "Recorre todo el planeta. No tienes porqué quedarte atrapado en un sólo lugar. Podrás formar caravanas de personas, animales y prisioneros. Rescatar antiguos aliados que han sido secuestrados por piratas, podrás asistir a acuerdos de paz, comerciar con otras facciones, atacar colonias enemigas, y completar otras misiones. Incluso podrás tomar a toda tu colonia y moverla a nuevos lugares. Podrás utilizar medios de transporte a propulsión para viajar a mayor velocidad."
+    ],
+    [
+      "p",
+      "Podrás domesticar y entrenar animales. Las mascotas adorables pondrán de mejor humor a los colonos. Los animales de granja podrán trabajar, podrás ordeñarlos y esquilarlos. Las bestias de ataque pueden ser liberadas contra enemigos. Hay muchos animales - gatos, labradores retrievers, osos grizzly, camellos, pumas, chinchillas, gallinas y exóticas formas de vida alienígenas."
+    ],
+    [
+      "p",
+      "La gente en RimWorld observa constantemente su situación y alrededores para poder decidir cómo sentirse en dadas circunstancias. Ellos responden al hambre y fatiga, presenciar una muerte, cuerpos sin vida profanados, ser heridos, estar en total oscuridad, estar dentro de lugares muy estrechos, dormir afuera o en el mismo lugar que otros, y muchas otras situaciones. Si están muy estresados, podrían ponerse en tu contra o colapsar."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Steam Workshop",
+    "Tamaño del texto ajustable",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Opción solo ratón",
+    "Jugable sin restricciones de tiempo",
+    "Guardar en cualquier momento",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Danés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Noruego",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Finés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Rumano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Core 2 Duo"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 4000 or other shader model 4.0"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/cccfece4c643fd32d438642fbea1b980bc519a48/ss_cccfece4c643fd32d438642fbea1b980bc519a48.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/cccfece4c643fd32d438642fbea1b980bc519a48/ss_cccfece4c643fd32d438642fbea1b980bc519a48.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/57c3e8d556d47bb5ad048699643528aefc652aa6/ss_57c3e8d556d47bb5ad048699643528aefc652aa6.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/57c3e8d556d47bb5ad048699643528aefc652aa6/ss_57c3e8d556d47bb5ad048699643528aefc652aa6.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/59a1400eff99e2b620d623d3d76a02c1592a72e7/ss_59a1400eff99e2b620d623d3d76a02c1592a72e7.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/59a1400eff99e2b620d623d3d76a02c1592a72e7/ss_59a1400eff99e2b620d623d3d76a02c1592a72e7.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/788bf7f8f71014b2be28b3dfa11405a06a7fb49e/ss_788bf7f8f71014b2be28b3dfa11405a06a7fb49e.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/788bf7f8f71014b2be28b3dfa11405a06a7fb49e/ss_788bf7f8f71014b2be28b3dfa11405a06a7fb49e.1920x1080.jpg?t=1782756789"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/698ad21bff61006f31650270446d68cd1073c770/ss_698ad21bff61006f31650270446d68cd1073c770.600x338.jpg?t=1782756789",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/698ad21bff61006f31650270446d68cd1073c770/ss_698ad21bff61006f31650270446d68cd1073c770.1920x1080.jpg?t=1782756789"
+    }
+  ],
+  "web": "https://ludeon.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 9789,
+  "youtube": [
+    {
+      "id": "3tDrxOASUog",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "f5JjfGMZ1rQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:19:19.498Z"
+}

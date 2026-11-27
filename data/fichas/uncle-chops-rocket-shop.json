@@ -1,0 +1,320 @@
+{
+  "clave": "uncle chops rocket shop",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ee8-7321-a387-d87af3eea5f7",
+  "appid": "1849790",
+  "lanzamiento": "2024-12-05",
+  "desarrolladores": [
+    "Beard Envy"
+  ],
+  "editores": [
+    "Kasedo Games Ltd",
+    "Kasedo Games",
+    "Kalypso Media Digital Ltd (Kasedo Games)"
+  ],
+  "etiquetas": [
+    "Adventure",
+    "Management",
+    "Simulation",
+    "Puzzle",
+    "Roguelite"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 84,
+      "cantidad": 1117,
+      "url": "https://store.steampowered.com/app/1849790/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/uncle-chops-rocket-shop/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 76,
+      "cantidad": 8,
+      "url": "https://metacritic.com/game/uncle-chops-rocket-shop/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 78,
+      "cantidad": 16,
+      "url": "https://opencritic.com/game/17826/uncle-chops-rocket-shop"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "665568",
+      "nombre": "Uncle Chop's Rocket Shop",
+      "apps": [
+        {
+          "appid": "1849790",
+          "nombre": "Uncle Chop's Rocket Shop"
+        }
+      ],
+      "usd": 10.49,
+      "antes": 10.49,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1849790": {
+      "usd": 10.49,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3335150",
+      "nombre": "Uncle Chop's Rocket Shop Deluxe Skin and Artbook",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3335160",
+      "nombre": "Uncle Chop's Rocket Shop Original Soundtrack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¿Te gustan los juegos roguelite de simulación? En Uncle Chop's Rocket Shop tenemos lo que buscas. Levántate, ficha, repara naves, haz amigos y enemigos, paga el A.L.Q.U.I.L.E.R., mejora tu taller, reflexiona sobre la futilidad del ser, acuéstate y repite todo el proceso al día siguiente.",
+  "generos": [
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "5 DIC 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Uncle Chop's Rocket Shop",
+  "acerca": [
+    [
+      "p",
+      "En una estación de servicio situada en un solitario carril espacial, Wilbur se gana la vida a duras penas como mecánico reparando tantas naves como puede para pagar un alquiler cada vez más desorbitado a su jefe, el tiránico Uncle Chop. Mientras que la mayoría de sus clientes encuentran un pasatiempo interesante en adorar a los trastornados dioses espaciales, alimentar con todo tipo de basura a un agujero negro con sentimientos, excavar sin cesar en busca de The Treasure™ o esclavizando mentalmente a los trabajadores de la tienda de rosquillas, Wilbur tiene una vida más humilde, arreglando a la vez los males de la galaxia y un módulo espacial roto."
+    ],
+    [
+      "h",
+      "Repara"
+    ],
+    [
+      "p",
+      "Usa el amplio conjunto de herramientas, dispositivos de diagnóstico, piezas y demás artefactos del taller para corregir fallos de los módulos de las naves espaciales generados de manera aleatoria. Procura completar tantas tareas como puedas (desde repostar hasta revisar todo el equipo) en el menor tiempo posible dentro del límite diario. La gran variedad de naves y módulos te ensuciarán mucho las manos y muy rápido, y en algunos lugares bastante inusuales. ¡Prepárate para ensuciarte las manos en sitios de lo más inusuales! ¡Prepárate para ensuciarte las manos en sitios de lo más inusuales!"
+    ],
+    [
+      "h",
+      "Lee"
+    ],
+    [
+      "p",
+      "Presume de tus conocimientos básicos consultando las páginas del manual para orientarte sobre el diagnóstico y la corrección de errores en los módulos de la nave espacial, así como sobre el funcionamiento de los aparatos del taller. Si la lectura no es santo de tu devoción, siempre puedes echar un vistazo a los diagramas. Tantos años montando muebles de IKEA tenían que servir para algo, ¿no?"
+    ],
+    [
+      "h",
+      "Mejora"
+    ],
+    [
+      "p",
+      "Usa la calderilla que te has ganado con tanto esfuerzo y que Uncle Chop no te quita, amplía tu taller y equípalo con todo tipo de estaciones de trabajo, desde máquinas industriales hasta altares esotéricos. Estas estaciones de trabajo te permitirán reparar naves más grandes y lucrativas."
+    ],
+    [
+      "h",
+      "Habla"
+    ],
+    [
+      "p",
+      "Interactúa con todo tipo de bichos raros y disfruta de una narrativa tipo antología y con varios finales en un universo (*se para a consultar las notas*) \"rico, profundo y fascinante\", donde encontrarás diferentes facciones para elegir, cada una de ellas con sus propios y absurdos planes."
+    ],
+    [
+      "h",
+      "Descubre"
+    ],
+    [
+      "p",
+      "Sucesos narrativos y aleatorios, mejoras y rompecabezas ocultos, historias secretas… Tenemos todo lo necesario para que cada partida sea diferente de la anterior."
+    ],
+    [
+      "h",
+      "Repite lo anterior, pero mejor"
+    ],
+    [
+      "p",
+      "No será nada fácil pagar el A.L.Q.U.I.L.E.R. que no deja de subir. ¡No te desanimes, campeón! Algunas actualizaciones de la estación se mantendrán a lo largo del juego y harán que la vida sea un poco más fácil de llevar cada vez. Piensa que, cuanto más hagas una tarea, más rápido e inteligente será tu personaje, así que dale caña."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 (Quad Core)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA Geforce GTX 1050"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Audio Device"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 (Quad Core)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA Geforce GTX 1060"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Windows Compatible Audio Device"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_05cac0b8e3995334c28a60364f18fc478d19f269.1920x1080.jpg?t=1741363567"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_3607dd9695fd99e05d52bd00e90cb8fe2883dfd2.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_3607dd9695fd99e05d52bd00e90cb8fe2883dfd2.1920x1080.jpg?t=1741363567"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_c6dac8f8dff8db0613edab707e61be7555ef9a7d.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_c6dac8f8dff8db0613edab707e61be7555ef9a7d.1920x1080.jpg?t=1741363567"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_ee15e3d07f3a33b4f5f6a647500ee87621c5edfe.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_ee15e3d07f3a33b4f5f6a647500ee87621c5edfe.1920x1080.jpg?t=1741363567"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_bb21a6d24f3a04f62447f698a1f6d4e5113afaa1.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_bb21a6d24f3a04f62447f698a1f6d4e5113afaa1.1920x1080.jpg?t=1741363567"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_cb065a7047eb81a6d933cd0dccdb276f03f719ee.600x338.jpg?t=1741363567",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1849790/ss_cb065a7047eb81a6d933cd0dccdb276f03f719ee.1920x1080.jpg?t=1741363567"
+    }
+  ],
+  "web": "https://www.unclechops.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Frequent scenes of cartoon violence and gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 214710,
+  "youtube": [
+    {
+      "id": "vcSrK2R5x1Y",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "0RsRnMhqQgI",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:21:21.673Z"
+}

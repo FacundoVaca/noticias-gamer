@@ -1,0 +1,322 @@
+{
+  "clave": "worldless",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ee7-7261-93d8-0a6c48537103",
+  "appid": "1898500",
+  "lanzamiento": "2023-11-20",
+  "desarrolladores": [
+    "Noname Studios"
+  ],
+  "editores": [
+    "Coatsink Software Ltd",
+    "Coatsink",
+    "Coatsink Software",
+    "Thunderful Publishing"
+  ],
+  "etiquetas": [
+    "Stylized",
+    "2D Platformer",
+    "Platformer",
+    "Metroidvania",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 94,
+      "cantidad": 1603,
+      "url": "https://store.steampowered.com/app/1898500/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/worldless/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 73,
+      "cantidad": 27,
+      "url": "https://metacritic.com/game/worldless/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 26,
+      "url": "https://opencritic.com/game/15876/worldless"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "683765",
+      "nombre": "Worldless",
+      "apps": [
+        {
+          "appid": "1898500",
+          "nombre": "Worldless"
+        }
+      ],
+      "usd": 3.14,
+      "antes": 10.49,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1898500": {
+      "usd": 3.14,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2546820",
+      "nombre": "Worldless Soundtrack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Worldless es un juego de plataformas en 2D con un sistema de combate único y una narrativa interpretativa impresionante. Los jugadores se embarcan en una aventura de crecimiento personal y conocimiento que los ayudará a desarrollar su naturaleza en un universo nuevo y abstracto.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "20 NOV 2023",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/worldless?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Worldless",
+  "acerca": [
+    [
+      "p",
+      "Worldless tiene lugar en un universo recién nacido, donde diferentes entidades se encuentran atrapadas en un conflicto eterno, impulsado por la naturaleza polarizante de sus atracciones. Estos encuentros pueden desatar un inestable intercambio de polaridades, con transformaciones impredecibles, cargadas de misteriosas consecuencias."
+    ],
+    [
+      "p",
+      "En este juego de plataformas 2D explorarás mundos intrincados e interconectados, llenos de secretos y enigmas. En ellos, deberás dominar un amplio repertorio de habilidades, como el dash o el salto en pared, para abrirte paso por estos paisajes abstractos."
+    ],
+    [
+      "p",
+      "En tu viaje, te enfrentarás a seres decididos a detenerte mientras buscas tu lugar en este universo. Los combates fusionan la estrategia clásica por turnos con elementos de acción en tiempo real, que exigen precisión, reflejos y un dominio profundo de las mecánicas para ofrecer enfrentamientos tan intensos como estratégicos."
+    ],
+    [
+      "p",
+      "Descubre formas de moverte inimaginables corriendo, saltando y deslizándote por entornos surrealistas en una búsqueda por trascender."
+    ],
+    [
+      "p",
+      "Personaliza tu progreso a través de un profundo y gratificante árbol de talentos diseñado para adaptarse a tu estilo de juego."
+    ],
+    [
+      "p",
+      "Enfréntate a enemigos en combates frenéticos, donde la clave para superarlos está en dominar a la perfección tus opciones de ataque y defensa."
+    ],
+    [
+      "p",
+      "Déjate llevar por melodías inquietantes y hermosas que te conectarán profundamente con cada rincón del mundo de Worldless."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Catalán",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7 (64bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core 2 Duo E5200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 9800GTX+ (1GB)"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 (64bit)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 560"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_f115e0e133a635996964453badda078a96e6986c.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_f115e0e133a635996964453badda078a96e6986c.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_df122c96eeb4a4c48b446e64a55c2f2c25038d85.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_df122c96eeb4a4c48b446e64a55c2f2c25038d85.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_e1197d5ced000bd394efbd4a392e0e3781787770.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_e1197d5ced000bd394efbd4a392e0e3781787770.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_359b384b65f38bc2c845188e604ab7d019b482ba.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_359b384b65f38bc2c845188e604ab7d019b482ba.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_8e3dd450a7eefca830f7c200f763e5f5e06f45d0.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_8e3dd450a7eefca830f7c200f763e5f5e06f45d0.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_ae01d4ba7c90437a34e8d5d0dae5df1c0bd32b0d.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_ae01d4ba7c90437a34e8d5d0dae5df1c0bd32b0d.1920x1080.jpg?t=1788255568"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_d83642e9019b857506721138b9b8ce25730682e1.600x338.jpg?t=1788255568",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898500/ss_d83642e9019b857506721138b9b8ce25730682e1.1920x1080.jpg?t=1788255568"
+    }
+  ],
+  "web": "https://playworldless.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 214709,
+  "youtube": [
+    {
+      "id": "2MqZVUaor_Q",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "x7o3WAn9NZA",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "40NMjJi4bS0",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:16:09.608Z"
+}

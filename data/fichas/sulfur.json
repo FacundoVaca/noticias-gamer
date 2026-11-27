@@ -1,0 +1,375 @@
+{
+  "clave": "sulfur",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ee2-70f6-940c-6212ad483ad3",
+  "appid": "2124120",
+  "lanzamiento": "2024-10-28",
+  "desarrolladores": [
+    "Perfect Random"
+  ],
+  "editores": [
+    "Perfect Random"
+  ],
+  "etiquetas": [
+    "Action Roguelike",
+    "Gun Customization",
+    "Extraction Shooter",
+    "FPS",
+    "Singleplayer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 12833,
+      "url": "https://store.steampowered.com/app/2124120/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 62,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/sulfur/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "759804",
+      "nombre": "SULFUR",
+      "apps": [
+        {
+          "appid": "2124120",
+          "nombre": "SULFUR"
+        }
+      ],
+      "usd": 11.99,
+      "antes": 14.99,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "2124120": {
+      "usd": 11.97,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3025640",
+      "nombre": "SULFUR Official Soundtrack",
+      "gratis": false,
+      "usd": 2.69,
+      "descuento": 10
+    },
+    {
+      "appid": "4268010",
+      "nombre": "We Wish You A SULFUR Christmas",
+      "gratis": false,
+      "usd": 1.59,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "SULFUR es una moderna aventura de acción a la antigua usanza: supera a tus enemigos, encuentra tesoros, mejora tus armas y aprovecha tus poderes. Explora, encuentra respuestas y haz que acabe.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Rol",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "28 OCT 2026",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "SULFUR",
+  "acerca": [
+    [
+      "p",
+      "Organízate para ser más listo que tus enemigos y avanzar en un mundo de oscuras criaturas y maldad retorcida. Usa un arsenal de armas personalizables y de uso gratificante en un combate visceral e intenso. Crea ingeniosos diseños con armas, equipamiento, herramientas y encantamientos que te ayuden en tu aventura. Ve a lo loco y dispara a todo lo que se mueve o planifica cuidadosamente tus estrategias. Hay un montón de estilos de juego: tú eliges."
+    ],
+    [
+      "p",
+      "Un lugar lleno hasta los topes de acción, jugosas armas, combates temerarios y monstruosidades acechando en cada esquina. Mejora las armas con combinaciones de una gran variedad de encantamientos y accesorios."
+    ],
+    [
+      "p",
+      "Explora para descubrir secretos y encontrar botines y tesoros..., pero con cuidado. Piénsatelo bien; todo lo que lleves puede perderse, pero lo que no lleves no estará ahí para ayudarte. Toda decisión conlleva un riesgo."
+    ],
+    [
+      "p",
+      "Siente el ambiente, el suspense y la tribulación de un mundo en redención. ¿Que pasó? ¿Y por qué? Viaja por brumosos valles, bosques oscuros, las chozas inmundas del Gremio Negro y atraviesa muros de castillos para ir más allá. Adéntrate y avanza. Las respuestas llegan a aquellos que escuchan."
+    ],
+    [
+      "p",
+      "Explora, descubre, desvela. En tu aventura, encontrarás criaturas extrañas en los lugares más inesperados: presta atención a sus advertencias. Pueden detestarte, admirarte, animarte o mostrarse indiferentes a ti y a tu viaje. ¿Tendrás que cautivarlas, amenazarlas, sobornarlas o deshacerte de ellas? ¿Te ayudarán? ¿O las ayudarás tú a ellas?"
+    ],
+    [
+      "p",
+      "Cuello blanco ensangrentado."
+    ],
+    [
+      "p",
+      "El barro te acompaña."
+    ],
+    [
+      "p",
+      "Tus hombros no lo soportan."
+    ],
+    [
+      "p",
+      "¿Qué es esto, sino una artimaña?"
+    ],
+    [
+      "p",
+      "El aquelarre en el punto de mira,"
+    ],
+    [
+      "p",
+      "mientras la iglesia está en llamas."
+    ],
+    [
+      "p",
+      "¿Quién será el culpable?"
+    ],
+    [
+      "p",
+      "¿Quién merece la fama?"
+    ],
+    [
+      "p",
+      "Gritos del océano."
+    ],
+    [
+      "p",
+      "Remolinos y torsión."
+    ],
+    [
+      "p",
+      "La boca está seca."
+    ],
+    [
+      "p",
+      "Los ojos pican un montón."
+    ],
+    [
+      "p",
+      "Pero debes continuar,"
+    ],
+    [
+      "p",
+      "no hay remordimiento."
+    ],
+    [
+      "p",
+      "Limpia el agua salada"
+    ],
+    [
+      "p",
+      "de tu Palehorse™ sin miramiento."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con Steam Input",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Sueco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10 64-bit o posterior."
+      ],
+      [
+        "Procesador",
+        "2.4GHZ Dual Core Processor o superior."
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 970 o equivalente."
+      ],
+      [
+        "DirectX",
+        "Versión 9.0"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "Debe soportar ruidos fuertes y explosiones."
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "2.4 GHZ Quad Core Processor"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1080 or equivalent"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "MORE BEATS MORE EXPLOSIONS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_264c35daa8e599f8c1b91d987e6b097ce16c964a.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_6a4189c456f0f3aa02348d7fe3fb15a3502a4eed.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_6a4189c456f0f3aa02348d7fe3fb15a3502a4eed.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_41f47179be05032e00866adc8997554116d45fdf.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_41f47179be05032e00866adc8997554116d45fdf.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_bb72c1f48a82fb9af0ac80cb1c6fbac73d98b26e.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_bb72c1f48a82fb9af0ac80cb1c6fbac73d98b26e.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_3a001bb940be5e3f59ada04744096de2368df9b3.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_3a001bb940be5e3f59ada04744096de2368df9b3.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_208624ffe32ade066590946b133d9bc291537622.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_208624ffe32ade066590946b133d9bc291537622.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_b6de0fe1cab7fcaaff720ec5b56ee40ef33a7ae7.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_b6de0fe1cab7fcaaff720ec5b56ee40ef33a7ae7.1920x1080.jpg?t=1795304956"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_500f612bdd32446a99d25fcacff65503ca766635.600x338.jpg?t=1795304956",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124120/ss_500f612bdd32446a99d25fcacff65503ca766635.1920x1080.jpg?t=1795304956"
+    }
+  ],
+  "web": "https://www.sulfur.tv",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The blood of your enemies, and visual gore.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 233970,
+  "youtube": [
+    {
+      "id": "9WsdFbJF228",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "DRPK46hqDEQ",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "KGoK5qpBK-E",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "T8ZUk4UdZVA",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:23:01.393Z"
+}

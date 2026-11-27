@@ -1,0 +1,238 @@
+{
+  "clave": "lunar lander beyond",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-7344-73fe-997b-3b99f0de0335",
+  "appid": "2376270",
+  "lanzamiento": "2024-04-23",
+  "desarrolladores": [
+    "Dreams Uncorporated"
+  ],
+  "editores": [
+    "Atari Interactive, Inc.",
+    "Atari",
+    "Atari Interactive"
+  ],
+  "etiquetas": [
+    "Exploration",
+    "Flight",
+    "Perma Death",
+    "Space Sim",
+    "2D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 42,
+      "cantidad": 14,
+      "url": "https://store.steampowered.com/app/2376270/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 75,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/lunar-lander-beyond/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 60,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/lunar-lander-beyond/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 74,
+      "cantidad": 20,
+      "url": "https://opencritic.com/game/16609/lunar-lander-beyond"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "854511",
+      "nombre": "Lunar Lander Beyond",
+      "apps": [
+        {
+          "appid": "2376270",
+          "nombre": "Lunar Lander Beyond"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2376270": {
+      "usd": 3.74,
+      "gratis": false
+    }
+  },
+  "descripcion": "Guía a un grupo de coloridos pilotos, eclécticos asesores y modernos aterrizadores a través de una agotadora serie de misiones. Entrega cargamentos, recupera recursos y rescata a pilotos varados mientras navegas por un misterioso universo de lunas y planetas.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "23 ABR 2024",
+  "metacritic": {
+    "puntaje": 75,
+    "url": "https://www.metacritic.com/game/pc/lunar-lander-beyond?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Lunar Lander Beyond",
+  "acerca": [
+    [
+      "p",
+      "Como recién nombrado capitán de la corporación Pegasus, deberás guiar a un plantel de coloridos pilotos, eclécticos asesores y modernos aterrizadores a través de una agotadora serie de misiones. Entrega cargamentos, recupera recursos y rescata a pilotos varados mientras navegas por un misterioso universo de lunas y planetas."
+    ],
+    [
+      "p",
+      "Es un trabajo ingrato, repleto de tensión y peligro, y que pasa factura psicológica a tu tripulación. Pero alguien tiene que mantener en movimiento esta invisible savia de la economía interplanetaria."
+    ],
+    [
+      "p",
+      "Cuando aparezca un misterioso portal que conduce a un planeta extraño e inexplorado, descubrirás que estás en rumbo de colisión con algunas verdades siniestras que se esconden tras el universo. Los malos vuelos y el cansancio estresarán a sus pilotos, y pueden provocarles ilusiones sensoriales... la perdición de los pilotos solitarios de largo recorrido. Pueden empezar a ver cosas que pueden no ser reales: ¿es eso una mina o un pez? ¿Y qué pasa con esos elefantes rosas celestiales?"
+    ],
+    [
+      "p",
+      "Con varios pilotos, cuatro naves y una docena de mejoras que conseguir, puedes hacer el trabajo si eres capaz de manejarlo todo... si no, hay mucho en juego, y no sólo para tu carrera."
+    ],
+    [
+      "h",
+      "Características"
+    ],
+    [
+      "li",
+      "Hermoso arte: un lujoso paisaje de ciencia ficción con el estilo único y dibujado a mano de Dreams Uncorporated."
+    ],
+    [
+      "li",
+      "Campaña profunda: Afronta 30 misiones en cinco lunas y planetas: Nueva Luna, Marte, Venus, Ganímedes y el misterioso Etimus."
+    ],
+    [
+      "li",
+      "Ajustes de dificultad: Cuatro niveles de dificultad, el más alto de los cuales, una locura, sube el listón con la muerte permanente."
+    ],
+    [
+      "li",
+      "Personalización: Innumerables opciones de pilotaje, con personajes y atributos generados proceduralmente, cuatro naves únicas y una docena de mejoras para equipar"
+    ],
+    [
+      "li",
+      "No te vuelvas loco: Mantén la cordura: ¡el aumento del estrés provocará alucinaciones y locura espacial!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Se recomienda usar un mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 or higher"
+      ],
+      [
+        "Procesador",
+        "Intel i3 @ 3.0GHz or AMD equivalent."
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 4600 or higher"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_3f2e3865b48d67ddfc49e94fa66e66b530686bbc.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_3f2e3865b48d67ddfc49e94fa66e66b530686bbc.1920x1080.jpg?t=1732315055"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_cb349eaf2713c66740248f632e13e81c6d6120e6.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_cb349eaf2713c66740248f632e13e81c6d6120e6.1920x1080.jpg?t=1732315055"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_4c78b8d50c3911f162988f830328abab8316246d.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_4c78b8d50c3911f162988f830328abab8316246d.1920x1080.jpg?t=1732315055"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_e3972dbb8cefe7b6a32326e0255eed34a10fc25b.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_e3972dbb8cefe7b6a32326e0255eed34a10fc25b.1920x1080.jpg?t=1732315055"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_76a806ab2dfc750f80e94cf62aab5a44f933622b.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_76a806ab2dfc750f80e94cf62aab5a44f933622b.1920x1080.jpg?t=1732315055"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_e60a9a803e9944290a1342bf4395a440098ed106.600x338.jpg?t=1732315055",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2376270/ss_e60a9a803e9944290a1342bf4395a440098ed106.1920x1080.jpg?t=1732315055"
+    }
+  ],
+  "web": "https://atari.com/products/lunar-lander-beyond",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 260301,
+  "youtube": [
+    {
+      "id": "rjYZG25IJRM",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "F0a_ykHY3lk",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "thOL8-qZ28Q",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:17:25.868Z"
+}

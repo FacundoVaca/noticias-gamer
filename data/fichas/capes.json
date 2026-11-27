@@ -1,0 +1,326 @@
+{
+  "clave": "capes",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ef2-7274-87cd-6aaa37268156",
+  "appid": "2081080",
+  "lanzamiento": "2024-05-29",
+  "desarrolladores": [
+    "Spitfire Interactive"
+  ],
+  "editores": [
+    "Daedalic Entertainment",
+    "Daedalic",
+    "99",
+    "DAEDALIC Entertainment GmbH"
+  ],
+  "etiquetas": [
+    "Turn-Based Tactics",
+    "Superhero",
+    "Turn-Based Strategy",
+    "Singleplayer",
+    "Strategy"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 67,
+      "cantidad": 453,
+      "url": "https://store.steampowered.com/app/2081080/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 72,
+      "cantidad": 21,
+      "url": "https://metacritic.com/game/capes/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 34,
+      "cantidad": 29,
+      "url": "https://metacritic.com/game/capes/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 75,
+      "cantidad": 34,
+      "url": "https://opencritic.com/game/16759/capes"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "743730",
+      "nombre": "Capes",
+      "apps": [
+        {
+          "appid": "2081080",
+          "nombre": "Capes"
+        }
+      ],
+      "usd": 6.99,
+      "antes": 19.99,
+      "descuento": 65
+    }
+  ],
+  "sueltos": {
+    "2081080": {
+      "usd": 6.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2348010",
+      "nombre": "Capes - Supporter Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    }
+  ],
+  "descripcion": "Un juego de estrategia por turnos con batallas entre superhéroes. Recluta, entrena y despliega a tu equipo para recuperar la ciudad de manos de los villanos que se han adueñado de ella.",
+  "generos": [
+    "Indie",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "29 MAY 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Capes",
+  "acerca": [
+    [
+      "p",
+      "Hace veinte años, los supervillanos vencieron."
+    ],
+    [
+      "p",
+      "Desde entonces han creado una ciudad distópica en la que es delito desarrollar superpoderes. Nadie ha logrado detenerlos... hasta ahora."
+    ],
+    [
+      "p",
+      "Capes es un juego de estrategia por turnos en el que formarás un equipo de superhéroes y lucharás por recuperar la ciudad."
+    ],
+    [
+      "p",
+      "Durante las misiones de patrulla y campaña, podrás decidir si avanzas en la historia o si te tomas tu tiempo para explorar, probar las misiones secundarias, desbloquear héroes, ganar puntos de habilidad, completar desafíos y aprender acerca de la vida de los personajes."
+    ],
+    [
+      "p",
+      "Recluta héroes nuevos con un arsenal de habilidades y poderes únicos. Cada héroe es diferente, de modo que tendrás que usar de forma distinta sus poderes y habilidades."
+    ],
+    [
+      "p",
+      "Domina el estilo propio de cada uno y aprovéchalo para fortalecerlos en combate, lo que les permitirá desatar sus ataques definitivos exclusivos y cambiar las tornas de la batalla."
+    ],
+    [
+      "p",
+      "Trepidantes combates heroicos por turnos que pondrán a prueba tus dotes estratégicas. La composición de los equipos y su posicionamiento son muy importantes, ya que te permitirán enfrentarte de formas distintas a los enemigos y los supervillanos que te encuentres."
+    ],
+    [
+      "p",
+      "En Capes, los combates no se basan en números aleatorios ni en quedarte acechando a cubierto. El poder no te hará invulnerable, ni mucho menos. Tus decisiones serán lo que determine si triunfas o fracasas."
+    ],
+    [
+      "p",
+      "Reúne a un máximo de cuatro héroes por misión para que colaboren. Cada héroe recibirá una habilidad de equipo única de cada uno de sus aliados, lo que les permitirá aunar fuerzas y aprovechar sus poderes exclusivos."
+    ],
+    [
+      "p",
+      "Haz subir de nivel a tus héroes para acceder a nuevas habilidades y potentes mejoras."
+    ],
+    [
+      "p",
+      "Usa los puntos de habilidad que adquieras al completar objetivos y desafíos para desbloquear sus poderes."
+    ],
+    [
+      "p",
+      "Durante las misiones, completa las colecciones de desafíos de cada héroe para ganar puntos de habilidad adicionales y desbloquea misiones opcionales que te permitirán conocer más a fondo a cada personaje."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 64-bit"
+      ],
+      [
+        "Procesador",
+        "Quad-core Intel or AMD, 2.5 GHz or faster"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA 960 GTX / AMD RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 64-bit"
+      ],
+      [
+        "Procesador",
+        "Quad-core Intel or AMD, 2.5 GHz or faster"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA 1070 GTX / AMD RX 5700"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_30be249e9fa918f40b6c397dcce171c2eb600a66.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_30be249e9fa918f40b6c397dcce171c2eb600a66.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_9c9ddfccf35d64b1544dba8147445dd91993e18c.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_9c9ddfccf35d64b1544dba8147445dd91993e18c.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_c6d95fcf610bec682b129cfdb31e9c5b0ba5eb38.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_c6d95fcf610bec682b129cfdb31e9c5b0ba5eb38.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_b8fc886d12378f2add00bd3f1f95c72edcd20d9a.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_b8fc886d12378f2add00bd3f1f95c72edcd20d9a.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_22836dcf86cd320b29582690e5e0693d345bc1e4.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_22836dcf86cd320b29582690e5e0693d345bc1e4.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_face4eab97403e2bdb4bde83d8a24897bbc2521e.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_face4eab97403e2bdb4bde83d8a24897bbc2521e.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_759665c16639ac6012fbc48a901f47bdcad68a52.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_759665c16639ac6012fbc48a901f47bdcad68a52.1920x1080.jpg?t=1789478432"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_649efe822b0ad7dd2062ac04c95fecce3dc0560f.600x338.jpg?t=1789478432",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081080/ss_649efe822b0ad7dd2062ac04c95fecce3dc0560f.1920x1080.jpg?t=1789478432"
+    }
+  ],
+  "web": "http://www.spitfireinteractive.com.au/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "Capes contains strong language and blood.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 217376,
+  "youtube": [
+    {
+      "id": "-cYZpNp1K8A",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "CVqnt4ye8X4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:22:37.953Z"
+}

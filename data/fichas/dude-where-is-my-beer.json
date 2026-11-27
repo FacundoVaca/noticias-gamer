@@ -1,0 +1,268 @@
+{
+  "clave": "dude where is my beer",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-42c8-7321-9476-e7db4a5ad8c1",
+  "appid": "1288760",
+  "lanzamiento": "2020-11-05",
+  "desarrolladores": [
+    "Arik Games & Edo Brenes",
+    "Arik Games",
+    "Edo Brenes"
+  ],
+  "editores": [
+    "Arik Games",
+    "WhisperGames"
+  ],
+  "etiquetas": [
+    "Exploration",
+    "incremental",
+    "Puzzle",
+    "Point & Click",
+    "2D"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 75,
+      "cantidad": 119,
+      "url": "https://store.steampowered.com/app/1288760/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "449406",
+      "nombre": "Dude, Where Is My Beer?",
+      "apps": [
+        {
+          "appid": "1288760",
+          "nombre": "Dude, Where Is My Beer?"
+        }
+      ],
+      "usd": 7.29,
+      "antes": 7.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1288760": {
+      "usd": 7.29,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1448100",
+      "nombre": "Dude, Where Is My Beer? - Illustrated walkthrough",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "1448101",
+      "nombre": "Dude, Where Is My Beer? - Wallpapers",
+      "gratis": false,
+      "usd": 17,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Un juego tradicional de point and click, acerca de la búsqueda de una pilsener en el confuso mundo de cervezas artesanales innecesarias y hipsters \"snobby\".",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "4 NOV 2020",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Dude, Where Is My Beer?",
+  "acerca": [
+    [
+      "p",
+      "¿Puedes encontrar una cerveza normal en un mundo de cerveza artesanal llamativamente coloreada, y resolver el misterio de la pilsener escurridiza y perdida, utilizando una interfaz de los años dorados de los juegos de aventura? Habla con hipsters que toman West Coast IPA y American Black Ale, y resuelve rompecabezas relacionados con cerveza a diferentes niveles de ebriedad; explora lugares como un bar deportivo, una cervecería artesanal, un \"dive bar\" y un bar de rock en la ciudad de Oslo, en tu búsqueda de una pilsener."
+    ],
+    [
+      "p",
+      "Agrega \"Dude, Where Is My Beer?\" a tu lista de deseos hoy y recibe una cerveza gratis *"
+    ],
+    [
+      "p",
+      "*cerveza no incluida"
+    ],
+    [
+      "h",
+      "Características clave:"
+    ],
+    [
+      "li",
+      "Interfaz nostálgica de los 90."
+    ],
+    [
+      "li",
+      "El Beer-o-meter, nuestro propio invento, te ayuda a llevar registro de tu nivel de ebriedad"
+    ],
+    [
+      "p",
+      "Y recuerda: ¡bebe responsablemente!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows Vista"
+      ],
+      [
+        "Procesador",
+        "2 GHz Dual Core CPU"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon HD 3400 Series, Geforce 9400 Series with at least 512 MB VRAM"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 9.0c compatible sound card with latest drivers"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7, 8, 10"
+      ],
+      [
+        "Procesador",
+        "2.6 GHz Dual Core CPU"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "ATI Radeon HD 4500 Series, Geforce 9400 GT or higher"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX 9.0c compatible sound card with latest drivers"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_bf96697fe90020d2cdf6fdee71acc300c11283b2.600x338.jpg?t=1756635558",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_bf96697fe90020d2cdf6fdee71acc300c11283b2.1920x1080.jpg?t=1756635558"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_6735efae31616bda11b62d917c90e0831ae0b8ad.600x338.jpg?t=1756635558",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_6735efae31616bda11b62d917c90e0831ae0b8ad.1920x1080.jpg?t=1756635558"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_c284914a9c4f9ab9335bd4a0ed2f948878ea0b7e.600x338.jpg?t=1756635558",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_c284914a9c4f9ab9335bd4a0ed2f948878ea0b7e.1920x1080.jpg?t=1756635558"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_93a43012f5f31e823764ad1eccc11cd4fe7307a1.600x338.jpg?t=1756635558",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_93a43012f5f31e823764ad1eccc11cd4fe7307a1.1920x1080.jpg?t=1756635558"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_614e46c5dfd19506ee06f2b7f9b38c9009a2e890.600x338.jpg?t=1756635558",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288760/ss_614e46c5dfd19506ee06f2b7f9b38c9009a2e890.1920x1080.jpg?t=1756635558"
+    }
+  ],
+  "web": "https://www.dudewhereismybeer.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "avisoContenido": "Puede contener alcohol",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 140482,
+  "youtube": [
+    {
+      "id": "N_xR9JX8L6c",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:22:20.953Z"
+}

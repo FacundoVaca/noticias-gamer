@@ -1,0 +1,336 @@
+{
+  "clave": "rimworld odyssey",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01975fc8-f1fd-7062-8b51-7155a4ba5580",
+  "appid": "3022790",
+  "lanzamiento": "2025-07-11",
+  "desarrolladores": [
+    "Ludeon Studios"
+  ],
+  "editores": [
+    "Ludeon Studios"
+  ],
+  "etiquetas": [
+    "Colony Sim",
+    "Base Building",
+    "Survival",
+    "Strategy",
+    "Simulation"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 3154,
+      "url": "https://store.steampowered.com/app/3022790/"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 96,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/rimworld-odyssey/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "294100",
+    "nombre": "RimWorld"
+  },
+  "ediciones": [
+    {
+      "packageid": "1074920",
+      "nombre": "RimWorld - Odyssey",
+      "apps": [
+        {
+          "appid": "3022790",
+          "nombre": "RimWorld - Odyssey"
+        }
+      ],
+      "usd": 11.24,
+      "antes": 12.49,
+      "descuento": 10
+    }
+  ],
+  "sueltos": {
+    "3022790": {
+      "usd": 11.24,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Construye tu propia nave y recorre el planeta! Explora biomas exóticos, amplía tu colonia móvil y lánzate al espacio. Recolecta tecnología antigua en asteroides, estaciones espaciales abandonadas y satélites. Encuentra y destruye la guarida de los mecanoides.",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "11 JUL 2025",
+  "metacritic": null,
+  "nombreSteam": "RimWorld - Odyssey",
+  "acerca": [
+    [
+      "h",
+      "Construye tu propia gravinave"
+    ],
+    [
+      "p",
+      "¡Construye tu propia nave y viaja por todo el planeta! Aterriza donde quieras para buscar tesoros, recolectar comida y combustible, y llevarte recuerdos como aves exóticas, gravitecnología olvidada o un fusil de carga bañado en oro."
+    ],
+    [
+      "p",
+      "Tu gravinave comienza siendo pequeña: solo un motor gravitacional, unas cuantas habitaciones y el biocombustible justo para despegar. Pero, con el tiempo, se convertirá en un hogar: una colonia itinerante con laboratorios, dormitorios, talleres y todo lo que tus colonos necesiten."
+    ],
+    [
+      "p",
+      "Recolecta los raros gravinúcleos para expandir tu gravinave y viajar más lejos. Los encontrarás en plataformas orbitales estrelladas, cuevas infestadas de insectos, reactores colapsados llenos de trampas y otros lugares peligrosos."
+    ],
+    [
+      "h",
+      "Explora nuevos biomas y lugares de interés"
+    ],
+    [
+      "li",
+      "En los lumibosques , hongos bioluminiscentes y esporas psicodélicas iluminan la oscuridad perpetua. Los respiraderos geotérmicos expulsan azufre sin cesar. Las plantas comunes no pueden crecer aquí: tendrás que sobrevivir únicamente a base de hongos."
+    ],
+    [
+      "li",
+      "Las tierras escarificadas son los restos arrasados por la guerra de ciudades que una vez prosperaron. Los cráteres rompen los caminos, los respiraderos liberan calor y gases, y la lluvia tóxica cae sin cesar. Los mecanoides acechan las ruinas y los únicos animales que quedan son mutantes peligrosos."
+    ],
+    [
+      "li",
+      "Las praderas son el sueño de cualquier ganadero: vastas extensiones de tierra fértil dorada. Aunque escasean los árboles, las temporadas de cultivo son largas y abundantes, y los vientos constantes aseguran energía para tus turbinas. Sin embargo, las sequías pueden llegar de forma repentina, y muchos cultivos han sido arrasados por incendios descontrolados."
+    ],
+    [
+      "li",
+      "Las llanuras glaciales parecen sacadas de un mundo prehistórico: ventiscas azotan el terreno, manadas de mastodontes lo recorren, y gatos cimitarra acechan en la inmensidad helada. Puedes excavar refugios en los muros de hielo o buscar cobijo en ruinas enterradas bajo la nieve, viviendo como lo hacían los antiguos."
+    ],
+    [
+      "li",
+      "Los campos de lava están en constante cambio. Ríos de roca fundida atraviesan la tierra en erupciones súbitas, arrasando con animales, edificios y colonos. Fragmentos volcánicos caen del cielo, y la ceniza espesa dificulta la respiración. Mantente a salvo construyendo barreras para desviar la lava y protégete los pulmones con mascarillas de tela."
+    ],
+    [
+      "p",
+      "El nuevo sistema de puntos de interés se combina con los biomas para crear paisajes infinitamente variados."
+    ],
+    [
+      "li",
+      "Excava una colonia extensa en las paredes de acantilados, abismos, grietas y valles para aprovechar sus defensas naturales: ¡el sueño de todo subterráneo!"
+    ],
+    [
+      "li",
+      "Levanta un pueblo pesquero costero sobre puentes reforzados, instalándote en islas, archipiélagos, atolones, penínsulas o fiordos ."
+    ],
+    [
+      "li",
+      "Toma el control de antiguos edificios coloniales abandonados y utilízalos como base."
+    ],
+    [
+      "li",
+      "Asalta antiguas estructuras y ruinas en busca de recursos como biocombustible, armas, componentes, minerales y mucho más."
+    ],
+    [
+      "h",
+      "Sobrevive más allá de la atmósfera"
+    ],
+    [
+      "p",
+      "¡Pilota tu gravinave hasta la órbita! Aterriza en plataformas orbitales colapsadas, asteroides ricos en minerales y satélites huecos. Rebusca entre los escombros en busca de tesoros, pero prepárate para enfrentarte a otros carroñeros espaciales. Los restos de mecanoides prometen gravitecnología avanzada y recursos para tu nave, si logras superar sus antiguas defensas inhumanas."
+    ],
+    [
+      "p",
+      "El espacio es un lugar implacable, así que construye tu nave para sobrevivir. Paredes herméticas protegerán a tus colonos y sus mascotas del vacío espacial. Los calentadores mantienen el interior templado, mientras que las bombas de oxígeno proporcionan soporte vital. Construye esclusas con barreras de vacío para evitar la despresurización de la nave, y equipa a los colonos espaciales con trajes de vacío antes de que salgan al exterior."
+    ],
+    [
+      "h",
+      "Fauna adorable, aterradora e inteligente"
+    ],
+    [
+      "p",
+      "Odyssey añade más de 40 animales nuevos que pueden ser domesticados, entrenados, comerciados o comidos. Observa cómo tu colorida bandada de gorriones y azulejos alza el vuelo, cría una manada de caza con gatos cimitarra y grandes lobos, nada con focas y nutrias, o simplemente guarda a los más adorables como mascotas, como puercoespines y perros de la pradera."
+    ],
+    [
+      "p",
+      "Los animales son más que simples compañeros: reconfortan a tus colonos, excavan y recolectan recursos, y cazan a tus enemigos. Incluso las criaturas con mentes simples pueden ser entrenadas inyectándoles un catalizador de conciencia, convirtiendo hasta al humilde cangrejo ermitaño en un protector vigilante."
+    ],
+    [
+      "p",
+      "¡También puedes ir a pescar! Consigue grandes capturas como atunes, marlín y otros hallazgos inusuales."
+    ],
+    [
+      "h",
+      "Misiones por todo el planeta y más allá"
+    ],
+    [
+      "p",
+      "Descubrirás misiones a partir de mapas antiguos, visitantes de paso y señales anónimas."
+    ],
+    [
+      "li",
+      "Sigue el rastro del mítico trumbo alfa persiguiendo a su manada a través de la naturaleza salvaje. Si logras abatirlo, su cuerno afilado y valiosísimo será tuyo."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Contenido descargable",
+    "Steam Workshop",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Remote Play en tableta",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Core 2 Duo"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Intel HD Graphics 4000 or other shader model 4.0"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/0889c993afb6ac764b50c47d37fd8b032d52677d/ss_0889c993afb6ac764b50c47d37fd8b032d52677d.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/0889c993afb6ac764b50c47d37fd8b032d52677d/ss_0889c993afb6ac764b50c47d37fd8b032d52677d.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/1b0737ffa2225a66d80b7881da3d80e84a733418/ss_1b0737ffa2225a66d80b7881da3d80e84a733418.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/1b0737ffa2225a66d80b7881da3d80e84a733418/ss_1b0737ffa2225a66d80b7881da3d80e84a733418.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/952556af1fc1b97eff227ab7a0a0707b06dd51b2/ss_952556af1fc1b97eff227ab7a0a0707b06dd51b2.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/952556af1fc1b97eff227ab7a0a0707b06dd51b2/ss_952556af1fc1b97eff227ab7a0a0707b06dd51b2.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/0316c7fe99e42509cac9d7812f4104a959cccf26/ss_0316c7fe99e42509cac9d7812f4104a959cccf26.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/0316c7fe99e42509cac9d7812f4104a959cccf26/ss_0316c7fe99e42509cac9d7812f4104a959cccf26.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/36fa67ec48c58a6386659a69ae4a4770babde055/ss_36fa67ec48c58a6386659a69ae4a4770babde055.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/36fa67ec48c58a6386659a69ae4a4770babde055/ss_36fa67ec48c58a6386659a69ae4a4770babde055.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/a66f9fe334f4cc363e5ff650c182727f49581563/ss_a66f9fe334f4cc363e5ff650c182727f49581563.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/a66f9fe334f4cc363e5ff650c182727f49581563/ss_a66f9fe334f4cc363e5ff650c182727f49581563.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/fb6694484c68f6c65a4cfdb6287afae74f68c3ab/ss_fb6694484c68f6c65a4cfdb6287afae74f68c3ab.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/fb6694484c68f6c65a4cfdb6287afae74f68c3ab/ss_fb6694484c68f6c65a4cfdb6287afae74f68c3ab.1920x1080.jpg?t=1782756963"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/96f235e66a3d2f8d1df342906aea79aaddedca8a/ss_96f235e66a3d2f8d1df342906aea79aaddedca8a.600x338.jpg?t=1782756963",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/96f235e66a3d2f8d1df342906aea79aaddedca8a/ss_96f235e66a3d2f8d1df342906aea79aaddedca8a.1920x1080.jpg?t=1782756963"
+    }
+  ],
+  "web": "https://ludeon.com",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "igdbIntentado": true,
+  "igdb": 349256,
+  "youtube": [
+    {
+      "id": "FutmQwQ-O2A",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:23:06.875Z"
+}

@@ -1,0 +1,346 @@
+{
+  "clave": "pepper grinder",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6697-7041-afd4-97398638ab96",
+  "appid": "2076580",
+  "lanzamiento": "2024-03-28",
+  "desarrolladores": [
+    "Ahr Ech",
+    "MP2 Games"
+  ],
+  "editores": [
+    "Devolver Digital"
+  ],
+  "etiquetas": [
+    "2D Platformer",
+    "Difficult",
+    "Platformer",
+    "Arcade",
+    "Action-Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 1142,
+      "url": "https://store.steampowered.com/app/2076580/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 36,
+      "url": "https://metacritic.com/game/pepper-grinder/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 64,
+      "cantidad": 51,
+      "url": "https://metacritic.com/game/pepper-grinder/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 79,
+      "cantidad": 81,
+      "url": "https://opencritic.com/game/16499/pepper-grinder"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "741942",
+      "nombre": "Pepper Grinder",
+      "apps": [
+        {
+          "appid": "2076580",
+          "nombre": "Pepper Grinder"
+        }
+      ],
+      "usd": 1.99,
+      "antes": 7.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2076580": {
+      "usd": 1.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2845440",
+      "nombre": "Pepper Grinder Soundtrack",
+      "gratis": false,
+      "usd": 3.19,
+      "descuento": 20
+    }
+  ],
+  "descripcion": "Pepper Grinder es una aventura repleta de acción en 2D que aúna el plataformeo clásico con un modo alternativo en el que, con un taladro, podrás zambullirte en la tierra y emerger cual delfín en el agua.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "28 MAR 2024",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/pepper-grinder?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Pepper Grinder",
+  "acerca": [
+    [
+      "p",
+      "Pepper Grinder es una aventura pirata con acción para dar y regalar. La protagonizan Pepper, un alma marinera con la mirada siempre puesta en el futuro, y Grinder, su taladro superpotente."
+    ],
+    [
+      "p",
+      "Pepper, dada a la deriva y despojada de su tesoro, habrá de girar su arma de confianza para reclamar lo que le arrebataron los malvados narlings. Nuestra protagonista se servirá de Grinder para abrirse paso entre tierra y agua, controlará máquinas varias y pulverizará a los enemigos que se interpongan entre ella y su fortuna perdida... ¡con intereses!"
+    ],
+    [
+      "p",
+      "No obstante, el periplo de Pepper no será un camino de rosas; de las sombras comienzan a acechar seres misteriosos…"
+    ],
+    [
+      "h",
+      "Jugabilidad despiadada"
+    ],
+    [
+      "p",
+      "Surca un mundo animado y colorido con movimientos precisos, taladrajes fluidos y saltos de aúpa."
+    ],
+    [
+      "h",
+      "Taladraje salvaje"
+    ],
+    [
+      "p",
+      "Cómete el mundo con Grinder y encuentra nuevos taladros con los que sembrar el caos y resolver ingeniosos puzles."
+    ],
+    [
+      "h",
+      "Conquista y coleccionar"
+    ],
+    [
+      "p",
+      "Recoge joyas y demás riquezas a lo largo de tu aventura y empléalas en las tiendas para mejorar a Pepper, abrir nuevos caminos en el mapa y hacerte con pegatinas coleccionables para tu álbum."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4570T / AMD A10-5800K APU"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 650 (1024 Mb) Radeon HD 7750 (1024 Mb), Iris Pro Graphics 580"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Low Quality setting, 720p, producing 60 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64 Bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8250U / AMD Ryzen 5 2500U"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 1050 Ti (4096 Mb) Radeon RX 470 (4096 Mb) Iris Xe Graphics"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "300 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "High Quality setting, 1080p, producing 60 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_b88b86275ec1f61cfa7338d3bbb3172a69c9fa2e.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_b88b86275ec1f61cfa7338d3bbb3172a69c9fa2e.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_13b62f4fcb8bb8899fc2cb3f277f01bb2cbbc591.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_13b62f4fcb8bb8899fc2cb3f277f01bb2cbbc591.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_429e666c493dc44d60be91108e6e61b0921a7cc0.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_429e666c493dc44d60be91108e6e61b0921a7cc0.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_f48b04394271fedd9fecfa863fc4c31096d49174.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_f48b04394271fedd9fecfa863fc4c31096d49174.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_c9631720d5cab07fce2f286132bf099c938460f2.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_c9631720d5cab07fce2f286132bf099c938460f2.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_2277d92ad00e18e9ad7f65c6db3e3a428c265bcc.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_2277d92ad00e18e9ad7f65c6db3e3a428c265bcc.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_fa791cf87d4486caa84d0723a5fb19c3a35c5cf2.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_fa791cf87d4486caa84d0723a5fb19c3a35c5cf2.1920x1080.jpg?t=1752168250"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_a1481506d90793734f6f7ca5df9c9c1b74610dab.600x338.jpg?t=1752168250",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2076580/ss_a1481506d90793734f6f7ca5df9c9c1b74610dab.1920x1080.jpg?t=1752168250"
+    }
+  ],
+  "web": "https://www.peppergrindergame.com/",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 29032,
+  "youtube": [
+    {
+      "id": "p9dsEdDQAg4",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HhdM-p7mflE",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "6u0aUstGclw",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "z4utn4Sm6SY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:16:03.801Z"
+}

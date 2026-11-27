@@ -1,0 +1,314 @@
+{
+  "clave": "necrovision",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-104d-71f3-b6e8-b28f1d0b0df4",
+  "appid": "7860",
+  "lanzamiento": "2009-02-27",
+  "desarrolladores": [
+    "The Farm 51"
+  ],
+  "editores": [
+    "Fulqrum Games",
+    "Fulqrum Publishing",
+    "1C Online Games Ltd.",
+    "713",
+    "Fulqrum Publishing Ltd",
+    "The Farm 51"
+  ],
+  "etiquetas": [
+    "Action",
+    "FPS",
+    "World War I",
+    "Gore",
+    "Zombies"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 68,
+      "cantidad": 1429,
+      "url": "https://store.steampowered.com/app/7860/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 63,
+      "cantidad": 19,
+      "url": "https://metacritic.com/game/necrovision/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 63,
+      "cantidad": 95,
+      "url": "https://metacritic.com/game/necrovision/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1631",
+      "nombre": "NecroVision",
+      "apps": [
+        {
+          "appid": "7860",
+          "nombre": "NecroVision"
+        }
+      ],
+      "usd": 3.29,
+      "antes": 3.29,
+      "descuento": 0
+    },
+    {
+      "packageid": "7342",
+      "nombre": "NecroVisioN + NecroVisioN: Lost Company",
+      "apps": [
+        {
+          "appid": "7860",
+          "nombre": "NecroVision"
+        },
+        {
+          "appid": "46250",
+          "nombre": "NecroVisioN: Lost Company"
+        }
+      ],
+      "usd": 6.29,
+      "antes": 6.29,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "7860": {
+      "usd": 3.29,
+      "gratis": false
+    },
+    "46250": {
+      "usd": 4.69,
+      "gratis": false
+    }
+  },
+  "descripcion": "La Guerra es el Infierno NecroVision es un shooter en primera persona que lleva a los jugadores a los frenéticos campos de batalla de la Primera Guerra Mundial y a un oscuro submundo de vampiros, demonios y magia negra.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "20 MAY 2009",
+  "metacritic": {
+    "puntaje": 63,
+    "url": "https://www.metacritic.com/game/pc/necrovision?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "NecroVision",
+  "acerca": [
+    [
+      "p",
+      "La Guerra es el Infierno"
+    ],
+    [
+      "p",
+      "NecroVision es un shooter en primera persona que lleva a los jugadores a los frenéticos campos de batalla de la Primera Guerra Mundial y a un oscuro submundo de vampiros, demonios y magia negra."
+    ],
+    [
+      "p",
+      "En su búsqueda de aventuras, el joven americano Simon Bukner se une al Ejército Inglés en la Europa en guerra de 1916. Durante una batalla especialmente encarnizada, Bukner y su batallón se ven obligados a entrar en una serie de oscuras trincheras donde se encontrarán con un misterioso fenémeno. A medida que avanzan por el laberinto descubrirán que hay un mal todavía mayor ocultándose bajo los campos de batalla de la Gran Guerra — un mal que que se abre camino hacia nuestro mundo y amenaza con barrer a toda la humanidad. En las profundidades de este recién descubierto submundo, Bukner deberá enfrentarse a las fuerzas oscuras y luchar por la supervivencia de la raza humana."
+    ],
+    [
+      "p",
+      "Características"
+    ],
+    [
+      "li",
+      "Una atrayente historia que mezcla elementos de los shooter de guerra de toda la vida con la magia del mundo sobrenatural"
+    ],
+    [
+      "li",
+      "Los jugadores lucharán con auténticas armas de la Primera Guerra Mundial, poderosos artefactos mágicos y poderes vampíricos"
+    ],
+    [
+      "li",
+      "Hordas de enemigos incluyendo humanos, demonios y vampiros"
+    ],
+    [
+      "li",
+      "Encuentros con jefes de fin de fase brutales y masivos"
+    ],
+    [
+      "li",
+      "Combate en primera persona rápido e intenso, diferente a los shooters de siempre"
+    ],
+    [
+      "li",
+      "Lucha online con hasta 16 jugadores"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ en LAN",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Húngaro",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "Sistema Operativo",
+        "Microsoft® Windows® XP SP3, Vista SP1 *"
+      ],
+      [
+        "Procesador",
+        "Intel® Dual Core 2.0 GHz o AMD™ Athlon™ 4000+"
+      ],
+      [
+        "Memoria",
+        "XP – 1 GB RAM, Vista – 2 GB RAM"
+      ],
+      [
+        "Espacio en Disco Duro",
+        "7.5 GB + 1 GB de Archivo de Intercambio"
+      ],
+      [
+        "Gráficos",
+        "Tarjeta Aceleradora 3D Hardware Requerida – 100% compatible con DirectX 9.0c y 256 MB de Memoria Gráfica - ATI® Radeon X1600 o Nvidia® Geforce 6800"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX 9.0c"
+      ],
+      [
+        "Versión de DirectX®",
+        "DirectX® 9.0c"
+      ]
+    ],
+    "recomendado": [
+      [
+        "Sistema Operativo",
+        "Microsoft® Windows® XP SP3, Vista SP1 *"
+      ],
+      [
+        "Procesador",
+        "Intel® Core 2 Duo 2.4 GHz o AMD™ Athlon™ Dual Core 5200+/li>"
+      ],
+      [
+        "Memoria",
+        "2 GB RAM"
+      ],
+      [
+        "Espacio en Disco Duro",
+        "7.5 GB + 1 GB de Archivo de Intercambio"
+      ],
+      [
+        "Gráficos",
+        "Tarjeta Aceleradora 3D con 256 MB 3D y soporte de Shader 3.0 - ATI® Radeon HD 3850 o Nvidia® Geforce 8800 GT"
+      ],
+      [
+        "Sonido",
+        "Compatible con DirectX 9.0c"
+      ],
+      [
+        "Versión de DirectX®",
+        "DirectX® 9.0c"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008669.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008669.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008670.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008670.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008671.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008671.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008672.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008672.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008673.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008673.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008674.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008674.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008675.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008675.1920x1080.jpg?t=1773662506"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008676.600x338.jpg?t=1773662506",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7860/0000008676.1920x1080.jpg?t=1773662506"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This game may contain content not appropriate for all ages: Frequent Violence or Gore.",
+  "igdbIntentado": true,
+  "igdb": 10591,
+  "youtube": [
+    {
+      "id": "eV9jfSb3VpE",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "ur2ASFeZokE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:15:09.169Z"
+}

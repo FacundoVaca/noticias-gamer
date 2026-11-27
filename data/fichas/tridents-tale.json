@@ -1,0 +1,274 @@
+{
+  "clave": "tridents tale",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019546b2-e877-7100-bc52-628c23b19def",
+  "appid": "2541780",
+  "lanzamiento": "2025-05-22",
+  "desarrolladores": [
+    "3DClouds"
+  ],
+  "editores": [
+    "3DClouds"
+  ],
+  "etiquetas": [
+    "Action",
+    "Adventure",
+    "Exploration",
+    "Action RPG",
+    "Action-Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 64,
+      "cantidad": 17,
+      "url": "https://store.steampowered.com/app/2541780/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "913189",
+      "nombre": "Trident's Tale",
+      "apps": [
+        {
+          "appid": "2541780",
+          "nombre": "Trident's Tale"
+        }
+      ],
+      "usd": 2.09,
+      "antes": 10.49,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2541780": {
+      "usd": 2.09,
+      "gratis": false
+    }
+  },
+  "descripcion": "¡Descubre los secretos del Tridente de Tormentas y gobierna los mares en la legendaria aventura de Trident's Tale!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Indie",
+    "Rol"
+  ],
+  "lanzamientoTexto": "22 MAY 2025",
+  "metacritic": null,
+  "nombreSteam": "Trident's Tale",
+  "acerca": [
+    [
+      "p",
+      "Pon rumbo a una aventura épica y trepidante en la que encarnarás a Ocean, un joven y audaz capitán en busca del legendario Tridente de Tormentas, un artefacto mítico que otorga el control de los mares."
+    ],
+    [
+      "p",
+      "Deberás andarte con cuidado: ¡el océano es traicionero y en su inmensidad se ocultan peligros por todas partes! Prepara los cañones, iza las velas y métete de lleno en una fascinante historia con personajes excéntricos, mazmorras ingeniosas y batallas apasionantes. ¡Domina la magia y aprovecha tu dominio de la espada para gobernar los mares!"
+    ],
+    [
+      "p",
+      "⚓ SURCA LAS OLAS CON TU BARCO: asume el mando en batallas dinámicas, donde cada cañonazo y maniobra cuentan. Mejora y personaliza el barco para que se adapte a tu estilo de juego y dispara los cañones en impresionantes duelos contra piratas rivales, monstruos marinos y mucho más."
+    ],
+    [
+      "p",
+      "🌍 EXPLORA UN MUNDO INMENSO Y LLENO DE VIDA: un enorme océano repleto de islas; cada una alberga sus propios secretos, tesoros y desafíos. Descubre mazmorras ocultas, resuelve ingeniosos acertijos y saquea tesoros poco comunes con los que potenciar a la tripulación."
+    ],
+    [
+      "p",
+      "🏴‍☠️ CREA TU PROPIA TRIPULACIÓN PIRATA LEGENDARIA: recluta a un elenco de personajes variopintos con habilidades y personalidades únicas. Mejora la tripulación, desbloquea poderosas habilidades y forma el equipo pirata definitivo."
+    ],
+    [
+      "p",
+      "⚔️ LUCHA POR LA SUPERVIVENCIA: la espada, la magia y las armas de fuego serán tus aliadas en increíbles combates terrestres. Además, podrás usar habilidades especiales y plantarle cara a jefes en emocionantes enfrentamientos."
+    ],
+    [
+      "p",
+      "☠️ ¡PREPÁRATE PARA PASAR A LA HISTORIA DEL MUNDO PIRATA! ☠️"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i5 - 6600K AMD Ryzen 3 3100"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 780 or AMD RX 480"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel i7 13th gen or AMD Ryzen 7 7800"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 2060 or AMD RX 5700"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/d5a787a2be8f582eb03915fb4aabec136f3ffcb7/ss_d5a787a2be8f582eb03915fb4aabec136f3ffcb7.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/d5a787a2be8f582eb03915fb4aabec136f3ffcb7/ss_d5a787a2be8f582eb03915fb4aabec136f3ffcb7.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/8264b3faa36a6012e3d0371c339d4e9885eb0520/ss_8264b3faa36a6012e3d0371c339d4e9885eb0520.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/8264b3faa36a6012e3d0371c339d4e9885eb0520/ss_8264b3faa36a6012e3d0371c339d4e9885eb0520.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/c4ee63ce885bfbc05a61ffac6a4454826c5f8d33/ss_c4ee63ce885bfbc05a61ffac6a4454826c5f8d33.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/c4ee63ce885bfbc05a61ffac6a4454826c5f8d33/ss_c4ee63ce885bfbc05a61ffac6a4454826c5f8d33.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/8dcf7f49230d26fde73dcf6bf47ebcfa82cda51b/ss_8dcf7f49230d26fde73dcf6bf47ebcfa82cda51b.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/8dcf7f49230d26fde73dcf6bf47ebcfa82cda51b/ss_8dcf7f49230d26fde73dcf6bf47ebcfa82cda51b.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/d48587362427f4a89828fbe3b6baedf638e93a13/ss_d48587362427f4a89828fbe3b6baedf638e93a13.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/d48587362427f4a89828fbe3b6baedf638e93a13/ss_d48587362427f4a89828fbe3b6baedf638e93a13.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/b5c46ff9a8d5916992e95f4131fb753dfb8a3f50/ss_b5c46ff9a8d5916992e95f4131fb753dfb8a3f50.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/b5c46ff9a8d5916992e95f4131fb753dfb8a3f50/ss_b5c46ff9a8d5916992e95f4131fb753dfb8a3f50.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/0bc2266c843d28693e8fd0ab54cf56b44ac6276e/ss_0bc2266c843d28693e8fd0ab54cf56b44ac6276e.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/0bc2266c843d28693e8fd0ab54cf56b44ac6276e/ss_0bc2266c843d28693e8fd0ab54cf56b44ac6276e.1920x1080.jpg?t=1792279423"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/c22b2cbec5dd5e1462badf30d640ab9c70883aba/ss_c22b2cbec5dd5e1462badf30d640ab9c70883aba.600x338.jpg?t=1792279423",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2541780/c22b2cbec5dd5e1462badf30d640ab9c70883aba/ss_c22b2cbec5dd5e1462badf30d640ab9c70883aba.1920x1080.jpg?t=1792279423"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 336161,
+  "youtube": [
+    {
+      "id": "4-AcfgDndPE",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "u0lS_9FCb-Y",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "row2ihKRfws",
+      "nombre": "Release Date Trailer"
+    },
+    {
+      "id": "hiUNYGAmyoU",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:22:50.945Z"
+}

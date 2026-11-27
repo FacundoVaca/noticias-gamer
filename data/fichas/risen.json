@@ -1,0 +1,257 @@
+{
+  "clave": "risen",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f809-71e8-ba2a-6688e9d78127",
+  "appid": "40300",
+  "lanzamiento": "2009-10-02",
+  "desarrolladores": [
+    "Piranha Bytes",
+    "THQ Nordic",
+    "Piranha - Bytes"
+  ],
+  "editores": [
+    "THQ Nordic",
+    "THQ Nordic GmbH",
+    "680",
+    "Piranha Bytes"
+  ],
+  "etiquetas": [
+    "RPG",
+    "Open World",
+    "Gothic",
+    "Fantasy",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 7939,
+      "url": "https://store.steampowered.com/app/40300/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 77,
+      "cantidad": 32,
+      "url": "https://metacritic.com/game/risen/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 71,
+      "cantidad": 138,
+      "url": "https://metacritic.com/game/risen/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 67,
+      "cantidad": 12,
+      "url": "https://opencritic.com/game/14250/risen"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "2135",
+      "nombre": "Risen",
+      "apps": [
+        {
+          "appid": "40300",
+          "nombre": "Risen"
+        }
+      ],
+      "usd": 7.99,
+      "antes": 7.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "40300": {
+      "usd": 7.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1876580",
+      "nombre": "Risen Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "En el mundo épico de Risen, repleto de misteriosos terremotos, aterradores monstruos y tesoros inimaginables, forja tu camino con tu espada, aprende el arte de la lucha con bastón o conviértete en un poderoso mago.",
+  "generos": [
+    "Rol"
+  ],
+  "lanzamientoTexto": "2 OCT 2009",
+  "metacritic": {
+    "puntaje": 77,
+    "url": "https://www.metacritic.com/game/pc/risen?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Risen",
+  "acerca": [
+    [
+      "p",
+      "La Isla Faranga necesita un nuevo héroe, ¡tú!"
+    ],
+    [
+      "p",
+      "Entra en un crudo, descarnado y absorbente mundo de fantasía en el que todas las acciones tienen consecuencias. En el mundo épico de Risen, repleto de misteriosos terremotos, aterradores monstruos y tesoros inimaginables, forja tu camino con tu espada, aprende el arte de la lucha con bastón o conviértete en un poderoso mago."
+    ],
+    [
+      "li",
+      "Gran cantidad de misiones adicionales y criaturas a descubrir."
+    ],
+    [
+      "li",
+      "Más de 60 horas de juego absorbente en un mundo abierto."
+    ],
+    [
+      "li",
+      "Tus actos alterarán el destino de la isla."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows XP/Vista/7/8/10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium 4 or AMD CPU 2 GHz or equivalent"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "256 MB DirectX™ 9.0c compatible graphics card (nVidia® GeForce® 7900/ATI Radeon™ X1800 or better)"
+      ],
+      [
+        "DirectX",
+        "Versión 9.0c"
+      ],
+      [
+        "Almacenamiento",
+        "5 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "DirectX compatible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_9d8d438861fff98497b69f36aa5f8498689f5fdf.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_9d8d438861fff98497b69f36aa5f8498689f5fdf.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_61d8dff6910567b4395f605b219438870350f516.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_61d8dff6910567b4395f605b219438870350f516.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_a5d6ad79c5e2bb723c62c2804470880e12212ed7.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_a5d6ad79c5e2bb723c62c2804470880e12212ed7.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_cff3a9ae9bb59c1f66499e7d3bdda0789a9ce405.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_cff3a9ae9bb59c1f66499e7d3bdda0789a9ce405.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_7180e7d8df4a4ba543db523f4ad5179bb52b58f5.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_7180e7d8df4a4ba543db523f4ad5179bb52b58f5.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_7dced26b0648e918ad8a47521df9dc1bb50abaea.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_7dced26b0648e918ad8a47521df9dc1bb50abaea.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_4f334c7771cb18eab115c84d9c2efeed2b2dcf26.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_4f334c7771cb18eab115c84d9c2efeed2b2dcf26.1920x1080.jpg?t=1674662941"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_f7fe8eda4ea4fbebcfa7297658002e7a4bc53e44.600x338.jpg?t=1674662941",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40300/ss_f7fe8eda4ea4fbebcfa7297658002e7a4bc53e44.1920x1080.jpg?t=1674662941"
+    }
+  ],
+  "web": "http://www.thqnordic.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2444,
+  "youtube": [
+    {
+      "id": "Bs6slMz2R8A",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:16:15.593Z"
+}

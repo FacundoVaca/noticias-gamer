@@ -1,0 +1,299 @@
+{
+  "clave": "hotel a resort simulator",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-7615-72c8-b2f2-d17e09b88c3a",
+  "appid": "1389840",
+  "lanzamiento": "2023-10-12",
+  "desarrolladores": [
+    "Ringzero Game Studio",
+    "RingZero"
+  ],
+  "editores": [
+    "Plug In Digital",
+    "Bigben Interactive",
+    "Nacon"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Building",
+    "Casual",
+    "Nature",
+    "First-Person"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 27,
+      "cantidad": 168,
+      "url": "https://store.steampowered.com/app/1389840/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "487697",
+      "nombre": "Hotel A Resort Simulator",
+      "apps": [
+        {
+          "appid": "1389840",
+          "nombre": "Hotel: A Resort Simulator"
+        }
+      ],
+      "usd": 12.99,
+      "antes": 12.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1389840": {
+      "usd": 12.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "1898280",
+      "nombre": "Hotel - VIP Pack",
+      "gratis": false,
+      "usd": 1.49,
+      "descuento": 0
+    },
+    {
+      "appid": "1898281",
+      "nombre": "Hotel - Lake DLC",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Diriges un hotel en un paraje idílico. Construye, diseña y desarrolla tu hotel, creando recuerdos inolvidables para tus huéspedes a través de una gestión experta y ofreciéndoles un entretenimiento excepcional.",
+  "generos": [
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "12 OCT 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Hotel: A Resort Simulator",
+  "acerca": [
+    [
+      "p",
+      "El primer simulador hotelero que te muestra todo lo que hay detrás de unas vacaciones idílicas. ¡Tu misión es brindar recuerdos inolvidables a tus huéspedes gestionando tu hotel y haciendo crecer tu negocio!"
+    ],
+    [
+      "h",
+      "Construye el hotel de tus sueños"
+    ],
+    [
+      "p",
+      "Elige el enclave ideal, diseña y construye todas las instalaciones necesarias (recepción, restaurantes, habitaciones...) y decora cada rincón a tu gusto."
+    ],
+    [
+      "h",
+      "¡Mima a tus huéspedes!"
+    ],
+    [
+      "p",
+      "Recoge a tus huéspedes en el puerto y asegúrate de que toda su estancia sea lo más cómoda posible para conseguir las mejores valoraciones online. Limpieza, almacenaje, transporte, comidas, opciones de ocio... ¡Todos los aspectos de sus vacaciones son responsabilidad tuya!"
+    ],
+    [
+      "h",
+      "Gestiona tu negocio y a tu personal"
+    ],
+    [
+      "p",
+      "Como gerente, tienes muchas responsabilidades: contratar personal, organizar las tareas que hay que llevar a cabo en el hotel, hacerte cargo de las reservas, preparar los menús, optimizar los beneficios, invertir en material nuevo... ¡Tus decisiones determinarán el éxito de tu negocio!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-3470 or AMD FX-8350"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon R7 250X, 2 GB"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ],
+      [
+        "Tarjeta de sonido",
+        "TBA"
+      ],
+      [
+        "Notas adicionales",
+        "DETAILS: Low 720p @ 30 FPS"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-7600K or AMD Ryzen 5 2600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1070, 8 GB or AMD Radeon RX Vega 56, 8 GB"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "DETAILS: High 1080p @ 60 FPS"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_beb55a0e48067477fba8a866b41668b940a7c5b0.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_beb55a0e48067477fba8a866b41668b940a7c5b0.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_0aaa7abe77eb5a652556a3969872aade9c50116f.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_0aaa7abe77eb5a652556a3969872aade9c50116f.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_0d54fbe7cffd59e949b036e0a5d46a57a42ee88b.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_0d54fbe7cffd59e949b036e0a5d46a57a42ee88b.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_891dc51590d78b820020a4a9c6efe31f372daab3.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_891dc51590d78b820020a4a9c6efe31f372daab3.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_1a9b5ea6e599ffadad95fe92cb0cbd81b99a1a6c.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_1a9b5ea6e599ffadad95fe92cb0cbd81b99a1a6c.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_30f6bba40a1deca85fab3f18a6dc041fb3e537ad.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_30f6bba40a1deca85fab3f18a6dc041fb3e537ad.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_d9ea069c5a976a43ece302d563875a6f5d8ace9a.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_d9ea069c5a976a43ece302d563875a6f5d8ace9a.1920x1080.jpg?t=1697532609"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_d4d48533e082f8eddb4fdde1f1fd586c82275049.600x338.jpg?t=1697532609",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389840/ss_d4d48533e082f8eddb4fdde1f1fd586c82275049.1920x1080.jpg?t=1697532609"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 151044,
+  "v": 7,
+  "consultado": "2026-11-27T19:19:11.531Z"
+}

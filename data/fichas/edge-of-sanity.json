@@ -1,0 +1,347 @@
+{
+  "clave": "edge of sanity",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6ef1-73d9-ad41-390d2e2f8900",
+  "appid": "1897110",
+  "lanzamiento": "2024-09-13",
+  "desarrolladores": [
+    "Vixa Games"
+  ],
+  "editores": [
+    "Daedalic Entertainment",
+    "Daedalic",
+    "DAEDALIC Entertainment GmbH"
+  ],
+  "etiquetas": [
+    "Singleplayer",
+    "2D",
+    "Horror",
+    "Survival Horror",
+    "Exploration"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 67,
+      "cantidad": 195,
+      "url": "https://store.steampowered.com/app/1897110/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 80,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/edge-of-sanity/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 69,
+      "cantidad": 13,
+      "url": "https://opencritic.com/game/17393/edge-of-sanity"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "683280",
+      "nombre": "Edge of Sanity",
+      "apps": [
+        {
+          "appid": "1897110",
+          "nombre": "Edge of Sanity"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 9.99,
+      "descuento": 70
+    }
+  ],
+  "sueltos": {
+    "1897110": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2983820",
+      "nombre": "Edge of Sanity - Supporter Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 50
+    },
+    {
+      "appid": "3113200",
+      "nombre": "Edge of Sanity - Soundtrack",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Ambientado en Alaska, Edge of Sanity es un juego 2D de terror y supervivencia inspirado en Cthulhu. Descubre una historia perturbadora mientras la locura entra en tu mente. Lidera un grupo de supervivientes y explorad, buscad recursos y sobrevivid frente a horrores arcanos.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "13 SEP 2024",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Edge of Sanity",
+  "acerca": [
+    [
+      "li",
+      "Terror psicológico inspirado en los Mitos de Cthulhu con un estilo artístico 2D dibujado a mano"
+    ],
+    [
+      "li",
+      "Centrado en la narrativa, con una ambientación alucinante y una historia siniestra"
+    ],
+    [
+      "li",
+      "Explora zonas remotas para encontrar a otros supervivientes y busca suministros básicos"
+    ],
+    [
+      "li",
+      "Gestiona el campamento de los supervivientes para seguir con vida y preparar expediciones"
+    ],
+    [
+      "li",
+      "Ten cabeza a la hora de combatir... o la cosa podría ir de mal en peor en cuestión de segundos"
+    ],
+    [
+      "p",
+      "Edge of Sanity es un juego de terror psicológico y supervivencia que se desarrolla en las despiadadas tierras salvajes de Alaska. Su estilo 2D está dibujado a mano y su inquietante ambientación se inspira en los Mitos de Cthulhu."
+    ],
+    [
+      "p",
+      "Pertenecías a un grupo de reabastecimiento que ayudaba a los científicos de un laboratorio de campo alaskeño. Al llegar a tu destino, no hallaste el menor resquicio de humanidad; tan solo unas criaturas horripilantes. Durante la huida, tu grupo se dispersó. Saliste de allí con vida a duras penas y lograste montar un campamento provisional. Es hora de llegar al fondo de lo sucedido."
+    ],
+    [
+      "p",
+      "Explora peligrosas cuevas, minas olvidadas y laboratorios ocultos mientras reúnes valiosos recursos para ti y los demás supervivientes. Busca pistas para desentrañar los secretos más siniestros de la misteriosa organización PRISM y descubre la verdadera historia que se oculta tras sus experimentos."
+    ],
+    [
+      "p",
+      "Cada día que pasas en esta zona remota es una lucha cruel por la supervivencia. Los alimentos y los suministros son limitados, y tu cordura se acerca al borde del abismo. Prepárate para improvisar y aprovecha cualquier ventaja que puedas tener contra todo tipo de monstruosidades. Todo dependerá de ti. ¿Logrará la oscuridad consumirte por completo o podrás aferrarte a la poca cordura que te quede?"
+    ],
+    [
+      "p",
+      "La locura afecta a todos los aspectos del juego"
+    ],
+    [
+      "p",
+      "Todos los sucesos sobrecogedores que te ocurran en tu viaje por Alaska dejarán una cicatriz permanente en tu mente. Al acumular locura, sufrirás traumas que afectarán a las acciones de tus personajes y a su percepción de la realidad, lo que desbloqueará nuevas opciones de diálogo y te permitirá fabricar nuevos objetos."
+    ],
+    [
+      "p",
+      "Gestiona la moral de tu equipo"
+    ],
+    [
+      "p",
+      "Incluso en el más hostil de los entornos, necesitarás un lugar donde descansar y planear tus expediciones futuras. Busca a los supervivientes que queden, asígnales tareas, envíalos en misiones de exploración y construye estaciones para producir alimentos y agua, entre otros recursos. Pero no bajes la guardia: cuando la gente está al límite, todo puede pasar."
+    ],
+    [
+      "p",
+      "Varias formas de abordar los combates"
+    ],
+    [
+      "p",
+      "Estudia los puntos débiles del enemigo, merma sus sentidos, gestiona los recursos, utiliza tus habilidades de fabricación y aprovecha el entorno para sobrevivir contra diversas monstruosidades. Cuando se te agoten las opciones, siempre puedes probar a pelear con el hacha..., aunque prepárate para sufrir consecuencias mortales."
+    ],
+    [
+      "p",
+      "Decisiones difíciles y una ambientación sobrecogedora"
+    ],
+    [
+      "p",
+      "Destapa los actos más atroces de las sectas del lugar, enfréntate a monstruos horribles y explora lo inexplicable. Así es la Alaska de la Guerra Fría, una tierra plagada de gente que pierde la cordura y de bestias inspiradas en los Mitos de Cthulhu: un lugar donde se difumina la línea que separa las decisiones buenas de las malas."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "2.0 GHz Processor"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX compatible graphics"
+      ],
+      [
+        "Almacenamiento",
+        "1 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "3.0 GHz Processor"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "DirectX compatible graphics"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_6b8c53e535083f3751fac92ec41f3d55733d21af.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_6b8c53e535083f3751fac92ec41f3d55733d21af.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_6569408a3e56975a731f3d46f72c175d3597038f.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_6569408a3e56975a731f3d46f72c175d3597038f.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_7bc24cb0feda77a7b9c051be6aea6de9a2379c33.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_7bc24cb0feda77a7b9c051be6aea6de9a2379c33.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_1c2f3c139d7432ecac7e7e7ec57dccc4ea1c5610.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_1c2f3c139d7432ecac7e7e7ec57dccc4ea1c5610.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_a2adf3e09971c8bd6aa66bbc91b57918e6bf4cf9.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_a2adf3e09971c8bd6aa66bbc91b57918e6bf4cf9.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_219b3d8cfef214aebbbea8a877a0f839ddcd7307.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_219b3d8cfef214aebbbea8a877a0f839ddcd7307.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_0561b0f73f3ac41e7c5d64022bfb32ba8fac4464.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_0561b0f73f3ac41e7c5d64022bfb32ba8fac4464.1920x1080.jpg?t=1789478513"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_e97acb205dbeb8d5ccfdca56933fe5d588357760.600x338.jpg?t=1789478513",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1897110/ss_e97acb205dbeb8d5ccfdca56933fe5d588357760.1920x1080.jpg?t=1789478513"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 214504,
+  "youtube": [
+    {
+      "id": "FxmGnLPcB_8",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "9KEZODJKRaQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "gpyiCw6frjw",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:17:37.044Z"
+}

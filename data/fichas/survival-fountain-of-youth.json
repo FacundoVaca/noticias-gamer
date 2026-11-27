@@ -1,0 +1,331 @@
+{
+  "clave": "survival fountain of youth",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6cd9-70f2-a7cc-9322a87442f3",
+  "appid": "1967630",
+  "lanzamiento": "2023-04-19",
+  "desarrolladores": [
+    "Odinsoft Inc.",
+    "Odinsoft"
+  ],
+  "editores": [
+    "Twin Sails Interactive",
+    "CE-Asia",
+    "Plug In Digital",
+    "Plug-in Digital",
+    "430",
+    "Twin Sails",
+    "Asmodee Digital"
+  ],
+  "etiquetas": [
+    "Survival",
+    "Open World Survival Craft",
+    "Co-op",
+    "Base Building",
+    "Exploration"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 85,
+      "cantidad": 4223,
+      "url": "https://store.steampowered.com/app/1967630/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 74,
+      "cantidad": 4,
+      "url": "https://metacritic.com/game/survival-fountain-of-youth/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 11,
+      "url": "https://metacritic.com/game/survival-fountain-of-youth/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "710500",
+      "nombre": "Survival: Fountain of Youth",
+      "apps": [
+        {
+          "appid": "1967630",
+          "nombre": "Survival: Fountain of Youth"
+        }
+      ],
+      "usd": 14,
+      "antes": 14,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1967630": {
+      "usd": 14,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 3,
+  "dlcLista": [
+    {
+      "appid": "2722240",
+      "nombre": "Survival: Fountain of Youth Supporter Pack",
+      "gratis": false,
+      "usd": 4.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2866210",
+      "nombre": "Survival: Fountain of Youth Sea Wolf Pack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3098350",
+      "nombre": "Survival: Fountain of Youth - Echoes of the Isles",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Survival: Fountain of Youth es un desafío de mundo abierto para entre 1 y 4 jugadores ambientado en las islas del Caribe del siglo XVI. Sobrevive a un naufragio en solitario o con tu equipo, fabrica herramientas y refugios y descubre los secretos de una civilización ancestral y de tu propio destino.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Indie",
+    "Simuladores"
+  ],
+  "lanzamientoTexto": "21 MAY 2024",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Survival: Fountain of Youth",
+  "acerca": [
+    [
+      "p",
+      "Embárcate en una apasionante aventura en solitario o con tus colegas inspirada en la Era de los Descubrimientos. Después de un naufragio, te encuentras atrapado en islas desiertas, donde debes dominar el arte de la supervivencia. Desde fabricar herramientas y construir refugios hasta cazar presas y luchar contra depredadores, cada acción cuenta."
+    ],
+    [
+      "p",
+      "Forma un equipo de hasta cuatro jugadores para buscar a vuestros compañeros desaparecidos y desentrañar la leyenda de la fuente de la juventud."
+    ],
+    [
+      "p",
+      "La aventura ha sido completamente remodelada para el modo cooperativo, con cambios en los sistemas de fabricación y recolección en los que la mayoría de las acciones solo requieren energía. También se han añadido interacciones, recursos, objetos y edificios compartidos."
+    ],
+    [
+      "p",
+      "Explora tres regiones: Pájaro, Búfalo y Puma, cada una con sus propios obstáculos y secretos."
+    ],
+    [
+      "p",
+      "Las dos últimas regiones estarán disponibles durante los meses posteriores al lanzamiento, y seguiremos mejorando la experiencia cooperativa con vuestros comentarios y sugerencias."
+    ],
+    [
+      "p",
+      "Planificar y gestionar cuidadosamente tu hambre, energía y sed es clave para cualquier superviviente perdido. Hay muchas cosas que puedes hacer en un día: cazar, recolectar recursos, fabricar nuevas herramientas y cocinar llevará un tiempo precioso. Sin embargo, la supervivencia es solo el comienzo... Una vez que hayas atendido tus necesidades básicas, será el momento de explorar el vasto archipiélago en el que has acabado."
+    ],
+    [
+      "p",
+      "Explora 11 islas, cada una con sus propios desafíos: calor abrasador del Caribe, tormentas implacables, pantanos infestados de malaria y plantas venenosas... ¡El archipiélago de Bimini está lleno de peligros que superar! Prepara tus expediciones, establece puestos de avanzada en cada región y recorre los mares en embarcaciones únicas: desde una balsa primitiva hasta un enorme navío español del siglo XVI."
+    ],
+    [
+      "p",
+      "Animales peligrosos, clima, plantas, enfermedades, lesiones, hambre, sed, agotamiento: todo pondrá a prueba tu fuerza y capacidad para sobrevivir. El archipiélago está lleno de bestias salvajes peligrosas que cazar y jefes animales aún más desafiantes. Aquí eres el cazador, no la presa..."
+    ],
+    [
+      "p",
+      "Con sangre y sudor, transforma tu campamento de una simple tienda de campaña a una bulliciosa base: talleres de herramientas, campos de cultivo, recolectores de agua, maquinaria de herrería... Hay cientos de elementos que se pueden fabricar y utilizar para sobrevivir, desde las herramientas más simples hechas con palos y piedras hasta mosquetes y armaduras avanzadas."
+    ],
+    [
+      "p",
+      "Mientras buscas pistas y rastros de tus compañeros de tripulación, te toparás con restos de una antigua civilización que pereció por una razón desconocida. Registra ruinas y templos, descifra acertijos centenarios y descubre el misterio detrás de la legendaria fuente de la juventud."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6400 CPU @ 2.70 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GeForce GTX 970 4 GB Full HD resolution"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/10/11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400F CPU @ 2.90GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GeForce RTX 2060 6 GB Full HD resolution"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "32 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/50691ae1d9dfd16687a4a1035526121400b7d6e5/ss_50691ae1d9dfd16687a4a1035526121400b7d6e5.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/50691ae1d9dfd16687a4a1035526121400b7d6e5/ss_50691ae1d9dfd16687a4a1035526121400b7d6e5.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/0c547a44157c0905ac1f990ddacb486ac64ebba9/ss_0c547a44157c0905ac1f990ddacb486ac64ebba9.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/0c547a44157c0905ac1f990ddacb486ac64ebba9/ss_0c547a44157c0905ac1f990ddacb486ac64ebba9.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/f98e70521e9fa08b838a4d3c5a5599ccc5670b03/ss_f98e70521e9fa08b838a4d3c5a5599ccc5670b03.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/f98e70521e9fa08b838a4d3c5a5599ccc5670b03/ss_f98e70521e9fa08b838a4d3c5a5599ccc5670b03.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/e1b32e6882b6fcb527b1bc8d7a57957e0bbf620e/ss_e1b32e6882b6fcb527b1bc8d7a57957e0bbf620e.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/e1b32e6882b6fcb527b1bc8d7a57957e0bbf620e/ss_e1b32e6882b6fcb527b1bc8d7a57957e0bbf620e.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/0be51b6356a3e5b34572e1dbf37c215f646b4afe/ss_0be51b6356a3e5b34572e1dbf37c215f646b4afe.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/0be51b6356a3e5b34572e1dbf37c215f646b4afe/ss_0be51b6356a3e5b34572e1dbf37c215f646b4afe.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/e8cbb09ea3e583a2c7ca55e412a78a08fe1bb85d/ss_e8cbb09ea3e583a2c7ca55e412a78a08fe1bb85d.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/e8cbb09ea3e583a2c7ca55e412a78a08fe1bb85d/ss_e8cbb09ea3e583a2c7ca55e412a78a08fe1bb85d.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/40bd6f45c3fb214a9dbb20f1e390ddf0835dbd5c/ss_40bd6f45c3fb214a9dbb20f1e390ddf0835dbd5c.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/40bd6f45c3fb214a9dbb20f1e390ddf0835dbd5c/ss_40bd6f45c3fb214a9dbb20f1e390ddf0835dbd5c.1920x1080.jpg?t=1793634882"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/88c800cd5307b05e0610abf2915c93bf692d748e/ss_88c800cd5307b05e0610abf2915c93bf692d748e.600x338.jpg?t=1793634882",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967630/88c800cd5307b05e0610abf2915c93bf692d748e/ss_88c800cd5307b05e0610abf2915c93bf692d748e.1920x1080.jpg?t=1793634882"
+    }
+  ],
+  "web": "https://odinsoft.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "This game contains spiders, snakes, and scorpions. If you have phobias related to these or similar creatures, please be aware that they appear in Survival: Fountain of Youth.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 199136,
+  "youtube": [
+    {
+      "id": "4jvWLzs8S2c",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bHz2rteQno4",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:21:10.399Z"
+}

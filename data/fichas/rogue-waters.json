@@ -1,0 +1,473 @@
+{
+  "clave": "rogue waters",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019176a2-3906-719c-9689-305ef84f2e10",
+  "appid": "1691190",
+  "lanzamiento": "2024-09-30",
+  "desarrolladores": [
+    "Ice Code Games"
+  ],
+  "editores": [
+    "Tripwire Presents",
+    "Tripwire Interactive LLC",
+    "Iceberg Interactive",
+    "Tripwire Interactive",
+    "Iceberg Interactive B.V."
+  ],
+  "etiquetas": [
+    "Tactical RPG",
+    "Turn-Based Tactics",
+    "Roguelite",
+    "Story Rich",
+    "Turn-Based"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 75,
+      "cantidad": 991,
+      "url": "https://store.steampowered.com/app/1691190/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/rogue-waters/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 74,
+      "cantidad": 29,
+      "url": "https://metacritic.com/game/rogue-waters/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 81,
+      "cantidad": 19,
+      "url": "https://opencritic.com/game/17395/rogue-waters"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "602351",
+      "nombre": "Rogue Waters",
+      "apps": [
+        {
+          "appid": "1691190",
+          "nombre": "Rogue Waters"
+        }
+      ],
+      "usd": 3.74,
+      "antes": 14.99,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1691190": {
+      "usd": 3.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "3223820",
+      "nombre": "Rogue Waters: Dead in the Water",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3242670",
+      "nombre": "Rogue Waters Soundtrack",
+      "gratis": false,
+      "usd": 0.74,
+      "descuento": 75
+    }
+  ],
+  "descripcion": "Rogue Waters es un rogue-lite táctico por turnos. Juega como el Capitán Cutter, al mando de tu barco y tripulación en encuentros generados proceduralmente para vengarte. Recluta, entrena y mejora a la tripulación, usa criaturas marinas y combate naval y cuerpo a cuerpo para ganar ventaja.",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Rol",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "30 SEP 2024",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/rogue-waters?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Jugable",
+  "nombreSteam": "Rogue Waters",
+  "acerca": [
+    [
+      "h",
+      "CONVIÉRTETE EN CAPITÁN PIRATA"
+    ],
+    [
+      "p",
+      "Lánzate al mar en la piel del Capitán Cutter , un pirata atrapado en una lucha mortal de poder y venganza. Navega por peligrosas aguas, libera a criaturas marinas míticas y supera a tus enemigos mientras buscas tesoros legendarios y te enfrentas a oscuros secretos."
+    ],
+    [
+      "p",
+      "Aventúrate en un periplo de lealtad, traición y venganza mientras descubres los misterios de la profecía del Prelado del Mar y te enfrentas al inmortal Huesonegro ."
+    ],
+    [
+      "p",
+      "Utiliza el Encuentro del pirata para mejorar tu barco y a los miembros de la tripulación antes de cada partida."
+    ],
+    [
+      "p",
+      "Cada partida genera nuevos encuentros, donde tendrás que navegar con cuidado para abrirte camino hacia Huesonegro."
+    ],
+    [
+      "p",
+      "Disfruta de una apasionante aventura, centrada en una historia de 3 actos, con rejugabilidad infinita."
+    ],
+    [
+      "h",
+      "REÚNE A TU TRIPULACIÓN"
+    ],
+    [
+      "p",
+      "Recluta y amplía tu tripulación pirata y descubre su potencial oculto mientras la guías en batalla. Debes ayudarlos a convertirse en los piratas legendarios que están destinados a ser."
+    ],
+    [
+      "p",
+      "Recluta entre 6 clases únicas , cada una con estilo de juego y habilidades distintas, para la tripulación de tu barco."
+    ],
+    [
+      "p",
+      "Al acabar cada partida, mejora las habilidades de tu tripulación para aumentar su efectividad."
+    ],
+    [
+      "p",
+      "El daño se conserva entre las partidas , así que debes ir cambiando a los miembros de la tripulación y darles tiempo para sanar."
+    ],
+    [
+      "h",
+      "TIERRA Y MAR EN CONSTANTE CAMBIO"
+    ],
+    [
+      "p",
+      "Enfrenta desafíos nuevos a medida que el mundo del juego cambia de manera procedural en cada partida, siempre con nuevos secretos, escenarios de combate y tesoros por descubrir."
+    ],
+    [
+      "p",
+      "Los encuentros incluyen diversos bandos de piratas y tipos de enemigos, así que elige tus batallas sabiamente."
+    ],
+    [
+      "p",
+      "Tu tripulación se enfrentará a enemigos tanto en el mar como en la tierra."
+    ],
+    [
+      "p",
+      "Visita las tiendas para curarte, mejorar a la tripulación, comprar cañones y reparar tu barco."
+    ],
+    [
+      "p",
+      "Puedes extorsionar a las tiendas para hacerte con sus botines , pero acabarás provocando una pelea."
+    ],
+    [
+      "h",
+      "QUE LOS VIENTOS SOPLEN A TU FAVOR"
+    ],
+    [
+      "p",
+      "Personaliza tus encuentros navales con cañones y artillería para el barco. Lanza potentes disparos durante los combates navales para destruir los módulos de los barcos enemigos y lograr ventaja en los combates de abordaje."
+    ],
+    [
+      "p",
+      "Los encuentros empiezan con batallas navales en las que puedes usar los cañones para disparar a puntos clave de los navíos enemigos."
+    ],
+    [
+      "p",
+      "Tanto tu barco como el de tus enemigos tienen mejoras únicas que pueden ser destruidas."
+    ],
+    [
+      "p",
+      "Se puede atacar y matar a los miembros de la tripulación durante la batalla, así que defiende a tu barco y tripulación antes del abordaje."
+    ],
+    [
+      "h",
+      "TÁCTICAS MEDITADAS"
+    ],
+    [
+      "p",
+      "Experimenta una nueva forma de combate táctico por turnos que reproduce la intensidad visceral de los duelos de capa y espada. Utiliza el entorno a tu favor para lograr ventaja como nunca antes."
+    ],
+    [
+      "p",
+      "La fase de abordaje incluye combate cuerpo a cuerpo en el que tu tripulación se enfrenta a los enemigos."
+    ],
+    [
+      "p",
+      "Utiliza las habilidades únicas de tu equipo para maniobrar y desplazar a los enemigos contra obstáculos y causarles daños mortales."
+    ],
+    [
+      "p",
+      "Aprovecha el entorno y empuja a los enemigos contra púas, utiliza armas de un solo uso o balancéate hasta tu posición con cuerdas."
+    ],
+    [
+      "h",
+      "INVOCA A CRIATURAS ABISALES"
+    ],
+    [
+      "p",
+      "En los océanos de Rogue Waters habitan criaturas marinas legendarias que muchos consideraban solo mitos. Libéralas de su cautiverio y gánate su confianza para invocarlas durante la batalla."
+    ],
+    [
+      "p",
+      "Invoca a 3 monstruos marinos para que te ayuden durante la fase de abordaje:"
+    ],
+    [
+      "p",
+      "El Kraken aplasta a los enemigos cercanos."
+    ],
+    [
+      "p",
+      "La Sirena perturba y empuja a los enemigos en cualquier dirección."
+    ],
+    [
+      "p",
+      "El Caracol gigante deja caer un obstáculo mortal con púas sobre la cubierta."
+    ],
+    [
+      "h",
+      "UNA AVENTURA PIRATA ROGUELITE"
+    ],
+    [
+      "p",
+      "Cada partida restablece tu equipo y tus objetos, pero desbloquea mejoras permanentes para tu tripulación, tu barco y el Capitán Cutter, lo que te permite hacerte más fuerte en cada batalla."
+    ],
+    [
+      "p",
+      "Los objetos y mejoras se restablecen en cada partida:"
+    ],
+    [
+      "p",
+      "Objetos personales (equipo de los personajes): armas adicionales, modificadores de ataque y mejoras secundarias para las habilidades."
+    ],
+    [
+      "p",
+      "Armamento de a bordo (cañones y elementos similares): cada nueva partida comienza con un set básico de inicio utilizable."
+    ],
+    [
+      "p",
+      "Los módulos de los barcos también se restablecen."
+    ],
+    [
+      "p",
+      "Cada partida aumenta tu progreso de forma permanente:"
+    ],
+    [
+      "p",
+      "Desbloquea árboles de habilidades para la tripulación y el Capitán Cutter."
+    ],
+    [
+      "p",
+      "Consigue mejoras navales e instalaciones portuarias en el Encuentro del pirata."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "4-Core Processor (4 CPUs) 2.5 Ghz 64bit Intel Core i5-4690T 2.5 GHz || AMD Phenom X4 9850 2,5 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 950 || Radeon RX 560"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "4-Core Processor (4 CPUs) 3.0 Ghz 64bit Intel Core i5-2320 3.0 GHz || AMD Ryzen 3 3200 3,0 GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050Ti || Radeon RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "6 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "SSD Recommended"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_7472d465beb366ddd539b5b61145f68b49a4b014.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_7472d465beb366ddd539b5b61145f68b49a4b014.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_352ffaa3c870b1db6161a16cd0c3ff1c243c360c.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_352ffaa3c870b1db6161a16cd0c3ff1c243c360c.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_7cb8db4eb501ecf00f498b3a1dbb9d666c1b58cc.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_7cb8db4eb501ecf00f498b3a1dbb9d666c1b58cc.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_8562557b74c48499cfc3b9a5a0ce79d44bb6e590.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_8562557b74c48499cfc3b9a5a0ce79d44bb6e590.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_dcd2cefacccff2a38c868fb4c8aebb52341edb3e.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_dcd2cefacccff2a38c868fb4c8aebb52341edb3e.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_b8ac9a07ede084416e848d1bde08113b8baf5507.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_b8ac9a07ede084416e848d1bde08113b8baf5507.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_587d3865cf1d6ca8ae0ff8567c5686fea4f85e4b.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_587d3865cf1d6ca8ae0ff8567c5686fea4f85e4b.1920x1080.jpg?t=1748339686"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_a44dc7e4794f4560591122982517f900a2a985a7.600x338.jpg?t=1748339686",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/ss_a44dc7e4794f4560591122982517f900a2a985a7.1920x1080.jpg?t=1748339686"
+    }
+  ],
+  "web": "https://roguewatersgame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 314422,
+  "youtube": [
+    {
+      "id": "U_1hKVw1ksw",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "4f5yrUdI4Wc",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "gXHGTDyBxh8",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "VG9gZBgHmow",
+      "nombre": "Gameplay Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:15:27.544Z"
+}

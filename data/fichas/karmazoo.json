@@ -1,0 +1,350 @@
+{
+  "clave": "karmazoo",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6d38-72f3-927f-4913239048b0",
+  "appid": "1661630",
+  "lanzamiento": "2023-11-14",
+  "desarrolladores": [
+    "Pastagames"
+  ],
+  "editores": [
+    "Devolver Digital"
+  ],
+  "etiquetas": [
+    "Action",
+    "Casual",
+    "Platformer",
+    "Puzzle",
+    "2D Platformer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 88,
+      "cantidad": 959,
+      "url": "https://store.steampowered.com/app/1661630/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 79,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/karmazoo/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 69,
+      "cantidad": 7,
+      "url": "https://metacritic.com/game/karmazoo/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 77,
+      "cantidad": 24,
+      "url": "https://opencritic.com/game/15849/karmazoo"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "590567",
+      "nombre": "Karmazoo",
+      "apps": [
+        {
+          "appid": "1661630",
+          "nombre": "KarmaZoo"
+        }
+      ],
+      "usd": 1.44,
+      "antes": 5.79,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "1661630": {
+      "usd": 1.44,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2815820",
+      "nombre": "KarmaZoo Soundtrack",
+      "gratis": false,
+      "usd": 2.69,
+      "descuento": 10
+    }
+  ],
+  "descripcion": "¡Colabora con otros para ganar! KarmaZoo es un divertido juego de plataformas cooperativo en el que hasta 10 jugadores aleatorios forman equipo y deben combinar las habilidades de 50 personajes diferentes para completar un Bucle y obtener Karma.",
+  "generos": [
+    "Acción",
+    "Casual"
+  ],
+  "lanzamientoTexto": "14 NOV 2023",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "KarmaZoo",
+  "acerca": [
+    [
+      "p",
+      "En KarmaZoo, lo importante es ayudar a los demás, trabajar juntos y disfrutar cooperando, incluso cuando las cosas se tuercen. Comparte momentos únicos y forja lazos reales jugando en línea con jugadores totalmente aleatorios mientras progresáis para colaborar y recolectar el recurso más valioso de todos: el Karma."
+    ],
+    [
+      "h",
+      "UN DESAFÍO INTERMINABLE"
+    ],
+    [
+      "p",
+      "El modo Bucle ofrece una serie de niveles cada vez más difíciles que se adaptan al tamaño del equipo, los personajes que lo conforman y las ventajas que hayan escogido. ¡No hay dos partidas iguales!"
+    ],
+    [
+      "h",
+      "EL PODER DEL KARMA"
+    ],
+    [
+      "p",
+      "¡Sé útil para puntuar! Tendrás que mantenerte cerca de tus compañeros, ayudarlos a alcanzar sus objetivos y, en ocasiones, hasta sacrificarte para que ellos puedan superar obstáculos letales. Cada buena acción que realices, de un modo u otro, te concederá ese dulce Karma que necesitas para desbloquear nuevos personajes o habilidades para futuros Bucles."
+    ],
+    [
+      "h",
+      "MULTIJUGADOR LOCAL"
+    ],
+    [
+      "p",
+      "¿Tienes visita? Tótem es un modo de juego local que es perfecto para jugar en una misma pantalla. Se trata de un torneo que enfrenta hasta a 8 jugadores en una serie de frenéticos minijuegos."
+    ],
+    [
+      "h",
+      "HECHO A MEDIDA PARA TI"
+    ],
+    [
+      "p",
+      "Todo el mundo, ya sean jugadores novatos o experimentados, puede jugar y ayudar a su equipo a conseguir Karma de maneras diferentes. ¡Encontrarás la tuya! KarmaZoo, que está disponible en 22 idiomas, cuenta con compatibilidad multiplataforma entre PC y consolas, así como con salas privadas en línea para disfrutar de Bucles y Tótems con amigos. ¡Nos vemos en el Zoo!"
+    ]
+  ],
+  "caracteristicas": [
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Coop. a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false
+    },
+    {
+      "nombre": "Holandés",
+      "voces": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false
+    },
+    {
+      "nombre": "Filipino",
+      "voces": false
+    },
+    {
+      "nombre": "Indonesio",
+      "voces": false
+    },
+    {
+      "nombre": "Malayo",
+      "voces": false
+    },
+    {
+      "nombre": "Hindi",
+      "voces": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-3240 / AMD Phenom II X4 965"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 660 / Radeon HD 7700 / Intel UHD Graphics 620"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4430 / AMD FX-4350"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce GTX 760 / Radeon R7 260X / Iris Xe Graphics"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "500 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_0f3913f3b7927952ba49e0fe9fe3b64acbd0d245.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_0f3913f3b7927952ba49e0fe9fe3b64acbd0d245.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_6f6792721a68f097419b06efb7bb9c2b073c6e46.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_6f6792721a68f097419b06efb7bb9c2b073c6e46.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_6192fca063a663ae099dbfe95a469c6476c6813b.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_6192fca063a663ae099dbfe95a469c6476c6813b.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_764cf485fb64666299ba703e769b1724a9cbf72a.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_764cf485fb64666299ba703e769b1724a9cbf72a.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_78d456e2f6e5a01d3c54ac4dc4b55461649d3c09.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_78d456e2f6e5a01d3c54ac4dc4b55461649d3c09.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_560cd80d0e676b547a8e371db4775eb287bed7b5.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_560cd80d0e676b547a8e371db4775eb287bed7b5.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_d6f4e75ff717ba14845038a49b3ccd962b6cddcb.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_d6f4e75ff717ba14845038a49b3ccd962b6cddcb.1920x1080.jpg?t=1728951152"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_7c391d239a139f0dd9b89d161dd305ef583b187c.600x338.jpg?t=1728951152",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1661630/ss_7c391d239a139f0dd9b89d161dd305ef583b187c.1920x1080.jpg?t=1728951152"
+    }
+  ],
+  "web": "http://karmazoogame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 246564,
+  "youtube": [
+    {
+      "id": "CYrcJtTCaKQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "k-UXFXqefRc",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "RNMbfb5b_Sc",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:15:40.053Z"
+}

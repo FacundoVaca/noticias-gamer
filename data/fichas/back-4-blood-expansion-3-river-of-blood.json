@@ -1,0 +1,248 @@
+{
+  "clave": "back 4 blood expansion 3 river of blood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-678e-7213-ad0d-bd5287719196",
+  "appid": "2101940",
+  "lanzamiento": "2022-12-06",
+  "desarrolladores": [
+    "Turtle Rock Studios"
+  ],
+  "editores": [
+    "Warner Bros. Games"
+  ],
+  "etiquetas": [
+    "Action",
+    "Gore",
+    "Violent"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 80,
+      "cantidad": 189,
+      "url": "https://store.steampowered.com/app/2101940/"
+    }
+  ],
+  "tipo": "dlc",
+  "juegoBase": {
+    "appid": "924970",
+    "nombre": "Back 4 Blood"
+  },
+  "ediciones": [
+    {
+      "packageid": "751306",
+      "nombre": "Back 4 Blood - Expansion 3: River of Blood",
+      "apps": [
+        {
+          "appid": "2101940",
+          "nombre": "Back 4 Blood - Expansion 3: River of Blood"
+        }
+      ],
+      "usd": 2.99,
+      "antes": 14.99,
+      "descuento": 80
+    }
+  ],
+  "sueltos": {
+    "2101940": {
+      "usd": 2.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Incluye una campaña de historia totalmente nueva, el acto 6, y la nueva exterminadora jugable, \"Tala\", además de nuevas armas, nuevos accesorios, nuevas cartas, 12 skins para armas, 8 skins para personajes y más.",
+  "generos": [
+    "Acción"
+  ],
+  "lanzamientoTexto": "6 DIC 2022",
+  "metacritic": null,
+  "nombreSteam": "Back 4 Blood - Expansion 3: River of Blood",
+  "acerca": [
+    [
+      "p",
+      "Corriente de sangre incluye una campaña de historia totalmente nueva, el acto 6. En esta fascinante misión de cinco mapas, los jugadores deben avanzar río arriba y hacer paradas en diferentes lugares para recoger suministros y enfrentarse a nuevos enemigos. La expansión presenta a \"Tala\", una antigua sectaria proscrita convertida en exterminadora. La acompaña su amigo \"Jeff\", un grandullón bueno al que se puede llamar con un silbato para que aparezca en algún lugar del mapa. Cuando Tala está en el equipo, ella o cualquiera de los exterminadores pueden usar el silbato y Jeff la lía gorda cuando aparece. Corriente de sangre incluye 8 skins exclusivas de personaje y 12 skins exclusivas para armas, además de nuevas armas, accesorios y cartas."
+    ],
+    [
+      "p",
+      "También se ha añadido un nuevo modo de juego a Corriente de sangre, el Juicio del gusano. El Juicio el gusano es un nuevo modo cooperativo JcE gratuito en el que los jugadores escogen su camino en una cadena de cuatro mapas y ganan puntos según avanzan. Los jugadores pueden añadir modificadores contaminados y votar para el siguiente mapa para aumentar los puntos recibidos a cambio de incrementar la dificultad. Los jugadores que completen los cuatro mapas alcanzarán la gloria y obtendrán puestos en los marcadores."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Contenido descargable",
+    "Compat. total con mando",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Árabe",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 (3.3 GHz) OR AMD Ryzen 5 2600 (3.4 GHz)"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1050 Ti OR AMD Radeon RX 570"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / Low Quality Settings"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "64-bit Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 (2.8 GHz) OR AMD Ryzen 7 1800X (3.6 GHz)"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 970 OR AMD Radeon RX 590"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "40 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p / 60fps / High Quality Settings"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_01d625277a7dc76a67f78de3a3ed1e633d205ddd.600x338.jpg?t=1715817116",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_01d625277a7dc76a67f78de3a3ed1e633d205ddd.1920x1080.jpg?t=1715817116"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_cb8d4bd7139ce8f80df16e5c7c4be906222f050b.600x338.jpg?t=1715817116",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_cb8d4bd7139ce8f80df16e5c7c4be906222f050b.1920x1080.jpg?t=1715817116"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_cff8429e91cfc960864b0652855a8458e43d476a.600x338.jpg?t=1715817116",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101940/ss_cff8429e91cfc960864b0652855a8458e43d476a.1920x1080.jpg?t=1715817116"
+    }
+  ],
+  "web": "https://back4blood.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 17,
+  "avisoContenido": "This Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work: Frequent Violence or Gore, General Mature Content",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 227676,
+  "v": 7,
+  "consultado": "2026-11-27T19:22:15.709Z"
+}

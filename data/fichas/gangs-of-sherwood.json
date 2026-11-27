@@ -1,0 +1,323 @@
+{
+  "clave": "gangs of sherwood",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6b82-70be-bf06-2f1cd7d4df41",
+  "appid": "1351000",
+  "lanzamiento": "2023-11-30",
+  "desarrolladores": [
+    "Appeal Studios",
+    "Appeal Studio"
+  ],
+  "editores": [
+    "Nacon",
+    "Appeal Studios",
+    "Plug In Digital"
+  ],
+  "etiquetas": [
+    "Action",
+    "Co-op",
+    "Multiplayer",
+    "PvE",
+    "Online Co-Op"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 38,
+      "cantidad": 192,
+      "url": "https://store.steampowered.com/app/1351000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 49,
+      "cantidad": 14,
+      "url": "https://metacritic.com/game/gangs-of-sherwood/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 52,
+      "cantidad": 12,
+      "url": "https://metacritic.com/game/gangs-of-sherwood/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 59,
+      "cantidad": 37,
+      "url": "https://opencritic.com/game/15897/gangs-of-sherwood"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "916764",
+      "nombre": "Gangs of Sherwood - Lionheart Edition",
+      "apps": [
+        {
+          "appid": "1351000",
+          "nombre": "Gangs of Sherwood"
+        }
+      ],
+      "usd": 1.89,
+      "antes": 18.99,
+      "descuento": 90
+    },
+    {
+      "packageid": "472626",
+      "nombre": "Gangs of Sherwood",
+      "apps": [
+        {
+          "appid": "1351000",
+          "nombre": "Gangs of Sherwood"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 15.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1351000": {
+      "usd": 1.89,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 5,
+  "dlcLista": [
+    {
+      "appid": "2394540",
+      "nombre": "Gangs of Sherwood - Digital Soundtrack",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2394550",
+      "nombre": "Gangs of Sherwood - Digital Artbook",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432270",
+      "nombre": "Gangs of Sherwood - Prestige Skin Set Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432271",
+      "nombre": "Gangs of Sherwood - Lionheart Skin Pack",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2432272",
+      "nombre": "Gangs of Sherwood - Alan A Dale Alternative Skin",
+      "gratis": false,
+      "usd": 1.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Enfréntate al sheriff de Nottingham y lidera la rebelión, a solas o en modo cooperativo con hasta 4 jugadores. Encarna a uno de los Alegres Compañeros, combina ataques y libera al pueblo en esta distopía futurista basada en la leyenda de Robin Hood.",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "30 NOV 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Gangs of Sherwood",
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-4790 or AMD Ryzen 5 1500X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1650S, 4 GB or AMD Radeon RX 570, 4 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-12600K or AMD Ryzen 5 7600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce RTX 2070, 8 GB or AMD Radeon RX 6700 XT, 12 GB or Intel Arc A770, 8 GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "15 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_bd838576b74fb7236fc52c6acd57f31a0a72223c.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_bd838576b74fb7236fc52c6acd57f31a0a72223c.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_a76a4e59e13cdb3d01a864d57c10add2eda119c8.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_a76a4e59e13cdb3d01a864d57c10add2eda119c8.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_eb5a1ca4cbd2f75574bab7a82ed5424397574c69.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_eb5a1ca4cbd2f75574bab7a82ed5424397574c69.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_dc46b355298bb4f048ee56e64bd4214c7a786b8d.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_dc46b355298bb4f048ee56e64bd4214c7a786b8d.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_9c4c20a2227736640f7fcdfc7245ec86d741228d.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_9c4c20a2227736640f7fcdfc7245ec86d741228d.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_1d6a3bb2b0617c40983872104c6ea89943a90948.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_1d6a3bb2b0617c40983872104c6ea89943a90948.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_1ae98dae4c6b9194e61d61740a7b9b0947eeb611.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_1ae98dae4c6b9194e61d61740a7b9b0947eeb611.1920x1080.jpg?t=1778173468"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_35b3f8dbac5a781c1c6ecd2754c5d5c476374773.600x338.jpg?t=1778173468",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/ss_35b3f8dbac5a781c1c6ecd2754c5d5c476374773.1920x1080.jpg?t=1778173468"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "avisoContenido": "This game features fantasy violence, mild blood and mild language.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 208399,
+  "youtube": [
+    {
+      "id": "rqE-C48Yrss",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "8a5xd3zuaqQ",
+      "nombre": "Gameplay Trailer"
+    },
+    {
+      "id": "JOaZrYVcs8A",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "dtWsrBf0iM0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:15:34.373Z"
+}

@@ -1,0 +1,322 @@
+{
+  "clave": "road 96 mile 0",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6b4a-70fa-bfb3-33a8b0d6892d",
+  "appid": "2095340",
+  "lanzamiento": "2023-04-03",
+  "desarrolladores": [
+    "Digixart",
+    "DigixArt Entertainment SAS"
+  ],
+  "editores": [
+    "Digixart",
+    "Digixart, Ravenscourt",
+    "Ravenscourt Games",
+    "THQ Nordic GmbH",
+    "THQ Nordic",
+    "680",
+    "Ravenscourt",
+    "Digixart, THQ Nordic"
+  ],
+  "etiquetas": [
+    "Choose Your Own Adventure",
+    "Exploration",
+    "Interactive Fiction",
+    "Visual Novel",
+    "Walking Simulator"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 67,
+      "cantidad": 1914,
+      "url": "https://store.steampowered.com/app/2095340/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 65,
+      "cantidad": 10,
+      "url": "https://metacritic.com/game/road-96-mile-0/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 65,
+      "cantidad": 52,
+      "url": "https://metacritic.com/game/road-96-mile-0/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 66,
+      "cantidad": 54,
+      "url": "https://opencritic.com/game/14528/road-96-mile-0"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "748863",
+      "nombre": "Road 96: Mile 0",
+      "apps": [
+        {
+          "appid": "2095340",
+          "nombre": "Road 96: Mile 0"
+        }
+      ],
+      "usd": 9.96,
+      "antes": 9.96,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "2095340": {
+      "usd": 9.96,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 2,
+  "dlcLista": [
+    {
+      "appid": "2318080",
+      "nombre": "Road 96: Mile 0 - Soundtrack",
+      "gratis": false,
+      "usd": 5.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2322790",
+      "nombre": "Road 96: Mile 0 - About a Girl",
+      "gratis": false,
+      "usd": 5.96,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "Esta precuela de Road 96 es una historia sobre dos amigos de entornos totalmente opuestos: Zoe y Kaito. Aquí comenzó todo. ¡Atrévete a desafiar tus ideas preconcebidas!",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Casual",
+    "Indie"
+  ],
+  "lanzamientoTexto": "4 ABR 2023",
+  "metacritic": null,
+  "steamDeck": "Verificado",
+  "nombreSteam": "Road 96: Mile 0",
+  "acerca": [
+    [
+      "p",
+      "Road 96: Mile 0 es un juego narrativo de aventuras con un componente musical creado por DigixArt, el estudio francés responsable de éxitos como Road 96, 11-11 Memories Retold y ganador de 5 premios Pégases. En este juego, publicado por Ravenscourt, los jugadores alternarán entre controlar a Zoe y a Kaito, dos adolescentes con entornos y creencias muy distintos. Vivirán y explorarán White Sands, una zona residencial de lujo en la que reside la élite de Petria y donde trabajan los padres de Kaito."
+    ],
+    [
+      "p",
+      "Zoe es uno de los personajes de Road 96. Se ha criado en el lado rico de la ciudad y su padre trabaja para el Gobierno. Kaito es un personaje de Lost in Harmony y vive en la zona humilde. Ambos son grandes amigos, pero eso podría cambiar pronto..."
+    ],
+    [
+      "p",
+      "Su viaje durante Road 96: Mile 0 pondrá a prueba su amistad y todo aquello en lo que creen. Ambos afirman que el dinero no puede comprar la felicidad ni su amistad. Los dos soñadores buscarán el lugar al que pertenecen. ¿Seguirán siendo amigos cuando lo encuentren?"
+    ],
+    [
+      "p",
+      "EL MUNDO DE ROAD 96"
+    ],
+    [
+      "p",
+      "Descubre lo ocurrido antes de Road 96 y los sucesos que llevaron a Zoe a escapar de su hogar. Juega como Zoe y Kaito para dar forma a sus destinos. También te encontrarás a muchos de los interesantes personajes de Road 96. Experimenta una cara distinta del problemático país de Petria."
+    ],
+    [
+      "p",
+      "LA AMISTAD ES LO PRIMERO"
+    ],
+    [
+      "p",
+      "Nuestra historia trata del conflicto y las diferencias entre dos amigos. Zoe y Kaito han crecido en mundos distintos, pero están unidos por una gran amistad. ¿Podrá esta superar los desafíos a los que tendrán que enfrentarse?"
+    ],
+    [
+      "p",
+      "RECORRIDOS MUSICALES"
+    ],
+    [
+      "p",
+      "Los niveles musicales del juego son experiencias emotivas que te llevarán a lo más profundo de los mundos interiores de Zoe y Kaito. Tendrás que tomar decisiones, avanzar y esquivar para abrirte camino en preciosos viajes psicodélicos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 - 6th Gen/ AMD Ryzen 5 3600 6 Core 3.6GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1060 3GB/ AMD Radeon RX 570 4GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7 - 6th Gen/ AMD Ryzen 7 3700X 3.6GHz"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GeForce GTX 1660/ AMD Radeon RX Vega56 8GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_f5d530197a78718b440a8134ea7bf0761f943df8.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_f5d530197a78718b440a8134ea7bf0761f943df8.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_b89d423ac98a2dddf3e0e8c3a68d50e6533f8e1f.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_b89d423ac98a2dddf3e0e8c3a68d50e6533f8e1f.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_fd94aacb9def2980ded507e654f04c80bb4db9a4.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_fd94aacb9def2980ded507e654f04c80bb4db9a4.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_0b1059a5f1a9986d35c1f20c147316b976dc7b70.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_0b1059a5f1a9986d35c1f20c147316b976dc7b70.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_08f80f03f8302421c73c5d279e6ea3b492e1a990.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_08f80f03f8302421c73c5d279e6ea3b492e1a990.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_bdda9a4bda1dc16da7d0c83375f72f9f5196488a.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_bdda9a4bda1dc16da7d0c83375f72f9f5196488a.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_886b230f3757563ff284f8c990db408ef132a1ee.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_886b230f3757563ff284f8c990db408ef132a1ee.1920x1080.jpg?t=1784818931"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_bd333e9509b598bc58df2e037137086649c538f4.600x338.jpg?t=1784818931",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095340/ss_bd333e9509b598bc58df2e037137086649c538f4.1920x1080.jpg?t=1784818931"
+    }
+  ],
+  "web": "https://road96.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "The game features very few instances of depicted violence, scary scenes, and topics which some people might find unappropiate.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 233676,
+  "youtube": [
+    {
+      "id": "3fYO2XC33tQ",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:18:01.568Z"
+}

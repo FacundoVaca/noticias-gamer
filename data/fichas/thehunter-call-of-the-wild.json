@@ -1,0 +1,595 @@
+{
+  "clave": "thehunter call of the wild",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-343c-71da-b9ce-584b6df40d40",
+  "appid": "518790",
+  "lanzamiento": "2017-02-16",
+  "desarrolladores": [
+    "Expansive Worlds",
+    "Expansive Worlds AB"
+  ],
+  "editores": [
+    "Expansive Worlds",
+    "Avalanche Studios"
+  ],
+  "etiquetas": [
+    "Hunting",
+    "Open World",
+    "Multiplayer",
+    "Nature",
+    "Relaxing"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 89,
+      "cantidad": 172781,
+      "url": "https://store.steampowered.com/app/518790/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 64,
+      "cantidad": 13,
+      "url": "https://metacritic.com/game/thehunter-call-of-the-wild/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 64,
+      "cantidad": 233,
+      "url": "https://metacritic.com/game/thehunter-call-of-the-wild/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 68,
+      "cantidad": 26,
+      "url": "https://opencritic.com/game/3974/thehunter-call-of-the-wild"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "121558",
+      "nombre": "theHunter: Call of the Wild™",
+      "apps": [
+        {
+          "appid": "518790",
+          "nombre": "theHunter: Call of the Wild™"
+        }
+      ],
+      "usd": 1.57,
+      "antes": 10.49,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "518790": {
+      "usd": 1.57,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 62,
+  "dlcLista": [
+    {
+      "appid": "5164050",
+      "nombre": "theHunter: Call of the Wild™ - Texas Hunting Reserve",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "4868870",
+      "nombre": "theHunter: Call of the Wild™ - Old West Weapon Pack",
+      "gratis": false,
+      "usd": 3.29,
+      "descuento": 0
+    },
+    {
+      "appid": "4467980",
+      "nombre": "theHunter: Call of the Wild™ - Peru Hunting Reserve",
+      "gratis": false,
+      "usd": 4.89,
+      "descuento": 30
+    },
+    {
+      "appid": "4424610",
+      "nombre": "theHunter: Call of the Wild™ - Multi-Class Weapon Pack",
+      "gratis": false,
+      "usd": 2.69,
+      "descuento": 25
+    },
+    {
+      "appid": "4182010",
+      "nombre": "theHunter: Call of the Wild™ - Game Feeder Pack 2",
+      "gratis": false,
+      "usd": 2.99,
+      "descuento": 25
+    },
+    {
+      "appid": "4010590",
+      "nombre": "theHunter: Call of the Wild™ - Scotland Hunting Reserve",
+      "gratis": false,
+      "usd": 4.41,
+      "descuento": 33
+    },
+    {
+      "appid": "4089880",
+      "nombre": "theHunter: Call of the Wild™ - Premium Trophy Mount Pack",
+      "gratis": false,
+      "usd": 1.66,
+      "descuento": 33
+    },
+    {
+      "appid": "3992110",
+      "nombre": "theHunter: Call of the Wild™ - Game Feeder Pack",
+      "gratis": false,
+      "usd": 2.67,
+      "descuento": 33
+    },
+    {
+      "appid": "3570290",
+      "nombre": "theHunter: Call of the Wild™ - Alberta Hunting Preserve",
+      "gratis": false,
+      "usd": 3.75,
+      "descuento": 43
+    },
+    {
+      "appid": "3750770",
+      "nombre": "theHunter: Call of the Wild™ – Pump, Flip and Fire Pack",
+      "gratis": false,
+      "usd": 1.88,
+      "descuento": 37
+    },
+    {
+      "appid": "3447720",
+      "nombre": "theHunter: Call of the Wild™ - Rapid Hunt Rifle Pack",
+      "gratis": false,
+      "usd": 1.58,
+      "descuento": 47
+    },
+    {
+      "appid": "3244810",
+      "nombre": "theHunter: Call of the Wild™ - Salzwiesen Park",
+      "gratis": false,
+      "usd": 1.87,
+      "descuento": 53
+    },
+    {
+      "appid": "3244800",
+      "nombre": "theHunter: Call of the Wild™ - German Shorthaired Pointer",
+      "gratis": false,
+      "usd": 1.54,
+      "descuento": 57
+    },
+    {
+      "appid": "3244820",
+      "nombre": "theHunter: Call of the Wild™ - Hunters' Choice: Bolt-Action Rifle Pack",
+      "gratis": false,
+      "usd": 1.4,
+      "descuento": 53
+    },
+    {
+      "appid": "2869680",
+      "nombre": "theHunter: Call of the Wild™ - Sundarpatan Nepal Hunting Reserve",
+      "gratis": false,
+      "usd": 2.83,
+      "descuento": 57
+    },
+    {
+      "appid": "1931910",
+      "nombre": "theHunter: Call of the Wild™ - Revontuli Coast",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "2383430",
+      "nombre": "theHunter: Call of the Wild™ - Emerald Coast Australia",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1316840",
+      "nombre": "theHunter: Call of the Wild™ - Silver Ridge Peaks",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "894600",
+      "nombre": "theHunter: Call of the Wild™ - Vurhonga Savanna",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "695680",
+      "nombre": "theHunter: Call of the Wild™ - Medved-Taiga",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1843410",
+      "nombre": "theHunter: Call of the Wild™ - Modern Rifle Pack",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "1546670",
+      "nombre": "theHunter: Call of the Wild™ - Bloodhound",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "2532370",
+      "nombre": "theHunter: Call of the Wild™  - Ambusher Pack",
+      "gratis": false,
+      "usd": 1.34,
+      "descuento": 55
+    },
+    {
+      "appid": "630940",
+      "nombre": "theHunter: Call of the Wild™ - ATV SABER 4X4",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "2701860",
+      "nombre": "theHunter: Call of the Wild™ - High Caliber Weapon Pack",
+      "gratis": false,
+      "usd": 1.34,
+      "descuento": 55
+    },
+    {
+      "appid": "2631430",
+      "nombre": "theHunter: Call of the Wild™ - Labrador Retriever",
+      "gratis": false,
+      "usd": 1.61,
+      "descuento": 55
+    },
+    {
+      "appid": "1146830",
+      "nombre": "theHunter: Call of the Wild™ - High-Tech Hunting Pack",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "622450",
+      "nombre": "theHunter: Call of the Wild™ - Tents & Ground Blinds",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "766870",
+      "nombre": "theHunter: Call of the Wild™ - Weapon Pack 1",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "1028270",
+      "nombre": "theHunter: Call of the Wild™ - Weapon Pack 2",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "2299780",
+      "nombre": "theHunter: Call of the Wild™ - Hunter Power Pack",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "2167630",
+      "nombre": "theHunter: Call of the Wild™ - New England Mountains",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1093700",
+      "nombre": "theHunter: Call of the Wild™ - Yukon Valley",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1776430",
+      "nombre": "theHunter: Call of the Wild™ - Mississippi Acres Preserve",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1463090",
+      "nombre": "theHunter: Call of the Wild™ - Te Awaroa National Park",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1076850",
+      "nombre": "theHunter: Call of the Wild™ - Treestand & Tripod Pack",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    },
+    {
+      "appid": "1608440",
+      "nombre": "theHunter: Call of the Wild™ - Rancho del Arroyo",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "1179710",
+      "nombre": "theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "986850",
+      "nombre": "theHunter: Call of the Wild™ - Parque Fernando",
+      "gratis": false,
+      "usd": 2.02,
+      "descuento": 55
+    },
+    {
+      "appid": "2064720",
+      "nombre": "theHunter: Call of the Wild™ - Assorted Sidearms Pack",
+      "gratis": false,
+      "usd": 1.12,
+      "descuento": 55
+    }
+  ],
+  "descripcion": "Descubre un juego de caza realista en mundo abierto y dinámico que reacciona a cada uno de tus movimientos. Rastrea a tus presas, afronta encuentros impredecibles y domina la caza, ya sea en solitario o con amigos.",
+  "generos": [
+    "Aventura",
+    "Simuladores",
+    "Deportes"
+  ],
+  "lanzamientoTexto": "16 FEB 2017",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "theHunter: Call of the Wild™",
+  "acerca": [
+    [
+      "p",
+      "Experimenta una aventura de caza realista de mundo abierto ambientada en un entorno dinámico y rebosante de vida. La naturaleza te ofrece encuentros constantes e impredecibles que responden continuamente a tu presencia."
+    ],
+    [
+      "h",
+      "NATURALEZA EN ESTADO PURO"
+    ],
+    [
+      "p",
+      "Recorre el escarpado distrito del lago de Layton, en América del Norte, o explora los frondosos paisajes europeos de Hirschfelden. Descubre una gran variedad de regiones, cada una con su flora y fauna únicas. Sorpréndete con comportamientos animales complejos, fenómenos meteorológicos cambiantes, ciclos completos de día y noche, efectos acústicos realistas y aromas que se desplazan con el viento."
+    ],
+    [
+      "h",
+      "TÚ CAZAS, TÚ ELIGES"
+    ],
+    [
+      "p",
+      "Elige con cuidado tu rifle, pistola, escopeta o arco y adapta tu equipamiento y munición a la presa. Caza desde liebres de cola blanca, ánades reales, osos negros, wapitís y alces y adapta tu estrategia a cada ocasión. Interpreta los comportamientos específicos de los animales, adáptate al entorno y haz que cada disparo cuente."
+    ],
+    [
+      "h",
+      "HAZ HONOR A LA CAZA"
+    ],
+    [
+      "p",
+      "Cada cacería tiene una historia única que contar y puede que quieras recordar algunas para siempre. Exhibe tus presas más preciadas en tu pabellón de trofeos y conserva los recuerdos para la posteridad."
+    ],
+    [
+      "h",
+      "EVOLUCIÓN CONSTANTE"
+    ],
+    [
+      "p",
+      "theHunter: Call of the Wild se ha desarrollado en estrecha colaboración con la comunidad, se nutre de años de comentarios de jugadores y sigue evolucionando para ofrecer una experiencia de caza realista. Gracias a sus actualizaciones periódicas de contenido gratuito y de pago, que incluyen nuevas reservas y equipamiento, la caza a la que vuelves nunca es exactamente la misma que dejaste."
+    ],
+    [
+      "h",
+      "LA NATURALEZA EN COMPAÑÍA"
+    ],
+    [
+      "p",
+      "Vive la experiencia multijugador en línea para hasta ocho jugadores en reservas de caza espectaculares. Colabora y crea estrategias con amigos o compite para conseguir la presa más impresionante. Puedes acceder a cualquier reserva de un DLC de pago siempre que un miembro del grupo de caza lo tenga."
+    ],
+    [
+      "h",
+      "AMPLÍA TU EXPERIENCIA DE CAZA"
+    ],
+    [
+      "p",
+      "Lleva tu aventura más allá con una colección de contenido de pago. Elige entre 18 reservas de todo el mundo, que abarcan desde gélidas tierras del norte hasta áridas llanuras africanas y ríos de la densa selva. Descubre nuevas formas de cazar con rifles modernos de precisión o armas clásicas de pólvora negra, y adáptate al terreno con escondites de caza, quads, tiendas de campaña móviles y perros de caza. El camino que tienes por delante es tan amplio como tú decidas que sea."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Compras dentro de la aplicación",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "64bit OS - Windows 7"
+      ],
+      [
+        "Procesador",
+        "Intel i3-4170"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 660 / ATI HD7870 - 1GB VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "140 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "64bit OS - Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel i7 quad-core"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVidia GTX 760 / R9 270x - 4GB VRAM"
+      ],
+      [
+        "Almacenamiento",
+        "140 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/0f3167bc08e561282213be7093596f3dd8a19959/ss_0f3167bc08e561282213be7093596f3dd8a19959.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/0f3167bc08e561282213be7093596f3dd8a19959/ss_0f3167bc08e561282213be7093596f3dd8a19959.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/684bedec219bd1f0f858a333ed6d6fae6a1cd387/ss_684bedec219bd1f0f858a333ed6d6fae6a1cd387.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/684bedec219bd1f0f858a333ed6d6fae6a1cd387/ss_684bedec219bd1f0f858a333ed6d6fae6a1cd387.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/19fbf2094d83b7cab24b8d7f5677d9fccc32a834/ss_19fbf2094d83b7cab24b8d7f5677d9fccc32a834.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/19fbf2094d83b7cab24b8d7f5677d9fccc32a834/ss_19fbf2094d83b7cab24b8d7f5677d9fccc32a834.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/5cfaed01923a29445469a24d3b25eecab1d85c16/ss_5cfaed01923a29445469a24d3b25eecab1d85c16.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/5cfaed01923a29445469a24d3b25eecab1d85c16/ss_5cfaed01923a29445469a24d3b25eecab1d85c16.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/6a45508a4d87a34ecdf9a06bec2430e3edba0252/ss_6a45508a4d87a34ecdf9a06bec2430e3edba0252.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/6a45508a4d87a34ecdf9a06bec2430e3edba0252/ss_6a45508a4d87a34ecdf9a06bec2430e3edba0252.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/a9510912925ed1dab0ad57523ad0be8fdf8f7892/ss_a9510912925ed1dab0ad57523ad0be8fdf8f7892.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/a9510912925ed1dab0ad57523ad0be8fdf8f7892/ss_a9510912925ed1dab0ad57523ad0be8fdf8f7892.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/7ca1740bb702a063a488774f1e34b494dca334b4/ss_7ca1740bb702a063a488774f1e34b494dca334b4.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/7ca1740bb702a063a488774f1e34b494dca334b4/ss_7ca1740bb702a063a488774f1e34b494dca334b4.1920x1080.jpg?t=1795510321"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/59fe70479a89cc8ffa3ab853bb807b343b8cf597/ss_59fe70479a89cc8ffa3ab853bb807b343b8cf597.600x338.jpg?t=1795510321",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518790/59fe70479a89cc8ffa3ab853bb807b343b8cf597/ss_59fe70479a89cc8ffa3ab853bb807b343b8cf597.1920x1080.jpg?t=1795510321"
+    }
+  ],
+  "web": "http://callofthewild.thehunter.com/",
+  "sistemas": [
+    "Windows"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 26381,
+  "youtube": [
+    {
+      "id": "-5vGmuY8g4o",
+      "nombre": "Walktrough Trailer"
+    },
+    {
+      "id": "RpwgV8D4GiU",
+      "nombre": "Layton Lake Trailer"
+    },
+    {
+      "id": "VGOTYfGMyoE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:19:48.816Z"
+}

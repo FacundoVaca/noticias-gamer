@@ -1,0 +1,397 @@
+{
+  "clave": "perish",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4378-73b0-8182-ae1daf578b86",
+  "appid": "1016360",
+  "lanzamiento": "2023-02-02",
+  "desarrolladores": [
+    "ITEM42"
+  ],
+  "editores": [
+    "HandyGames",
+    "www.handy-games.com GmbH",
+    "ITEM42",
+    "THQ Nordic Mobile GmbH",
+    "THQ Nordic Mobile"
+  ],
+  "etiquetas": [
+    "Gore",
+    "Action",
+    "Violent",
+    "Indie",
+    "Roguelite"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 68,
+      "cantidad": 365,
+      "url": "https://store.steampowered.com/app/1016360/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 62,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/perish/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 34,
+      "cantidad": 9,
+      "url": "https://metacritic.com/game/perish/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 61,
+      "cantidad": 13,
+      "url": "https://opencritic.com/game/14256/perish"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "336858",
+      "nombre": "PERISH",
+      "apps": [
+        {
+          "appid": "1016360",
+          "nombre": "PERISH"
+        }
+      ],
+      "usd": 9.99,
+      "antes": 9.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1016360": {
+      "usd": 9.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2295770",
+      "nombre": "PERISH Soundtrack",
+      "gratis": false,
+      "usd": 5.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "PERISH es un original FPS para cuatro jugadores con una cruz a cuestas. Aniquila hordas de criaturas en las negras arenas del Purgatorio y vende sus cadáveres manchados de oro a sacerdotes corruptos. Mata a magestuosos jefes y usa lo obtenido para entrar en el Elíseo, lugar de revelaciones cósmicas.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "2 FEB 2023",
+  "metacritic": {
+    "puntaje": 62,
+    "url": "https://www.metacritic.com/game/pc/perish?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "PERISH",
+  "acerca": [
+    [
+      "p",
+      "PERISH es un elegante FPS para cuatro jugadores con una cruz a cuestas. Aniquila hordas de criaturas en las calcinadas arenas del Purgatorio y vende sus cadáveres manchados de oro a los corruptos sacerdotes. Mata a majestuosos jefes y utiliza las recompensas para entrar en el Elíseo, un lugar de revelaciones cósmicas."
+    ],
+    [
+      "p",
+      "Eres amyetri, un espíritu corpóreo condenado a vivir una vida sombría en el reino intermedio del Purgatorio. Ponle fin a tu sufrimiento iniciando los Ritos de Orfeo y derrota a las deidades ctónicas que dominan tu díscolo camino hacia el Elíseo."
+    ],
+    [
+      "h",
+      "EL DESFAVORECIDO INICIADO"
+    ],
+    [
+      "p",
+      "Comienza tu viaje con nada más que una espada rota. Solo el danake, la moneda ensangrentada del inframundo, te proporcionará el equipo más adecuado para enfrentarte a los Señores del Mal que se interponen entre tú y Elysium."
+    ],
+    [
+      "h",
+      "RIESGO VERSUS RECOMPENSA"
+    ],
+    [
+      "p",
+      "Las criaturas vengadoras del Purgatorio están consumidas por el mismo hambre de danake de oro que motiva tu propia misión. Caer en manos de tus enemigos te hará perder la riqueza adquirida. Deposita tu danake en el Panteón antes de morir, o continúa tu carrera hacia el Elíseo y arriésgate a perderlo todo."
+    ],
+    [
+      "h",
+      "FUERZA EN LA ASAMBLEA"
+    ],
+    [
+      "p",
+      "El inframundo es un lugar solitario. Reúne a un máximo de tres amigos y trazad juntos un camino lleno de oro hacia Elysium. Despliega equipos y artilugios específicos para cooperativas para apoyar, defender y revivir a los demás en el peligroso camino hacia el olvido eterno."
+    ],
+    [
+      "h",
+      "UN VIAJE HERCÚLEO"
+    ],
+    [
+      "p",
+      "Sobrevive al duro entorno de los escarpados acantilados de Teseo, los templos en ruinas de Orfeo y las fundiciones volcánicas de Hefesto. Navega por laberintos desmoronados, lagos fundidos de oro puro y montañas destrozadas atrapadas en el trago de los remolinos de Caribdis."
+    ],
+    [
+      "h",
+      "LA ARMERÍA DE ARES"
+    ],
+    [
+      "p",
+      "Las sacerdotisas poseen un formidable arsenal de armas. Utiliza tu danake para equiparte con poderosas coronas y anillos que otorgan al portador importantes ventajas en el campo de batalla. Elige entre una plétora de armas a distancia y cuerpo a cuerpo, y luego imbuye tu armamento elegido con una serie de emocionantes aumentos."
+    ],
+    [
+      "h",
+      "CARACTERÍSTICAS."
+    ],
+    [
+      "p",
+      "Campaña cooperativa online para 1-4 jugadores que se extiende por templos en ruinas, fundiciones volcánicas y antiguos naufragios."
+    ],
+    [
+      "p",
+      "Una serie de magníficos combates contra deidades colosales raras e inexploradas de la antigua mitología griega."
+    ],
+    [
+      "p",
+      "Más de 10 jabalinas, espadas, arcos y pistolas artesanales y ornamentadas, cada una con sus propias capacidades ofensivas únicas y mejorables."
+    ],
+    [
+      "p",
+      "Combates a distancia y cuerpo a cuerpo gratuitos y brutales contra enemigos con comportamientos de batalla distintivos."
+    ],
+    [
+      "p",
+      "Gladiadores mórbidos: los enemigos de PERISH son implacables, y a medida que viajes por el Purgatorio te encontrarás con un montón de enemigos inspirados en las antiguas mitologías griega, romana y cristiana."
+    ],
+    [
+      "p",
+      "Soporte post-lanzamiento: actualizaciones gratuitas del universo PERISH, con nuevos y extraños enemigos y armas aún más locas con las que jugar"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Steam Cloud",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Tailandés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5 / AMD FX-6300"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 960 2GB/ Radeon R9 270X 2GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64bit"
+      ],
+      [
+        "Procesador",
+        "Intel i7 / AMD Ryzen 7"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1070 4GB / Radeon RX 5700-XT 4GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Red",
+        "Conexión de banda ancha a Internet"
+      ],
+      [
+        "Almacenamiento",
+        "16 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_fd7ca7117934b29beef2f0fb9429749abf962ce9.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_fd7ca7117934b29beef2f0fb9429749abf962ce9.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_7cd9fbf0a0199edfef9b66030172c178a7857794.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_7cd9fbf0a0199edfef9b66030172c178a7857794.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_02fcdafbbe01e97d9ed42a741f1e2be146113208.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_02fcdafbbe01e97d9ed42a741f1e2be146113208.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_9d06a9686ea9e201dc746b2675929c96f32bbe9c.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_9d06a9686ea9e201dc746b2675929c96f32bbe9c.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_b93aae9624091e17ac4bb77a82c0e760cfa40e3d.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_b93aae9624091e17ac4bb77a82c0e760cfa40e3d.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_3a6b5349ba54c33cd2d74cc4056fc0b7c1df700b.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_3a6b5349ba54c33cd2d74cc4056fc0b7c1df700b.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_07273b8f202aebeb322028043f27434d80d187cd.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_07273b8f202aebeb322028043f27434d80d187cd.1920x1080.jpg?t=1791462148"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_f50118e88b65cf01d17064d8549c24a976326e85.600x338.jpg?t=1791462148",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016360/ss_f50118e88b65cf01d17064d8549c24a976326e85.1920x1080.jpg?t=1791462148"
+    }
+  ],
+  "web": "https://www.perishgame.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "Stylised violence in which hordes of demons with golden blood fight the player, who can kill and dismember demons. Contains gratuitous theological horror.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 145797,
+  "youtube": [
+    {
+      "id": "PqSZSxJ7WBU",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "HXz4ERHQYPk",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "UeNyjr2q5RE",
+      "nombre": "Release Date Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:19:32.931Z"
+}

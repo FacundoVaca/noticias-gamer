@@ -1,0 +1,255 @@
+{
+  "clave": "mr run and jump",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6f0d-72b5-b774-b8daa7ec6f96",
+  "appid": "2132540",
+  "lanzamiento": "2023-07-25",
+  "desarrolladores": [
+    "Graphite Lab",
+    "Heavy Horse Games"
+  ],
+  "editores": [
+    "Atari"
+  ],
+  "etiquetas": [
+    "Side Scroller",
+    "Precision Platformer",
+    "2D Platformer",
+    "Collectathon",
+    "Platformer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 93,
+      "cantidad": 46,
+      "url": "https://store.steampowered.com/app/2132540/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 6,
+      "url": "https://metacritic.com/game/mr-run-and-jump/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 68,
+      "cantidad": 5,
+      "url": "https://metacritic.com/game/mr-run-and-jump/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 80,
+      "cantidad": 22,
+      "url": "https://opencritic.com/game/15265/mr-run-and-jump"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "762793",
+      "nombre": "Mr. Run and Jump",
+      "apps": [
+        {
+          "appid": "2132540",
+          "nombre": "Mr. Run and Jump"
+        }
+      ],
+      "usd": 3.12,
+      "antes": 12.49,
+      "descuento": 75
+    }
+  ],
+  "sueltos": {
+    "2132540": {
+      "usd": 3.12,
+      "gratis": false
+    }
+  },
+  "descripcion": "Help Mr. Run and Jump defeat the terrifying Void and collect all of the Power Gems from the Realms of Color! Venture through a dazzling and dangerous world, dodging countless enemies and conquering hundreds of fierce platforming challenges to save the day!",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "25 JUL 2023",
+  "metacritic": {
+    "puntaje": 78,
+    "url": "https://www.metacritic.com/game/pc/mr-run-and-jump?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Mr. Run and Jump",
+  "acerca": [
+    [
+      "p",
+      "In this electric 2D platformer, help Mr. Run and Jump defeat the terrifying Void and collect all the Power Gems from the Realms of Color! Joined by his trusty pal Leap the Dog, the duo must venture through a dazzling and dangerous world, dodging countless enemies and conquering hundreds of fierce platforming challenges to save the day!"
+    ],
+    [
+      "p",
+      "Mr. Run and Jump draws you in with precise level design, free-flowing gameplay, and formidable challenge. Silky controls encourage players to run, jump, dash, double jump, and roll to clear levels with style, making it a speedrunner’s dream. Collectibles hidden in tough-to-reach spots demand players use their wits as well as their dexterity. Dynamic Assistance options allow players to set the level of difficulty they want. No matter how you play, Mr. Run and Jump offers engaging gameplay options to players of varying skill levels and approaches."
+    ],
+    [
+      "p",
+      "Key Features"
+    ],
+    [
+      "li",
+      "Precision Platforming: Bound over obstacles, dodge deadly enemies, and collect all the power gems before it’s too late!"
+    ],
+    [
+      "li",
+      "Realms of Color: Each world has its own distinct style, with a beautifully illustrated visual aesthetic bursting with vibrant neon graphics."
+    ],
+    [
+      "li",
+      "A Dangerous World: A wide variety of treacherous enemies, each with their own patterns and personality."
+    ],
+    [
+      "li",
+      "Hours of Entertainment: Challenging levels, collectible orbs, and Time Trials offer 30+ hours of gameplay."
+    ],
+    [
+      "li",
+      "Save your Dog, Save the World: Experience an original story of a transformed world, a devouring Void, and all the wonders of the Realms of Color."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7 or newer"
+      ],
+      [
+        "Procesador",
+        "Intel Core™ Duo or faster"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "512MB"
+      ],
+      [
+        "Almacenamiento",
+        "775 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7 or newer"
+      ],
+      [
+        "Procesador",
+        "Intel Core™ Duo or faster"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "1GB"
+      ],
+      [
+        "Almacenamiento",
+        "775 MB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Xbox 360 controller or other XInput-compatible controller"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_e1d903a6ba5d657cc0bd4e604680c88cee081c3e.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_e1d903a6ba5d657cc0bd4e604680c88cee081c3e.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_fb37ec822bd6df76bc590941749d7009ec2fb27d.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_fb37ec822bd6df76bc590941749d7009ec2fb27d.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_e850575c7a6fa2162ef67a891f506cbd9ae742ca.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_e850575c7a6fa2162ef67a891f506cbd9ae742ca.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_bb69daa6e4dfd171ec839012a74773e550b1311a.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_bb69daa6e4dfd171ec839012a74773e550b1311a.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_43bc771c7918cdb37afadb16af26db9e2cd967a9.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_43bc771c7918cdb37afadb16af26db9e2cd967a9.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_30e1d2335a126bee2035939ed67cdbb22b03816d.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_30e1d2335a126bee2035939ed67cdbb22b03816d.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_dff90f390b4313fc7ead76df6634ea452aff7b64.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_dff90f390b4313fc7ead76df6634ea452aff7b64.1920x1080.jpg?t=1708718858"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_1417f69d1337a02a2186736cb50120c2f24b66ba.600x338.jpg?t=1708718858",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2132540/ss_1417f69d1337a02a2186736cb50120c2f24b66ba.1920x1080.jpg?t=1708718858"
+    }
+  ],
+  "web": "https://atari.com/products/mr-run-and-jump",
+  "sistemas": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 249540,
+  "youtube": [
+    {
+      "id": "VHIpL5Mz1JY",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:16:28.345Z"
+}

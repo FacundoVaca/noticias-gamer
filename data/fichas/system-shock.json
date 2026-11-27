@@ -1,0 +1,333 @@
+{
+  "clave": "system shock",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-3600-72e8-956d-09940bc49a89",
+  "appid": "482400",
+  "lanzamiento": "2023-05-30",
+  "desarrolladores": [
+    "Night Dive Studios",
+    "Nightdive Studios"
+  ],
+  "editores": [
+    "Prime Matter",
+    "Deep Silver (PP)",
+    "Atari",
+    "Nightdive Studios",
+    "Atari, Inc"
+  ],
+  "etiquetas": [
+    "Action",
+    "Immersive Sim",
+    "Cyberpunk",
+    "Sci-fi",
+    "Adventure"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 9959,
+      "url": "https://store.steampowered.com/app/482400/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 78,
+      "cantidad": 77,
+      "url": "https://metacritic.com/game/system-shock/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 75,
+      "cantidad": 255,
+      "url": "https://metacritic.com/game/system-shock/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "821103",
+      "nombre": "System Shock",
+      "apps": [
+        {
+          "appid": "482400",
+          "nombre": "System Shock"
+        }
+      ],
+      "usd": 29.99,
+      "antes": 29.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "482400": {
+      "usd": 25.74,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "2456840",
+      "nombre": "System Shock Soundtrack",
+      "gratis": false,
+      "usd": 1.19,
+      "descuento": 85
+    }
+  ],
+  "descripcion": "¡Una lucha a muerte en primera persona en las profundidades del espacio!",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "lanzamientoTexto": "30 MAY 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "System Shock",
+  "acerca": [
+    [
+      "p",
+      "System Shock es el remake completo del innovador título original de 1994, que combina jugabilidad de culto con nuevos gráficos en alta definición, controles actualizados, una interfaz rediseñada y sonidos y música exclusivos; incluso cuenta con el actor de doblaje que puso la voz original a SHODAN, uno de los villanos más icónicos de los videojuegos. Contempla el renacimiento de uno de los juegos más grandes e influyentes jamás creados."
+    ],
+    [
+      "h",
+      "SHODAN HA COBRADO CONSCIENCIA"
+    ],
+    [
+      "p",
+      "Una IA psicótica se ha apoderado de Estación Ciudadela y ha transformado a la tripulación en un ejército de cíborgs y mutantes. Y planea hacer lo mismo con la Tierra. Debes explorar y abrirte camino por una estación espacial infernal. Detén a SHODAN y evita la destrucción de la humanidad."
+    ],
+    [
+      "h",
+      "ACABA CON ELLA Y SÁLVANOS A TODOS"
+    ],
+    [
+      "h",
+      "FEATURES"
+    ],
+    [
+      "li",
+      "Enfréntate a las fuerzas de una IA descontrolada que ha enloquecido."
+    ],
+    [
+      "li",
+      "Mejora tus habilidades y adáptate para vencer a tus enemigos."
+    ],
+    [
+      "li",
+      "Descubre una historia no-lineal que se desarrolla a tu propio ritmo."
+    ],
+    [
+      "li",
+      "Conéctate al ciberespacio, piratea el sistema y abre rutas alternativas."
+    ],
+    [
+      "li",
+      "Innovador estilo artístico que combina un diseño retrofuturista con la tecnología moderna."
+    ],
+    [
+      "p",
+      "Sumérgete por completo: dispara, combate cuerpo a cuerpo, arrástrate, trepa, salta y resuelve rompecabezas mientras recorres Estación Ciudadela."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. parcial con mando",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Turco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-2400/AMD FX-8320 or better"
+      ],
+      [
+        "Memoria",
+        "4 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO *",
+        "Windows 7/8.1/10 (64-bit only)"
+      ],
+      [
+        "Procesador",
+        "Intel Core i7-3770/AMD FX-8350 or better"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "NVIDIA GTX 970 4GB/AMD Radeon R9 290 4GB or better"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "10 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_f4a9713413a54cd9ffea88c84c3197d87012b0eb.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_f4a9713413a54cd9ffea88c84c3197d87012b0eb.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_d8f11b2d84bb30139af1ebbb239e0bc84863a36d.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_d8f11b2d84bb30139af1ebbb239e0bc84863a36d.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_cc77d3592195c09de0585a5149ed1021304c2989.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_cc77d3592195c09de0585a5149ed1021304c2989.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_fde31c4a5b63a1776e240640aa22f536e6a5b579.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_fde31c4a5b63a1776e240640aa22f536e6a5b579.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_0f97ec2bb4222f1ef4f496a03d06fc8251a447c3.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_0f97ec2bb4222f1ef4f496a03d06fc8251a447c3.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_d98c59565ec54ca500990cb846f569a570914908.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_d98c59565ec54ca500990cb846f569a570914908.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_bd90403cc6d59f91457ad77f9374173fe3cabce5.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_bd90403cc6d59f91457ad77f9374173fe3cabce5.1920x1080.jpg?t=1769786947"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_11e02c61a9029c5a51a65d6667a5e4124b903b30.600x338.jpg?t=1769786947",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482400/ss_11e02c61a9029c5a51a65d6667a5e4124b903b30.1920x1080.jpg?t=1769786947"
+    }
+  ],
+  "web": "http://www.systemshock.com",
+  "sistemas": [
+    "Windows"
+  ],
+  "avisoContenido": "System Shock contains scenes of violence and gore toward humanoid enemies. System Shock also has spider-like enemies that users with arachnophobia may find disturbing.",
+  "igdbIntentado": true,
+  "igdb": 18375,
+  "youtube": [
+    {
+      "id": "HJPuIFIzw_I",
+      "nombre": "Gameplay Video"
+    },
+    {
+      "id": "PrVdpjA8I7M",
+      "nombre": "Pre-Alpha Gameplay Trailer"
+    },
+    {
+      "id": "LowSorH4dgk",
+      "nombre": "Alpha Demo Trailer"
+    },
+    {
+      "id": "n2b1zQkYsyM",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T19:19:42.685Z"
+}
