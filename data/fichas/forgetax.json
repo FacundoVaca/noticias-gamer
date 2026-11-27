@@ -1,0 +1,267 @@
+{
+  "clave": "forgetax",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "01a0a7ff-60c4-73e7-aecf-8e2545886d2d",
+  "appid": "5245810",
+  "lanzamiento": "2026-09-30",
+  "desarrolladores": [
+    "GraveYardDev"
+  ],
+  "editores": [
+    "GraveYardDev"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "Casual",
+    "Roguelite",
+    "Roguelike",
+    "Crafting"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 60,
+      "cantidad": 2567,
+      "url": "https://store.steampowered.com/app/5245810/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1814364",
+      "nombre": "ForgeTax",
+      "apps": [
+        {
+          "appid": "5245810",
+          "nombre": "ForgeTax"
+        }
+      ],
+      "usd": 1.75,
+      "antes": 2.19,
+      "descuento": 20
+    }
+  ],
+  "sueltos": {
+    "5245810": {
+      "usd": 1.75,
+      "gratis": false
+    }
+  },
+  "descripcion": "Forja espadas para pagar tributo a un dragón en este roguelite en primera persona. Para a tiempo o arriésgate a dar otro golpe. Cambia espadas por reliquias que alteran las probabilidades. Quizá algún día puedas ajustar cuentas con el dragón con una espada forjada por ti.",
+  "generos": [
+    "Casual",
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "29 SEP 2026",
+  "metacritic": null,
+  "nombreSteam": "ForgeTax",
+  "acerca": [
+    [
+      "p",
+      "Te falta un poco para cubrir el tributo de hoy. Quizá baste con un golpe más. Si la espada aguanta."
+    ],
+    [
+      "h",
+      "¿Un golpe más?"
+    ],
+    [
+      "p",
+      "Cada golpe acertado aumenta el valor de la espada. Si se rompe, no sacarás nada por ella. Retírala del yunque o sigue forjando para cargar el Frenesí. Mientras esté activo, la espada no se romperá."
+    ],
+    [
+      "h",
+      "Las reliquias se pagan con espadas"
+    ],
+    [
+      "p",
+      "Para comprar reliquias hacen falta espadas, no monedas. Entrega una que podrías haber usado para el tributo a cambio de mejorar tus probabilidades, resistir el daño o alargar el Frenesí. Lo que consigas marcará hasta dónde te conviene llevar la próxima espada."
+    ],
+    [
+      "h",
+      "El dragón tras la reja"
+    ],
+    [
+      "p",
+      "Deja las espadas en el mostrador del tributo y toca la campana. Si pagas lo que debes, mañana volverás al yunque."
+    ],
+    [
+      "p",
+      "¿Quién sabe? Quizá algún día te vengues de ese dragón con una espada que tú mismo forjaste."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Steam Cloud",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Vietnamita",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-6600 / AMD Ryzen 3 1200"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 960 / Radeon RX 560"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and operating system"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10/11 64-bit"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-8400 / AMD Ryzen 5 2600"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GTX 1060 / Radeon RX 580"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "2 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "Requires a 64-bit processor and operating system"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/92aef04e582fb36415f7973797d4a28d9388f95d/ss_92aef04e582fb36415f7973797d4a28d9388f95d.600x338.jpg?t=1795505635",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/92aef04e582fb36415f7973797d4a28d9388f95d/ss_92aef04e582fb36415f7973797d4a28d9388f95d.1920x1080.jpg?t=1795505635"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/37917d07539766477d757cc398d83af6dbd24fc2/ss_37917d07539766477d757cc398d83af6dbd24fc2.600x338.jpg?t=1795505635",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/37917d07539766477d757cc398d83af6dbd24fc2/ss_37917d07539766477d757cc398d83af6dbd24fc2.1920x1080.jpg?t=1795505635"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/00bf9f73a1b58b2168dd267e22b7039daf008a69/ss_00bf9f73a1b58b2168dd267e22b7039daf008a69.600x338.jpg?t=1795505635",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/00bf9f73a1b58b2168dd267e22b7039daf008a69/ss_00bf9f73a1b58b2168dd267e22b7039daf008a69.1920x1080.jpg?t=1795505635"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/b7ae1ced2725e78ec24b38fdeb982702930c13c4/ss_b7ae1ced2725e78ec24b38fdeb982702930c13c4.600x338.jpg?t=1795505635",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/b7ae1ced2725e78ec24b38fdeb982702930c13c4/ss_b7ae1ced2725e78ec24b38fdeb982702930c13c4.1920x1080.jpg?t=1795505635"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/7a43890ce0201bc7093a5cb6a748af965019a389/ss_7a43890ce0201bc7093a5cb6a748af965019a389.600x338.jpg?t=1795505635",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5245810/7a43890ce0201bc7093a5cb6a748af965019a389/ss_7a43890ce0201bc7093a5cb6a748af965019a389.1920x1080.jpg?t=1795505635"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "igdbIntentado": true,
+  "igdb": 429391,
+  "youtube": [
+    {
+      "id": "YNzIvUBn2ZE",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T03:51:22.812Z"
+}
