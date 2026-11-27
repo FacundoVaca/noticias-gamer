@@ -1,0 +1,308 @@
+{
+  "clave": "meowfactory",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "019c6a21-b17c-73ec-a17a-ebf9c5e957a4",
+  "appid": "4088520",
+  "lanzamiento": "2026-11-27",
+  "desarrolladores": [
+    "Smola Game Studio"
+  ],
+  "editores": [
+    "Smola Game Studio",
+    "Gamirror Games"
+  ],
+  "etiquetas": [
+    "Simulation",
+    "Strategy",
+    "Sandbox",
+    "God Game",
+    "Colony Sim"
+  ],
+  "resenas": [],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "1433146",
+      "nombre": "MeowFactory",
+      "apps": [
+        {
+          "appid": "4088520",
+          "nombre": "MeowFactory"
+        }
+      ],
+      "usd": 6.62,
+      "antes": 7.79,
+      "descuento": 15
+    }
+  ],
+  "sueltos": {
+    "4088520": {
+      "usd": 6.62,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "5237560",
+      "nombre": "МурЗавод Soundtrack",
+      "gratis": false,
+      "usd": 2.49,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Bienvenido a MEOWFACTORY! Automatiza las líneas y trabaja con espacio limitado para alcanzar la perfección. Conecta las máquinas con líneas de transporte y minimiza el trabajo manual. Cuando el mundo está al borde de la destrucción, ¡SOLO LOS GATOS TRABAJADORES podrán reactivar la producción!",
+  "generos": [
+    "Indie",
+    "Simuladores",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "26 NOV 2026",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "MeowFactory",
+  "acerca": [
+    [
+      "h",
+      "¡Bienvenido a MEOWFACTORY!"
+    ],
+    [
+      "p",
+      "En un futuro cercano y deprimente, cuando el mundo esté al borde de la destrucción, ¡SOLO TÚ podrás reactivar la producción!"
+    ],
+    [
+      "h",
+      "Sí, sí, ¡SOLO LOS GATOS TRABAJADORES!"
+    ],
+    [
+      "h",
+      "¡Construye magníficas fábricas para satisfacer las necesidades de personas perezosas!"
+    ],
+    [
+      "p",
+      "Pero no olvides que tus trabajadores tienen patas y les cuesta sostener el martillo."
+    ],
+    [
+      "h",
+      "utomatiza las líneas de producción y trabaja con un espacio limitado para alcanzar la perfección. Conecta las máquinas con líneas de transporte y minimiza el trabajo manual (es decir, con las patas)."
+    ],
+    [
+      "p",
+      "Y, por supuesto, aleja a tiempo a los peludos amantes de los transportadores de las máquinas, antes de que metan sus hocicos bigotudos por allí."
+    ],
+    [
+      "h",
+      "¡Completa todo el ciclo de producción para garantizar la máxima variedad de productos para los clientes!"
+    ],
+    [
+      "p",
+      "¡Y asegúrate de que tus peludos empleados no se lo coman todo por el camino!"
+    ],
+    [
+      "h",
+      "¡Reúne un equipo de profesionales en su campo! ¡Vigila su estado de ánimo, la limpieza y busca el lugar adecuado para cada uno!"
+    ],
+    [
+      "p",
+      "Si no, los gatos lo destrozarán, lo ensuciarán o lo quemarán todo lo que hayas construido hasta ahora, o como mínimo convertirán tu impecable fábrica en una sucursal del infierno felino."
+    ],
+    [
+      "p",
+      "¡Y trata de batir el récord de días sin incidentes!"
+    ],
+    [
+      "p",
+      "Esto será MUY DIFÍCIL."
+    ],
+    [
+      "p",
+      "¡Todo esto te espera en MEOWFACTORY!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Comodidad de la cámara",
+    "Controles de volumen personalizados",
+    "Dificultad ajustable",
+    "Jugable sin restricciones de tiempo",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Guardar en cualquier momento",
+    "Sonido estéreo",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-4460 3.20GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia GTX 1060 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO",
+        "Windows 11"
+      ],
+      [
+        "Procesador",
+        "Intel Core i5-10400f 2.90GHz"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia RTX 2060 6GB"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "4 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/160741f55b4ef4116ce71ac987d5ddaaefb9f21d/ss_160741f55b4ef4116ce71ac987d5ddaaefb9f21d.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/160741f55b4ef4116ce71ac987d5ddaaefb9f21d/ss_160741f55b4ef4116ce71ac987d5ddaaefb9f21d.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/4020b026fe71c1e024bb214486c27f46cc1a1125/ss_4020b026fe71c1e024bb214486c27f46cc1a1125.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/4020b026fe71c1e024bb214486c27f46cc1a1125/ss_4020b026fe71c1e024bb214486c27f46cc1a1125.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/b63651bf30b938e51b5fe1fc3875d70f5ef7b9d7/ss_b63651bf30b938e51b5fe1fc3875d70f5ef7b9d7.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/b63651bf30b938e51b5fe1fc3875d70f5ef7b9d7/ss_b63651bf30b938e51b5fe1fc3875d70f5ef7b9d7.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/e57e0d2d543b150e2ada0fab5b00160db2539dee/ss_e57e0d2d543b150e2ada0fab5b00160db2539dee.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/e57e0d2d543b150e2ada0fab5b00160db2539dee/ss_e57e0d2d543b150e2ada0fab5b00160db2539dee.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/f173039130c68407af0fca51cafc28fdeb4b0b8f/ss_f173039130c68407af0fca51cafc28fdeb4b0b8f.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/f173039130c68407af0fca51cafc28fdeb4b0b8f/ss_f173039130c68407af0fca51cafc28fdeb4b0b8f.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/5a25a887a40f2e90063534a5a3b7aade6fa56dbe/ss_5a25a887a40f2e90063534a5a3b7aade6fa56dbe.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/5a25a887a40f2e90063534a5a3b7aade6fa56dbe/ss_5a25a887a40f2e90063534a5a3b7aade6fa56dbe.1920x1080.jpg?t=1795764633"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/89046dabd19970ad108525e26e7d9eb12ab73ef3/ss_89046dabd19970ad108525e26e7d9eb12ab73ef3.600x338.jpg?t=1795764633",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088520/89046dabd19970ad108525e26e7d9eb12ab73ef3/ss_89046dabd19970ad108525e26e7d9eb12ab73ef3.1920x1080.jpg?t=1795764633"
+    }
+  ],
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 403691,
+  "youtube": [
+    {
+      "id": "nqAXB4zU2QQ",
+      "nombre": "Announcement Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T13:45:06.838Z"
+}
