@@ -1,0 +1,284 @@
+{
+  "clave": "katana zero",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-138d-724f-82bb-f180b2ea819a",
+  "appid": "460950",
+  "lanzamiento": "2019-04-18",
+  "desarrolladores": [
+    "Askiisoft"
+  ],
+  "editores": [
+    "Devolver Digital"
+  ],
+  "etiquetas": [
+    "Pixel Graphics",
+    "Action",
+    "Story Rich",
+    "Great Soundtrack",
+    "Platformer"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 97,
+      "cantidad": 66744,
+      "url": "https://store.steampowered.com/app/460950/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 27,
+      "url": "https://metacritic.com/game/katana-zero/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 733,
+      "url": "https://metacritic.com/game/katana-zero/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 84,
+      "cantidad": 72,
+      "url": "https://opencritic.com/game/7596/katana-zero"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "100500",
+      "nombre": "Katana ZERO",
+      "apps": [
+        {
+          "appid": "460950",
+          "nombre": "Katana ZERO"
+        }
+      ],
+      "usd": 4.79,
+      "antes": 7.99,
+      "descuento": 40
+    }
+  ],
+  "sueltos": {
+    "460950": {
+      "usd": 4.79,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "1075710",
+      "nombre": "Katana ZERO Soundtrack",
+      "gratis": false,
+      "usd": 3.47,
+      "descuento": 40
+    }
+  ],
+  "descripcion": "Katana ZERO es un juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea. Usa tu espada, corre y manipula el tiempo para desvelar tu pasado en un despliegue acrobático brutalmente estético.",
+  "generos": [
+    "Acción",
+    "Indie"
+  ],
+  "lanzamientoTexto": "18 ABR 2019",
+  "metacritic": {
+    "puntaje": 83,
+    "url": "https://www.metacritic.com/game/pc/katana-zero?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Katana ZERO",
+  "acerca": [
+    [
+      "p",
+      "Katana ZERO es un juego de acción y plataformas neo-noir rebosante de personalidad, acción vertiginosa y combates de muerte instantánea. Usa tu espada, corre y manipula el tiempo para desvelar tu pasado en un despliegue acrobático brutalmente estético."
+    ],
+    [
+      "p",
+      "Combate excepcional: Supera a tus rivales según exija la situación. Desvía las balas para devolvérselas a tus enemigos, esquiva los ataques que recibas y manipula a tus contrincantes y los entornos con trampas y explosivos. No dejes supervivientes."
+    ],
+    [
+      "p",
+      "Secuencias creadas a mano: Cada nivel ha sido diseñado de manera única para poder completarlo de incontables formas. Derrota a tus adversarios con creatividad, usando enfoques espontáneos para eliminar a cada cual como creas conveniente."
+    ],
+    [
+      "p",
+      "Narración totalmente original: Una enigmática historia contada a través de secuencias cinemáticas entretejidas en el juego, creando todo tipo de giros hasta llegar a la inesperada conclusión."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Steam Cloud",
+    "Remote Play en móvil",
+    "Remote Play en tableta",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": false,
+      "subtitulos": true
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO *",
+        "Windows 7, 8, 8.1, 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Pentium E2180 (2 * 2000) or equivalent"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 7600 GT (256 MB)"
+      ],
+      [
+        "DirectX",
+        "Versión 10"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "SO *",
+        "Windows 7, 8, 8.1, 10 x64"
+      ],
+      [
+        "Procesador",
+        "Intel Core i3-3240 (2 * 3400) or equivalent"
+      ],
+      [
+        "Memoria",
+        "2 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "GeForce 8800 GTS (512 MB)"
+      ],
+      [
+        "Almacenamiento",
+        "200 MB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_c269a57182b021d2aac2bb8d42421d0ef301360d.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_c269a57182b021d2aac2bb8d42421d0ef301360d.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_d4f8ef350ac44c096f8137208c381cac31e68242.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_d4f8ef350ac44c096f8137208c381cac31e68242.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_fce2aae6d24fbca70a8196e04f66c51d49a353b0.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_fce2aae6d24fbca70a8196e04f66c51d49a353b0.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_9c5b43f5a2ab00b35857b8ccb0c4a24a9755091f.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_9c5b43f5a2ab00b35857b8ccb0c4a24a9755091f.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_88140bc0e7d761fc4f998aa6c0850aad4d53cd3b.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_88140bc0e7d761fc4f998aa6c0850aad4d53cd3b.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_0c7402fc60b0863fa2b9187a4db5aba86d3f7eaa.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_0c7402fc60b0863fa2b9187a4db5aba86d3f7eaa.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_09635f1bcf91eb06b624d52b1ca74c0a26131876.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_09635f1bcf91eb06b624d52b1ca74c0a26131876.1920x1080.jpg?t=1761066027"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_78eb8c3ac6ce079bf4c5e66f7ab68511d8229b93.600x338.jpg?t=1761066027",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460950/ss_78eb8c3ac6ce079bf4c5e66f7ab68511d8229b93.1920x1080.jpg?t=1761066027"
+    }
+  ],
+  "web": "http://www.katanazero.com/",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "avisoContenido": "Contains violence, gore, and drug use.",
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 20150,
+  "youtube": [
+    {
+      "id": "lrL3Qjv2jZI",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "-MvvmPKGEHA",
+      "nombre": "Launch Trailer"
+    },
+    {
+      "id": "vOdcl39LRo0",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-27T05:45:20.495Z"
+}
