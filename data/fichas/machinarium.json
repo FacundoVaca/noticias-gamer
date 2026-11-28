@@ -1,0 +1,294 @@
+{
+  "clave": "machinarium",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937e-f8c5-7010-a344-8bec5817cdea",
+  "appid": "40700",
+  "lanzamiento": "2009-10-16",
+  "desarrolladores": [
+    "Amanita Design"
+  ],
+  "editores": [
+    "Amanita Design",
+    "Amanita Design s.r.o."
+  ],
+  "etiquetas": [
+    "Point & Click",
+    "Puzzle",
+    "Hand-drawn",
+    "Robots",
+    "Steampunk"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 95,
+      "cantidad": 18191,
+      "url": "https://store.steampowered.com/app/40700/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 85,
+      "cantidad": 47,
+      "url": "https://metacritic.com/game/machinarium/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 85,
+      "cantidad": 835,
+      "url": "https://metacritic.com/game/machinarium/user-reviews/?platform=pc"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "2206",
+      "nombre": "Machinarium",
+      "apps": [
+        {
+          "appid": "40700",
+          "nombre": "Machinarium"
+        }
+      ],
+      "usd": 1.19,
+      "antes": 7.99,
+      "descuento": 85
+    }
+  ],
+  "sueltos": {
+    "40700": {
+      "usd": 1.19,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 1,
+  "dlcLista": [
+    {
+      "appid": "40703",
+      "nombre": "Machinarium Soundtrack + Art Book",
+      "gratis": false,
+      "usd": 0.52,
+      "descuento": 85
+    }
+  ],
+  "descripcion": "Machinarium es el galardonado juego de aventura de los creadores de Phonopolis, CHUCHEL y la serie de Samorost. Ayuda al robot Josef a salvar a su novia Berta, a la que ha raptado la banda de la Hermandad de los Sombreros Negros.",
+  "generos": [
+    "Aventura",
+    "Indie"
+  ],
+  "lanzamientoTexto": "16 OCT 2009",
+  "metacritic": {
+    "puntaje": 85,
+    "url": "https://www.metacritic.com/game/pc/machinarium?ftag=MCD-06-10aaa1f"
+  },
+  "steamDeck": "Verificado",
+  "nombreSteam": "Machinarium",
+  "acerca": [
+    [
+      "p",
+      "Machinarium es el galardonado juego de aventura de los creadores de Phonopolis , CHUCHEL y Samorost ."
+    ],
+    [
+      "p",
+      "Josef es un robotito al que tiran a la chatarrería de detrás de la ciudad."
+    ],
+    [
+      "p",
+      "¡Ayúdalo a encontrar el camino de vuelta, lidiar con la Hermandad de los Sombreros Negros y salvar a su novia Berta!"
+    ],
+    [
+      "p",
+      "Mundo: El mundo de Machinarium está poblado íntegramente por robots con diversas formas y funciones. Uno de los lugares más destacados es la antigua, oxidada y legendaria ciudad de Machinarium, donde se desarrolla el juego."
+    ],
+    [
+      "p",
+      "Historia: Líbrate de los malvados robots de la Hermandad de los Sombreros Negros y salva al alcalde y a tu novia robot."
+    ],
+    [
+      "p",
+      "Rompecabezas: Supera puzles de lógica, misiones de aventura, problemas de pensamiento lateral y minijuegos."
+    ],
+    [
+      "p",
+      "Gráficos: Los personajes y fondos en 2D están dibujados a mano y hay más de una hora de esmeradas animaciones."
+    ],
+    [
+      "p",
+      "Música: Disfruta de una preciosa banda sonora original compuesta y grabada por Tomáš Dvořák, «Floex»."
+    ],
+    [
+      "p",
+      "Comunicación: ¡No hay diálogos largos! Los personajes hablan empleando bocadillos de cómic con animaciones y símbolos sencillos."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Logros de Steam",
+    "Compat. total con mando",
+    "Cromos de Steam",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Steam Cloud",
+    "Tablas de clasificación de Steam",
+    "Remote Play en TV",
+    "Préstamo familiar"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Checo",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Portugal",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino tradicional",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Turco",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ucraniano",
+      "voces": true,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "SO",
+        "Microsoft® Windows® XP/Vista/7/8/10"
+      ],
+      [
+        "Procesador",
+        "1.8 GHz"
+      ],
+      [
+        "Memoria",
+        "1 GB de RAM"
+      ],
+      [
+        "Disco Duro",
+        "380 MB de espacio"
+      ]
+    ],
+    "recomendado": null
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70/ss_f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70/ss_f44684bc76b27d5b2b2ad4b9d5a02f50ce95da70.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/d3d083f8514e6298a164e0a3fe03a76f619942ea/ss_d3d083f8514e6298a164e0a3fe03a76f619942ea.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/d3d083f8514e6298a164e0a3fe03a76f619942ea/ss_d3d083f8514e6298a164e0a3fe03a76f619942ea.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/80f825bcb9c71fcfef60ab6847b545b7b4928a21/ss_80f825bcb9c71fcfef60ab6847b545b7b4928a21.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/80f825bcb9c71fcfef60ab6847b545b7b4928a21/ss_80f825bcb9c71fcfef60ab6847b545b7b4928a21.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f/ss_4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f/ss_4e977c41d3e5b2b9e2e7d045c8b9768e0031d38f.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/b9653237bc75083e9d599b1945dd91d1b938b951/ss_b9653237bc75083e9d599b1945dd91d1b938b951.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/b9653237bc75083e9d599b1945dd91d1b938b951/ss_b9653237bc75083e9d599b1945dd91d1b938b951.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/bab9cb5d40e409ecd42979c49e7caafdd6113c7e/ss_bab9cb5d40e409ecd42979c49e7caafdd6113c7e.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/bab9cb5d40e409ecd42979c49e7caafdd6113c7e/ss_bab9cb5d40e409ecd42979c49e7caafdd6113c7e.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/151a535da3e9d80a9c1f1409477b3afafb4cf606/ss_151a535da3e9d80a9c1f1409477b3afafb4cf606.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/151a535da3e9d80a9c1f1409477b3afafb4cf606/ss_151a535da3e9d80a9c1f1409477b3afafb4cf606.1920x1080.jpg?t=1791501193"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/9a736ac6d241a1728de68cd324ae3026716e0450/ss_9a736ac6d241a1728de68cd324ae3026716e0450.600x338.jpg?t=1791501193",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40700/9a736ac6d241a1728de68cd324ae3026716e0450/ss_9a736ac6d241a1728de68cd324ae3026716e0450.1920x1080.jpg?t=1791501193"
+    }
+  ],
+  "web": "http://amanita-design.net/games/machinarium.html",
+  "sistemas": [
+    "Windows",
+    "macOS"
+  ],
+  "controles": "Compatibilidad total con mando",
+  "igdbIntentado": true,
+  "igdb": 2990,
+  "youtube": [
+    {
+      "id": "uwZBdWRSBRs",
+      "nombre": "Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-28T09:31:34.207Z"
+}

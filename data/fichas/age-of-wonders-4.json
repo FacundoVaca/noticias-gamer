@@ -1,0 +1,549 @@
+{
+  "clave": "age of wonders 4",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-6b7e-7213-992d-536da3e39f0a",
+  "appid": "1669000",
+  "lanzamiento": "2023-05-02",
+  "desarrolladores": [
+    "Triumph Studios"
+  ],
+  "editores": [
+    "Paradox Interactive",
+    "Paradox",
+    "Triumph Studios"
+  ],
+  "etiquetas": [
+    "Strategy",
+    "4X",
+    "Turn-Based Strategy",
+    "Fantasy",
+    "Character Customization"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 81,
+      "cantidad": 17323,
+      "url": "https://store.steampowered.com/app/1669000/"
+    },
+    {
+      "fuente": "Metascore",
+      "puntaje": 83,
+      "cantidad": 30,
+      "url": "https://metacritic.com/game/age-of-wonders-4/critic-reviews/?platform=pc"
+    },
+    {
+      "fuente": "Metacritic User Score",
+      "puntaje": 70,
+      "cantidad": 160,
+      "url": "https://metacritic.com/game/age-of-wonders-4/user-reviews/?platform=pc"
+    },
+    {
+      "fuente": "OpenCritic",
+      "puntaje": 82,
+      "cantidad": 34,
+      "url": "https://opencritic.com/game/14350/age-of-wonders-4"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "593424",
+      "nombre": "Age of Wonders 4",
+      "apps": [
+        {
+          "appid": "1669000",
+          "nombre": "Age of Wonders 4"
+        }
+      ],
+      "usd": 34.99,
+      "antes": 34.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "1623859",
+      "nombre": "Age of Wonders 4: Starter Edition",
+      "apps": [
+        {
+          "appid": "1669000",
+          "nombre": "Age of Wonders 4"
+        },
+        {
+          "appid": "2330150",
+          "nombre": "Age of Wonders 4: Archmage Attire"
+        },
+        {
+          "appid": "2367860",
+          "nombre": "Age of Wonders 4: Dragon Dawn"
+        },
+        {
+          "appid": "2401830",
+          "nombre": "Age of Wonders 4: Empires & Ashes"
+        },
+        {
+          "appid": "2257970",
+          "nombre": "Age of Wonders 4: Pre-Order Content Pack"
+        }
+      ],
+      "usd": 41.99,
+      "antes": 41.99,
+      "descuento": 0
+    },
+    {
+      "packageid": "811382",
+      "nombre": "Age of Wonders 4: Premium Edition",
+      "apps": [
+        {
+          "appid": "1669000",
+          "nombre": "Age of Wonders 4"
+        },
+        {
+          "appid": "2330150",
+          "nombre": "Age of Wonders 4: Archmage Attire"
+        },
+        {
+          "appid": "2367860",
+          "nombre": "Age of Wonders 4: Dragon Dawn"
+        },
+        {
+          "appid": "2401860",
+          "nombre": "Age of Wonders 4: Eldritch Realms"
+        },
+        {
+          "appid": "2401830",
+          "nombre": "Age of Wonders 4: Empires & Ashes"
+        },
+        {
+          "appid": "2260160",
+          "nombre": "Age of Wonders 4: Expansion Pass 1"
+        },
+        {
+          "appid": "2401850",
+          "nombre": "Age of Wonders 4: Primal Fury"
+        }
+      ],
+      "usd": 62.99,
+      "antes": 62.99,
+      "descuento": 0
+    }
+  ],
+  "sueltos": {
+    "1669000": {
+      "usd": 34.99,
+      "gratis": false
+    },
+    "2257970": {
+      "usd": null,
+      "gratis": true
+    },
+    "2260160": {
+      "usd": 62.99,
+      "gratis": false
+    },
+    "2330150": {
+      "usd": 41.99,
+      "gratis": false
+    },
+    "2367860": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "2401830": {
+      "usd": 13.99,
+      "gratis": false
+    },
+    "2401850": {
+      "usd": 6.99,
+      "gratis": false
+    },
+    "2401860": {
+      "usd": 13.99,
+      "gratis": false
+    }
+  },
+  "dlcTotal": 19,
+  "dlcLista": [
+    {
+      "appid": "5094350",
+      "nombre": "Age of Wonders 4: Expansion Pass 4",
+      "gratis": false,
+      "usd": 34.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5094370",
+      "nombre": "Age of Wonders 4: The Silver Seas",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3976910",
+      "nombre": "Age of Wonders 4: Secrets of the Archmages",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3976900",
+      "nombre": "Age of Wonders 4: Rise from Ruin",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3976890",
+      "nombre": "Age of Wonders 4: Thrones of Blood",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2257970",
+      "nombre": "Age of Wonders 4: Pre-Order Content Pack",
+      "gratis": true,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "3181540",
+      "nombre": "Age of Wonders 4: Archon Prophecy",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 0
+    },
+    {
+      "appid": "3181500",
+      "nombre": "Age of Wonders 4: Giant Kings",
+      "gratis": false,
+      "usd": 17.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2914280",
+      "nombre": "Age of Wonders 4: Ways of War",
+      "gratis": false,
+      "usd": 10.49,
+      "descuento": 0
+    },
+    {
+      "appid": "2401860",
+      "nombre": "Age of Wonders 4: Eldritch Realms",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2401850",
+      "nombre": "Age of Wonders 4: Primal Fury",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2401830",
+      "nombre": "Age of Wonders 4: Empires & Ashes",
+      "gratis": false,
+      "usd": 13.99,
+      "descuento": 0
+    },
+    {
+      "appid": "2367860",
+      "nombre": "Age of Wonders 4: Dragon Dawn",
+      "gratis": false,
+      "usd": 6.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3119880",
+      "nombre": "Age of Wonders 4: Herald of Glory",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "2330150",
+      "nombre": "Age of Wonders 4: Archmage Attire",
+      "gratis": false,
+      "usd": 41.99,
+      "descuento": 0
+    },
+    {
+      "appid": "3976880",
+      "nombre": "Age of Wonders 4: Cosmic Wanderer",
+      "gratis": false,
+      "usd": null,
+      "descuento": 0
+    },
+    {
+      "appid": "5094360",
+      "nombre": "Age of Wonders 4: Singer of Storms",
+      "gratis": false,
+      "usd": 34.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5094380",
+      "nombre": "Age of Wonders 4: Court of the Archfey",
+      "gratis": false,
+      "usd": 34.99,
+      "descuento": 0
+    },
+    {
+      "appid": "5094390",
+      "nombre": "Age of Wonders 4: Forge of the Firstborn",
+      "gratis": false,
+      "usd": 34.99,
+      "descuento": 0
+    }
+  ],
+  "descripcion": "¡Crea tu propio reino fantástico y gobiérnalo! Explora nuevos reinos mágicos con la mezcla de estrategia 4X y combate táctico por turnos distintivos de Age of Wonders. ¡Controla una facción que crece y cambia a medida que expandes tu imperio con cada turno!",
+  "generos": [
+    "Rol",
+    "Estrategia"
+  ],
+  "lanzamientoTexto": "2 MAY 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Age of Wonders 4",
+  "acerca": [
+    [
+      "p",
+      "¡Crea tu propio reino fantástico y gobiérnalo en Age of Wonders 4 ! Explora nuevos reinos mágicos con la mezcla de estrategia 4X y combate táctico por turnos distintivos de Age of Wonders. Controla una facción que crece y cambia a medida que expandes tu imperio con cada turno."
+    ],
+    [
+      "p",
+      "La galardonada franquicia de estrategia de Triumph Studios llegó a una nueva era y elevará al siguiente nivel la construcción de imperios, el juego de rol y el combate tan icónicos de estos juegos. El nuevo sistema de narración por eventos y los imperios altamente personalizables ofrecen una experiencia con grandes oportunidades de rejugabilidad, donde cada partida suma un capítulo nuevo a tu saga en crecimiento constante."
+    ],
+    [
+      "p",
+      "Los reyes magos poderosos regresaron a los reinos para gobernar como dioses entre mortales. Obtén los tomos de magia y domínalos para desarrollar tu pueblo, y prepárate para una batalla de proporciones épicas que determinará el porvenir de las eras."
+    ],
+    [
+      "p",
+      "Diseña a tus seguidores al combinar formas corporales, rasgos sociales y poderes arcanos. Crea lo que quieras, desde un clan de medianos caníbales hasta elfos lunares místicos, o recrea tu tropo fantástico favorito."
+    ],
+    [
+      "p",
+      "¡Busca tomos de magia poderosos para hechizar a tus ejércitos y hacer evolucionar a tu pueblo! Observa cómo tu pueblo se transforma en seres angelicales o en vástagos del caos para enfrentar a sus enemigos."
+    ],
+    [
+      "p",
+      "¡Alcanza la gloria mediante la dominación absoluta, las alianzas arteras o el conocimiento arcano definitivo, y graba tu legado en el mismísimo tejido del reino!"
+    ],
+    [
+      "p",
+      "Todas las decisiones abren la puerta a posibilidades nuevas y ventajas tácticas; la estrategia profunda de varias capas te permite probar tácticas nuevas o explorar nuevos poderes en cada turno."
+    ],
+    [
+      "p",
+      "Los combates tácticos por turnos hacen que tus ejércitos cobren vida y muestren su poderío en un entorno que moldeas con tus decisiones. Desde escaramuzas con monstruos errantes hasta grandes asedios con decenas de unidades en cada bando, además de la incorporación de un sistema de moral y otras características, cada batalla supondrá un nuevo desafío."
+    ],
+    [
+      "p",
+      "Hay una gran variedad de imperios, unidades y entornos que te permitirán volver a disfrutar de la aventura una y otra vez. Age of Wonders ahora se puede modificar más y tiene finales más abiertos que nunca en la historia de la franquicia."
+    ],
+    [
+      "p",
+      "¡Explora un reino nuevo con cada partida o crea el tuyo propio! Enfrenta nuevas variaciones y combinaciones de ubicaciones y características, desde yermos gélidos gobernados por reinas del hielo hasta ruinas desoladas por donde deambulan los dragones."
+    ],
+    [
+      "p",
+      "Un nuevo sistema de eventos proporciona niveles inesperados de narración en juegos 4X. Verás cómo tus decisiones moldean el mundo que te rodea, desde ciudades en expansión y ejércitos errantes hasta efectos mágicos que distorsionarán dicho mundo."
+    ],
+    [
+      "p",
+      "¡Guía a tu imperio hacia la gloria! Sin embargo, tu historia no termina con una victoria o una derrota. Asciende a tus gobernantes a un panteón del juego y desbloquea nuevas formas de personalizar tu experiencia aún más. ¡Encuéntrate con tus propias creaciones en las partidas siguientes como rivales o aliados potenciales, y experimenta del siguiente capítulo de tu propia historia!"
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "Cooperativo",
+    "Cooperativo en línea",
+    "Multijugador multiplataforma",
+    "Logros de Steam",
+    "Cromos de Steam",
+    "Steam Workshop",
+    "Comodidad de la cámara",
+    "Chat de voz convertido a texto",
+    "Chat de texto convertido a voz",
+    "Controles de volumen personalizados"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Francés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Alemán",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de España",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Coreano",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Polaco",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Ruso",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Chino simplificado",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit (version 21H1)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i5-2500K or AMD® Ryzen™ 5 1600X"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 670 (2GB) or AMD® Radeon™ HD 7870 (2GB) or Intel® Arc™ A380 (6GB) or Intel® Iris™ Xe G7 (Tiger Lake) or AMD® Radeon™ Vega 8"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        "35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p (30FPS)"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows® 10 Home 64 Bit or Windows® 11 (latest)"
+      ],
+      [
+        "Procesador",
+        "Intel® Core™ i7-9700K or AMD® Ryzen™ 5 5600X"
+      ],
+      [
+        "Memoria",
+        "16 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "Nvidia® GeForce™ GTX 1070 Ti (8GB) or AMD® Radeon™ RX 5700 XT (8GB)"
+      ],
+      [
+        "DirectX",
+        "Versión 12"
+      ],
+      [
+        "Almacenamiento",
+        ">35 GB de espacio disponible"
+      ],
+      [
+        "Notas adicionales",
+        "1080p (60FPS)"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/5fdcf024343a66fa879c17c6de096bdd79145aa5/ss_5fdcf024343a66fa879c17c6de096bdd79145aa5.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/5fdcf024343a66fa879c17c6de096bdd79145aa5/ss_5fdcf024343a66fa879c17c6de096bdd79145aa5.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/169b45571e6c351e9e28af10e949522fa64e661a/ss_169b45571e6c351e9e28af10e949522fa64e661a.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/169b45571e6c351e9e28af10e949522fa64e661a/ss_169b45571e6c351e9e28af10e949522fa64e661a.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/095080aa7557639425bb21567bab428d9c11bdf7/ss_095080aa7557639425bb21567bab428d9c11bdf7.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/095080aa7557639425bb21567bab428d9c11bdf7/ss_095080aa7557639425bb21567bab428d9c11bdf7.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/f132031b86990e307338e5276c400fef6ee39739/ss_f132031b86990e307338e5276c400fef6ee39739.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/f132031b86990e307338e5276c400fef6ee39739/ss_f132031b86990e307338e5276c400fef6ee39739.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/eb160d36854278259a61ccc8dcf5063e789ddebd/ss_eb160d36854278259a61ccc8dcf5063e789ddebd.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/eb160d36854278259a61ccc8dcf5063e789ddebd/ss_eb160d36854278259a61ccc8dcf5063e789ddebd.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/191dab209b13bd2cc96f817f86a2b697336d2198/ss_191dab209b13bd2cc96f817f86a2b697336d2198.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/191dab209b13bd2cc96f817f86a2b697336d2198/ss_191dab209b13bd2cc96f817f86a2b697336d2198.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/8448100546df346b8b680a66964a51678b2c7ca9/ss_8448100546df346b8b680a66964a51678b2c7ca9.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/8448100546df346b8b680a66964a51678b2c7ca9/ss_8448100546df346b8b680a66964a51678b2c7ca9.1920x1080.jpg?t=1794211708"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/b937f6b3d2a507452d47ebdc35bd8cecac182010/ss_b937f6b3d2a507452d47ebdc35bd8cecac182010.600x338.jpg?t=1794211708",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/b937f6b3d2a507452d47ebdc35bd8cecac182010/ss_b937f6b3d2a507452d47ebdc35bd8cecac182010.1920x1080.jpg?t=1794211708"
+    }
+  ],
+  "web": "https://www.paradoxinteractive.com/games/age-of-wonders-4",
+  "sistemas": [
+    "Windows"
+  ],
+  "edad": 13,
+  "igdbIntentado": true,
+  "igdb": 232571,
+  "youtube": [
+    {
+      "id": "OgV66Jdj23c",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "K2xc0AI9EOE",
+      "nombre": "Cinematic Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-28T09:31:28.799Z"
+}
