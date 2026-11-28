@@ -1,0 +1,262 @@
+{
+  "clave": "tony hawks pro skater 1 2",
+  "fuentes": [
+    "IsThereAnyDeal",
+    "Steam",
+    "IGDB"
+  ],
+  "itad": "018d937f-4407-73ae-8ff3-bdf549b39ff6",
+  "appid": "2395210",
+  "lanzamiento": "2020-09-04",
+  "desarrolladores": [
+    "Vicarious Visions",
+    "Iron Galaxy Studios"
+  ],
+  "editores": [
+    "Activision Publishing Inc.",
+    "Activision"
+  ],
+  "etiquetas": [
+    "Sports",
+    "Skateboarding",
+    "Multiplayer",
+    "Singleplayer",
+    "Arcade"
+  ],
+  "resenas": [
+    {
+      "fuente": "Steam",
+      "puntaje": 90,
+      "cantidad": 4523,
+      "url": "https://store.steampowered.com/app/2395210/"
+    }
+  ],
+  "tipo": "juego",
+  "ediciones": [
+    {
+      "packageid": "861722",
+      "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2",
+      "apps": [
+        {
+          "appid": "2395210",
+          "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2"
+        }
+      ],
+      "usd": 15.99,
+      "antes": 39.99,
+      "descuento": 60
+    },
+    {
+      "packageid": "928421",
+      "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2 - Edición Digital Deluxe",
+      "apps": [
+        {
+          "appid": "2395210",
+          "nombre": "Tony Hawk's™ Pro Skater™ 1 + 2"
+        }
+      ],
+      "usd": 19.99,
+      "antes": 49.99,
+      "descuento": 60
+    }
+  ],
+  "sueltos": {
+    "2395210": {
+      "usd": 15.99,
+      "gratis": false
+    }
+  },
+  "descripcion": "Juega a los juegos Tony Hawk's™ Pro Skater™ y Tony Hawk's™ Pro Skater™ 2 totalmente remasterizados en una colección épica, remodelada desde cero en increíble HD.",
+  "generos": [
+    "Deportes"
+  ],
+  "lanzamientoTexto": "3 OCT 2023",
+  "metacritic": null,
+  "steamDeck": "Jugable",
+  "nombreSteam": "Tony Hawk's™ Pro Skater™ 1 + 2",
+  "acerca": [
+    [
+      "p",
+      "Juega a los juegos Tony Hawk's™ Pro Skater™ y Tony Hawk's™ Pro Skater™ 2 totalmente remasterizados en una colección épica, remodelada desde cero en increíble HD."
+    ],
+    [
+      "p",
+      "Patina como el legendario Tony Hawk y la plantilla original de profesionales, además de los nuevos profesionales. Escucha la banda sonora que marcó toda una era y también la nueva música. Realiza impresionantes combos de trucos con el emblemático manejo de la serie Tony Hawk's™ Pro Skater™."
+    ],
+    [
+      "p",
+      "Juega a los modos originales y enfréntate a otros skaters en los modos locales de 2 jugadores. Presume de estilo y creatividad con las mejoras en las funciones Crear skater y Crear parque. Compite en los modos y clasificación Multijugador."
+    ]
+  ],
+  "caracteristicas": [
+    "Un jugador",
+    "Multijugador",
+    "JcJ",
+    "JcJ en línea",
+    "JcJ a pantalla (com)partida",
+    "Pantalla partida/compartida",
+    "Logros de Steam",
+    "Se recomienda usar un mando",
+    "Compatible con DualShock",
+    "Compatible con DualShock",
+    "Compatible con DualSense",
+    "Compatible con DualSense",
+    "Compat. parcial con mando",
+    "Steam Cloud"
+  ],
+  "idiomas": [
+    {
+      "nombre": "Inglés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Francés",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Italiano",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Alemán",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Español de España",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Japonés",
+      "voces": false,
+      "subtitulos": false
+    },
+    {
+      "nombre": "Español de Hispanoamérica",
+      "voces": true,
+      "subtitulos": true
+    },
+    {
+      "nombre": "Portugués de Brasil",
+      "voces": false,
+      "subtitulos": false
+    }
+  ],
+  "requisitos": {
+    "minimo": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD FX 6300 / Intel Core i3-4340"
+      ],
+      [
+        "Memoria",
+        "8 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD HD 7950 / Nvidia GTX 660"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "24 GB de espacio disponible"
+      ]
+    ],
+    "recomendado": [
+      [
+        "",
+        "Requiere un procesador y un sistema operativo de 64 bits"
+      ],
+      [
+        "SO",
+        "Windows 10"
+      ],
+      [
+        "Procesador",
+        "AMD Ryzen 5 1600X / Intel Core i5-2500K"
+      ],
+      [
+        "Memoria",
+        "12 GB de RAM"
+      ],
+      [
+        "Gráficos",
+        "AMD Radeon R9 390 / NVIDIA GTX 970"
+      ],
+      [
+        "DirectX",
+        "Versión 11"
+      ],
+      [
+        "Almacenamiento",
+        "24 GB de espacio disponible"
+      ]
+    ]
+  },
+  "capturas": [
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_de7db46ee5f6164dfdb467ad1659f7981e285824.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_de7db46ee5f6164dfdb467ad1659f7981e285824.1920x1080.jpg?t=1754500878"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_866a178397cc58e5578e39e19c2233b05528d720.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_866a178397cc58e5578e39e19c2233b05528d720.1920x1080.jpg?t=1754500878"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_ccc432a7c5c36283b40dc2460de7f0c40ad29e02.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_ccc432a7c5c36283b40dc2460de7f0c40ad29e02.1920x1080.jpg?t=1754500878"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_98797b019081480c5a788f9557355b87d4bfc8bf.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_98797b019081480c5a788f9557355b87d4bfc8bf.1920x1080.jpg?t=1754500878"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_ec25ed04ad1213a8fc7a5d7555ee661db7876eea.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_ec25ed04ad1213a8fc7a5d7555ee661db7876eea.1920x1080.jpg?t=1754500878"
+    },
+    {
+      "chica": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_7433f500da1eb802c52bb71b02fdb72326246651.600x338.jpg?t=1754500878",
+      "grande": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395210/ss_7433f500da1eb802c52bb71b02fdb72326246651.1920x1080.jpg?t=1754500878"
+    }
+  ],
+  "sistemas": [
+    "Windows"
+  ],
+  "igdbIntentado": true,
+  "igdb": 133887,
+  "youtube": [
+    {
+      "id": "glpwk-DmiuQ",
+      "nombre": "Announcement Trailer"
+    },
+    {
+      "id": "bGyp29PwGXs",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "bgGeMuyz7rg",
+      "nombre": "Trailer"
+    },
+    {
+      "id": "REZ4x7a48U8",
+      "nombre": "Launch Trailer"
+    }
+  ],
+  "v": 7,
+  "consultado": "2026-11-28T09:47:13.983Z"
+}
