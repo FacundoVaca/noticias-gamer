@@ -1,0 +1,157 @@
+{
+  "slug": "digital-foundry-pone-a-prueba-gta-6-en-xbox-one-mediante-la-nube-con-resultados",
+  "estado": "publicada",
+  "fecha": "2026-11-28T06:28:34.894Z",
+  "actualizada": "2026-11-28T06:28:34.894Z",
+  "titulo": "Digital Foundry pone a prueba GTA 6 en Xbox One mediante la nube con resultados sorprendentes",
+  "bajada": "El análisis técnico revela que retransmitir el juego de Rockstar Games en una consola de 2013 ofrece una latencia mínima y gráficos propios de la actual generación.",
+  "categoria": "xbox",
+  "etiquetas": [
+    "GTA 6",
+    "Xbox One",
+    "Xbox Cloud Gaming",
+    "Digital Foundry",
+    "Rockstar Games",
+    "Xbox Series S"
+  ],
+  "clave": [
+    "Digital Foundry analizó el rendimiento de GTA 6 en Xbox One retransmitido vía Xbox Cloud Gaming.",
+    "La latencia añadida por la nube es de solo 9,3 milisegundos frente a una Xbox Series S nativa.",
+    "Microsoft asigna un servidor completo de Xbox Series X por jugador para mantener el bitrate en 37 Mbps.",
+    "El principal problema detectado reside en la irregularidad del frame pacing entre 20 y 30 FPS."
+  ],
+  "cuerpo": [
+    {
+      "tipo": "p",
+      "texto": "Mientras la exigencia técnica de Grand Theft Auto VI parecía obligar de forma indefectible al salto generacional de hardware, la tecnología en la nube de Microsoft abrió un camino inesperado para los usuarios de Xbox One. Desde el lanzamiento del título el pasado 19 de noviembre de 2026 en PlayStation 5 y Xbox Series X|S, los poseedores de la veterana consola de 2013 pueden acceder al nuevo mundo abierto de Rockstar Games mediante Xbox Cloud Gaming."
+    },
+    {
+      "tipo": "p",
+      "texto": "Un exhaustivo examen realizado por el equipo especializado de Digital Foundry demostró que la experiencia no solo es completamente jugable, sino que supera ampliamente las expectativas iniciales en términos de fluidez de respuesta, fidelidad gráfica e infraestructura de servidores."
+    },
+    {
+      "tipo": "h2",
+      "texto": "La prueba de respuesta ante los controles de juego"
+    },
+    {
+      "tipo": "p",
+      "texto": "Uno de los mayores temores al retransmitir un título de la magnitud de GTA 6 reside en el retardo de entrada o input lag. El analista Thomas Morgan puso a prueba una Xbox One S conectada por cable Ethernet y fibra óptica, comparando su rendimiento directo frente a la ejecución nativa en consolas de generación actual."
+    },
+    {
+      "tipo": "p",
+      "texto": "Los resultados registraron un tiempo de respuesta de 184,5 milisegundos en la consola de anterior generación. Esta cifra se ubica sorprendentemente cerca de los 175,2 milisegundos que ofrece la versión ejecutada de forma local en Xbox Series S, marcando una brecha imperceptible que no arruina la conducción ni las secuencias de disparo en Leónida."
+    },
+    {
+      "tipo": "p",
+      "texto": "9,3 ms: Diferencia de latencia medida entre la versión nativa de Series S y el juego por streaming en Xbox One."
+    },
+    {
+      "tipo": "cita",
+      "texto": "Es una hazaña notable lo que Microsoft ha conseguido con la infraestructura de servidores para mitigar los problemas de latencia a un punto donde casi no molestan.",
+      "autor": "Thomas Morgan, analista técnico en Digital Foundry"
+    },
+    {
+      "tipo": "h2",
+      "texto": "Calidad gráfica y la asignación especial de servidores"
+    },
+    {
+      "tipo": "p",
+      "texto": "La retransmisión desde la plataforma de Microsoft toma como base la versión de Xbox Series S. Esto implica un renderizado nativo a 720p que se eleva a 1080p mediante la tecnología de reescalado FSR 4.1. Sorprendentemente, la imagen conserva efectos avanzados complejos como la iluminación global, los reflejos trazados por rayos y la representación de cabello por hebras individuales."
+    },
+    {
+      "tipo": "p",
+      "texto": "Para garantizar este nivel de detalle, la compañía norteamericana aplicó una estrategia particular en sus centros de datos. En lugar de dividir el rendimiento de un servidor basado en Xbox Series X entre dos usuarios de Series S como ocurre habitualmente, asignó una unidad completa a cada instancia individual de GTA 6. Esto permitió alcanzar un ancho de banda de hasta 37 Mbps en la transmisión a 1440p, superando los parámetros habituales vistos en otros lanzamientos exigentes del servicio."
+    },
+    {
+      "tipo": "tabla",
+      "texto": "Comparativa técnica entre la versión nativa de Series S y la versión transmitida a Xbox One",
+      "encabezados": [
+        "Parámetro",
+        "Xbox Series S (Nativo)",
+        "Xbox One (Vía Cloud)"
+      ],
+      "filas": [
+        [
+          "Resolución base",
+          "720p (reescalado FSR 4.1)",
+          "720p (reescalado a 1080p/1440p)"
+        ],
+        [
+          "Latencia de entrada",
+          "175,2 ms",
+          "184,5 ms (+9,3 ms)"
+        ],
+        [
+          "Tasa de bits máxima",
+          "N/A (Local)",
+          "Hasta 37 Mbps"
+        ],
+        [
+          "Asignación de servidor",
+          "Consola física local",
+          "Servidor dedicado de Series X"
+        ]
+      ]
+    },
+    {
+      "tipo": "h2",
+      "texto": "El frame pacing como punto débil de la retransmisión"
+    },
+    {
+      "tipo": "p",
+      "texto": "El punto donde la versión en la nube tropieza con mayor claridad se encuentra en la consistencia de los fotogramas por segundo. Aunque la tasa se mantiene en un rango de 20 a 30 FPS similar al hardware de Series S, la distribución del tiempo entre cuadros (frame pacing) resulta bastante irregular. La alternancia entre fotogramas rápidos de 16,7 milisegundos y caídas de hasta 50 milisegundos genera pequeños tirones visuales que restan suavidad al desplazamiento en vehículo."
+    },
+    {
+      "tipo": "contexto",
+      "texto": "Xbox Cloud Gaming permite ejecutar títulos de nueva generación en hardware anterior procesando el juego en servidores remotos. Para acceder en Xbox One se requiere una suscripción a Xbox Game Pass Ultimate y haber adquirido GTA 6 digitalmente."
+    },
+    {
+      "tipo": "p",
+      "texto": "A pesar de este inconveniente técnico, comunicado formalmente por los analistas a los ingenieros de Microsoft, la conclusión de Digital Foundry posiciona al streaming como la alternativa más económica y accesible para quienes no dispongan de hardware reciente. Con un desenfoque de movimiento eficaz para ocultar artefactos de compresión, la llegada a Vice City es una opción perfectamente viable sin gastar en una consola nueva."
+    }
+  ],
+  "apertura": "contraste",
+  "tipo": "noticia",
+  "formato": "estandar",
+  "preguntas": [
+    {
+      "p": "¿Se puede instalar GTA 6 directamente en el disco rígido de Xbox One?",
+      "r": "No, el juego no se ejecuta de forma nativa en Xbox One. Solamente se puede jugar mediante retransmisión en la nube a través de Xbox Cloud Gaming."
+    },
+    {
+      "p": "¿Qué versión del juego se transmite cuando se juega desde Xbox One?",
+      "r": "La señal que llega a la consola corresponde a la versión de Xbox Series S, manteniendo sus ajustes de calidad y efectos de trazado de rayos."
+    }
+  ],
+  "imagen": {
+    "archivo": "digital-foundry-pone-a-prueba-gta-6-en-xbox-one-mediante-la-nube-con-resultados.webp",
+    "origen": "pixabay",
+    "credito": {
+      "texto": "Imagen de 16671105 en Pixabay",
+      "url": "https://pixabay.com/photos/xbox-gamepad-controller-gaming-5209485/"
+    }
+  },
+  "modelo": "gemini-3.6-flash",
+  "fuentes": [
+    {
+      "medio": "3DJuegos",
+      "titulo": "Digital Foundry pone a prueba GTA 6 en XBOX One gracias a la nube de Microsoft. El resultado es mejor de lo esperado",
+      "url": "https://www.3djuegos.com/xbox-one/noticias/digital-foundry-pone-a-prueba-gta-6-xbox-one-gracias-a-nube-microsoft-resultado-mejor-esperado"
+    },
+    {
+      "medio": "Vandal",
+      "titulo": "As� se juega a GTA 6 en una XBOX One de 2013: Digital Foundry analiza los sorprendentes resultados",
+      "url": "https://vandal.elespanol.com/noticia/2026331023/asi-se-juega-a-gta-6-en-una-xbox-one-de-2013-digital-foundry-analiza-los-sorprendentes-resultados/"
+    },
+    {
+      "medio": "Pure Xbox",
+      "titulo": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+      "url": "https://www.purexbox.com/news/2026/11/the-results-are-very-very-impressive-digital-foundry-praises-gta-6-on-xbox-one"
+    },
+    {
+      "medio": "VGC",
+      "titulo": "GTA 6 on Xbox One is a ‘remarkable feat’, according to analysis",
+      "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/"
+    }
+  ]
+}
